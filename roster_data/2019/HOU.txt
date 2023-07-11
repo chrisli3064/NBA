@@ -1,0 +1,24 @@
+PLAYER,BIRTH_DATE
+Carmelo Anthony,1984-05-29
+Clint Capela,1994-05-18
+Michael Carter-Williams,1991-10-10
+Chris Chiozza,1995-11-21
+Marquese Chriss,1997-07-02
+Gary Clark,1994-11-16
+Vince Edwards,1996-04-05
+James Ennis III,1990-07-01
+Kenneth Faried,1989-11-19
+Eric Gordon,1988-12-25
+Gerald Green,1986-01-26
+James Harden,1989-08-26
+Isaiah Hartenstein,1998-05-05
+Nenê,1982-09-13
+Danuel House Jr.,1993-06-07
+Terrence Jones,1992-01-09
+Brandon Knight,1991-12-02
+James Nunnally,1990-07-14
+Chris Paul,1985-05-06
+Zhou Qi,1996-01-16
+Austin Rivers,1992-08-01
+Iman Shumpert,1990-06-26
+P.J. Tucker,1985-05-05

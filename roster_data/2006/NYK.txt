@@ -1,0 +1,20 @@
+PLAYER,BIRTH_DATE
+Trevor Ariza,1985-06-30
+Matt Barnes,1980-03-09
+Jackie Butler,1985-03-10
+Jamal Crawford,1980-03-20
+Eddy Curry,1982-12-05
+Antonio Davis,1968-10-31
+Steve Francis,1977-02-21
+Channing Frye,1983-05-17
+Anfernee Hardaway,1971-07-18
+Jerome James,1975-11-17
+David Lee,1983-04-29
+Stephon Marbury,1977-02-20
+Quentin Richardson,1980-04-13
+Nate Robinson,1984-05-31
+Jalen Rose,1973-01-30
+Malik Rose,1974-11-23
+Maurice Taylor,1976-10-30
+Ime Udoka,1977-08-09
+Qyntel Woods,1981-02-16

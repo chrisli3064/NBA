@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+Antonio Anderson,1985-06-05
+Ryan Bowen,1975-11-20
+Nick Collison,1980-10-26
+Kevin Durant,1988-09-29
+Jeff Green,1986-08-28
+James Harden,1989-08-26
+Serge Ibaka,1989-09-18
+Nenad Krstić,1983-07-25
+Shaun Livingston,1985-09-11
+Eric Maynor,1987-06-11
+Byron Mullens,1989-02-14
+Kevin Ollie,1972-12-27
+Thabo Sefolosha,1984-05-02
+Etan Thomas,1978-04-01
+Kyle Weaver,1986-02-18
+Russell Westbrook,1988-11-12
+D.J. White,1986-08-31
+Mike Wilks,1979-05-07

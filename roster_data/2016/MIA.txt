@@ -1,0 +1,21 @@
+PLAYER,BIRTH_DATE
+Chris Andersen,1978-07-07
+Chris Bosh,1984-03-24
+Mario Chalmers,1986-05-19
+Luol Deng,1985-04-16
+Goran Dragić,1986-05-06
+James Ennis III,1990-07-01
+Gerald Green,1986-01-26
+Udonis Haslem,1980-06-09
+Joe Johnson,1981-06-29
+Tyler Johnson,1992-05-07
+Josh McRoberts,1987-02-28
+Josh Richardson,1993-09-15
+Jarnell Stokes,1994-01-07
+Amar'e Stoudemire,1982-11-16
+Beno Udrih,1982-07-05
+Dwyane Wade,1982-01-17
+Briante Weber,1992-12-29
+Hassan Whiteside,1989-06-13
+Justise Winslow,1996-03-26
+Dorell Wright,1985-12-02

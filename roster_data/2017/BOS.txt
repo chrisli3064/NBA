@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Avery Bradley,1990-11-26
+Jaylen Brown,1996-10-24
+Jae Crowder,1990-07-06
+Gerald Green,1986-01-26
+Al Horford,1986-06-03
+Demetrius Jackson,1994-09-07
+Jonas Jerebko,1987-03-02
+Amir Johnson,1987-05-01
+Jordan Mickey,1994-07-09
+Kelly Olynyk,1991-04-19
+Terry Rozier,1994-03-17
+Marcus Smart,1994-03-06
+Isaiah Thomas,1989-02-07
+James Young,1995-08-16
+Tyler Zeller,1990-01-17

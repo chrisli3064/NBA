@@ -1,0 +1,21 @@
+PLAYER,BIRTH_DATE
+Chris Anstey,1975-01-01
+B.J. Armstrong,1967-09-09
+Corey Benjamin,1978-02-24
+Elton Brand,1979-03-11
+Randy Brown,1968-05-22
+Chris Carr,1974-03-12
+Kornél Dávid,1971-10-22
+Hersey Hawkins,1966-09-29
+Fred Hoiberg,1972-10-15
+Lari Ketner,1977-02-01
+Toni Kukoč,1968-09-18
+Rusty LaRue,1973-12-10
+Matt Maloney,1971-12-06
+Will Perdue,1965-08-29
+Khalid Reeves,1972-07-15
+Michael Ruffin,1977-01-21
+Dickey Simpkins,1972-04-06
+John Starks,1965-08-10
+Dedric Willoughby,1974-05-27
+Metta World Peace,1979-11-13

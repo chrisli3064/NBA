@@ -1,0 +1,30 @@
+PLAYER,BIRTH_DATE
+Deni Avdija,2001-01-03
+Joel Ayayi,2000-03-05
+Bradley Beal,1993-06-28
+Dāvis Bertāns,1992-11-12
+Thomas Bryant,1997-07-31
+Kentavious Caldwell-Pope,1993-02-18
+Vernon Carey Jr.,2001-02-25
+Spencer Dinwiddie,1993-04-06
+Jaime Echenique,1997-04-27
+Daniel Gafford,1998-10-01
+Anthony Gill,1992-10-17
+Jordan Goodwin,1998-10-23
+Rui Hachimura,1998-02-08
+Montrezl Harrell,1994-01-26
+Aaron Holiday,1996-09-30
+Alize Johnson,1996-04-22
+Corey Kispert,1999-03-03
+Kyle Kuzma,1995-07-24
+Greg Monroe,1990-06-04
+Raul Neto,1992-05-19
+Kristaps Porziņģis,1995-08-02
+Tomáš Satoranský,1991-10-30
+Jordan Schakel,1998-06-13
+Ish Smith,1988-07-05
+Craig Sword,1994-01-16
+Isaiah Todd,2001-10-17
+Brad Wanamaker,1989-07-25
+Tremont Waters,1998-01-10
+Cassius Winston,1998-02-28

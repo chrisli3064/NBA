@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Ray Allen,1975-07-20
+Andre Brown,1981-05-12
+Nick Collison,1980-10-26
+Desmon Farmer,1981-10-07
+Danny Fortson,1976-03-27
+Mickaël Gelabale,1983-05-22
+Andreas Glyniadakis,1981-08-21
+Rashard Lewis,1979-08-08
+Randy Livingston,1975-04-02
+Johan Petro,1986-01-27
+Luke Ridnour,1981-02-13
+Mouhamed Sene,1986-05-12
+Earl Watson,1979-06-12
+Chris Wilcox,1982-09-03
+Damien Wilkins,1980-01-11
+Mike Wilks,1979-05-07

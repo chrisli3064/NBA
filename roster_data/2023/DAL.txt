@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Reggie Bullock,1991-03-16
+Dwight Powell,1991-07-20
+Tim Hardaway Jr.,1992-03-16
+Christian Wood,1995-09-27
+Luka Dončić,1999-02-28
+Josh Green,2000-11-16
+Jaden Hardy,2002-07-05
+Frank Ntilikina,1998-07-28
+Dāvis Bertāns,1992-11-12
+JaVale McGee,1988-01-19
+Theo Pinson,1995-11-05
+Maxi Kleber,1992-01-29
+McKinley Wright IV (TW),1998-10-25
+Kyrie Irving,1992-03-23
+Justin Holiday,1989-04-05
+A.J. Lawson (TW),2000-07-15
+Markieff Morris,1989-09-02

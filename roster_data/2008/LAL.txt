@@ -1,0 +1,20 @@
+PLAYER,BIRTH_DATE
+Trevor Ariza,1985-06-30
+Kwame Brown,1982-03-10
+Kobe Bryant,1978-08-23
+Andrew Bynum,1987-10-27
+Brian Cook,1980-12-04
+Javaris Crittenton,1987-12-31
+Maurice Evans,1978-11-08
+Jordan Farmar,1986-11-30
+Derek Fisher,1974-08-09
+Pau Gasol,1980-07-06
+D.J. Mbenga,1980-12-30
+Coby Karl,1983-03-06
+Chris Mihm,1979-07-16
+Ira Newble,1975-01-20
+Lamar Odom,1979-11-06
+Vladimir Radmanović,1980-11-19
+Ronny Turiaf,1983-01-13
+Sasha Vujačić,1984-03-08
+Luke Walton,1980-03-28

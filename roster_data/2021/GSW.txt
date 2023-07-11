@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+Kent Bazemore,1989-07-01
+Jordan Bell,1995-01-07
+Marquese Chriss,1997-07-02
+Stephen Curry,1988-03-14
+Draymond Green,1990-03-04
+Damion Lee,1992-10-21
+Kevon Looney,1996-02-06
+Nico Mannion,2001-03-14
+Mychal Mulder,1994-06-12
+Kelly Oubre Jr.,1995-12-09
+Eric Paschall,1996-11-04
+Gary Payton II,1992-12-01
+Jordan Poole,1999-06-19
+Alen Smailagić,2000-08-18
+Juan Toscano-Anderson,1993-04-10
+Brad Wanamaker,1989-07-25
+Andrew Wiggins,1995-02-23
+James Wiseman,2001-03-31

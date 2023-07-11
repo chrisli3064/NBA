@@ -1,0 +1,25 @@
+PLAYER,BIRTH_DATE
+LaMarcus Aldridge,1985-07-19
+DeAndre' Bembry,1994-07-04
+Bruce Brown,1996-08-15
+Jevon Carter,1995-09-14
+Nic Claxton,1999-04-17
+Seth Curry,1990-08-23
+Goran Dragić,1986-05-06
+Andre Drummond,1993-08-10
+David Duke Jr.,1999-10-13
+Kevin Durant,1988-09-29
+Kessler Edwards,2000-08-09
+James Ennis III,1990-07-01
+Wenyen Gabriel,1997-03-26
+Langston Galloway,1991-12-09
+Blake Griffin,1989-03-16
+James Harden,1989-08-26
+Joe Harris,1991-09-06
+Shaquille Harrison,1993-10-06
+Kyrie Irving,1992-03-23
+James Johnson,1987-02-20
+Patty Mills,1988-08-11
+Paul Millsap,1985-02-10
+Day'Ron Sharpe,2001-11-06
+Cam Thomas,2001-10-13

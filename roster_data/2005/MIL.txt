@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+Calvin Booth,1976-05-07
+Marcus Fizer,1978-08-10
+Dan Gadzuric,1978-02-02
+Reece Gaines,1981-01-07
+Kendall Gill,1968-05-25
+Anthony Goldwire,1971-09-06
+Zendon Hamilton,1975-04-27
+Eddie House,1978-05-14
+Mike James,1975-06-23
+Toni Kukoč,1968-09-18
+Desmond Mason,1977-10-11
+Zaza Pachulia,1984-02-10
+Michael Redd,1979-08-24
+Daniel Santiago,1976-06-24
+Joe Smith,1975-07-26
+Erick Strickland,1973-11-25
+Keith Van Horn,1975-10-23
+Mo Williams,1982-12-19

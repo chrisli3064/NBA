@@ -1,0 +1,20 @@
+PLAYER,BIRTH_DATE
+Charlie Bell,1979-03-12
+Jud Buechler,1968-06-19
+Joe Crispin,1979-07-18
+Vinny Del Negro,1966-08-09
+Tony Delk,1974-01-28
+Alton Ford,1981-05-29
+Tom Gugliotta,1969-12-19
+Anfernee Hardaway,1971-07-18
+Joe Johnson,1981-06-29
+Dan Majerle,1965-09-09
+Stephon Marbury,1977-02-20
+Shawn Marion,1978-05-07
+Bo Outlaw,1971-04-13
+Milt Palacio,1978-02-07
+Rodney Rogers,1971-06-20
+Daniel Santiago,1976-06-24
+Jake Tsakalidis,1979-06-10
+Jake Voskuhl,1977-11-01
+John Wallace,1974-02-09

@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Trey Murphy III,2000-06-18
+Jonas Valančiūnas,1992-05-06
+Naji Marshall,1998-01-24
+CJ McCollum,1991-09-19
+Herbert Jones,1998-10-06
+Larry Nance Jr.,1993-01-01
+Jose Alvarado,1998-04-12
+Dyson Daniels,2003-03-17
+Jaxson Hayes,2000-05-23
+Brandon Ingram,1997-09-02
+Willy Hernangómez,1994-05-27
+Zion Williamson,2000-07-06
+Kira Lewis Jr.,2001-04-06
+Garrett Temple,1986-05-08
+Josh Richardson,1993-09-15
+Dereon Seabron (TW),2000-05-26
+E.J. Liddell (TW),2000-12-18

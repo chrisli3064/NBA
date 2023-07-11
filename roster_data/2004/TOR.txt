@@ -1,0 +1,24 @@
+PLAYER,BIRTH_DATE
+Robert Archibald,1980-03-29
+Mengke Bateer,1975-11-20
+Lonny Baxter,1979-01-27
+Corie Blount,1969-01-04
+Chris Bosh,1984-03-24
+Michael Bradley,1979-04-18
+Rick Brunson,1972-06-14
+Vince Carter,1977-01-26
+Michael Curry,1968-08-22
+Antonio Davis,1968-10-31
+Dion Glover,1978-10-22
+Chris Jefferies,1980-02-13
+Donyell Marshall,1973-05-18
+Roger Mason,1980-09-10
+Jérôme Moïso,1978-06-15
+Lamond Murray,1973-04-20
+Milt Palacio,1978-02-07
+Jannero Pargo,1979-10-22
+Morris Peterson,1977-08-26
+Jalen Rose,1973-01-30
+Rod Strickland,1966-07-11
+Alvin Williams,1974-08-06
+Jerome Williams,1973-05-10

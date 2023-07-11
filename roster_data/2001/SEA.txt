@@ -1,0 +1,15 @@
+PLAYER,BIRTH_DATE
+Vin Baker,1971-11-23
+Brent Barry,1971-12-31
+Emanual Davis,1968-08-27
+Pervis Ellison,1967-04-03
+Patrick Ewing,1962-08-05
+Rashard Lewis,1979-08-08
+Desmond Mason,1977-10-11
+Jelani McCoy,1977-12-06
+Olumide Oyedeji,1981-05-11
+Ruben Patterson,1975-07-31
+Gary Payton,1968-07-23
+Shammond Williams,1975-04-05
+David Wingate,1963-12-15
+Rubén Wolkowyski,1973-09-30

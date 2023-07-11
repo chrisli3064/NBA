@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+DeSagana Diop,1982-01-30
+Drew Gooden,1981-09-24
+Lucious Harris,1970-12-18
+Zydrunas Ilgauskas,1975-06-05
+Luke Jackson,1981-11-06
+LeBron James,1984-12-30
+Jeff McInnis,1974-10-22
+Jérôme Moïso,1978-06-15
+Ira Newble,1975-01-20
+Sasha Pavlović,1983-11-15
+Eric Snow,1973-04-24
+Robert Traylor,1977-02-01
+Anderson Varejão,1982-09-28
+Dajuan Wagner,1983-02-04
+Jiří Welsch,1980-01-27
+Scott Williams,1968-03-21

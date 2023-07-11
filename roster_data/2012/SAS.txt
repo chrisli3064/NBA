@@ -1,0 +1,22 @@
+PLAYER,BIRTH_DATE
+James Anderson,1989-03-25
+DeJuan Blair,1989-04-22
+Matt Bonner,1980-04-05
+Derrick Byars,1984-04-25
+Eric Dawson,1984-07-07
+Justin Dentmon,1985-09-05
+Boris Diaw,1982-04-16
+Ike Diogu,1983-09-11
+Tim Duncan,1976-04-25
+T.J. Ford,1983-03-24
+Manu Ginóbili,1977-07-28
+Danny Green,1987-06-22
+Stephen Jackson,1978-04-05
+Richard Jefferson,1980-06-21
+Cory Joseph,1991-08-20
+Kawhi Leonard,1991-06-29
+Patty Mills,1988-08-11
+Gary Neal,1984-10-03
+Tony Parker,1982-05-17
+Tiago Splitter,1985-01-01
+Malcolm Thomas,1988-11-08

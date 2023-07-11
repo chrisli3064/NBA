@@ -1,0 +1,24 @@
+PLAYER,BIRTH_DATE
+Eric Bledsoe,1989-12-09
+Devin Booker,1996-10-30
+Lorenzo Brown,1990-08-26
+Chase Budinger,1988-05-22
+Tyson Chandler,1982-10-02
+Bryce Cotton,1992-08-11
+Archie Goodwin,1994-08-17
+Kris Humphries,1985-02-06
+Cory Jefferson,1990-12-26
+John Jenkins,1991-03-06
+Orlando Johnson,1989-03-11
+Brandon Knight,1991-12-02
+Alex Len,1993-06-16
+Jon Leuer,1989-05-14
+Jordan McRae,1991-03-28
+Markieff Morris,1989-09-02
+Phil Pressey,1991-02-17
+Ronnie Price,1983-06-21
+Mirza Teletović,1985-09-18
+P.J. Tucker,1985-05-05
+T.J. Warren,1993-09-05
+Sonny Weems,1986-07-08
+Alan Williams,1993-01-28

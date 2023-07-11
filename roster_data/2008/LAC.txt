@@ -1,0 +1,21 @@
+PLAYER,BIRTH_DATE
+Andre Barrett,1982-02-21
+Elton Brand,1979-03-11
+Sam Cassell,1969-11-18
+Paul Davis,1984-07-21
+Guillermo Díaz,1985-03-04
+Dan Dickau,1978-09-16
+Nick Fazekas,1985-06-17
+Richie Frahm,1977-08-14
+Chris Kaman,1982-04-28
+Brevin Knight,1975-11-08
+Corey Maggette,1979-11-12
+Cuttino Mobley,1975-09-01
+Smush Parker,1981-06-01
+Ruben Patterson,1975-07-31
+Josh Powell,1983-01-25
+Quinton Ross,1981-04-30
+Tim Thomas,1977-02-26
+Al Thornton,1983-12-07
+Aaron Williams,1971-10-02
+Marcus Williams,1986-11-18

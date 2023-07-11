@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Bruno Caboclo,1995-09-21
+DeMar DeRozan,1989-08-07
+Landry Fields,1988-06-27
+Tyler Hansbrough,1985-11-03
+Chuck Hayes,1983-06-11
+Amir Johnson,1987-05-01
+James Johnson,1987-02-20
+Kyle Lowry,1986-03-25
+Lucas Nogueira,1992-07-26
+Patrick Patterson,1989-03-14
+Terrence Ross,1991-02-05
+Greg Stiemsma,1985-09-26
+Jonas Valančiūnas,1992-05-06
+Greivis Vásquez,1987-01-16
+Lou Williams,1986-10-27

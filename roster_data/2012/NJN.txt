@@ -1,0 +1,23 @@
+PLAYER,BIRTH_DATE
+Keith Bogans,1980-05-12
+MarShon Brooks,1989-01-26
+Andre Emmett,1982-08-27
+Jordan Farmar,1986-11-30
+Sundiata Gaines,1986-04-18
+Gerald Green,1986-01-26
+Dennis Horner,1988-02-05
+Kris Humphries,1985-02-06
+Damion James,1987-10-07
+Armon Johnson,1989-02-23
+Brook Lopez,1988-04-01
+Anthony Morrow,1985-09-27
+Mehmet Okur,1979-05-26
+Larry Owens,1983-01-08
+Johan Petro,1986-01-27
+Jerry Smith,1987-09-26
+DeShawn Stevenson,1981-04-03
+Gerald Wallace,1982-07-23
+Deron Williams,1984-06-26
+Jordan Williams,1990-10-11
+Shawne Williams,1986-02-16
+Shelden Williams,1983-10-21

@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+Devin Harris,1983-02-27
+Al Horford,1986-06-03
+John Jenkins,1991-03-06
+Ivan Johnson,1984-04-10
+Dahntay Jones,1980-12-27
+Kyle Korver,1981-03-17
+Shelvin Mack,1990-04-22
+Anthony Morrow,1985-09-27
+Zaza Pachulia,1984-02-10
+Jannero Pargo,1979-10-22
+Johan Petro,1986-01-27
+Mike Scott,1988-07-16
+Josh Smith,1985-12-05
+DeShawn Stevenson,1981-04-03
+Jeff Teague,1988-06-10
+Anthony Tolliver,1985-06-01
+Jeremy Tyler,1991-06-21
+Lou Williams,1986-10-27

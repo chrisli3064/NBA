@@ -1,0 +1,24 @@
+PLAYER,BIRTH_DATE
+Bradley Beal,1993-06-28
+Dāvis Bertāns,1992-11-12
+Isaac Bonga,1999-11-08
+Troy Brown Jr.,1999-07-28
+Thomas Bryant,1997-07-31
+Chris Chiozza,1995-11-21
+Jerian Grant,1992-10-09
+Rui Hachimura,1998-02-08
+Ian Mahinmi,1986-11-05
+Garrison Mathews,1996-10-24
+Jordan McRae,1991-03-28
+C.J. Miles,1987-03-18
+Shabazz Napier,1991-07-14
+Anžejs Pasečņiks,1995-12-20
+Gary Payton II,1992-12-01
+Jerome Robinson,1997-02-22
+Justin Robinson,1997-10-12
+Admiral Schofield,1997-03-30
+Ish Smith,1988-07-05
+Isaiah Thomas,1989-02-07
+Jarrod Uthoff,1993-05-19
+Moritz Wagner,1997-04-26
+Johnathan Williams,1995-05-22

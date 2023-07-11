@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Alex Acker,1983-01-21
+Arron Afflalo,1985-10-15
+Chauncey Billups,1976-09-25
+Kwame Brown,1982-03-10
+Will Bynum,1983-01-04
+Richard Hamilton,1978-02-14
+Walter Herrmann,1979-06-26
+Allen Iverson,1975-06-07
+Amir Johnson,1987-05-01
+Jason Maxiell,1983-02-18
+Antonio McDyess,1974-09-07
+Tayshaun Prince,1980-02-28
+Walter Sharpe,1986-07-18
+Rodney Stuckey,1986-04-21
+Rasheed Wallace,1974-09-17

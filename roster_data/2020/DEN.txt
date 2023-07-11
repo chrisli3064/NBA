@@ -1,0 +1,22 @@
+PLAYER,BIRTH_DATE
+Will Barton,1991-01-06
+Keita Bates-Diop,1996-01-23
+Malik Beasley,1996-11-26
+Bol Bol,1999-11-16
+Vlatko Čančar,1997-04-10
+Tyler Cook,1997-09-23
+Torrey Craig,1990-12-19
+Troy Daniels,1991-07-15
+PJ Dozier,1996-10-25
+Jerami Grant,1994-03-12
+Gary Harris,1994-09-14
+Juancho Hernangómez,1995-09-28
+Nikola Jokić,1995-02-19
+Jordan McRae,1991-03-28
+Paul Millsap,1985-02-10
+Monte Morris,1995-06-27
+Jamal Murray,1997-02-23
+Mason Plumlee,1990-03-05
+Michael Porter Jr.,1998-06-29
+Jarred Vanderbilt,1999-04-03
+Noah Vonleh,1995-08-24

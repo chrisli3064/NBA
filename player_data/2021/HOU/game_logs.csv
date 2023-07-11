@@ -1,0 +1,1010 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2020-12-25,33-045,MIL,HOME,GSW,W (+39),0,13:27,4,6,.667,3,3,1.000,2,2,1.000,0,0,0,1,0,0,0,1,13,10.7,+10,D.J. Augustin
+2020-12-27,33-047,MIL,AWAY,NYK,L (-20),0,13:45,0,6,.000,0,4,.000,2,2,1.000,0,1,1,1,0,0,1,0,2,-2.2,-19,D.J. Augustin
+2020-12-29,33-049,MIL,AWAY,MIA,W (+47),0,20:44,3,5,.600,2,4,.500,2,2,1.000,3,1,4,2,0,0,1,0,10,10.5,+21,D.J. Augustin
+2020-12-30,33-050,MIL,AWAY,MIA,L (-11),0,12:43,1,5,.200,1,3,.333,0,0,,0,0,0,1,1,0,1,1,3,0.2,-12,D.J. Augustin
+2021-01-01,33-052,MIL,HOME,CHI,W (+30),0,18:49,0,4,.000,0,4,.000,0,0,,0,1,1,2,1,0,2,0,0,-2.1,+14,D.J. Augustin
+2021-01-04,33-055,MIL,HOME,DET,W (+10),0,18:38,4,5,.800,3,3,1.000,0,0,,0,1,1,6,0,0,1,1,11,12.2,+10,D.J. Augustin
+2021-01-06,33-057,MIL,HOME,DET,W (+15),0,22:20,2,4,.500,2,4,.500,2,2,1.000,0,4,4,6,1,0,1,2,8,10.6,+12,D.J. Augustin
+2021-01-08,33-059,MIL,HOME,UTA,L (-13),0,18:36,0,4,.000,0,3,.000,0,0,,0,0,0,1,0,0,0,1,0,-2.5,-8,D.J. Augustin
+2021-01-09,33-060,MIL,HOME,CLE,W (+10),0,20:13,2,7,.286,1,4,.250,0,0,,2,0,2,5,0,0,1,0,5,4.8,+7,D.J. Augustin
+2021-01-11,33-062,MIL,AWAY,ORL,W (+22),0,20:35,2,6,.333,1,3,.333,3,3,1.000,0,0,0,4,2,0,2,0,8,7.4,+8,D.J. Augustin
+2021-01-13,33-064,MIL,AWAY,DET,W (+9),0,20:51,2,4,.500,2,3,.667,0,0,,1,0,1,4,0,0,3,0,6,4.5,+5,D.J. Augustin
+2021-01-15,33-066,MIL,HOME,DAL,W (+3),0,21:00,2,4,.500,0,1,.000,3,3,1.000,1,1,2,1,0,0,0,0,7,6.7,+2,D.J. Augustin
+2021-01-18,33-069,MIL,AWAY,BRK,L (-2),0,19:05,0,7,.000,0,3,.000,2,2,1.000,0,0,0,0,0,0,0,0,2,-2.9,+8,D.J. Augustin
+2021-01-21,33-072,MIL,HOME,LAL,L (-7),0,17:09,2,5,.400,0,1,.000,0,0,,0,2,2,3,2,0,1,0,4,5.0,-4,D.J. Augustin
+2021-01-24,33-075,MIL,HOME,ATL,W (+14),0,15:43,3,6,.500,3,4,.750,0,0,,0,1,1,3,0,0,0,0,9,8.4,+11,D.J. Augustin
+2021-01-27,33-078,MIL,AWAY,TOR,W (+7),0,13:45,3,7,.429,3,6,.500,0,0,,1,0,1,1,1,0,0,1,9,7.3,-3,D.J. Augustin
+2021-01-29,33-080,MIL,AWAY,NOP,L (-5),0,10:07,1,2,.500,0,0,,0,0,,0,1,1,3,0,0,1,0,2,2.4,-12,D.J. Augustin
+2021-01-30,33-081,MIL,AWAY,CHO,L (-12),0,4:22,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-21,D.J. Augustin
+2021-02-01,33-083,MIL,HOME,POR,W (+28),0,17:34,4,7,.571,4,6,.667,1,2,.500,0,5,5,6,1,0,1,0,13,15.0,+22,D.J. Augustin
+2021-02-03,33-085,MIL,HOME,IND,W (+20),0,19:00,1,6,.167,1,5,.200,3,3,1.000,0,0,0,4,0,0,1,0,6,4.0,+17,D.J. Augustin
+2021-02-05,33-087,MIL,AWAY,CLE,W (+18),0,18:27,1,5,.200,1,3,.333,4,4,1.000,1,1,2,3,0,0,1,3,7,4.8,+4,D.J. Augustin
+2021-02-06,33-088,MIL,AWAY,CLE,W (+25),0,17:29,3,5,.600,1,3,.333,2,2,1.000,0,1,1,3,2,0,1,1,9,9.7,+9,D.J. Augustin
+2021-02-08,33-090,MIL,AWAY,DEN,W (+13),0,20:35,2,6,.333,1,5,.200,0,0,,1,0,1,5,0,0,2,2,5,3.0,+1,D.J. Augustin
+2021-02-10,33-092,MIL,AWAY,PHO,L (-1),0,18:28,2,9,.222,2,4,.500,0,0,,0,0,0,0,0,0,0,0,6,0.5,-16,D.J. Augustin
+2021-02-12,33-094,MIL,AWAY,UTA,L (-14),0,29:30,2,7,.286,1,4,.250,7,9,.778,0,1,1,3,2,1,0,4,12,10.6,+4,D.J. Augustin
+2021-02-14,33-096,MIL,AWAY,OKC,L (-5),0,21:43,0,3,.000,0,3,.000,1,2,.500,0,0,0,7,0,0,0,1,1,3.0,-13,D.J. Augustin
+2021-02-16,33-098,MIL,HOME,TOR,L (-11),0,15:11,0,2,.000,0,2,.000,0,0,,1,1,2,6,0,0,1,0,0,2.8,+2,D.J. Augustin
+2021-02-18,33-100,MIL,HOME,TOR,L (-14),0,24:59,3,9,.333,3,7,.429,0,0,,0,3,3,1,0,0,0,1,9,5.1,-16,D.J. Augustin
+2021-02-19,33-101,MIL,HOME,OKC,W (+13),1,32:28,4,8,.500,3,7,.429,0,0,,0,2,2,5,1,0,2,2,11,9.3,+13,D.J. Augustin
+2021-02-21,33-103,MIL,HOME,SAC,W (+13),1,27:25,2,10,.200,0,5,.000,0,0,,0,1,1,5,2,0,2,1,4,1.2,+10,D.J. Augustin
+2021-02-23,33-105,MIL,HOME,MIN,W (+27),1,25:49,4,6,.667,2,4,.500,0,0,,0,2,2,5,1,0,0,2,10,11.7,+10,D.J. Augustin
+2021-02-25,33-107,MIL,HOME,NOP,W (+4),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,D.J. Augustin
+2021-02-28,33-110,MIL,HOME,LAC,W (+5),1,26:23,2,5,.400,2,4,.500,0,0,,0,2,2,2,1,0,2,0,6,4.3,+17,D.J. Augustin
+2021-03-02,33-112,MIL,HOME,DEN,L (-31),1,26:52,2,5,.400,2,5,.400,1,1,1.000,0,1,1,3,0,0,0,1,7,6.3,-4,D.J. Augustin
+2021-03-04,33-114,MIL,AWAY,MEM,W (+1),1,20:41,1,3,.333,1,3,.333,0,0,,0,2,2,1,1,0,2,1,3,1.2,+2,D.J. Augustin
+2021-03-11,33-121,MIL,HOME,NYK,W (+33),0,18:13,4,4,1.000,3,3,1.000,1,1,1.000,0,3,3,2,1,0,2,2,12,11.3,+12,D.J. Augustin
+2021-03-13,33-123,MIL,AWAY,WAS,W (+6),0,16:28,1,1,1.000,0,0,,0,0,,0,0,0,2,0,0,1,0,2,2.1,+11,D.J. Augustin
+2021-03-15,33-125,MIL,AWAY,WAS,W (+11),0,13:25,2,4,.500,1,3,.333,0,0,,0,1,1,3,0,0,1,4,5,2.8,-2,D.J. Augustin
+2021-03-19,33-129,HOU,HOME,DET,L (-13),0,20:24,2,6,.333,1,2,.500,2,2,1.000,2,1,3,3,1,0,0,0,7,8.4,+1,D.J. Augustin
+2021-03-22,33-132,HOU,HOME,TOR,W (+18),0,17:58,1,4,.250,0,3,.000,2,2,1.000,0,2,2,3,1,0,1,0,4,4.3,-5,D.J. Augustin
+2021-03-24,33-134,HOU,HOME,CHO,L (-25),0,23:33,2,8,.250,1,6,.167,0,0,,0,2,2,7,1,0,3,3,5,2.5,-23,D.J. Augustin
+2021-03-26,33-136,HOU,AWAY,MIN,L (-6),0,20:03,4,5,.800,2,3,.667,3,3,1.000,0,2,2,4,0,0,4,0,13,10.5,-8,D.J. Augustin
+2021-03-27,33-137,HOU,AWAY,MIN,W (+22),0,24:17,8,14,.571,2,5,.400,2,2,1.000,1,2,3,4,0,0,1,2,20,15.7,+13,D.J. Augustin
+2021-03-29,33-139,HOU,HOME,MEM,L (-10),0,20:00,4,7,.571,2,4,.500,3,3,1.000,1,1,2,5,1,0,2,2,13,12.4,-10,D.J. Augustin
+2021-03-31,33-141,HOU,AWAY,BRK,L (-12),0,17:41,3,5,.600,3,4,.750,2,3,.667,0,5,5,4,0,0,1,3,11,10.4,-4,D.J. Augustin
+2021-04-02,33-143,HOU,AWAY,BOS,L (-16),0,18:40,1,8,.125,0,4,.000,6,6,1.000,0,0,0,1,1,0,3,1,8,1.1,-5,D.J. Augustin
+2021-04-04,33-145,HOU,HOME,NOP,L (-7),0,19:41,4,8,.500,1,3,.333,0,0,,1,5,6,5,0,0,3,0,9,7.7,+6,D.J. Augustin
+2021-04-05,33-146,HOU,HOME,PHO,L (-3),0,22:32,3,5,.600,1,2,.500,4,4,1.000,0,1,1,6,0,0,0,1,11,12.8,-6,D.J. Augustin
+2021-04-07,33-148,HOU,HOME,DAL,W (+9),0,18:41,1,9,.111,1,5,.200,0,0,,2,1,3,2,0,0,0,2,3,-0.6,-11,D.J. Augustin
+2021-04-09,33-150,HOU,AWAY,LAC,L (-17),0,19:03,1,5,.200,1,2,.500,3,3,1.000,0,0,0,5,1,0,2,2,6,4.6,-13,D.J. Augustin
+2021-04-10,33-151,HOU,AWAY,GSW,L (-16),0,22:24,5,9,.556,3,7,.429,6,6,1.000,0,3,3,6,0,0,0,1,19,19.4,-12,D.J. Augustin
+2021-04-12,33-153,HOU,AWAY,PHO,L (-6),0,3:29,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,1,1,0,-1.4,-4,D.J. Augustin
+2021-05-07,33-178,HOU,AWAY,MIL,L (-8),1,28:52,6,14,.429,4,9,.444,1,2,.500,0,2,2,5,0,0,3,0,17,10.3,-20,D.J. Augustin
+2021-05-08,33-179,HOU,AWAY,UTA,L (-8),1,18:16,1,3,.333,1,1,1.000,2,3,.667,0,0,0,1,0,0,1,0,5,2.6,-25,D.J. Augustin
+2021-05-10,33-181,HOU,AWAY,POR,L (-11),1,25:27,6,10,.600,4,6,.667,5,6,.833,0,2,2,2,0,0,2,2,21,15.2,-5,D.J. Augustin
+2021-05-12,33-183,HOU,AWAY,LAL,L (-2),1,23:38,2,7,.286,1,5,.200,3,3,1.000,0,0,0,4,1,0,1,1,8,6.3,-3,D.J. Augustin
+2021-05-14,33-185,HOU,HOME,LAC,W (+7),1,29:43,5,12,.417,2,7,.286,1,2,.500,1,3,4,5,0,0,1,1,13,9.9,-2,D.J. Augustin
+2021-05-16,33-187,HOU,AWAY,ATL,L (-29),1,22:01,5,11,.455,4,10,.400,4,4,1.000,1,3,4,5,1,0,2,1,18,16.0,-14,D.J. Augustin
+2020-12-25,30-029,MIA,HOME,NOP,W (+13),0,28:27,4,7,.571,2,5,.400,2,3,.667,0,2,2,4,2,0,2,2,12,10.9,+23,Avery Bradley
+2020-12-29,30-033,MIA,HOME,MIL,L (-47),0,24:19,5,9,.556,4,6,.667,0,0,,0,2,2,1,1,0,1,3,14,9.8,-22,Avery Bradley
+2020-12-30,30-034,MIA,HOME,MIL,W (+11),1,29:39,6,11,.545,2,6,.333,2,2,1.000,0,2,2,0,1,0,1,2,16,10.5,+2,Avery Bradley
+2021-01-01,30-036,MIA,AWAY,DAL,L (-10),0,17:38,5,8,.625,2,4,.500,3,4,.750,0,1,1,1,0,0,0,5,15,10.0,+1,Avery Bradley
+2021-01-04,30-039,MIA,HOME,OKC,W (+28),0,17:17,3,4,.750,2,2,1.000,0,0,,0,1,1,1,1,0,0,2,8,7.6,+13,Avery Bradley
+2021-01-06,30-041,MIA,HOME,BOS,L (-2),0,23:34,0,4,.000,0,1,.000,0,0,,0,2,2,4,1,1,0,2,0,1.5,-3,Avery Bradley
+2021-01-09,30-044,MIA,AWAY,WAS,W (+4),0,18:36,2,8,.250,1,5,.200,0,0,,1,2,3,1,0,0,1,2,5,0.4,-10,Avery Bradley
+2021-01-27,30-062,MIA,HOME,DEN,L (-27),0,17:38,3,6,.500,2,4,.500,0,0,,0,1,1,2,0,0,4,2,8,1.9,-5,Avery Bradley
+2021-01-28,30-063,MIA,HOME,LAC,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Avery Bradley
+2021-01-30,30-065,MIA,HOME,SAC,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Avery Bradley
+2021-02-01,30-067,MIA,HOME,CHO,L (-8),0,20:25,0,4,.000,0,4,.000,0,0,,0,2,2,0,0,0,0,3,0,-3.4,-14,Avery Bradley
+2021-02-03,30-069,MIA,HOME,WAS,L (-3),0,13:11,3,5,.600,1,1,1.000,0,0,,1,1,2,0,1,0,0,3,7,5.5,+1,Avery Bradley
+2021-02-05,30-071,MIA,HOME,WAS,W (+27),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Avery Bradley
+2021-02-07,30-073,MIA,AWAY,NYK,W (+6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Avery Bradley
+2021-02-09,30-075,MIA,HOME,NYK,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Avery Bradley
+2021-02-17,30-083,MIA,AWAY,GSW,L (-8),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Avery Bradley
+2021-03-25,30-119,MIA,HOME,POR,L (-3),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Avery Bradley
+2021-03-29,30-123,HOU,HOME,MEM,L (-10),0,14:39,1,6,.167,1,4,.250,0,0,,0,2,2,3,2,0,0,1,3,3.5,-15,Avery Bradley
+2021-03-31,30-125,HOU,AWAY,BRK,L (-12),0,21:23,4,11,.364,0,5,.000,0,0,,0,1,1,1,0,0,2,3,8,-0.3,-18,Avery Bradley
+2021-04-02,30-127,HOU,AWAY,BOS,L (-16),0,27:37,6,12,.500,2,7,.286,1,2,.500,1,5,6,3,0,0,0,1,15,12.5,-5,Avery Bradley
+2021-04-04,30-129,HOU,HOME,NOP,L (-7),0,26:18,2,9,.222,1,3,.333,0,0,,0,0,0,3,0,0,2,2,5,-1.2,-4,Avery Bradley
+2021-04-05,30-130,HOU,HOME,PHO,L (-3),1,32:56,2,4,.500,2,4,.500,0,0,,1,3,4,3,0,1,1,6,6,5.0,+1,Avery Bradley
+2021-04-07,30-132,HOU,HOME,DAL,W (+9),0,11:54,1,3,.333,1,2,.500,0,0,,0,2,2,1,0,0,0,1,3,2.2,-7,Avery Bradley
+2021-04-09,30-134,HOU,AWAY,LAC,L (-17),1,25:59,2,5,.400,0,2,.000,2,2,1.000,1,2,3,0,0,0,0,1,6,4.2,-6,Avery Bradley
+2021-04-10,30-135,HOU,AWAY,GSW,L (-16),0,18:07,1,3,.333,1,3,.333,0,0,,0,2,2,1,2,0,1,1,3,3.2,-6,Avery Bradley
+2021-04-12,30-137,HOU,AWAY,PHO,L (-6),0,22:48,1,4,.250,1,3,.333,0,0,,0,2,2,1,0,0,1,1,3,0.5,-5,Avery Bradley
+2021-04-14,30-139,HOU,HOME,IND,L (-8),0,19:43,2,5,.400,1,3,.333,0,0,,1,0,1,1,2,0,1,2,5,3.9,-14,Avery Bradley
+2021-04-16,30-141,HOU,HOME,DEN,L (-29),0,21:47,2,7,.286,2,6,.333,0,0,,0,2,2,2,2,0,0,0,6,5.9,-10,Avery Bradley
+2021-04-18,30-143,HOU,AWAY,ORL,W (+4),1,33:46,2,8,.250,1,3,.333,2,2,1.000,1,4,5,3,0,1,4,3,7,1.7,+7,Avery Bradley
+2021-04-19,30-144,HOU,AWAY,MIA,L (-22),0,21:58,0,3,.000,0,2,.000,0,0,,0,2,2,5,1,0,1,0,0,2.0,-9,Avery Bradley
+2021-04-21,30-146,HOU,HOME,UTA,L (-23),0,19:40,2,8,.250,2,6,.333,0,0,,0,3,3,1,1,0,0,2,6,3.0,+1,Avery Bradley
+2021-04-23,30-148,HOU,HOME,LAC,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Avery Bradley
+2021-04-27,30-152,HOU,HOME,MIN,L (-7),0,26:45,1,6,.167,1,5,.200,0,0,,0,0,0,1,2,0,3,3,3,-2.3,0,Avery Bradley
+2021-05-02,30-157,HOU,HOME,NYK,L (-25),1,20:29,3,5,.600,1,2,.500,0,0,,0,1,1,0,1,0,1,0,7,5.0,-10,Avery Bradley
+2021-05-05,30-160,HOU,HOME,PHI,L (-20),1,25:19,1,6,.167,0,3,.000,0,0,,1,2,3,3,1,0,2,2,2,-0.2,-18,Avery Bradley
+2021-04-09,22-308,HOU,AWAY,LAC,L (-17),0,2:58,0,2,.000,0,2,.000,0,0,,0,1,1,0,0,0,0,0,0,-1.1,+2,Armoni Brooks
+2021-04-12,22-311,HOU,AWAY,PHO,L (-6),0,14:10,5,6,.833,4,5,.800,0,0,,0,1,1,0,0,0,1,0,14,11.1,+11,Armoni Brooks
+2021-04-14,22-313,HOU,HOME,IND,L (-8),0,14:11,2,5,.400,2,4,.500,0,0,,0,1,1,0,1,0,0,0,6,4.6,-16,Armoni Brooks
+2021-04-16,22-315,HOU,HOME,DEN,L (-29),0,20:55,2,6,.333,0,4,.000,0,0,,0,6,6,3,0,0,2,3,4,1.3,-20,Armoni Brooks
+2021-04-18,22-317,HOU,AWAY,ORL,W (+4),0,26:00,5,7,.714,5,6,.833,1,3,.333,1,1,2,1,2,0,1,2,16,14.2,-5,Armoni Brooks
+2021-04-19,22-318,HOU,AWAY,MIA,L (-22),0,25:50,3,12,.250,2,11,.182,0,0,,0,4,4,0,1,0,0,0,8,3.0,-3,Armoni Brooks
+2021-04-21,22-320,HOU,HOME,UTA,L (-23),1,34:44,2,11,.182,2,9,.222,0,0,,3,7,10,4,0,1,2,3,6,3.6,-32,Armoni Brooks
+2021-04-23,22-322,HOU,HOME,LAC,L (-5),1,30:07,3,8,.375,3,8,.375,0,0,,1,3,4,0,0,0,0,1,9,5.8,+5,Armoni Brooks
+2021-04-24,22-323,HOU,AWAY,DEN,L (-13),1,42:46,4,12,.333,3,11,.273,1,2,.500,0,7,7,5,0,0,5,4,12,3.8,-22,Armoni Brooks
+2021-04-27,22-326,HOU,HOME,MIN,L (-7),0,11:10,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,1,0,-2.8,-9,Armoni Brooks
+2021-04-29,22-328,HOU,HOME,MIL,W (+7),1,19:44,2,5,.400,2,4,.500,0,0,,0,1,1,0,0,1,0,1,6,3.9,-6,Armoni Brooks
+2021-05-01,22-330,HOU,HOME,GSW,L (-26),1,30:50,3,13,.231,3,10,.300,1,2,.500,1,4,5,1,0,0,1,3,10,2.1,-19,Armoni Brooks
+2021-05-02,22-331,HOU,HOME,NYK,L (-25),0,17:46,1,7,.143,1,7,.143,0,0,,0,3,3,1,0,0,1,0,3,-0.9,+1,Armoni Brooks
+2021-05-05,22-334,HOU,HOME,PHI,L (-20),0,30:57,7,16,.438,6,14,.429,0,0,,0,2,2,1,1,0,2,1,20,11.5,-13,Armoni Brooks
+2021-05-07,22-336,HOU,AWAY,MIL,L (-8),0,34:29,7,14,.500,5,9,.556,0,0,,1,2,3,6,3,1,3,3,19,17.0,+3,Armoni Brooks
+2021-05-08,22-337,HOU,AWAY,UTA,L (-8),0,33:00,5,9,.556,3,7,.429,2,2,1.000,0,2,2,3,1,1,0,3,15,13.9,+7,Armoni Brooks
+2021-05-10,22-339,HOU,AWAY,POR,L (-11),0,24:00,6,9,.667,6,9,.667,0,0,,0,3,3,1,0,1,1,2,18,14.6,+1,Armoni Brooks
+2021-05-12,22-341,HOU,AWAY,LAL,L (-2),0,36:54,9,18,.500,4,11,.364,2,3,.667,3,3,6,1,1,0,1,2,24,17.5,-1,Armoni Brooks
+2021-05-14,22-343,HOU,HOME,LAC,W (+7),0,35:25,6,11,.545,3,7,.429,0,0,,0,3,3,3,0,0,0,2,15,11.9,+12,Armoni Brooks
+2021-05-16,22-345,HOU,AWAY,ATL,L (-29),0,34:25,6,19,.316,6,18,.333,0,0,,0,4,4,0,2,0,1,3,18,8.1,-31,Armoni Brooks
+2020-12-26,25-320,HOU,AWAY,POR,L (-2),0,20:12,4,5,.800,2,3,.667,0,0,,0,1,1,0,0,0,1,3,10,6.2,-6,Sterling Brown
+2020-12-28,25-322,HOU,AWAY,DEN,L (-13),0,30:40,5,8,.625,2,5,.400,0,0,,1,3,4,2,1,0,0,3,12,11.2,-18,Sterling Brown
+2020-12-31,25-325,HOU,HOME,SAC,W (+3),0,12:28,2,2,1.000,2,2,1.000,0,0,,0,1,1,1,1,0,0,2,6,6.6,-6,Sterling Brown
+2021-01-02,25-327,HOU,HOME,SAC,W (+8),0,26:23,4,6,.667,3,5,.600,0,0,,0,6,6,1,1,0,0,2,11,11.1,+8,Sterling Brown
+2021-01-04,25-329,HOU,HOME,DAL,L (-13),0,15:37,1,5,.200,1,4,.250,2,2,1.000,0,1,1,0,0,0,0,1,5,1.8,+7,Sterling Brown
+2021-01-06,25-331,HOU,AWAY,IND,L (-7),0,13:47,1,2,.500,0,0,,0,0,,0,2,2,0,1,0,1,1,2,1.2,-15,Sterling Brown
+2021-01-08,25-333,HOU,HOME,ORL,W (+42),0,18:10,3,4,.750,3,4,.750,0,0,,1,4,5,0,0,0,0,3,9,8.1,+21,Sterling Brown
+2021-01-10,25-335,HOU,HOME,LAL,L (-18),0,13:12,2,6,.333,1,4,.250,0,0,,2,1,3,2,0,0,0,0,5,4.7,+8,Sterling Brown
+2021-01-12,25-337,HOU,HOME,LAL,L (-17),0,17:55,1,7,.143,0,3,.000,0,0,,2,0,2,1,4,0,1,2,2,1.8,-9,Sterling Brown
+2021-01-14,25-339,HOU,AWAY,SAS,W (+4),1,36:36,9,17,.529,3,7,.429,2,2,1.000,2,5,7,3,2,0,1,1,23,20.3,0,Sterling Brown
+2021-01-16,25-341,HOU,AWAY,SAS,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Sterling Brown
+2021-01-18,25-343,HOU,AWAY,CHI,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Sterling Brown
+2021-01-20,25-345,HOU,HOME,PHO,L (-6),0,21:18,2,3,.667,0,0,,0,0,,0,1,1,2,2,0,1,0,4,5.4,+8,Sterling Brown
+2021-01-22,25-347,HOU,AWAY,DET,W (+1),0,25:38,5,9,.556,4,6,.667,0,0,,3,5,8,2,0,0,1,3,14,12.5,+1,Sterling Brown
+2021-01-23,25-348,HOU,AWAY,DAL,W (+25),0,18:02,2,6,.333,0,2,.000,0,0,,1,2,3,3,1,1,0,3,4,4.5,+3,Sterling Brown
+2021-01-26,25-351,HOU,HOME,WAS,W (+19),0,15:34,2,4,.500,1,2,.500,3,3,1.000,0,5,5,1,1,1,1,1,8,8.5,+22,Sterling Brown
+2021-01-28,25-353,HOU,HOME,POR,W (+3),0,20:42,2,7,.286,2,5,.400,0,0,,0,3,3,1,2,1,1,1,6,4.8,+5,Sterling Brown
+2021-01-30,25-355,HOU,AWAY,NOP,W (+14),0,18:12,3,7,.429,2,5,.400,0,0,,0,3,3,3,0,0,0,4,8,5.7,+11,Sterling Brown
+2021-02-01,25-357,HOU,AWAY,OKC,W (+30),0,18:12,0,4,.000,0,2,.000,0,0,,0,0,0,1,1,0,1,3,0,-3.3,+7,Sterling Brown
+2021-02-03,25-359,HOU,AWAY,OKC,L (-17),0,22:25,4,8,.500,3,6,.500,0,0,,1,5,6,3,2,2,1,2,11,12.9,-10,Sterling Brown
+2021-02-04,25-360,HOU,AWAY,MEM,W (+12),0,27:22,4,6,.667,1,3,.333,0,0,,2,5,7,3,1,0,2,2,9,9.6,-11,Sterling Brown
+2021-02-06,25-362,HOU,HOME,SAS,L (-5),0,7:55,0,3,.000,0,2,.000,0,0,,0,0,0,1,1,0,0,0,0,-0.4,+1,Sterling Brown
+2021-02-08,25-364,HOU,AWAY,CHO,L (-25),0,28:12,3,9,.333,1,6,.167,1,1,1.000,1,6,7,5,1,0,1,3,8,7.7,-11,Sterling Brown
+2021-02-09,25-365,HOU,AWAY,NOP,L (-29),0,25:36,4,6,.667,3,4,.750,0,0,,1,5,6,3,2,0,0,2,11,13.9,-2,Sterling Brown
+2021-02-11,26-001,HOU,HOME,MIA,L (-7),0,24:49,1,6,.167,1,5,.200,0,0,,2,5,7,3,0,0,1,2,3,2.4,-3,Sterling Brown
+2021-02-13,26-003,HOU,AWAY,NYK,L (-22),0,25:35,4,8,.500,3,5,.600,0,0,,0,6,6,0,0,0,0,1,11,8.4,-28,Sterling Brown
+2021-02-15,26-005,HOU,AWAY,WAS,L (-12),0,25:07,3,7,.429,1,4,.250,2,2,1.000,1,3,4,2,0,1,3,3,9,4.8,-1,Sterling Brown
+2021-02-17,26-007,HOU,AWAY,PHI,L (-5),0,26:06,1,5,.200,1,4,.250,0,0,,0,3,3,3,1,1,0,5,3,2.6,-5,Sterling Brown
+2021-02-22,26-012,HOU,HOME,CHI,L (-20),0,27:41,6,9,.667,4,4,1.000,0,1,.000,0,4,4,2,0,0,1,0,16,13.3,+7,Sterling Brown
+2021-02-24,26-014,HOU,AWAY,CLE,L (-16),0,18:53,1,3,.333,0,2,.000,0,0,,1,4,5,2,1,0,0,1,2,4.2,-3,Sterling Brown
+2021-02-26,26-016,HOU,AWAY,TOR,L (-11),0,19:23,1,3,.333,1,3,.333,0,0,,0,10,10,1,0,0,1,2,3,3.2,-2,Sterling Brown
+2021-02-28,26-018,HOU,HOME,MEM,L (-49),0,27:49,1,8,.125,1,8,.125,2,2,1.000,1,5,6,3,2,0,4,5,5,0.1,-30,Sterling Brown
+2021-03-01,26-019,HOU,HOME,CLE,L (-11),0,30:42,2,8,.250,2,7,.286,2,2,1.000,0,5,5,0,2,0,1,1,8,5.3,-4,Sterling Brown
+2021-03-03,26-021,HOU,HOME,BRK,L (-18),1,33:09,3,5,.600,3,5,.600,0,0,,0,3,3,1,1,0,1,2,9,7.5,-12,Sterling Brown
+2021-03-11,26-029,HOU,AWAY,SAC,L (-20),1,31:17,3,7,.429,2,6,.333,0,0,,3,7,10,1,0,1,2,1,8,7.5,-5,Sterling Brown
+2021-03-12,26-030,HOU,AWAY,UTA,L (-15),1,37:19,6,16,.375,3,8,.375,0,0,,1,2,3,1,1,0,0,3,15,8.0,-19,Sterling Brown
+2021-03-14,26-032,HOU,HOME,BOS,L (-27),1,28:57,2,7,.286,1,6,.167,2,2,1.000,0,1,1,1,1,0,0,0,7,4.9,-13,Sterling Brown
+2021-03-16,26-034,HOU,HOME,ATL,L (-12),1,36:24,3,6,.500,2,3,.667,0,1,.000,1,10,11,1,2,1,2,6,8,7.3,+6,Sterling Brown
+2021-03-17,26-035,HOU,HOME,GSW,L (-14),1,33:49,1,7,.143,0,5,.000,2,2,1.000,1,4,5,2,0,0,2,0,4,0.8,-3,Sterling Brown
+2021-03-19,26-037,HOU,HOME,DET,L (-13),0,23:04,1,3,.333,1,2,.500,0,0,,1,2,3,0,0,0,0,3,3,1.4,-6,Sterling Brown
+2021-03-21,26-039,HOU,HOME,OKC,L (-2),0,17:50,0,3,.000,0,2,.000,0,0,,1,2,3,0,0,0,1,2,0,-2.6,-5,Sterling Brown
+2021-03-22,26-040,HOU,HOME,TOR,W (+18),1,33:42,7,10,.700,4,7,.571,2,2,1.000,1,9,10,2,0,1,0,2,20,20.5,+24,Sterling Brown
+2021-03-24,26-042,HOU,HOME,CHO,L (-25),1,28:00,2,7,.286,2,5,.400,0,0,,0,2,2,1,0,0,0,0,6,3.2,-16,Sterling Brown
+2021-03-26,26-044,HOU,AWAY,MIN,L (-6),1,36:17,4,10,.400,3,5,.600,0,0,,1,10,11,1,0,2,1,4,11,8.8,-4,Sterling Brown
+2021-03-27,26-045,HOU,AWAY,MIN,W (+22),1,23:08,6,8,.750,4,6,.667,0,0,,3,4,7,0,0,0,2,1,16,13.7,+9,Sterling Brown
+2021-03-29,26-047,HOU,HOME,MEM,L (-10),0,21:25,3,7,.429,2,4,.500,2,2,1.000,1,6,7,0,1,0,0,1,10,9.4,-9,Sterling Brown
+2021-03-31,26-049,HOU,AWAY,BRK,L (-12),1,31:20,4,8,.500,3,7,.429,0,0,,0,1,1,0,0,0,1,2,11,5.5,-6,Sterling Brown
+2021-04-02,26-051,HOU,AWAY,BOS,L (-16),1,27:49,3,7,.429,2,3,.667,0,0,,0,4,4,0,0,0,0,1,8,5.1,-21,Sterling Brown
+2021-04-04,26-053,HOU,HOME,NOP,L (-7),1,27:51,4,8,.500,2,4,.500,2,2,1.000,1,3,4,2,0,0,0,4,12,9.4,-6,Sterling Brown
+2021-04-05,26-054,HOU,HOME,PHO,L (-3),0,26:21,6,7,.857,3,3,1.000,1,2,.500,1,2,3,2,1,0,2,1,16,14.4,+10,Sterling Brown
+2021-04-07,26-056,HOU,HOME,DAL,W (+9),0,20:59,3,10,.300,3,7,.429,0,3,.000,0,1,1,2,0,0,0,1,9,3.3,-6,Sterling Brown
+2021-04-09,26-058,HOU,AWAY,LAC,L (-17),0,25:25,6,8,.750,3,5,.600,0,0,,0,4,4,1,1,0,3,1,15,11.3,-12,Sterling Brown
+2021-04-10,26-059,HOU,AWAY,GSW,L (-16),0,4:20,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-5,Sterling Brown
+2020-12-26,25-096,HOU,AWAY,POR,L (-2),0,3:33,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,1,0,1,0,-0.1,+7,Bruno Caboclo
+2020-12-28,25-098,HOU,AWAY,DEN,L (-13),0,19:31,3,9,.333,0,3,.000,0,0,,1,5,6,0,0,0,4,3,6,-2.1,-12,Bruno Caboclo
+2021-01-04,25-105,HOU,HOME,DAL,L (-13),0,1:08,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1,Bruno Caboclo
+2021-01-08,25-109,HOU,HOME,ORL,W (+42),0,4:57,3,4,.750,0,1,.000,0,0,,0,2,2,1,0,1,0,1,6,6.0,+3,Bruno Caboclo
+2021-01-10,25-111,HOU,HOME,LAL,L (-18),0,3:02,1,2,.500,0,0,,0,0,,1,0,1,0,0,0,0,0,2,1.7,0,Bruno Caboclo
+2021-01-12,25-113,HOU,HOME,LAL,L (-17),0,4:15,1,1,1.000,0,0,,1,2,.500,1,3,4,0,0,0,0,1,3,3.5,+3,Bruno Caboclo
+2020-12-31,30-140,HOU,HOME,SAC,W (+3),0,13:53,3,5,.600,1,2,.500,1,2,.500,0,1,1,3,0,0,2,0,8,5.7,-7,DeMarcus Cousins
+2021-01-02,30-142,HOU,HOME,SAC,W (+8),0,11:04,1,6,.167,0,0,,0,0,,0,6,6,0,0,2,1,3,2,-0.8,-2,DeMarcus Cousins
+2021-01-04,30-144,HOU,HOME,DAL,L (-13),0,2:53,2,4,.500,0,1,.000,0,0,,1,2,3,0,0,2,1,1,4,3.3,+5,DeMarcus Cousins
+2021-01-06,30-146,HOU,AWAY,IND,L (-7),1,23:28,2,9,.222,1,2,.500,4,6,.667,2,12,14,1,2,4,1,3,9,11.0,-4,DeMarcus Cousins
+2021-01-08,30-148,HOU,HOME,ORL,W (+42),0,16:31,1,7,.143,0,4,.000,4,5,.800,1,4,5,4,1,0,0,2,6,6.0,+21,DeMarcus Cousins
+2021-01-10,30-150,HOU,HOME,LAL,L (-18),0,8:22,2,5,.400,2,4,.500,0,0,,1,3,4,0,1,0,1,1,6,4.5,+6,DeMarcus Cousins
+2021-01-12,30-152,HOU,HOME,LAL,L (-17),0,17:51,5,9,.556,2,4,.500,1,1,1.000,3,7,10,3,1,0,1,3,13,13.8,+3,DeMarcus Cousins
+2021-01-14,30-154,HOU,AWAY,SAS,W (+4),0,18:24,2,8,.250,2,8,.250,3,4,.750,1,3,4,2,1,0,3,2,9,4.0,-7,DeMarcus Cousins
+2021-01-16,30-156,HOU,AWAY,SAS,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,DeMarcus Cousins
+2021-01-18,30-158,HOU,AWAY,CHI,L (-5),0,15:49,0,7,.000,0,5,.000,2,2,1.000,1,5,6,4,0,0,2,3,2,-1.1,-17,DeMarcus Cousins
+2021-01-20,30-160,HOU,HOME,PHO,L (-6),0,14:09,1,4,.250,0,2,.000,1,2,.500,0,6,6,3,0,1,2,3,3,1.6,-9,DeMarcus Cousins
+2021-01-22,30-162,HOU,AWAY,DET,W (+1),1,32:50,2,16,.125,1,6,.167,0,0,,2,13,15,7,0,2,5,4,5,-0.4,-10,DeMarcus Cousins
+2021-01-23,30-163,HOU,AWAY,DAL,W (+25),1,29:48,9,15,.600,4,8,.500,6,7,.857,4,13,17,5,0,0,4,5,28,24.9,+9,DeMarcus Cousins
+2021-01-26,30-166,HOU,HOME,WAS,W (+19),1,33:01,6,11,.545,4,8,.500,3,5,.600,1,10,11,2,5,1,2,5,19,19.7,+6,DeMarcus Cousins
+2021-01-28,30-168,HOU,HOME,POR,W (+3),0,11:03,2,5,.400,1,4,.250,1,1,1.000,2,2,4,3,1,0,1,2,6,6.6,-15,DeMarcus Cousins
+2021-01-30,30-170,HOU,AWAY,NOP,W (+14),0,13:50,0,2,.000,0,2,.000,4,5,.800,0,3,3,2,0,0,2,5,4,0.5,-3,DeMarcus Cousins
+2021-02-01,30-172,HOU,AWAY,OKC,W (+30),0,20:53,5,14,.357,5,9,.556,2,2,1.000,4,4,8,3,1,0,0,4,17,14.7,+19,DeMarcus Cousins
+2021-02-03,30-174,HOU,AWAY,OKC,L (-17),0,25:52,4,10,.400,2,6,.333,0,2,.000,0,5,5,1,1,1,1,4,10,5.1,-2,DeMarcus Cousins
+2021-02-04,30-175,HOU,AWAY,MEM,W (+12),0,15:30,2,5,.400,1,3,.333,0,0,,1,5,6,3,0,0,1,4,5,4.0,-4,DeMarcus Cousins
+2021-02-06,30-177,HOU,HOME,SAS,L (-5),1,30:08,5,12,.417,2,7,.286,0,0,,0,11,11,2,1,2,3,3,12,8.5,-1,DeMarcus Cousins
+2021-02-08,30-179,HOU,AWAY,CHO,L (-25),1,24:57,4,8,.500,1,3,.333,0,0,,1,8,9,1,3,0,1,2,9,10.0,-10,DeMarcus Cousins
+2021-02-09,30-180,HOU,AWAY,NOP,L (-29),1,22:20,1,8,.125,1,6,.167,4,6,.667,1,6,7,2,0,1,1,2,7,3.8,-13,DeMarcus Cousins
+2021-02-11,30-182,HOU,HOME,MIA,L (-7),1,24:54,6,9,.667,3,4,.750,1,2,.500,2,9,11,3,1,0,1,4,16,16.3,-3,DeMarcus Cousins
+2021-02-13,30-184,HOU,AWAY,NYK,L (-22),1,21:55,4,9,.444,0,3,.000,2,2,1.000,2,8,10,2,0,0,1,3,10,8.3,+2,DeMarcus Cousins
+2021-02-15,30-186,HOU,AWAY,WAS,L (-12),1,20:08,4,10,.400,2,6,.333,2,2,1.000,0,7,7,0,0,0,1,3,12,6.5,-7,DeMarcus Cousins
+2021-02-17,30-188,HOU,AWAY,PHI,L (-5),1,36:35,6,12,.500,4,9,.444,3,3,1.000,0,8,8,4,2,2,1,3,19,19.4,-4,DeMarcus Cousins
+2021-04-06,30-236,LAC,HOME,POR,W (+17),0,7:37,3,4,.750,0,0,,1,4,.250,2,2,4,2,0,0,1,2,7,5.8,-7,DeMarcus Cousins
+2021-04-09,30-239,LAC,HOME,HOU,W (+17),0,5:42,1,2,.500,1,1,1.000,0,0,,0,2,2,0,1,0,3,2,3,-0.2,+9,DeMarcus Cousins
+2021-04-14,30-244,LAC,AWAY,DET,W (+2),0,15:27,3,9,.333,0,2,.000,2,2,1.000,1,2,3,0,1,0,1,2,8,3.4,0,DeMarcus Cousins
+2021-04-16,30-246,LAC,AWAY,PHI,L (-3),0,5:35,0,2,.000,0,0,,0,0,,1,1,2,1,1,0,0,1,0,0.9,+5,DeMarcus Cousins
+2021-04-18,30-248,LAC,HOME,MIN,W (+19),0,14:34,2,5,.400,0,2,.000,0,0,,0,1,1,3,0,0,3,3,4,-0.5,-17,DeMarcus Cousins
+2021-04-20,30-250,LAC,AWAY,POR,W (+1),0,13:11,4,6,.667,1,1,1.000,2,2,1.000,3,3,6,1,0,0,2,2,11,9.3,-12,DeMarcus Cousins
+2021-04-21,30-251,LAC,HOME,MEM,W (+12),0,14:18,2,6,.333,1,1,1.000,1,4,.250,3,7,10,1,0,0,5,1,6,0.9,+7,DeMarcus Cousins
+2021-04-23,30-253,LAC,AWAY,HOU,W (+5),0,15:29,5,7,.714,1,1,1.000,0,1,.000,2,6,8,2,0,1,1,1,11,11.6,-2,DeMarcus Cousins
+2021-04-26,30-256,LAC,AWAY,NOP,L (-17),0,24:32,6,14,.429,0,3,.000,4,4,1.000,4,7,11,1,0,2,3,3,16,11.4,0,DeMarcus Cousins
+2021-05-01,30-261,LAC,HOME,DEN,L (-6),0,14:24,6,9,.667,2,3,.667,2,2,1.000,2,1,3,1,1,1,0,3,16,15.0,+5,DeMarcus Cousins
+2021-05-04,30-264,LAC,HOME,TOR,W (+5),0,14:28,3,4,.750,1,1,1.000,0,0,,1,5,6,1,0,1,2,1,7,6.6,-11,DeMarcus Cousins
+2021-05-06,30-266,LAC,HOME,LAL,W (+24),0,16:21,5,8,.625,1,3,.333,0,0,,1,2,3,0,1,0,0,3,11,8.5,+6,DeMarcus Cousins
+2021-05-09,30-269,LAC,HOME,NYK,L (-6),0,15:37,4,6,.667,0,0,,0,0,,0,3,3,1,2,0,1,1,8,7.6,+11,DeMarcus Cousins
+2021-05-11,30-271,LAC,AWAY,TOR,W (+19),0,6:44,0,3,.000,0,1,.000,2,2,1.000,1,2,3,0,2,0,1,1,2,1.8,-3,DeMarcus Cousins
+2021-05-13,30-273,LAC,AWAY,CHO,W (+23),0,5:21,1,1,1.000,0,0,,0,0,,0,2,2,1,2,0,0,3,2,3.8,+4,DeMarcus Cousins
+2021-05-14,30-274,LAC,AWAY,HOU,L (-7),0,17:25,6,9,.667,0,0,,1,1,1.000,2,3,5,1,2,1,2,4,13,11.2,-9,DeMarcus Cousins
+2020-12-31,32-006,HOU,HOME,SAC,W (+3),0,25:56,6,12,.500,3,8,.375,2,2,1.000,1,1,2,0,2,0,2,3,17,10.8,+4,Eric Gordon
+2021-01-02,32-008,HOU,HOME,SAC,W (+8),1,32:51,7,18,.389,3,12,.250,4,4,1.000,0,3,3,4,2,1,3,2,21,13.8,+11,Eric Gordon
+2021-01-04,32-010,HOU,HOME,DAL,L (-13),0,25:54,5,12,.417,4,10,.400,6,6,1.000,1,4,5,2,1,1,1,2,20,16.8,+10,Eric Gordon
+2021-01-06,32-012,HOU,AWAY,IND,L (-7),0,33:26,7,15,.467,2,10,.200,4,4,1.000,0,1,1,1,0,2,0,3,20,13.5,-16,Eric Gordon
+2021-01-08,32-014,HOU,HOME,ORL,W (+42),0,18:51,2,5,.400,1,4,.250,0,0,,0,2,2,1,1,1,1,0,5,4.3,+18,Eric Gordon
+2021-01-10,32-016,HOU,HOME,LAL,L (-18),0,21:39,1,4,.250,0,2,.000,2,4,.500,0,2,2,1,0,0,4,2,4,-2.7,+2,Eric Gordon
+2021-01-12,32-018,HOU,HOME,LAL,L (-17),0,20:37,5,10,.500,3,8,.375,0,0,,0,0,0,2,1,1,0,1,13,10.7,-17,Eric Gordon
+2021-01-14,32-020,HOU,AWAY,SAS,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Eric Gordon
+2021-01-16,32-022,HOU,AWAY,SAS,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Eric Gordon
+2021-01-18,32-024,HOU,AWAY,CHI,L (-5),1,33:56,9,17,.529,3,7,.429,0,1,.000,0,2,2,4,0,0,1,0,21,14.7,+6,Eric Gordon
+2021-01-20,32-026,HOU,HOME,PHO,L (-6),1,34:03,9,20,.450,3,7,.429,1,2,.500,1,1,2,2,0,0,1,0,22,12.6,-4,Eric Gordon
+2021-01-22,32-028,HOU,AWAY,DET,W (+1),1,36:20,6,15,.400,1,6,.167,7,9,.778,0,1,1,3,0,0,2,3,20,10.3,-4,Eric Gordon
+2021-01-23,32-029,HOU,AWAY,DAL,W (+25),1,30:15,10,17,.588,6,9,.667,7,9,.778,0,3,3,2,0,0,2,1,33,24.2,+9,Eric Gordon
+2021-01-26,32-032,HOU,HOME,WAS,W (+19),0,28:54,6,13,.462,2,7,.286,6,7,.857,0,2,2,4,1,0,2,1,20,14.9,+15,Eric Gordon
+2021-01-28,32-034,HOU,HOME,POR,W (+3),0,29:51,2,11,.182,2,7,.286,2,2,1.000,1,3,4,1,0,1,4,2,8,-0.7,+2,Eric Gordon
+2021-01-30,32-036,HOU,AWAY,NOP,W (+14),0,22:52,4,9,.444,2,6,.333,4,5,.800,0,0,0,4,0,1,3,0,14,9.4,+13,Eric Gordon
+2021-02-01,32-038,HOU,AWAY,OKC,W (+30),0,21:48,8,12,.667,5,9,.556,4,4,1.000,0,0,0,2,0,0,1,0,25,20.2,+18,Eric Gordon
+2021-02-03,32-040,HOU,AWAY,OKC,L (-17),1,27:41,8,15,.533,3,9,.333,3,3,1.000,2,1,3,4,2,0,4,0,22,17.2,-9,Eric Gordon
+2021-02-04,32-041,HOU,AWAY,MEM,W (+12),1,32:39,7,18,.389,2,7,.286,4,5,.800,0,5,5,2,1,0,1,2,20,11.9,+14,Eric Gordon
+2021-02-06,32-043,HOU,HOME,SAS,L (-5),0,36:09,8,13,.615,4,7,.571,6,7,.857,0,7,7,2,0,1,2,1,26,21.5,+4,Eric Gordon
+2021-02-08,32-045,HOU,AWAY,CHO,L (-25),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Eric Gordon
+2021-02-09,32-046,HOU,AWAY,NOP,L (-29),1,33:44,8,19,.421,4,10,.400,3,5,.600,0,1,1,3,0,1,4,3,23,10.0,-40,Eric Gordon
+2021-02-11,32-048,HOU,HOME,MIA,L (-7),0,30:54,5,13,.385,3,10,.300,4,4,1.000,0,2,2,4,0,0,1,1,17,11.9,-10,Eric Gordon
+2021-02-13,32-050,HOU,AWAY,NYK,L (-22),1,34:16,8,14,.571,1,7,.143,7,7,1.000,1,1,2,6,1,1,0,2,24,23.5,-23,Eric Gordon
+2021-02-17,32-054,HOU,AWAY,PHI,L (-5),1,33:52,6,14,.429,3,9,.333,2,2,1.000,0,0,0,6,0,0,3,3,17,9.6,-6,Eric Gordon
+2021-02-22,32-059,HOU,HOME,CHI,L (-20),1,27:59,5,18,.278,1,10,.100,2,3,.667,0,3,3,4,0,0,2,2,13,2.9,-24,Eric Gordon
+2021-02-24,32-061,HOU,AWAY,CLE,L (-16),0,33:49,5,14,.357,2,7,.286,5,7,.714,0,0,0,2,2,0,1,1,17,10.4,-9,Eric Gordon
+2021-02-26,32-063,HOU,AWAY,TOR,L (-11),0,32:23,5,12,.417,3,8,.375,4,5,.800,0,2,2,2,0,2,3,2,17,9.8,+6,Eric Gordon
+2021-02-28,32-065,HOU,HOME,MEM,L (-49),1,22:40,1,10,.100,0,5,.000,3,3,1.000,0,2,2,2,0,0,2,4,5,-3.2,-20,Eric Gordon
+2021-03-11,32-076,HOU,AWAY,SAC,L (-20),1,25:23,6,17,.353,3,9,.333,2,4,.500,1,1,2,1,0,0,1,3,17,6.2,-18,Eric Gordon
+2020-12-26,31-122,HOU,AWAY,POR,L (-2),1,43:16,12,21,.571,6,13,.462,14,16,.875,1,3,4,17,1,0,5,1,44,42.4,-6,James Harden
+2020-12-28,31-124,HOU,AWAY,DEN,L (-13),1,31:29,10,16,.625,5,9,.556,9,9,1.000,0,6,6,8,1,0,5,2,34,29.4,-12,James Harden
+2020-12-31,31-127,HOU,HOME,SAC,W (+3),1,38:18,10,24,.417,4,11,.364,9,11,.818,2,4,6,8,1,1,6,2,33,22.5,+8,James Harden
+2021-01-02,31-129,HOU,HOME,SAC,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,James Harden
+2021-01-04,31-131,HOU,HOME,DAL,L (-13),1,38:28,5,17,.294,3,11,.273,8,10,.800,0,3,3,10,2,0,2,1,21,17.8,-24,James Harden
+2021-01-06,31-133,HOU,AWAY,IND,L (-7),1,38:51,5,14,.357,1,5,.200,4,4,1.000,0,4,4,12,1,2,4,2,15,14.4,+3,James Harden
+2021-01-08,31-135,HOU,HOME,ORL,W (+42),1,30:58,6,13,.462,3,9,.333,0,0,,0,5,5,13,0,1,2,2,15,16.8,+26,James Harden
+2021-01-10,31-137,HOU,HOME,LAL,L (-18),1,37:46,7,14,.500,2,8,.250,4,5,.800,1,5,6,9,0,2,7,2,20,14.7,-11,James Harden
+2021-01-12,31-139,HOU,HOME,LAL,L (-17),1,30:55,5,16,.313,1,6,.167,5,5,1.000,1,6,7,6,1,0,3,2,16,10.7,-23,James Harden
+2021-01-16,31-143,BRK,HOME,ORL,W (+7),1,39:47,8,18,.444,3,10,.300,13,15,.867,1,11,12,14,4,1,9,3,32,30.1,+7,James Harden
+2021-01-18,31-145,BRK,HOME,MIL,W (+2),1,40:47,13,25,.520,3,10,.300,5,6,.833,1,5,6,12,0,1,6,3,34,25.4,+5,James Harden
+2021-01-20,31-147,BRK,AWAY,CLE,L (-12),1,50:30,6,14,.429,3,6,.500,6,6,1.000,1,9,10,12,2,0,5,5,21,20.4,-5,James Harden
+2021-01-22,31-149,BRK,AWAY,CLE,L (-12),1,37:03,6,14,.429,4,9,.444,3,4,.750,0,5,5,11,0,0,3,2,19,16.6,-2,James Harden
+2021-01-23,31-150,BRK,HOME,MIA,W (+4),1,38:29,2,9,.222,0,5,.000,8,9,.889,0,7,7,11,0,0,5,2,12,10.1,+4,James Harden
+2021-01-25,31-152,BRK,HOME,MIA,W (+13),1,34:29,7,10,.700,3,5,.600,3,5,.600,0,4,4,8,1,1,3,0,20,20.5,+8,James Harden
+2021-01-27,31-154,BRK,AWAY,ATL,W (+4),1,45:54,9,20,.450,5,9,.556,8,8,1.000,3,5,8,15,2,1,3,1,31,34.0,+2,James Harden
+2021-01-29,31-156,BRK,AWAY,OKC,W (+22),1,32:27,9,14,.643,3,6,.500,4,4,1.000,0,10,10,11,0,1,1,5,25,27.2,+15,James Harden
+2021-02-02,31-160,BRK,HOME,LAC,W (+4),1,43:04,7,15,.467,1,6,.167,8,8,1.000,1,11,12,14,1,0,3,5,23,25.1,+8,James Harden
+2021-02-05,31-163,BRK,HOME,TOR,L (-6),1,39:56,4,8,.500,2,5,.400,7,9,.778,0,7,7,12,2,0,3,2,17,20.9,-1,James Harden
+2021-02-06,31-164,BRK,AWAY,PHI,L (-16),1,29:07,10,20,.500,3,8,.375,3,4,.750,3,5,8,10,0,0,2,3,26,23.0,-18,James Harden
+2021-02-09,31-167,BRK,AWAY,DET,L (-11),1,39:24,8,14,.571,1,4,.250,7,7,1.000,1,5,6,12,2,5,7,3,24,25.3,-11,James Harden
+2021-02-10,31-168,BRK,HOME,IND,W (+10),1,35:35,4,13,.308,1,6,.167,10,10,1.000,0,11,11,5,0,0,5,1,19,12.9,+6,James Harden
+2021-02-13,31-171,BRK,AWAY,GSW,W (+17),1,35:27,6,11,.545,5,8,.625,2,2,1.000,0,8,8,16,3,1,5,2,19,25.2,+28,James Harden
+2021-02-15,31-173,BRK,AWAY,SAC,W (+11),1,34:32,10,18,.556,6,10,.600,3,3,1.000,2,11,13,14,0,1,7,2,29,27.8,+33,James Harden
+2021-02-16,31-174,BRK,AWAY,PHO,W (+4),1,36:49,14,22,.636,5,11,.455,5,5,1.000,0,7,7,11,1,0,2,2,38,36.2,0,James Harden
+2021-02-18,31-176,BRK,AWAY,LAL,W (+11),1,37:38,7,15,.467,3,7,.429,6,7,.857,0,5,5,11,2,1,1,1,23,25.4,+11,James Harden
+2021-02-21,31-179,BRK,AWAY,LAC,W (+4),1,40:40,13,25,.520,4,9,.444,7,11,.636,1,10,11,7,2,0,3,2,37,29.9,+6,James Harden
+2021-02-23,31-181,BRK,HOME,SAC,W (+9),1,40:50,9,22,.409,5,10,.500,6,9,.667,1,10,11,14,1,0,4,2,29,25.7,+11,James Harden
+2021-02-25,31-183,BRK,HOME,ORL,W (+37),1,33:04,7,16,.438,5,10,.500,1,2,.500,1,8,9,7,1,0,6,3,20,13.0,+10,James Harden
+2021-02-27,31-185,BRK,HOME,DAL,L (-17),1,32:34,9,21,.429,4,11,.364,7,8,.875,1,6,7,6,0,1,6,1,29,18.5,-27,James Harden
+2021-03-01,31-187,BRK,AWAY,SAS,W (+11),1,44:02,12,23,.522,3,7,.429,3,4,.750,4,10,14,15,2,0,0,3,30,35.4,+16,James Harden
+2021-03-03,31-189,BRK,AWAY,HOU,W (+18),1,40:53,10,15,.667,4,8,.500,5,7,.714,0,10,10,14,3,1,8,0,29,30.2,+17,James Harden
+2021-03-11,31-197,BRK,HOME,BOS,W (+12),1,37:43,6,16,.375,1,8,.125,9,9,1.000,2,8,10,8,1,2,7,4,22,16.4,+3,James Harden
+2021-03-13,31-199,BRK,HOME,DET,W (+5),1,38:22,8,19,.421,0,6,.000,8,8,1.000,1,9,10,10,2,3,4,2,24,23.6,-4,James Harden
+2021-03-15,31-201,BRK,HOME,NYK,W (+5),1,39:34,6,15,.400,0,5,.000,9,9,1.000,0,14,14,15,0,1,7,2,21,20.5,-3,James Harden
+2021-03-17,31-203,BRK,AWAY,IND,W (+9),1,42:07,13,27,.481,2,9,.222,12,14,.857,2,8,10,15,2,0,2,4,40,38.2,+25,James Harden
+2021-03-19,31-205,BRK,AWAY,ORL,L (-8),1,34:29,4,15,.267,2,8,.250,9,12,.750,0,4,4,9,2,0,3,4,19,13.8,-9,James Harden
+2021-03-21,31-207,BRK,HOME,WAS,W (+7),1,39:05,10,23,.435,3,9,.333,3,4,.750,1,4,5,8,3,1,3,2,26,20.9,+7,James Harden
+2021-03-23,31-209,BRK,AWAY,POR,W (+4),1,39:59,7,24,.292,0,7,.000,11,13,.846,0,7,7,17,2,0,4,2,25,21.4,-5,James Harden
+2021-03-24,31-210,BRK,AWAY,UTA,L (-30),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,James Harden
+2021-03-26,31-212,BRK,AWAY,DET,W (+2),1,42:14,14,30,.467,4,11,.364,12,14,.857,2,12,14,8,1,0,3,6,44,34.0,-3,James Harden
+2021-03-29,31-215,BRK,HOME,MIN,W (+5),1,40:21,11,25,.440,4,8,.500,12,13,.923,0,11,11,13,1,1,6,0,38,32.6,+8,James Harden
+2021-03-31,31-217,BRK,HOME,HOU,W (+12),1,26:45,5,10,.500,0,3,.000,7,7,1.000,1,7,8,6,0,0,3,2,17,15.2,-10,James Harden
+2021-04-05,31-222,BRK,HOME,NYK,W (+2),1,4:22,0,1,.000,0,1,.000,0,0,,0,1,1,3,0,0,0,0,0,1.7,+1,James Harden
+2021-05-12,31-259,BRK,HOME,SAS,W (+12),0,25:44,6,8,.750,3,4,.750,3,5,.600,0,7,7,11,2,2,4,2,18,22.4,+3,James Harden
+2021-05-15,31-262,BRK,HOME,CHI,W (+14),1,25:01,2,4,.500,1,3,.333,0,2,.000,0,5,5,7,1,2,0,2,5,10.2,+5,James Harden
+2021-05-16,31-263,BRK,HOME,CLE,W (+14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,James Harden
+2020-12-26,27-202,HOU,AWAY,POR,L (-2),1,38:07,3,8,.375,1,4,.250,4,6,.667,0,3,3,1,1,0,1,1,11,7.0,-6,Danuel House Jr.
+2020-12-28,27-204,HOU,AWAY,DEN,L (-13),1,28:56,1,9,.111,0,5,.000,1,2,.500,0,4,4,6,0,0,0,5,3,0.1,-9,Danuel House Jr.
+2020-12-31,27-207,HOU,HOME,SAC,W (+3),1,27:54,5,6,.833,1,2,.500,0,0,,0,5,5,1,0,0,0,2,11,10.2,+7,Danuel House Jr.
+2021-01-02,27-209,HOU,HOME,SAC,W (+8),1,35:32,1,4,.250,1,4,.250,2,2,1.000,1,5,6,1,0,1,0,2,5,5.4,+14,Danuel House Jr.
+2021-01-26,27-233,HOU,HOME,WAS,W (+19),0,13:31,1,4,.250,0,0,,0,0,,0,1,1,0,0,1,1,2,2,-1.2,+9,Danuel House Jr.
+2021-01-28,27-235,HOU,HOME,POR,W (+3),0,19:14,4,7,.571,2,5,.400,1,1,1.000,1,1,2,1,0,0,0,0,11,9.4,+9,Danuel House Jr.
+2021-01-30,27-237,HOU,AWAY,NOP,W (+14),0,27:41,2,7,.286,2,5,.400,2,2,1.000,0,4,4,4,1,1,1,1,8,8.2,+9,Danuel House Jr.
+2021-02-01,27-239,HOU,AWAY,OKC,W (+30),0,25:51,4,8,.500,4,6,.667,1,1,1.000,0,4,4,1,1,1,0,0,13,12.6,+12,Danuel House Jr.
+2021-02-03,27-241,HOU,AWAY,OKC,L (-17),0,25:24,1,7,.143,0,5,.000,0,0,,0,4,4,3,1,0,3,2,2,-2.0,-18,Danuel House Jr.
+2021-02-04,27-242,HOU,AWAY,MEM,W (+12),0,31:34,5,9,.556,3,5,.600,0,1,.000,0,2,2,5,3,0,0,3,13,14.2,-14,Danuel House Jr.
+2021-02-06,27-244,HOU,HOME,SAS,L (-5),0,25:17,4,11,.364,3,8,.375,1,2,.500,1,4,5,0,1,0,1,4,12,5.8,-3,Danuel House Jr.
+2021-02-08,27-246,HOU,AWAY,CHO,L (-25),1,30:23,5,11,.455,2,7,.286,1,2,.500,1,2,3,2,0,0,1,1,13,8.2,-19,Danuel House Jr.
+2021-02-09,27-247,HOU,AWAY,NOP,L (-29),0,34:17,4,13,.308,1,7,.143,4,4,1.000,3,5,8,5,3,0,1,3,13,13.4,-21,Danuel House Jr.
+2021-02-11,27-249,HOU,HOME,MIA,L (-7),0,31:01,3,13,.231,1,9,.111,2,2,1.000,0,2,2,1,1,1,1,2,9,2.3,-8,Danuel House Jr.
+2021-02-13,27-251,HOU,AWAY,NYK,L (-22),0,22:36,0,8,.000,0,5,.000,0,0,,0,2,2,1,0,3,1,0,0,-3.2,-10,Danuel House Jr.
+2021-02-15,27-253,HOU,AWAY,WAS,L (-12),1,35:53,6,10,.600,1,4,.250,4,5,.800,1,4,5,3,1,1,4,2,17,12.9,-5,Danuel House Jr.
+2021-02-17,27-255,HOU,AWAY,PHI,L (-5),1,20:34,3,4,.750,2,3,.667,0,0,,2,0,2,1,0,0,1,1,8,7.1,-13,Danuel House Jr.
+2021-02-22,27-260,HOU,HOME,CHI,L (-20),1,26:02,5,9,.556,4,5,.800,1,2,.500,1,5,6,2,1,0,0,1,15,14.5,-37,Danuel House Jr.
+2021-02-24,27-262,HOU,AWAY,CLE,L (-16),1,34:09,6,14,.429,2,5,.400,0,0,,1,4,5,3,0,3,0,3,14,11.5,-9,Danuel House Jr.
+2021-02-26,27-264,HOU,AWAY,TOR,L (-11),1,33:18,3,8,.375,3,7,.429,2,2,1.000,1,5,6,1,0,0,3,5,11,4.5,-27,Danuel House Jr.
+2021-02-28,27-266,HOU,HOME,MEM,L (-49),1,23:30,2,11,.182,0,6,.000,1,1,1.000,3,2,5,0,0,0,2,1,5,-1.6,-26,Danuel House Jr.
+2021-03-01,27-267,HOU,HOME,CLE,L (-11),1,10:51,1,3,.333,1,2,.500,1,2,.500,0,3,3,0,0,0,0,2,4,2.0,-8,Danuel House Jr.
+2021-03-17,27-283,HOU,HOME,GSW,L (-14),1,24:15,4,8,.500,2,2,1.000,1,5,.200,0,3,3,1,0,0,1,1,11,5.6,-15,Danuel House Jr.
+2021-03-19,27-285,HOU,HOME,DET,L (-13),1,34:25,4,10,.400,2,4,.500,0,0,,0,4,4,2,1,0,0,4,10,6.6,-11,Danuel House Jr.
+2021-03-21,27-287,HOU,HOME,OKC,L (-2),1,33:09,7,9,.778,3,4,.750,1,2,.500,1,7,8,2,1,0,0,1,18,18.9,-1,Danuel House Jr.
+2021-03-22,27-288,HOU,HOME,TOR,W (+18),1,36:47,4,5,.800,2,3,.667,2,3,.667,0,3,3,6,0,1,3,3,12,11.3,+14,Danuel House Jr.
+2021-03-24,27-290,HOU,HOME,CHO,L (-25),1,24:44,4,7,.571,2,3,.667,0,0,,1,4,5,1,1,0,0,2,10,9.5,-16,Danuel House Jr.
+2021-03-29,27-295,HOU,HOME,MEM,L (-10),1,24:03,0,3,.000,0,1,.000,2,4,.500,0,3,3,3,1,0,1,1,2,1.7,0,Danuel House Jr.
+2021-03-31,27-297,HOU,AWAY,BRK,L (-12),1,30:07,5,10,.500,4,8,.500,4,6,.667,0,5,5,1,1,1,3,3,18,11.9,-5,Danuel House Jr.
+2021-04-02,27-299,HOU,AWAY,BOS,L (-16),1,22:21,2,6,.333,1,4,.250,0,0,,0,2,2,0,0,0,1,1,5,0.8,-13,Danuel House Jr.
+2021-04-04,27-301,HOU,HOME,NOP,L (-7),1,11:46,0,2,.000,0,1,.000,1,2,.500,0,1,1,1,0,0,0,2,1,-0.6,-6,Danuel House Jr.
+2021-04-23,27-320,HOU,HOME,LAC,L (-5),0,20:58,2,4,.500,1,3,.333,0,0,,0,1,1,0,0,0,0,1,5,2.9,-4,Danuel House Jr.
+2021-04-27,27-324,HOU,HOME,MIN,L (-7),1,20:45,1,3,.333,0,2,.000,0,0,,0,2,2,2,0,2,1,1,2,2.3,0,Danuel House Jr.
+2021-05-07,27-334,HOU,AWAY,MIL,L (-8),0,16:02,2,7,.286,1,5,.200,1,3,.333,0,2,2,7,1,0,2,3,6,4.4,+1,Danuel House Jr.
+2021-05-08,27-335,HOU,AWAY,UTA,L (-8),0,18:05,3,8,.375,2,5,.400,1,1,1.000,0,3,3,1,0,0,1,1,9,4.8,+9,Danuel House Jr.
+2021-05-10,27-337,HOU,AWAY,POR,L (-11),1,13:22,3,6,.500,0,2,.000,0,0,,0,3,3,0,0,0,2,0,6,1.9,-1,Danuel House Jr.
+2021-05-16,27-343,HOU,AWAY,ATL,L (-29),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Danuel House Jr.
+2021-02-12,23-166,SAC,HOME,ORL,L (-11),0,16:45,3,7,.429,0,2,.000,0,0,,1,0,1,1,0,1,1,0,6,3.4,+11,DaQuan Jeffries
+2021-02-14,23-168,SAC,HOME,MEM,L (-14),1,11:47,0,2,.000,0,1,.000,0,0,,0,3,3,0,1,1,1,1,0,-0.2,-11,DaQuan Jeffries
+2021-02-15,23-169,SAC,HOME,BRK,L (-11),0,12:20,0,3,.000,0,3,.000,0,0,,1,1,2,1,2,0,0,2,0,0.8,+18,DaQuan Jeffries
+2021-02-18,23-172,SAC,HOME,MIA,L (-8),0,17:20,6,6,1.000,5,5,1.000,0,0,,0,0,0,0,0,0,1,1,17,13.8,+12,DaQuan Jeffries
+2021-02-20,23-174,SAC,AWAY,CHI,L (-8),0,17:45,2,4,.500,0,2,.000,0,0,,1,1,2,0,1,0,0,0,4,4.0,-1,DaQuan Jeffries
+2021-02-21,23-175,SAC,AWAY,MIL,L (-13),1,39:35,5,13,.385,2,5,.400,6,7,.857,2,4,6,2,1,1,0,5,18,14.2,0,DaQuan Jeffries
+2021-02-23,23-177,SAC,AWAY,BRK,L (-9),0,14:48,2,3,.667,1,1,1.000,0,0,,0,2,2,0,0,1,0,2,5,4.2,+4,DaQuan Jeffries
+2021-02-25,23-179,SAC,AWAY,NYK,L (-19),0,18:42,2,4,.500,0,1,.000,0,0,,0,1,1,0,0,0,0,1,4,1.9,-9,DaQuan Jeffries
+2021-02-26,23-180,SAC,AWAY,DET,W (+3),0,14:26,1,6,.167,0,2,.000,0,0,,0,1,1,0,0,0,2,3,2,-4.7,-5,DaQuan Jeffries
+2021-02-28,23-182,SAC,HOME,CHO,L (-1),0,12:28,0,2,.000,0,2,.000,0,0,,1,1,2,0,0,0,0,1,0,-0.8,-10,DaQuan Jeffries
+2021-03-03,23-185,SAC,HOME,LAL,W (+3),0,6:07,1,2,.500,0,0,,0,0,,1,0,1,0,0,0,0,0,2,1.7,+2,DaQuan Jeffries
+2021-03-04,23-186,SAC,AWAY,POR,L (-4),0,6:42,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-4,DaQuan Jeffries
+2021-03-11,23-193,SAC,HOME,HOU,W (+20),0,12:22,0,1,.000,0,1,.000,0,0,,0,2,2,0,1,0,2,3,0,-2.3,+5,DaQuan Jeffries
+2021-03-13,23-195,SAC,AWAY,ATL,L (-15),0,1:10,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,DaQuan Jeffries
+2021-03-20,23-202,SAC,AWAY,PHI,L (-24),0,3:28,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,1,0,-0.8,-3,DaQuan Jeffries
+2021-03-25,23-207,SAC,HOME,GSW,W (+22),0,21:38,2,3,.667,1,2,.500,0,0,,1,1,2,1,1,0,0,2,5,5.6,+13,DaQuan Jeffries
+2021-03-29,23-211,SAC,AWAY,SAS,W (+17),0,1:11,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,0,DaQuan Jeffries
+2021-04-02,23-215,SAC,HOME,LAL,L (-21),0,3:11,0,0,,0,0,,0,0,,1,1,2,1,0,0,1,0,0,0.7,+2,DaQuan Jeffries
+2021-04-09,23-222,HOU,AWAY,LAC,L (-17),0,2:58,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,+2,DaQuan Jeffries
+2021-04-16,23-229,HOU,HOME,DEN,L (-29),0,10:09,1,3,.333,0,2,.000,0,0,,0,0,0,1,0,2,0,0,2,2.4,-8,DaQuan Jeffries
+2021-04-19,23-232,HOU,AWAY,MIA,L (-22),0,4:20,1,1,1.000,1,1,1.000,0,0,,1,0,1,1,0,0,0,0,3,4.1,+1,DaQuan Jeffries
+2021-04-21,23-234,HOU,HOME,UTA,L (-23),0,20:15,1,5,.200,0,4,.000,0,0,,1,4,5,0,1,0,0,2,2,1.0,-10,DaQuan Jeffries
+2021-04-23,23-236,HOU,HOME,LAC,L (-5),0,13:22,0,3,.000,0,1,.000,0,0,,1,2,3,0,0,0,0,1,0,-1.2,-8,DaQuan Jeffries
+2021-04-24,23-237,HOU,AWAY,DEN,L (-13),0,29:04,2,6,.333,1,3,.333,0,0,,1,3,4,0,0,1,0,2,5,3.1,+8,DaQuan Jeffries
+2021-04-29,23-242,HOU,HOME,MIL,W (+7),0,10:46,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,1,1,1,0,-1.4,+4,DaQuan Jeffries
+2021-05-01,23-244,HOU,HOME,GSW,L (-26),0,21:45,3,6,.500,1,3,.333,0,0,,2,4,6,3,1,1,1,1,7,9.0,+2,DaQuan Jeffries
+2021-05-02,23-245,HOU,HOME,NYK,L (-25),0,19:23,3,6,.500,3,6,.500,0,0,,2,2,4,0,1,1,0,5,9,7.7,-10,DaQuan Jeffries
+2021-05-05,23-248,HOU,HOME,PHI,L (-20),1,40:58,2,10,.200,0,4,.000,1,1,1.000,0,6,6,3,2,0,2,1,5,2.3,-12,DaQuan Jeffries
+2021-05-07,23-250,HOU,AWAY,MIL,L (-8),1,32:21,5,6,.833,2,3,.667,0,0,,1,3,4,1,1,0,0,3,12,11.9,-21,DaQuan Jeffries
+2021-05-08,23-251,HOU,AWAY,UTA,L (-8),1,36:32,7,14,.500,3,10,.300,0,0,,1,6,7,5,2,0,1,3,17,15.8,-12,DaQuan Jeffries
+2021-05-10,23-253,HOU,AWAY,POR,L (-11),0,19:09,1,2,.500,0,1,.000,0,0,,0,2,2,1,0,0,1,6,2,-1.1,-16,DaQuan Jeffries
+2021-01-08,22-171,HOU,HOME,ORL,W (+42),0,7:22,1,3,.333,0,1,.000,0,0,,1,0,1,2,0,0,1,0,2,1.4,+2,Mason Jones
+2021-01-10,22-173,HOU,HOME,LAL,L (-18),0,3:02,1,2,.500,0,1,.000,1,2,.500,1,2,3,0,0,0,0,0,3,2.9,0,Mason Jones
+2021-01-12,22-175,HOU,HOME,LAL,L (-17),0,12:00,1,4,.250,1,3,.333,2,4,.500,0,3,3,1,1,0,0,2,5,3.6,+9,Mason Jones
+2021-01-14,22-177,HOU,AWAY,SAS,W (+4),0,14:28,4,8,.500,0,1,.000,1,1,1.000,0,1,1,1,0,0,3,1,9,2.6,-2,Mason Jones
+2021-01-16,22-179,HOU,AWAY,SAS,L (-12),1,35:22,8,12,.667,6,8,.750,2,4,.500,1,5,6,4,0,0,6,2,24,16.2,-13,Mason Jones
+2021-01-18,22-181,HOU,AWAY,CHI,L (-5),0,14:26,3,4,.750,2,3,.667,2,4,.500,0,0,0,2,1,0,0,0,10,10.0,-12,Mason Jones
+2021-01-20,22-183,HOU,HOME,PHO,L (-6),0,11:52,3,5,.600,2,3,.667,0,0,,0,0,0,0,2,0,3,0,8,4.7,-15,Mason Jones
+2021-01-22,22-185,HOU,AWAY,DET,W (+1),0,3:11,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.8,-3,Mason Jones
+2021-01-23,22-186,HOU,AWAY,DAL,W (+25),0,18:36,6,8,.750,3,4,.750,1,2,.500,0,5,5,3,0,0,1,4,16,13.4,+16,Mason Jones
+2021-01-30,22-193,HOU,AWAY,NOP,W (+14),0,5:01,0,1,.000,0,1,.000,0,0,,0,1,1,1,0,0,0,2,0,-0.5,-9,Mason Jones
+2021-02-01,22-195,HOU,AWAY,OKC,W (+30),0,8:41,2,3,.667,1,1,1.000,0,0,,0,3,3,3,0,0,0,1,5,6.3,-1,Mason Jones
+2021-02-03,22-197,HOU,AWAY,OKC,L (-17),0,11:05,1,3,.333,0,2,.000,2,4,.500,0,3,3,2,0,0,1,1,4,2.4,0,Mason Jones
+2021-02-04,22-198,HOU,AWAY,MEM,W (+12),0,7:52,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,-13,Mason Jones
+2021-02-08,22-202,HOU,AWAY,CHO,L (-25),0,15:13,2,6,.333,2,5,.400,0,0,,0,2,2,2,0,0,1,0,6,3.6,-6,Mason Jones
+2021-02-09,22-203,HOU,AWAY,NOP,L (-29),0,1:46,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-6,Mason Jones
+2021-02-13,22-207,HOU,AWAY,NYK,L (-22),0,8:35,0,3,.000,0,3,.000,1,2,.500,0,4,4,1,0,0,1,0,1,-0.6,+1,Mason Jones
+2021-02-15,22-209,HOU,AWAY,WAS,L (-12),0,13:05,1,5,.200,0,3,.000,4,6,.667,0,1,1,2,1,0,1,2,6,3.0,-1,Mason Jones
+2021-02-17,22-211,HOU,AWAY,PHI,L (-5),0,9:32,0,3,.000,0,2,.000,1,2,.500,0,2,2,0,1,0,2,0,1,-1.9,-15,Mason Jones
+2021-02-22,22-216,HOU,HOME,CHI,L (-20),0,8:41,1,3,.333,0,0,,1,1,1.000,0,2,2,0,0,0,1,2,3,0.1,+8,Mason Jones
+2021-02-28,22-222,HOU,HOME,MEM,L (-49),0,15:36,1,5,.200,1,5,.200,9,10,.900,1,4,5,2,0,0,2,0,12,9.8,-13,Mason Jones
+2021-03-01,22-223,HOU,HOME,CLE,L (-11),0,4:32,1,2,.500,0,1,.000,1,1,1.000,0,1,1,0,0,0,1,0,3,1.3,+2,Mason Jones
+2021-03-03,22-225,HOU,HOME,BRK,L (-18),0,14:29,2,5,.400,0,2,.000,0,0,,0,2,2,3,0,0,1,2,4,2.2,-8,Mason Jones
+2021-03-12,22-234,HOU,AWAY,UTA,L (-15),0,10:21,0,4,.000,0,3,.000,1,1,1.000,0,0,0,2,0,0,1,0,1,-1.4,-2,Mason Jones
+2021-03-14,22-236,HOU,HOME,BOS,L (-27),0,12:00,5,7,.714,4,5,.800,0,3,.000,0,1,1,3,0,0,1,0,14,11.3,+5,Mason Jones
+2021-03-16,22-238,HOU,HOME,ATL,L (-12),0,16:44,3,8,.375,1,5,.200,2,2,1.000,0,0,0,2,0,0,0,0,9,6.0,-11,Mason Jones
+2021-03-17,22-239,HOU,HOME,GSW,L (-14),0,23:45,1,8,.125,0,2,.000,4,8,.500,0,4,4,3,0,1,0,0,6,3.2,+1,Mason Jones
+2021-04-04,22-257,PHI,HOME,MEM,L (-16),0,9:29,3,3,1.000,0,0,,0,0,,2,0,2,1,0,0,0,0,6,7.2,+10,Mason Jones
+2021-04-09,22-262,PHI,AWAY,NOP,L (-7),0,0:31,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,+2,Mason Jones
+2021-04-10,22-263,PHI,AWAY,OKC,W (+24),0,4:00,1,2,.500,1,1,1.000,0,0,,0,1,1,0,0,0,0,0,3,2.3,+3,Mason Jones
+2021-04-12,22-265,PHI,AWAY,DAL,W (+18),0,1:21,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-2,Mason Jones
+2021-04-24,22-277,PHI,AWAY,MIL,L (-38),0,5:55,0,1,.000,0,0,,5,7,.714,1,0,1,1,0,0,0,0,5,4.9,-11,Mason Jones
+2021-04-26,22-279,PHI,HOME,OKC,W (+31),0,5:56,1,2,.500,0,0,,0,0,,0,0,0,0,1,0,1,2,2,0.2,-6,Mason Jones
+2020-12-22,22-321,BRK,HOME,GSW,W (+26),0,6:36,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,0,0,3,3.0,-9,Rodions Kurucs
+2020-12-25,22-324,BRK,AWAY,BOS,W (+28),0,2:30,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.8,+4,Rodions Kurucs
+2021-01-01,22-331,BRK,HOME,ATL,L (-18),0,3:00,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-0.4,-4,Rodions Kurucs
+2021-01-07,22-337,BRK,HOME,PHI,W (+13),0,1:27,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Rodions Kurucs
+2021-01-10,22-340,BRK,HOME,OKC,L (-13),0,2:15,0,0,,0,0,,0,0,,0,0,0,2,0,0,0,0,0,1.4,+1,Rodions Kurucs
+2021-01-16,22-346,HOU,AWAY,SAS,L (-12),0,21:18,1,5,.200,0,4,.000,0,0,,0,4,4,1,2,0,2,3,2,-0.4,+13,Rodions Kurucs
+2021-01-23,22-353,HOU,AWAY,DAL,W (+25),0,5:27,1,2,.500,0,0,,0,0,,0,2,2,0,1,0,1,1,2,1.2,+5,Rodions Kurucs
+2021-01-30,22-360,HOU,AWAY,NOP,W (+14),0,5:01,0,0,,0,0,,0,0,,1,0,1,0,0,0,2,0,0,-1.3,-9,Rodions Kurucs
+2021-02-01,22-362,HOU,AWAY,OKC,W (+30),0,5:03,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-1.4,+2,Rodions Kurucs
+2021-02-03,22-364,HOU,AWAY,OKC,L (-17),0,5:40,1,1,1.000,1,1,1.000,0,0,,0,1,1,1,0,0,0,1,3,3.3,+6,Rodions Kurucs
+2021-02-04,22-365,HOU,AWAY,MEM,W (+12),0,4:11,1,2,.500,1,2,.500,1,2,.500,0,0,0,0,0,0,0,1,4,2.2,-10,Rodions Kurucs
+2021-02-08,23-003,HOU,AWAY,CHO,L (-25),0,4:31,0,2,.000,0,2,.000,0,0,,0,0,0,0,1,2,0,0,0,1.0,-4,Rodions Kurucs
+2021-02-09,23-004,HOU,AWAY,NOP,L (-29),0,1:46,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,2,0,0,-2.7,-6,Rodions Kurucs
+2021-02-13,23-008,HOU,AWAY,NYK,L (-22),0,3:49,1,2,.500,0,1,.000,0,0,,1,0,1,0,1,0,0,1,2,2.3,0,Rodions Kurucs
+2021-02-22,23-017,HOU,HOME,CHI,L (-20),0,9:44,0,2,.000,0,2,.000,0,0,,0,1,1,0,0,1,1,0,0,-1.4,+5,Rodions Kurucs
+2021-02-28,23-023,HOU,HOME,MEM,L (-49),0,8:33,0,2,.000,0,1,.000,0,0,,0,1,1,2,1,1,1,0,0,1.0,-5,Rodions Kurucs
+2021-04-09,23-063,MIL,HOME,CHO,L (-8),0,16:57,0,1,.000,0,0,,0,0,,2,4,6,4,2,0,1,1,0,5.3,0,Rodions Kurucs
+2021-04-11,23-065,MIL,AWAY,ORL,W (+37),0,5:01,2,2,1.000,1,1,1.000,0,0,,1,1,2,0,0,0,0,2,5,4.6,+2,Rodions Kurucs
+2021-04-14,23-068,MIL,AWAY,MIN,W (+25),0,6:22,3,4,.750,2,2,1.000,0,0,,0,1,1,0,1,0,2,2,8,4.9,-2,Rodions Kurucs
+2021-04-17,23-071,MIL,HOME,MEM,L (-13),0,1:29,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,0,Rodions Kurucs
+2021-04-24,23-078,MIL,HOME,PHI,W (+38),0,3:52,0,0,,0,0,,2,2,1.000,0,0,0,0,0,0,1,3,2,-0.2,+7,Rodions Kurucs
+2021-03-11,23-050,HOU,AWAY,SAC,L (-20),0,13:28,1,4,.250,1,3,.333,0,0,,0,1,1,0,0,0,0,2,3,0.1,,Anthony Lamb
+2021-03-12,23-051,HOU,AWAY,UTA,L (-15),0,22:39,1,7,.143,1,5,.200,0,0,,6,2,8,1,0,0,1,4,3,1.4,+6,Anthony Lamb
+2021-03-14,23-053,HOU,HOME,BOS,L (-27),0,19:59,0,5,.000,0,3,.000,0,0,,1,3,4,0,0,0,1,1,0,-3.3,-20,Anthony Lamb
+2021-03-16,23-055,HOU,HOME,ATL,L (-12),0,18:06,0,4,.000,0,2,.000,0,0,,1,3,4,0,0,0,0,4,0,-2.8,-12,Anthony Lamb
+2021-03-17,23-056,HOU,HOME,GSW,L (-14),0,26:43,3,7,.429,0,2,.000,3,4,.750,3,6,9,1,1,1,0,3,9,10.0,-16,Anthony Lamb
+2021-03-19,23-058,HOU,HOME,DET,L (-13),0,0:19,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Anthony Lamb
+2021-03-24,23-063,HOU,HOME,CHO,L (-25),0,6:28,1,3,.333,1,2,.500,0,0,,1,0,1,0,0,0,0,0,3,2.0,+2,Anthony Lamb
+2021-03-27,23-066,HOU,AWAY,MIN,W (+22),0,7:05,1,3,.333,0,2,.000,0,0,,0,0,0,0,0,0,1,0,2,-0.7,-7,Anthony Lamb
+2021-04-02,23-072,HOU,AWAY,BOS,L (-16),0,4:34,0,1,.000,0,1,.000,0,0,,1,0,1,1,0,0,0,0,0,0.7,+6,Anthony Lamb
+2021-04-09,23-079,HOU,AWAY,LAC,L (-17),0,2:58,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,+2,Anthony Lamb
+2021-04-16,23-086,HOU,HOME,DEN,L (-29),0,4:16,0,1,.000,0,0,,2,2,1.000,0,0,0,0,0,0,0,0,2,1.3,-2,Anthony Lamb
+2021-04-19,23-089,HOU,AWAY,MIA,L (-22),0,4:20,0,1,.000,0,1,.000,0,0,,1,0,1,1,0,0,0,0,0,0.7,+1,Anthony Lamb
+2021-04-21,23-091,HOU,HOME,UTA,L (-23),0,5:13,3,4,.750,2,3,.667,0,0,,0,1,1,1,0,1,0,0,8,8.1,+11,Anthony Lamb
+2021-04-24,23-094,HOU,AWAY,DEN,L (-13),0,30:34,8,14,.571,4,9,.444,1,1,1.000,1,0,1,1,0,0,3,4,21,11.2,0,Anthony Lamb
+2021-04-29,23-099,HOU,HOME,MIL,W (+7),0,7:37,0,1,.000,0,1,.000,0,0,,0,1,1,0,1,0,0,0,0,0.6,-5,Anthony Lamb
+2021-05-01,23-101,HOU,HOME,GSW,L (-26),0,7:24,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-2,Anthony Lamb
+2021-05-02,23-102,HOU,HOME,NYK,L (-25),0,13:23,2,4,.500,1,2,.500,2,2,1.000,1,1,2,1,0,1,1,1,7,6.0,-1,Anthony Lamb
+2021-05-05,23-105,HOU,HOME,PHI,L (-20),0,35:49,7,15,.467,4,9,.444,4,4,1.000,2,3,5,2,1,0,2,3,22,15.8,-8,Anthony Lamb
+2021-05-07,23-107,HOU,AWAY,MIL,L (-8),1,34:51,5,12,.417,4,10,.400,0,0,,0,4,4,2,0,2,2,4,14,8.0,-2,Anthony Lamb
+2021-05-08,23-108,HOU,AWAY,UTA,L (-8),1,31:46,1,6,.167,0,2,.000,1,2,.500,3,2,5,0,0,0,2,2,3,-1.3,-19,Anthony Lamb
+2021-05-10,23-110,HOU,AWAY,POR,L (-11),0,11:04,1,1,1.000,1,1,1.000,0,0,,0,3,3,1,0,0,0,0,3,4.3,+4,Anthony Lamb
+2021-05-12,23-112,HOU,AWAY,LAL,L (-2),0,34:03,4,7,.571,1,3,.333,0,0,,2,7,9,4,1,0,2,5,9,9.0,-18,Anthony Lamb
+2021-05-14,23-114,HOU,HOME,LAC,W (+7),0,30:09,6,10,.600,3,5,.600,2,2,1.000,2,3,5,3,0,0,1,0,17,15.8,+19,Anthony Lamb
+2021-05-16,23-116,HOU,AWAY,ATL,L (-29),1,42:23,2,6,.333,0,4,.000,3,4,.750,2,2,4,4,2,0,3,1,7,6.6,-23,Anthony Lamb
+2021-01-08,20-002,HOU,HOME,ORL,W (+42),0,5:28,3,3,1.000,1,1,1.000,0,0,,0,1,1,0,1,0,0,0,7,7.4,+3,Kenyon Martin Jr.
+2021-01-10,20-004,HOU,HOME,LAL,L (-18),0,3:02,0,3,.000,0,0,,0,0,,2,0,2,1,0,0,0,0,0,0.0,0,Kenyon Martin Jr.
+2021-01-12,20-006,HOU,HOME,LAL,L (-17),0,5:16,0,2,.000,0,1,.000,0,0,,0,0,0,2,0,0,0,0,0,0.0,+7,Kenyon Martin Jr.
+2021-01-14,20-008,HOU,AWAY,SAS,W (+4),0,15:41,3,5,.600,0,0,,0,1,.000,1,4,5,1,0,1,1,2,6,4.8,+3,Kenyon Martin Jr.
+2021-01-16,20-010,HOU,AWAY,SAS,L (-12),0,16:32,1,5,.200,0,0,,0,2,.000,1,4,5,0,0,1,4,3,2,-4.5,-2,Kenyon Martin Jr.
+2021-01-22,20-016,HOU,AWAY,DET,W (+1),0,2:30,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1,Kenyon Martin Jr.
+2021-01-23,20-017,HOU,AWAY,DAL,W (+25),0,20:15,3,9,.333,0,2,.000,2,2,1.000,4,2,6,0,1,3,0,4,8,7.8,+14,Kenyon Martin Jr.
+2021-03-11,20-064,HOU,AWAY,SAC,L (-20),0,32:18,6,9,.667,1,1,1.000,0,0,,5,4,9,0,0,3,2,2,13,13.1,-11,Kenyon Martin Jr.
+2021-03-12,20-065,HOU,AWAY,UTA,L (-15),0,28:31,6,15,.400,0,4,.000,3,5,.600,6,4,10,1,3,1,1,1,15,14.5,-4,Kenyon Martin Jr.
+2021-03-14,20-067,HOU,HOME,BOS,L (-27),0,30:58,6,10,.600,2,3,.667,7,8,.875,2,2,4,3,2,1,2,2,21,20.0,-9,Kenyon Martin Jr.
+2021-03-16,20-069,HOU,HOME,ATL,L (-12),0,33:54,3,6,.500,0,1,.000,1,2,.500,2,3,5,2,0,2,2,0,7,6.7,-14,Kenyon Martin Jr.
+2021-03-17,20-070,HOU,HOME,GSW,L (-14),0,30:00,5,7,.714,1,1,1.000,2,2,1.000,3,6,9,0,0,0,3,2,13,10.2,-10,Kenyon Martin Jr.
+2021-03-19,20-072,HOU,HOME,DET,L (-13),0,20:39,4,6,.667,0,1,.000,0,0,,2,3,5,0,0,1,0,1,8,8.0,-8,Kenyon Martin Jr.
+2021-03-21,20-074,HOU,HOME,OKC,L (-2),0,14:14,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,3,3,0,-4.6,-8,Kenyon Martin Jr.
+2021-03-22,20-075,HOU,HOME,TOR,W (+18),0,19:24,1,6,.167,1,2,.500,4,4,1.000,3,5,8,1,1,2,0,2,7,9.1,+1,Kenyon Martin Jr.
+2021-03-24,20-077,HOU,HOME,CHO,L (-25),0,25:48,3,4,.750,1,1,1.000,2,2,1.000,0,2,2,1,3,1,0,6,9,10.0,-19,Kenyon Martin Jr.
+2021-03-26,20-079,HOU,AWAY,MIN,L (-6),0,24:04,1,3,.333,0,2,.000,0,0,,0,7,7,0,0,1,0,0,2,3.1,-9,Kenyon Martin Jr.
+2021-03-27,20-080,HOU,AWAY,MIN,W (+22),0,23:10,3,3,1.000,1,1,1.000,1,1,1.000,1,5,6,1,0,1,1,4,8,8.1,+8,Kenyon Martin Jr.
+2021-03-29,20-082,HOU,HOME,MEM,L (-10),0,11:13,3,3,1.000,0,0,,0,0,,1,2,3,0,0,0,0,2,6,5.6,0,Kenyon Martin Jr.
+2021-03-31,20-084,HOU,AWAY,BRK,L (-12),0,15:35,2,2,1.000,0,0,,0,0,,3,1,4,0,1,0,0,0,4,6.8,+5,Kenyon Martin Jr.
+2021-04-02,20-086,HOU,AWAY,BOS,L (-16),0,23:59,3,5,.600,0,0,,0,1,.000,2,1,3,2,0,1,0,1,6,6.7,+6,Kenyon Martin Jr.
+2021-04-04,20-088,HOU,HOME,NOP,L (-7),0,20:46,4,5,.800,0,0,,1,2,.500,2,3,5,0,1,1,0,3,9,9.5,-3,Kenyon Martin Jr.
+2021-04-05,20-089,HOU,HOME,PHO,L (-3),0,19:36,4,7,.571,1,3,.333,4,6,.667,0,3,3,3,0,2,1,3,13,11.1,+11,Kenyon Martin Jr.
+2021-04-07,20-091,HOU,HOME,DAL,W (+9),0,16:16,1,1,1.000,0,0,,0,0,,2,3,5,0,0,1,0,2,2,3.9,-12,Kenyon Martin Jr.
+2021-04-09,20-093,HOU,AWAY,LAC,L (-17),0,20:56,4,6,.667,2,3,.667,4,4,1.000,3,3,6,0,0,0,0,1,14,14.0,+7,Kenyon Martin Jr.
+2021-04-10,20-094,HOU,AWAY,GSW,L (-16),0,16:02,1,2,.500,0,1,.000,0,0,,0,2,2,0,0,1,0,0,2,2.3,-8,Kenyon Martin Jr.
+2021-04-12,20-096,HOU,AWAY,PHO,L (-6),0,24:14,3,4,.750,1,1,1.000,2,2,1.000,0,7,7,0,0,2,0,3,9,9.7,-16,Kenyon Martin Jr.
+2021-04-14,20-098,HOU,HOME,IND,L (-8),0,13:55,0,4,.000,0,1,.000,0,0,,2,6,8,0,1,0,0,2,0,0.6,-12,Kenyon Martin Jr.
+2021-04-16,20-100,HOU,HOME,DEN,L (-29),0,22:56,2,8,.250,0,2,.000,0,0,,4,3,7,2,1,0,0,2,4,4.5,-18,Kenyon Martin Jr.
+2021-04-18,20-102,HOU,AWAY,ORL,W (+4),0,21:45,2,5,.400,0,1,.000,2,2,1.000,2,4,6,0,0,0,0,1,6,5.5,-2,Kenyon Martin Jr.
+2021-04-19,20-103,HOU,AWAY,MIA,L (-22),0,18:49,3,6,.500,0,1,.000,0,0,,0,4,4,0,1,1,0,1,6,5.5,-1,Kenyon Martin Jr.
+2021-04-21,20-105,HOU,HOME,UTA,L (-23),0,29:13,2,6,.333,0,3,.000,2,2,1.000,0,3,3,0,1,2,0,1,6,5.5,-7,Kenyon Martin Jr.
+2021-04-23,20-107,HOU,HOME,LAC,L (-5),0,23:11,2,6,.333,1,2,.500,0,0,,1,2,3,0,0,2,0,3,5,3.1,-13,Kenyon Martin Jr.
+2021-04-24,20-108,HOU,AWAY,DEN,L (-13),1,41:56,7,12,.583,1,2,.500,3,8,.375,2,2,4,2,3,0,2,2,18,14.0,-8,Kenyon Martin Jr.
+2021-04-27,20-111,HOU,HOME,MIN,L (-7),0,21:19,6,12,.500,0,2,.000,3,4,.750,2,1,3,0,2,1,1,1,15,11.6,-19,Kenyon Martin Jr.
+2021-04-29,20-113,HOU,HOME,MIL,W (+7),0,19:57,2,5,.400,0,2,.000,1,2,.500,1,4,5,0,1,1,1,1,5,4.1,-5,Kenyon Martin Jr.
+2021-05-01,20-115,HOU,HOME,GSW,L (-26),0,33:02,6,10,.600,0,3,.000,4,4,1.000,1,8,9,0,0,1,0,2,16,14.4,-14,Kenyon Martin Jr.
+2021-05-02,20-116,HOU,HOME,NYK,L (-25),0,31:44,5,9,.556,1,2,.500,2,2,1.000,3,3,6,0,0,1,1,4,13,9.8,-27,Kenyon Martin Jr.
+2021-05-05,20-119,HOU,HOME,PHI,L (-20),1,44:26,10,17,.588,2,4,.500,1,1,1.000,4,6,10,6,0,2,2,3,23,22.1,-27,Kenyon Martin Jr.
+2021-05-07,20-121,HOU,AWAY,MIL,L (-8),1,39:13,10,21,.476,6,10,.600,0,0,,1,6,7,7,0,0,2,6,26,18.3,-10,Kenyon Martin Jr.
+2021-05-08,20-122,HOU,AWAY,UTA,L (-8),1,39:15,11,19,.579,4,8,.500,1,2,.500,1,9,10,2,2,0,0,2,27,23.7,-9,Kenyon Martin Jr.
+2021-05-10,20-124,HOU,AWAY,POR,L (-11),1,38:55,5,9,.556,3,3,1.000,2,2,1.000,2,7,9,4,2,1,1,2,15,17.9,-16,Kenyon Martin Jr.
+2021-05-12,20-126,HOU,AWAY,LAL,L (-2),1,37:11,7,10,.700,3,5,.600,3,6,.500,0,10,10,2,0,3,2,2,20,18.3,-2,Kenyon Martin Jr.
+2021-05-14,20-128,HOU,HOME,LAC,W (+7),1,34:13,5,12,.417,0,6,.000,3,4,.750,1,8,9,1,1,0,2,3,13,7.8,-4,Kenyon Martin Jr.
+2021-05-16,20-130,HOU,AWAY,ATL,L (-29),1,36:18,4,15,.267,2,9,.222,0,1,.000,1,5,6,4,2,0,4,4,10,2.1,-20,Kenyon Martin Jr.
+2021-01-08,27-332,HOU,HOME,ORL,W (+42),0,15:32,5,6,.833,5,5,1.000,0,0,,0,3,3,2,1,0,1,2,15,14.3,+11,Ben McLemore
+2021-01-10,27-334,HOU,HOME,LAL,L (-18),0,16:41,2,6,.333,2,6,.333,0,0,,0,1,1,1,0,0,2,2,6,0.8,-10,Ben McLemore
+2021-01-12,27-336,HOU,HOME,LAL,L (-17),0,16:55,4,9,.444,3,6,.500,0,0,,0,3,3,1,1,0,3,1,11,5.5,+12,Ben McLemore
+2021-01-14,27-338,HOU,AWAY,SAS,W (+4),1,21:07,1,6,.167,1,5,.200,0,0,,0,3,3,4,0,0,2,1,3,0.5,-7,Ben McLemore
+2021-01-16,27-340,HOU,AWAY,SAS,L (-12),1,38:01,7,14,.500,4,7,.571,3,4,.750,0,3,3,1,2,0,1,3,21,15.0,-6,Ben McLemore
+2021-01-18,27-342,HOU,AWAY,CHI,L (-5),0,28:01,2,6,.333,1,2,.500,0,0,,1,2,3,1,0,0,1,1,5,2.2,-16,Ben McLemore
+2021-01-20,27-344,HOU,HOME,PHO,L (-6),0,12:31,1,4,.250,1,4,.250,1,1,1.000,0,2,2,0,0,0,1,1,4,0.8,-7,Ben McLemore
+2021-01-22,27-346,HOU,AWAY,DET,W (+1),0,17:09,4,10,.400,2,6,.333,0,0,,3,4,7,3,1,1,2,1,10,9.3,+17,Ben McLemore
+2021-01-23,27-347,HOU,AWAY,DAL,W (+25),0,20:26,0,3,.000,0,3,.000,0,0,,0,2,2,3,0,0,2,2,0,-2.2,+7,Ben McLemore
+2021-01-26,27-350,HOU,HOME,WAS,W (+19),0,2:22,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,0,0,1.0,-1,Ben McLemore
+2021-01-30,27-354,HOU,AWAY,NOP,W (+14),0,5:01,1,2,.500,1,2,.500,0,0,,0,1,1,0,0,0,1,0,3,1.3,-9,Ben McLemore
+2021-02-01,27-356,HOU,AWAY,OKC,W (+30),0,17:07,2,8,.250,1,5,.200,3,3,1.000,0,3,3,1,0,0,1,4,8,2.2,-7,Ben McLemore
+2021-02-03,27-358,HOU,AWAY,OKC,L (-17),0,11:53,0,1,.000,0,1,.000,2,2,1.000,0,1,1,0,0,0,1,0,2,0.6,-4,Ben McLemore
+2021-02-04,27-359,HOU,AWAY,MEM,W (+12),0,8:00,1,3,.333,1,3,.333,0,0,,0,1,1,0,0,0,0,0,3,1.6,-5,Ben McLemore
+2021-02-08,27-363,HOU,AWAY,CHO,L (-25),0,18:27,5,8,.625,4,7,.571,1,3,.333,1,1,2,0,0,0,1,2,15,9.8,-2,Ben McLemore
+2021-02-09,27-364,HOU,AWAY,NOP,L (-29),0,3:59,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-5,Ben McLemore
+2021-02-11,28-000,HOU,HOME,MIA,L (-7),0,5:48,0,5,.000,0,5,.000,0,0,,0,0,0,2,1,0,0,0,0,-1.1,-3,Ben McLemore
+2021-02-13,28-002,HOU,AWAY,NYK,L (-22),0,3:49,0,2,.000,0,2,.000,3,3,1.000,1,0,1,0,0,0,0,0,3,2.3,0,Ben McLemore
+2021-02-15,28-004,HOU,AWAY,WAS,L (-12),0,19:56,3,9,.333,1,6,.167,0,2,.000,0,2,2,0,2,0,1,2,7,1.9,-7,Ben McLemore
+2021-02-17,28-006,HOU,AWAY,PHI,L (-5),0,20:05,5,12,.417,1,7,.143,0,0,,1,4,5,0,3,0,1,3,11,7.3,+6,Ben McLemore
+2021-02-22,28-011,HOU,HOME,CHI,L (-20),0,11:21,0,5,.000,0,5,.000,0,0,,0,2,2,1,0,0,0,0,0,-2.2,-6,Ben McLemore
+2021-02-28,28-017,HOU,HOME,MEM,L (-49),0,20:23,2,10,.200,0,7,.000,3,3,1.000,0,1,1,0,1,0,1,4,7,-0.5,-23,Ben McLemore
+2021-03-01,28-018,HOU,HOME,CLE,L (-11),0,12:21,2,3,.667,1,2,.500,0,0,,0,1,1,1,1,0,1,4,5,3.1,-2,Ben McLemore
+2021-03-03,28-020,HOU,HOME,BRK,L (-18),0,24:56,3,7,.429,3,5,.600,1,2,.500,3,1,4,2,0,0,0,0,10,9.7,-9,Ben McLemore
+2021-03-11,28-028,HOU,AWAY,SAC,L (-20),0,20:11,5,13,.385,2,8,.250,0,0,,0,3,3,1,1,1,0,1,12,7.8,+1,Ben McLemore
+2021-03-12,28-029,HOU,AWAY,UTA,L (-15),1,24:09,3,14,.214,2,6,.333,0,1,.000,1,6,7,0,1,0,1,4,8,-0.1,-17,Ben McLemore
+2021-03-14,28-031,HOU,HOME,BOS,L (-27),0,19:03,3,10,.300,3,10,.300,0,0,,0,0,0,1,1,0,1,2,9,3.1,-14,Ben McLemore
+2021-03-22,28-039,HOU,HOME,TOR,W (+18),0,11:53,2,7,.286,1,6,.167,2,3,.667,0,1,1,0,1,1,0,1,7,4.1,+8,Ben McLemore
+2021-03-24,28-041,HOU,HOME,CHO,L (-25),0,23:29,4,10,.400,4,10,.400,2,2,1.000,0,0,0,0,0,0,1,1,14,7.2,-12,Ben McLemore
+2021-03-26,28-043,HOU,AWAY,MIN,L (-6),1,35:47,7,15,.467,7,14,.500,0,0,,0,3,3,3,1,0,2,4,21,13.7,+5,Ben McLemore
+2021-03-27,28-044,HOU,AWAY,MIN,W (+22),0,26:13,4,11,.364,2,6,.333,2,3,.667,0,1,1,0,1,0,0,4,12,5.2,+7,Ben McLemore
+2021-04-02,28-050,HOU,AWAY,BOS,L (-16),0,4:34,2,4,.500,2,4,.500,0,0,,0,0,0,0,0,0,0,0,6,4.0,+6,Ben McLemore
+2021-04-08,28-056,LAL,AWAY,MIA,L (-6),0,17:21,1,4,.250,0,3,.000,4,4,1.000,0,2,2,0,0,0,0,1,6,3.8,-5,Ben McLemore
+2021-04-10,28-058,LAL,AWAY,BRK,W (+25),0,22:39,6,12,.500,5,10,.500,0,0,,1,0,1,0,1,0,1,4,17,10.1,+17,Ben McLemore
+2021-04-12,28-060,LAL,AWAY,NYK,L (-15),0,14:04,2,8,.250,2,7,.286,2,3,.667,0,0,0,1,0,0,0,3,8,2.3,-1,Ben McLemore
+2021-04-13,28-061,LAL,AWAY,CHO,W (+8),0,17:07,2,5,.400,1,3,.333,0,0,,1,3,4,1,0,0,2,3,5,1.4,+11,Ben McLemore
+2021-04-15,28-063,LAL,HOME,BOS,L (-8),0,23:01,7,12,.583,2,6,.333,1,1,1.000,1,2,3,2,0,0,1,2,17,12.3,+11,Ben McLemore
+2021-04-17,28-065,LAL,HOME,UTA,W (+12),0,10:29,1,3,.333,1,3,.333,0,0,,0,2,2,0,0,2,1,2,3,1.5,-4,Ben McLemore
+2021-04-19,28-067,LAL,HOME,UTA,L (-14),0,16:49,0,2,.000,0,2,.000,6,7,.857,0,1,1,0,0,0,0,0,6,4.5,+4,Ben McLemore
+2021-04-22,28-070,LAL,AWAY,DAL,L (-5),0,9:54,1,3,.333,1,3,.333,0,0,,0,1,1,0,0,0,1,3,3,-0.6,-10,Ben McLemore
+2021-04-24,28-072,LAL,AWAY,DAL,L (-15),1,29:17,7,12,.583,6,10,.600,0,1,.000,1,1,2,0,0,1,0,5,20,13.7,0,Ben McLemore
+2021-04-26,28-074,LAL,AWAY,ORL,W (+11),0,12:52,2,5,.400,2,5,.400,1,2,.500,0,1,1,1,0,0,0,2,7,4.1,-10,Ben McLemore
+2021-04-28,28-076,LAL,AWAY,WAS,L (-9),0,22:47,5,16,.313,4,12,.333,2,3,.667,0,3,3,1,1,0,2,3,16,5.8,-3,Ben McLemore
+2021-04-30,28-078,LAL,HOME,SAC,L (-4),0,14:34,4,7,.571,4,7,.571,0,0,,0,2,2,0,0,0,3,0,12,6.3,+10,Ben McLemore
+2021-05-02,28-080,LAL,HOME,TOR,L (-7),0,9:27,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.8,-7,Ben McLemore
+2021-05-03,28-081,LAL,HOME,DEN,W (+4),0,16:59,1,7,.143,1,5,.200,0,0,,0,1,1,0,0,0,0,0,3,-1.2,+7,Ben McLemore
+2021-05-06,28-084,LAL,AWAY,LAC,L (-24),0,24:36,3,9,.333,3,9,.333,0,0,,0,3,3,2,1,2,1,1,9,7.2,-13,Ben McLemore
+2021-05-07,28-085,LAL,AWAY,POR,L (-5),0,23:12,2,9,.222,2,7,.286,0,0,,0,4,4,0,0,1,0,1,6,2.0,+1,Ben McLemore
+2021-05-09,28-087,LAL,HOME,PHO,W (+13),0,22:09,4,8,.500,4,7,.571,0,0,,0,1,1,0,0,0,1,1,12,6.9,-5,Ben McLemore
+2021-05-11,28-089,LAL,HOME,NYK,W (+2),0,20:43,3,7,.429,2,5,.400,0,0,,0,2,2,0,0,0,1,2,8,3.1,-9,Ben McLemore
+2021-05-12,28-090,LAL,HOME,HOU,W (+2),0,25:34,3,6,.500,1,4,.250,0,0,,0,1,1,2,0,0,0,2,7,4.9,-1,Ben McLemore
+2021-05-15,28-093,LAL,AWAY,IND,W (+7),0,12:30,1,4,.250,1,4,.250,0,0,,0,0,0,1,0,0,0,1,3,0.9,-2,Ben McLemore
+2021-05-16,28-094,LAL,AWAY,NOP,W (+12),0,1:28,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1,Ben McLemore
+2020-12-26,27-347,HOU,AWAY,POR,L (-2),1,26:46,4,10,.400,0,3,.000,2,2,1.000,1,1,2,0,1,2,0,2,10,7.2,-5,David Nwaba
+2020-12-28,27-349,HOU,AWAY,DEN,L (-13),1,31:58,5,11,.455,1,3,.333,3,5,.600,1,4,5,1,2,0,1,2,14,10.3,+12,David Nwaba
+2021-01-02,27-354,HOU,HOME,SAC,W (+8),0,9:54,2,5,.400,1,2,.500,0,0,,0,2,2,0,1,0,0,3,5,2.7,+5,David Nwaba
+2021-01-04,27-356,HOU,HOME,DAL,L (-13),1,28:59,2,6,.333,1,3,.333,0,4,.000,0,2,2,1,1,0,0,3,5,1.1,-17,David Nwaba
+2021-01-06,27-358,HOU,AWAY,IND,L (-7),1,37:09,6,11,.545,1,5,.200,2,4,.500,1,3,4,0,0,2,2,2,15,9.1,+3,David Nwaba
+2021-01-08,27-360,HOU,HOME,ORL,W (+42),1,22:52,3,6,.500,0,2,.000,0,0,,0,2,2,0,0,1,1,0,6,3.3,+17,David Nwaba
+2021-01-10,27-362,HOU,HOME,LAL,L (-18),1,17:14,2,6,.333,1,3,.333,1,2,.500,0,1,1,1,1,1,0,3,6,3.7,-15,David Nwaba
+2021-01-12,27-364,HOU,HOME,LAL,L (-17),1,10:28,0,0,,0,0,,0,0,,0,1,1,0,0,1,0,0,0,1.0,-12,David Nwaba
+2021-01-14,28-000,HOU,AWAY,SAS,W (+4),0,30:41,4,8,.500,0,2,.000,1,1,1.000,1,2,3,1,2,0,0,0,9,9.0,+7,David Nwaba
+2021-01-16,28-002,HOU,AWAY,SAS,L (-12),0,25:16,2,8,.250,1,3,.333,2,2,1.000,0,1,1,4,1,0,3,1,7,2.9,-3,David Nwaba
+2021-01-18,28-004,HOU,AWAY,CHI,L (-5),1,21:04,3,5,.600,1,3,.333,0,0,,0,2,2,1,4,0,1,3,7,7.8,+1,David Nwaba
+2021-01-20,28-006,HOU,HOME,PHO,L (-6),0,22:21,2,5,.400,0,1,.000,5,5,1.000,3,3,6,2,1,1,0,3,9,11.2,+8,David Nwaba
+2021-01-22,28-008,HOU,AWAY,DET,W (+1),0,21:24,6,12,.500,0,2,.000,1,1,1.000,3,4,7,4,2,2,0,3,13,15.3,+12,David Nwaba
+2021-01-23,28-009,HOU,AWAY,DAL,W (+25),0,26:53,6,7,.857,2,2,1.000,4,5,.800,1,1,2,3,1,0,0,3,18,18.0,+15,David Nwaba
+2021-01-26,28-012,HOU,HOME,WAS,W (+19),0,23:10,5,7,.714,1,2,.500,0,0,,3,6,9,3,2,1,1,4,11,14.2,+20,David Nwaba
+2021-01-28,28-014,HOU,HOME,POR,W (+3),0,12:30,1,2,.500,0,1,.000,0,1,.000,1,0,1,1,2,0,0,2,2,3.2,+1,David Nwaba
+2021-01-30,28-016,HOU,AWAY,NOP,W (+14),0,15:44,4,11,.364,1,2,.500,0,0,,3,0,3,0,0,0,0,2,9,4.2,+18,David Nwaba
+2021-02-06,28-023,HOU,HOME,SAS,L (-5),0,22:16,6,7,.857,2,2,1.000,0,1,.000,2,3,5,1,0,1,0,2,14,14.0,0,David Nwaba
+2021-02-08,28-025,HOU,AWAY,CHO,L (-25),0,31:42,4,14,.286,0,3,.000,1,2,.500,2,3,5,1,1,1,2,3,9,1.9,-22,David Nwaba
+2021-02-09,28-026,HOU,AWAY,NOP,L (-29),0,25:02,1,3,.333,0,1,.000,0,0,,0,0,0,0,0,2,0,0,2,1.7,+9,David Nwaba
+2021-02-11,28-028,HOU,HOME,MIA,L (-7),0,9:05,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,2,1,2,-0.7,-7,David Nwaba
+2021-02-13,28-030,HOU,AWAY,NYK,L (-22),0,22:00,2,6,.333,0,3,.000,7,8,.875,2,2,4,0,1,0,0,2,11,9.4,-17,David Nwaba
+2021-02-15,28-032,HOU,AWAY,WAS,L (-12),1,40:58,7,10,.700,0,3,.000,5,7,.714,2,9,11,1,2,1,0,4,19,19.9,-19,David Nwaba
+2021-02-17,28-034,HOU,AWAY,PHI,L (-5),0,24:25,3,7,.429,1,2,.500,0,0,,3,7,10,1,1,2,2,2,7,7.8,+11,David Nwaba
+2021-02-22,28-039,HOU,HOME,CHI,L (-20),0,26:51,9,16,.563,1,3,.333,3,5,.600,4,5,9,2,2,0,1,3,22,19.1,+8,David Nwaba
+2021-02-24,28-041,HOU,AWAY,CLE,L (-16),0,17:06,4,8,.500,2,3,.667,2,2,1.000,0,1,1,0,1,2,0,0,12,10.7,-1,David Nwaba
+2021-02-26,28-043,HOU,AWAY,TOR,L (-11),0,15:21,2,8,.250,0,2,.000,4,4,1.000,1,0,1,0,0,0,1,4,8,1.3,-9,David Nwaba
+2021-02-28,28-045,HOU,HOME,MEM,L (-49),0,22:33,4,8,.500,0,2,.000,3,5,.600,3,1,4,0,1,0,0,1,11,9.2,-22,David Nwaba
+2021-03-12,28-057,HOU,AWAY,UTA,L (-15),0,18:10,5,8,.625,0,0,,0,0,,2,6,8,1,0,1,0,0,10,11.0,-1,David Nwaba
+2021-03-14,28-059,HOU,HOME,BOS,L (-27),0,18:40,1,2,.500,0,0,,1,2,.500,1,6,7,2,0,0,0,2,3,4.7,-25,David Nwaba
+2020-12-23,28-233,IND,HOME,NYK,W (+14),1,28:16,9,14,.643,2,5,.400,2,3,.667,0,4,4,4,1,0,1,3,22,18.2,+5,Victor Oladipo
+2020-12-26,28-236,IND,AWAY,CHI,W (+19),1,25:03,8,12,.667,5,5,1.000,1,1,1.000,0,7,7,1,2,0,2,2,22,18.8,+8,Victor Oladipo
+2020-12-29,28-239,IND,HOME,BOS,L (-5),1,34:25,10,18,.556,2,6,.333,2,2,1.000,0,6,6,6,0,1,2,3,24,18.9,+5,Victor Oladipo
+2020-12-31,28-241,IND,HOME,CLE,W (+20),1,34:12,5,14,.357,4,8,.500,2,2,1.000,0,4,4,8,1,0,3,1,16,12.6,+21,Victor Oladipo
+2021-01-02,28-243,IND,HOME,NYK,L (-4),1,37:22,3,16,.188,2,9,.222,8,11,.727,1,6,7,3,1,1,1,3,16,8.9,-12,Victor Oladipo
+2021-01-04,28-245,IND,AWAY,NOP,W (+2),1,35:58,8,17,.471,5,11,.455,4,6,.667,0,5,5,6,2,0,2,1,25,20.8,+8,Victor Oladipo
+2021-01-06,28-247,IND,HOME,HOU,W (+7),1,35:55,6,20,.300,1,7,.143,5,8,.625,0,9,9,2,1,0,2,4,18,6.7,-10,Victor Oladipo
+2021-01-09,28-250,IND,HOME,PHO,L (-8),1,30:55,7,21,.333,2,7,.286,0,0,,0,6,6,4,1,0,2,5,16,5.7,+1,Victor Oladipo
+2021-01-11,28-252,IND,AWAY,SAC,L (-5),1,37:25,8,20,.400,2,11,.182,3,4,.750,0,3,3,4,6,0,3,1,21,16.1,-4,Victor Oladipo
+2021-01-18,28-259,HOU,AWAY,CHI,L (-5),1,32:04,13,23,.565,4,9,.444,2,4,.500,0,5,5,9,2,0,7,3,32,21.9,+3,Victor Oladipo
+2021-01-20,28-261,HOU,HOME,PHO,L (-6),1,31:19,7,22,.318,1,5,.200,7,7,1.000,1,4,5,6,3,1,2,4,22,15.6,+4,Victor Oladipo
+2021-01-22,28-263,HOU,AWAY,DET,W (+1),1,35:27,4,16,.250,1,6,.167,4,6,.667,0,2,2,3,1,1,2,4,13,3.4,+1,Victor Oladipo
+2021-01-26,28-267,HOU,HOME,WAS,W (+19),1,36:59,7,21,.333,3,10,.300,3,6,.500,0,5,5,1,0,0,3,1,20,5.7,+4,Victor Oladipo
+2021-01-28,28-269,HOU,HOME,POR,W (+3),1,36:36,11,23,.478,2,10,.200,1,1,1.000,0,7,7,5,1,1,0,1,25,20.2,+4,Victor Oladipo
+2021-01-30,28-271,HOU,AWAY,NOP,W (+14),1,24:42,7,14,.500,4,8,.500,2,2,1.000,0,6,6,7,0,1,1,0,20,19.4,+4,Victor Oladipo
+2021-02-01,28-273,HOU,AWAY,OKC,W (+30),1,24:45,6,16,.375,3,5,.600,0,0,,0,3,3,7,0,1,2,3,15,9.5,+21,Victor Oladipo
+2021-02-03,28-275,HOU,AWAY,OKC,L (-17),1,31:35,8,24,.333,1,8,.125,2,2,1.000,1,2,3,3,2,0,3,1,19,7.4,-7,Victor Oladipo
+2021-02-06,28-278,HOU,HOME,SAS,L (-5),1,32:00,4,14,.286,0,3,.000,1,2,.500,1,5,6,5,1,1,4,5,9,1.8,-6,Victor Oladipo
+2021-02-08,28-280,HOU,AWAY,CHO,L (-25),1,33:55,7,18,.389,3,10,.300,4,4,1.000,0,7,7,6,1,0,1,2,21,16.7,-18,Victor Oladipo
+2021-02-11,28-283,HOU,HOME,MIA,L (-7),1,20:20,2,6,.333,1,3,.333,1,2,.500,0,4,4,2,1,0,1,1,6,4.4,+3,Victor Oladipo
+2021-02-24,28-296,HOU,AWAY,CLE,L (-16),1,31:56,8,20,.400,1,8,.125,0,1,.000,1,5,6,5,2,0,1,0,17,12.5,-17,Victor Oladipo
+2021-02-26,28-298,HOU,AWAY,TOR,L (-11),1,36:25,9,21,.429,4,10,.400,5,5,1.000,1,4,5,4,2,0,0,2,27,21.8,-2,Victor Oladipo
+2021-03-01,28-301,HOU,HOME,CLE,L (-11),1,41:15,8,21,.381,2,6,.333,2,3,.667,2,1,3,3,3,1,6,4,20,8.0,-8,Victor Oladipo
+2021-03-03,28-303,HOU,HOME,BRK,L (-18),1,36:34,9,25,.360,5,11,.455,10,13,.769,0,7,7,5,2,2,2,2,33,24.1,-23,Victor Oladipo
+2021-03-11,28-311,HOU,AWAY,SAC,L (-20),1,33:39,7,21,.333,1,8,.125,8,9,.889,0,4,4,9,1,0,4,2,23,14.4,-16,Victor Oladipo
+2021-03-14,28-314,HOU,HOME,BOS,L (-27),1,31:25,9,23,.391,3,10,.300,5,8,.625,1,5,6,4,0,0,2,3,26,14.1,-22,Victor Oladipo
+2021-03-16,28-316,HOU,HOME,ATL,L (-12),1,41:21,13,20,.650,4,6,.667,4,4,1.000,0,3,3,5,0,0,4,2,34,24.8,-2,Victor Oladipo
+2021-03-19,28-319,HOU,HOME,DET,L (-13),1,36:13,7,18,.389,2,9,.222,3,3,1.000,0,3,3,4,0,0,4,1,19,8.5,-7,Victor Oladipo
+2021-03-21,28-321,HOU,HOME,OKC,L (-2),1,40:47,9,15,.600,4,8,.500,1,1,1.000,0,5,5,6,2,1,2,4,23,20.9,+5,Victor Oladipo
+2021-03-26,28-326,MIA,AWAY,CHO,L (-5),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Victor Oladipo
+2021-04-01,28-332,MIA,HOME,GSW,W (+7),1,23:05,2,8,.250,0,4,.000,2,5,.400,1,2,3,5,2,0,3,5,6,1.8,-6,Victor Oladipo
+2021-04-03,28-334,MIA,HOME,CLE,W (+14),1,29:35,3,13,.231,1,6,.167,1,2,.500,0,1,1,5,2,1,4,5,8,0.2,+10,Victor Oladipo
+2021-04-06,28-337,MIA,HOME,MEM,L (-12),1,33:11,6,14,.429,1,4,.250,3,5,.600,1,5,6,2,0,0,3,2,16,7.6,-18,Victor Oladipo
+2021-04-08,28-339,MIA,HOME,LAL,W (+6),1,25:24,5,8,.625,2,3,.667,6,6,1.000,1,3,4,2,3,1,4,1,18,16.7,0,Victor Oladipo
+2021-05-10,24-303,HOU,AWAY,POR,L (-11),0,19:13,6,10,0.6,1,3,0.333,0,0,,1,2,3,2,1,0,0,3,13,10.9,1,Cameron Oliver
+2021-05-12,24-305,HOU,AWAY,LAL,L (-2),0,22:44,7,10,0.7,2,5,0.4,1,3,0.333,0,2,2,1,1,1,1,2,17,13.2,3,Cameron Oliver
+2021-05-14,24-307,HOU,HOME,LAC,W (+7),0,16:41,1,4,0.25,1,2,0.5,0,0,,0,4,4,1,0,0,1,4,3,-0.1,8,Cameron Oliver
+2021-05-16,24-309,HOU,AWAY,ATL,L (-29),0,28:45,5,9,0.556,0,3,0.0,0,1,0.0,4,8,12,1,0,3,1,2,10,11.5,-23,Cameron Oliver
+2020-12-23,29-248,MIA,AWAY,ORL,L (-6),0,19:59,2,6,.333,1,3,.333,0,0,,0,3,3,1,2,0,0,2,5,4.4,-3,Kelly Olynyk
+2020-12-29,29-254,MIA,HOME,MIL,L (-47),0,24:47,1,5,.200,1,5,.200,2,4,.500,1,4,5,2,2,2,2,2,5,5.0,-28,Kelly Olynyk
+2020-12-30,29-255,MIA,HOME,MIL,W (+11),0,28:59,5,10,.500,3,7,.429,2,2,1.000,3,5,8,4,0,1,3,2,15,13.3,+16,Kelly Olynyk
+2021-01-01,29-257,MIA,AWAY,DAL,L (-10),0,28:42,3,10,.300,2,7,.286,0,0,,0,3,3,2,2,2,0,3,8,6.7,+9,Kelly Olynyk
+2021-01-04,29-260,MIA,HOME,OKC,W (+28),1,27:30,7,9,.778,5,7,.714,0,0,,0,8,8,1,0,0,2,2,19,15.8,+18,Kelly Olynyk
+2021-01-06,29-262,MIA,HOME,BOS,L (-2),1,21:12,4,7,.571,3,6,.500,0,0,,0,5,5,0,0,0,0,4,11,7.6,+2,Kelly Olynyk
+2021-01-09,29-265,MIA,AWAY,WAS,W (+4),1,31:34,7,15,.467,4,11,.364,0,0,,1,5,6,5,1,1,2,2,18,14.9,+3,Kelly Olynyk
+2021-01-12,29-268,MIA,AWAY,PHI,L (-3),1,45:03,6,12,.500,3,9,.333,0,0,,1,7,8,4,2,1,3,4,15,12.7,-3,Kelly Olynyk
+2021-01-14,29-270,MIA,AWAY,PHI,L (-17),1,38:52,5,13,.385,1,7,.143,1,2,.500,2,4,6,4,1,0,2,2,12,8.1,-9,Kelly Olynyk
+2021-01-16,29-272,MIA,HOME,DET,L (-20),1,24:07,1,4,.250,1,4,.250,0,0,,0,3,3,2,0,1,3,3,3,-0.6,-25,Kelly Olynyk
+2021-01-18,29-274,MIA,HOME,DET,W (+6),1,24:59,4,8,.500,1,5,.200,0,0,,0,3,3,3,0,2,2,3,9,6.2,-4,Kelly Olynyk
+2021-01-20,29-276,MIA,AWAY,TOR,W (+9),1,28:11,5,10,.500,2,6,.333,3,3,1.000,0,8,8,8,0,1,3,3,15,14.5,+8,Kelly Olynyk
+2021-01-22,29-278,MIA,AWAY,TOR,L (-20),1,20:40,1,5,.200,0,2,.000,0,0,,0,1,1,1,2,0,1,3,2,-0.3,-17,Kelly Olynyk
+2021-01-23,29-279,MIA,AWAY,BRK,L (-4),1,21:44,2,9,.222,1,8,.125,0,0,,1,6,7,4,2,0,0,1,5,6.4,-5,Kelly Olynyk
+2021-01-25,29-281,MIA,AWAY,BRK,L (-13),1,17:58,1,7,.143,0,5,.000,0,0,,1,5,6,1,0,2,1,4,2,-0.8,+4,Kelly Olynyk
+2021-01-27,29-283,MIA,HOME,DEN,L (-27),1,21:57,3,9,.333,3,7,.429,0,0,,3,3,6,0,0,0,0,1,9,6.5,-9,Kelly Olynyk
+2021-01-28,29-284,MIA,HOME,LAC,L (-4),1,24:49,3,6,.500,3,6,.500,0,0,,0,4,4,1,0,0,3,0,9,4.9,-3,Kelly Olynyk
+2021-01-30,29-286,MIA,HOME,SAC,W (+1),0,25:43,4,9,.444,3,8,.375,0,0,,2,2,4,3,2,0,1,3,11,10.2,+14,Kelly Olynyk
+2021-02-01,29-288,MIA,HOME,CHO,L (-8),1,22:10,4,7,.571,3,5,.600,0,0,,3,4,7,0,0,1,1,1,11,10.3,-4,Kelly Olynyk
+2021-02-03,29-290,MIA,HOME,WAS,L (-3),1,27:02,2,9,.222,2,8,.250,2,2,1.000,2,9,11,0,1,1,1,3,8,6.1,+8,Kelly Olynyk
+2021-02-05,29-292,MIA,HOME,WAS,W (+27),1,20:41,6,8,.750,5,7,.714,0,0,,1,6,7,1,0,0,0,3,17,15.8,+18,Kelly Olynyk
+2021-02-07,29-294,MIA,AWAY,NYK,W (+6),1,26:39,6,13,.462,2,9,.222,1,1,1.000,1,4,5,2,1,0,0,4,15,11.0,+7,Kelly Olynyk
+2021-02-09,29-296,MIA,HOME,NYK,W (+2),1,30:39,7,10,.700,6,8,.750,0,2,.000,0,3,3,0,0,1,1,4,20,14.0,+19,Kelly Olynyk
+2021-02-11,29-298,MIA,AWAY,HOU,W (+7),1,31:00,2,7,.286,2,6,.333,0,0,,1,12,13,0,0,2,2,2,6,4.8,+11,Kelly Olynyk
+2021-02-13,29-300,MIA,AWAY,UTA,L (-18),1,30:46,3,8,.375,0,4,.000,1,2,.500,2,8,10,2,1,0,0,3,7,7.2,-16,Kelly Olynyk
+2021-02-15,29-302,MIA,AWAY,LAC,L (-7),1,14:25,1,6,.167,0,4,.000,0,0,,0,2,2,1,0,0,1,2,2,-2.3,+6,Kelly Olynyk
+2021-02-17,29-304,MIA,AWAY,GSW,L (-8),1,23:06,2,7,.286,0,2,.000,3,3,1.000,2,2,4,2,2,0,1,4,7,5.7,+5,Kelly Olynyk
+2021-02-18,29-305,MIA,AWAY,SAC,W (+8),1,23:34,10,16,.625,1,7,.143,1,1,1.000,1,6,7,2,1,0,1,1,22,18.3,+2,Kelly Olynyk
+2021-02-20,29-307,MIA,AWAY,LAL,W (+2),1,28:56,1,5,.200,0,2,.000,2,2,1.000,0,3,3,4,0,1,1,3,4,3.1,+14,Kelly Olynyk
+2021-02-22,29-309,MIA,AWAY,OKC,W (+14),1,23:50,4,9,.444,1,4,.250,2,2,1.000,2,4,6,1,0,0,4,4,11,4.0,+10,Kelly Olynyk
+2021-02-24,29-311,MIA,HOME,TOR,W (+8),1,32:05,3,9,.333,0,5,.000,1,2,.500,0,7,7,4,0,0,1,3,7,4.2,+10,Kelly Olynyk
+2021-02-26,29-313,MIA,HOME,UTA,W (+8),1,31:24,3,8,.375,2,5,.400,0,0,,0,5,5,1,0,0,1,6,8,2.4,-8,Kelly Olynyk
+2021-02-28,29-315,MIA,HOME,ATL,W (+10),1,24:18,4,9,.444,1,5,.200,0,0,,0,5,5,0,1,0,0,3,9,5.6,-10,Kelly Olynyk
+2021-03-02,29-317,MIA,HOME,ATL,L (-14),1,22:46,3,6,.500,0,2,.000,1,2,.500,1,5,6,2,4,0,0,4,7,9.6,+3,Kelly Olynyk
+2021-03-04,29-319,MIA,AWAY,NOP,W (+10),1,36:45,7,8,.875,4,5,.800,0,0,,1,9,10,7,1,0,3,4,18,19.9,+19,Kelly Olynyk
+2021-03-11,29-326,MIA,HOME,ORL,W (+8),1,34:40,7,14,.500,4,8,.500,2,2,1.000,2,5,7,2,2,1,2,3,20,16.8,+11,Kelly Olynyk
+2021-03-12,29-327,MIA,AWAY,CHI,W (+11),1,33:12,4,11,.364,1,4,.250,0,0,,0,9,9,3,1,1,0,2,9,8.6,+7,Kelly Olynyk
+2021-03-14,29-329,MIA,AWAY,ORL,W (+5),1,34:11,6,9,.667,3,6,.500,3,3,1.000,1,6,7,4,3,2,2,4,18,20.2,+12,Kelly Olynyk
+2021-03-16,29-331,MIA,HOME,CLE,W (+15),1,34:30,7,13,.538,1,5,.200,2,3,.667,2,6,8,4,3,2,0,4,17,19.1,+21,Kelly Olynyk
+2021-03-17,29-332,MIA,AWAY,MEM,L (-4),1,18:27,1,2,.500,0,1,.000,0,0,,1,5,6,2,1,0,1,5,2,2.6,+1,Kelly Olynyk
+2021-03-19,29-334,MIA,HOME,IND,L (-27),1,31:48,2,11,.182,1,7,.143,2,2,1.000,2,4,6,0,2,1,1,3,7,3.2,-19,Kelly Olynyk
+2021-03-21,29-336,MIA,HOME,IND,L (-3),1,28:26,3,11,.273,1,7,.143,0,0,,1,5,6,0,0,0,2,4,7,-0.9,-17,Kelly Olynyk
+2021-03-23,29-338,MIA,HOME,PHO,L (-10),1,14:45,0,6,.000,0,4,.000,0,0,,3,4,7,1,0,0,1,0,0,-1.2,-14,Kelly Olynyk
+2021-03-25,29-340,MIA,HOME,POR,L (-3),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Kelly Olynyk
+2021-03-27,29-342,HOU,AWAY,MIN,W (+22),1,25:09,5,8,.625,4,6,.667,2,2,1.000,0,4,4,4,3,0,1,4,16,16.8,+21,Kelly Olynyk
+2021-03-29,29-344,HOU,HOME,MEM,L (-10),1,33:40,10,17,.588,0,5,.000,5,5,1.000,0,9,9,2,1,2,1,1,25,22.2,+12,Kelly Olynyk
+2021-03-31,29-346,HOU,AWAY,BRK,L (-12),0,24:46,5,7,.714,0,2,.000,4,4,1.000,0,3,3,4,0,2,2,2,14,13.4,-20,Kelly Olynyk
+2021-04-02,29-348,HOU,AWAY,BOS,L (-16),0,21:33,3,6,.500,2,3,.667,2,2,1.000,0,3,3,4,0,0,1,3,10,8.5,+1,Kelly Olynyk
+2021-04-04,29-350,HOU,HOME,NOP,L (-7),0,33:21,9,17,.529,5,13,.385,3,3,1.000,1,7,8,3,0,1,0,2,26,22.5,-7,Kelly Olynyk
+2021-04-05,29-351,HOU,HOME,PHO,L (-3),1,29:26,7,8,.875,3,3,1.000,4,5,.800,0,4,4,1,2,0,5,4,21,15.1,-16,Kelly Olynyk
+2021-04-07,29-353,HOU,HOME,DAL,W (+9),1,33:55,4,9,.444,1,4,.250,1,1,1.000,2,16,18,3,2,2,2,5,10,13.0,+12,Kelly Olynyk
+2021-04-09,29-355,HOU,AWAY,LAC,L (-17),1,32:23,6,11,.545,1,5,.200,0,0,,4,7,11,3,0,0,3,2,13,10.9,-33,Kelly Olynyk
+2021-04-10,29-356,HOU,AWAY,GSW,L (-16),1,32:20,7,13,.538,2,5,.400,2,4,.500,5,6,11,3,0,0,1,4,18,15.7,-17,Kelly Olynyk
+2021-04-12,29-358,HOU,AWAY,PHO,L (-6),1,29:49,6,10,.600,1,5,.200,3,5,.600,3,5,8,1,1,0,3,0,16,12.9,-3,Kelly Olynyk
+2021-04-14,29-360,HOU,HOME,IND,L (-8),1,38:14,10,16,.625,3,5,.600,2,2,1.000,1,9,10,2,3,1,3,4,25,21.7,+5,Kelly Olynyk
+2021-04-16,29-362,HOU,HOME,DEN,L (-29),1,27:05,10,14,.714,3,4,.750,0,0,,2,4,6,2,0,1,0,3,23,20.7,-9,Kelly Olynyk
+2021-04-18,29-364,HOU,AWAY,ORL,W (+4),1,38:58,9,14,.643,2,4,.500,4,5,.800,1,6,7,4,1,0,6,2,24,16.9,+5,Kelly Olynyk
+2021-04-19,30-000,HOU,AWAY,MIA,L (-22),1,32:13,3,8,.375,0,2,.000,4,4,1.000,0,8,8,0,1,0,4,2,10,4.2,-19,Kelly Olynyk
+2021-04-21,30-002,HOU,HOME,UTA,L (-23),1,23:55,4,7,.571,2,4,.500,0,1,.000,2,5,7,0,0,0,2,4,10,5.6,-27,Kelly Olynyk
+2021-04-23,30-004,HOU,HOME,LAC,L (-5),1,34:11,8,13,.615,2,6,.333,5,5,1.000,1,9,10,2,4,0,4,2,23,21.1,-3,Kelly Olynyk
+2021-04-24,30-005,HOU,AWAY,DEN,L (-13),1,34:30,4,11,.364,2,6,.333,11,11,1.000,1,7,8,11,0,0,2,1,21,23.0,-30,Kelly Olynyk
+2021-04-27,30-008,HOU,HOME,MIN,L (-7),1,32:46,12,17,.706,0,4,.000,4,5,.800,0,9,9,5,2,0,3,5,28,23.7,+2,Kelly Olynyk
+2021-04-29,30-010,HOU,HOME,MIL,W (+7),1,38:41,9,17,.529,3,5,.600,3,3,1.000,6,7,13,4,2,1,4,4,24,21.9,+6,Kelly Olynyk
+2021-05-01,30-012,HOU,HOME,GSW,L (-26),1,26:55,3,9,.333,0,3,.000,2,4,.500,3,6,9,3,3,0,3,5,8,6.1,-12,Kelly Olynyk
+2021-05-02,30-013,HOU,HOME,NYK,L (-25),1,35:58,5,10,.500,1,4,.250,6,7,.857,1,9,10,7,3,1,3,2,17,19.8,-5,Kelly Olynyk
+2021-05-05,30-016,HOU,HOME,PHI,L (-20),1,39:29,9,16,.563,3,6,.500,6,8,.750,5,6,11,8,1,3,1,4,27,30.0,-8,Kelly Olynyk
+2021-05-07,30-018,HOU,AWAY,MIL,L (-8),1,31:28,7,15,.467,1,4,.250,8,11,.727,2,10,12,7,2,1,4,1,23,21.7,+5,Kelly Olynyk
+2021-05-08,30-019,HOU,AWAY,UTA,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Kelly Olynyk
+2021-05-10,30-021,HOU,AWAY,POR,L (-11),1,28:47,5,12,.417,1,2,.500,10,10,1.000,0,8,8,6,2,0,3,5,21,18.2,-12,Kelly Olynyk
+2021-05-12,30-023,HOU,AWAY,LAL,L (-2),1,25:16,6,11,.545,4,6,.667,8,10,.800,1,5,6,8,2,0,5,5,24,20.7,-5,Kelly Olynyk
+2021-05-14,30-025,HOU,HOME,LAC,W (+7),1,31:19,6,14,.429,1,4,.250,7,10,.700,1,8,9,11,3,0,3,5,20,20.2,-1,Kelly Olynyk
+2021-05-16,30-027,HOU,AWAY,ATL,L (-29),1,23:59,3,11,.273,2,5,.400,8,8,1.000,1,5,6,4,1,1,2,3,16,13.0,-6,Kelly Olynyk
+2021-02-22,23-253,HOU,HOME,CHI,L (-20),0,21:27,2,6,.333,0,2,.000,0,0,,1,5,6,0,0,3,0,4,4,3.3,+8,Justin Patton
+2021-02-24,23-255,HOU,AWAY,CLE,L (-16),0,12:23,2,3,.667,0,1,.000,2,2,1.000,0,1,1,0,0,1,0,2,6,4.9,-9,Justin Patton
+2021-02-26,23-257,HOU,AWAY,TOR,L (-11),0,10:05,2,2,1.000,1,1,1.000,0,0,,0,0,0,0,0,1,0,2,5,4.3,+5,Justin Patton
+2021-02-28,23-259,HOU,HOME,MEM,L (-49),1,26:05,4,6,.667,2,4,.500,0,0,,1,4,5,0,0,2,2,6,10,6.3,-20,Justin Patton
+2021-03-01,23-260,HOU,HOME,CLE,L (-11),1,31:38,2,7,.286,1,5,.200,1,2,.500,1,5,6,1,3,2,0,3,6,7.6,-10,Justin Patton
+2021-03-03,23-262,HOU,HOME,BRK,L (-18),0,26:30,4,7,.571,2,4,.500,0,0,,2,4,6,4,4,1,0,2,10,16.0,-6,Justin Patton
+2021-03-11,23-270,HOU,AWAY,SAC,L (-20),1,24:35,0,6,.000,0,3,.000,0,0,,1,5,6,1,1,0,0,5,0,-2.3,-19,Justin Patton
+2021-03-12,23-271,HOU,AWAY,UTA,L (-15),1,29:16,6,10,.600,1,3,.333,0,0,,2,3,5,1,3,1,1,0,13,14.1,-5,Justin Patton
+2021-03-14,23-273,HOU,HOME,BOS,L (-27),1,23:47,3,10,.300,1,5,.200,0,0,,2,4,6,2,0,3,1,4,7,4.7,-11,Justin Patton
+2021-03-16,23-275,HOU,HOME,ATL,L (-12),1,18:12,1,4,.250,0,1,.000,0,0,,3,1,4,3,1,0,0,3,2,3.9,-6,Justin Patton
+2021-03-17,23-276,HOU,HOME,GSW,L (-14),0,11:15,1,4,.250,1,2,.500,0,0,,0,0,0,1,0,0,0,2,3,0.5,-5,Justin Patton
+2021-03-24,23-283,HOU,HOME,CHO,L (-25),0,6:28,1,2,.500,0,1,.000,0,0,,1,2,3,1,0,0,0,1,2,2.6,+2,Justin Patton
+2021-03-27,23-286,HOU,AWAY,MIN,W (+22),0,5:05,1,3,.333,0,2,.000,0,0,,0,1,1,0,0,0,0,0,2,0.6,-5,Justin Patton
+2021-03-11,20-311,HOU,AWAY,SAC,L (-20),0,29:26,5,11,.455,1,5,.200,2,2,1.000,0,5,5,10,3,1,4,2,13,14.7,-17,Kevin Porter Jr.
+2021-03-12,20-312,HOU,AWAY,UTA,L (-15),1,37:38,11,25,.440,1,9,.111,4,6,.667,0,3,3,8,1,2,3,3,27,17.8,-13,Kevin Porter Jr.
+2021-03-14,20-314,HOU,HOME,BOS,L (-27),1,30:01,3,12,.250,2,7,.286,3,4,.750,1,1,2,7,0,0,3,4,11,4.7,-19,Kevin Porter Jr.
+2021-03-16,20-316,HOU,HOME,ATL,L (-12),1,40:44,10,21,.476,2,9,.222,0,0,,0,4,4,8,2,2,3,1,22,18.1,-14,Kevin Porter Jr.
+2021-03-17,20-317,HOU,HOME,GSW,L (-14),1,36:40,9,18,.500,3,9,.333,4,8,.500,0,4,4,7,3,0,5,0,25,18.5,-10,Kevin Porter Jr.
+2021-03-19,20-319,HOU,HOME,DET,L (-13),0,9:42,1,5,.200,0,1,.000,0,0,,0,0,0,0,0,0,1,2,2,-2.9,-2,Kevin Porter Jr.
+2021-03-21,20-321,HOU,HOME,OKC,L (-2),0,19:45,2,6,.333,0,3,.000,0,0,,0,1,1,5,0,0,3,1,4,1.0,-15,Kevin Porter Jr.
+2021-03-27,20-327,HOU,AWAY,MIN,W (+22),1,30:40,10,15,.667,3,5,.600,2,3,.667,0,4,4,2,0,0,3,2,25,16.9,+29,Kevin Porter Jr.
+2021-03-29,20-329,HOU,HOME,MEM,L (-10),1,36:25,5,17,.294,0,7,.000,0,0,,1,2,3,5,0,0,2,3,10,1.7,-16,Kevin Porter Jr.
+2021-03-31,20-331,HOU,AWAY,BRK,L (-12),1,31:11,9,16,.563,2,6,.333,0,3,.000,0,2,2,6,0,0,1,1,20,14.6,-8,Kevin Porter Jr.
+2021-04-02,20-333,HOU,AWAY,BOS,L (-16),1,29:50,4,11,.364,0,5,.000,4,6,.667,1,4,5,8,3,0,4,0,12,11.6,-24,Kevin Porter Jr.
+2021-04-04,20-335,HOU,HOME,NOP,L (-7),1,31:51,5,15,.333,2,3,.667,0,0,,1,4,5,5,0,1,8,4,12,0.0,-13,Kevin Porter Jr.
+2021-04-05,20-336,HOU,HOME,PHO,L (-3),1,29:44,5,10,.500,1,3,.333,9,10,.900,2,7,9,8,0,0,3,4,20,19.1,-2,Kevin Porter Jr.
+2021-04-07,20-338,HOU,HOME,DAL,W (+9),1,31:01,5,9,.556,2,5,.400,2,2,1.000,1,3,4,3,0,1,6,3,14,6.9,+14,Kevin Porter Jr.
+2021-04-09,20-340,HOU,AWAY,LAC,L (-17),1,30:37,4,13,.308,3,6,.500,3,4,.750,2,4,6,13,0,0,3,3,14,13.6,-15,Kevin Porter Jr.
+2021-04-10,20-341,HOU,AWAY,GSW,L (-16),1,33:16,4,13,.308,1,6,.167,0,0,,1,4,5,4,1,0,4,2,9,2.4,-12,Kevin Porter Jr.
+2021-04-12,20-343,HOU,AWAY,PHO,L (-6),1,40:04,7,15,.467,3,8,.375,5,6,.833,1,4,5,14,2,0,4,2,22,22.8,+1,Kevin Porter Jr.
+2021-04-14,20-345,HOU,HOME,IND,L (-8),1,40:53,6,15,.400,2,7,.286,5,6,.833,1,4,5,3,1,0,4,4,19,9.9,-12,Kevin Porter Jr.
+2021-04-16,20-347,HOU,HOME,DEN,L (-29),1,31:39,1,9,.111,0,3,.000,2,2,1.000,0,3,3,5,0,0,4,1,4,-1.9,-23,Kevin Porter Jr.
+2021-04-18,20-349,HOU,AWAY,ORL,W (+4),1,31:43,8,15,.533,4,7,.571,2,2,1.000,2,1,3,7,1,0,3,6,22,16.9,+7,Kevin Porter Jr.
+2021-04-19,20-350,HOU,AWAY,MIA,L (-22),1,30:51,6,14,.429,3,7,.429,3,3,1.000,0,2,2,3,0,0,1,1,18,11.9,-16,Kevin Porter Jr.
+2021-04-27,20-358,HOU,HOME,MIN,L (-7),1,35:01,2,12,.167,2,8,.250,4,4,1.000,2,2,4,5,1,0,5,4,10,2.3,0,Kevin Porter Jr.
+2021-04-29,20-360,HOU,HOME,MIL,W (+7),1,41:06,16,26,.615,9,15,.600,9,11,.818,0,5,5,11,0,1,5,5,50,40.3,+19,Kevin Porter Jr.
+2021-05-01,20-362,HOU,HOME,GSW,L (-26),1,36:03,6,18,.333,2,8,.250,2,2,1.000,2,1,3,6,0,0,3,1,16,8.3,-22,Kevin Porter Jr.
+2021-05-02,20-363,HOU,HOME,NYK,L (-25),1,36:35,6,13,.462,0,4,.000,2,6,.333,2,4,6,6,1,0,4,0,14,9.5,-27,Kevin Porter Jr.
+2021-05-05,21-001,HOU,HOME,PHI,L (-20),1,23:02,6,13,.462,2,5,.400,2,4,.500,0,1,1,5,0,0,2,2,16,9.5,-14,Kevin Porter Jr.
+2021-05-07,21-003,HOU,AWAY,MIL,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Kevin Porter Jr.
+2021-05-08,21-004,HOU,AWAY,UTA,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Kevin Porter Jr.
+2021-05-16,21-012,HOU,AWAY,ATL,L (-29),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Kevin Porter Jr.
+2021-03-27,26-048,SAS,HOME,CHI,W (+16),0,1:42,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,0,Cameron Reynolds
+2021-03-29,26-050,SAS,HOME,SAC,L (-17),0,2:22,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,Cameron Reynolds
+2021-03-31,26-052,SAS,HOME,SAC,W (+14),0,2:06,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-2,Cameron Reynolds
+2021-05-14,26-096,HOU,HOME,LAC,W (+7),0,3:18,2,2,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,4,3.7,+1,Cameron Reynolds
+2021-05-16,26-098,HOU,AWAY,ATL,L (-29),0,31:01,3,14,.214,3,12,.250,0,0,,2,2,4,2,0,0,0,2,9,3.0,-23,Cameron Reynolds
+2021-02-13,23-339,HOU,AWAY,NYK,L (-22),0,8:35,1,2,0.5,0,0,,0,2,0.0,1,1,2,0,0,1,1,1,2,0.5,1,Ray Spalding
+2021-02-15,23-341,HOU,AWAY,WAS,L (-12),0,10:09,1,2,0.5,0,1,0.0,0,0,,1,1,2,0,0,1,2,2,2,-0.1,-8,Ray Spalding
+2020-12-26,25-059,HOU,AWAY,POR,L (-2),0,37:14,5,9,.556,1,4,.250,2,2,1.000,1,3,4,2,1,0,1,4,13,10.1,+14,Jae'Sean Tate
+2020-12-28,25-061,HOU,AWAY,DEN,L (-13),0,25:27,2,6,.333,1,3,.333,0,0,,2,5,7,2,0,1,3,5,5,1.6,-15,Jae'Sean Tate
+2020-12-31,25-064,HOU,HOME,SAC,W (+3),0,20:39,2,3,.667,0,0,,0,2,.000,1,5,6,1,1,0,2,1,4,3.4,-4,Jae'Sean Tate
+2021-01-02,25-066,HOU,HOME,SAC,W (+8),0,20:28,1,3,.333,0,1,.000,3,4,.750,1,1,2,1,2,0,0,1,5,6.2,+7,Jae'Sean Tate
+2021-01-04,25-068,HOU,HOME,DAL,L (-13),0,24:50,3,6,.500,1,1,1.000,1,1,1.000,2,4,6,0,0,0,1,3,8,5.4,+5,Jae'Sean Tate
+2021-01-06,25-070,HOU,AWAY,IND,L (-7),0,23:35,3,6,.500,1,3,.333,1,2,.500,0,2,2,2,0,0,1,4,8,4.0,-12,Jae'Sean Tate
+2021-01-08,25-072,HOU,HOME,ORL,W (+42),0,15:29,5,5,1.000,0,0,,0,0,,0,1,1,2,1,0,1,1,10,9.8,+20,Jae'Sean Tate
+2021-01-10,25-074,HOU,HOME,LAL,L (-18),0,20:10,3,4,.750,0,0,,3,4,.750,3,3,6,1,2,1,1,2,9,11.6,-3,Jae'Sean Tate
+2021-01-12,25-076,HOU,HOME,LAL,L (-17),0,25:07,4,9,.444,0,2,.000,1,1,1.000,1,2,3,0,1,1,0,4,9,5.7,+2,Jae'Sean Tate
+2021-01-14,25-078,HOU,AWAY,SAS,W (+4),1,33:04,6,12,.500,0,1,.000,1,2,.500,3,2,5,10,0,2,2,2,13,14.9,+17,Jae'Sean Tate
+2021-01-16,25-080,HOU,AWAY,SAS,L (-12),1,25:55,2,11,.182,0,1,.000,3,5,.600,1,4,5,5,0,3,2,4,7,3.2,-24,Jae'Sean Tate
+2021-01-18,25-082,HOU,AWAY,CHI,L (-5),0,30:25,4,8,.500,3,5,.600,0,0,,0,6,6,0,0,1,1,4,11,6.9,-12,Jae'Sean Tate
+2021-01-20,25-084,HOU,HOME,PHO,L (-6),1,37:14,3,5,.600,1,3,.333,2,2,1.000,1,5,6,0,0,0,2,4,9,5.3,+5,Jae'Sean Tate
+2021-01-22,25-086,HOU,AWAY,DET,W (+1),1,32:24,5,8,.625,2,4,.500,1,2,.500,1,2,3,1,3,3,1,5,13,13.1,+6,Jae'Sean Tate
+2021-01-23,25-087,HOU,AWAY,DAL,W (+25),1,19:41,3,3,1.000,0,0,,0,0,,1,3,4,0,0,0,2,1,6,4.3,+18,Jae'Sean Tate
+2021-01-26,25-090,HOU,HOME,WAS,W (+19),1,28:16,1,6,.167,0,1,.000,1,2,.500,3,4,7,0,1,0,0,0,3,3.1,+8,Jae'Sean Tate
+2021-01-28,25-092,HOU,HOME,POR,W (+3),1,16:43,1,3,.333,0,2,.000,0,0,,2,1,3,1,1,0,2,2,2,0.9,-13,Jae'Sean Tate
+2021-01-30,25-094,HOU,AWAY,NOP,W (+14),1,23:56,6,8,.750,1,2,.500,0,0,,3,6,9,0,3,0,0,3,13,15.5,+15,Jae'Sean Tate
+2021-02-01,25-096,HOU,AWAY,OKC,W (+30),1,22:59,5,6,.833,1,2,.500,0,0,,1,6,7,4,0,1,2,1,11,12.4,+25,Jae'Sean Tate
+2021-02-03,25-098,HOU,AWAY,OKC,L (-17),1,31:20,3,8,.375,0,3,.000,0,0,,0,4,4,0,0,1,3,2,6,-0.3,-20,Jae'Sean Tate
+2021-02-04,25-099,HOU,AWAY,MEM,W (+12),1,31:09,7,9,.778,2,3,.667,3,3,1.000,2,5,7,2,1,2,1,4,19,19.6,+30,Jae'Sean Tate
+2021-02-06,25-101,HOU,HOME,SAS,L (-5),1,24:15,1,6,.167,0,2,.000,2,2,1.000,1,4,5,1,1,0,0,4,4,2.2,-4,Jae'Sean Tate
+2021-02-08,25-103,HOU,AWAY,CHO,L (-25),1,29:14,5,7,.714,0,1,.000,3,4,.750,2,2,4,1,1,1,1,2,13,12.3,-17,Jae'Sean Tate
+2021-02-09,25-104,HOU,AWAY,NOP,L (-29),1,28:39,6,9,.667,1,3,.333,0,0,,3,4,7,2,0,0,1,4,13,11.2,-22,Jae'Sean Tate
+2021-02-11,25-106,HOU,HOME,MIA,L (-7),1,34:48,7,11,.636,0,1,.000,2,2,1.000,4,3,7,2,1,0,0,5,16,15.2,-2,Jae'Sean Tate
+2021-02-13,25-108,HOU,AWAY,NYK,L (-22),1,27:25,4,10,.400,1,4,.250,0,0,,1,3,4,2,0,0,1,4,9,4.0,-24,Jae'Sean Tate
+2021-02-15,25-110,HOU,AWAY,WAS,L (-12),1,39:49,8,12,.667,2,3,.667,0,0,,3,3,6,4,2,0,1,2,18,18.8,-1,Jae'Sean Tate
+2021-02-17,25-112,HOU,AWAY,PHI,L (-5),1,32:57,7,11,.636,1,3,.333,4,6,.667,3,3,6,4,3,0,1,5,19,19.1,+1,Jae'Sean Tate
+2021-02-22,25-117,HOU,HOME,CHI,L (-20),1,31:27,5,11,.455,2,4,.500,0,0,,5,3,8,2,3,0,1,2,12,13.3,-17,Jae'Sean Tate
+2021-02-24,25-119,HOU,AWAY,CLE,L (-16),1,29:54,3,8,.375,0,0,,2,2,1.000,4,3,7,1,0,0,1,5,8,5.0,-6,Jae'Sean Tate
+2021-02-26,25-121,HOU,AWAY,TOR,L (-11),1,23:15,4,8,.500,0,2,.000,0,0,,2,2,4,1,0,0,0,4,8,5.1,-18,Jae'Sean Tate
+2021-02-28,25-123,HOU,HOME,MEM,L (-49),0,24:02,4,6,.667,0,1,.000,6,7,.857,0,4,4,0,1,1,2,2,14,11.1,-25,Jae'Sean Tate
+2021-03-01,25-124,HOU,HOME,CLE,L (-11),0,29:59,2,5,.400,1,2,.500,0,0,,1,3,4,2,1,0,1,3,5,4.1,+1,Jae'Sean Tate
+2021-03-03,25-126,HOU,HOME,BRK,L (-18),1,31:35,5,10,.500,0,2,.000,2,2,1.000,6,4,10,1,2,0,2,5,12,11.1,-7,Jae'Sean Tate
+2021-03-11,25-134,HOU,AWAY,SAC,L (-20),1,29:43,8,11,.727,0,2,.000,0,2,.000,0,4,4,1,1,0,0,4,16,12.0,-11,Jae'Sean Tate
+2021-03-12,25-135,HOU,AWAY,UTA,L (-15),1,31:54,3,13,.231,1,5,.200,0,0,,1,5,6,0,2,0,2,4,7,-0.3,-20,Jae'Sean Tate
+2021-03-14,25-137,HOU,HOME,BOS,L (-27),1,25:10,3,5,.600,0,1,.000,3,4,.750,2,4,6,0,4,1,0,1,9,13.2,-7,Jae'Sean Tate
+2021-03-16,25-139,HOU,HOME,ATL,L (-12),1,34:35,9,19,.474,4,7,.571,3,4,.750,3,3,6,6,1,1,2,3,25,20.6,-7,Jae'Sean Tate
+2021-03-17,25-140,HOU,HOME,GSW,L (-14),1,27:15,1,9,.111,0,3,.000,0,0,,1,4,5,2,3,0,2,5,2,-1.6,-6,Jae'Sean Tate
+2021-03-19,25-142,HOU,HOME,DET,L (-13),1,32:14,5,8,.625,0,2,.000,2,2,1.000,1,2,3,3,4,1,0,2,12,15.7,-3,Jae'Sean Tate
+2021-03-21,25-144,HOU,HOME,OKC,L (-2),1,33:09,2,6,.333,2,4,.500,2,4,.500,4,5,9,0,0,1,3,4,8,4.2,+10,Jae'Sean Tate
+2021-03-22,25-145,HOU,HOME,TOR,W (+18),1,40:18,8,9,.889,3,4,.750,3,6,.500,3,3,6,5,2,0,0,3,22,25.0,+24,Jae'Sean Tate
+2021-03-24,25-147,HOU,HOME,CHO,L (-25),1,24:27,3,8,.375,1,4,.250,2,4,.500,1,3,4,5,0,0,0,1,9,8.5,-3,Jae'Sean Tate
+2021-03-26,25-149,HOU,AWAY,MIN,L (-6),1,38:38,4,7,.571,0,3,.000,2,2,1.000,4,3,7,2,2,2,2,6,10,10.8,-2,Jae'Sean Tate
+2021-03-27,25-150,HOU,AWAY,MIN,W (+22),1,32:51,5,10,.500,0,0,,0,0,,3,6,9,3,1,3,1,4,10,11.5,+21,Jae'Sean Tate
+2021-03-29,25-152,HOU,HOME,MEM,L (-10),1,33:16,9,18,.500,3,9,.333,3,3,1.000,4,3,7,1,0,0,0,3,24,18.2,-8,Jae'Sean Tate
+2021-03-31,25-154,HOU,AWAY,BRK,L (-12),1,32:55,3,7,.429,0,3,.000,2,2,1.000,2,0,2,3,1,2,0,4,8,8.6,+11,Jae'Sean Tate
+2021-04-02,25-156,HOU,AWAY,BOS,L (-16),1,22:16,4,8,.500,1,1,1.000,0,0,,2,3,5,4,0,0,0,2,9,9.3,-18,Jae'Sean Tate
+2021-04-04,25-158,HOU,HOME,NOP,L (-7),1,26:14,7,11,.636,3,6,.500,2,2,1.000,1,4,5,3,1,0,2,5,19,15.1,+7,Jae'Sean Tate
+2021-04-05,25-159,HOU,HOME,PHO,L (-3),1,31:25,7,12,.583,3,5,.600,1,1,1.000,0,7,7,5,1,0,4,3,18,13.8,-10,Jae'Sean Tate
+2021-04-07,25-161,HOU,HOME,DAL,W (+9),1,36:20,3,7,.429,0,3,.000,2,2,1.000,1,2,3,2,0,0,1,2,8,5.2,+15,Jae'Sean Tate
+2021-04-09,25-163,HOU,AWAY,LAC,L (-17),1,31:20,7,14,.500,1,6,.167,3,5,.600,2,0,2,1,1,0,3,2,18,9.5,-8,Jae'Sean Tate
+2021-04-10,25-164,HOU,AWAY,GSW,L (-16),1,32:12,3,10,.300,0,3,.000,1,2,.500,4,7,11,1,4,1,1,6,7,7.7,-11,Jae'Sean Tate
+2021-04-12,25-166,HOU,AWAY,PHO,L (-6),1,21:32,4,7,.571,0,2,.000,2,2,1.000,3,2,5,4,3,1,1,2,10,14.1,+5,Jae'Sean Tate
+2021-04-14,25-168,HOU,HOME,IND,L (-8),1,35:05,4,6,.667,0,1,.000,3,4,.750,5,1,6,5,2,0,3,2,11,13.5,+9,Jae'Sean Tate
+2021-04-16,25-170,HOU,HOME,DEN,L (-29),1,31:52,9,13,.692,1,3,.333,2,3,.667,2,3,5,5,2,0,0,3,21,21.7,-15,Jae'Sean Tate
+2021-04-18,25-172,HOU,AWAY,ORL,W (+4),1,32:34,7,10,.700,0,1,.000,0,0,,2,5,7,6,1,3,0,3,14,18.8,+1,Jae'Sean Tate
+2021-04-19,25-173,HOU,AWAY,MIA,L (-22),1,28:44,4,7,.571,0,1,.000,2,2,1.000,2,3,5,3,0,0,1,1,10,9.7,-11,Jae'Sean Tate
+2021-04-21,25-175,HOU,HOME,UTA,L (-23),1,34:32,4,19,.211,0,9,.000,0,0,,2,3,5,3,4,0,3,5,8,-0.3,-19,Jae'Sean Tate
+2021-04-23,25-177,HOU,HOME,LAC,L (-5),1,35:59,3,9,.333,2,6,.333,0,0,,0,2,2,7,2,0,2,5,8,6.4,-6,Jae'Sean Tate
+2021-04-24,25-178,HOU,AWAY,DEN,L (-13),1,21:17,6,10,.600,1,2,.500,1,4,.250,0,3,3,4,4,0,0,2,14,15.1,-11,Jae'Sean Tate
+2021-04-27,25-181,HOU,HOME,MIN,L (-7),1,40:04,9,12,.750,1,1,1.000,1,2,.500,2,5,7,4,2,0,1,4,20,19.9,0,Jae'Sean Tate
+2021-04-29,25-183,HOU,HOME,MIL,W (+7),1,37:38,5,11,.455,2,3,.667,0,0,,0,6,6,3,1,0,3,5,12,6.2,+7,Jae'Sean Tate
+2021-05-01,25-185,HOU,HOME,GSW,L (-26),1,30:48,5,10,.500,1,3,.333,3,6,.500,1,3,4,3,3,0,5,3,14,8.3,-30,Jae'Sean Tate
+2021-05-02,25-186,HOU,HOME,NYK,L (-25),1,29:29,3,11,.273,0,3,.000,2,4,.500,2,5,7,1,0,0,4,3,8,-0.9,-22,Jae'Sean Tate
+2021-05-07,25-191,HOU,AWAY,MIL,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jae'Sean Tate
+2021-05-08,25-192,HOU,AWAY,UTA,L (-8),1,29:20,5,18,.278,1,6,.167,2,4,.500,3,5,8,10,1,0,1,2,13,11.4,-4,Jae'Sean Tate
+2021-05-10,25-194,HOU,AWAY,POR,L (-11),1,30:53,3,11,.273,0,4,.000,6,6,1.000,3,4,7,8,0,0,2,4,12,10.8,-3,Jae'Sean Tate
+2021-05-12,25-196,HOU,AWAY,LAL,L (-2),1,22:59,6,10,.600,3,3,1.000,1,2,.500,1,4,5,2,0,0,2,4,16,10.7,+17,Jae'Sean Tate
+2021-05-14,25-198,HOU,HOME,LAC,W (+7),1,29:11,7,10,.700,3,5,.600,3,4,.750,1,2,3,1,0,1,5,4,20,11.5,-4,Jae'Sean Tate
+2021-05-16,25-200,HOU,AWAY,ATL,L (-29),1,21:08,3,7,.429,1,2,.500,0,2,.000,0,3,3,5,0,1,2,2,7,4.8,-5,Jae'Sean Tate
+2020-12-26,23-333,HOU,AWAY,POR,L (-2),0,9:44,0,1,.000,0,1,.000,0,0,,1,2,3,3,0,0,1,3,0,0.5,+4,Brodric Thomas
+2020-12-28,23-335,HOU,AWAY,DEN,L (-13),0,8:11,1,3,.333,0,2,.000,3,5,.600,0,0,0,1,0,0,2,2,5,0.4,0,Brodric Thomas
+2021-01-04,23-342,HOU,HOME,DAL,L (-13),0,1:08,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-1,Brodric Thomas
+2021-01-23,23-361,HOU,AWAY,DAL,W (+25),0,5:07,1,2,.500,1,2,.500,2,2,1.000,0,1,1,0,1,1,1,0,5,5.0,+7,Brodric Thomas
+2021-03-12,24-043,CLE,AWAY,NOP,L (-34),0,4:37,1,2,.500,1,1,1.000,0,0,,0,1,1,0,0,0,0,1,3,1.9,+3,Brodric Thomas
+2021-03-14,24-045,CLE,AWAY,ATL,L (-18),0,5:30,2,3,.667,0,0,,2,2,1.000,0,0,0,0,0,0,0,0,6,4.7,+3,Brodric Thomas
+2021-03-19,24-050,CLE,HOME,SAS,L (-6),0,15:45,3,5,.600,1,3,.333,0,0,,0,0,0,3,1,0,0,2,7,7.0,+16,Brodric Thomas
+2021-03-22,24-053,CLE,HOME,SAC,L (-14),0,2:07,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+3,Brodric Thomas
+2021-03-24,24-055,CLE,AWAY,CHI,W (+9),0,10:37,2,5,.400,1,2,.500,0,0,,1,1,2,2,0,1,0,0,5,5.4,+7,Brodric Thomas
+2021-03-26,24-057,CLE,AWAY,LAL,L (-14),0,19:59,0,7,.000,0,4,.000,5,6,.833,0,3,3,2,2,1,2,0,5,2.7,-5,Brodric Thomas
+2021-03-27,24-058,CLE,AWAY,SAC,L (-2),1,31:13,2,8,.250,1,3,.333,2,2,1.000,0,1,1,1,2,2,0,2,7,5.8,+8,Brodric Thomas
+2021-03-29,24-060,CLE,AWAY,UTA,L (-39),0,26:49,1,5,.200,0,3,.000,3,4,.750,0,4,4,0,1,0,1,4,5,1.1,-24,Brodric Thomas
+2021-04-01,24-063,CLE,HOME,PHI,L (-20),0,4:20,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,1,2,0,-2.2,+2,Brodric Thomas
+2021-04-05,24-067,CLE,AWAY,SAS,W (+24),0,5:13,1,2,.500,0,1,.000,0,0,,1,1,2,0,0,0,2,1,2,-0.4,-8,Brodric Thomas
+2021-04-08,24-070,CLE,AWAY,OKC,W (+27),0,2:32,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,0,Brodric Thomas
+2021-04-10,24-072,CLE,HOME,TOR,L (-20),0,2:51,0,2,.000,0,1,.000,0,0,,0,0,0,1,0,0,1,0,0,-1.7,+1,Brodric Thomas
+2021-04-11,24-073,CLE,HOME,NOP,L (-7),0,2:55,0,0,,0,0,,1,2,.500,0,0,0,0,0,0,0,0,1,0.6,0,Brodric Thomas
+2021-04-15,24-077,CLE,HOME,GSW,L (-18),0,1:18,0,0,,0,0,,0,0,,0,0,0,1,0,0,1,0,0,-0.3,+3,Brodric Thomas
+2021-04-21,24-083,CLE,HOME,CHI,W (+16),0,2:53,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-2,Brodric Thomas
+2021-04-25,24-087,CLE,AWAY,WAS,L (-9),0,5:08,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-0.4,0,Brodric Thomas
+2021-04-26,24-088,CLE,AWAY,TOR,L (-16),0,16:02,3,5,.600,3,4,.750,0,0,,1,0,1,0,1,0,2,3,9,5.2,-1,Brodric Thomas
+2021-04-28,24-090,CLE,HOME,ORL,L (-5),0,14:14,1,6,.167,1,4,.250,0,2,.000,0,4,4,2,0,1,0,0,3,1.7,-4,Brodric Thomas
+2021-04-30,24-092,CLE,HOME,WAS,L (-29),0,6:22,1,2,.500,1,1,1.000,1,2,.500,0,0,0,0,0,0,0,0,4,2.6,-3,Brodric Thomas
+2021-05-01,24-093,CLE,HOME,MIA,L (-17),0,10:41,1,2,.500,0,1,.000,0,0,,1,0,1,2,0,1,3,2,2,0.0,-3,Brodric Thomas
+2021-05-04,24-096,CLE,HOME,PHO,L (-16),0,0:58,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1,Brodric Thomas
+2021-05-05,24-097,CLE,HOME,POR,L (-36),0,13:32,2,3,.667,2,3,.667,2,2,1.000,0,0,0,2,0,0,0,1,8,7.7,-13,Brodric Thomas
+2021-05-07,24-099,CLE,AWAY,DAL,L (-20),0,24:24,2,3,.667,1,2,.500,0,0,,2,2,4,0,1,0,1,4,5,4.1,-8,Brodric Thomas
+2021-05-09,24-101,CLE,HOME,DAL,L (-27),0,22:36,4,6,.667,2,2,1.000,3,4,.750,0,3,3,1,0,2,3,1,13,9.6,-19,Brodric Thomas
+2021-05-10,24-102,CLE,HOME,IND,L (-9),0,33:54,2,8,.250,0,4,.000,1,2,.500,0,6,6,3,1,1,1,4,5,2.8,-1,Brodric Thomas
+2021-05-12,24-104,CLE,HOME,BOS,W (+8),0,34:14,2,7,.286,0,3,.000,1,2,.500,0,10,10,3,0,0,0,2,5,4.8,+7,Brodric Thomas
+2021-05-14,24-106,CLE,AWAY,WAS,L (-15),0,23:19,3,8,.375,0,3,.000,0,0,,0,1,1,3,2,0,0,3,6,4.8,-25,Brodric Thomas
+2021-05-16,24-108,CLE,AWAY,BRK,L (-14),0,31:02,4,8,.500,1,5,.200,5,9,.556,1,3,4,0,3,0,0,2,14,12.2,+6,Brodric Thomas
+2021-05-07,24-364,HOU,AWAY,MIL,L (-8),0,22:44,6,7,.857,2,3,.667,2,2,1.000,2,1,3,1,3,1,0,1,16,19.2,+4,Khyri Thomas
+2021-05-08,25-000,HOU,AWAY,UTA,L (-8),0,33:46,10,21,.476,4,12,.333,3,3,1.000,1,4,5,3,5,2,2,2,27,23.9,+13,Khyri Thomas
+2021-05-10,25-002,HOU,AWAY,POR,L (-11),0,29:10,6,15,.400,2,7,.286,4,4,1.000,1,3,4,5,0,0,1,2,18,13.2,-8,Khyri Thomas
+2021-05-12,25-004,HOU,AWAY,LAL,L (-2),1,37:15,2,12,.167,0,4,.000,0,0,,1,2,3,11,1,0,1,2,4,4.6,-1,Khyri Thomas
+2021-05-14,25-006,HOU,HOME,LAC,W (+7),1,30:01,8,11,.727,1,1,1.000,0,0,,2,1,3,5,0,3,2,1,17,17.4,+6,Khyri Thomas
+2020-12-26,35-235,HOU,AWAY,POR,L (-2),1,42:31,3,10,.300,1,4,.250,0,2,.000,3,8,11,1,1,1,4,3,7,2.1,-6,P.J. Tucker
+2020-12-28,35-237,HOU,AWAY,DEN,L (-13),1,26:59,3,4,.750,3,4,.750,0,0,,0,3,3,4,2,0,0,2,9,12.3,-9,P.J. Tucker
+2020-12-31,35-240,HOU,HOME,SAC,W (+3),1,32:26,0,0,,0,0,,0,0,,2,4,6,0,3,2,0,3,0,5.8,+4,P.J. Tucker
+2021-01-02,35-242,HOU,HOME,SAC,W (+8),1,33:11,2,3,.667,1,2,.500,0,0,,0,4,4,1,0,0,3,4,5,1.0,-1,P.J. Tucker
+2021-01-04,35-244,HOU,HOME,DAL,L (-13),1,35:16,0,1,.000,0,1,.000,0,0,,1,3,4,0,0,0,2,3,0,-2.3,-18,P.J. Tucker
+2021-01-06,35-246,HOU,AWAY,IND,L (-7),1,32:36,3,4,.750,2,2,1.000,2,2,1.000,1,5,6,0,1,1,2,6,10,7.9,+3,P.J. Tucker
+2021-01-08,35-248,HOU,HOME,ORL,W (+42),1,28:33,5,7,.714,5,7,.714,0,0,,1,3,4,5,0,2,0,3,15,17.4,+24,P.J. Tucker
+2021-01-10,35-250,HOU,HOME,LAL,L (-18),1,29:35,1,4,.250,1,4,.250,1,1,1.000,0,1,1,0,2,1,1,3,4,2.4,-18,P.J. Tucker
+2021-01-12,35-252,HOU,HOME,LAL,L (-17),1,22:53,0,1,.000,0,1,.000,0,0,,0,1,1,1,2,1,0,2,0,2.2,-19,P.J. Tucker
+2021-01-14,35-254,HOU,AWAY,SAS,W (+4),1,35:08,3,4,.750,2,2,1.000,2,2,1.000,0,6,6,2,1,0,1,4,10,10.0,+6,P.J. Tucker
+2021-01-16,35-256,HOU,AWAY,SAS,L (-12),1,36:50,1,9,.111,0,6,.000,2,2,1.000,3,6,9,2,1,2,2,4,4,2.2,-23,P.J. Tucker
+2021-01-18,35-258,HOU,AWAY,CHI,L (-5),1,33:34,1,2,.500,0,1,.000,0,0,,0,3,3,3,0,0,1,3,2,1.8,+7,P.J. Tucker
+2021-01-20,35-260,HOU,HOME,PHO,L (-6),1,21:21,1,2,.500,0,0,,0,0,,0,0,0,0,1,0,2,3,2,-1.2,-23,P.J. Tucker
+2021-01-22,35-262,HOU,AWAY,DET,W (+1),1,33:07,5,8,.625,3,5,.600,2,2,1.000,2,5,7,1,0,2,1,4,15,13.8,-14,P.J. Tucker
+2021-01-23,35-263,HOU,AWAY,DAL,W (+25),1,24:48,3,5,.600,0,1,.000,0,0,,1,5,6,1,0,0,0,3,6,5.4,+12,P.J. Tucker
+2021-01-26,35-266,HOU,HOME,WAS,W (+19),1,34:10,0,1,.000,0,1,.000,0,0,,0,2,2,0,1,0,0,3,0,-0.3,+1,P.J. Tucker
+2021-01-28,35-268,HOU,HOME,POR,W (+3),1,31:27,1,4,.250,0,2,.000,0,0,,2,4,6,0,0,2,0,2,2,2.8,+3,P.J. Tucker
+2021-01-30,35-270,HOU,AWAY,NOP,W (+14),1,24:53,2,6,.333,0,3,.000,1,2,.500,0,3,3,2,2,0,1,2,5,3.7,+4,P.J. Tucker
+2021-02-01,35-272,HOU,AWAY,OKC,W (+30),1,26:57,2,4,.500,2,4,.500,0,0,,1,4,5,2,2,0,1,2,6,7.5,+29,P.J. Tucker
+2021-02-03,35-274,HOU,AWAY,OKC,L (-17),1,24:57,0,2,.000,0,1,.000,0,0,,0,5,5,1,0,0,0,2,0,0.0,-6,P.J. Tucker
+2021-02-04,35-275,HOU,AWAY,MEM,W (+12),1,33:37,1,8,.125,1,7,.143,0,0,,2,6,8,2,1,0,1,2,3,1.6,+18,P.J. Tucker
+2021-02-06,35-277,HOU,HOME,SAS,L (-5),1,29:59,0,3,.000,0,2,.000,2,2,1.000,0,5,5,2,0,0,0,3,2,1.6,-6,P.J. Tucker
+2021-02-08,35-279,HOU,AWAY,CHO,L (-25),1,23:23,0,3,.000,0,3,.000,0,0,,0,0,0,2,1,0,2,3,0,-2.9,-16,P.J. Tucker
+2021-02-09,35-280,HOU,AWAY,NOP,L (-29),1,28:26,3,7,.429,1,2,.500,0,0,,4,0,4,3,0,0,0,5,7,6.2,-24,P.J. Tucker
+2021-02-11,35-282,HOU,HOME,MIA,L (-7),1,22:25,2,6,.333,2,4,.500,2,2,1.000,0,3,3,0,1,0,1,2,8,4.7,+4,P.J. Tucker
+2021-02-13,35-284,HOU,AWAY,NYK,L (-22),1,30:47,0,4,.000,0,4,.000,0,0,,3,5,8,1,0,0,2,3,0,-1.7,-8,P.J. Tucker
+2021-02-22,35-293,HOU,HOME,CHI,L (-20),1,22:35,0,3,.000,0,2,.000,0,0,,0,2,2,0,1,0,0,1,0,-0.9,-23,P.J. Tucker
+2021-02-24,35-295,HOU,AWAY,CLE,L (-16),1,30:56,0,2,.000,0,1,.000,0,0,,2,5,7,2,0,0,2,2,0,0.1,-11,P.J. Tucker
+2021-02-26,35-297,HOU,AWAY,TOR,L (-11),1,33:23,4,8,.500,2,5,.400,1,2,.500,2,5,7,2,2,1,1,3,11,11.4,-6,P.J. Tucker
+2021-02-28,35-299,HOU,HOME,MEM,L (-49),1,22:02,0,1,.000,0,1,.000,1,2,.500,3,2,5,1,1,2,2,1,1,3.3,-28,P.J. Tucker
+2021-03-01,35-300,HOU,HOME,CLE,L (-11),1,38:52,2,3,.667,1,2,.500,2,2,1.000,0,4,4,1,2,0,1,1,7,8.2,-13,P.J. Tucker
+2021-03-03,35-302,HOU,HOME,BRK,L (-18),1,31:18,0,2,.000,0,2,.000,0,0,,0,3,3,3,1,1,0,4,0,1.7,-8,P.J. Tucker
+2021-03-20,35-319,MIL,HOME,SAS,W (+7),0,12:44,0,1,.000,0,1,.000,0,0,,1,2,3,0,0,1,0,0,0,1.3,-1,P.J. Tucker
+2021-03-22,35-321,MIL,HOME,IND,W (+27),0,11:59,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,2,0,-0.1,-5,P.J. Tucker
+2021-03-24,35-323,MIL,HOME,BOS,W (+2),0,18:48,1,3,.333,1,3,.333,0,0,,2,1,3,0,0,1,0,0,3,3.7,-1,P.J. Tucker
+2021-04-14,35-344,MIL,AWAY,MIN,W (+25),0,9:57,0,0,,0,0,,0,0,,0,3,3,1,1,0,0,0,0,2.6,-6,P.J. Tucker
+2021-04-15,35-345,MIL,AWAY,ATL,W (+11),0,16:18,3,4,.750,2,3,.667,0,0,,1,2,3,1,0,0,0,1,8,8.0,+12,P.J. Tucker
+2021-04-17,35-347,MIL,HOME,MEM,L (-13),0,21:45,2,6,.333,1,3,.333,0,0,,3,3,6,0,1,0,0,1,5,5.2,-8,P.J. Tucker
+2021-04-19,35-349,MIL,HOME,PHO,L (-1),0,21:29,1,2,.500,1,1,1.000,0,0,,0,3,3,0,0,0,0,1,3,2.5,+3,P.J. Tucker
+2021-04-22,35-352,MIL,HOME,PHI,W (+7),0,22:50,0,2,.000,0,1,.000,0,0,,1,1,2,1,1,0,0,3,0,0.1,-2,P.J. Tucker
+2021-04-24,35-354,MIL,HOME,PHI,W (+38),0,18:10,1,4,.250,1,3,.333,0,0,,1,2,3,1,0,0,2,2,3,-0.2,+10,P.J. Tucker
+2021-04-27,35-357,MIL,AWAY,CHO,W (+10),0,25:35,2,3,.667,1,2,.500,0,0,,1,3,4,0,1,0,0,1,5,5.9,+7,P.J. Tucker
+2021-04-29,35-359,MIL,AWAY,HOU,L (-7),0,30:02,2,3,.667,2,3,.667,0,0,,1,5,6,0,2,0,1,4,6,6.3,-11,P.J. Tucker
+2021-04-30,35-360,MIL,AWAY,CHI,W (+10),0,21:38,1,2,.500,0,0,,0,1,.000,1,2,3,0,0,0,0,2,2,1.1,-4,P.J. Tucker
+2021-05-02,35-362,MIL,HOME,BRK,W (+3),0,23:22,1,1,1.000,1,1,1.000,0,0,,2,0,2,2,1,0,1,5,3,3.5,-7,P.J. Tucker
+2021-05-04,35-364,MIL,HOME,BRK,W (+6),0,20:09,1,2,.500,1,2,.500,0,0,,2,1,3,2,1,0,0,4,3,4.5,-9,P.J. Tucker
+2021-05-05,36-000,MIL,HOME,WAS,W (+1),1,20:27,0,1,.000,0,1,.000,0,0,,0,1,1,0,1,0,2,3,0,-2.6,-1,P.J. Tucker
+2021-05-07,36-002,MIL,HOME,HOU,W (+8),0,18:44,1,2,.500,1,2,.500,0,0,,1,1,2,3,0,0,1,2,3,3.3,+3,P.J. Tucker
+2021-05-10,36-005,MIL,AWAY,SAS,L (-21),0,20:30,1,4,.250,1,3,.333,0,0,,0,0,0,1,0,0,0,0,3,1.3,-14,P.J. Tucker
+2021-05-11,36-006,MIL,HOME,ORL,W (+12),0,20:08,0,0,,0,0,,0,0,,0,5,5,0,0,0,0,1,0,1.1,+7,P.J. Tucker
+2021-05-13,36-008,MIL,AWAY,IND,W (+9),0,18:04,1,3,.333,0,1,.000,1,2,.500,1,1,2,2,0,0,0,1,3,2.9,0,P.J. Tucker
+2021-05-15,36-010,MIL,HOME,MIA,W (+14),0,24:03,0,3,.000,0,3,.000,2,2,1.000,0,2,2,1,1,0,0,1,2,1.8,+13,P.J. Tucker
+2020-12-31,30-116,HOU,HOME,SAC,W (+3),1,36:34,8,20,.400,2,8,.250,4,4,1.000,1,5,6,9,1,1,5,0,22,16.4,-4,John Wall
+2021-01-02,30-118,HOU,HOME,SAC,W (+8),1,37:14,11,22,.500,2,8,.250,4,6,.667,1,3,4,6,3,2,5,0,28,21.4,-4,John Wall
+2021-01-04,30-120,HOU,HOME,DAL,L (-13),1,33:00,4,10,.400,1,3,.333,5,5,1.000,1,3,4,4,0,0,2,2,14,10.2,-13,John Wall
+2021-01-06,30-122,HOU,AWAY,IND,L (-7),1,37:08,12,20,.600,0,3,.000,4,4,1.000,1,5,6,3,2,1,5,1,28,20.4,+3,John Wall
+2021-01-08,30-124,HOU,HOME,ORL,W (+42),1,28:45,5,11,.455,3,4,.750,1,2,.500,0,3,3,4,0,0,0,3,14,10.4,+26,John Wall
+2021-01-10,30-126,HOU,HOME,LAL,L (-18),1,34:26,5,14,.357,2,4,.500,2,2,1.000,1,9,10,5,1,2,4,3,14,10.3,-28,John Wall
+2021-01-12,30-128,HOU,HOME,LAL,L (-17),1,29:54,4,11,.364,0,1,.000,2,3,.667,0,0,0,5,2,1,3,0,10,6.7,-18,John Wall
+2021-01-14,30-130,HOU,AWAY,SAS,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,John Wall
+2021-01-16,30-132,HOU,AWAY,SAS,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,John Wall
+2021-01-23,30-139,HOU,AWAY,DAL,W (+25),1,20:42,3,9,.333,0,4,.000,1,2,.500,1,0,1,8,0,0,1,1,7,6.4,+10,John Wall
+2021-01-26,30-142,HOU,HOME,WAS,W (+19),1,24:03,9,21,.429,1,6,.167,5,6,.833,1,1,2,5,1,0,3,0,24,15.0,+11,John Wall
+2021-01-28,30-144,HOU,HOME,POR,W (+3),1,29:44,6,16,.375,3,7,.429,5,6,.833,0,5,5,6,0,1,2,0,20,15.2,+3,John Wall
+2021-01-30,30-146,HOU,AWAY,NOP,W (+14),1,26:05,5,12,.417,4,6,.667,1,2,.500,0,2,2,9,1,1,2,4,15,13.2,+3,John Wall
+2021-02-01,30-148,HOU,AWAY,OKC,W (+30),1,21:42,7,12,.583,4,5,.800,0,0,,1,5,6,5,2,1,3,1,18,17.4,+9,John Wall
+2021-02-04,30-151,HOU,AWAY,MEM,W (+12),1,27:55,6,17,.353,4,9,.444,6,6,1.000,0,1,1,8,0,0,7,0,22,11.4,+34,John Wall
+2021-02-06,30-153,HOU,HOME,SAS,L (-5),1,32:01,10,19,.526,1,5,.200,6,9,.667,1,1,2,7,0,1,2,3,27,19.9,-10,John Wall
+2021-02-08,30-155,HOU,AWAY,CHO,L (-25),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,John Wall
+2021-02-09,30-156,HOU,AWAY,NOP,L (-29),1,34:25,11,23,.478,2,8,.250,1,6,.167,0,4,4,6,0,0,3,2,25,12.9,-15,John Wall
+2021-02-11,30-158,HOU,HOME,MIA,L (-7),1,35:56,5,13,.385,4,9,.444,3,6,.500,0,6,6,7,1,0,5,2,17,10.6,-6,John Wall
+2021-02-13,30-160,HOU,AWAY,NYK,L (-22),1,30:38,9,20,.450,3,6,.500,5,6,.833,0,2,2,4,2,0,2,0,26,18.6,-4,John Wall
+2021-02-15,30-162,HOU,AWAY,WAS,L (-12),1,34:55,10,26,.385,1,7,.143,8,10,.800,1,2,3,11,1,1,5,2,29,18.9,-11,John Wall
+2021-02-17,30-164,HOU,AWAY,PHI,L (-5),1,35:54,11,24,.458,2,8,.250,4,5,.800,0,3,3,7,2,1,7,2,28,15.9,0,John Wall
+2021-02-22,30-169,HOU,HOME,CHI,L (-20),1,26:12,4,14,.286,1,3,.333,6,7,.857,0,3,3,7,0,0,2,1,15,9.8,-29,John Wall
+2021-02-24,30-171,HOU,AWAY,CLE,L (-16),1,30:54,7,18,.389,3,6,.500,3,3,1.000,0,1,1,3,2,2,2,1,20,13.6,-15,John Wall
+2021-02-26,30-173,HOU,AWAY,TOR,L (-11),1,36:27,9,21,.429,2,9,.222,1,2,.500,0,2,2,12,0,1,2,0,21,17.2,-2,John Wall
+2021-02-28,30-175,HOU,HOME,MEM,L (-49),1,26:47,4,16,.250,0,5,.000,6,8,.750,0,0,0,0,0,0,5,0,14,-1.4,-33,John Wall
+2021-03-01,30-176,HOU,HOME,CLE,L (-11),1,39:50,11,24,.458,1,4,.250,9,12,.750,0,3,3,5,1,1,3,0,32,21.5,-13,John Wall
+2021-03-03,30-178,HOU,HOME,BRK,L (-18),1,41:29,12,30,.400,5,12,.417,7,11,.636,1,1,2,5,0,1,3,1,36,20.0,-17,John Wall
+2021-03-19,30-194,HOU,HOME,DET,L (-13),1,28:33,7,16,.438,2,5,.400,5,8,.625,0,3,3,7,0,0,6,3,21,10.0,-14,John Wall
+2021-03-21,30-196,HOU,HOME,OKC,L (-2),1,35:28,7,18,.389,1,7,.143,9,12,.750,0,2,2,7,3,0,3,1,24,18.1,+6,John Wall
+2021-03-22,30-197,HOU,HOME,TOR,W (+18),1,36:06,8,30,.267,1,7,.143,2,2,1.000,3,8,11,10,1,2,3,2,19,11.3,+11,John Wall
+2021-03-24,30-199,HOU,HOME,CHO,L (-25),1,29:03,6,15,.400,3,8,.375,5,6,.833,1,1,2,7,1,0,1,1,20,17.0,-15,John Wall
+2021-03-26,30-201,HOU,AWAY,MIN,L (-6),1,37:11,6,25,.240,1,7,.143,1,2,.500,0,3,3,15,2,2,7,1,14,5.9,-6,John Wall
+2021-03-27,30-202,HOU,AWAY,MIN,W (+22),1,25:42,5,14,.357,2,6,.333,1,1,1.000,0,3,3,12,1,1,1,1,13,14.8,+8,John Wall
+2021-03-29,30-204,HOU,HOME,MEM,L (-10),1,33:15,2,12,.167,1,5,.200,4,5,.800,0,3,3,8,3,2,4,1,9,7.5,+10,John Wall
+2021-04-07,30-213,HOU,HOME,DAL,W (+9),1,34:03,12,23,.522,4,10,.400,3,6,.500,1,2,3,7,4,1,1,0,31,28.4,+22,John Wall
+2021-04-10,30-216,HOU,AWAY,GSW,L (-16),1,36:54,11,19,.579,5,7,.714,3,6,.500,1,1,2,7,1,1,6,0,30,21.5,-9,John Wall
+2021-04-12,30-218,HOU,AWAY,PHO,L (-6),1,35:54,5,20,.250,3,10,.300,0,0,,0,2,2,8,1,0,5,2,13,2.4,-13,John Wall
+2021-04-14,30-220,HOU,HOME,IND,L (-8),1,35:57,12,28,.429,0,7,.000,7,9,.778,0,3,3,9,1,2,3,2,31,21.2,+8,John Wall
+2021-04-16,30-222,HOU,HOME,DEN,L (-29),1,28:09,3,8,.375,2,3,.667,2,2,1.000,0,1,1,2,0,0,7,1,10,-0.1,-15,John Wall
+2021-04-18,30-224,HOU,AWAY,ORL,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,John Wall
+2021-04-19,30-225,HOU,AWAY,MIA,L (-22),1,30:05,4,14,.286,1,5,.200,5,6,.833,0,4,4,6,1,0,4,0,14,7.8,-22,John Wall
+2021-04-21,30-227,HOU,HOME,UTA,L (-23),1,29:36,8,19,.421,1,5,.200,4,4,1.000,0,3,3,6,0,0,3,0,21,13.0,-20,John Wall
+2021-04-23,30-229,HOU,HOME,LAC,L (-5),1,39:28,9,22,.409,1,7,.143,8,9,.889,0,3,3,13,1,2,4,2,27,22.4,+6,John Wall
+2021-05-07,30-243,HOU,AWAY,MIL,L (-8),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,John Wall
+2020-12-23,24-308,MIL,AWAY,BOS,L (-1),0,12:53,0,2,.000,0,2,.000,0,0,,0,5,5,1,0,1,1,2,0,-0.3,-6,D.J. Wilson
+2020-12-25,24-310,MIL,HOME,GSW,W (+39),0,13:56,3,4,.750,3,3,1.000,0,0,,0,4,4,0,0,1,1,2,9,7.5,+12,D.J. Wilson
+2020-12-27,24-312,MIL,AWAY,NYK,L (-20),0,6:54,0,0,,0,0,,1,2,.500,1,0,1,0,0,0,0,2,1,0.5,-6,D.J. Wilson
+2020-12-29,24-314,MIL,AWAY,MIA,W (+47),0,9:23,1,5,.200,1,4,.250,0,0,,1,2,3,0,0,0,0,3,3,0.0,+4,D.J. Wilson
+2021-01-01,24-317,MIL,HOME,CHI,W (+30),0,9:27,1,4,.250,1,3,.333,0,0,,0,2,2,1,1,0,1,0,3,1.9,+2,D.J. Wilson
+2021-01-09,24-325,MIL,HOME,CLE,W (+10),0,15:42,5,9,.556,2,3,.667,0,0,,1,2,3,1,0,0,1,0,12,8.7,0,D.J. Wilson
+2021-01-11,24-327,MIL,AWAY,ORL,W (+22),0,3:02,1,2,.500,0,1,.000,0,0,,0,1,1,0,0,0,0,0,2,1.3,-3,D.J. Wilson
+2021-02-01,24-348,MIL,HOME,POR,W (+28),0,9:23,2,4,.500,1,2,.500,0,0,,0,1,1,0,0,0,0,1,5,2.9,-9,D.J. Wilson
+2021-02-03,24-350,MIL,HOME,IND,W (+20),0,9:42,1,6,.167,0,4,.000,0,0,,0,0,0,0,0,1,0,1,2,-1.5,-15,D.J. Wilson
+2021-02-06,24-353,MIL,AWAY,CLE,W (+25),0,4:03,0,1,.000,0,1,.000,0,0,,0,2,2,0,0,0,0,1,0,-0.5,-3,D.J. Wilson
+2021-03-02,25-011,MIL,HOME,DEN,L (-31),0,4:56,1,4,.250,1,3,.333,0,0,,0,1,1,0,0,1,0,0,3,1.6,-10,D.J. Wilson
+2021-03-11,25-020,MIL,HOME,NYK,W (+33),0,5:17,1,2,.500,1,2,.500,0,0,,0,2,2,0,0,0,0,1,3,2.2,-1,D.J. Wilson
+2021-03-19,25-028,HOU,HOME,DET,L (-13),0,6:51,0,2,.000,0,1,.000,0,0,,0,3,3,0,0,0,0,0,0,-0.5,-1,D.J. Wilson
+2021-03-21,25-030,HOU,HOME,OKC,L (-2),0,9:32,3,5,.600,2,3,.667,0,0,,0,1,1,0,0,0,0,1,8,5.6,-11,D.J. Wilson
+2021-03-22,25-031,HOU,HOME,TOR,W (+18),0,15:36,2,4,.500,0,0,,3,3,1.000,0,2,2,0,0,0,0,4,7,4.0,+6,D.J. Wilson
+2021-03-24,25-033,HOU,HOME,CHO,L (-25),0,18:44,3,8,.375,1,4,.250,1,2,.500,2,6,8,1,0,1,1,2,8,6.0,-12,D.J. Wilson
+2021-03-26,25-035,HOU,AWAY,MIN,L (-6),0,11:57,2,6,.333,2,4,.500,0,0,,0,5,5,0,0,1,3,3,6,0.6,-2,D.J. Wilson
+2021-03-27,25-036,HOU,AWAY,MIN,W (+22),0,16:40,2,3,.667,0,0,,1,1,1.000,2,1,3,3,1,2,1,2,5,8.1,+6,D.J. Wilson
+2021-03-29,25-038,HOU,HOME,MEM,L (-10),0,12:04,3,4,.750,2,3,.667,0,0,,2,1,3,1,0,1,2,3,8,6.3,-14,D.J. Wilson
+2021-04-02,25-042,HOU,AWAY,BOS,L (-16),0,4:34,1,2,.500,1,2,.500,1,2,.500,0,1,1,0,0,0,1,0,4,1.9,+6,D.J. Wilson
+2021-04-04,25-044,HOU,HOME,NOP,L (-7),0,8:50,3,3,1.000,1,1,1.000,0,0,,0,2,2,0,0,0,0,0,7,6.7,+6,D.J. Wilson
+2021-04-05,25-045,HOU,HOME,PHO,L (-3),0,14:35,1,5,.200,0,3,.000,0,0,,0,4,4,0,2,0,1,1,2,0.7,+3,D.J. Wilson
+2021-04-09,25-049,HOU,AWAY,LAC,L (-17),0,14:46,0,3,.000,0,2,.000,0,0,,0,4,4,2,0,3,0,1,0,2.2,+4,D.J. Wilson
+2021-04-10,25-050,HOU,AWAY,GSW,L (-16),0,9:19,1,5,.200,1,1,1.000,0,0,,1,1,2,0,0,0,0,1,3,0.5,+8,D.J. Wilson
+2021-04-12,25-052,HOU,AWAY,PHO,L (-6),0,13:32,3,5,.600,1,3,.333,1,1,1.000,1,5,6,0,0,0,2,2,8,5.1,+1,D.J. Wilson
+2021-04-14,25-054,HOU,HOME,IND,L (-8),0,5:22,1,4,.250,0,2,.000,0,0,,0,0,0,0,0,0,0,0,2,-0.4,-16,D.J. Wilson
+2021-04-16,25-056,HOU,HOME,DEN,L (-29),0,16:51,3,7,.429,1,4,.250,1,4,.250,0,2,2,0,2,0,0,1,8,5.3,-14,D.J. Wilson
+2021-04-18,25-058,HOU,AWAY,ORL,W (+4),0,15:30,0,5,.000,0,3,.000,0,0,,0,3,3,2,1,2,1,2,0,-0.6,-4,D.J. Wilson
+2021-04-19,25-059,HOU,AWAY,MIA,L (-22),0,11:00,1,3,.333,0,1,.000,2,2,1.000,1,2,3,1,0,0,1,0,4,3.3,-16,D.J. Wilson
+2021-04-21,25-061,HOU,HOME,UTA,L (-23),0,12:44,3,8,.375,0,2,.000,0,2,.000,2,3,5,2,0,0,0,2,6,3.7,+2,D.J. Wilson
+2021-04-23,25-063,HOU,HOME,LAC,L (-5),0,5:44,1,2,.500,1,2,.500,0,0,,0,2,2,0,0,1,0,0,3,3.3,-4,D.J. Wilson
+2021-04-24,25-064,HOU,AWAY,DEN,L (-13),1,39:53,10,17,.588,3,7,.429,2,2,1.000,1,7,8,4,3,0,3,1,25,22.3,-2,D.J. Wilson
+2021-04-27,25-067,HOU,HOME,MIN,L (-7),0,14:16,2,6,.333,1,3,.333,0,0,,0,2,2,2,0,0,0,2,5,2.8,-6,D.J. Wilson
+2021-04-29,25-069,HOU,HOME,MIL,W (+7),0,25:03,5,11,.455,3,5,.600,2,2,1.000,5,7,12,1,0,0,1,3,15,13.4,-2,D.J. Wilson
+2021-05-01,25-071,HOU,HOME,GSW,L (-26),0,24:34,2,7,.286,0,3,.000,2,2,1.000,0,6,6,1,1,1,1,0,6,5.1,-9,D.J. Wilson
+2020-12-26,25-090,HOU,AWAY,POR,L (-2),1,43:37,14,22,.636,0,2,.000,3,4,.750,3,10,13,3,0,1,3,4,31,24.1,-6,Christian Wood
+2020-12-28,25-092,HOU,AWAY,DEN,L (-13),1,36:49,9,20,.450,4,5,.800,1,2,.500,0,3,3,1,2,2,0,1,23,16.8,-2,Christian Wood
+2020-12-31,25-095,HOU,HOME,SAC,W (+3),1,31:52,9,14,.643,0,3,.000,3,4,.750,3,9,12,3,1,2,1,1,21,22.3,+13,Christian Wood
+2021-01-02,25-097,HOU,HOME,SAC,W (+8),1,33:23,7,14,.500,2,7,.286,4,7,.571,3,12,15,1,1,4,1,5,20,19.0,+2,Christian Wood
+2021-01-04,25-099,HOU,HOME,DAL,L (-13),1,32:44,8,15,.533,0,5,.000,7,8,.875,1,6,7,0,1,1,3,3,23,15.3,-18,Christian Wood
+2021-01-08,25-103,HOU,HOME,ORL,W (+42),1,26:32,9,17,.529,1,5,.200,3,4,.750,3,12,15,0,1,2,1,1,22,20.0,+18,Christian Wood
+2021-01-10,25-105,HOU,HOME,LAL,L (-18),1,31:49,10,20,.500,1,5,.200,2,3,.667,1,2,3,1,0,1,1,4,23,12.7,-21,Christian Wood
+2021-01-12,25-107,HOU,HOME,LAL,L (-17),1,25:54,8,18,.444,2,5,.400,0,0,,2,6,8,1,0,0,2,1,18,10.1,-23,Christian Wood
+2021-01-14,25-109,HOU,AWAY,SAS,W (+4),1,34:51,10,18,.556,5,7,.714,2,6,.333,2,13,15,1,0,3,5,3,27,18.7,+3,Christian Wood
+2021-01-16,25-111,HOU,AWAY,SAS,L (-12),1,40:46,9,20,.450,1,3,.333,5,8,.625,6,12,18,3,0,3,2,0,24,22.4,-2,Christian Wood
+2021-01-18,25-113,HOU,AWAY,CHI,L (-5),1,30:41,11,16,.688,3,5,.600,5,6,.833,0,9,9,1,1,0,3,3,30,23.0,+15,Christian Wood
+2021-01-20,25-115,HOU,HOME,PHO,L (-6),1,33:51,8,18,.444,2,6,.333,2,3,.667,1,10,11,2,2,2,2,1,20,16.3,+3,Christian Wood
+2021-01-28,25-123,HOU,HOME,POR,W (+3),1,32:10,8,12,.667,1,4,.250,5,6,.833,1,11,12,0,1,1,3,0,22,19.1,+16,Christian Wood
+2021-01-30,25-125,HOU,AWAY,NOP,W (+14),1,27:02,11,13,.846,3,4,.750,2,2,1.000,0,9,9,0,1,1,1,1,27,25.3,+23,Christian Wood
+2021-02-01,25-127,HOU,AWAY,OKC,W (+30),1,26:02,8,13,.615,2,3,.667,0,1,.000,3,8,11,1,1,2,0,1,18,18.9,+16,Christian Wood
+2021-02-03,25-129,HOU,AWAY,OKC,L (-17),1,22:08,3,7,.429,2,4,.500,0,0,,1,5,6,3,3,0,3,3,8,7.4,-15,Christian Wood
+2021-02-04,25-130,HOU,AWAY,MEM,W (+12),1,20:11,7,10,.700,3,3,1.000,0,0,,1,6,7,1,1,1,0,0,17,17.7,+21,Christian Wood
+2021-03-17,25-171,HOU,HOME,GSW,L (-14),1,26:18,8,12,.667,0,1,.000,5,11,.455,0,9,9,2,0,1,3,2,21,14.4,-6,Christian Wood
+2021-03-19,25-173,HOU,HOME,DET,L (-13),1,27:36,8,14,.571,1,5,.200,1,1,1.000,1,10,11,2,1,2,2,1,18,16.5,-14,Christian Wood
+2021-03-21,25-175,HOU,HOME,OKC,L (-2),1,36:06,9,16,.563,2,6,.333,7,8,.875,2,6,8,2,1,2,1,3,27,23.8,+9,Christian Wood
+2021-03-22,25-176,HOU,HOME,TOR,W (+18),1,28:16,8,15,.533,2,4,.500,1,1,1.000,0,4,4,1,1,0,4,4,19,9.0,+7,Christian Wood
+2021-03-24,25-178,HOU,HOME,CHO,L (-25),1,29:16,4,14,.286,0,5,.000,3,6,.500,3,7,10,0,0,0,0,2,11,5.0,-13,Christian Wood
+2021-03-26,25-180,HOU,AWAY,MIN,L (-6),1,36:03,9,16,.563,2,6,.333,4,6,.667,2,7,9,1,0,1,0,2,24,19.7,-4,Christian Wood
+2021-03-27,25-181,HOU,AWAY,MIN,W (+22),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Christian Wood
+2021-03-31,25-185,HOU,AWAY,BRK,L (-12),1,35:02,4,12,.333,1,5,.200,5,6,.833,1,7,8,3,2,3,3,3,14,11.6,-15,Christian Wood
+2021-04-02,25-187,HOU,AWAY,BOS,L (-16),1,32:13,8,16,.500,1,2,.500,2,7,.286,3,7,10,3,2,0,2,1,19,14.9,-19,Christian Wood
+2021-04-04,25-189,HOU,HOME,NOP,L (-7),1,33:22,3,11,.273,1,6,.167,8,13,.615,2,10,12,3,1,0,2,2,15,11.2,-15,Christian Wood
+2021-04-05,25-190,HOU,HOME,PHO,L (-3),1,33:25,8,21,.381,3,7,.429,4,5,.800,1,2,3,0,0,0,1,2,23,10.6,-6,Christian Wood
+2021-04-07,25-192,HOU,HOME,DAL,W (+9),1,36:50,8,17,.471,5,8,.625,1,2,.500,1,9,10,1,1,0,0,2,22,17.2,+18,Christian Wood
+2021-04-09,25-194,HOU,AWAY,LAC,L (-17),1,30:37,9,15,.600,1,4,.250,4,9,.444,0,3,3,2,0,3,0,2,23,17.7,-15,Christian Wood
+2021-04-10,25-195,HOU,AWAY,GSW,L (-16),1,35:06,8,14,.571,0,4,.000,2,2,1.000,1,6,7,3,0,0,5,2,18,10.2,-8,Christian Wood
+2021-04-12,25-197,HOU,AWAY,PHO,L (-6),1,34:28,10,15,.667,3,5,.600,2,3,.667,4,11,15,3,2,0,3,2,25,24.5,-7,Christian Wood
+2021-04-14,25-199,HOU,HOME,IND,L (-8),1,36:40,11,21,.524,2,4,.500,1,1,1.000,6,7,13,2,1,3,1,1,25,24.1,+8,Christian Wood
+2021-04-16,25-201,HOU,HOME,DEN,L (-29),1,24:21,5,10,.500,2,4,.500,3,5,.600,0,3,3,1,0,0,1,5,15,7.8,-11,Christian Wood
+2021-04-18,25-203,HOU,AWAY,ORL,W (+4),1,39:44,9,18,.500,4,9,.444,3,6,.500,1,9,10,3,1,1,4,2,25,17.2,+11,Christian Wood
+2021-04-19,25-204,HOU,AWAY,MIA,L (-22),1,31:50,8,16,.500,2,6,.333,0,0,,1,6,7,0,3,2,1,2,18,15.1,-15,Christian Wood
+2021-04-21,25-206,HOU,HOME,UTA,L (-23),1,30:08,6,12,.500,1,4,.250,3,8,.375,2,6,8,0,0,1,1,2,16,10.1,-14,Christian Wood
+2021-04-23,25-208,HOU,HOME,LAC,L (-5),1,37:00,8,22,.364,2,7,.286,6,8,.750,5,14,19,2,0,0,4,4,24,14.5,+2,Christian Wood
+2021-04-24,25-209,HOU,AWAY,DEN,L (-13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Christian Wood
+2021-04-27,25-212,HOU,HOME,MIN,L (-7),1,37:54,9,16,.563,2,5,.400,4,7,.571,2,16,18,5,0,1,2,1,24,23.2,-3,Christian Wood
+2021-04-29,25-214,HOU,HOME,MIL,W (+7),1,39:28,10,21,.476,6,10,.600,5,6,.833,4,5,9,4,1,1,3,3,31,24.5,+17,Christian Wood
+2021-05-01,25-216,HOU,HOME,GSW,L (-26),1,28:39,4,15,.267,2,8,.250,0,2,.000,0,7,7,3,1,0,4,3,10,0.3,-24,Christian Wood
+2021-05-02,25-217,HOU,HOME,NYK,L (-25),1,35:13,6,14,.429,0,5,.000,7,11,.636,3,5,8,3,0,1,2,3,19,13.2,-24,Christian Wood
+2021-05-07,25-222,HOU,AWAY,MIL,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Christian Wood
+2021-05-08,25-223,HOU,AWAY,UTA,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Christian Wood
+2021-05-16,25-231,HOU,AWAY,ATL,L (-29),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Christian Wood

@@ -1,0 +1,99 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2022-10-19,19-345,CHO,AWAY,SAS,W (+27),0,4:20,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,1,0,0,0,0.0,-7,Bryce McGowens
+2022-10-23,19-349,CHO,AWAY,ATL,W (+17),0,2:38,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,-5,Bryce McGowens
+2022-10-26,19-352,CHO,AWAY,NYK,L (-3),0,0:38,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,Bryce McGowens
+2022-10-28,19-354,CHO,AWAY,ORL,L (-20),0,5:19,1,2,.500,0,0,,0,0,,0,1,1,1,1,0,0,0,2,3.0,+9,Bryce McGowens
+2022-11-04,19-361,CHO,AWAY,MEM,L (-31),0,16:52,3,5,.600,1,2,.500,5,5,1.000,0,1,1,0,1,0,1,1,12,9.6,+9,Bryce McGowens
+2022-11-10,20-002,CHO,AWAY,MIA,L (-5),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Bryce McGowens
+2022-11-28,20-020,CHO,AWAY,BOS,L (-35),0,24:28,3,7,.429,2,4,.500,2,2,1.000,0,2,2,6,0,1,1,1,10,10.4,+6,Bryce McGowens
+2022-12-02,20-024,CHO,HOME,WAS,W (+1),0,20:19,1,4,.250,1,1,1.000,1,2,.500,1,1,2,1,0,1,1,0,4,2.6,+6,Bryce McGowens
+2022-12-03,20-025,CHO,HOME,MIL,L (-9),0,17:32,1,3,.333,0,1,.000,0,0,,1,3,4,0,0,0,0,0,2,1.9,-9,Bryce McGowens
+2022-12-05,20-027,CHO,HOME,LAC,L (-2),0,16:48,3,5,.600,0,0,,0,0,,0,1,1,0,1,1,0,2,6,4.9,-19,Bryce McGowens
+2022-12-07,20-029,CHO,AWAY,BRK,L (-6),0,19:59,1,3,.333,1,2,.500,0,0,,0,0,0,2,0,0,0,1,3,2.3,-6,Bryce McGowens
+2022-12-09,20-031,CHO,HOME,NYK,L (-19),0,30:03,3,9,.333,1,3,.333,3,3,1.000,1,4,5,1,0,0,1,2,10,5.7,-21,Bryce McGowens
+2022-12-11,20-033,CHO,AWAY,PHI,L (-18),0,23:20,1,3,.333,0,2,.000,0,0,,0,1,1,2,1,0,2,0,2,1.0,-6,Bryce McGowens
+2022-12-16,20-038,CHO,HOME,ATL,L (-19),0,3:47,0,2,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-1.1,+4,Bryce McGowens
+2023-01-04,20-057,CHO,HOME,MEM,L (-24),0,4:41,1,2,.500,0,0,,1,2,.500,0,0,0,1,0,0,1,0,3,1.3,+2,Bryce McGowens
+2023-01-06,20-059,CHO,AWAY,MIL,W (+29),0,2:28,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+3,Bryce McGowens
+2023-01-12,20-065,CHO,AWAY,TOR,L (-10),0,0:07,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Bryce McGowens
+2023-01-14,20-067,CHO,HOME,BOS,L (-16),0,1:44,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,0,Bryce McGowens
+2023-01-16,20-069,CHO,HOME,BOS,L (-12),0,12:35,0,1,.000,0,0,,0,0,,0,3,3,0,0,0,0,1,0,-0.2,+1,Bryce McGowens
+2023-01-18,20-071,CHO,AWAY,HOU,W (+5),0,21:25,3,4,.750,2,3,.667,2,3,.667,2,2,4,3,0,0,1,3,10,9.9,+13,Bryce McGowens
+2023-01-21,20-074,CHO,AWAY,ATL,W (+4),0,26:02,3,6,.500,1,4,.250,0,0,,0,2,2,0,0,0,1,1,7,3.2,-10,Bryce McGowens
+2023-01-23,20-076,CHO,AWAY,UTA,L (-18),0,27:33,0,7,.000,0,2,.000,2,2,1.000,1,3,4,1,0,0,0,3,2,-1.8,-3,Bryce McGowens
+2023-01-24,20-077,CHO,AWAY,PHO,L (-31),1,21:41,2,8,.250,0,1,.000,1,1,1.000,2,2,4,3,0,0,0,2,5,3.5,-6,Bryce McGowens
+2023-02-10,20-094,CHO,AWAY,BOS,L (-11),0,21:24,4,6,.667,0,1,.000,1,2,.500,1,4,5,1,0,0,1,1,9,7.2,-10,Bryce McGowens
+2023-02-11,20-095,CHO,HOME,DEN,L (-14),0,11:57,1,2,.500,0,1,.000,0,0,,0,1,1,1,1,0,3,2,2,-0.8,-14,Bryce McGowens
+2023-02-13,20-097,CHO,HOME,ATL,W (+6),0,18:41,1,4,.250,1,2,.500,1,2,.500,0,1,1,1,0,0,2,1,4,-0.2,+6,Bryce McGowens
+2023-02-15,20-099,CHO,HOME,SAS,W (+10),0,25:44,3,9,.333,2,3,.667,3,4,.750,0,1,1,3,2,0,0,0,11,9.9,+6,Bryce McGowens
+2023-02-27,20-111,CHO,HOME,DET,W (+11),0,4:55,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,-12,Bryce McGowens
+2023-03-01,20-113,CHO,HOME,PHO,L (-14),0,14:52,1,2,.500,0,1,.000,1,2,.500,0,2,2,0,0,0,1,0,3,1.2,-5,Bryce McGowens
+2023-03-03,20-115,CHO,HOME,ORL,L (-11),0,15:01,0,3,.000,0,3,.000,1,2,.500,2,3,5,0,1,0,1,0,1,0.8,+3,Bryce McGowens
+2023-03-05,20-117,CHO,AWAY,BRK,L (-16),0,20:04,2,5,.400,1,2,.500,0,0,,1,1,2,0,0,0,0,0,5,3.3,-12,Bryce McGowens
+2023-03-07,20-119,CHO,AWAY,NYK,W (+7),0,18:57,1,4,.250,0,2,.000,0,0,,0,2,2,0,0,0,1,1,2,-1.2,-16,Bryce McGowens
+2023-03-09,20-121,CHO,AWAY,DET,W (+10),0,17:09,1,1,1.000,1,1,1.000,1,2,.500,0,2,2,0,0,0,1,0,4,2.9,+13,Bryce McGowens
+2023-03-11,20-123,CHO,HOME,UTA,L (-8),0,11:34,0,2,.000,0,1,.000,2,2,1.000,1,0,1,0,0,0,0,0,2,1.3,+1,Bryce McGowens
+2023-03-12,20-124,CHO,HOME,CLE,L (-6),0,14:47,0,2,.000,0,0,,0,0,,0,1,1,0,0,0,1,4,0,-3.7,-13,Bryce McGowens
+2023-03-14,20-126,CHO,HOME,CLE,L (-16),0,13:13,1,3,.333,0,1,.000,2,2,1.000,0,0,0,0,0,0,2,2,4,-0.5,-4,Bryce McGowens
+2023-03-17,20-129,CHO,HOME,PHI,L (-39),0,20:02,2,4,.500,0,1,.000,5,5,1.000,1,0,1,2,1,1,2,2,9,8.0,-20,Bryce McGowens
+2023-03-20,20-132,CHO,HOME,IND,W (+6),0,4:40,1,2,.500,0,1,.000,0,0,,0,0,0,0,0,0,1,2,2,-0.8,-5,Bryce McGowens
+2023-03-23,20-135,CHO,AWAY,NOP,L (-19),0,25:10,2,5,.400,0,3,.000,4,5,.800,0,1,1,6,0,1,1,1,8,8.7,+4,Bryce McGowens
+2023-03-24,20-136,CHO,AWAY,DAL,W (+8),0,22:54,1,6,.167,1,3,.333,0,0,,2,1,3,0,1,0,0,1,3,1.5,+7,Bryce McGowens
+2023-03-26,20-138,CHO,HOME,DAL,W (+6),0,20:22,3,8,.375,2,3,.667,1,2,.500,1,3,4,4,0,0,2,1,9,6.2,0,Bryce McGowens
+2023-03-28,20-140,CHO,AWAY,OKC,W (+3),1,23:54,4,9,.444,3,6,.500,0,2,.000,0,2,2,2,2,0,2,3,11,6.3,-10,Bryce McGowens
+2023-03-31,20-143,CHO,HOME,CHI,L (-30),1,23:49,3,7,.429,1,3,.333,1,2,.500,0,5,5,2,0,0,2,2,8,4.0,-13,Bryce McGowens
+2023-04-02,20-145,CHO,HOME,TOR,L (-20),1,30:18,3,6,.500,1,2,.500,4,6,.667,0,2,2,2,0,0,2,1,11,6.8,-13,Bryce McGowens
+2023-04-04,20-147,CHO,HOME,TOR,L (-20),1,35:34,7,12,.583,2,5,.400,4,6,.667,2,4,6,3,0,0,4,4,20,12.7,-20,Bryce McGowens
+2023-04-07,20-150,CHO,HOME,HOU,L (-3),1,35:05,6,15,.400,1,5,.200,3,4,.750,1,4,5,2,1,0,1,1,16,10.4,+4,Bryce McGowens
+2023-04-09,20-152,CHO,AWAY,CLE,W (+11),1,32:32,6,11,.545,1,4,.250,9,10,.900,0,4,4,4,2,0,4,1,22,17.9,+14,Bryce McGowens
+2022-10-19,20-307,CHO,AWAY,SAS,W (+27),0,4:20,0,0,,0,0,,2,2,1.000,0,1,1,0,0,0,2,3,2,-0.9,-7,Mark Williams
+2022-10-23,20-311,CHO,AWAY,ATL,W (+17),0,1:26,1,2,.500,0,0,,0,0,,2,1,3,0,0,0,0,0,2,2.7,-1,Mark Williams
+2022-10-28,20-316,CHO,AWAY,ORL,L (-20),0,7:06,3,5,.600,0,0,,1,1,1.000,2,2,4,0,0,0,0,0,7,6.7,+12,Mark Williams
+2022-11-10,20-329,CHO,AWAY,MIA,L (-5),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Mark Williams
+2022-12-26,21-010,CHO,AWAY,POR,L (-11),0,15:46,3,4,.750,0,0,,3,4,.750,1,5,6,1,2,0,0,5,9,9.9,+7,Mark Williams
+2022-12-27,21-011,CHO,AWAY,GSW,L (-5),0,18:26,3,5,.600,0,0,,0,0,,0,2,2,1,1,2,1,1,6,6.0,+1,Mark Williams
+2022-12-29,21-013,CHO,HOME,OKC,W (+8),0,21:17,7,7,1.000,0,0,,3,5,.600,4,9,13,2,2,2,1,2,17,22.6,-1,Mark Williams
+2022-12-31,21-015,CHO,HOME,BRK,L (-17),0,14:37,3,7,.429,0,0,,2,2,1.000,3,4,7,0,0,0,4,1,8,3.2,-8,Mark Williams
+2023-01-02,21-017,CHO,HOME,LAL,L (-6),0,15:25,1,2,.500,0,0,,3,4,.750,0,9,9,0,0,1,1,1,5,5.6,-7,Mark Williams
+2023-01-04,21-019,CHO,HOME,MEM,L (-24),0,20:13,1,5,.200,0,0,,0,0,,1,7,8,0,1,1,2,3,2,0.2,-23,Mark Williams
+2023-01-06,21-021,CHO,AWAY,MIL,W (+29),0,14:10,2,4,.500,0,0,,0,2,.000,2,4,6,1,1,0,0,3,4,4.3,-4,Mark Williams
+2023-01-08,21-023,CHO,AWAY,IND,L (-5),0,16:23,2,6,.333,0,0,,3,4,.750,2,6,8,0,1,1,0,2,7,7.3,+5,Mark Williams
+2023-01-10,21-025,CHO,AWAY,TOR,L (-12),0,14:31,1,2,.500,0,0,,2,2,1.000,1,3,4,0,0,1,1,1,4,3.9,-12,Mark Williams
+2023-01-14,21-029,CHO,HOME,BOS,L (-16),0,1:44,1,2,.500,0,0,,0,0,,1,1,2,0,0,0,0,0,2,2.0,0,Mark Williams
+2023-01-16,21-031,CHO,HOME,BOS,L (-12),0,16:55,3,4,.750,0,0,,3,4,.750,1,5,6,0,0,0,0,1,9,8.8,0,Mark Williams
+2023-01-18,21-033,CHO,AWAY,HOU,W (+5),0,18:42,8,10,.800,0,0,,1,1,1.000,1,5,6,0,0,5,0,3,17,17.7,+11,Mark Williams
+2023-01-21,21-036,CHO,AWAY,ATL,W (+4),0,18:33,3,5,.600,0,0,,2,3,.667,0,5,5,0,3,0,0,1,8,9.4,-6,Mark Williams
+2023-01-23,21-038,CHO,AWAY,UTA,L (-18),0,17:31,5,7,.714,0,0,,1,2,.500,3,0,3,0,2,3,1,3,11,11.7,-19,Mark Williams
+2023-01-24,21-039,CHO,AWAY,PHO,L (-31),0,5:49,2,4,.500,0,0,,2,2,1.000,1,1,2,0,0,0,1,2,6,3.2,-7,Mark Williams
+2023-01-26,21-041,CHO,HOME,CHI,W (+15),0,17:56,5,5,1.000,0,0,,0,0,,3,3,6,0,1,0,0,1,10,12.1,-4,Mark Williams
+2023-01-29,21-044,CHO,HOME,MIA,W (+5),0,19:52,2,2,1.000,0,0,,3,3,1.000,0,3,3,1,2,1,1,2,7,8.9,+9,Mark Williams
+2023-01-31,21-046,CHO,AWAY,MIL,L (-9),0,16:35,1,5,.200,0,0,,3,4,.750,4,3,7,0,0,1,0,4,5,4.3,-11,Mark Williams
+2023-02-02,21-048,CHO,AWAY,CHI,L (-16),0,16:53,6,7,.857,0,0,,1,2,.500,4,3,7,0,1,3,2,4,13,13.3,+6,Mark Williams
+2023-02-03,21-049,CHO,AWAY,DET,L (-6),0,1:21,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2,Mark Williams
+2023-02-05,21-051,CHO,HOME,ORL,L (-6),0,16:49,3,3,1.000,0,0,,0,0,,0,4,4,0,1,2,2,4,6,5.1,-4,Mark Williams
+2023-02-08,21-054,CHO,AWAY,WAS,L (-14),0,16:47,4,5,.800,0,0,,1,2,.500,4,4,8,0,0,2,1,0,9,11.1,+1,Mark Williams
+2023-02-10,21-056,CHO,AWAY,BOS,L (-11),1,30:47,4,7,.571,0,0,,3,4,.750,5,7,12,2,0,1,0,4,11,13.4,-3,Mark Williams
+2023-02-11,21-057,CHO,HOME,DEN,L (-14),1,21:27,3,5,.600,0,0,,0,2,.000,0,5,5,0,1,2,0,4,6,5.2,-2,Mark Williams
+2023-02-13,21-059,CHO,HOME,ATL,W (+6),1,29:42,5,7,.714,0,0,,5,6,.833,1,4,5,0,2,2,1,3,15,14.8,+4,Mark Williams
+2023-02-15,21-061,CHO,HOME,SAS,W (+10),1,29:32,5,11,.455,0,0,,2,2,1.000,3,7,10,0,0,4,1,3,12,11.1,+7,Mark Williams
+2023-02-24,21-070,CHO,AWAY,MIN,W (+8),1,16:40,4,5,.800,0,0,,0,0,,2,4,6,1,0,1,0,2,8,9.3,+3,Mark Williams
+2023-02-25,21-071,CHO,HOME,MIA,W (+5),1,28:58,9,12,.750,0,0,,0,0,,7,13,20,0,1,1,1,4,18,21.1,-7,Mark Williams
+2023-02-27,21-073,CHO,HOME,DET,W (+11),1,29:43,7,10,.700,0,0,,1,2,.500,4,7,11,3,0,1,2,4,15,14.5,+13,Mark Williams
+2023-03-01,21-075,CHO,HOME,PHO,L (-14),1,28:06,4,10,.400,0,0,,3,4,.750,5,5,10,2,1,1,1,4,11,10.7,-2,Mark Williams
+2023-03-03,21-077,CHO,HOME,ORL,L (-11),1,27:44,5,7,.714,0,0,,3,3,1.000,3,4,7,0,0,1,3,2,13,10.3,-14,Mark Williams
+2023-03-05,21-079,CHO,AWAY,BRK,L (-16),1,24:20,5,8,.625,0,0,,0,0,,2,12,14,0,1,0,1,2,10,10.6,+7,Mark Williams
+2023-03-07,21-081,CHO,AWAY,NYK,W (+7),1,27:53,3,4,.750,0,0,,1,4,.250,1,2,3,0,1,1,1,2,7,5.4,+8,Mark Williams
+2023-03-09,21-083,CHO,AWAY,DET,W (+10),1,11:13,1,1,1.000,0,0,,0,2,.000,1,3,4,1,0,0,0,0,2,3.2,-1,Mark Williams
+2023-03-11,21-085,CHO,HOME,UTA,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mark Williams
+2023-03-12,21-086,CHO,HOME,CLE,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mark Williams
+2023-03-14,21-088,CHO,HOME,CLE,L (-16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mark Williams
+2023-03-17,21-091,CHO,HOME,PHI,L (-39),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mark Williams
+2023-03-20,21-094,CHO,HOME,IND,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mark Williams
+2023-03-23,21-097,CHO,AWAY,NOP,L (-19),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mark Williams
+2023-03-24,21-098,CHO,AWAY,DAL,W (+8),0,21:11,6,9,.667,0,0,,1,3,.333,1,7,8,2,0,1,1,0,13,12.2,-2,Mark Williams
+2023-03-26,21-100,CHO,HOME,DAL,W (+6),1,32:23,5,9,.556,0,0,,5,7,.714,6,10,16,1,0,0,2,2,15,15.0,+10,Mark Williams
+2023-03-31,21-105,CHO,HOME,CHI,L (-30),1,35:27,3,6,.500,0,0,,0,0,,1,7,8,0,1,1,3,3,6,3.3,-22,Mark Williams
+2023-04-02,21-107,CHO,HOME,TOR,L (-20),1,26:51,7,15,.467,0,0,,1,1,1.000,7,5,12,0,0,0,1,2,15,11.9,-15,Mark Williams
+2023-04-04,21-109,CHO,HOME,TOR,L (-20),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mark Williams
+2023-04-07,21-112,CHO,HOME,HOU,L (-3),1,26:29,5,7,.714,0,0,,2,2,1.000,3,10,13,0,1,1,0,3,12,14.7,-6,Mark Williams
+2023-04-09,21-114,CHO,AWAY,CLE,W (+11),1,30:26,9,10,.900,0,0,,4,6,.667,1,9,10,0,1,2,2,3,22,20.4,+3,Mark Williams

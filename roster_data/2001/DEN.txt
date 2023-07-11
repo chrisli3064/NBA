@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+Tariq Abdul-Wahad,1974-11-03
+Ryan Bowen,1975-11-20
+Calbert Cheaney,1971-07-17
+Keon Clark,1975-04-16
+Terry Davis,1967-06-17
+Anthony Goldwire,1971-09-06
+Garth Joseph,1973-08-08
+Raef LaFrentz,1976-05-29
+Voshon Lenard,1973-05-14
+Dan McClintock,1977-04-19
+George McCloud,1967-05-27
+Antonio McDyess,1974-09-07
+Tracy Murray,1971-07-25
+Robert Pack,1969-02-03
+James Posey,1977-01-13
+Mark Strickland,1970-07-14
+Nick Van Exel,1971-11-27
+Kevin Willis,1962-09-06

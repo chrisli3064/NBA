@@ -1,0 +1,21 @@
+PLAYER,BIRTH_DATE
+Patrick Beverley,1988-07-12
+Amir Coffey,1997-06-17
+Paul George,1990-05-02
+JaMychal Green,1990-06-21
+Maurice Harkless,1993-05-11
+Montrezl Harrell,1994-01-26
+Reggie Jackson,1990-04-16
+Mfiondu Kabengele,1997-08-14
+Kawhi Leonard,1991-06-29
+Terance Mann,1996-10-18
+Rodney McGruder,1991-07-29
+Marcus Morris,1989-09-02
+Johnathan Motley,1995-05-04
+Joakim Noah,1985-02-25
+Patrick Patterson,1989-03-14
+Jerome Robinson,1997-02-22
+Landry Shamet,1997-03-13
+Derrick Walton,1995-04-03
+Lou Williams,1986-10-27
+Ivica Zubac,1997-03-18

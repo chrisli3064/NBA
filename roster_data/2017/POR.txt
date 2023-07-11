@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Al-Farouq Aminu,1990-09-21
+Pat Connaughton,1993-01-06
+Allen Crabbe,1992-04-09
+Ed Davis,1989-06-05
+Maurice Harkless,1993-05-11
+Jake Layman,1994-03-07
+Meyers Leonard,1992-02-27
+Damian Lillard,1990-07-15
+CJ McCollum,1991-09-19
+Shabazz Napier,1991-07-14
+Jusuf Nurkić,1994-08-23
+Mason Plumlee,1990-03-05
+Tim Quarterman,1994-10-27
+Evan Turner,1988-10-27
+Noah Vonleh,1995-08-24

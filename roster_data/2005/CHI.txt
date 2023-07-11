@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Tyson Chandler,1982-10-02
+Eddy Curry,1982-12-05
+Antonio Davis,1968-10-31
+Luol Deng,1985-04-16
+Chris Duhon,1982-08-31
+Lawrence Funderburke,1970-12-15
+Ben Gordon,1983-04-04
+Adrian Griffin,1974-07-04
+Othella Harrington,1974-01-31
+Kirk Hinrich,1981-01-02
+Andrés Nocioni,1979-11-30
+Jannero Pargo,1979-10-22
+Eric Piatkowski,1970-09-30
+Jared Reiner,1982-04-08
+Frank Williams,1980-02-25

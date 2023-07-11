@@ -1,0 +1,15 @@
+PLAYER,BIRTH_DATE
+Drew Barry,1973-02-17
+Cal Bowdler,1977-03-31
+Bimbo Coles,1968-04-22
+Chris Crawford,1975-05-13
+LaPhonso Ellis,1970-05-05
+Dion Glover,1978-10-22
+Alan Henderson,1972-12-02
+Jim Jackson,1970-10-14
+Anthony Johnson,1974-10-02
+Roshown McLeod,1975-11-17
+Dikembe Mutombo,1966-06-25
+Isaiah Rider,1971-03-12
+Jason Terry,1977-09-15
+Lorenzen Wright,1975-11-04

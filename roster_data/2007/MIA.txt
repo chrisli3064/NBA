@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Earl Barron,1981-08-14
+Michael Doleac,1977-06-15
+Udonis Haslem,1980-06-09
+Robert Hite,1984-01-12
+Eddie Jones,1971-10-20
+Jason Kapono,1981-02-04
+Alonzo Mourning,1970-02-08
+Shaquille O'Neal,1972-03-06
+Gary Payton,1968-07-23
+James Posey,1977-01-13
+Chris Quinn,1983-09-27
+Wayne Simien,1983-03-09
+Dwyane Wade,1982-01-17
+Antoine Walker,1976-08-12
+Jason Williams,1975-11-18
+Dorell Wright,1985-12-02

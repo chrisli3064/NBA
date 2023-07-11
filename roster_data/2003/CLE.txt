@@ -1,0 +1,15 @@
+PLAYER,BIRTH_DATE
+Carlos Boozer,1981-11-20
+Tierre Brown,1979-06-03
+Bimbo Coles,1968-04-22
+Ricky Davis,1979-09-23
+DeSagana Diop,1982-01-30
+Tyrone Hill,1968-03-19
+Zydrunas Ilgauskas,1975-06-05
+Jumaine Jones,1979-02-10
+Chris Mihm,1979-07-16
+Darius Miles,1981-10-09
+Milt Palacio,1978-02-07
+Smush Parker,1981-06-01
+Michael Stewart,1975-04-25
+Dajuan Wagner,1983-02-04

@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+Ömer Aşık,1986-07-04
+Patrick Beverley,1988-07-12
+Ronnie Brewer,1985-03-20
+Aaron Brooks,1985-01-14
+Isaiah Canaan,1991-05-21
+Omri Casspi,1988-06-22
+Robert Covington,1990-12-14
+Troy Daniels,1991-07-15
+Francisco García,1981-12-31
+Jordan Hamilton,1990-10-06
+James Harden,1989-08-26
+Dwight Howard,1985-12-08
+Terrence Jones,1992-01-09
+Jeremy Lin,1988-08-23
+Donatas Motiejūnas,1990-09-20
+Chandler Parsons,1988-10-25
+Josh Powell,1983-01-25
+Greg Smith,1991-01-08

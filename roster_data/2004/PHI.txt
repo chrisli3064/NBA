@@ -1,0 +1,15 @@
+PLAYER,BIRTH_DATE
+Greg Buckner,1976-09-16
+Derrick Coleman,1967-06-21
+Samuel Dalembert,1981-05-10
+Willie Green,1981-07-28
+Zendon Hamilton,1975-04-27
+Allen Iverson,1975-06-07
+Marc Jackson,1975-01-16
+Kyle Korver,1981-03-17
+Amal McCaskill,1973-10-28
+Aaron McKie,1972-10-02
+Glenn Robinson,1973-01-10
+John Salmons,1979-12-12
+Eric Snow,1973-04-24
+Kenny Thomas,1977-07-25

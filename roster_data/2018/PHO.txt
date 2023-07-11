@@ -1,0 +1,23 @@
+PLAYER,BIRTH_DATE
+Dragan Bender,1997-11-17
+Eric Bledsoe,1989-12-09
+Devin Booker,1996-10-30
+Isaiah Canaan,1991-05-21
+Tyson Chandler,1982-10-02
+Marquese Chriss,1997-07-02
+Troy Daniels,1991-07-15
+Jared Dudley,1985-07-10
+Josh Gray,1993-09-09
+Shaquille Harrison,1993-10-06
+Danuel House Jr.,1993-06-07
+Josh Jackson,1997-02-10
+Mike James,1990-08-18
+Derrick Jones Jr.,1997-02-15
+Alex Len,1993-06-16
+Greg Monroe,1990-06-04
+Elfrid Payton,1994-02-22
+Alec Peters,1995-04-13
+Davon Reed,1995-06-11
+Tyler Ulis,1996-01-05
+T.J. Warren,1993-09-05
+Alan Williams,1993-01-28

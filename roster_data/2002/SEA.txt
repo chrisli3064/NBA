@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Vin Baker,1971-11-23
+Brent Barry,1971-12-31
+Calvin Booth,1976-05-07
+Predrag Drobnjak,1975-10-27
+Antonio Harvey,1970-07-06
+Jerome James,1975-11-17
+Rashard Lewis,1979-08-08
+Randy Livingston,1975-04-02
+Art Long,1972-10-01
+Desmond Mason,1977-10-11
+Olumide Oyedeji,1981-05-11
+Gary Payton,1968-07-23
+Vladimir Radmanović,1980-11-19
+Ansu Sesay,1976-07-29
+Earl Watson,1979-06-12
+Shammond Williams,1975-04-05

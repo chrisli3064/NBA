@@ -1,0 +1,21 @@
+PLAYER,BIRTH_DATE
+James Anderson,1989-03-25
+DeJuan Blair,1989-04-22
+Matt Bonner,1980-04-05
+Tim Duncan,1976-04-25
+Alonzo Gee,1987-05-29
+Manu Ginóbili,1977-07-28
+Danny Green,1987-06-22
+George Hill,1986-05-04
+Othyus Jeffers,1985-08-05
+Richard Jefferson,1980-06-21
+Antonio McDyess,1974-09-07
+Gary Neal,1984-10-03
+Steve Novak,1983-06-13
+Larry Owens,1983-01-08
+Tony Parker,1982-05-17
+Chris Quinn,1983-09-27
+Bobby Simmons,1980-06-02
+Tiago Splitter,1985-01-01
+Garrett Temple,1986-05-08
+Ime Udoka,1977-08-09

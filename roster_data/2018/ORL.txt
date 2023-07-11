@@ -1,0 +1,20 @@
+PLAYER,BIRTH_DATE
+Arron Afflalo,1985-10-15
+Jamel Artis,1993-01-12
+D.J. Augustin,1987-11-10
+Khem Birch,1992-09-28
+Bismack Biyombo,1992-08-28
+Evan Fournier,1992-10-29
+Aaron Gordon,1995-09-16
+Mario Hezonja,1995-02-25
+Jonathan Isaac,1997-10-03
+Wes Iwundu,1994-12-20
+Shelvin Mack,1990-04-22
+Adreian Payne,1991-02-19
+Elfrid Payton,1994-02-22
+Rodney Purvis,1994-02-14
+Terrence Ross,1991-02-05
+Jonathon Simmons,1989-09-14
+Marreese Speights,1987-08-04
+Rashad Vaughn,1996-08-16
+Nikola Vučević,1990-10-24

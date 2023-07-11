@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+Andris Biedriņš,1986-04-02
+Žarko Čabarkapa,1981-05-21
+Calbert Cheaney,1971-07-17
+Speedy Claxton,1978-05-08
+Baron Davis,1979-04-13
+Dale Davis,1969-03-25
+Mike Dunleavy,1980-09-15
+Derek Fisher,1974-08-09
+Luis Flores,1981-04-11
+Adonal Foyle,1975-03-09
+Troy Murphy,1980-05-02
+Eduardo Nájera,1976-07-11
+Mickaël Piétrus,1982-02-07
+Jason Richardson,1981-01-20
+Clifford Robinson,1966-12-16
+Ansu Sesay,1976-07-29
+Nikoloz Tskitishvili,1983-04-14
+Rodney White,1980-06-28

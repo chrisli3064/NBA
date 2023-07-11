@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Isaiah Hartenstein,1998-05-05
+Immanuel Quickley,1999-06-17
+Julius Randle,1994-11-29
+RJ Barrett,2000-06-14
+Quentin Grimes,2000-05-08
+Jalen Brunson,1996-08-31
+Obi Toppin,1998-03-04
+Miles McBride,2000-09-08
+Mitchell Robinson,1998-04-01
+Jericho Sims,1998-10-20
+Evan Fournier,1992-10-29
+Derrick Rose,1988-10-04
+Josh Hart,1995-03-06
+Trevor Keels (TW),2003-08-26
+Duane Washington Jr. (TW),2000-03-24
+DaQuan Jeffries,1997-08-30
+Isaiah Roby,1998-02-03

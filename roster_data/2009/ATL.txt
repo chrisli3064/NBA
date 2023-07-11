@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Mike Bibby,1978-05-13
+Speedy Claxton,1978-05-08
+Maurice Evans,1978-11-08
+Thomas Gardner,1985-02-08
+Al Horford,1986-06-03
+Othello Hunter,1986-05-28
+Joe Johnson,1981-06-29
+Solomon Jones,1984-07-16
+Acie Law,1985-01-25
+Randolph Morris,1986-01-02
+Ronald Murray,1979-07-29
+Zaza Pachulia,1984-02-10
+Josh Smith,1985-12-05
+Mario West,1984-06-19
+Marvin Williams,1986-06-19

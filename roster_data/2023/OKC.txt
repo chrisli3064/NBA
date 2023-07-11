@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Josh Giddey,2002-10-10
+Jalen Williams,2001-04-14
+Luguentz Dort,1999-04-19
+Isaiah Joe,1999-07-02
+Aaron Wiggins,1999-01-02
+Shai Gilgeous-Alexander,1998-07-12
+Tre Mann,2001-02-03
+Kenrich Williams,1994-12-02
+Jaylin Williams,2002-06-29
+Jeremiah Robinson-Earl,2000-11-03
+Lindy Waters III,1997-07-28
+Ousmane Dieng,2003-05-21
+Aleksej Pokusevski,2001-12-26
+Dario Šarić,1994-04-08
+Olivier Sarr (TW),1999-02-20
+Jared Butler (TW),2000-08-25
+Chet Holmgren,2002-05-01

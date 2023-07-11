@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Chucky Atkins,1974-08-14
+Dana Barros,1967-04-13
+Jud Buechler,1968-06-19
+Brian Cardinal,1977-05-02
+Cedric Ceballos,1969-08-02
+Mateen Cleaves,1977-09-07
+Michael Curry,1968-08-22
+Kornél Dávid,1971-10-22
+Eric Montross,1971-09-23
+Mikki Moore,1975-11-04
+Billy Owens,1969-05-01
+Joe Smith,1975-07-26
+Jerry Stackhouse,1974-11-05
+Ben Wallace,1974-09-10
+John Wallace,1974-02-09
+Jerome Williams,1973-05-10
+Corliss Williamson,1973-12-04

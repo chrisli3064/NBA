@@ -1,0 +1,24 @@
+PLAYER,BIRTH_DATE
+Wilson Chandler,1987-05-10
+Mardy Collins,1984-08-04
+Jamal Crawford,1980-03-20
+Joe Crawford,1986-06-17
+Eddy Curry,1982-12-05
+Chris Duhon,1982-08-31
+Danilo Gallinari,1988-08-08
+Al Harrington,1980-02-17
+Larry Hughes,1979-01-23
+Jerome James,1975-11-17
+Jared Jeffries,1981-11-25
+David Lee,1983-04-29
+Demetris Nichols,1984-09-04
+Zach Randolph,1981-07-16
+Quentin Richardson,1980-04-13
+Anthony Roberson,1983-02-14
+Nate Robinson,1984-05-31
+Malik Rose,1974-11-23
+Cheikh Samb,1984-10-22
+Mouhamed Sene,1986-05-12
+Courtney Sims,1983-10-21
+Tim Thomas,1977-02-26
+Chris Wilcox,1982-09-03

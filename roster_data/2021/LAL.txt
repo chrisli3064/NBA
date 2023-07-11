@@ -1,0 +1,20 @@
+PLAYER,BIRTH_DATE
+Kostas Antetokounmpo,1997-11-20
+Devontae Cacok,1996-10-08
+Kentavious Caldwell-Pope,1993-02-18
+Alex Caruso,1994-02-28
+Quinn Cook,1993-03-23
+Anthony Davis,1993-03-11
+Andre Drummond,1993-08-10
+Jared Dudley,1985-07-10
+Marc Gasol,1985-01-29
+Montrezl Harrell,1994-01-26
+Talen Horton-Tucker,2000-11-25
+LeBron James,1984-12-30
+Damian Jones,1995-06-30
+Kyle Kuzma,1995-07-24
+Wesley Matthews,1986-10-14
+Alfonzo McKinnie,1992-09-17
+Ben McLemore,1993-02-11
+Markieff Morris,1989-09-02
+Dennis Schröder,1993-09-15

@@ -1,0 +1,23 @@
+PLAYER,BIRTH_DATE
+Brandon Bass,1985-04-30
+Avery Bradley,1990-11-26
+Jae Crowder,1990-07-06
+Gigi Datome,1987-11-27
+Jeff Green,1986-08-28
+Jonas Jerebko,1987-03-02
+Jameer Nelson,1982-02-09
+Kelly Olynyk,1991-04-19
+Dwight Powell,1991-07-20
+Phil Pressey,1991-02-17
+Tayshaun Prince,1980-02-28
+Shavlik Randolph,1983-11-24
+Rajon Rondo,1986-02-22
+Marcus Smart,1994-03-06
+Jared Sullinger,1992-03-04
+Isaiah Thomas,1989-02-07
+Marcus Thornton,1987-06-05
+Evan Turner,1988-10-27
+Gerald Wallace,1982-07-23
+Brandan Wright,1987-10-05
+James Young,1995-08-16
+Tyler Zeller,1990-01-17

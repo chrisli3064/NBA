@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Greg Anthony,1967-11-15
+Stacey Augmon,1968-08-01
+Erick Barkley,1978-02-21
+Dale Davis,1969-03-25
+Gary Grant,1965-04-21
+Antonio Harvey,1970-07-06
+Shawn Kemp,1969-11-26
+Will Perdue,1965-08-29
+Scottie Pippen,1965-09-25
+Arvydas Sabonis,1964-12-19
+Detlef Schrempf,1963-01-21
+Steve Smith,1969-03-31
+Damon Stoudamire,1973-09-03
+Rod Strickland,1966-07-11
+Rasheed Wallace,1974-09-17
+Bonzi Wells,1976-09-28

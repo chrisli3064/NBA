@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Hassan Adams,1984-06-20
+Josh Boone,1984-11-21
+Vince Carter,1977-01-26
+Jason Collins,1978-12-02
+Eddie House,1978-05-14
+Mile Ilić,1984-06-02
+Richard Jefferson,1980-06-21
+Jason Kidd,1973-03-23
+Nenad Krstić,1983-07-25
+Mikki Moore,1975-11-04
+Boštjan Nachbar,1980-07-03
+Bernard Robinson,1980-12-26
+Clifford Robinson,1966-12-16
+Marcus Williams,1985-12-03
+Antoine Wright,1984-02-06

@@ -1,0 +1,22 @@
+PLAYER,BIRTH_DATE
+Robert Archibald,1980-03-29
+Keith Bogans,1980-05-12
+Andrew DeClercq,1973-02-01
+Derrick Dial,1975-12-20
+Reece Gaines,1981-01-07
+Pat Garrity,1976-08-23
+Gordan Giriček,1977-06-20
+Drew Gooden,1981-09-24
+Donnell Harvey,1980-08-26
+Juwan Howard,1973-02-07
+Steven Hunter,1981-10-31
+Britton Johnsen,1979-07-08
+Tyronn Lue,1977-05-03
+Tracy McGrady,1979-05-24
+Lee Nailon,1975-02-22
+Zaza Pachulia,1984-02-10
+Desmond Penigar,1981-07-16
+Sean Rooks,1969-09-09
+DeShawn Stevenson,1981-04-03
+Rod Strickland,1966-07-11
+Shammond Williams,1975-04-05

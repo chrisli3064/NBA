@@ -1,0 +1,22 @@
+PLAYER,BIRTH_DATE
+Patrick Beverley,1988-07-12
+Avery Bradley,1990-11-26
+Sam Dekker,1994-05-06
+Jawun Evans,1996-07-26
+Danilo Gallinari,1988-08-08
+Blake Griffin,1989-03-16
+Montrezl Harrell,1994-01-26
+Tobias Harris,1992-07-15
+Brice Johnson,1994-06-27
+Wesley Johnson,1987-07-11
+DeAndre Jordan,1988-07-21
+Sean Kilpatrick,1990-01-06
+Boban Marjanović,1988-08-15
+Willie Reed,1990-05-16
+Austin Rivers,1992-08-01
+Miloš Teodosić,1987-03-19
+Sindarius Thornwell,1994-11-15
+Tyrone Wallace,1994-06-10
+C.J. Williams,1990-02-06
+Lou Williams,1986-10-27
+Jamil Wilson,1990-11-21

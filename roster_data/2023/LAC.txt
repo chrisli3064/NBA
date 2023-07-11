@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Terance Mann,1996-10-18
+Nicolas Batum,1988-12-14
+Ivica Zubac,1997-03-18
+Marcus Morris,1989-09-02
+Norman Powell,1993-05-25
+Paul George,1990-05-02
+Kawhi Leonard,1991-06-29
+Amir Coffey,1997-06-17
+Robert Covington,1990-12-14
+Mason Plumlee,1990-03-05
+Eric Gordon,1988-12-25
+Brandon Boston Jr.,2001-11-28
+Moussa Diabaté (TW),2002-01-21
+Russell Westbrook,1988-11-12
+Bones Hyland,2000-09-14
+Jason Preston,1999-08-10
+Xavier Moon (TW),1995-01-02

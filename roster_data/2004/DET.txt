@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Chucky Atkins,1974-08-14
+Chauncey Billups,1976-09-25
+Elden Campbell,1968-07-23
+Hubert Davis,1970-05-17
+Tremaine Fowlkes,1976-04-11
+Darvin Ham,1973-07-23
+Richard Hamilton,1978-02-14
+Lindsey Hunter,1970-12-03
+Mike James,1975-06-23
+Darko Miličić,1985-06-20
+Mehmet Okur,1979-05-26
+Tayshaun Prince,1980-02-28
+Željko Rebrača,1972-04-09
+Bob Sura,1973-03-25
+Ben Wallace,1974-09-10
+Rasheed Wallace,1974-09-17
+Corliss Williamson,1973-12-04

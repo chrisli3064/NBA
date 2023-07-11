@@ -1,0 +1,15 @@
+PLAYER,BIRTH_DATE
+Marcus Banks,1981-11-19
+Leandro Barbosa,1982-11-28
+Raja Bell,1976-09-19
+Pat Burke,1973-12-14
+Boris Diaw,1982-04-16
+James Jones,1980-10-04
+Jumaine Jones,1979-02-10
+Shawn Marion,1978-05-07
+Sean Marks,1975-08-23
+Steve Nash,1974-02-07
+Eric Piatkowski,1970-09-30
+Jalen Rose,1973-01-30
+Amar'e Stoudemire,1982-11-16
+Kurt Thomas,1972-10-04

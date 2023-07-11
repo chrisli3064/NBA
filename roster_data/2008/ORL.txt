@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Trevor Ariza,1985-06-30
+Carlos Arroyo,1979-07-30
+James Augustine,1984-02-27
+Keith Bogans,1980-05-12
+Brian Cook,1980-12-04
+Keyon Dooling,1980-05-08
+Maurice Evans,1978-11-08
+Adonal Foyle,1975-03-09
+Pat Garrity,1976-08-23
+Marcin Gortat,1984-02-17
+Dwight Howard,1985-12-08
+Rashard Lewis,1979-08-08
+Jameer Nelson,1982-02-09
+Bo Outlaw,1971-04-13
+J.J. Redick,1984-06-24
+Hedo Türkoğlu,1979-03-19

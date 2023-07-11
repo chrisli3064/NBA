@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Joel Anthony,1982-08-09
+Carlos Arroyo,1979-07-30
+Mike Bibby,1978-05-13
+Chris Bosh,1984-03-24
+Mario Chalmers,1986-05-19
+Erick Dampier,1975-07-14
+Udonis Haslem,1980-06-09
+Eddie House,1978-05-14
+Juwan Howard,1973-02-07
+Zydrunas Ilgauskas,1975-06-05
+LeBron James,1984-12-30
+James Jones,1980-10-04
+Jamaal Magloire,1978-05-21
+Mike Miller,1980-02-19
+Dexter Pittman,1988-03-02
+Jerry Stackhouse,1974-11-05
+Dwyane Wade,1982-01-17

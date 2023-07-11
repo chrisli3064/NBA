@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+Bam Adebayo,1997-07-18
+Ryan Anderson,1988-05-06
+Goran Dragić,1986-05-06
+Wayne Ellington,1987-11-29
+Udonis Haslem,1980-06-09
+James Johnson,1987-02-20
+Tyler Johnson,1992-05-07
+Derrick Jones Jr.,1997-02-15
+Yante Maten,1996-08-14
+Rodney McGruder,1991-07-29
+Kelly Olynyk,1991-04-19
+Josh Richardson,1993-09-15
+Duncan Robinson,1994-04-22
+Emanuel Terry,1996-08-21
+Dwyane Wade,1982-01-17
+Dion Waiters,1991-12-10
+Hassan Whiteside,1989-06-13
+Justise Winslow,1996-03-26

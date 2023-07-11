@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Carmelo Anthony,1984-05-29
+Renaldo Balkman,1984-07-14
+Mike Bibby,1978-05-13
+Tyson Chandler,1982-10-02
+Baron Davis,1979-04-13
+Toney Douglas,1986-03-16
+Landry Fields,1988-06-27
+Dan Gadzuric,1978-02-02
+Josh Harrellson,1989-02-12
+Jared Jeffries,1981-11-25
+Jerome Jordan,1986-09-29
+Jeremy Lin,1988-08-23
+Steve Novak,1983-06-13
+Iman Shumpert,1990-06-26
+J.R. Smith,1985-09-09
+Amar'e Stoudemire,1982-11-16
+Henry Walker,1987-10-09

@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+Matt Barnes,1980-03-09
+Mike Bibby,1978-05-13
+Michael Bradley,1979-04-18
+Doug Christie,1970-05-09
+Erik Daniels,1982-04-01
+Maurice Evans,1978-11-08
+Eddie House,1978-05-14
+Bobby Jackson,1973-03-13
+Kevin Martin,1983-02-01
+Brad Miller,1976-04-12
+Cuttino Mobley,1975-09-01
+Greg Ostertag,1973-03-06
+Brian Skinner,1976-05-19
+Darius Songaila,1978-02-14
+Peja Stojaković,1977-06-09
+Kenny Thomas,1977-07-25
+Chris Webber,1973-03-01
+Corliss Williamson,1973-12-04

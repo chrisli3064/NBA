@@ -1,0 +1,20 @@
+PLAYER,BIRTH_DATE
+D.J. Augustin,1987-11-10
+Bismack Biyombo,1992-08-28
+Anthony Brown,1992-10-10
+Evan Fournier,1992-10-29
+Patricio Garino,1993-05-17
+Marcus Georges-Hunt,1994-03-28
+Aaron Gordon,1995-09-16
+Jeff Green,1986-08-28
+Mario Hezonja,1995-02-25
+Serge Ibaka,1989-09-18
+Jodie Meeks,1987-08-21
+Arinze Onuaku,1987-07-13
+Elfrid Payton,1994-02-22
+Terrence Ross,1991-02-05
+Damjan Rudež,1986-06-17
+Nikola Vučević,1990-10-24
+C.J. Watson,1984-04-17
+C.J. Wilcox,1990-12-30
+Stephen Zimmerman,1996-09-09

@@ -1,0 +1,20 @@
+PLAYER,BIRTH_DATE
+Baron Davis,1979-04-13
+Semih Erden,1986-07-28
+Christian Eyenga,1989-06-22
+Alonzo Gee,1987-05-29
+Daniel Gibson,1986-02-27
+Joey Graham,1982-06-11
+Luke Harangody,1988-01-02
+Manny Harris,1989-09-21
+J.J. Hickson,1988-09-04
+Ryan Hollins,1984-10-10
+Antawn Jamison,1976-06-12
+Jamario Moon,1980-06-13
+Anthony Parker,1975-06-19
+Leon Powe,1984-01-22
+Samardo Samuels,1989-01-09
+Ramon Sessions,1986-04-11
+Anderson Varejão,1982-09-28
+Jawad Williams,1983-02-19
+Mo Williams,1982-12-19

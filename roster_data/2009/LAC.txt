@@ -1,0 +1,20 @@
+PLAYER,BIRTH_DATE
+Alex Acker,1983-01-21
+Marcus Camby,1974-03-22
+Mardy Collins,1984-08-04
+Baron Davis,1979-04-13
+Paul Davis,1984-07-21
+Ricky Davis,1979-09-23
+Eric Gordon,1988-12-25
+Jason Hart,1978-04-29
+Fred Jones,1979-03-11
+DeAndre Jordan,1988-07-21
+Chris Kaman,1982-04-28
+Cuttino Mobley,1975-09-01
+Steve Novak,1983-06-13
+Zach Randolph,1981-07-16
+Cheikh Samb,1984-10-22
+Brian Skinner,1976-05-19
+Mike Taylor,1986-01-21
+Tim Thomas,1977-02-26
+Al Thornton,1983-12-07

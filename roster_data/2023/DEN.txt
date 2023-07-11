@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Bruce Brown,1996-08-15
+Kentavious Caldwell-Pope,1993-02-18
+Christian Braun,2001-04-17
+Nikola Jokić,1995-02-19
+Aaron Gordon,1995-09-16
+Jamal Murray,1997-02-23
+Michael Porter Jr.,1998-06-29
+Vlatko Čančar,1997-04-10
+Jeff Green,1986-08-28
+Zeke Nnaji,2001-01-09
+Ish Smith,1988-07-05
+DeAndre Jordan,1988-07-21
+Peyton Watson,2002-09-11
+Thomas Bryant,1997-07-31
+Jack White (TW),1997-08-05
+Reggie Jackson,1990-04-16
+Collin Gillespie (TW),1999-06-25

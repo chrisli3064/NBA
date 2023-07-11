@@ -1,0 +1,20 @@
+PLAYER,BIRTH_DATE
+Rafer Alston,1976-07-24
+Maceo Baston,1975-05-29
+Michael Bradley,1979-04-18
+Damone Brown,1979-06-28
+Vince Carter,1977-01-26
+Antonio Davis,1968-10-31
+Greg Foster,1968-10-03
+Zendon Hamilton,1975-04-27
+Nate Huffman,1975-04-02
+Lindsey Hunter,1970-12-03
+Jermaine Jackson,1976-06-07
+Chris Jefferies,1980-02-13
+Voshon Lenard,1973-05-14
+Art Long,1972-10-01
+Jelani McCoy,1977-12-06
+Mamadou N'Diaye,1975-06-16
+Morris Peterson,1977-08-26
+Alvin Williams,1974-08-06
+Jerome Williams,1973-05-10

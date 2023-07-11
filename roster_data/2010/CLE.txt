@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+Daniel Gibson,1986-02-27
+Danny Green,1987-06-22
+J.J. Hickson,1988-09-04
+Zydrunas Ilgauskas,1975-06-05
+Cedric Jackson,1986-03-05
+Darnell Jackson,1985-11-07
+LeBron James,1984-12-30
+Antawn Jamison,1976-06-12
+Coby Karl,1983-03-06
+Jamario Moon,1980-06-13
+Shaquille O'Neal,1972-03-06
+Anthony Parker,1975-06-19
+Leon Powe,1984-01-22
+Sebastian Telfair,1985-06-09
+Anderson Varejão,1982-09-28
+Delonte West,1983-07-26
+Jawad Williams,1983-02-19
+Mo Williams,1982-12-19

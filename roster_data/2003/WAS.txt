@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Kwame Brown,1982-03-10
+Brian Cardinal,1977-05-02
+Juan Dixon,1978-10-09
+Anthony Goldwire,1971-09-06
+Brendan Haywood,1979-11-27
+Larry Hughes,1979-01-23
+Jared Jeffries,1981-11-25
+Michael Jordan,1963-02-17
+Christian Laettner,1969-08-17
+Tyronn Lue,1977-05-03
+Charles Oakley,1963-12-18
+Bryon Russell,1970-12-31
+Bobby Simmons,1980-06-02
+Jerry Stackhouse,1974-11-05
+Etan Thomas,1978-04-01
+Jahidi White,1976-02-19

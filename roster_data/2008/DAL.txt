@@ -1,0 +1,21 @@
+PLAYER,BIRTH_DATE
+Maurice Ager,1984-02-09
+Malik Allen,1978-06-27
+J.J. Barea,1984-06-26
+Brandon Bass,1985-04-30
+Erick Dampier,1975-07-14
+DeSagana Diop,1982-01-30
+Nick Fazekas,1985-06-17
+Devean George,1977-08-29
+Devin Harris,1983-02-27
+Trenton Hassell,1979-03-04
+Josh Howard,1980-04-28
+Juwan Howard,1973-02-07
+Eddie Jones,1971-10-20
+Jason Kidd,1973-03-23
+Tyronn Lue,1977-05-03
+Jamaal Magloire,1978-05-21
+Dirk Nowitzki,1978-06-19
+Jerry Stackhouse,1974-11-05
+Jason Terry,1977-09-15
+Antoine Wright,1984-02-06

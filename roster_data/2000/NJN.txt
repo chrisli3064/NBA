@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Scott Burrell,1971-01-12
+Michael Cage,1962-01-28
+Sherman Douglas,1966-09-15
+Evan Eschmeyer,1975-05-30
+Jamie Feick,1974-07-03
+Kendall Gill,1968-05-25
+Lucious Harris,1970-12-18
+Mark Hendrickson,1974-06-23
+Kerry Kittles,1974-06-12
+Stephon Marbury,1977-02-20
+Jim McIlvaine,1972-07-30
+Gheorghe Mureșan,1971-02-14
+Johnny Newman,1963-11-28
+Elliot Perry,1969-03-28
+Keith Van Horn,1975-10-23

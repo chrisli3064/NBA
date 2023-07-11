@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Esteban Batista,1983-09-02
+Josh Childress,1983-06-20
+Tony Delk,1974-01-28
+John Edwards,1981-07-31
+Anthony Grundy,1979-04-15
+Al Harrington,1980-02-17
+Royal Ivey,1981-12-20
+Joe Johnson,1981-06-29
+Tyronn Lue,1977-05-03
+Zaza Pachulia,1984-02-10
+Donta Smith,1983-11-27
+Josh Smith,1985-12-05
+Salim Stoudamire,1982-10-11
+John Thomas,1975-09-08
+Marvin Williams,1986-06-19

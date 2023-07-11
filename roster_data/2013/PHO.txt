@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Michael Beasley,1989-01-09
+Shannon Brown,1985-11-29
+Goran Dragić,1986-05-06
+Jared Dudley,1985-07-10
+Diante Garrett,1988-11-03
+Marcin Gortat,1984-02-17
+Hamed Haddadi,1985-05-19
+Wesley Johnson,1987-07-11
+Kendall Marshall,1991-08-19
+Marcus Morris,1989-09-02
+Markieff Morris,1989-09-02
+Jermaine O'Neal,1978-10-13
+Luis Scola,1980-04-30
+Sebastian Telfair,1985-06-09
+P.J. Tucker,1985-05-05
+Luke Zeller,1987-04-07

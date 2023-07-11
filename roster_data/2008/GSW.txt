@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+Kelenna Azubuike,1983-12-16
+Matt Barnes,1980-03-09
+Marco Belinelli,1986-03-25
+Andris Biedriņš,1986-04-02
+Austin Croshere,1975-05-01
+Baron Davis,1979-04-13
+Monta Ellis,1985-10-26
+Al Harrington,1980-02-17
+Troy Hudson,1976-03-13
+D.J. Mbenga,1980-12-30
+Stephen Jackson,1978-04-05
+Stéphane Lasme,1982-12-17
+Patrick O'Bryant,1986-06-20
+Kosta Perović,1985-02-19
+Mickaël Piétrus,1982-02-07
+C.J. Watson,1984-04-17
+Chris Webber,1973-03-01
+Brandan Wright,1987-10-05

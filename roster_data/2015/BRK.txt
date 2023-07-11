@@ -1,0 +1,20 @@
+PLAYER,BIRTH_DATE
+Alan Anderson,1982-10-16
+Bojan Bogdanović,1989-04-18
+Markel Brown,1992-01-29
+Earl Clark,1988-01-17
+Brandon Davies,1991-07-25
+Kevin Garnett,1976-05-19
+Jorge Gutiérrez,1988-12-27
+Jarrett Jack,1983-10-28
+Cory Jefferson,1990-12-26
+Joe Johnson,1981-06-29
+Jerome Jordan,1986-09-29
+Sergey Karasev,1993-10-26
+Andrei Kirilenko,1981-02-18
+Brook Lopez,1988-04-01
+Darius Morris,1991-01-03
+Mason Plumlee,1990-03-05
+Mirza Teletović,1985-09-18
+Deron Williams,1984-06-26
+Thaddeus Young,1988-06-21

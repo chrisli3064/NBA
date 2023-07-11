@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Brandon Armstrong,1980-06-16
+Jason Collins,1978-12-02
+Derrick Dial,1975-12-20
+Steve Goodrich,1976-03-18
+Lucious Harris,1970-12-18
+Richard Jefferson,1980-06-21
+Anthony Johnson,1974-10-02
+Jason Kidd,1973-03-23
+Kerry Kittles,1974-06-12
+Todd MacCulloch,1976-01-27
+Donny Marshall,1972-07-17
+Kenyon Martin,1977-12-30
+Brian Scalabrine,1978-03-18
+Reggie Slater,1970-08-27
+Keith Van Horn,1975-10-23
+Aaron Williams,1971-10-02

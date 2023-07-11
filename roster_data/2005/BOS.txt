@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Tony Allen,1982-01-11
+Marcus Banks,1981-11-19
+Mark Blount,1975-11-30
+Ricky Davis,1979-09-23
+Tom Gugliotta,1969-12-19
+Al Jefferson,1985-01-04
+Raef LaFrentz,1976-05-29
+Walter McCarty,1974-02-01
+Gary Payton,1968-07-23
+Kendrick Perkins,1984-11-10
+Paul Pierce,1977-10-13
+Justin Reed,1982-01-16
+Antoine Walker,1976-08-12
+Jiří Welsch,1980-01-27
+Delonte West,1983-07-26

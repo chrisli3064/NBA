@@ -1,0 +1,25 @@
+PLAYER,BIRTH_DATE
+Keita Bates-Diop,1996-01-23
+Devontae Cacok,1996-10-08
+Zach Collins,1997-11-19
+Drew Eubanks,1997-02-01
+Bryn Forbes,1993-07-23
+Juancho Hernangómez,1995-09-28
+Keldon Johnson,1999-10-11
+Tyler Johnson,1992-05-07
+Tre Jones,2000-01-08
+Anthony Lamb,1998-01-20
+Jock Landale,1995-10-25
+Romeo Langford,1999-10-25
+Doug McDermott,1992-01-03
+Jaylen Morris,1995-09-19
+Dejounte Murray,1996-09-19
+Jakob Poeltl,1995-10-15
+Joshua Primo,2002-12-24
+Josh Richardson,1993-09-15
+Tomáš Satoranský,1991-10-30
+Devin Vassell,2000-08-23
+Lonnie Walker IV,1998-12-14
+Derrick White,1994-07-02
+Joe Wieskamp,1999-08-23
+Thaddeus Young,1988-06-21

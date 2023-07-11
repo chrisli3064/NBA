@@ -1,0 +1,20 @@
+PLAYER,BIRTH_DATE
+Elton Brand,1979-03-11
+Sam Cassell,1969-11-18
+Doug Christie,1970-05-09
+Will Conroy,1982-12-08
+Paul Davis,1984-07-21
+Daniel Ewing,1983-03-26
+Jason Hart,1978-04-29
+Luke Jackson,1981-11-06
+Chris Kaman,1982-04-28
+Yaroslav Korolev,1987-05-07
+Shaun Livingston,1985-09-11
+Corey Maggette,1979-11-12
+Cuttino Mobley,1975-09-01
+Quinton Ross,1981-04-30
+James Singleton,1981-07-20
+Tim Thomas,1977-02-26
+Von Wafer,1985-07-21
+Aaron Williams,1971-10-02
+Alvin Williams,1974-08-06

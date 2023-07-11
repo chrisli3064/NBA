@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Dewayne Dedmon,1989-08-12
+Evan Fournier,1992-10-29
+Channing Frye,1983-05-17
+Aaron Gordon,1995-09-16
+Ben Gordon,1983-04-04
+Willie Green,1981-07-28
+Maurice Harkless,1993-05-11
+Tobias Harris,1992-07-15
+Devyn Marble,1992-09-21
+Andrew Nicholson,1989-12-08
+Kyle O'Quinn,1990-03-26
+Victor Oladipo,1992-05-04
+Elfrid Payton,1994-02-22
+Luke Ridnour,1981-02-13
+Nikola Vučević,1990-10-24

@@ -1,0 +1,420 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2008-10-29,21-172,NYK,HOME,MIA,W (+5),0,23:14,8,15,.533,0,2,.000,1,3,.333,4,5,9,1,0,0,1,4,17,11.3,-5,Wilson Chandler
+2008-10-31,21-174,NYK,AWAY,PHI,L (-29),0,24:22,5,13,.385,1,3,.333,0,0,,1,3,4,1,1,0,1,4,11,4.6,-2,Wilson Chandler
+2008-11-02,21-176,NYK,HOME,MIL,L (-8),0,28:10,3,13,.231,0,4,.000,1,1,1.000,3,3,6,2,3,0,1,3,7,4.3,+5,Wilson Chandler
+2008-11-05,21-179,NYK,HOME,CHA,W (+3),0,36:06,6,13,.462,1,4,.250,5,5,1.000,1,6,7,1,1,3,1,2,18,15.8,+9,Wilson Chandler
+2008-11-07,21-181,NYK,AWAY,WAS,W (+6),1,29:50,8,12,.667,1,2,.500,0,0,,1,3,4,2,0,0,3,5,17,9.8,+4,Wilson Chandler
+2008-11-09,21-183,NYK,HOME,UTA,W (+8),1,31:13,3,12,.250,2,4,.500,0,0,,2,4,6,1,1,0,2,5,8,1.1,+2,Wilson Chandler
+2008-11-11,21-185,NYK,AWAY,SAS,L (-12),1,21:20,3,7,.429,0,1,.000,1,2,.500,1,0,1,1,1,1,1,1,7,4.6,-13,Wilson Chandler
+2008-11-12,21-186,NYK,AWAY,MEM,W (+29),1,33:20,11,12,.917,4,4,1.000,1,1,1.000,1,6,7,3,3,1,1,5,27,28.3,+24,Wilson Chandler
+2008-11-14,21-188,NYK,HOME,OKC,W (+10),1,30:53,4,10,.400,0,3,.000,4,4,1.000,0,7,7,2,2,1,0,3,12,11.6,+5,Wilson Chandler
+2008-11-16,21-190,NYK,HOME,DAL,L (-10),1,23:34,7,14,.500,0,2,.000,0,0,,1,2,3,1,0,0,1,4,14,6.4,-3,Wilson Chandler
+2008-11-18,21-192,NYK,AWAY,BOS,L (-9),1,38:45,11,23,.478,1,6,.167,0,1,.000,2,5,7,1,1,1,2,4,23,12.6,-5,Wilson Chandler
+2008-11-21,21-195,NYK,AWAY,MIL,L (-17),1,37:57,5,21,.238,2,8,.250,1,1,1.000,1,7,8,4,2,3,0,4,13,8.4,-20,Wilson Chandler
+2008-11-22,21-196,NYK,HOME,WAS,W (+5),1,44:44,7,16,.438,3,5,.600,6,8,.750,1,5,6,2,1,1,1,4,23,16.5,+13,Wilson Chandler
+2008-11-25,21-199,NYK,HOME,CLE,L (-18),1,37:37,4,12,.333,0,3,.000,2,3,.667,3,3,6,3,2,1,4,3,10,5.4,-6,Wilson Chandler
+2008-11-26,21-200,NYK,AWAY,DET,L (-14),1,30:09,6,12,.500,2,3,.667,1,2,.500,3,5,8,2,1,2,2,2,15,13.2,-7,Wilson Chandler
+2008-11-29,21-203,NYK,HOME,GSW,W (+13),1,22:22,6,9,.667,2,3,.667,2,2,1.000,2,3,5,2,0,0,5,4,16,9.2,+5,Wilson Chandler
+2008-12-02,21-206,NYK,HOME,POR,L (-7),1,33:20,4,12,.333,2,6,.333,1,1,1.000,2,4,6,1,0,1,3,5,11,3.2,-16,Wilson Chandler
+2008-12-03,21-207,NYK,AWAY,CLE,L (-36),1,33:42,5,14,.357,2,6,.333,0,0,,1,2,3,1,0,2,4,5,12,1.6,-21,Wilson Chandler
+2008-12-05,21-209,NYK,AWAY,ATL,L (-3),1,35:09,6,12,.500,3,4,.750,0,0,,1,4,5,3,2,0,3,3,15,10.8,-3,Wilson Chandler
+2008-12-07,21-211,NYK,HOME,DET,W (+12),1,40:33,6,13,.462,2,6,.333,3,3,1.000,1,7,8,2,1,0,1,3,17,13.3,+9,Wilson Chandler
+2008-12-09,21-213,NYK,AWAY,CHI,L (-5),1,38:25,2,13,.154,1,7,.143,6,7,.857,2,5,7,4,2,0,5,4,11,3.4,-11,Wilson Chandler
+2008-12-10,21-214,NYK,AWAY,NJN,W (+12),1,42:26,10,12,.833,1,2,.500,3,3,1.000,2,7,9,3,1,1,1,3,24,24.7,+12,Wilson Chandler
+2008-12-13,21-217,NYK,AWAY,SAC,W (+24),1,37:20,3,11,.273,0,2,.000,1,1,1.000,0,3,3,2,0,1,1,3,7,1.3,+16,Wilson Chandler
+2008-12-15,21-219,NYK,AWAY,PHO,L (-8),1,33:11,6,13,.462,0,5,.000,3,4,.750,0,7,7,1,1,1,3,6,15,7.0,+10,Wilson Chandler
+2008-12-16,21-220,NYK,AWAY,LAL,L (-2),1,38:36,3,10,.300,0,3,.000,2,2,1.000,0,2,2,6,0,2,1,3,8,6.2,-5,Wilson Chandler
+2008-12-19,21-223,NYK,HOME,MIL,L (-24),1,40:44,3,8,.375,1,2,.500,4,4,1.000,1,8,9,2,0,1,4,1,11,7.4,-22,Wilson Chandler
+2008-12-21,21-225,NYK,AWAY,BOS,L (-19),1,23:45,1,7,.143,0,1,.000,0,0,,0,1,1,2,0,0,0,1,2,-1.2,-22,Wilson Chandler
+2008-12-26,21-230,NYK,HOME,MIN,L (-13),1,43:23,5,15,.333,3,6,.500,6,8,.750,1,6,7,1,0,2,1,3,19,12.1,-11,Wilson Chandler
+2008-12-28,21-232,NYK,HOME,DEN,L (-7),1,31:50,6,19,.316,1,9,.111,4,7,.571,2,2,4,1,0,0,0,3,17,6.4,-13,Wilson Chandler
+2008-12-30,21-234,NYK,AWAY,CHA,W (+4),1,34:15,7,15,.467,0,0,,5,5,1.000,0,7,7,0,1,1,5,2,19,9.3,+7,Wilson Chandler
+2009-01-02,21-237,NYK,HOME,IND,L (-2),1,37:08,5,15,.333,0,3,.000,3,4,.750,3,2,5,1,0,0,3,4,13,2.9,-4,Wilson Chandler
+2009-01-04,21-239,NYK,HOME,BOS,W (+12),1,36:40,9,19,.474,2,3,.667,11,12,.917,2,6,8,2,2,1,0,2,31,27.4,+25,Wilson Chandler
+2009-01-06,21-241,NYK,AWAY,OKC,L (-8),1,30:27,4,12,.333,1,5,.200,2,2,1.000,2,2,4,1,1,0,3,5,11,2.9,-1,Wilson Chandler
+2009-01-08,21-243,NYK,AWAY,DAL,L (-5),1,38:29,8,16,.500,2,3,.667,2,3,.667,0,4,4,3,1,1,4,3,20,11.4,+4,Wilson Chandler
+2009-01-10,21-245,NYK,AWAY,HOU,L (-20),1,33:03,4,15,.267,1,7,.143,0,0,,2,4,6,2,0,2,1,4,9,2.9,-10,Wilson Chandler
+2009-01-12,21-247,NYK,AWAY,NOH,W (+6),1,37:02,9,17,.529,1,2,.500,0,0,,0,3,3,1,0,1,0,4,19,11.4,+6,Wilson Chandler
+2009-01-14,21-249,NYK,HOME,WAS,W (+6),1,31:41,4,8,.500,2,3,.667,4,4,1.000,0,2,2,5,1,0,0,4,14,13.5,+2,Wilson Chandler
+2009-01-16,21-251,NYK,AWAY,WAS,L (-7),1,38:56,5,19,.263,4,12,.333,2,2,1.000,1,4,5,2,2,1,4,4,16,5.1,-11,Wilson Chandler
+2009-01-17,21-252,NYK,HOME,PHI,L (-10),1,37:50,8,17,.471,0,2,.000,1,2,.500,1,1,2,0,2,0,2,3,17,7.7,-18,Wilson Chandler
+2009-01-19,21-254,NYK,HOME,CHI,W (+4),1,19:16,3,5,.600,0,1,.000,0,0,,0,1,1,2,0,1,2,0,6,4.1,+3,Wilson Chandler
+2009-01-21,21-256,NYK,HOME,PHO,W (+5),1,22:44,1,8,.125,0,3,.000,0,0,,0,4,4,2,1,2,2,1,2,-0.6,-11,Wilson Chandler
+2009-01-23,21-258,NYK,HOME,MEM,W (+20),1,22:10,4,9,.444,0,3,.000,0,0,,0,1,1,3,2,0,2,1,8,5.3,-5,Wilson Chandler
+2009-01-24,21-259,NYK,AWAY,PHI,L (-6),1,18:43,0,3,.000,0,0,,0,0,,0,4,4,2,1,0,3,0,0,-1.5,-8,Wilson Chandler
+2009-01-26,21-261,NYK,HOME,HOU,W (+6),0,28:00,6,10,.600,1,1,1.000,5,6,.833,0,7,7,3,0,1,1,3,18,15.7,+7,Wilson Chandler
+2009-01-28,21-263,NYK,HOME,ATL,W (+8),0,30:25,5,11,.455,0,3,.000,2,2,1.000,1,3,4,4,0,0,0,3,12,9.5,-5,Wilson Chandler
+2009-01-31,21-266,NYK,AWAY,IND,W (+9),0,31:38,6,13,.462,1,3,.333,3,4,.750,1,7,8,6,0,0,0,5,16,13.9,+5,Wilson Chandler
+2009-02-02,21-268,NYK,HOME,LAL,L (-9),0,31:12,7,11,.636,1,1,1.000,5,6,.833,1,3,4,2,1,1,0,5,20,17.4,0,Wilson Chandler
+2009-02-04,21-270,NYK,HOME,CLE,L (-5),0,20:01,3,9,.333,1,3,.333,0,0,,0,0,0,0,0,0,1,3,7,-0.3,-5,Wilson Chandler
+2009-02-06,21-272,NYK,HOME,BOS,L (-10),0,25:13,4,8,.500,1,2,.500,0,1,.000,0,5,5,1,0,1,1,4,9,4.9,-2,Wilson Chandler
+2009-02-08,21-274,NYK,AWAY,POR,L (-1),1,19:37,2,6,.333,0,1,.000,0,0,,0,0,0,3,1,0,2,1,4,1.3,-16,Wilson Chandler
+2009-02-10,21-276,NYK,AWAY,GSW,L (-17),1,30:32,3,6,.500,0,2,.000,0,0,,0,7,7,3,0,1,2,2,6,5.1,-7,Wilson Chandler
+2009-02-11,21-277,NYK,AWAY,LAC,L (-4),1,48:58,11,20,.550,3,7,.429,2,2,1.000,0,5,5,3,1,0,2,3,27,18.8,-9,Wilson Chandler
+2009-02-17,21-283,NYK,HOME,SAS,W (+5),1,35:12,7,14,.500,2,5,.400,1,2,.500,0,2,2,0,1,2,2,1,17,10.2,+1,Wilson Chandler
+2009-02-20,21-286,NYK,HOME,TOR,W (+30),1,40:07,12,23,.522,6,10,.600,2,2,1.000,0,6,6,3,0,0,2,2,32,21.8,+32,Wilson Chandler
+2009-02-22,21-288,NYK,AWAY,TOR,L (-11),1,24:27,1,6,.167,0,2,.000,0,0,,1,3,4,2,1,0,2,1,2,-0.2,-7,Wilson Chandler
+2009-02-23,21-289,NYK,HOME,IND,W (+4),1,38:29,4,18,.222,1,6,.167,6,7,.857,3,3,6,3,0,2,0,2,15,9.3,-1,Wilson Chandler
+2009-02-25,21-291,NYK,HOME,ORL,L (-5),1,33:33,10,19,.526,6,8,.750,1,2,.500,2,3,5,0,0,1,0,4,27,18.7,+2,Wilson Chandler
+2009-02-27,21-293,NYK,HOME,PHI,L (-5),0,22:37,2,9,.222,1,3,.333,0,0,,1,5,6,0,1,3,1,4,5,2.2,-5,Wilson Chandler
+2009-02-28,21-294,NYK,AWAY,MIA,L (-5),0,21:27,1,3,.333,1,3,.333,2,2,1.000,0,3,3,4,0,3,1,3,5,6.9,+4,Wilson Chandler
+2009-03-04,21-298,NYK,HOME,ATL,W (+4),1,36:07,7,15,.467,0,3,.000,4,4,1.000,0,2,2,2,1,0,0,4,18,11.7,-1,Wilson Chandler
+2009-03-07,21-301,NYK,HOME,CHA,L (-9),1,24:53,5,9,.556,2,6,.333,4,5,.800,1,2,3,0,0,0,1,4,16,10.0,-1,Wilson Chandler
+2009-03-08,21-302,NYK,AWAY,NJN,L (-5),1,36:27,5,12,.417,0,4,.000,0,0,,0,8,8,2,1,1,3,6,10,3.7,-6,Wilson Chandler
+2009-03-10,21-304,NYK,AWAY,MIL,W (+8),1,33:29,2,6,.333,0,2,.000,0,1,.000,0,2,2,2,0,0,4,5,4,-3.8,-4,Wilson Chandler
+2009-03-11,21-305,NYK,AWAY,DET,W (+5),1,43:08,8,16,.500,1,4,.250,0,1,.000,1,5,6,2,0,1,0,3,17,11.7,+8,Wilson Chandler
+2009-03-13,21-307,NYK,AWAY,MIN,W (+8),1,41:39,8,16,.500,2,4,.500,6,7,.857,2,10,12,3,2,1,3,3,24,20.6,+9,Wilson Chandler
+2009-03-15,21-309,NYK,AWAY,CLE,L (-5),1,42:50,4,12,.333,2,7,.286,4,6,.667,2,7,9,6,1,0,3,3,14,10.9,-9,Wilson Chandler
+2009-03-18,21-312,NYK,HOME,NJN,L (-26),1,38:44,6,19,.316,0,2,.000,0,0,,3,7,10,3,0,1,2,3,12,4.9,-25,Wilson Chandler
+2009-03-20,21-314,NYK,HOME,SAC,L (-27),1,34:26,6,15,.400,0,2,.000,5,7,.714,1,5,6,3,1,2,2,5,17,10.8,-27,Wilson Chandler
+2009-03-21,21-315,NYK,AWAY,ORL,L (-7),1,33:31,4,9,.444,1,2,.500,1,2,.500,3,9,12,3,1,1,0,4,10,11.9,-12,Wilson Chandler
+2009-03-23,21-317,NYK,HOME,ORL,L (-4),1,36:37,5,10,.500,1,1,1.000,6,7,.857,2,6,8,2,2,2,1,3,17,17.4,-1,Wilson Chandler
+2009-03-25,21-319,NYK,HOME,LAC,L (-5),1,41:36,10,20,.500,2,4,.500,0,1,.000,1,3,4,4,1,1,2,0,22,15.7,-6,Wilson Chandler
+2009-03-27,21-321,NYK,HOME,NOH,W (+10),1,39:38,6,13,.462,1,4,.250,2,3,.667,1,7,8,1,1,1,3,3,15,8.9,+9,Wilson Chandler
+2009-03-28,21-322,NYK,AWAY,CHA,L (-11),1,39:12,8,20,.400,2,5,.400,0,0,,2,7,9,2,2,3,2,3,18,13.0,-10,Wilson Chandler
+2009-03-30,21-324,NYK,AWAY,UTA,L (-8),1,37:05,5,10,.500,1,3,.333,3,4,.750,0,7,7,2,1,0,2,3,14,9.9,-3,Wilson Chandler
+2009-03-31,21-325,NYK,AWAY,DEN,L (-7),1,39:08,5,12,.417,0,3,.000,3,4,.750,2,6,8,1,3,4,6,2,13,9.1,-7,Wilson Chandler
+2009-04-04,21-329,NYK,HOME,TOR,L (-7),1,27:00,2,7,.286,0,1,.000,0,0,,2,3,5,0,0,0,1,0,4,1.2,-8,Wilson Chandler
+2009-04-05,21-330,NYK,AWAY,TOR,W (+9),1,34:08,6,15,.400,3,7,.429,2,2,1.000,0,4,4,1,1,1,0,1,17,12.1,0,Wilson Chandler
+2009-04-07,21-332,NYK,AWAY,CHI,L (-7),1,41:51,11,15,.733,4,4,1.000,0,0,,1,4,5,3,2,3,2,1,26,25.6,-6,Wilson Chandler
+2009-04-08,21-333,NYK,HOME,DET,L (-27),1,44:35,8,16,.500,5,7,.714,2,2,1.000,0,8,8,0,1,2,0,3,23,18.6,-25,Wilson Chandler
+2009-04-10,21-335,NYK,AWAY,ORL,W (+10),1,38:11,9,17,.529,1,5,.200,3,4,.750,2,6,8,3,1,0,0,3,22,18.4,+13,Wilson Chandler
+2009-04-12,21-337,NYK,AWAY,MIA,L (-17),1,29:04,8,19,.421,1,6,.167,4,6,.667,1,2,3,2,1,0,0,3,21,12.6,-31,Wilson Chandler
+2009-04-15,21-340,NYK,HOME,NJN,W (+29),1,35:37,5,14,.357,1,5,.200,5,6,.833,3,2,5,2,2,1,1,2,16,12.8,+15,Wilson Chandler
+2008-10-29,24-086,NYK,HOME,MIA,W (+5),0,10:21,0,1,.000,0,0,,0,2,.000,1,1,2,1,0,0,2,3,0,-3.0,+1,Mardy Collins
+2008-10-31,24-088,NYK,AWAY,PHI,L (-29),0,13:28,3,7,.429,0,2,.000,1,2,.500,0,2,2,0,0,0,0,0,7,3.5,-3,Mardy Collins
+2008-11-02,24-090,NYK,HOME,MIL,L (-8),0,6:31,0,3,.000,0,1,.000,2,2,1.000,0,0,0,1,0,0,0,1,2,0.2,+1,Mardy Collins
+2008-11-07,24-095,NYK,AWAY,WAS,W (+6),0,9:52,1,1,1.000,0,0,,0,1,.000,0,0,0,4,1,0,1,2,2,3.3,-2,Mardy Collins
+2008-11-09,24-097,NYK,HOME,UTA,W (+8),0,6:06,1,2,.500,0,0,,0,0,,0,1,1,1,0,0,1,0,2,1.0,+1,Mardy Collins
+2008-11-11,24-099,NYK,AWAY,SAS,L (-12),0,6:11,0,2,.000,0,0,,1,2,.500,0,1,1,0,0,0,0,0,1,-0.5,-2,Mardy Collins
+2008-11-12,24-100,NYK,AWAY,MEM,W (+29),0,5:39,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.0,+2,Mardy Collins
+2008-11-16,24-104,NYK,HOME,DAL,L (-10),0,5:34,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,2,2.0,+2,Mardy Collins
+2008-11-18,24-106,NYK,AWAY,BOS,L (-9),0,11:27,2,5,.400,0,0,,0,0,,1,0,1,2,1,0,1,1,4,3.0,-3,Mardy Collins
+2008-11-26,24-114,LAC,HOME,DEN,L (-1),0,7:29,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,3,0,-1.6,-3,Mardy Collins
+2008-11-29,24-117,LAC,HOME,MIA,W (+1),0,5:46,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,+3,Mardy Collins
+2008-12-02,24-120,LAC,AWAY,DAL,L (-2),0,4:31,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,1,1,2,0.6,-2,Mardy Collins
+2008-12-03,24-121,LAC,AWAY,HOU,L (-7),0,3:47,1,1,1.000,0,0,,0,0,,1,0,1,0,0,0,0,0,2,2.4,+1,Mardy Collins
+2008-12-05,24-123,LAC,AWAY,MEM,L (-12),0,13:15,0,3,.000,0,0,,0,0,,0,2,2,1,1,0,0,0,0,0.2,-5,Mardy Collins
+2008-12-06,24-124,LAC,AWAY,MIN,W (+23),0,27:11,5,14,.357,1,3,.333,3,4,.750,1,3,4,2,0,1,1,1,14,8.1,+17,Mardy Collins
+2008-12-08,24-126,LAC,HOME,ORL,L (-7),0,14:24,1,4,.250,0,0,,2,2,1.000,1,3,4,0,0,0,0,1,4,2.8,-4,Mardy Collins
+2008-12-12,24-130,LAC,AWAY,POR,W (+8),0,27:43,1,4,.250,0,0,,2,4,.500,1,2,3,4,1,0,2,4,4,2.3,+18,Mardy Collins
+2008-12-13,24-131,LAC,HOME,HOU,W (+13),0,9:42,1,1,1.000,0,0,,0,0,,0,1,1,1,0,0,0,2,2,1.9,+2,Mardy Collins
+2008-12-16,24-134,LAC,AWAY,OKC,W (+10),0,26:03,2,3,.667,0,0,,0,0,,0,4,4,1,2,0,2,2,4,3.8,-1,Mardy Collins
+2008-12-17,24-135,LAC,AWAY,CHI,L (-6),0,15:06,2,4,.500,0,0,,0,0,,0,2,2,0,0,1,0,1,4,2.9,-7,Mardy Collins
+2008-12-19,24-137,LAC,AWAY,IND,W (+8),0,15:50,1,2,.500,0,0,,1,2,.500,1,1,2,1,0,0,0,1,3,2.9,+2,Mardy Collins
+2008-12-20,24-138,LAC,AWAY,MIL,L (-34),0,14:33,1,3,.333,1,1,1.000,0,0,,0,0,0,1,0,0,2,3,3,-1.2,-8,Mardy Collins
+2008-12-22,24-140,LAC,HOME,TOR,L (-22),0,4:04,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,+3,Mardy Collins
+2008-12-28,24-146,LAC,HOME,DAL,L (-22),0,14:08,3,4,.750,0,0,,0,0,,0,3,3,0,0,0,1,0,6,4.3,-5,Mardy Collins
+2008-12-30,24-148,LAC,AWAY,SAC,L (-2),0,8:27,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-2.1,+4,Mardy Collins
+2008-12-31,24-149,LAC,HOME,PHI,L (-8),1,19:33,1,5,.200,0,2,.000,0,0,,1,0,1,1,0,1,1,3,2,-1.2,+3,Mardy Collins
+2009-01-02,24-151,LAC,AWAY,PHO,L (-8),0,20:06,5,9,.556,0,1,.000,0,0,,1,2,3,2,1,0,1,4,10,6.8,-1,Mardy Collins
+2009-01-04,24-153,LAC,HOME,DET,L (-1),0,42:11,1,7,.143,0,0,,0,2,.000,2,4,6,12,2,0,3,3,2,5.5,-3,Mardy Collins
+2009-01-06,24-155,LAC,AWAY,DAL,L (-5),1,45:17,6,14,.429,2,3,.667,3,3,1.000,2,4,6,3,3,1,0,2,17,17.2,0,Mardy Collins
+2009-01-08,24-157,LAC,AWAY,SAS,L (-22),1,42:39,7,16,.438,1,2,.500,1,2,.500,1,4,5,3,1,2,2,1,16,11.2,-25,Mardy Collins
+2009-01-09,24-158,LAC,AWAY,NOH,L (-27),1,36:56,6,9,.667,1,2,.500,2,4,.500,1,3,4,6,1,0,5,2,15,11.3,-9,Mardy Collins
+2009-01-11,24-160,LAC,HOME,PHO,L (-6),1,35:35,5,14,.357,2,4,.500,3,3,1.000,0,3,3,7,3,0,3,3,15,11.8,-7,Mardy Collins
+2009-01-14,24-163,LAC,HOME,ATL,L (-17),1,35:29,7,13,.538,1,2,.500,0,0,,2,1,3,8,3,0,2,4,15,15.4,-4,Mardy Collins
+2009-01-17,24-166,LAC,HOME,MIL,W (+9),1,40:23,5,10,.500,0,0,,2,4,.500,0,4,4,11,4,0,4,3,12,13.9,+15,Mardy Collins
+2009-01-19,24-168,LAC,HOME,MIN,L (-8),1,25:01,2,7,.286,0,1,.000,0,0,,4,2,6,8,1,1,4,2,4,5.8,-15,Mardy Collins
+2009-01-21,24-170,LAC,HOME,LAL,L (-11),1,37:13,6,13,.462,0,0,,2,3,.667,0,3,3,5,0,0,3,0,14,8.3,-8,Mardy Collins
+2009-01-23,24-172,LAC,HOME,OKC,W (+3),1,4:17,1,1,1.000,0,0,,0,0,,0,1,1,0,1,0,0,0,2,3.0,+2,Mardy Collins
+2009-01-25,24-174,LAC,AWAY,GSW,L (-15),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Mardy Collins
+2009-01-26,24-175,LAC,HOME,POR,L (-25),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mardy Collins
+2009-01-28,24-177,LAC,HOME,CHI,L (-20),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mardy Collins
+2009-01-30,24-179,LAC,AWAY,CLE,L (-17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mardy Collins
+2009-01-31,24-180,LAC,AWAY,WAS,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mardy Collins
+2009-02-17,24-197,LAC,AWAY,PHO,L (-40),0,13:17,3,5,.600,2,2,1.000,2,2,1.000,0,0,0,2,1,0,2,1,10,7.7,-9,Mardy Collins
+2009-02-18,24-198,LAC,HOME,PHO,L (-23),0,25:44,1,4,.250,0,0,,0,0,,2,0,2,4,0,0,2,4,2,0.2,-12,Mardy Collins
+2009-02-22,24-202,LAC,AWAY,POR,L (-29),0,26:41,3,8,.375,1,1,1.000,0,0,,2,1,3,2,1,0,2,1,7,4.3,-21,Mardy Collins
+2009-02-23,24-203,LAC,HOME,GSW,W (+13),1,34:35,4,5,.800,0,0,,0,0,,2,4,6,4,0,1,4,2,8,7.4,-1,Mardy Collins
+2009-02-25,24-205,LAC,HOME,BOS,W (+2),1,36:52,6,13,.462,0,1,.000,0,0,,1,4,5,5,0,1,3,5,12,6.4,+9,Mardy Collins
+2009-02-27,24-207,LAC,AWAY,SAC,L (-12),1,26:03,3,11,.273,0,0,,1,2,.500,1,3,4,3,1,0,0,0,7,4.8,+6,Mardy Collins
+2009-02-28,24-208,LAC,HOME,CHA,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mardy Collins
+2009-03-02,24-210,LAC,HOME,SAS,L (-28),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mardy Collins
+2009-03-04,24-212,LAC,HOME,MEM,L (-23),0,21:43,2,4,.500,1,2,.500,0,0,,2,0,2,1,1,0,0,3,5,4.9,+1,Mardy Collins
+2009-03-07,24-215,LAC,HOME,IND,L (-1),0,5:23,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,4,0,-0.9,+1,Mardy Collins
+2009-03-10,24-218,LAC,HOME,CLE,L (-4),0,0:08,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-2,Mardy Collins
+2009-03-15,24-223,LAC,HOME,NJN,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mardy Collins
+2009-03-22,24-230,LAC,AWAY,TOR,L (-24),0,13:11,3,5,.600,0,0,,0,0,,0,3,3,1,0,1,1,1,6,4.6,-8,Mardy Collins
+2009-03-23,24-231,LAC,AWAY,BOS,L (-13),1,14:21,1,4,.250,0,0,,0,0,,0,0,0,1,1,0,0,3,2,0.1,-3,Mardy Collins
+2009-03-27,24-235,LAC,AWAY,SAS,L (-13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mardy Collins
+2009-03-28,24-236,LAC,AWAY,HOU,L (-17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mardy Collins
+2009-04-04,24-243,LAC,AWAY,DEN,L (-16),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Mardy Collins
+2009-04-05,24-244,LAC,AWAY,LAL,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mardy Collins
+2009-04-07,24-246,LAC,HOME,MIN,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mardy Collins
+2009-04-11,24-250,LAC,HOME,POR,L (-15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mardy Collins
+2009-04-15,24-254,LAC,HOME,OKC,L (-41),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mardy Collins
+2009-04-08,22-295,NYK,HOME,DET,L (-27),0,10:50,1,4,.250,0,2,.000,2,2,1.000,0,1,1,1,0,0,0,1,4,2.2,+1,Joe Crawford
+2009-04-15,22-302,NYK,HOME,NJN,W (+29),0,12:00,2,6,.333,1,2,.500,0,0,,1,2,3,0,1,0,0,1,5,3.5,+6,Joe Crawford
+2008-10-29,20-082,NYK,HOME,MIA,W (+5),0,3:32,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.8,0,Danilo Gallinari
+2008-10-31,20-084,NYK,AWAY,PHI,L (-29),0,7:51,0,1,.000,0,0,,2,2,1.000,0,1,1,1,0,0,1,0,2,1.3,-14,Danilo Gallinari
+2008-11-18,20-102,NYK,AWAY,BOS,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Danilo Gallinari
+2008-11-22,20-106,NYK,HOME,WAS,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Danilo Gallinari
+2008-11-25,20-109,NYK,HOME,CLE,L (-18),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Danilo Gallinari
+2008-11-26,20-110,NYK,AWAY,DET,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Danilo Gallinari
+2008-11-29,20-113,NYK,HOME,GSW,W (+13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Danilo Gallinari
+2008-12-02,20-116,NYK,HOME,POR,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Danilo Gallinari
+2008-12-03,20-117,NYK,AWAY,CLE,L (-36),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Danilo Gallinari
+2008-12-05,20-119,NYK,AWAY,ATL,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Danilo Gallinari
+2008-12-07,20-121,NYK,HOME,DET,W (+12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Danilo Gallinari
+2008-12-09,20-123,NYK,AWAY,CHI,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Danilo Gallinari
+2008-12-10,20-124,NYK,AWAY,NJN,W (+12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Danilo Gallinari
+2008-12-13,20-127,NYK,AWAY,SAC,W (+24),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Danilo Gallinari
+2008-12-15,20-129,NYK,AWAY,PHO,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Danilo Gallinari
+2008-12-16,20-130,NYK,AWAY,LAL,L (-2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Danilo Gallinari
+2008-12-19,20-133,NYK,HOME,MIL,L (-24),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Danilo Gallinari
+2008-12-21,20-135,NYK,AWAY,BOS,L (-19),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Danilo Gallinari
+2008-12-26,20-140,NYK,HOME,MIN,L (-13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Danilo Gallinari
+2008-12-28,20-142,NYK,HOME,DEN,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Danilo Gallinari
+2008-12-30,20-144,NYK,AWAY,CHA,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Danilo Gallinari
+2009-01-02,20-147,NYK,HOME,IND,L (-2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Danilo Gallinari
+2009-01-04,20-149,NYK,HOME,BOS,W (+12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Danilo Gallinari
+2009-01-06,20-151,NYK,AWAY,OKC,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Danilo Gallinari
+2009-01-17,20-162,NYK,HOME,PHI,L (-10),0,15:14,2,4,.500,2,3,.667,0,0,,0,0,0,1,0,1,1,1,6,4.0,+7,Danilo Gallinari
+2009-01-19,20-164,NYK,HOME,CHI,W (+4),0,16:24,4,7,.571,1,2,.500,0,0,,0,4,4,2,2,1,2,1,9,8.6,+3,Danilo Gallinari
+2009-01-21,20-166,NYK,HOME,PHO,W (+5),0,18:25,4,7,.571,2,4,.500,0,0,,1,3,4,1,0,1,0,3,10,8.5,+21,Danilo Gallinari
+2009-01-23,20-168,NYK,HOME,MEM,W (+20),0,17:22,3,5,.600,1,3,.333,4,4,1.000,1,1,2,1,1,0,0,6,11,9.0,+22,Danilo Gallinari
+2009-01-26,20-171,NYK,HOME,HOU,W (+6),0,13:00,0,2,.000,0,2,.000,4,4,1.000,1,1,2,1,0,0,1,2,4,2.5,0,Danilo Gallinari
+2009-01-28,20-173,NYK,HOME,ATL,W (+8),0,9:32,2,3,.667,1,2,.500,0,0,,0,1,1,0,1,0,1,3,5,2.8,-2,Danilo Gallinari
+2009-01-31,20-176,NYK,AWAY,IND,W (+9),0,15:29,2,5,.400,2,4,.500,0,0,,0,2,2,0,3,0,1,1,6,5.5,+14,Danilo Gallinari
+2009-02-02,20-178,NYK,HOME,LAL,L (-9),0,19:42,3,7,.429,1,2,.500,3,3,1.000,1,3,4,1,1,0,1,3,10,7.4,+10,Danilo Gallinari
+2009-02-04,20-180,NYK,HOME,CLE,L (-5),0,23:31,2,4,.500,1,2,.500,2,2,1.000,0,2,2,2,0,0,2,0,7,5.0,+7,Danilo Gallinari
+2009-02-06,20-182,NYK,HOME,BOS,L (-10),0,14:22,2,3,.667,1,2,.500,0,0,,0,4,4,0,0,0,1,3,5,2.7,-5,Danilo Gallinari
+2009-02-08,20-184,NYK,AWAY,POR,L (-1),1,13:42,2,3,.667,2,3,.667,0,0,,1,0,1,0,1,0,0,0,6,6.4,-5,Danilo Gallinari
+2009-02-10,20-186,NYK,AWAY,GSW,L (-17),1,15:10,2,3,.667,0,0,,2,2,1.000,0,0,0,0,0,0,0,3,6,3.5,-10,Danilo Gallinari
+2009-02-11,20-187,NYK,AWAY,LAC,L (-4),0,16:44,2,8,.250,0,1,.000,0,0,,1,3,4,0,0,0,1,0,4,-0.2,0,Danilo Gallinari
+2009-02-17,20-193,NYK,HOME,SAS,W (+5),0,10:08,1,1,1.000,0,0,,0,0,,0,0,0,0,1,0,0,0,2,2.7,-1,Danilo Gallinari
+2009-02-20,20-196,NYK,HOME,TOR,W (+30),0,23:11,3,10,.300,2,8,.250,2,2,1.000,1,4,5,2,0,0,1,3,10,5.3,+5,Danilo Gallinari
+2009-02-23,20-199,NYK,HOME,IND,W (+4),0,6:58,0,3,.000,0,2,.000,0,0,,0,3,3,0,0,0,0,2,0,-2.0,+4,Danilo Gallinari
+2009-02-25,20-201,NYK,HOME,ORL,L (-5),0,13:12,3,3,1.000,2,2,1.000,0,0,,2,3,5,2,0,0,1,1,8,9.4,+4,Danilo Gallinari
+2009-02-27,20-203,NYK,HOME,PHI,L (-5),0,11:46,1,2,.500,1,2,.500,0,0,,0,1,1,0,0,1,0,3,3,1.8,-2,Danilo Gallinari
+2009-02-28,20-204,NYK,AWAY,MIA,L (-5),0,9:33,1,3,.333,1,3,.333,2,3,.667,0,0,0,0,0,0,0,1,5,2.5,-9,Danilo Gallinari
+2009-03-04,20-208,NYK,HOME,ATL,W (+4),0,22:15,6,11,.545,4,5,.800,1,1,1.000,0,3,3,0,0,0,0,1,17,12.2,+14,Danilo Gallinari
+2009-03-07,20-211,NYK,HOME,CHA,L (-9),0,16:18,2,4,.500,2,4,.500,0,0,,0,1,1,1,2,0,0,2,6,6.2,-2,Danilo Gallinari
+2009-03-08,20-212,NYK,AWAY,NJN,L (-5),0,24:47,6,10,.600,3,4,.750,0,0,,2,0,2,0,0,0,1,1,15,10.4,+2,Danilo Gallinari
+2009-03-10,20-214,NYK,AWAY,MIL,W (+8),0,19:54,0,5,.000,0,3,.000,2,2,1.000,1,1,2,0,1,0,0,4,2,-1.1,-3,Danilo Gallinari
+2009-03-11,20-215,NYK,AWAY,DET,W (+5),0,16:13,2,3,.667,2,3,.667,2,2,1.000,0,0,0,0,1,0,0,1,8,7.3,0,Danilo Gallinari
+2009-03-13,20-217,NYK,AWAY,MIN,W (+8),0,11:42,1,5,.200,1,4,.250,0,0,,1,1,2,0,0,0,0,1,3,0.5,-8,Danilo Gallinari
+2009-03-15,20-219,NYK,AWAY,CLE,L (-5),0,5:47,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-2,Danilo Gallinari
+2008-10-29,25-183,NYK,HOME,MIA,W (+5),1,35:27,6,9,.667,0,0,,4,5,.800,4,7,11,5,1,0,2,3,16,17.9,+10,David Lee
+2008-10-31,25-185,NYK,AWAY,PHI,L (-29),1,33:05,5,13,.385,0,0,,3,4,.750,5,6,11,3,3,1,1,3,13,14.4,-14,David Lee
+2008-11-02,25-187,NYK,HOME,MIL,L (-8),1,19:57,1,2,.500,0,0,,1,2,.500,0,2,2,1,1,0,2,3,3,0.7,-8,David Lee
+2008-11-05,25-190,NYK,HOME,CHA,W (+3),1,29:43,4,11,.364,0,0,,0,0,,1,3,4,2,1,0,2,2,8,3.1,+11,David Lee
+2008-11-07,25-192,NYK,AWAY,WAS,W (+6),0,26:47,6,10,.600,0,0,,1,4,.250,0,1,1,1,0,0,0,4,13,6.6,-2,David Lee
+2008-11-09,25-194,NYK,HOME,UTA,W (+8),0,31:06,2,8,.250,0,0,,4,4,1.000,2,6,8,1,0,1,3,3,8,3.6,+1,David Lee
+2008-11-11,25-196,NYK,AWAY,SAS,L (-12),0,30:55,6,9,.667,0,0,,3,4,.750,0,9,9,2,1,0,1,3,15,13.6,+4,David Lee
+2008-11-12,25-197,NYK,AWAY,MEM,W (+29),0,16:45,3,6,.500,0,0,,0,0,,0,3,3,0,0,0,2,4,6,0.3,+7,David Lee
+2008-11-14,25-199,NYK,HOME,OKC,W (+10),0,27:45,7,8,.875,0,0,,4,7,.571,0,6,6,1,0,1,2,6,18,12.8,+6,David Lee
+2008-11-16,25-201,NYK,HOME,DAL,L (-10),0,36:10,6,12,.500,0,0,,2,3,.667,2,9,11,3,0,1,3,1,14,11.1,-16,David Lee
+2008-11-18,25-203,NYK,AWAY,BOS,L (-9),0,21:11,5,8,.625,0,0,,0,1,.000,2,5,7,2,0,0,3,3,10,6.1,+6,David Lee
+2008-11-21,25-206,NYK,AWAY,MIL,L (-17),1,39:21,6,10,.600,0,0,,1,2,.500,3,9,12,3,2,0,1,2,13,15.1,-23,David Lee
+2008-11-22,25-207,NYK,HOME,WAS,W (+5),1,40:23,9,16,.563,0,0,,4,5,.800,5,7,12,2,1,0,4,2,22,17.2,+15,David Lee
+2008-11-25,25-210,NYK,HOME,CLE,L (-18),1,33:11,5,8,.625,0,0,,2,3,.667,5,8,13,1,0,0,0,0,12,14.6,-4,David Lee
+2008-11-26,25-211,NYK,AWAY,DET,L (-14),1,44:35,6,11,.545,0,0,,5,6,.833,4,11,15,2,2,0,3,3,17,16.6,-7,David Lee
+2008-11-29,25-214,NYK,HOME,GSW,W (+13),1,38:31,16,29,.552,0,1,.000,5,8,.625,8,13,21,2,3,1,3,5,37,31.5,+10,David Lee
+2008-12-02,25-217,NYK,HOME,POR,L (-7),1,40:17,7,11,.636,0,0,,5,5,1.000,3,9,12,1,0,1,3,4,19,15.7,-2,David Lee
+2008-12-03,25-218,NYK,AWAY,CLE,L (-36),1,41:51,7,12,.583,0,0,,2,4,.500,6,10,16,3,2,0,4,2,16,16.1,-26,David Lee
+2008-12-05,25-220,NYK,AWAY,ATL,L (-3),1,34:05,6,8,.750,0,0,,3,3,1.000,4,7,11,1,0,0,1,5,15,14.4,+1,David Lee
+2008-12-07,25-222,NYK,HOME,DET,W (+12),1,37:40,4,8,.500,0,0,,4,5,.800,5,14,19,3,0,0,4,4,12,11.8,+20,David Lee
+2008-12-09,25-224,NYK,AWAY,CHI,L (-5),1,35:11,5,11,.455,0,0,,1,2,.500,5,10,15,1,0,1,0,1,11,12.4,-6,David Lee
+2008-12-10,25-225,NYK,AWAY,NJN,W (+12),1,24:05,4,7,.571,0,0,,2,2,1.000,0,1,1,1,0,0,2,1,10,5.3,+1,David Lee
+2008-12-13,25-228,NYK,AWAY,SAC,W (+24),1,35:20,6,9,.667,0,0,,5,6,.833,5,14,19,2,2,0,1,3,17,21.6,+21,David Lee
+2008-12-15,25-230,NYK,AWAY,PHO,L (-8),1,30:45,7,9,.778,0,0,,1,1,1.000,2,10,12,0,2,1,1,6,15,15.2,-2,David Lee
+2008-12-16,25-231,NYK,AWAY,LAL,L (-2),1,37:42,7,15,.467,0,0,,4,4,1.000,3,11,14,2,2,0,1,5,18,16.1,+1,David Lee
+2008-12-19,25-234,NYK,HOME,MIL,L (-24),1,36:03,6,10,.600,0,0,,2,3,.667,1,13,14,2,1,0,5,3,14,9.8,-18,David Lee
+2008-12-21,25-236,NYK,AWAY,BOS,L (-19),1,43:29,8,13,.615,0,0,,1,1,1.000,0,8,8,4,4,0,1,5,17,17.3,-25,David Lee
+2008-12-26,25-241,NYK,HOME,MIN,L (-13),1,33:59,4,10,.400,0,0,,4,6,.667,6,7,13,2,1,0,0,6,12,12.1,-17,David Lee
+2008-12-28,25-243,NYK,HOME,DEN,L (-7),1,37:59,7,9,.778,0,0,,5,7,.714,5,7,12,2,0,0,1,4,19,19.1,0,David Lee
+2008-12-30,25-245,NYK,AWAY,CHA,W (+4),1,38:49,5,11,.455,0,0,,3,4,.750,4,12,16,2,0,1,1,2,13,13.6,+9,David Lee
+2009-01-02,25-248,NYK,HOME,IND,L (-2),1,40:02,12,15,.800,0,0,,2,2,1.000,4,7,11,3,5,0,5,3,26,26.1,-4,David Lee
+2009-01-04,25-250,NYK,HOME,BOS,W (+12),1,42:50,6,12,.500,0,0,,2,2,1.000,3,11,14,2,1,3,2,3,14,14.7,+13,David Lee
+2009-01-06,25-252,NYK,AWAY,OKC,L (-8),1,35:23,5,9,.556,0,0,,4,4,1.000,4,9,13,2,0,0,3,4,14,12.0,-25,David Lee
+2009-01-08,25-254,NYK,AWAY,DAL,L (-5),1,37:10,4,8,.500,0,0,,5,6,.833,7,8,15,0,0,0,4,3,13,10.7,+9,David Lee
+2009-01-10,25-256,NYK,AWAY,HOU,L (-20),1,34:44,6,13,.462,0,0,,2,2,1.000,1,10,11,1,1,0,0,3,14,11.5,-25,David Lee
+2009-01-12,25-258,NYK,AWAY,NOH,W (+6),1,33:34,12,16,.750,0,0,,0,1,.000,4,5,9,3,1,1,2,4,24,21.7,-6,David Lee
+2009-01-14,25-260,NYK,HOME,WAS,W (+6),1,41:28,12,21,.571,0,0,,6,8,.750,6,4,10,6,2,0,0,4,30,29.3,0,David Lee
+2009-01-16,25-262,NYK,AWAY,WAS,L (-7),1,42:39,6,6,1.000,0,0,,3,3,1.000,4,17,21,4,0,0,2,3,15,20.7,-3,David Lee
+2009-01-17,25-263,NYK,HOME,PHI,L (-10),1,39:49,6,9,.667,0,0,,3,4,.750,2,9,11,2,1,1,5,6,15,10.5,-10,David Lee
+2009-01-19,25-265,NYK,HOME,CHI,W (+4),1,35:23,3,14,.214,0,0,,5,6,.833,2,8,10,3,0,1,2,3,11,5.4,-4,David Lee
+2009-01-21,25-267,NYK,HOME,PHO,W (+5),1,35:16,12,21,.571,0,0,,1,1,1.000,3,13,16,1,1,0,3,3,25,18.6,-12,David Lee
+2009-01-23,25-269,NYK,HOME,MEM,W (+20),1,34:56,6,11,.545,0,0,,7,9,.778,4,10,14,0,1,0,4,2,19,14.9,+7,David Lee
+2009-01-24,25-270,NYK,AWAY,PHI,L (-6),1,37:20,7,10,.700,0,0,,6,8,.750,2,8,10,3,0,0,1,4,20,18.3,-9,David Lee
+2009-01-26,25-272,NYK,HOME,HOU,W (+6),1,40:03,7,13,.538,0,0,,3,5,.600,2,11,13,2,0,0,3,2,17,12.2,+11,David Lee
+2009-01-28,25-274,NYK,HOME,ATL,W (+8),1,37:25,8,15,.533,0,0,,1,2,.500,2,14,16,2,0,0,6,2,17,9.5,+14,David Lee
+2009-01-31,25-277,NYK,AWAY,IND,W (+9),1,38:44,8,15,.533,0,0,,7,9,.778,2,15,17,1,1,0,2,3,23,19.3,-4,David Lee
+2009-02-02,25-279,NYK,HOME,LAL,L (-9),1,36:47,8,16,.500,0,0,,6,7,.857,3,9,12,1,1,0,2,4,22,16.5,-8,David Lee
+2009-02-04,25-281,NYK,HOME,CLE,L (-5),1,35:29,4,9,.444,0,0,,4,4,1.000,4,6,10,0,0,0,0,2,12,11.1,-17,David Lee
+2009-02-06,25-283,NYK,HOME,BOS,L (-10),1,34:28,8,15,.533,0,0,,2,2,1.000,5,13,18,1,0,0,2,3,18,15.6,-6,David Lee
+2009-02-08,25-285,NYK,AWAY,POR,L (-1),1,36:28,10,15,.667,0,0,,9,9,1.000,2,9,11,2,0,0,4,2,29,23.2,-5,David Lee
+2009-02-10,25-287,NYK,AWAY,GSW,L (-17),1,42:31,10,15,.667,0,0,,7,8,.875,6,5,11,4,1,0,2,5,27,25.6,-22,David Lee
+2009-02-11,25-288,NYK,AWAY,LAC,L (-4),1,43:05,6,15,.400,0,0,,5,7,.714,4,8,12,2,1,0,0,4,17,14.1,-4,David Lee
+2009-02-17,25-294,NYK,HOME,SAS,W (+5),1,30:03,6,13,.462,0,0,,1,2,.500,2,10,12,4,3,0,1,6,13,12.7,+1,David Lee
+2009-02-20,25-297,NYK,HOME,TOR,W (+30),1,37:45,9,16,.563,0,0,,6,6,1.000,4,11,15,4,0,0,1,3,24,23.1,+24,David Lee
+2009-02-22,25-299,NYK,AWAY,TOR,L (-11),1,40:49,6,15,.400,0,0,,5,9,.556,4,11,15,3,1,0,1,2,17,14.7,0,David Lee
+2009-02-23,25-300,NYK,HOME,IND,W (+4),1,36:25,8,17,.471,0,0,,4,8,.500,4,9,13,3,0,0,0,4,20,15.7,+10,David Lee
+2009-02-25,25-302,NYK,HOME,ORL,L (-5),1,32:32,4,13,.308,0,0,,2,2,1.000,3,7,10,0,0,0,0,4,10,5.1,-8,David Lee
+2009-02-27,25-304,NYK,HOME,PHI,L (-5),1,37:45,7,12,.583,0,0,,3,5,.600,3,8,11,1,0,0,0,4,17,14.2,-3,David Lee
+2009-02-28,25-305,NYK,AWAY,MIA,L (-5),1,38:27,7,8,.875,0,0,,4,6,.667,2,11,13,0,0,0,1,2,18,17.3,+4,David Lee
+2009-03-04,25-309,NYK,HOME,ATL,W (+4),1,33:00,4,8,.500,0,0,,5,6,.833,3,11,14,1,2,2,1,4,13,15.5,-5,David Lee
+2009-03-07,25-312,NYK,HOME,CHA,L (-9),1,31:37,5,10,.500,0,0,,0,0,,2,5,7,2,0,0,1,2,10,7.5,-10,David Lee
+2009-03-08,25-313,NYK,AWAY,NJN,L (-5),1,36:53,8,12,.667,0,0,,3,4,.750,5,9,14,7,5,0,3,2,19,25.7,-4,David Lee
+2009-03-10,25-315,NYK,AWAY,MIL,W (+8),1,36:25,7,10,.700,0,0,,5,5,1.000,3,15,18,1,0,1,1,3,19,20.6,+10,David Lee
+2009-03-11,25-316,NYK,AWAY,DET,W (+5),1,40:46,7,12,.583,0,0,,2,5,.400,6,12,18,2,1,0,0,3,16,18.2,+6,David Lee
+2009-03-13,25-318,NYK,AWAY,MIN,W (+8),1,41:51,6,14,.429,0,0,,0,0,,3,10,13,3,5,0,0,4,12,15.2,+7,David Lee
+2009-03-15,25-320,NYK,AWAY,CLE,L (-5),1,38:14,5,16,.313,0,0,,0,1,.000,5,9,14,4,1,0,1,2,10,8.6,+1,David Lee
+2009-03-18,25-323,NYK,HOME,NJN,L (-26),1,31:47,5,7,.714,0,0,,3,4,.750,1,5,6,2,3,0,5,3,13,10.1,-14,David Lee
+2009-03-20,25-325,NYK,HOME,SAC,L (-27),1,21:58,2,8,.250,0,0,,2,2,1.000,2,1,3,2,0,0,2,2,6,1.5,-29,David Lee
+2009-03-23,25-328,NYK,HOME,ORL,L (-4),1,30:01,6,12,.500,0,0,,2,2,1.000,5,8,13,0,1,0,0,6,14,12.5,-9,David Lee
+2009-03-25,25-330,NYK,HOME,LAC,L (-5),1,35:34,7,7,1.000,0,0,,4,5,.800,3,10,13,5,3,0,5,5,18,20.1,+3,David Lee
+2009-03-27,25-332,NYK,HOME,NOH,W (+10),1,33:04,9,15,.600,0,0,,0,0,,4,7,11,0,0,0,2,2,18,13.2,+7,David Lee
+2009-03-28,25-333,NYK,AWAY,CHA,L (-11),1,30:19,6,14,.429,0,0,,2,3,.667,2,8,10,1,0,0,0,2,14,9.9,-12,David Lee
+2009-03-30,25-335,NYK,AWAY,UTA,L (-8),1,35:52,8,14,.571,0,1,.000,5,8,.625,3,7,10,1,3,0,1,3,21,18.9,-13,David Lee
+2009-03-31,25-336,NYK,AWAY,DEN,L (-7),1,37:31,9,19,.474,0,1,.000,1,2,.500,4,8,12,1,3,1,5,2,19,12.7,-1,David Lee
+2009-04-04,25-340,NYK,HOME,TOR,L (-7),1,36:42,4,9,.444,0,0,,4,6,.667,1,6,7,6,0,0,1,2,12,11.4,+3,David Lee
+2009-04-05,25-341,NYK,AWAY,TOR,W (+9),1,28:11,8,10,.800,0,0,,0,0,,3,7,10,4,0,1,1,4,16,17.3,+4,David Lee
+2009-04-07,25-343,NYK,AWAY,CHI,L (-7),1,32:53,6,12,.500,0,0,,5,6,.833,3,10,13,6,1,2,4,4,17,16.7,-2,David Lee
+2009-04-08,25-344,NYK,HOME,DET,L (-27),1,28:02,4,7,.571,0,0,,1,2,.500,1,3,4,1,0,0,1,1,9,6.2,-34,David Lee
+2009-04-10,25-346,NYK,AWAY,ORL,W (+10),1,31:23,7,14,.500,0,0,,6,8,.750,2,14,16,4,1,0,0,4,20,20.0,+14,David Lee
+2009-04-12,25-348,NYK,AWAY,MIA,L (-17),1,25:45,5,13,.385,0,0,,1,1,1.000,5,6,11,1,0,0,0,1,11,9.5,-13,David Lee
+2009-04-15,25-351,NYK,HOME,NJN,W (+29),1,24:49,5,8,.625,0,0,,2,2,1.000,2,10,12,3,1,0,1,4,12,13.3,+22,David Lee
+2008-10-31,24-057,CHI,AWAY,BOS,L (-16),0,3:39,0,2,.000,0,0,,0,0,,0,0,0,1,0,0,0,0,0,-0.7,+12,Demetris Nichols
+2008-11-07,24-064,CHI,HOME,PHO,W (+17),0,1:49,1,2,.500,0,1,.000,0,0,,0,0,0,0,0,0,0,1,2,0.6,+1,Demetris Nichols
+2009-03-18,24-195,NYK,HOME,NJN,L (-26),0,3:34,0,1,.000,0,0,,1,2,.500,0,1,1,0,0,0,0,0,1,0.2,-2,Demetris Nichols
+2009-03-20,24-197,NYK,HOME,SAC,L (-27),0,5:11,2,4,.500,0,1,.000,0,0,,0,1,1,0,0,1,0,0,4,3.0,0,Demetris Nichols
+2008-10-31,25-260,NYK,AWAY,PHI,L (-29),0,7:37,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.0,-2,Anthony Roberson
+2008-11-02,25-262,NYK,HOME,MIL,L (-8),0,11:07,2,5,.400,2,5,.400,0,0,,0,0,0,0,0,0,0,3,6,2.1,+5,Anthony Roberson
+2008-11-05,25-265,NYK,HOME,CHA,W (+3),0,6:27,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,0,0,0.0,+3,Anthony Roberson
+2008-11-07,25-267,NYK,AWAY,WAS,W (+6),0,15:33,3,8,.375,2,6,.333,0,0,,0,2,2,2,1,0,1,1,8,5.2,-2,Anthony Roberson
+2008-11-09,25-269,NYK,HOME,UTA,W (+8),0,3:55,1,2,.500,1,2,.500,0,0,,0,0,0,0,0,0,0,0,3,2.0,0,Anthony Roberson
+2008-11-11,25-271,NYK,AWAY,SAS,L (-12),0,7:24,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-1.4,-11,Anthony Roberson
+2008-11-12,25-272,NYK,AWAY,MEM,W (+29),0,5:39,3,3,1.000,3,3,1.000,0,0,,0,1,1,0,0,0,0,0,9,8.4,+2,Anthony Roberson
+2008-11-21,25-281,NYK,AWAY,MIL,L (-17),0,17:07,2,6,.333,0,3,.000,2,2,1.000,0,0,0,1,0,0,1,0,6,2.3,+3,Anthony Roberson
+2008-11-22,25-282,NYK,HOME,WAS,W (+5),0,14:13,2,10,.200,0,5,.000,0,0,,0,1,1,1,1,1,0,1,4,0.1,-12,Anthony Roberson
+2008-11-25,25-285,NYK,HOME,CLE,L (-18),0,18:47,3,8,.375,1,5,.200,3,3,1.000,0,0,0,2,0,0,0,0,10,7.0,-7,Anthony Roberson
+2008-11-26,25-286,NYK,AWAY,DET,L (-14),0,20:50,3,9,.333,2,6,.333,0,0,,1,0,1,1,1,0,0,1,8,4.9,-8,Anthony Roberson
+2008-11-29,25-289,NYK,HOME,GSW,W (+13),0,24:37,3,8,.375,2,5,.400,0,0,,1,1,2,4,0,0,0,4,8,5.8,+5,Anthony Roberson
+2008-12-02,25-292,NYK,HOME,POR,L (-7),0,21:33,2,6,.333,2,6,.333,0,0,,1,2,3,1,2,0,0,1,6,6.2,+4,Anthony Roberson
+2008-12-03,25-293,NYK,AWAY,CLE,L (-36),0,28:23,7,14,.500,5,12,.417,0,0,,1,1,2,4,3,0,3,3,19,14.6,-19,Anthony Roberson
+2008-12-05,25-295,NYK,AWAY,ATL,L (-3),0,4:43,0,3,.000,0,0,,0,0,,0,0,0,0,1,0,0,1,0,-1.5,-9,Anthony Roberson
+2008-12-13,25-303,NYK,AWAY,SAC,W (+24),0,5:25,2,3,.667,1,1,1.000,0,0,,0,1,1,1,1,0,0,1,5,5.3,0,Anthony Roberson
+2008-12-19,25-309,NYK,HOME,MIL,L (-24),0,6:24,1,2,.500,0,1,.000,0,0,,0,2,2,0,0,0,0,0,2,1.6,-4,Anthony Roberson
+2008-12-26,25-316,NYK,HOME,MIN,L (-13),0,1:25,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-3,Anthony Roberson
+2009-01-02,25-323,NYK,HOME,IND,L (-2),0,5:02,1,2,.500,1,2,.500,0,0,,0,0,0,0,0,0,1,0,3,1.0,0,Anthony Roberson
+2009-01-10,25-331,NYK,AWAY,HOU,L (-20),0,12:00,0,3,.000,0,2,.000,0,0,,0,0,0,0,0,0,1,1,0,-3.5,-2,Anthony Roberson
+2009-01-23,25-344,NYK,HOME,MEM,W (+20),0,1:50,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,0,Anthony Roberson
+2009-02-10,25-362,NYK,AWAY,GSW,L (-17),0,7:04,2,2,1.000,1,1,1.000,0,0,,0,0,0,1,0,0,0,1,5,4.7,+2,Anthony Roberson
+2009-02-11,25-363,NYK,AWAY,LAC,L (-4),0,6:10,1,2,.500,1,2,.500,0,0,,0,0,0,0,0,0,0,0,3,2.0,-4,Anthony Roberson
+2009-02-27,26-013,CHI,AWAY,WAS,L (-23),0,2:52,0,3,.000,0,2,.000,0,0,,0,0,0,0,0,0,0,0,0,-2.1,-3,Anthony Roberson
+2009-03-03,26-017,CHI,AWAY,CHA,L (-16),0,4:04,1,3,.333,0,1,.000,0,0,,1,0,1,0,0,0,1,0,2,0.0,+1,Anthony Roberson
+2009-03-04,26-018,CHI,HOME,GSW,W (+22),0,1:24,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,2,2.0,+3,Anthony Roberson
+2009-03-06,26-020,CHI,HOME,MIL,W (+15),0,0:59,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-2,Anthony Roberson
+2009-03-11,26-025,CHI,AWAY,ORL,L (-28),0,9:47,3,6,.500,2,4,.500,0,0,,1,3,4,1,0,0,0,0,8,7.3,+8,Anthony Roberson
+2009-03-14,26-028,CHI,HOME,NOH,W (+18),0,3:26,0,3,.000,0,2,.000,0,0,,0,1,1,0,0,0,0,0,0,-1.8,-5,Anthony Roberson
+2008-10-29,24-151,NYK,HOME,MIA,W (+5),0,24:43,4,10,.400,1,3,.333,4,4,1.000,1,2,3,7,2,0,0,4,13,14.2,-8,Nate Robinson
+2008-10-31,24-153,NYK,AWAY,PHI,L (-29),0,31:07,4,14,.286,2,8,.250,2,3,.667,2,4,6,2,3,0,2,3,12,7.2,-15,Nate Robinson
+2008-11-02,24-155,NYK,HOME,MIL,L (-8),0,24:56,5,11,.455,2,5,.400,2,2,1.000,3,2,5,4,3,0,5,4,14,10.2,+10,Nate Robinson
+2008-11-05,24-158,NYK,HOME,CHA,W (+3),0,31:26,9,12,.750,5,5,1.000,1,1,1.000,1,2,3,5,2,0,3,4,24,21.4,+14,Nate Robinson
+2008-11-07,24-160,NYK,AWAY,WAS,W (+6),0,31:05,8,15,.533,1,5,.200,0,2,.000,0,4,4,6,3,0,2,3,17,14.1,0,Nate Robinson
+2008-11-09,24-162,NYK,HOME,UTA,W (+8),0,24:36,4,10,.400,0,2,.000,2,2,1.000,0,2,2,2,4,0,1,2,10,8.8,+1,Nate Robinson
+2008-11-11,24-164,NYK,AWAY,SAS,L (-12),0,34:42,2,11,.182,1,5,.200,0,0,,4,3,7,2,1,0,3,4,5,-0.4,0,Nate Robinson
+2008-11-12,24-165,NYK,AWAY,MEM,W (+29),0,29:37,8,8,1.000,5,5,1.000,0,0,,1,2,3,5,1,0,2,2,21,21.6,+18,Nate Robinson
+2008-11-14,24-167,NYK,HOME,OKC,W (+10),0,25:43,6,13,.462,1,4,.250,2,4,.500,2,2,4,5,3,0,1,3,15,13.8,-5,Nate Robinson
+2008-11-16,24-169,NYK,HOME,DAL,L (-10),0,28:26,3,11,.273,2,6,.333,0,0,,2,2,4,6,1,0,2,5,8,4.7,-8,Nate Robinson
+2008-11-18,24-171,NYK,AWAY,BOS,L (-9),0,30:46,5,9,.556,2,5,.400,2,2,1.000,0,3,3,4,0,0,0,2,14,12.6,-4,Nate Robinson
+2008-11-21,24-174,NYK,AWAY,MIL,L (-17),1,40:35,7,21,.333,1,6,.167,4,5,.800,2,8,10,4,0,0,4,2,19,8.5,-15,Nate Robinson
+2008-11-22,24-175,NYK,HOME,WAS,W (+5),1,41:27,10,14,.714,4,7,.571,3,3,1.000,3,3,6,6,1,0,4,5,27,23.4,+10,Nate Robinson
+2008-11-25,24-178,NYK,HOME,CLE,L (-18),1,18:29,2,5,.400,0,1,.000,0,0,,0,3,3,1,0,0,2,0,4,0.9,-20,Nate Robinson
+2008-11-26,24-179,NYK,AWAY,DET,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nate Robinson
+2008-11-29,24-182,NYK,HOME,GSW,W (+13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nate Robinson
+2008-12-02,24-185,NYK,HOME,POR,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nate Robinson
+2008-12-03,24-186,NYK,AWAY,CLE,L (-36),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nate Robinson
+2008-12-05,24-188,NYK,AWAY,ATL,L (-3),0,13:16,2,6,.333,0,2,.000,0,0,,0,0,0,3,0,0,2,0,4,0.7,-2,Nate Robinson
+2008-12-07,24-190,NYK,HOME,DET,W (+12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nate Robinson
+2008-12-09,24-192,NYK,AWAY,CHI,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nate Robinson
+2008-12-10,24-193,NYK,AWAY,NJN,W (+12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nate Robinson
+2008-12-13,24-196,NYK,AWAY,SAC,W (+24),1,33:41,8,15,.533,2,6,.333,1,4,.250,0,2,2,3,0,0,2,3,19,10.0,+26,Nate Robinson
+2008-12-15,24-198,NYK,AWAY,PHO,L (-8),0,35:41,12,27,.444,1,10,.100,2,2,1.000,3,6,9,5,3,0,0,2,27,22.5,-4,Nate Robinson
+2008-12-16,24-199,NYK,AWAY,LAL,L (-2),0,32:34,9,16,.563,3,7,.429,12,12,1.000,1,1,2,5,1,0,5,3,33,24.7,+1,Nate Robinson
+2008-12-19,24-202,NYK,HOME,MIL,L (-24),1,41:09,7,17,.412,2,6,.333,5,6,.833,3,2,5,4,2,1,3,5,21,14.7,-12,Nate Robinson
+2008-12-21,24-204,NYK,AWAY,BOS,L (-19),0,37:47,7,12,.583,4,6,.667,5,5,1.000,1,3,4,3,1,0,2,5,23,18.1,-2,Nate Robinson
+2008-12-26,24-209,NYK,HOME,MIN,L (-13),1,37:23,9,22,.409,2,6,.333,6,6,1.000,5,5,10,3,1,0,3,3,26,18.1,-17,Nate Robinson
+2008-12-28,24-211,NYK,HOME,DEN,L (-7),0,30:36,5,17,.294,3,8,.375,7,7,1.000,1,1,2,4,2,0,1,2,20,14.1,-16,Nate Robinson
+2008-12-30,24-213,NYK,AWAY,CHA,W (+4),0,28:56,2,11,.182,0,6,.000,2,2,1.000,0,3,3,2,3,0,4,3,6,-0.8,-4,Nate Robinson
+2009-01-02,24-216,NYK,HOME,IND,L (-2),0,31:52,4,14,.286,1,6,.167,6,7,.857,1,4,5,4,1,0,0,2,15,11.3,+9,Nate Robinson
+2009-01-04,24-218,NYK,HOME,BOS,W (+12),0,19:48,1,4,.250,1,2,.500,1,4,.250,1,1,2,4,2,0,0,0,4,6.2,-8,Nate Robinson
+2009-01-06,24-220,NYK,AWAY,OKC,L (-8),0,34:23,4,18,.222,0,7,.000,4,4,1.000,2,4,6,1,0,0,1,5,12,1.3,+6,Nate Robinson
+2009-01-08,24-222,NYK,AWAY,DAL,L (-5),0,25:48,4,16,.250,1,9,.111,0,0,,0,4,4,1,3,0,2,1,9,1.9,-4,Nate Robinson
+2009-01-10,24-224,NYK,AWAY,HOU,L (-20),0,32:54,6,13,.462,0,4,.000,5,5,1.000,1,5,6,2,2,0,1,1,17,14.5,-12,Nate Robinson
+2009-01-12,24-226,NYK,AWAY,NOH,W (+6),0,18:43,3,8,.375,1,5,.200,0,0,,0,1,1,1,2,0,0,2,7,4.8,+8,Nate Robinson
+2009-01-14,24-228,NYK,HOME,WAS,W (+6),0,18:33,1,4,.250,0,2,.000,2,2,1.000,0,0,0,1,1,1,0,1,4,3.6,-6,Nate Robinson
+2009-01-16,24-230,NYK,AWAY,WAS,L (-7),0,20:22,5,14,.357,2,6,.333,0,0,,0,2,2,2,1,0,1,1,12,5.8,-7,Nate Robinson
+2009-01-17,24-231,NYK,HOME,PHI,L (-10),0,24:43,4,10,.400,0,2,.000,1,1,1.000,1,1,2,7,0,0,2,2,9,6.7,+4,Nate Robinson
+2009-01-19,24-233,NYK,HOME,CHI,W (+4),0,20:19,4,9,.444,0,2,.000,4,6,.667,1,2,3,3,1,0,1,1,12,9.5,+8,Nate Robinson
+2009-01-21,24-235,NYK,HOME,PHO,W (+5),0,25:44,7,13,.538,2,4,.500,4,5,.800,2,2,4,4,4,0,2,3,20,18.9,+24,Nate Robinson
+2009-01-23,24-237,NYK,HOME,MEM,W (+20),0,30:11,5,9,.556,3,6,.500,3,4,.750,2,4,6,3,1,0,1,3,16,14.8,+32,Nate Robinson
+2009-01-24,24-238,NYK,AWAY,PHI,L (-6),0,35:39,10,20,.500,4,10,.400,2,2,1.000,1,2,3,6,1,0,0,3,26,21.3,+10,Nate Robinson
+2009-01-26,24-240,NYK,HOME,HOU,W (+6),0,26:59,8,15,.533,1,4,.250,2,2,1.000,0,6,6,2,0,0,0,1,19,14.5,+13,Nate Robinson
+2009-01-28,24-242,NYK,HOME,ATL,W (+8),0,24:43,8,15,.533,2,5,.400,6,7,.857,3,1,4,3,2,0,1,3,24,20.6,+1,Nate Robinson
+2009-01-31,24-245,NYK,AWAY,IND,W (+9),0,27:48,5,10,.500,2,4,.500,2,4,.500,1,2,3,6,1,1,2,5,14,11.4,+13,Nate Robinson
+2009-02-02,24-247,NYK,HOME,LAL,L (-9),0,27:06,4,14,.286,0,4,.000,5,5,1.000,0,2,2,1,1,0,3,2,13,3.3,-6,Nate Robinson
+2009-02-04,24-249,NYK,HOME,CLE,L (-5),0,27:35,5,9,.556,1,3,.333,0,0,,0,1,1,4,0,0,1,3,11,7.6,+3,Nate Robinson
+2009-02-06,24-251,NYK,HOME,BOS,L (-10),0,25:03,4,12,.333,2,6,.333,3,3,1.000,0,1,1,4,0,0,2,2,13,6.5,-6,Nate Robinson
+2009-02-08,24-253,NYK,AWAY,POR,L (-1),0,29:39,8,16,.500,3,8,.375,0,0,,2,2,4,4,1,0,1,3,19,14.6,+3,Nate Robinson
+2009-02-10,24-255,NYK,AWAY,GSW,L (-17),0,39:20,12,22,.545,3,7,.429,3,8,.375,2,4,6,3,1,0,2,4,30,19.5,-11,Nate Robinson
+2009-02-11,24-256,NYK,AWAY,LAC,L (-4),1,51:33,13,28,.464,2,11,.182,5,5,1.000,2,7,9,15,5,0,1,4,33,35.0,+5,Nate Robinson
+2009-02-17,24-262,NYK,HOME,SAS,W (+5),0,38:19,13,23,.565,4,8,.500,2,3,.667,3,7,10,3,1,0,1,2,32,26.2,+5,Nate Robinson
+2009-02-20,24-265,NYK,HOME,TOR,W (+30),0,27:54,10,18,.556,4,8,.500,2,3,.667,1,4,5,7,1,1,1,5,26,22.5,+13,Nate Robinson
+2009-02-22,24-267,NYK,AWAY,TOR,L (-11),0,33:00,7,16,.438,0,1,.000,4,4,1.000,1,3,4,8,2,0,2,2,18,16.0,-5,Nate Robinson
+2009-02-23,24-268,NYK,HOME,IND,W (+4),0,35:57,11,18,.611,4,6,.667,15,19,.789,4,4,8,3,2,0,1,3,41,37.1,+7,Nate Robinson
+2009-02-25,24-270,NYK,HOME,ORL,L (-5),0,36:16,11,26,.423,2,8,.250,8,10,.800,2,1,3,4,0,0,4,5,32,15.9,-4,Nate Robinson
+2009-02-27,24-272,NYK,HOME,PHI,L (-5),0,29:14,4,9,.444,2,4,.500,4,4,1.000,1,1,2,3,1,0,2,4,14,9.8,-1,Nate Robinson
+2009-02-28,24-273,NYK,AWAY,MIA,L (-5),0,32:50,10,21,.476,5,10,.500,4,5,.800,5,3,8,4,0,0,2,5,29,21.1,+1,Nate Robinson
+2009-03-04,24-277,NYK,HOME,ATL,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nate Robinson
+2009-03-07,24-280,NYK,HOME,CHA,L (-9),0,31:07,5,15,.333,1,4,.250,9,9,1.000,2,1,3,4,2,0,3,3,20,13.8,+4,Nate Robinson
+2009-03-08,24-281,NYK,AWAY,NJN,L (-5),0,24:33,7,13,.538,1,4,.250,2,2,1.000,0,3,3,5,1,0,1,3,17,13.9,-3,Nate Robinson
+2009-03-10,24-283,NYK,AWAY,MIL,W (+8),0,31:33,10,17,.588,1,3,.333,11,12,.917,0,1,1,7,4,0,7,4,32,24.3,+1,Nate Robinson
+2009-03-11,24-284,NYK,AWAY,DET,W (+5),0,37:24,9,22,.409,2,8,.250,10,10,1.000,0,3,3,6,0,0,0,4,30,21.7,+1,Nate Robinson
+2009-03-13,24-286,NYK,AWAY,MIN,W (+8),1,37:26,5,15,.333,1,3,.333,14,17,.824,3,3,6,7,2,0,4,3,25,20.0,+14,Nate Robinson
+2009-03-15,24-288,NYK,AWAY,CLE,L (-5),1,39:52,9,21,.429,1,5,.200,1,1,1.000,3,0,3,7,0,0,1,2,20,14.1,+1,Nate Robinson
+2009-03-18,24-291,NYK,HOME,NJN,L (-26),1,36:15,7,16,.438,0,3,.000,4,5,.800,3,2,5,2,1,0,2,2,18,11.5,-23,Nate Robinson
+2009-03-20,24-293,NYK,HOME,SAC,L (-27),1,40:05,6,14,.429,2,5,.400,5,7,.714,0,2,2,3,2,1,1,3,19,14.0,-21,Nate Robinson
+2009-03-21,24-294,NYK,AWAY,ORL,L (-7),0,34:57,9,19,.474,3,7,.429,6,7,.857,2,3,5,3,0,0,6,2,27,14.5,+2,Nate Robinson
+2009-03-23,24-296,NYK,HOME,ORL,L (-4),0,31:54,6,23,.261,1,7,.143,6,7,.857,2,5,7,6,0,0,4,4,19,6.4,-8,Nate Robinson
+2009-03-25,24-298,NYK,HOME,LAC,L (-5),0,17:56,6,8,.750,1,3,.333,0,0,,1,2,3,4,1,0,1,3,13,12.7,-7,Nate Robinson
+2009-03-27,24-300,NYK,HOME,NOH,W (+10),0,19:02,4,8,.500,0,1,.000,0,0,,0,1,1,4,0,0,3,3,8,2.9,+3,Nate Robinson
+2009-03-28,24-301,NYK,AWAY,CHA,L (-11),0,30:53,4,12,.333,3,7,.429,2,2,1.000,1,1,2,3,1,0,4,1,13,5.9,+5,Nate Robinson
+2009-03-30,24-303,NYK,AWAY,UTA,L (-8),0,21:56,3,7,.429,1,3,.333,4,4,1.000,0,1,1,4,1,0,1,3,11,9.2,0,Nate Robinson
+2009-03-31,24-304,NYK,AWAY,DEN,L (-7),0,30:27,9,16,.563,4,8,.500,8,9,.889,0,4,4,3,0,0,1,4,30,22.7,-4,Nate Robinson
+2009-04-04,24-308,NYK,HOME,TOR,L (-7),0,28:08,3,11,.273,1,4,.250,0,0,,0,4,4,3,2,1,1,3,7,4.3,+5,Nate Robinson
+2009-04-05,24-309,NYK,AWAY,TOR,W (+9),0,28:20,5,14,.357,1,4,.250,2,2,1.000,0,1,1,7,0,0,2,2,13,7.6,+12,Nate Robinson
+2009-04-07,24-311,NYK,AWAY,CHI,L (-7),0,23:26,2,9,.222,2,4,.500,0,0,,0,1,1,4,1,0,1,2,6,2.8,-17,Nate Robinson
+2009-04-08,24-312,NYK,HOME,DET,L (-27),0,32:37,2,13,.154,0,4,.000,0,0,,2,2,4,4,0,0,1,2,4,-1.3,-11,Nate Robinson
+2009-04-10,24-314,NYK,AWAY,ORL,W (+10),0,19:32,4,6,.667,2,3,.667,0,2,.000,0,2,2,3,1,0,1,2,10,8.5,-4,Nate Robinson
+2009-04-12,24-316,NYK,AWAY,MIA,L (-17),0,18:21,1,6,.167,1,3,.333,2,2,1.000,2,1,3,4,0,0,3,1,5,2.3,-3,Nate Robinson
+2009-04-15,24-319,NYK,HOME,NJN,W (+29),0,31:55,4,12,.333,0,6,.000,4,4,1.000,3,3,6,4,2,0,1,3,12,10.8,+19,Nate Robinson
+2008-11-09,24-018,DEN,HOME,MEM,W (+10),0,1:17,0,2,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-1.4,0,Cheikh Samb
+2008-11-11,24-020,DEN,AWAY,CHA,W (+8),0,4:24,0,3,.000,0,0,,0,0,,2,0,2,0,0,0,0,0,0,-0.7,+1,Cheikh Samb
+2008-11-18,24-027,DEN,HOME,MIL,W (+9),0,4:14,0,0,,0,0,,0,0,,0,1,1,0,0,1,1,0,0,0.0,-5,Cheikh Samb
+2008-11-19,24-028,DEN,AWAY,SAS,W (+10),0,1:22,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-2.1,-6,Cheikh Samb
+2008-12-02,24-041,DEN,HOME,TOR,W (+39),0,7:41,2,4,.500,0,0,,0,0,,0,6,6,1,0,2,0,2,4,5.1,+6,Cheikh Samb
+2008-12-06,24-045,DEN,AWAY,SAC,W (+33),0,5:22,0,3,.000,0,1,.000,0,0,,0,0,0,0,2,2,0,1,0,0.9,+4,Cheikh Samb
+2009-01-06,24-076,LAC,AWAY,DAL,L (-5),0,2:31,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3,Cheikh Samb
+2009-01-08,24-078,LAC,AWAY,SAS,L (-22),0,3:47,1,1,1.000,0,0,,0,0,,1,0,1,0,0,0,0,0,2,2.4,+2,Cheikh Samb
+2009-01-09,24-079,LAC,AWAY,NOH,L (-27),0,2:32,0,0,,0,0,,1,2,.500,0,0,0,0,0,0,0,0,1,0.6,-4,Cheikh Samb
+2009-01-14,24-084,LAC,HOME,ATL,L (-17),0,0:52,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,Cheikh Samb
+2009-01-23,24-093,LAC,HOME,OKC,W (+3),0,22:46,1,7,.143,0,0,,0,0,,4,4,8,0,1,3,0,3,2,3.4,+4,Cheikh Samb
+2009-01-25,24-095,LAC,AWAY,GSW,L (-15),0,10:17,2,6,.333,0,1,.000,2,3,.667,2,0,2,0,0,2,1,0,6,4.0,-2,Cheikh Samb
+2009-01-26,24-096,LAC,HOME,POR,L (-25),0,4:48,0,2,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-1.1,+2,Cheikh Samb
+2009-01-30,24-100,LAC,AWAY,CLE,L (-17),0,1:11,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2,Cheikh Samb
+2009-02-06,24-107,LAC,AWAY,MEM,W (+21),0,1:14,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,0,Cheikh Samb
+2009-02-09,24-110,LAC,AWAY,CHA,L (-21),0,1:12,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1,Cheikh Samb
+2009-03-18,24-147,NYK,HOME,NJN,L (-26),0,3:34,0,1,.000,0,0,,0,2,.000,0,0,0,0,0,0,0,0,0,-1.5,-2,Cheikh Samb
+2009-03-20,24-149,NYK,HOME,SAC,L (-27),0,4:04,0,2,.000,0,0,,0,0,,1,1,2,0,0,0,0,0,0,-0.4,+2,Cheikh Samb
+2008-11-12,22-184,OKC,HOME,ORL,L (-17),0,3:33,0,0,,0,0,,1,2,.500,0,2,2,0,0,0,0,0,1,1.2,+7,Mouhamed Sene
+2008-11-15,22-187,OKC,AWAY,PHI,L (-25),0,6:03,3,4,.750,0,0,,0,0,,1,2,3,0,0,0,1,0,6,4.7,0,Mouhamed Sene
+2008-11-19,22-191,OKC,HOME,LAC,L (-20),0,1:37,1,1,1.000,0,0,,0,0,,0,0,0,0,0,1,0,0,2,2.4,0,Mouhamed Sene
+2008-11-21,22-193,OKC,HOME,NOH,L (-25),0,5:44,1,2,.500,0,0,,2,3,.667,2,2,4,0,0,0,1,1,4,3.2,+1,Mouhamed Sene
+2008-11-26,22-198,OKC,AWAY,CLE,L (-35),0,5:35,0,0,,0,0,,4,4,1.000,0,0,0,0,1,1,1,1,4,4.3,-3,Mouhamed Sene
+2009-04-15,22-338,NYK,HOME,NJN,W (+29),0,5:35,1,2,.500,0,0,,1,1,1.000,2,3,5,0,0,1,1,0,3,4.0,0,Mouhamed Sene
+2009-02-22,25-124,PHO,HOME,BOS,L (-20),0,1:59,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,-1,Courtney Sims
+2009-04-08,25-169,NYK,HOME,DET,L (-27),0,11:18,3,6,.500,0,0,,0,0,,2,2,4,0,0,0,0,1,6,4.6,+2,Courtney Sims

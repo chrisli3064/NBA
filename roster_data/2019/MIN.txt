@@ -1,0 +1,22 @@
+PLAYER,BIRTH_DATE
+Keita Bates-Diop,1996-01-23
+Jerryd Bayless,1988-08-20
+Jimmy Butler,1989-09-14
+Isaiah Canaan,1991-05-21
+Robert Covington,1990-12-14
+Mitch Creek,1992-04-27
+Luol Deng,1985-04-16
+Gorgui Dieng,1990-01-18
+Taj Gibson,1985-06-24
+Tyus Jones,1996-05-10
+James Nunnally,1990-07-14
+Josh Okogie,1998-09-01
+Cameron Reynolds,1995-02-07
+Derrick Rose,1988-10-04
+Dario Šarić,1994-04-08
+Jeff Teague,1988-06-10
+Jared Terrell,1995-02-10
+Anthony Tolliver,1985-06-01
+Karl-Anthony Towns,1995-11-15
+Andrew Wiggins,1995-02-23
+C.J. Williams,1990-02-06

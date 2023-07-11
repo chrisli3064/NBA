@@ -1,0 +1,23 @@
+PLAYER,BIRTH_DATE
+Jerrelle Benimon,1991-08-01
+Trevor Booker,1987-11-25
+Trey Burke,1992-11-12
+Alec Burks,1991-07-20
+Patrick Christopher,1988-06-03
+Ian Clark,1991-03-07
+Jack Cooley,1991-04-12
+Bryce Cotton,1992-08-11
+Jeremy Evans,1987-10-24
+Dante Exum,1995-07-13
+Derrick Favors,1991-07-15
+Enes Freedom,1992-05-20
+Rudy Gobert,1992-06-26
+Gordon Hayward,1990-03-23
+Rodney Hood,1992-10-20
+Joe Ingles,1987-10-02
+Grant Jerrett,1993-07-08
+Chris Johnson,1990-04-29
+Elijah Millsap,1987-08-12
+Toure' Murry,1989-11-08
+Steve Novak,1983-06-13
+Elliot Williams,1989-06-20

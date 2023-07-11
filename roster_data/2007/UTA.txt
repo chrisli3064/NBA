@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Lou Amundson,1982-12-07
+Rafael Araújo,1980-08-12
+Carlos Boozer,1981-11-20
+Ronnie Brewer,1985-03-20
+Dee Brown,1984-08-17
+Jarron Collins,1978-12-02
+Derek Fisher,1974-08-09
+Gordan Giriček,1977-06-20
+Matt Harpring,1976-05-31
+Andrei Kirilenko,1981-02-18
+C.J. Miles,1987-03-18
+Paul Millsap,1985-02-10
+Mehmet Okur,1979-05-26
+Roger Powell,1983-01-15
+Deron Williams,1984-06-26

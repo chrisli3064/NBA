@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+Bradley Beal,1993-06-28
+DeJuan Blair,1989-04-22
+Rasual Butler,1979-05-23
+Will Bynum,1983-01-04
+Drew Gooden,1981-09-24
+Marcin Gortat,1984-02-17
+Nenê,1982-09-13
+Kris Humphries,1985-02-06
+Andre Miller,1976-03-19
+Toure' Murry,1989-11-08
+Paul Pierce,1977-10-13
+Otto Porter Jr.,1993-06-03
+Glen Rice Jr.,1991-01-01
+Kevin Séraphin,1989-12-07
+Ramon Sessions,1986-04-11
+Garrett Temple,1986-05-08
+John Wall,1990-09-06
+Martell Webster,1986-12-04

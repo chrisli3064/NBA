@@ -1,0 +1,23 @@
+PLAYER,BIRTH_DATE
+Mookie Blaylock,1967-03-20
+Corie Blount,1969-01-04
+Chucky Brown,1968-02-29
+John Coker,1971-10-28
+Vonteego Cummings,1976-02-29
+Bill Curley,1972-05-29
+Erick Dampier,1975-07-14
+Vinny Del Negro,1966-08-09
+Danny Fortson,1976-03-27
+Adonal Foyle,1975-03-09
+Rubén Garcés,1973-10-17
+Chris Garner,1975-02-02
+Larry Hughes,1979-01-23
+Marc Jackson,1975-01-16
+Antawn Jamison,1976-06-12
+Adam Keefe,1970-02-22
+Randy Livingston,1975-04-02
+Paul McPherson,1978-07-03
+Chris Mills,1970-01-25
+Chris Mullin,1963-07-30
+Chris Porter,1978-05-09
+Bob Sura,1973-03-25

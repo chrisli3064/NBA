@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+Harrison Barnes,1992-05-30
+Kent Bazemore,1989-07-01
+Andris Biedriņš,1986-04-02
+Andrew Bogut,1984-11-28
+Stephen Curry,1988-03-14
+Festus Ezeli,1989-10-21
+Draymond Green,1990-03-04
+Jarrett Jack,1983-10-28
+Richard Jefferson,1980-06-21
+Charles Jenkins,1989-02-28
+Dwayne Jones,1983-06-09
+Carl Landry,1983-09-19
+David Lee,1983-04-29
+Scott Machado,1990-06-08
+Brandon Rush,1985-07-07
+Malcolm Thomas,1988-11-08
+Klay Thompson,1990-02-08
+Jeremy Tyler,1991-06-21

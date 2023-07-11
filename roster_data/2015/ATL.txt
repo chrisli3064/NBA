@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Pero Antić,1982-07-29
+Kent Bazemore,1989-07-01
+Elton Brand,1979-03-11
+DeMarre Carroll,1986-07-27
+Austin Daye,1988-06-05
+Al Horford,1986-06-03
+John Jenkins,1991-03-06
+Kyle Korver,1981-03-17
+Shelvin Mack,1990-04-22
+Paul Millsap,1985-02-10
+Mike Muscala,1991-07-01
+Adreian Payne,1991-02-19
+Dennis Schröder,1993-09-15
+Mike Scott,1988-07-16
+Thabo Sefolosha,1984-05-02
+Jeff Teague,1988-06-10

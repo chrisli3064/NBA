@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Brandon Armstrong,1980-06-16
+Chris Childs,1967-11-20
+Jason Collins,1978-12-02
+Lucious Harris,1970-12-18
+Richard Jefferson,1980-06-21
+Anthony Johnson,1974-10-02
+Jason Kidd,1973-03-23
+Kerry Kittles,1974-06-12
+Donny Marshall,1972-07-17
+Kenyon Martin,1977-12-30
+Dikembe Mutombo,1966-06-25
+Rodney Rogers,1971-06-20
+Brian Scalabrine,1978-03-18
+Tamar Slay,1980-04-02
+Aaron Williams,1971-10-02

@@ -1,0 +1,22 @@
+PLAYER,BIRTH_DATE
+Ryan Anderson,1988-05-06
+Bruno Caboclo,1995-09-21
+Clint Capela,1994-05-18
+DeMarre Carroll,1986-07-27
+Tyson Chandler,1982-10-02
+Gary Clark,1994-11-16
+Chris Clemons,1997-07-23
+Robert Covington,1990-12-14
+Michael Frazier,1994-03-08
+Eric Gordon,1988-12-25
+Jeff Green,1986-08-28
+James Harden,1989-08-26
+Isaiah Hartenstein,1998-05-05
+Danuel House Jr.,1993-06-07
+William Howard,1993-10-25
+Luc Mbah a Moute,1986-09-09
+Ben McLemore,1993-02-11
+Austin Rivers,1992-08-01
+Thabo Sefolosha,1984-05-02
+P.J. Tucker,1985-05-05
+Russell Westbrook,1988-11-12

@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Cory Alexander,1973-06-22
+John Amaechi,1970-11-26
+Darrell Armstrong,1968-06-22
+Dee Brown,1968-11-29
+Andrew DeClercq,1973-02-01
+Michael Doleac,1977-06-15
+Pat Garrity,1976-08-23
+Grant Hill,1972-10-05
+Troy Hudson,1976-03-13
+Tracy McGrady,1979-05-24
+Mike Miller,1980-02-19
+Bo Outlaw,1971-04-13
+Elliot Perry,1969-03-28
+Don Reid,1973-12-30
+James Robinson,1970-08-31
+Monty Williams,1971-10-08

@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+Grayson Allen,1995-10-08
+Kyle Anderson,1993-09-20
+Desmond Bane,1998-06-25
+Dillon Brooks,1996-01-22
+Brandon Clarke,1996-09-19
+Gorgui Dieng,1990-01-18
+Tim Frazier,1990-11-01
+Jaren Jackson Jr.,1999-09-15
+Tyus Jones,1996-05-10
+John Konchar,1996-03-22
+Sean McDermott,1996-11-03
+De'Anthony Melton,1998-05-28
+Ja Morant,1999-08-10
+Jontay Porter,1999-11-15
+Killian Tillie,1998-03-05
+Xavier Tillman Sr.,1999-01-12
+Jonas Valančiūnas,1992-05-06
+Justise Winslow,1996-03-26

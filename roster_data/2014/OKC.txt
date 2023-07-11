@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+Steven Adams,1993-07-20
+Caron Butler,1980-03-13
+Nick Collison,1980-10-26
+Kevin Durant,1988-09-29
+Derek Fisher,1974-08-09
+Ryan Gomes,1982-09-01
+Serge Ibaka,1989-09-18
+Royal Ivey,1981-12-20
+Reggie Jackson,1990-04-16
+Perry Jones,1991-09-24
+Jeremy Lamb,1992-05-30
+Kendrick Perkins,1984-11-10
+Andre Roberson,1991-12-04
+Thabo Sefolosha,1984-05-02
+Mustafa Shakur,1984-08-18
+Hasheem Thabeet,1987-02-16
+Russell Westbrook,1988-11-12
+Reggie Williams,1986-09-14

@@ -1,0 +1,21 @@
+PLAYER,BIRTH_DATE
+Muggsy Bogues,1965-01-09
+Vince Carter,1977-01-26
+Chris Childs,1967-11-20
+Keon Clark,1975-04-16
+Tyrone Corbin,1962-12-31
+Dell Curry,1964-06-25
+Kornél Dávid,1971-10-22
+Antonio Davis,1968-10-31
+Mark Jackson,1965-04-01
+Garth Joseph,1973-08-08
+Eric Montross,1971-09-23
+Tracy Murray,1971-07-25
+Mamadou N'Diaye,1975-06-16
+Charles Oakley,1963-12-18
+Morris Peterson,1977-08-26
+Michael Stewart,1975-04-25
+Alvin Williams,1974-08-06
+Jerome Williams,1973-05-10
+Corliss Williamson,1973-12-04
+Kevin Willis,1962-09-06

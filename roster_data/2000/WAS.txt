@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Isaac Austin,1969-08-18
+Calvin Booth,1976-05-07
+Richard Hamilton,1978-02-14
+Juwan Howard,1973-02-07
+Reggie Jordan,1968-01-26
+Gerard King,1972-11-25
+Tracy Murray,1971-07-25
+Laron Profit,1977-08-05
+Don Reid,1973-12-30
+Mitch Richmond,1965-06-30
+Michael Smith,1972-03-28
+Rod Strickland,1966-07-11
+Jahidi White,1976-02-19
+Chris Whitney,1971-10-05
+Aaron Williams,1971-10-02
+Lorenzo Williams,1969-07-15

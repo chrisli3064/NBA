@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Jonathan Bender,1981-01-30
+Travis Best,1972-07-12
+Austin Croshere,1975-05-01
+Tyus Edney,1973-02-14
+Jeff Foster,1977-01-16
+Al Harrington,1980-02-17
+Lari Ketner,1977-02-01
+Derrick McKey,1966-10-10
+Reggie Miller,1965-08-24
+Terry Mills,1967-12-21
+Jermaine O'Neal,1978-10-13
+Sam Perkins,1961-06-14
+Jalen Rose,1973-01-30
+Bruno Šundov,1980-02-10
+Žan Tabak,1970-06-15

@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Carlos Arroyo,1979-07-30
+Michael Bradley,1979-04-18
+Vince Carter,1977-01-26
+Chris Childs,1967-11-20
+Keon Clark,1975-04-16
+Dell Curry,1964-06-25
+Antonio Davis,1968-10-31
+Derrick Dial,1975-12-20
+Jermaine Jackson,1976-06-07
+Eric Montross,1971-09-23
+Tracy Murray,1971-07-25
+Mamadou N'Diaye,1975-06-16
+Hakeem Olajuwon,1963-01-21
+Morris Peterson,1977-08-26
+Michael Stewart,1975-04-25
+Alvin Williams,1974-08-06
+Jerome Williams,1973-05-10

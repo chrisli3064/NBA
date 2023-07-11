@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Chris Andersen,1978-07-07
+Carmelo Anthony,1984-05-29
+Chucky Atkins,1974-08-14
+Renaldo Balkman,1984-07-14
+Chauncey Billups,1976-09-25
+Anthony Carter,1975-06-16
+Jason Hart,1978-04-29
+Nenê,1982-09-13
+Juwan Howard,1973-02-07
+Allen Iverson,1975-06-07
+Dahntay Jones,1980-12-27
+Linas Kleiza,1985-01-03
+Kenyon Martin,1977-12-30
+Johan Petro,1986-01-27
+Cheikh Samb,1984-10-22
+J.R. Smith,1985-09-09
+Sonny Weems,1986-07-08

@@ -1,0 +1,27 @@
+PLAYER,BIRTH_DATE
+Darius Bazley,2000-06-12
+Gabriel Deck,1995-02-08
+Mamadi Diakite,1997-01-21
+Luguentz Dort,1999-04-19
+Rob Edwards,1997-01-20
+Derrick Favors,1991-07-15
+Melvin Frazier,1996-08-30
+Josh Giddey,2002-10-10
+Shai Gilgeous-Alexander,1998-07-12
+Jaylen Hoard,1999-03-30
+Scotty Hopson,1989-08-08
+Ty Jerome,1997-07-08
+Georgios Kalaitzakis,1999-01-02
+Vit Krejci,2000-06-19
+Théo Maledon,2001-06-12
+Tre Mann,2001-02-03
+Mike Muscala,1991-07-01
+Aleksej Pokusevski,2001-12-26
+Jeremiah Robinson-Earl,2000-11-03
+Isaiah Roby,1998-02-03
+Olivier Sarr,1999-02-20
+Zavier Simpson,1997-02-11
+Lindy Waters III,1997-07-28
+Paul Watson,1994-12-30
+Aaron Wiggins,1999-01-02
+Kenrich Williams,1994-12-02

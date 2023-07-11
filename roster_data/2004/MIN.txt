@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Sam Cassell,1969-11-18
+Ndudi Ebi,1984-06-18
+Kevin Garnett,1976-05-19
+Anthony Goldwire,1971-09-06
+Trenton Hassell,1979-03-04
+Fred Hoiberg,1972-10-15
+Troy Hudson,1976-03-13
+Ervin Johnson,1967-12-21
+Quincy Lewis,1977-06-26
+Mark Madsen,1976-01-28
+Darrick Martin,1971-03-06
+Keith McLeod,1979-11-05
+Oliver Miller,1970-04-06
+Michael Olowokandi,1975-04-03
+Latrell Sprewell,1970-09-08
+Wally Szczerbiak,1977-03-05
+Gary Trent,1974-09-22

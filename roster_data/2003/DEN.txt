@@ -1,0 +1,22 @@
+PLAYER,BIRTH_DATE
+Chris Andersen,1978-07-07
+Mark Blount,1975-11-30
+Ryan Bowen,1975-11-20
+Devin Brown,1978-12-30
+Mark Bryant,1965-04-25
+Marcus Camby,1974-03-22
+John Crotty,1969-07-15
+Adam Harrington,1980-07-05
+Junior Harrington,1980-10-02
+Donnell Harvey,1980-08-26
+Nenê,1982-09-13
+Juwan Howard,1973-02-07
+James Posey,1977-01-13
+Kenny Satterfield,1981-04-10
+Predrag Savović,1976-05-21
+Jeff Trepagnier,1979-07-11
+Nikoloz Tskitishvili,1983-04-14
+Rodney White,1980-06-28
+Chris Whitney,1971-10-05
+Shammond Williams,1975-04-05
+Vincent Yarbrough,1981-03-21

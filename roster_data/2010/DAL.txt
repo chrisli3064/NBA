@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+J.J. Barea,1984-06-26
+Rodrigue Beaubois,1988-02-24
+Caron Butler,1980-03-13
+Matt Carroll,1980-08-28
+Erick Dampier,1975-07-14
+Drew Gooden,1981-09-24
+Brendan Haywood,1979-11-27
+Josh Howard,1980-04-28
+Kris Humphries,1985-02-06
+Jason Kidd,1973-03-23
+Shawn Marion,1978-05-07
+Eduardo Nájera,1976-07-11
+Dirk Nowitzki,1978-06-19
+Quinton Ross,1981-04-30
+James Singleton,1981-07-20
+DeShawn Stevenson,1981-04-03
+Jason Terry,1977-09-15
+Tim Thomas,1977-02-26

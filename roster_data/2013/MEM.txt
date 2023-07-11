@@ -1,0 +1,21 @@
+PLAYER,BIRTH_DATE
+Tony Allen,1982-01-11
+Darrell Arthur,1988-03-25
+Jerryd Bayless,1988-08-20
+Mike Conley,1987-10-11
+Ed Davis,1989-06-05
+Austin Daye,1988-06-05
+Keyon Dooling,1980-05-08
+Wayne Ellington,1987-11-29
+Marc Gasol,1985-01-29
+Rudy Gay,1986-08-17
+Hamed Haddadi,1985-05-19
+Chris Johnson,1990-04-29
+Jon Leuer,1989-05-14
+Dexter Pittman,1988-03-02
+Quincy Pondexter,1988-03-10
+Tayshaun Prince,1980-02-28
+Zach Randolph,1981-07-16
+Josh Selby,1991-03-27
+Marreese Speights,1987-08-04
+Tony Wroten,1993-04-13

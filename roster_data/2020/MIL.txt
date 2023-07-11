@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Giannis Antetokounmpo,1994-12-06
+Thanasis Antetokounmpo,1992-07-18
+Dragan Bender,1997-11-17
+Eric Bledsoe,1989-12-09
+Sterling Brown,1995-02-10
+Pat Connaughton,1993-01-06
+Donte DiVincenzo,1997-01-31
+George Hill,1986-05-04
+Ersan İlyasova,1987-05-15
+Kyle Korver,1981-03-17
+Brook Lopez,1988-04-01
+Robin Lopez,1988-04-01
+Frank Mason III,1994-04-03
+Wesley Matthews,1986-10-14
+Khris Middleton,1991-08-12
+Marvin Williams,1986-06-19
+D.J. Wilson,1996-02-19

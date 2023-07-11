@@ -1,0 +1,20 @@
+PLAYER,BIRTH_DATE
+Alan Anderson,1982-10-16
+Bradley Beal,1993-06-28
+DeJuan Blair,1989-04-22
+Jared Dudley,1985-07-10
+Jarell Eddie,1991-10-30
+Drew Gooden,1981-09-24
+Marcin Gortat,1984-02-17
+J.J. Hickson,1988-09-04
+Nenê,1982-09-13
+Ryan Hollins,1984-10-10
+Kris Humphries,1985-02-06
+Markieff Morris,1989-09-02
+Gary Neal,1984-10-03
+Kelly Oubre Jr.,1995-12-09
+Otto Porter Jr.,1993-06-03
+Ramon Sessions,1986-04-11
+Garrett Temple,1986-05-08
+Marcus Thornton,1987-06-05
+John Wall,1990-09-06

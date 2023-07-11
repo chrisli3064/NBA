@@ -1,0 +1,15 @@
+PLAYER,BIRTH_DATE
+Travis Best,1972-07-12
+Shawn Bradley,1972-03-22
+Marquis Daniels,1981-01-07
+Tony Delk,1974-01-28
+Michael Finley,1973-03-06
+Danny Fortson,1976-03-27
+Josh Howard,1980-04-28
+Antawn Jamison,1976-06-12
+Mamadou N'Diaye,1975-06-16
+Eduardo Nájera,1976-07-11
+Steve Nash,1974-02-07
+Dirk Nowitzki,1978-06-19
+Antoine Walker,1976-08-12
+Scott Williams,1968-03-21

@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+P.J. Brown,1969-10-14
+Scott Burrell,1971-01-12
+Elden Campbell,1968-07-23
+Derrick Coleman,1967-06-21
+Baron Davis,1979-04-13
+Hersey Hawkins,1966-09-29
+Tim James,1976-12-26
+Jamaal Magloire,1978-05-21
+Jamal Mashburn,1972-11-29
+Lee Nailon,1975-02-22
+Doug Overton,1969-08-03
+Eldridge Recasner,1967-12-14
+Terrance Roberson,1976-12-30
+Eddie Robinson,1976-04-19
+Otis Thorpe,1962-08-05
+David Wesley,1970-11-14

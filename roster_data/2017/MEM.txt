@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Tony Allen,1982-01-11
+Wade Baldwin,1996-03-29
+Vince Carter,1977-01-26
+Mike Conley,1987-10-11
+Troy Daniels,1991-07-15
+Deyonta Davis,1996-12-02
+Toney Douglas,1986-03-16
+James Ennis III,1990-07-01
+Marc Gasol,1985-01-29
+JaMychal Green,1990-06-21
+Andrew Harrison,1994-10-28
+Jarell Martin,1994-05-24
+Chandler Parsons,1988-10-25
+Zach Randolph,1981-07-16
+Wayne Selden,1994-09-30
+Troy Williams,1994-12-30
+Brandan Wright,1987-10-05

@@ -1,0 +1,22 @@
+PLAYER,BIRTH_DATE
+Alexis Ajinça,1988-05-06
+Al-Farouq Aminu,1990-09-21
+Lou Amundson,1982-12-07
+Ryan Anderson,1988-05-06
+Luke Babbitt,1989-06-20
+Josh Childress,1983-06-20
+Anthony Davis,1993-03-11
+Melvin Ely,1978-05-02
+Tyreke Evans,1989-09-19
+Eric Gordon,1988-12-25
+Jrue Holiday,1990-06-12
+Darius Miller,1990-03-21
+Anthony Morrow,1985-09-27
+Arinze Onuaku,1987-07-13
+Austin Rivers,1992-08-01
+Brian Roberts,1985-12-03
+Jason Smith,1986-03-02
+James Southerland,1990-04-28
+Greg Stiemsma,1985-09-26
+Lance Thomas,1988-04-24
+Jeff Withey,1990-03-07

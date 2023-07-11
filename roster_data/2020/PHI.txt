@@ -1,0 +1,20 @@
+PLAYER,BIRTH_DATE
+Jonah Bolden,1996-01-02
+Trey Burke,1992-11-12
+Alec Burks,1991-07-20
+Joel Embiid,1994-03-16
+James Ennis III,1990-07-01
+Tobias Harris,1992-07-15
+Al Horford,1986-06-03
+Furkan Korkmaz,1997-07-24
+Shake Milton,1996-09-26
+Raul Neto,1992-05-19
+Kyle O'Quinn,1990-03-26
+Norvel Pelle,1993-02-03
+Josh Richardson,1993-09-15
+Glenn Robinson III,1994-01-08
+Mike Scott,1988-07-16
+Marial Shayok,1995-07-26
+Ben Simmons,1996-07-20
+Zhaire Smith,1999-06-04
+Matisse Thybulle,1997-03-04

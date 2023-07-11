@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+OG Anunoby,1997-07-17
+Chris Boucher,1993-01-11
+Oshae Brissett,1998-06-20
+Terence Davis,1997-05-16
+Marc Gasol,1985-01-29
+Dewan Hernandez,1996-12-09
+Rondae Hollis-Jefferson,1995-01-03
+Serge Ibaka,1989-09-18
+Stanley Johnson,1996-05-29
+Kyle Lowry,1986-03-25
+Patrick McCaw,1995-10-25
+Malcolm Miller,1993-03-06
+Shamorie Ponds,1998-06-29
+Norman Powell,1993-05-25
+Pascal Siakam,1994-04-02
+Matt Thomas,1994-08-04
+Fred VanVleet,1994-02-25
+Paul Watson,1994-12-30

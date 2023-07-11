@@ -1,0 +1,24 @@
+PLAYER,BIRTH_DATE
+Earl Barron,1981-08-14
+Eric Bledsoe,1989-12-09
+Reggie Bullock,1991-03-16
+Seth Curry,1990-08-23
+Goran Dragić,1986-05-06
+Zoran Dragić,1989-06-22
+Tyler Ennis,1994-08-24
+Archie Goodwin,1994-08-17
+Gerald Green,1986-01-26
+Brandon Knight,1991-12-02
+Alex Len,1993-06-16
+Jerel McNeal,1987-06-01
+Marcus Morris,1989-09-02
+Markieff Morris,1989-09-02
+Miles Plumlee,1988-09-01
+A.J. Price,1986-10-07
+Shavlik Randolph,1983-11-24
+Isaiah Thomas,1989-02-07
+Marcus Thornton,1987-06-05
+Anthony Tolliver,1985-06-01
+P.J. Tucker,1985-05-05
+T.J. Warren,1993-09-05
+Brandan Wright,1987-10-05

@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+Grayson Allen,1995-10-08
+Tony Bradley,1998-01-08
+Alec Burks,1991-07-20
+Tyler Cavanaugh,1994-02-09
+Jae Crowder,1990-07-06
+Dante Exum,1995-07-13
+Derrick Favors,1991-07-15
+Rudy Gobert,1992-06-26
+Joe Ingles,1987-10-02
+Kyle Korver,1981-03-17
+Donovan Mitchell,1996-09-07
+Naz Mitrou-Long,1993-08-03
+Raul Neto,1992-05-19
+Georges Niang,1993-06-17
+Royce O'Neale,1993-06-05
+Ricky Rubio,1990-10-21
+Thabo Sefolosha,1984-05-02
+Ekpe Udoh,1987-05-20

@@ -1,0 +1,21 @@
+PLAYER,BIRTH_DATE
+Kelenna Azubuike,1983-12-16
+Raja Bell,1976-09-19
+Andris Biedriņš,1986-04-02
+Stephen Curry,1988-03-14
+Monta Ellis,1985-10-26
+Devean George,1977-08-29
+Chris Hunter,1984-07-07
+Stephen Jackson,1978-04-05
+Coby Karl,1983-03-06
+Acie Law,1985-01-25
+Corey Maggette,1979-11-12
+Cartier Martin,1984-11-20
+Mikki Moore,1975-11-04
+Anthony Morrow,1985-09-27
+Vladimir Radmanović,1980-11-19
+Anthony Randolph,1989-07-15
+Anthony Tolliver,1985-06-01
+Ronny Turiaf,1983-01-13
+C.J. Watson,1984-04-17
+Reggie Williams,1986-09-14

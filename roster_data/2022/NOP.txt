@@ -1,0 +1,23 @@
+PLAYER,BIRTH_DATE
+Nickeil Alexander-Walker,1998-09-02
+Jose Alvarado,1998-04-12
+Gary Clark,1994-11-16
+Devonte' Graham,1995-02-22
+Jared Harper,1997-09-14
+Josh Hart,1995-03-06
+Jaxson Hayes,2000-05-23
+Willy Hernangómez,1994-05-27
+Brandon Ingram,1997-09-02
+Alize Johnson,1996-04-22
+Herbert Jones,1998-10-06
+Kira Lewis Jr.,2001-04-06
+Didi Louzada,1999-02-07
+Naji Marshall,1998-01-24
+CJ McCollum,1991-09-19
+Trey Murphy III,2000-06-18
+Larry Nance Jr.,1993-01-01
+Tomáš Satoranský,1991-10-30
+Tony Snell,1991-11-10
+Garrett Temple,1986-05-08
+Jonas Valančiūnas,1992-05-06
+Tyrone Wallace,1994-06-10

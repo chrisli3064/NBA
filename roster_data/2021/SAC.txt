@@ -1,0 +1,25 @@
+PLAYER,BIRTH_DATE
+Marvin Bagley III,1999-03-14
+Harrison Barnes,1992-05-30
+Nemanja Bjelica,1988-05-09
+Terence Davis,1997-05-16
+De'Aaron Fox,1997-12-20
+Kyle Guy,1997-08-11
+Tyrese Haliburton,2000-02-29
+Maurice Harkless,1993-05-11
+Buddy Hield,1992-12-17
+Richaun Holmes,1993-10-15
+Justin James,1997-01-24
+DaQuan Jeffries,1997-08-30
+Damian Jones,1995-06-30
+Cory Joseph,1991-08-20
+Louis King,1999-04-06
+Chimezie Metu,1997-03-22
+Jabari Parker,1995-03-15
+Norvel Pelle,1993-02-03
+Jahmi'us Ramsey,2001-06-09
+Glenn Robinson III,1994-01-08
+Chris Silva,1996-09-19
+Hassan Whiteside,1989-06-13
+Robert Woodard II,1999-09-22
+Delon Wright,1992-04-26

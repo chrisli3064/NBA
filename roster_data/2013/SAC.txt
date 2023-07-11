@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Cole Aldrich,1988-10-31
+Aaron Brooks,1985-01-14
+DeMarcus Cousins,1990-08-13
+Toney Douglas,1986-03-16
+Tyreke Evans,1989-09-19
+Jimmer Fredette,1989-02-25
+Francisco García,1981-12-31
+Chuck Hayes,1983-06-11
+Tyler Honeycutt,1990-07-15
+James Johnson,1987-02-20
+Travis Outlaw,1984-09-18
+Patrick Patterson,1989-03-14
+Thomas Robinson,1991-03-17
+John Salmons,1979-12-12
+Isaiah Thomas,1989-02-07
+Jason Thompson,1986-07-21
+Marcus Thornton,1987-06-05

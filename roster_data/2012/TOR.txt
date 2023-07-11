@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+Solomon Alabi,1988-03-21
+Alan Anderson,1982-10-16
+Leandro Barbosa,1982-11-28
+Andrea Bargnani,1985-10-26
+Jerryd Bayless,1988-08-20
+Rasual Butler,1979-05-23
+José Calderón,1981-09-28
+Anthony Carter,1975-06-16
+Ed Davis,1989-06-05
+Justin Dentmon,1985-09-05
+DeMar DeRozan,1989-08-07
+Gary Forbes,1985-02-25
+Aaron Gray,1984-12-07
+Amir Johnson,1987-05-01
+James Johnson,1987-02-20
+Linas Kleiza,1985-01-03
+Jamaal Magloire,1978-05-21
+Ben Uzoh,1988-03-19

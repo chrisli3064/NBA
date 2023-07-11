@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+Cole Aldrich,1988-10-31
+Jeff Ayres,1987-04-29
+Jamal Crawford,1980-03-20
+Branden Dawson,1993-02-01
+Jeff Green,1986-08-28
+Blake Griffin,1989-03-16
+Wesley Johnson,1987-07-11
+DeAndre Jordan,1988-07-21
+Luc Mbah a Moute,1986-09-09
+Chris Paul,1985-05-06
+Paul Pierce,1977-10-13
+Pablo Prigioni,1977-05-17
+J.J. Redick,1984-06-24
+Austin Rivers,1992-08-01
+Josh Smith,1985-12-05
+Lance Stephenson,1990-09-05
+Alex Stepheson,1987-08-07
+C.J. Wilcox,1990-12-30

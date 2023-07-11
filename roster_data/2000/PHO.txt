@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Toby Bailey,1975-11-19
+Corie Blount,1969-01-04
+Rex Chapman,1967-10-05
+Ben Davis,1972-12-26
+Todd Day,1970-01-07
+Tom Gugliotta,1969-12-19
+Anfernee Hardaway,1971-07-18
+Kevin Johnson,1966-03-04
+Jason Kidd,1973-03-23
+Randy Livingston,1975-04-02
+Luc Longley,1969-01-19
+Don MacLean,1970-01-16
+Shawn Marion,1978-05-07
+Oliver Miller,1970-04-06
+Clifford Robinson,1966-12-16
+Rodney Rogers,1971-06-20
+Mark West,1960-11-05

@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Kent Bazemore,1989-07-01
+Tim Hardaway Jr.,1992-03-16
+Kirk Hinrich,1981-01-02
+Justin Holiday,1989-04-05
+Al Horford,1986-06-03
+Kris Humphries,1985-02-06
+Kyle Korver,1981-03-17
+Shelvin Mack,1990-04-22
+Paul Millsap,1985-02-10
+Mike Muscala,1991-07-01
+Lamar Patterson,1991-08-12
+Dennis Schröder,1993-09-15
+Mike Scott,1988-07-16
+Thabo Sefolosha,1984-05-02
+Tiago Splitter,1985-01-01
+Edy Tavares,1992-03-22
+Jeff Teague,1988-06-10

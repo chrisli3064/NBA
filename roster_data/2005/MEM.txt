@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Shane Battier,1978-09-09
+Antonio Burks,1980-02-25
+Brian Cardinal,1977-05-02
+Andre Emmett,1982-08-27
+Pau Gasol,1980-07-06
+Ryan Humphrey,1979-07-24
+Dahntay Jones,1980-12-27
+Mike Miller,1980-02-19
+James Posey,1977-01-13
+Stromile Swift,1979-11-21
+Jake Tsakalidis,1979-06-10
+Earl Watson,1979-06-12
+Bonzi Wells,1976-09-28
+Jason Williams,1975-11-18
+Lorenzen Wright,1975-11-04

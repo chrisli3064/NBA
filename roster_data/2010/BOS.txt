@@ -1,0 +1,20 @@
+PLAYER,BIRTH_DATE
+Ray Allen,1975-07-20
+Tony Allen,1982-01-11
+Marquis Daniels,1981-01-07
+Glen Davis,1986-01-01
+Michael Finley,1973-03-06
+Kevin Garnett,1976-05-19
+J.R. Giddens,1985-02-13
+Eddie House,1978-05-14
+Lester Hudson,1984-08-07
+Oliver Lafayette,1984-05-06
+Marcus Landry,1985-11-01
+Kendrick Perkins,1984-11-10
+Paul Pierce,1977-10-13
+Nate Robinson,1984-05-31
+Rajon Rondo,1986-02-22
+Brian Scalabrine,1978-03-18
+Henry Walker,1987-10-09
+Rasheed Wallace,1974-09-17
+Shelden Williams,1983-10-21

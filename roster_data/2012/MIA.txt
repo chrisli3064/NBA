@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Joel Anthony,1982-08-09
+Shane Battier,1978-09-09
+Chris Bosh,1984-03-24
+Mario Chalmers,1986-05-19
+Norris Cole,1988-10-13
+Eddy Curry,1982-12-05
+Mickell Gladness,1986-07-26
+Terrel Harris,1987-08-10
+Udonis Haslem,1980-06-09
+Juwan Howard,1973-02-07
+LeBron James,1984-12-30
+James Jones,1980-10-04
+Mike Miller,1980-02-19
+Dexter Pittman,1988-03-02
+Ronny Turiaf,1983-01-13
+Dwyane Wade,1982-01-17

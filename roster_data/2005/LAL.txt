@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Chucky Atkins,1974-08-14
+Tony Bobbitt,1979-10-22
+Tierre Brown,1979-06-03
+Kobe Bryant,1978-08-23
+Caron Butler,1980-03-13
+Brian Cook,1980-12-04
+Vlade Divac,1968-02-03
+Devean George,1977-08-29
+Brian Grant,1972-03-05
+Jumaine Jones,1979-02-10
+Stanislav Medvedenko,1979-04-04
+Chris Mihm,1979-07-16
+Lamar Odom,1979-11-06
+Kareem Rush,1980-10-30
+Sasha Vujačić,1984-03-08
+Luke Walton,1980-03-28

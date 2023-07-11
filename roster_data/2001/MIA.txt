@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Bruce Bowen,1971-06-14
+Anthony Carter,1975-06-16
+Duane Causwell,1968-05-31
+Cedric Ceballos,1969-08-02
+Ricky Davis,1979-09-23
+Todd Fuller,1974-07-25
+Brian Grant,1972-03-05
+A.C. Green,1963-10-04
+Tim Hardaway,1966-09-01
+Eddie House,1978-05-14
+Eddie Jones,1971-10-20
+Don MacLean,1970-01-16
+Dan Majerle,1965-09-09
+Anthony Mason,1966-12-14
+Alonzo Mourning,1970-02-08
+Jamal Robinson,1973-12-27

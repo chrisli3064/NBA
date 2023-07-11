@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Rafer Alston,1976-07-24
+Brent Barry,1971-12-31
+Shane Battier,1978-09-09
+Aaron Brooks,1985-01-14
+Brian Cook,1980-12-04
+Joey Dorsey,1983-12-16
+Chuck Hayes,1983-06-11
+Luther Head,1982-11-26
+Carl Landry,1983-09-19
+Kyle Lowry,1986-03-25
+Tracy McGrady,1979-05-24
+Yao Ming,1980-09-12
+Dikembe Mutombo,1966-06-25
+Luis Scola,1980-04-30
+Von Wafer,1985-07-21
+James White,1982-10-21
+Metta World Peace,1979-11-13

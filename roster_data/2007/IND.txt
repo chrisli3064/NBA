@@ -1,0 +1,20 @@
+PLAYER,BIRTH_DATE
+Darrell Armstrong,1968-06-22
+Maceo Baston,1975-05-29
+Marquis Daniels,1981-01-07
+Ike Diogu,1983-09-11
+Mike Dunleavy,1980-09-15
+Jeff Foster,1977-01-16
+Danny Granger,1983-04-20
+Orien Greene,1982-02-04
+Al Harrington,1980-02-17
+David Harrison,1982-08-15
+Stephen Jackson,1978-04-05
+Šarūnas Jasikevičius,1976-03-05
+Rawle Marshall,1982-02-20
+Keith McLeod,1979-11-05
+Troy Murphy,1980-05-02
+Jermaine O'Neal,1978-10-13
+Josh Powell,1983-01-25
+Jamaal Tinsley,1978-02-28
+Shawne Williams,1986-02-16

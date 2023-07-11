@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+Bogdan Bogdanović,1992-08-18
+Bruno Caboclo,1995-09-21
+Vince Carter,1977-01-26
+Willie Cauley-Stein,1993-08-18
+Jack Cooley,1991-04-12
+De'Aaron Fox,1997-12-20
+Nigel Hayes,1994-12-16
+Buddy Hield,1992-12-17
+George Hill,1986-05-04
+Justin Jackson,1995-03-28
+Kosta Koufos,1989-02-24
+Skal Labissière,1996-03-18
+Frank Mason III,1994-04-03
+Georgios Papagiannis,1997-07-03
+Zach Randolph,1981-07-16
+Malachi Richardson,1996-01-05
+JaKarr Sampson,1993-03-20
+Garrett Temple,1986-05-08

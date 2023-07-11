@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+J.R. Bremer,1980-09-19
+Brian Cardinal,1977-05-02
+Calbert Cheaney,1971-07-17
+Speedy Claxton,1978-05-08
+Erick Dampier,1975-07-14
+Mike Dunleavy,1980-09-15
+Adonal Foyle,1975-03-09
+Avery Johnson,1965-03-25
+Popeye Jones,1970-06-17
+Sean Lampley,1979-09-03
+Dan Langhi,1977-11-28
+Rusty LaRue,1973-12-10
+Troy Murphy,1980-05-02
+Cherokee Parks,1972-10-11
+Mickaël Piétrus,1982-02-07
+Jason Richardson,1981-01-20
+Clifford Robinson,1966-12-16
+Nick Van Exel,1971-11-27

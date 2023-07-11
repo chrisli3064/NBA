@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Anthony Bennett,1993-03-14
+Bismack Biyombo,1992-08-28
+Bruno Caboclo,1995-09-21
+DeMarre Carroll,1986-07-27
+DeMar DeRozan,1989-08-07
+James Johnson,1987-02-20
+Cory Joseph,1991-08-20
+Kyle Lowry,1986-03-25
+Lucas Nogueira,1992-07-26
+Patrick Patterson,1989-03-14
+Norman Powell,1993-05-25
+Terrence Ross,1991-02-05
+Luis Scola,1980-04-30
+Jason Thompson,1986-07-21
+Jonas Valančiūnas,1992-05-06
+Delon Wright,1992-04-26

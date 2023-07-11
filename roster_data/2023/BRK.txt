@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Nic Claxton,1999-04-17
+Royce O'Neale,1993-06-05
+Joe Harris,1991-09-06
+Seth Curry,1990-08-23
+Yuta Watanabe,1994-10-13
+Cam Thomas,2001-10-13
+Edmond Sumner,1995-12-31
+Day'Ron Sharpe,2001-11-06
+Ben Simmons,1996-07-20
+Patty Mills,1988-08-11
+Mikal Bridges,1996-08-30
+Spencer Dinwiddie,1993-04-06
+Dorian Finney-Smith,1993-05-04
+Cameron Johnson,1996-03-03
+David Duke Jr.,1999-10-13
+Dru Smith (TW),1997-12-30
+RaiQuan Gray (TW),1999-07-07

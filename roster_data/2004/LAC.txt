@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Matt Barnes,1980-03-09
+Elton Brand,1979-03-11
+Keyon Dooling,1980-05-08
+Predrag Drobnjak,1975-10-27
+Melvin Ely,1978-05-02
+Eddie House,1978-05-14
+Marko Jarić,1978-10-12
+Chris Kaman,1982-04-28
+Randy Livingston,1975-04-02
+Corey Maggette,1979-11-12
+Doug Overton,1969-08-03
+Olden Polynice,1964-11-21
+Glen Rice,1967-05-28
+Quentin Richardson,1980-04-13
+Bobby Simmons,1980-06-02
+Chris Wilcox,1982-09-03
+Wang Zhizhi,1977-07-08

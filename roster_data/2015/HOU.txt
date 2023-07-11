@@ -1,0 +1,21 @@
+PLAYER,BIRTH_DATE
+Trevor Ariza,1985-06-30
+Patrick Beverley,1988-07-12
+Tarik Black,1991-11-22
+Corey Brewer,1986-03-05
+Isaiah Canaan,1991-05-21
+Clint Capela,1994-05-18
+Troy Daniels,1991-07-15
+Joey Dorsey,1983-12-16
+Francisco García,1981-12-31
+James Harden,1989-08-26
+Dwight Howard,1985-12-08
+Nick Johnson,1992-12-22
+Terrence Jones,1992-01-09
+K.J. McDaniels,1993-02-09
+Donatas Motiejūnas,1990-09-20
+Kostas Papanikolaou,1990-07-31
+Pablo Prigioni,1977-05-17
+Alexey Shved,1988-12-16
+Josh Smith,1985-12-05
+Jason Terry,1977-09-15

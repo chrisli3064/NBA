@@ -1,0 +1,22 @@
+PLAYER,BIRTH_DATE
+Deni Avdija,2001-01-03
+Bradley Beal,1993-06-28
+Jordan Bell,1995-01-07
+Dāvis Bertāns,1992-11-12
+Isaac Bonga,1999-11-08
+Troy Brown Jr.,1999-07-28
+Thomas Bryant,1997-07-31
+Daniel Gafford,1998-10-01
+Anthony Gill,1992-10-17
+Rui Hachimura,1998-02-08
+Chandler Hutchison,1996-04-26
+Alex Len,1993-06-16
+Robin Lopez,1988-04-01
+Garrison Mathews,1996-10-24
+Raul Neto,1992-05-19
+Anžejs Pasečņiks,1995-12-20
+Jerome Robinson,1997-02-22
+Ish Smith,1988-07-05
+Moritz Wagner,1997-04-26
+Russell Westbrook,1988-11-12
+Cassius Winston,1998-02-28

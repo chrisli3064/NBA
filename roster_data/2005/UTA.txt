@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Carlos Arroyo,1979-07-30
+Raja Bell,1976-09-19
+Carlos Boozer,1981-11-20
+Curtis Borchardt,1980-09-13
+Jarron Collins,1978-12-02
+Howard Eisley,1972-12-04
+Gordan Giriček,1977-06-20
+Ben Handlogten,1973-11-16
+Matt Harpring,1976-05-31
+Kris Humphries,1985-02-06
+Andrei Kirilenko,1981-02-18
+Randy Livingston,1975-04-02
+Raül López,1980-04-15
+Keith McLeod,1979-11-05
+Mehmet Okur,1979-05-26
+Aleksandar Radojević,1976-08-08
+Kirk Snyder,1983-06-05

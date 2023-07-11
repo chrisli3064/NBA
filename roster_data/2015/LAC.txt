@@ -1,0 +1,21 @@
+PLAYER,BIRTH_DATE
+Matt Barnes,1980-03-09
+Reggie Bullock,1991-03-16
+Jamal Crawford,1980-03-20
+Jared Cunningham,1991-05-22
+Glen Davis,1986-01-01
+Chris Douglas-Roberts,1987-01-08
+Jordan Farmar,1986-11-30
+Blake Griffin,1989-03-16
+Jordan Hamilton,1990-10-06
+Spencer Hawes,1988-04-28
+Lester Hudson,1984-08-07
+Dahntay Jones,1980-12-27
+DeAndre Jordan,1988-07-21
+Chris Paul,1985-05-06
+J.J. Redick,1984-06-24
+Austin Rivers,1992-08-01
+Nate Robinson,1984-05-31
+Hedo Türkoğlu,1979-03-19
+Ekpe Udoh,1987-05-20
+C.J. Wilcox,1990-12-30

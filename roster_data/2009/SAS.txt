@@ -1,0 +1,21 @@
+PLAYER,BIRTH_DATE
+Blake Ahearn,1984-05-27
+Matt Bonner,1980-04-05
+Bruce Bowen,1971-06-14
+Austin Croshere,1975-05-01
+Tim Duncan,1976-04-25
+Desmon Farmer,1981-10-07
+Michael Finley,1973-03-06
+Manu Ginóbili,1977-07-28
+Drew Gooden,1981-09-24
+Malik Hairston,1987-02-23
+George Hill,1986-05-04
+Roger Mason,1980-09-10
+Pops Mensah-Bonsu,1983-09-07
+Fabricio Oberto,1975-03-21
+Tony Parker,1982-05-17
+Kurt Thomas,1972-10-04
+Anthony Tolliver,1985-06-01
+Ime Udoka,1977-08-09
+Jacque Vaughn,1975-02-11
+Marcus Williams,1986-11-18

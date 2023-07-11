@@ -1,0 +1,20 @@
+PLAYER,BIRTH_DATE
+Tyler Bey,1998-02-10
+Jalen Brunson,1996-08-31
+Trey Burke,1992-11-12
+Willie Cauley-Stein,1993-08-18
+Luka Dončić,1999-02-28
+Dorian Finney-Smith,1993-05-04
+Josh Green,2000-11-16
+Tim Hardaway Jr.,1992-03-16
+Nate Hinton,1999-06-08
+Wes Iwundu,1994-12-20
+James Johnson,1987-02-20
+Maxi Kleber,1992-01-29
+Boban Marjanović,1988-08-15
+Nicolò Melli,1991-01-26
+Kristaps Porziņģis,1995-08-02
+Dwight Powell,1991-07-20
+J.J. Redick,1984-06-24
+Josh Richardson,1993-09-15
+Tyrell Terry,2000-09-28

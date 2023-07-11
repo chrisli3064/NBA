@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Maurice Ager,1984-02-09
+Ryan Anderson,1988-05-06
+Josh Boone,1984-11-21
+Vince Carter,1977-01-26
+Keyon Dooling,1980-05-08
+Chris Douglas-Roberts,1987-01-08
+Devin Harris,1983-02-27
+Trenton Hassell,1979-03-04
+Jarvis Hayes,1981-08-09
+Yi Jianlian,1987-10-27
+Brook Lopez,1988-04-01
+Eduardo Nájera,1976-07-11
+Bobby Simmons,1980-06-02
+Stromile Swift,1979-11-21
+Sean Williams,1986-09-13

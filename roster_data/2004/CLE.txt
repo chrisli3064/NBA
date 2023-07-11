@@ -1,0 +1,22 @@
+PLAYER,BIRTH_DATE
+Tony Battie,1976-02-11
+Carlos Boozer,1981-11-20
+J.R. Bremer,1980-09-19
+Kedrick Brown,1981-03-18
+Mateen Cleaves,1977-09-07
+Ricky Davis,1979-09-23
+DeSagana Diop,1982-01-30
+Zydrunas Ilgauskas,1975-06-05
+LeBron James,1984-12-30
+Jason Kapono,1981-02-04
+Jelani McCoy,1977-12-06
+Jeff McInnis,1974-10-22
+Chris Mihm,1979-07-16
+Darius Miles,1981-10-09
+Lee Nailon,1975-02-22
+Ira Newble,1975-01-20
+Kevin Ollie,1972-12-27
+Michael Stewart,1975-04-25
+Bruno Šundov,1980-02-10
+Dajuan Wagner,1983-02-04
+Eric Williams,1972-07-17

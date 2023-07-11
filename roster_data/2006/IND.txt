@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Jonathan Bender,1981-01-30
+Austin Croshere,1975-05-01
+Jeff Foster,1977-01-16
+Eddie Gill,1978-08-16
+Danny Granger,1983-04-20
+David Harrison,1982-08-15
+Stephen Jackson,1978-04-05
+Šarūnas Jasikevičius,1976-03-05
+Anthony Johnson,1974-10-02
+Fred Jones,1979-03-11
+Jermaine O'Neal,1978-10-13
+Scot Pollard,1975-02-12
+Peja Stojaković,1977-06-09
+Jamaal Tinsley,1978-02-28
+Samaki Walker,1976-02-25
+Metta World Peace,1979-11-13

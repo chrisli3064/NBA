@@ -1,0 +1,15 @@
+PLAYER,BIRTH_DATE
+Charlie Bell,1979-03-12
+Andrew Bogut,1984-11-28
+Dan Gadzuric,1978-02-02
+Royal Ivey,1981-12-20
+Yi Jianlian,1987-10-27
+Desmond Mason,1977-10-11
+Michael Redd,1979-08-24
+Michael Ruffin,1977-01-21
+Ramon Sessions,1986-04-11
+Bobby Simmons,1980-06-02
+Awvee Storey,1977-04-18
+Charlie Villanueva,1984-08-24
+Jake Voskuhl,1977-11-01
+Mo Williams,1982-12-19

@@ -1,0 +1,23 @@
+PLAYER,BIRTH_DATE
+Rawle Alkins,1997-10-29
+Ryan Arcidiacono,1994-03-26
+Antonio Blakeney,1996-10-04
+Wendell Carter Jr.,1999-04-16
+Kris Dunn,1994-03-18
+Cristiano Felício,1992-07-07
+Shaquille Harrison,1993-10-06
+Justin Holiday,1989-04-05
+Chandler Hutchison,1996-04-26
+Zach LaVine,1995-03-10
+Walt Lemon Jr.,1992-07-26
+Robin Lopez,1988-04-01
+Timothé Luwawu-Cabarrot,1995-05-09
+Lauri Markkanen,1997-05-22
+Jabari Parker,1995-03-15
+Cameron Payne,1994-08-08
+Otto Porter Jr.,1993-06-03
+Bobby Portis,1995-02-10
+Brandon Sampson,1997-05-01
+JaKarr Sampson,1993-03-20
+Wayne Selden,1994-09-30
+Tyler Ulis,1996-01-05

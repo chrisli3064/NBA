@@ -1,0 +1,14 @@
+PLAYER,BIRTH_DATE
+Elton Brand,1979-03-11
+Samuel Dalembert,1981-05-10
+Reggie Evans,1980-05-18
+Willie Green,1981-07-28
+Andre Iguodala,1984-01-28
+Royal Ivey,1981-12-20
+Donyell Marshall,1973-05-18
+Andre Miller,1976-03-19
+Theo Ratliff,1973-04-17
+Kareem Rush,1980-10-30
+Marreese Speights,1987-08-04
+Lou Williams,1986-10-27
+Thaddeus Young,1988-06-21

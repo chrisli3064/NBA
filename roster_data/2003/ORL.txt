@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Darrell Armstrong,1968-06-22
+Pat Burke,1973-12-14
+Andrew DeClercq,1973-02-01
+Pat Garrity,1976-08-23
+Gordan Giriček,1977-06-20
+Drew Gooden,1981-09-24
+Horace Grant,1965-07-04
+Grant Hill,1972-10-05
+Ryan Humphrey,1979-07-24
+Steven Hunter,1981-10-31
+Shawn Kemp,1969-11-26
+Tracy McGrady,1979-05-24
+Mike Miller,1980-02-19
+Olumide Oyedeji,1981-05-11
+Jeryl Sasser,1979-02-13
+Jacque Vaughn,1975-02-11
+Chris Whitney,1971-10-05

@@ -1,0 +1,24 @@
+PLAYER,BIRTH_DATE
+Tony Allen,1982-01-11
+Ömer Aşık,1986-07-04
+Ian Clark,1991-03-07
+Charles Cooke,1994-07-01
+DeMarcus Cousins,1990-08-13
+Jordan Crawford,1988-10-23
+Dante Cunningham,1987-04-22
+Anthony Davis,1993-03-11
+Cheick Diallo,1996-09-13
+Larry Drew II,1990-03-05
+Solomon Hill,1991-03-18
+Jrue Holiday,1990-06-12
+Mike James,1990-08-18
+Jalen Jones,1993-05-27
+Walt Lemon Jr.,1992-07-26
+DeAndre Liggins,1988-03-31
+Darius Miller,1990-03-21
+Nikola Mirotić,1991-02-11
+E'Twaun Moore,1989-02-25
+Jameer Nelson,1982-02-09
+Emeka Okafor,1982-09-28
+Rajon Rondo,1986-02-22
+Josh Smith,1985-12-05

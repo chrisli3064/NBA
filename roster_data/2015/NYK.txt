@@ -1,0 +1,21 @@
+PLAYER,BIRTH_DATE
+Quincy Acy,1990-10-06
+Cole Aldrich,1988-10-31
+Lou Amundson,1982-12-07
+Carmelo Anthony,1984-05-29
+Andrea Bargnani,1985-10-26
+José Calderón,1981-09-28
+Samuel Dalembert,1981-05-10
+Cleanthony Early,1991-04-17
+Langston Galloway,1991-12-09
+Tim Hardaway Jr.,1992-03-16
+Shane Larkin,1992-10-02
+Ricky Ledo,1992-09-10
+Pablo Prigioni,1977-05-17
+Iman Shumpert,1990-06-26
+Alexey Shved,1988-12-16
+J.R. Smith,1985-09-09
+Jason Smith,1986-03-02
+Amar'e Stoudemire,1982-11-16
+Lance Thomas,1988-04-24
+Travis Wear,1990-09-21

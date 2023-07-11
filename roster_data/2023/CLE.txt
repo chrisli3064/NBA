@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Evan Mobley,2001-06-18
+Cedi Osman,1995-04-08
+Isaac Okoro,2001-01-26
+Caris LeVert,1994-08-25
+Darius Garland,2000-01-26
+Donovan Mitchell,1996-09-07
+Jarrett Allen,1998-04-21
+Lamar Stevens,1997-07-09
+Raul Neto,1992-05-19
+Dean Wade,1996-11-20
+Robin Lopez,1988-04-01
+Ricky Rubio,1990-10-21
+Mamadi Diakite (TW),1997-01-21
+Isaiah Mobley (TW),1999-09-24
+Danny Green,1987-06-22
+Sam Merrill,1996-05-15
+Dylan Windler,1996-09-22

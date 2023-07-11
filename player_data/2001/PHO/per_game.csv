@@ -1,0 +1,239 @@
+SEASON,AGE,TEAM,LEAGUE,POS,G,GS,MP,FG,FGA,FG%,3P,3PA,3P%,2P,2PA,2P%,eFG%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,PLAYER
+1993-94,25.0,CHI,NBA,PF,67.0,8.0,10.3,1.1,2.6,0.437,0.0,0.0,0.0,1.1,2.6,0.437,0.437,0.7,1.1,0.613,1.1,1.8,2.9,0.8,0.3,0.5,0.8,1.4,3.0,Corie Blount
+1994-95,26.0,CHI,NBA,PF,68.0,9.0,13.1,1.5,3.1,0.476,0.0,0.0,0.0,1.5,3.1,0.481,0.476,0.6,1.0,0.567,1.6,2.0,3.5,0.9,0.4,0.5,0.9,2.1,3.5,Corie Blount
+1995-96,27.0,LAL,NBA,PF,57.0,2.0,12.5,1.4,2.9,0.473,0.0,0.0,0.0,1.4,2.9,0.479,0.473,0.4,0.8,0.568,1.2,1.8,3.0,0.7,0.4,0.6,0.8,1.9,3.2,Corie Blount
+1996-97,28.0,LAL,NBA,PF,58.0,18.0,17.4,1.6,3.1,0.514,0.0,0.1,0.333,1.6,3.0,0.517,0.517,1.0,1.4,0.675,1.9,2.8,4.8,0.6,0.4,0.4,0.9,2.1,4.2,Corie Blount
+1997-98,29.0,LAL,NBA,PF,70.0,3.0,14.7,1.5,2.7,0.572,0.0,0.1,0.0,1.5,2.6,0.585,0.572,0.6,1.1,0.5,1.6,2.6,4.3,0.5,0.4,0.4,0.7,2.2,3.6,Corie Blount
+1998-99,30.0,TOT,NBA,PF,34.0,3.0,15.6,1.1,2.9,0.36,0.0,0.0,0.0,1.1,2.9,0.364,0.36,0.8,1.6,0.519,1.7,2.7,4.4,0.4,0.6,0.5,0.6,2.2,2.9,Corie Blount
+1998-99,30.0,LAL,NBA,PF,14.0,3.0,11.6,0.9,2.4,0.394,0.0,0.1,0.0,0.9,2.3,0.406,0.394,0.4,0.9,0.5,1.7,1.6,3.3,0.1,0.1,0.3,0.4,1.9,2.3,Corie Blount
+1998-99,30.0,CLE,NBA,PF,20.0,0.0,18.4,1.2,3.4,0.343,0.0,0.0,0.0,1.2,3.4,0.343,0.343,1.1,2.1,0.524,1.7,3.6,5.3,0.5,0.9,0.6,0.8,2.4,3.4,Corie Blount
+1999-00,31.0,PHO,NBA,PF,38.0,1.0,11.7,1.2,2.3,0.494,0.0,0.1,0.0,1.2,2.3,0.506,0.494,0.5,0.9,0.576,1.4,1.6,3.0,0.3,0.4,0.2,0.7,2.1,2.8,Corie Blount
+2000-01,32.0,TOT,NBA,PF,68.0,6.0,19.2,1.9,4.3,0.442,0.0,0.1,0.25,1.9,4.2,0.448,0.446,0.8,1.2,0.614,2.7,3.2,5.9,0.9,0.6,0.3,1.1,2.4,4.6,Corie Blount
+2000-01,32.0,PHO,NBA,PF,30.0,6.0,12.9,0.8,1.6,0.489,0.0,0.0,0.0,0.8,1.6,0.489,0.489,0.3,0.5,0.533,1.2,1.7,2.8,0.3,0.4,0.2,0.6,2.5,1.8,Corie Blount
+2000-01,32.0,GSW,NBA,PF,38.0,0.0,24.2,2.8,6.5,0.433,0.1,0.2,0.25,2.8,6.3,0.439,0.437,1.1,1.8,0.632,3.8,4.4,8.3,1.3,0.8,0.4,1.4,2.4,6.8,Corie Blount
+2001-02,33.0,PHI,NBA,PF,72.0,21.0,19.8,1.6,3.5,0.458,0.0,0.0,0.0,1.6,3.5,0.46,0.458,0.4,0.6,0.644,2.1,3.0,5.1,0.6,0.7,0.4,0.7,2.4,3.6,Corie Blount
+2002-03,34.0,CHI,NBA,C,50.0,3.0,16.7,1.3,2.7,0.485,0.0,0.0,0.0,1.3,2.7,0.485,0.485,0.4,0.7,0.571,1.4,2.7,4.1,1.0,0.7,0.4,0.9,2.4,3.0,Corie Blount
+2003-04,35.0,TOT,NBA,"C,PF",62.0,3.0,16.9,1.9,4.1,0.455,0.0,0.0,0.0,1.9,4.0,0.46,0.455,0.2,0.4,0.556,1.6,2.9,4.4,0.9,0.8,0.4,0.7,2.2,4.0,Corie Blount
+2003-04,35.0,CHI,NBA,PF,46.0,3.0,16.4,2.1,4.5,0.471,0.0,0.1,0.0,2.1,4.4,0.478,0.471,0.3,0.5,0.542,1.7,2.8,4.5,1.0,0.8,0.4,0.8,1.9,4.5,Corie Blount
+2003-04,35.0,TOR,NBA,C,16.0,0.0,18.4,1.1,2.9,0.383,0.0,0.0,0.0,1.1,2.9,0.383,0.383,0.1,0.2,0.667,1.4,2.9,4.3,0.6,0.7,0.3,0.5,3.1,2.4,Corie Blount
+1988-89,22.0,SAC,NBA,SG,80,2,19.5,3.0,6.3,.475,0.1,0.3,.300,2.9,6.0,.482,.481,1.1,1.3,.850,0.6,1.5,2.1,2.6,0.8,0.2,1.0,2.0,7.1,Vinny Del Negro
+1989-90,23.0,SAC,NBA,SG,76,29,24.4,3.9,8.5,.462,0.1,0.4,.313,3.8,8.0,.470,.470,1.8,2.0,.871,0.5,2.1,2.6,3.3,0.8,0.1,1.5,2.4,9.7,Vinny Del Negro
+1990-91,24.0,Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Vinny Del Negro
+1991-92,25.0,Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Vinny Del Negro
+1992-93,26.0,SAS,NBA,PG,73,31,20.9,3.0,5.9,.507,0.1,0.3,.250,2.9,5.6,.522,.514,1.4,1.6,.863,0.3,2.0,2.2,4.0,0.6,0.0,1.3,2.0,7.4,Vinny Del Negro
+1993-94,27.0,SAS,NBA,SG,77,56,25.3,4.0,8.2,.487,0.2,0.6,.349,3.8,7.7,.497,.499,1.8,2.2,.824,0.4,1.7,2.1,4.2,0.8,0.0,1.3,2.2,10.0,Vinny Del Negro
+1994-95,28.0,SAS,NBA,SG,75,71,31.5,5.0,10.2,.486,0.9,2.2,.407,4.1,8.1,.507,.529,1.7,2.2,.790,0.4,2.2,2.6,3.0,0.8,0.2,0.7,2.4,12.5,Vinny Del Negro
+1995-96,29.0,SAS,NBA,SG,82,82,33.7,5.8,11.7,.497,0.7,1.8,.380,5.1,9.9,.518,.527,2.2,2.6,.832,0.4,2.9,3.3,3.8,1.0,0.1,1.2,2.0,14.5,Vinny Del Negro
+1996-97,30.0,SAS,NBA,SG,72,53,31.2,5.1,10.8,.467,0.6,1.9,.314,4.5,8.9,.501,.496,1.6,1.8,.868,0.5,2.4,2.9,3.2,0.8,0.1,1.3,1.8,12.3,Vinny Del Negro
+1997-98,31.0,SAS,NBA,SG,54,38,31.9,3.9,8.9,.441,0.3,0.7,.436,3.6,8.1,.441,.458,1.4,1.7,.796,0.2,2.6,2.8,3.4,0.7,0.1,1.0,2.1,9.5,Vinny Del Negro
+1998-99,32.0,MIL,NBA,PG,48,7,22.8,2.4,5.6,.422,0.3,0.6,.433,2.1,5.0,.421,.446,0.8,1.0,.800,0.3,1.8,2.1,3.6,0.7,0.1,1.1,1.3,5.9,Vinny Del Negro
+1999-00,33.0,MIL,NBA,PG,67,0,18.1,2.3,4.9,.471,0.1,0.4,.333,2.2,4.5,.482,.483,0.5,0.6,.897,0.1,1.5,1.6,2.4,0.5,0.0,0.7,1.2,5.2,Vinny Del Negro
+2000-01,34.0,TOT,NBA,PG,65,1,14.2,1.6,3.6,.453,0.0,0.2,.077,1.6,3.4,.475,.455,0.6,0.7,.932,0.2,1.1,1.3,1.9,0.4,0.0,0.5,1.2,3.9,Vinny Del Negro
+2000-01,34.0,GSW,NBA,PG,29,1,13.7,1.0,3.1,.333,0.0,0.3,.111,1.0,2.8,.358,.339,0.6,0.6,1.000,0.1,0.9,1.1,2.1,0.2,0.0,0.5,1.2,2.7,Vinny Del Negro
+2000-01,34.0,PHO,NBA,PG,36,0,14.6,2.1,4.0,.528,0.0,0.1,.000,2.1,3.9,.543,.528,0.7,0.8,.893,0.2,1.2,1.4,1.8,0.6,0.1,0.5,1.2,4.9,Vinny Del Negro
+2001-02,35.0,PHO,NBA,PG,2,0,3.0,0.5,2.0,.250,0.0,0.0,0,0.5,2.0,.250,.250,0.0,0.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,Vinny Del Negro
+1996-97,23.0,CHH,NBA,PG,61,1,14.2,2.0,4.2,.465,0.9,1.8,.464,1.1,2.4,.465,.566,0.7,0.8,.824,0.5,1.1,1.6,1.6,0.6,0.1,1.1,1.2,5.4,Tony Delk
+1997-98,24.0,TOT,NBA,PG,77,9,21.8,4.1,10.4,.393,0.5,2.0,.268,3.5,8.3,.424,.420,1.4,2.0,.735,0.5,1.7,2.2,2.2,0.9,0.2,1.4,1.2,10.1,Tony Delk
+1997-98,24.0,CHH,NBA,PG,3,0,11.3,1.0,1.3,.750,0.3,0.3,1.000,0.7,1.0,.667,.875,0.3,0.7,.500,0.0,0.7,0.7,1.0,0.0,0.0,1.3,2.7,2.7,Tony Delk
+1997-98,24.0,GSW,NBA,PG,74,9,22.3,4.2,10.7,.392,0.6,2.1,.263,3.6,8.6,.423,.418,1.5,2.0,.738,0.5,1.8,2.3,2.3,1.0,0.2,1.4,1.2,10.4,Tony Delk
+1998-99,25.0,GSW,NBA,PG,36,13,17.5,2.6,7.0,.364,0.4,1.8,.242,2.1,5.2,.406,.395,1.3,2.0,.648,0.3,1.2,1.5,2.6,0.4,0.2,1.3,1.3,6.8,Tony Delk
+1999-00,26.0,SAC,NBA,PG,46,1,14.8,2.6,6.1,.430,0.2,0.9,.225,2.4,5.2,.464,.446,1.0,1.3,.797,0.8,1.1,1.9,1.2,0.8,0.1,0.7,1.3,6.4,Tony Delk
+2000-01,27.0,PHO,NBA,SG,82,11,27.9,4.7,11.3,.415,0.7,2.0,.321,4.0,9.2,.436,.444,2.3,2.9,.787,0.9,2.3,3.2,2.0,0.9,0.2,1.2,2.1,12.3,Tony Delk
+2001-02,28.0,TOT,NBA,SG,63,17,23.0,3.6,9.3,.384,1.1,3.4,.313,2.5,5.9,.425,.441,1.2,1.5,.804,0.9,2.3,3.2,2.1,0.8,0.2,0.9,1.6,9.5,Tony Delk
+2001-02,28.0,PHO,NBA,SG,41,1,21.4,4.0,10.1,.399,1.1,3.6,.320,2.9,6.6,.442,.456,1.4,1.6,.836,0.9,2.1,3.0,2.0,0.8,0.1,1.0,1.5,10.6,Tony Delk
+2001-02,28.0,BOS,NBA,SG,22,16,25.9,2.7,7.8,.349,0.9,3.0,.299,1.8,4.8,.381,.407,1.0,1.4,.733,0.9,2.7,3.6,2.3,1.0,0.3,0.9,1.7,7.4,Tony Delk
+2002-03,29.0,BOS,NBA,PG,67,39,28.0,3.5,8.4,.416,1.8,4.5,.395,1.7,3.8,.441,.523,1.0,1.3,.782,0.6,2.9,3.5,2.2,1.1,0.1,1.0,1.9,9.8,Tony Delk
+2003-04,30.0,DAL,NBA,SG,33,11,15.4,2.1,5.6,.380,0.6,2.0,.303,1.5,3.6,.424,.435,1.1,1.3,.841,0.5,1.3,1.8,0.8,0.8,0.2,0.5,1.4,6.0,Tony Delk
+2004-05,31.0,ATL,NBA,SG,56,1,23.9,4.4,10.6,.416,1.3,3.6,.356,3.1,6.9,.447,.477,1.8,2.4,.757,0.5,1.8,2.3,1.9,0.8,0.1,1.0,2.2,11.9,Tony Delk
+2005-06,32.0,TOT,NBA,"PG,SG",24,0,16.0,3.0,6.7,.441,0.8,2.0,.426,2.1,4.8,.447,.503,0.8,1.1,.741,0.6,1.6,2.2,1.4,0.5,0.0,0.8,1.2,7.6,Tony Delk
+2005-06,32.0,ATL,NBA,SG,1,0,7.0,0.0,1.0,.000,0.0,0.0,0,0.0,1.0,.000,.000,2.0,2.0,1.000,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,Tony Delk
+2005-06,32.0,DET,NBA,PG,23,0,16.4,3.1,7.0,.444,0.9,2.0,.426,2.2,4.9,.451,.506,0.8,1.1,.720,0.6,1.7,2.2,1.4,0.6,0.0,0.8,1.2,7.8,Tony Delk
+2006-07,33.0,Did Not Play (other pro league—Greece),Did Not Play (other pro league—Greece),Did Not Play (other pro league—Greece),Did Not Play (other pro league—Greece),Did Not Play (other pro league—Greece),Did Not Play (other pro league—Greece),Did Not Play (other pro league—Greece),Did Not Play (other pro league—Greece),Did Not Play (other pro league—Greece),Did Not Play (other pro league—Greece),Did Not Play (other pro league—Greece),Did Not Play (other pro league—Greece),Did Not Play (other pro league—Greece),Did Not Play (other pro league—Greece),Did Not Play (other pro league—Greece),Did Not Play (other pro league—Greece),Did Not Play (other pro league—Greece),Did Not Play (other pro league—Greece),Did Not Play (other pro league—Greece),Did Not Play (other pro league—Greece),Did Not Play (other pro league—Greece),Did Not Play (other pro league—Greece),Did Not Play (other pro league—Greece),Did Not Play (other pro league—Greece),Did Not Play (other pro league—Greece),Did Not Play (other pro league—Greece),Did Not Play (other pro league—Greece),Did Not Play (other pro league—Greece),Tony Delk
+2007-08,34.0,Did Not Play (other pro league—Puerto Rico),Did Not Play (other pro league—Puerto Rico),Did Not Play (other pro league—Puerto Rico),Did Not Play (other pro league—Puerto Rico),Did Not Play (other pro league—Puerto Rico),Did Not Play (other pro league—Puerto Rico),Did Not Play (other pro league—Puerto Rico),Did Not Play (other pro league—Puerto Rico),Did Not Play (other pro league—Puerto Rico),Did Not Play (other pro league—Puerto Rico),Did Not Play (other pro league—Puerto Rico),Did Not Play (other pro league—Puerto Rico),Did Not Play (other pro league—Puerto Rico),Did Not Play (other pro league—Puerto Rico),Did Not Play (other pro league—Puerto Rico),Did Not Play (other pro league—Puerto Rico),Did Not Play (other pro league—Puerto Rico),Did Not Play (other pro league—Puerto Rico),Did Not Play (other pro league—Puerto Rico),Did Not Play (other pro league—Puerto Rico),Did Not Play (other pro league—Puerto Rico),Did Not Play (other pro league—Puerto Rico),Did Not Play (other pro league—Puerto Rico),Did Not Play (other pro league—Puerto Rico),Did Not Play (other pro league—Puerto Rico),Did Not Play (other pro league—Puerto Rico),Did Not Play (other pro league—Puerto Rico),Did Not Play (other pro league—Puerto Rico),Tony Delk
+1987-88,22.0,CLE,NBA,C,55.0,1.0,9.3,1.2,2.5,0.474,0.0,0.0,0.0,1.2,2.5,0.474,0.474,0.7,1.3,0.563,1.3,1.3,2.6,0.4,0.2,0.3,0.6,1.6,3.1,Chris Dudley
+1988-89,23.0,CLE,NBA,C,61.0,2.0,8.9,1.2,2.8,0.435,0.0,0.0,0.0,1.2,2.7,0.437,0.435,0.6,1.8,0.364,1.2,1.4,2.6,0.3,0.1,0.4,0.7,1.3,3.0,Chris Dudley
+1989-90,24.0,TOT,NBA,PF,64.0,30.0,21.2,2.3,5.5,0.411,0.0,0.0,0.0,2.3,5.5,0.411,0.411,0.9,2.8,0.319,2.7,3.9,6.6,0.6,0.6,1.1,1.3,2.6,5.5,Chris Dudley
+1989-90,24.0,CLE,NBA,PF,37.0,22.0,18.5,2.1,5.5,0.389,0.0,0.0,0.0,2.1,5.5,0.389,0.389,0.7,2.1,0.338,2.4,3.1,5.5,0.5,0.5,1.1,1.3,2.2,5.0,Chris Dudley
+1989-90,24.0,NJN,NBA,PF,27.0,8.0,24.9,2.5,5.6,0.441,0.0,0.0,0.0,2.5,5.6,0.441,0.441,1.2,3.9,0.305,3.2,5.0,8.1,0.7,0.8,1.1,1.3,3.0,6.1,Chris Dudley
+1990-91,25.0,NJN,NBA,C,61.0,25.0,25.6,2.8,6.8,0.408,0.0,0.0,0.0,2.8,6.8,0.408,0.408,1.5,2.9,0.534,3.8,4.6,8.4,0.6,0.6,2.5,1.3,3.6,7.1,Chris Dudley
+1991-92,26.0,NJN,NBA,C,82.0,21.0,23.2,2.3,5.8,0.403,0.0,0.0,0.0,2.3,5.8,0.403,0.403,1.0,2.1,0.468,4.2,4.8,9.0,0.7,0.5,2.2,1.0,3.4,5.6,Chris Dudley
+1992-93,27.0,NJN,NBA,C,71.0,16.0,19.7,1.3,3.7,0.353,0.0,0.0,0.0,1.3,3.7,0.353,0.353,0.8,1.5,0.518,3.0,4.2,7.2,0.2,0.2,1.5,0.8,2.7,3.5,Chris Dudley
+1993-94,28.0,POR,NBA,C,6.0,3.0,14.3,1.0,4.2,0.24,0.0,0.0,0.0,1.0,4.2,0.24,0.24,0.3,0.7,0.5,2.7,1.3,4.0,0.8,0.7,0.5,0.3,3.0,2.3,Chris Dudley
+1994-95,29.0,POR,NBA,C,82.0,82.0,27.4,2.2,5.4,0.406,0.0,0.0,0.0,2.2,5.4,0.407,0.406,1.0,2.2,0.464,4.0,5.4,9.3,0.4,0.5,1.5,1.0,3.5,5.5,Chris Dudley
+1995-96,30.0,POR,NBA,C,80.0,61.0,24.1,2.0,4.5,0.453,0.0,0.0,0.0,2.0,4.5,0.454,0.453,1.0,2.0,0.51,3.0,6.0,9.0,0.5,0.5,1.3,1.0,3.1,5.1,Chris Dudley
+1996-97,31.0,POR,NBA,C,81.0,14.0,22.7,1.6,3.6,0.43,0.0,0.0,0.0,1.6,3.6,0.43,0.43,0.8,1.7,0.474,2.5,4.8,7.3,0.5,0.5,1.2,1.0,3.0,3.9,Chris Dudley
+1997-98,32.0,NYK,NBA,C,51.0,22.0,16.8,1.1,2.8,0.406,0.0,0.0,0.0,1.1,2.8,0.406,0.406,0.8,1.8,0.446,2.1,3.3,5.4,0.4,0.3,1.0,0.9,2.7,3.1,Chris Dudley
+1998-99,33.0,NYK,NBA,C,46.0,16.0,14.9,1.0,2.4,0.44,0.0,0.0,0.0,1.0,2.4,0.44,0.44,0.4,0.9,0.475,1.7,2.5,4.2,0.2,0.3,0.8,0.5,2.5,2.5,Chris Dudley
+1999-00,34.0,NYK,NBA,C,47.0,3.0,9.8,0.5,1.4,0.343,0.0,0.0,0.0,0.5,1.4,0.343,0.343,0.2,0.6,0.333,1.3,1.6,2.9,0.1,0.1,0.4,0.4,2.0,1.2,Chris Dudley
+2000-01,35.0,PHO,NBA,C,53.0,33.0,11.6,0.5,1.4,0.397,0.0,0.0,0.0,0.5,1.4,0.397,0.397,0.3,0.7,0.389,1.2,2.2,3.5,0.3,0.3,0.5,0.5,2.1,1.4,Chris Dudley
+2001-02,36.0,POR,NBA,C,43.0,2.0,7.6,0.5,1.2,0.4,0.0,0.0,0.0,0.5,1.1,0.417,0.4,0.2,0.3,0.533,0.6,1.2,1.9,0.3,0.1,0.3,0.3,1.0,1.1,Chris Dudley
+2002-03,37.0,POR,NBA,C,3.0,0.0,3.7,0.0,0.3,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0,0.7,0.0,0.7,0.0,0.0,0.0,0.0,1.0,0.0,Chris Dudley
+1986-87,23.0,"Did Not Play (other pro league—Ireland, Argentina, USBL)","Did Not Play (other pro league—Ireland, Argentina, USBL)","Did Not Play (other pro league—Ireland, Argentina, USBL)","Did Not Play (other pro league—Ireland, Argentina, USBL)","Did Not Play (other pro league—Ireland, Argentina, USBL)","Did Not Play (other pro league—Ireland, Argentina, USBL)","Did Not Play (other pro league—Ireland, Argentina, USBL)","Did Not Play (other pro league—Ireland, Argentina, USBL)","Did Not Play (other pro league—Ireland, Argentina, USBL)","Did Not Play (other pro league—Ireland, Argentina, USBL)","Did Not Play (other pro league—Ireland, Argentina, USBL)","Did Not Play (other pro league—Ireland, Argentina, USBL)","Did Not Play (other pro league—Ireland, Argentina, USBL)","Did Not Play (other pro league—Ireland, Argentina, USBL)","Did Not Play (other pro league—Ireland, Argentina, USBL)","Did Not Play (other pro league—Ireland, Argentina, USBL)","Did Not Play (other pro league—Ireland, Argentina, USBL)","Did Not Play (other pro league—Ireland, Argentina, USBL)","Did Not Play (other pro league—Ireland, Argentina, USBL)","Did Not Play (other pro league—Ireland, Argentina, USBL)","Did Not Play (other pro league—Ireland, Argentina, USBL)","Did Not Play (other pro league—Ireland, Argentina, USBL)","Did Not Play (other pro league—Ireland, Argentina, USBL)","Did Not Play (other pro league—Ireland, Argentina, USBL)","Did Not Play (other pro league—Ireland, Argentina, USBL)","Did Not Play (other pro league—Ireland, Argentina, USBL)","Did Not Play (other pro league—Ireland, Argentina, USBL)","Did Not Play (other pro league—Ireland, Argentina, USBL)",Mario Elie
+1987-88,24.0,Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Mario Elie
+1988-89,25.0,Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Did Not Play (other pro league—Portugal),Mario Elie
+1990-91,27.0,TOT,NBA,"SF,SG",33,0,19.5,2.4,4.8,.497,0.1,0.3,.400,2.3,4.5,.503,.509,2.3,2.7,.843,1.4,1.9,3.3,1.4,0.6,0.3,0.9,2.6,7.2,Mario Elie
+1990-91,27.0,PHI,NBA,SG,3,0,6.7,0.7,2.3,.286,0.3,0.7,.500,0.3,1.7,.200,.357,0.3,0.7,.500,0.0,0.3,0.3,0.3,0.0,0.0,1.0,0.7,2.0,Mario Elie
+1990-91,27.0,GSW,NBA,SF,30,0,20.8,2.6,5.1,.507,0.1,0.3,.375,2.5,4.8,.514,.516,2.5,2.9,.851,1.5,2.1,3.6,1.5,0.6,0.3,0.9,2.8,7.7,Mario Elie
+1991-92,28.0,GSW,NBA,SG,79,32,21.2,2.8,5.4,.521,0.3,0.9,.329,2.5,4.5,.559,.548,2.0,2.3,.852,0.9,2.0,2.9,2.2,0.9,0.2,1.1,2.0,7.8,Mario Elie
+1992-93,29.0,POR,NBA,SF,82,7,21.4,2.9,6.4,.458,0.5,1.6,.349,2.4,4.8,.494,.501,2.2,2.6,.855,0.7,1.9,2.6,2.2,0.9,0.2,1.1,1.8,8.6,Mario Elie
+1993-94,30.0,HOU,NBA,SF,67,8,24.0,3.1,7.0,.446,0.8,2.5,.335,2.3,4.5,.508,.506,2.3,2.7,.860,0.4,2.3,2.7,3.1,0.7,0.1,1.6,1.9,9.3,Mario Elie
+1994-95,31.0,HOU,NBA,SF,81,13,23.4,3.0,6.0,.499,1.0,2.5,.398,2.0,3.5,.570,.581,1.8,2.1,.842,0.6,1.8,2.4,2.3,0.8,0.1,1.3,2.0,8.8,Mario Elie
+1995-96,32.0,HOU,NBA,SF,45,16,30.8,4.0,7.9,.504,0.9,2.8,.323,3.1,5.1,.604,.562,2.2,2.6,.852,1.0,2.4,3.4,3.1,1.0,0.2,1.3,2.1,11.1,Mario Elie
+1996-97,33.0,HOU,NBA,SF,78,77,34.4,3.7,7.5,.497,1.5,3.7,.420,2.2,3.8,.572,.600,2.7,3.0,.896,0.8,2.2,3.0,4.0,1.2,0.2,1.7,2.6,11.7,Mario Elie
+1997-98,34.0,HOU,NBA,SF,73,59,27.2,2.8,6.2,.452,0.8,2.6,.291,2.1,3.7,.566,.512,2.0,2.4,.833,0.5,1.6,2.1,3.0,1.1,0.1,1.4,1.6,8.4,Mario Elie
+1998-99,35.0,SAS,NBA,SG,47,37,27.5,3.3,7.0,.471,0.9,2.3,.374,2.5,4.8,.518,.532,2.2,2.5,.866,0.8,2.1,2.9,1.9,1.0,0.3,1.3,1.9,9.7,Mario Elie
+1999-00,36.0,SAS,NBA,SF,79,79,28.1,2.5,5.8,.427,0.9,2.4,.398,1.5,3.4,.446,.508,1.6,1.9,.846,0.6,2.5,3.2,2.4,0.9,0.1,1.6,2.0,7.5,Mario Elie
+2000-01,37.0,PHO,NBA,SG,68,67,22.1,1.5,3.6,.423,0.5,1.5,.360,1.0,2.1,.466,.496,0.8,1.0,.797,0.6,1.7,2.3,1.9,0.9,0.2,0.9,1.6,4.4,Mario Elie
+2000-01,27.0,TOT,NBA,PF,13.0,0.0,5.6,0.5,1.7,0.318,0.0,0.0,0.0,0.5,1.7,0.318,0.318,0.2,0.6,0.25,1.2,1.0,2.2,0.4,0.2,0.2,0.4,1.1,1.2,Rubén Garcés
+2000-01,27.0,PHO,NBA,PF,10.0,0.0,6.2,0.7,1.5,0.467,0.0,0.0,0.0,0.7,1.5,0.467,0.467,0.2,0.8,0.25,1.2,1.0,2.2,0.4,0.2,0.1,0.5,1.4,1.6,Rubén Garcés
+2000-01,27.0,GSW,NBA,PF,3.0,0.0,3.7,0.0,2.3,0.0,0.0,0.0,0.0,0.0,2.3,0.0,0.0,0.0,0.0,0.0,1.3,1.0,2.3,0.3,0.3,0.3,0.0,0.0,0.0,Rubén Garcés
+1992-93,23.0,WSB,NBA,PF,81.0,81.0,34.5,6.0,14.0,0.426,0.5,1.7,0.281,5.5,12.3,0.446,0.443,2.2,3.5,0.644,2.7,6.9,9.6,3.8,1.7,0.4,2.8,2.4,14.7,Tom Gugliotta
+1993-94,24.0,WSB,NBA,PF,78.0,78.0,35.8,6.9,14.9,0.466,0.5,1.9,0.27,6.4,13.0,0.495,0.483,2.7,4.0,0.685,2.4,6.9,9.3,3.5,2.2,0.7,3.2,2.2,17.1,Tom Gugliotta
+1994-95,25.0,TOT,NBA,"PF,SF",77.0,63.0,33.4,4.8,10.9,0.443,0.8,2.4,0.323,4.0,8.5,0.478,0.479,2.3,3.3,0.69,2.1,5.3,7.4,3.6,1.7,0.8,2.5,2.6,12.7,Tom Gugliotta
+1994-95,25.0,WSB,NBA,PF,6.0,6.0,37.7,5.5,13.8,0.398,0.7,1.3,0.5,4.8,12.5,0.387,0.422,4.3,5.5,0.788,2.7,6.2,8.8,3.0,3.5,1.8,2.5,3.2,16.0,Tom Gugliotta
+1994-95,25.0,GSW,NBA,PF,40.0,40.0,33.1,4.4,9.9,0.443,0.7,2.3,0.311,3.7,7.7,0.482,0.479,1.4,2.4,0.567,2.5,4.9,7.4,3.1,1.3,0.6,2.3,2.5,10.9,Tom Gugliotta
+1994-95,25.0,MIN,NBA,SF,31.0,17.0,32.8,5.2,11.5,0.454,0.9,2.8,0.318,4.3,8.7,0.498,0.493,3.0,3.9,0.762,1.6,5.6,7.2,4.5,2.0,0.9,2.6,2.8,14.4,Tom Gugliotta
+1995-96,26.0,MIN,NBA,PF,78.0,78.0,36.3,6.1,12.9,0.471,0.3,1.1,0.302,5.7,11.8,0.487,0.484,3.7,4.8,0.773,2.3,6.6,8.8,3.1,1.8,1.2,3.0,3.4,16.2,Tom Gugliotta
+1996-97,27.0,MIN,NBA,PF,81.0,81.0,38.7,7.3,16.5,0.442,0.3,1.1,0.258,7.0,15.4,0.456,0.451,5.7,7.0,0.82,2.3,6.4,8.7,4.1,1.6,1.1,3.6,2.9,20.6,Tom Gugliotta
+1997-98,28.0,MIN,NBA,SF,41.0,41.0,38.6,7.8,15.5,0.502,0.0,0.4,0.118,7.7,15.1,0.513,0.504,4.5,5.4,0.821,2.6,6.1,8.7,4.1,1.5,0.5,2.7,2.5,20.1,Tom Gugliotta
+1998-99,29.0,PHO,NBA,PF,43.0,43.0,36.3,6.4,13.3,0.483,0.0,0.2,0.286,6.4,13.2,0.486,0.485,4.0,5.1,0.794,3.0,5.8,8.9,2.8,1.4,0.5,2.0,2.6,17.0,Tom Gugliotta
+1999-00,30.0,PHO,NBA,PF,54.0,54.0,32.7,5.7,11.9,0.481,0.0,0.1,0.125,5.7,11.8,0.485,0.481,2.2,2.8,0.775,2.6,5.3,7.9,2.3,1.5,0.6,2.0,2.8,13.7,Tom Gugliotta
+2000-01,31.0,PHO,NBA,PF,57.0,2.0,20.3,2.6,6.7,0.392,0.1,0.2,0.25,2.6,6.5,0.397,0.396,1.1,1.4,0.792,1.3,3.1,4.5,1.0,0.8,0.4,0.9,1.9,6.4,Tom Gugliotta
+2001-02,32.0,PHO,NBA,PF,44.0,40.0,25.7,2.9,6.8,0.422,0.1,0.2,0.333,2.8,6.6,0.425,0.427,0.6,0.8,0.757,1.3,3.7,5.0,1.8,0.9,0.7,1.4,2.6,6.5,Tom Gugliotta
+2002-03,33.0,PHO,NBA,PF,27.0,11.0,16.6,2.2,4.9,0.455,0.0,0.0,0.0,2.2,4.9,0.458,0.455,0.3,0.3,1.0,0.9,2.8,3.7,1.1,0.5,0.2,1.1,1.3,4.8,Tom Gugliotta
+2003-04,34.0,TOT,NBA,PF,55.0,27.0,14.9,1.3,3.7,0.345,0.0,0.1,0.25,1.3,3.6,0.347,0.347,0.4,0.5,0.714,1.2,2.2,3.4,1.1,0.6,0.2,0.7,1.5,2.9,Tom Gugliotta
+2003-04,34.0,PHO,NBA,PF,30.0,3.0,10.1,1.0,3.3,0.313,0.0,0.0,0.0,1.0,3.3,0.316,0.313,0.2,0.3,0.75,0.5,1.4,1.9,0.7,0.5,0.1,0.7,1.1,2.3,Tom Gugliotta
+2003-04,34.0,UTA,NBA,PF,25.0,24.0,20.6,1.6,4.2,0.375,0.0,0.1,0.333,1.5,4.0,0.376,0.38,0.6,0.8,0.7,2.0,3.2,5.2,1.7,0.7,0.3,0.8,1.9,3.7,Tom Gugliotta
+2004-05,35.0,TOT,NBA,PF,47.0,9.0,20.6,2.1,5.1,0.411,0.2,0.6,0.308,1.9,4.6,0.423,0.427,0.7,0.9,0.767,1.2,2.9,4.1,1.4,0.9,0.4,1.2,2.2,5.1,Tom Gugliotta
+2004-05,35.0,BOS,NBA,PF,20.0,0.0,10.9,0.6,1.9,0.297,0.0,0.0,0.0,0.6,1.9,0.297,0.297,0.2,0.3,0.667,0.8,1.4,2.2,0.6,0.5,0.2,0.5,1.2,1.3,Tom Gugliotta
+2004-05,35.0,ATL,NBA,PF,27.0,9.0,27.7,3.3,7.6,0.431,0.3,1.0,0.308,3.0,6.6,0.449,0.451,1.1,1.4,0.784,1.5,4.0,5.5,2.1,1.2,0.5,1.8,3.0,7.9,Tom Gugliotta
+1993-94,22.0,ORL,NBA,PG,82,82,36.8,6.2,13.3,.466,0.6,2.3,.267,5.6,11.0,.507,.489,3.0,4.0,.742,2.3,3.0,5.4,6.6,2.3,0.6,3.6,2.5,16.0,Anfernee Hardaway
+1994-95,23.0,ORL,NBA,PG,77,77,37.7,7.6,14.8,.512,1.1,3.2,.349,6.5,11.6,.558,.550,4.6,6.0,.769,1.8,2.6,4.4,7.2,1.7,0.3,3.4,2.1,20.9,Anfernee Hardaway
+1995-96,24.0,ORL,NBA,PG,82,82,36.8,7.6,14.8,.513,1.1,3.5,.314,6.5,11.4,.573,.549,5.4,7.1,.767,1.6,2.7,4.3,7.1,2.0,0.5,2.8,2.0,21.7,Anfernee Hardaway
+1996-97,25.0,ORL,NBA,PG,59,59,37.6,7.1,15.9,.447,1.4,4.5,.318,5.7,11.4,.499,.493,4.8,5.8,.820,1.4,3.1,4.5,5.6,1.6,0.6,2.5,2.1,20.5,Anfernee Hardaway
+1997-98,26.0,ORL,NBA,SG,19,15,32.9,5.4,14.4,.377,0.8,2.6,.300,4.6,11.7,.395,.405,4.7,6.2,.763,0.4,3.6,4.0,3.6,1.5,0.8,2.4,2.4,16.4,Anfernee Hardaway
+1998-99,27.0,ORL,NBA,SG,50,50,38.9,6.0,14.3,.420,0.8,2.8,.286,5.2,11.5,.452,.448,3.0,4.2,.706,1.5,4.2,5.7,5.3,2.2,0.5,3.0,2.2,15.8,Anfernee Hardaway
+1999-00,28.0,PHO,NBA,SG,60,60,37.6,6.3,13.3,.474,0.6,1.7,.324,5.8,11.6,.496,.494,3.8,4.8,.790,1.5,4.3,5.8,5.3,1.6,0.6,2.6,2.7,16.9,Anfernee Hardaway
+2000-01,29.0,PHO,NBA,SG,4,4,28.0,3.8,9.0,.417,0.5,2.0,.250,3.3,7.0,.464,.444,1.8,2.8,.636,1.3,3.3,4.5,3.8,1.5,0.3,0.8,1.5,9.8,Anfernee Hardaway
+2001-02,30.0,PHO,NBA,SG,80,55,30.8,4.9,11.6,.418,0.3,1.0,.277,4.6,10.6,.432,.430,2.0,2.4,.810,1.2,3.2,4.4,4.1,1.5,0.4,2.4,2.3,12.0,Anfernee Hardaway
+2002-03,31.0,PHO,NBA,SG,58,51,30.6,4.4,9.9,.447,0.4,1.3,.356,4.0,8.6,.460,.469,1.3,1.7,.794,1.1,3.3,4.4,4.1,1.1,0.4,2.5,2.6,10.6,Anfernee Hardaway
+2003-04,32.0,TOT,NBA,SG,76,14,27.6,3.7,8.9,.411,0.4,1.0,.380,3.3,7.9,.415,.433,1.5,1.8,.804,0.9,2.9,3.8,2.3,0.9,0.3,1.4,1.9,9.2,Anfernee Hardaway
+2003-04,32.0,PHO,NBA,SG,34,10,25.8,3.5,8.0,.443,0.4,1.0,.400,3.1,6.9,.449,.469,1.2,1.4,.857,0.8,2.1,2.9,2.9,0.8,0.2,1.2,1.9,8.7,Anfernee Hardaway
+2003-04,32.0,NYK,NBA,SG,42,4,29.0,3.8,9.7,.390,0.4,1.0,.364,3.4,8.7,.393,.409,1.6,2.1,.775,1.0,3.5,4.5,1.9,1.0,0.3,1.5,1.9,9.6,Anfernee Hardaway
+2004-05,33.0,NYK,NBA,SF,37,0,24.2,3.0,7.0,.423,0.4,1.4,.300,2.6,5.7,.452,.452,0.9,1.2,.739,0.5,1.9,2.4,2.0,0.8,0.1,1.4,2.1,7.3,Anfernee Hardaway
+2005-06,34.0,NYK,NBA,SF,4,0,18.0,1.0,3.5,.286,0.0,0.3,.000,1.0,3.3,.308,.286,0.5,0.5,1.000,0.0,2.5,2.5,2.0,0.5,0.0,1.5,1.8,2.5,Anfernee Hardaway
+2006-07,35.0,Did Not Play (retired),Did Not Play (retired),Did Not Play (retired),Did Not Play (retired),Did Not Play (retired),Did Not Play (retired),Did Not Play (retired),Did Not Play (retired),Did Not Play (retired),Did Not Play (retired),Did Not Play (retired),Did Not Play (retired),Did Not Play (retired),Did Not Play (retired),Did Not Play (retired),Did Not Play (retired),Did Not Play (retired),Did Not Play (retired),Did Not Play (retired),Did Not Play (retired),Did Not Play (retired),Did Not Play (retired),Did Not Play (retired),Did Not Play (retired),Did Not Play (retired),Did Not Play (retired),Did Not Play (retired),Did Not Play (retired),Anfernee Hardaway
+2007-08,36.0,MIA,NBA,SF,16,8,20.3,1.4,3.8,.367,0.5,1.2,.421,0.9,2.6,.341,.433,0.5,0.6,.889,0.2,2.0,2.2,2.2,1.2,0.1,0.8,1.5,3.8,Anfernee Hardaway
+1994-95,21.0,DAL,NBA,PG,79.0,79.0,33.8,4.2,10.8,0.385,0.9,3.3,0.272,3.3,7.6,0.433,0.426,2.4,3.5,0.698,1.9,3.5,5.4,7.7,1.9,0.3,3.2,1.8,11.7,Jason Kidd
+1995-96,22.0,DAL,NBA,PG,81.0,81.0,37.5,6.1,16.0,0.381,1.6,4.9,0.336,4.4,11.1,0.401,0.433,2.8,4.1,0.692,2.5,4.3,6.8,9.7,2.2,0.3,4.0,1.9,16.6,Jason Kidd
+1996-97,23.0,TOT,NBA,PG,55.0,45.0,35.7,3.9,9.6,0.403,1.1,3.0,0.37,2.8,6.6,0.418,0.46,2.0,3.0,0.679,1.2,3.4,4.5,9.0,2.3,0.4,2.6,2.1,10.9,Jason Kidd
+1996-97,23.0,DAL,NBA,PG,22.0,22.0,36.0,3.4,9.2,0.369,1.0,3.0,0.323,2.5,6.3,0.391,0.421,2.1,3.1,0.667,1.4,2.7,4.1,9.1,2.0,0.4,3.0,1.9,9.9,Jason Kidd
+1996-97,23.0,PHO,NBA,PG,33.0,23.0,35.5,4.2,9.9,0.423,1.2,3.0,0.4,3.0,6.8,0.434,0.485,2.0,2.9,0.688,1.0,3.8,4.8,9.0,2.4,0.4,2.3,2.2,11.6,Jason Kidd
+1997-98,24.0,PHO,NBA,PG,82.0,82.0,38.0,4.4,10.5,0.416,0.9,2.8,0.313,3.5,7.6,0.454,0.458,2.0,2.5,0.799,1.3,4.9,6.2,9.1,2.0,0.3,3.2,1.7,11.6,Jason Kidd
+1998-99,25.0,PHO,NBA,PG,50.0,50.0,41.2,6.2,14.0,0.444,0.9,2.5,0.366,5.3,11.5,0.461,0.476,3.6,4.8,0.757,1.7,5.0,6.8,10.8,2.3,0.4,3.0,2.2,16.9,Jason Kidd
+1999-00,26.0,PHO,NBA,PG,67.0,67.0,39.0,5.2,12.8,0.409,0.8,2.5,0.337,4.4,10.3,0.427,0.442,3.0,3.7,0.829,1.4,5.8,7.2,10.1,2.0,0.4,3.4,2.2,14.3,Jason Kidd
+2000-01,27.0,PHO,NBA,PG,77.0,76.0,39.8,5.9,14.2,0.411,0.9,3.0,0.297,5.0,11.2,0.442,0.443,4.3,5.2,0.814,1.2,5.2,6.4,9.8,2.2,0.3,3.7,2.2,16.9,Jason Kidd
+2001-02,28.0,NJN,NBA,PG,82.0,82.0,37.3,5.4,13.9,0.391,1.4,4.4,0.321,4.0,9.4,0.424,0.442,2.5,3.0,0.814,1.6,5.7,7.3,9.9,2.1,0.2,3.5,1.7,14.7,Jason Kidd
+2002-03,29.0,NJN,NBA,PG,80.0,80.0,37.4,6.4,15.6,0.414,1.6,4.6,0.341,4.9,10.9,0.445,0.465,4.2,5.0,0.841,1.4,4.9,6.3,8.9,2.2,0.3,3.7,1.6,18.7,Jason Kidd
+2003-04,30.0,NJN,NBA,PG,67.0,66.0,36.6,5.5,14.3,0.384,1.4,4.4,0.321,4.1,9.9,0.411,0.433,3.1,3.7,0.827,1.3,5.1,6.4,9.2,1.8,0.2,3.2,1.6,15.5,Jason Kidd
+2004-05,31.0,NJN,NBA,PG,66.0,65.0,36.9,5.2,13.0,0.398,2.0,5.4,0.36,3.2,7.5,0.425,0.473,2.2,2.9,0.74,1.4,6.0,7.4,8.3,1.9,0.1,2.5,1.7,14.4,Jason Kidd
+2005-06,32.0,NJN,NBA,PG,80.0,80.0,37.2,4.6,11.3,0.404,1.7,4.9,0.352,2.8,6.4,0.445,0.481,2.4,3.1,0.795,1.1,6.2,7.3,8.4,1.9,0.4,2.4,2.0,13.3,Jason Kidd
+2006-07,33.0,NJN,NBA,PG,80.0,80.0,36.7,4.6,11.4,0.406,1.6,4.5,0.343,3.1,6.8,0.448,0.475,2.2,2.9,0.778,1.7,6.5,8.2,9.2,1.6,0.3,2.7,1.8,13.0,Jason Kidd
+2007-08,34.0,TOT,NBA,PG,80.0,80.0,36.3,3.8,9.9,0.385,1.5,3.9,0.381,2.3,6.0,0.387,0.46,1.7,2.1,0.818,1.2,6.3,7.5,10.1,1.7,0.3,3.3,2.1,10.8,Jason Kidd
+2007-08,34.0,NJN,NBA,PG,51.0,51.0,37.2,3.9,10.8,0.366,1.6,4.6,0.356,2.3,6.1,0.374,0.443,1.8,2.2,0.82,1.1,6.9,8.1,10.4,1.5,0.3,3.6,1.8,11.3,Jason Kidd
+2007-08,34.0,DAL,NBA,PG,29.0,29.0,34.9,3.6,8.4,0.426,1.2,2.6,0.461,2.4,5.8,0.411,0.498,1.5,1.9,0.815,1.2,5.2,6.5,9.5,2.1,0.4,2.8,2.6,9.9,Jason Kidd
+2008-09,35.0,DAL,NBA,PG,81.0,81.0,35.6,3.2,7.6,0.416,1.6,4.0,0.406,1.6,3.6,0.427,0.522,1.1,1.3,0.819,1.0,5.1,6.2,8.7,2.0,0.5,2.3,2.1,9.0,Jason Kidd
+2009-10,36.0,DAL,NBA,PG,80.0,80.0,36.0,3.6,8.4,0.423,2.2,5.2,0.425,1.4,3.2,0.42,0.554,1.0,1.2,0.808,0.6,5.0,5.6,9.1,1.8,0.4,2.4,1.8,10.3,Jason Kidd
+2010-11,37.0,DAL,NBA,PG,80.0,80.0,33.2,2.7,7.5,0.361,1.7,4.9,0.34,1.0,2.6,0.4,0.472,0.8,1.0,0.87,0.4,4.0,4.4,8.2,1.7,0.4,2.2,1.5,7.9,Jason Kidd
+2011-12,38.0,DAL,NBA,PG,48.0,48.0,28.7,2.1,5.7,0.363,1.6,4.6,0.354,0.4,1.0,0.4,0.507,0.5,0.6,0.786,0.3,3.8,4.1,5.5,1.7,0.2,1.9,1.7,6.2,Jason Kidd
+2012-13,39.0,NYK,NBA,SG,76.0,48.0,26.9,2.0,5.4,0.372,1.5,4.3,0.351,0.5,1.1,0.452,0.511,0.5,0.6,0.833,0.7,3.6,4.3,3.3,1.6,0.3,1.0,1.6,6.0,Jason Kidd
+1999-00,21.0,PHO,NBA,SF,51.0,38.0,24.7,4.4,9.2,0.471,0.1,0.4,0.182,4.3,8.8,0.486,0.476,1.4,1.7,0.847,2.1,4.5,6.5,1.4,0.7,1.0,1.0,2.2,10.2,Shawn Marion
+2000-01,22.0,PHO,NBA,SF,79.0,79.0,36.2,7.1,14.7,0.48,0.3,1.0,0.256,6.8,13.6,0.497,0.489,3.0,3.7,0.81,2.8,7.9,10.7,2.0,1.7,1.4,1.6,2.7,17.3,Shawn Marion
+2001-02,23.0,PHO,NBA,SF,81.0,81.0,38.4,8.1,17.2,0.469,0.6,1.5,0.393,7.5,15.7,0.476,0.486,2.4,2.8,0.845,2.6,7.3,9.9,2.0,1.8,1.1,1.8,2.6,19.1,Shawn Marion
+2002-03,24.0,PHO,NBA,SF,81.0,81.0,41.6,8.2,18.1,0.452,1.7,4.5,0.387,6.4,13.6,0.473,0.5,3.1,3.6,0.851,2.5,7.1,9.5,2.4,2.3,1.2,1.9,2.6,21.2,Shawn Marion
+2003-04,25.0,PHO,NBA,SF,79.0,79.0,40.7,7.5,17.0,0.44,1.1,3.4,0.34,6.3,13.6,0.465,0.474,2.9,3.4,0.851,2.7,6.6,9.3,2.7,2.1,1.3,2.0,2.6,19.0,Shawn Marion
+2004-05,26.0,PHO,NBA,PF,81.0,81.0,38.8,7.6,15.9,0.476,1.4,4.2,0.334,6.2,11.7,0.526,0.52,2.8,3.4,0.833,2.9,8.4,11.3,1.9,2.0,1.5,1.5,2.5,19.4,Shawn Marion
+2005-06,27.0,PHO,NBA,PF,81.0,81.0,40.3,8.8,16.9,0.525,1.2,3.6,0.331,7.7,13.3,0.577,0.56,3.0,3.7,0.809,3.1,8.8,11.8,1.8,2.0,1.7,1.5,2.8,21.8,Shawn Marion
+2006-07,28.0,PHO,NBA,SF,80.0,80.0,37.6,7.0,13.4,0.524,1.0,3.2,0.317,6.0,10.2,0.587,0.561,2.5,3.1,0.81,2.2,7.7,9.8,1.7,2.0,1.5,1.4,2.7,17.5,Shawn Marion
+2007-08,29.0,TOT,NBA,PF,63.0,62.0,36.7,6.3,12.5,0.508,1.0,3.1,0.333,5.3,9.3,0.567,0.55,1.7,2.4,0.707,2.2,8.0,10.2,2.2,2.0,1.3,1.4,2.4,15.4,Shawn Marion
+2007-08,29.0,PHO,NBA,PF,47.0,47.0,36.4,6.5,12.3,0.526,1.2,3.6,0.347,5.2,8.7,0.599,0.576,1.6,2.3,0.713,1.8,8.0,9.9,2.1,2.0,1.5,1.0,2.5,15.8,Shawn Marion
+2007-08,29.0,MIA,NBA,PF,16.0,15.0,37.6,6.0,13.1,0.459,0.5,1.9,0.258,5.5,11.1,0.494,0.478,1.8,2.6,0.69,3.1,8.1,11.2,2.5,1.9,0.9,2.3,2.1,14.3,Shawn Marion
+2008-09,30.0,TOT,NBA,SF,69.0,68.0,35.8,5.5,11.4,0.485,0.1,0.8,0.189,5.4,10.7,0.506,0.491,1.7,2.1,0.796,2.6,5.9,8.5,2.0,1.3,1.0,1.5,1.9,12.9,Shawn Marion
+2008-09,30.0,MIA,NBA,SF,42.0,41.0,36.1,5.1,10.6,0.482,0.2,1.0,0.2,4.9,9.7,0.51,0.491,1.6,2.0,0.788,2.5,6.1,8.7,1.8,1.4,1.1,1.3,2.2,12.0,Shawn Marion
+2008-09,30.0,TOR,NBA,SF,27.0,27.0,35.3,6.2,12.7,0.488,0.1,0.5,0.154,6.1,12.2,0.502,0.491,1.9,2.3,0.806,2.7,5.6,8.3,2.3,1.1,0.8,1.8,1.5,14.3,Shawn Marion
+2009-10,31.0,DAL,NBA,SF,75.0,75.0,31.8,5.3,10.4,0.508,0.0,0.3,0.158,5.2,10.1,0.516,0.51,1.4,1.9,0.755,2.1,4.3,6.4,1.4,0.9,0.8,1.3,1.9,12.0,Shawn Marion
+2010-11,32.0,DAL,NBA,SF,80.0,27.0,28.2,5.4,10.4,0.52,0.1,0.4,0.152,5.4,10.0,0.536,0.523,1.6,2.1,0.768,2.1,4.8,6.9,1.4,0.9,0.6,1.6,1.8,12.5,Shawn Marion
+2011-12,33.0,DAL,NBA,SF,63.0,63.0,30.5,4.6,10.3,0.446,0.3,1.1,0.294,4.3,9.2,0.464,0.461,1.2,1.5,0.796,2.3,5.1,7.4,2.1,1.1,0.6,1.6,1.4,10.6,Shawn Marion
+2012-13,34.0,DAL,NBA,PF,67.0,67.0,30.0,5.3,10.3,0.514,0.3,1.1,0.315,5.0,9.2,0.538,0.531,1.2,1.5,0.782,2.2,5.7,7.8,2.4,1.1,0.7,1.5,1.7,12.1,Shawn Marion
+2013-14,35.0,DAL,NBA,SF,76.0,76.0,31.7,4.5,9.3,0.482,0.8,2.1,0.358,3.7,7.2,0.518,0.523,0.7,0.9,0.785,1.7,4.8,6.5,1.6,1.2,0.5,1.3,1.6,10.4,Shawn Marion
+2014-15,36.0,CLE,NBA,SF,57.0,24.0,19.3,2.1,4.7,0.446,0.2,0.8,0.261,1.9,3.9,0.484,0.468,0.5,0.6,0.765,1.1,2.4,3.5,0.9,0.5,0.5,0.6,1.0,4.8,Shawn Marion
+2000-01,22.0,TOT,NBA,PG,55.0,0.0,10.8,2.0,3.9,0.505,0.0,0.2,0.167,1.9,3.7,0.525,0.509,0.8,1.1,0.724,0.7,0.7,1.4,0.7,0.5,0.1,0.9,1.5,4.8,Paul McPherson
+2000-01,22.0,PHO,NBA,PG,33.0,0.0,9.3,1.4,2.9,0.49,0.0,0.2,0.0,1.4,2.7,0.522,0.49,0.5,0.7,0.75,0.6,0.8,1.5,0.5,0.4,0.1,0.7,1.5,3.4,Paul McPherson
+2000-01,22.0,GSW,NBA,PG,22.0,0.0,13.0,2.8,5.5,0.517,0.1,0.3,0.333,2.7,5.2,0.526,0.525,1.1,1.5,0.706,0.9,0.5,1.4,1.0,0.6,0.0,1.1,1.5,6.8,Paul McPherson
+1991-92,22.0,TOT,NBA,PG,50,0,8.7,1.0,2.6,.380,0.0,0.1,.143,1.0,2.4,.393,.384,0.5,0.8,.659,0.3,0.5,0.8,1.6,0.7,0.1,1.0,0.7,2.5,Elliot Perry
+1991-92,22.0,LAC,NBA,PG,10,0,6.6,0.6,1.5,.400,0.0,0.2,.000,0.6,1.3,.462,.400,0.1,0.2,.500,0.2,0.5,0.7,1.4,0.9,0.1,1.3,1.0,1.3,Elliot Perry
+1991-92,22.0,CHH,NBA,PG,40,0,9.3,1.1,2.9,.377,0.0,0.1,.200,1.1,2.7,.385,.382,0.7,1.0,.667,0.3,0.5,0.8,1.6,0.6,0.1,0.9,0.7,2.8,Elliot Perry
+1992-93,23.0,Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Did Not Play (other pro league—CBA),Elliot Perry
+1993-94,24.0,PHO,NBA,PG,27,9,16.0,1.6,4.2,.372,0.0,0.1,.000,1.6,4.1,.382,.372,0.8,1.0,.750,0.4,1.0,1.4,4.6,0.9,0.0,1.6,1.3,3.9,Elliot Perry
+1994-95,25.0,PHO,NBA,PG,82,51,24.1,3.7,7.2,.520,0.3,0.7,.417,3.4,6.4,.532,.542,1.9,2.4,.810,0.6,1.2,1.8,4.8,1.9,0.0,2.0,1.7,9.7,Elliot Perry
+1995-96,26.0,PHO,NBA,PG,81,26,20.6,3.2,6.8,.475,0.3,0.7,.407,2.9,6.0,.484,.497,1.9,2.4,.778,0.4,1.3,1.7,4.4,1.1,0.1,1.8,1.7,8.6,Elliot Perry
+1996-97,27.0,MIL,NBA,PG,82,3,19.5,2.6,5.6,.474,0.6,1.7,.358,2.0,3.9,.523,.527,1.0,1.3,.745,0.3,1.2,1.5,3.0,1.2,0.0,1.4,1.4,6.9,Elliot Perry
+1997-98,28.0,MIL,NBA,PG,81,33,21.6,3.0,6.9,.430,0.2,0.6,.340,2.8,6.3,.438,.445,1.1,1.3,.844,0.3,1.1,1.3,2.8,1.1,0.0,1.6,1.6,7.3,Elliot Perry
+1998-99,29.0,TOT,NBA,PG,35,0,8.3,1.1,2.9,.379,0.3,0.7,.417,0.8,2.3,.367,.427,0.3,0.4,.714,0.2,0.8,1.0,1.3,0.6,0.0,1.0,0.7,2.8,Elliot Perry
+1998-99,29.0,MIL,NBA,PG,5,0,9.4,1.8,3.4,.529,0.2,0.2,1.000,1.6,3.2,.500,.559,0.2,0.4,.500,0.2,1.4,1.6,2.4,0.8,0.0,0.4,0.6,4.0,Elliot Perry
+1998-99,29.0,NJN,NBA,PG,30,0,8.1,1.0,2.9,.349,0.3,0.8,.391,0.7,2.1,.333,.401,0.3,0.4,.750,0.2,0.7,0.9,1.2,0.5,0.0,1.1,0.7,2.6,Elliot Perry
+1999-00,30.0,NJN,NBA,PG,60,5,13.4,2.1,4.9,.435,0.2,0.7,.282,2.0,4.3,.459,.454,0.8,1.0,.806,0.2,0.8,1.0,2.3,0.7,0.0,1.0,0.8,5.3,Elliot Perry
+2000-01,31.0,TOT,NBA,PG,49,6,10.2,1.3,2.9,.464,0.0,0.1,.200,1.3,2.8,.474,.468,0.3,0.4,.727,0.2,0.8,0.9,1.6,0.4,0.0,0.8,0.6,3.0,Elliot Perry
+2000-01,31.0,ORL,NBA,PG,6,0,6.5,0.8,1.8,.455,0.0,0.2,.000,0.8,1.7,.500,.455,0.0,0.0,0,0.2,0.5,0.7,0.8,0.5,0.0,1.0,0.2,1.7,Elliot Perry
+2000-01,31.0,PHO,NBA,PG,43,6,10.7,1.4,3.0,.465,0.0,0.1,.250,1.4,2.9,.472,.469,0.4,0.5,.727,0.2,0.8,1.0,1.7,0.4,0.0,0.7,0.7,3.2,Elliot Perry
+2001-02,32.0,MEM,NBA,PG,2,0,24.0,2.5,5.0,.500,0.0,0.0,0,2.5,5.0,.500,.500,0.5,1.0,.500,0.0,2.0,2.0,3.5,1.5,0.0,3.5,3.0,5.5,Elliot Perry
+1989-90,23.0,POR,NBA,PF,82.0,0.0,19.1,3.6,9.2,0.397,0.1,0.5,0.273,3.5,8.6,0.405,0.405,1.7,3.1,0.55,1.3,2.4,3.8,0.9,0.6,0.6,1.6,2.8,9.1,Clifford Robinson
+1990-91,24.0,POR,NBA,PF,82.0,11.0,23.7,4.5,9.8,0.463,0.1,0.2,0.316,4.5,9.6,0.466,0.467,2.5,3.8,0.653,1.5,2.8,4.3,1.8,1.0,0.9,1.6,3.2,11.7,Clifford Robinson
+1991-92,25.0,POR,NBA,SF,82.0,7.0,25.9,4.9,10.4,0.466,0.0,0.1,0.091,4.8,10.3,0.471,0.467,2.7,4.0,0.664,1.7,3.4,5.1,1.7,1.0,1.3,1.9,3.3,12.4,Clifford Robinson
+1992-93,26.0,POR,NBA,PF,82.0,12.0,31.4,7.7,16.3,0.473,0.2,0.9,0.247,7.5,15.4,0.487,0.48,3.5,5.1,0.69,2.0,4.6,6.6,2.2,1.2,2.0,2.1,3.5,19.1,Clifford Robinson
+1993-94,27.0,POR,NBA,C,82.0,64.0,34.8,7.8,17.1,0.457,0.2,0.6,0.245,7.7,16.5,0.465,0.461,4.3,5.6,0.765,2.0,4.7,6.7,1.9,1.4,1.4,2.1,3.2,20.1,Clifford Robinson
+1994-95,28.0,POR,NBA,SF,75.0,73.0,36.3,8.0,17.6,0.452,1.9,5.1,0.371,6.1,12.5,0.486,0.506,3.5,5.1,0.694,2.0,3.6,5.6,2.6,1.1,1.1,2.1,3.2,21.3,Clifford Robinson
+1995-96,29.0,POR,NBA,SF,78.0,76.0,38.2,7.1,16.7,0.423,2.3,6.0,0.378,4.8,10.7,0.449,0.492,4.6,6.9,0.664,1.6,4.1,5.7,2.4,1.1,0.9,2.5,3.2,21.1,Clifford Robinson
+1996-97,30.0,POR,NBA,SF,81.0,79.0,38.0,5.5,12.9,0.426,1.5,4.3,0.346,4.0,8.6,0.466,0.484,2.7,3.8,0.696,1.1,2.9,4.0,3.2,1.2,0.8,2.1,3.1,15.1,Clifford Robinson
+1997-98,31.0,PHO,NBA,SF,80.0,64.0,29.5,5.4,11.2,0.479,0.3,1.1,0.321,5.0,10.1,0.496,0.494,3.1,4.5,0.689,1.9,3.2,5.1,2.1,1.2,1.1,1.8,3.1,14.2,Clifford Robinson
+1998-99,32.0,PHO,NBA,SF,50.0,35.0,34.8,6.0,12.6,0.475,1.2,2.8,0.417,4.8,9.8,0.492,0.521,3.3,4.7,0.697,1.4,3.2,4.5,2.6,1.5,1.2,1.8,3.1,16.4,Clifford Robinson
+1999-00,33.0,PHO,NBA,SF,80.0,67.0,35.5,6.6,14.3,0.464,1.5,4.1,0.37,5.1,10.2,0.501,0.517,3.7,4.8,0.782,1.3,3.2,4.5,2.8,1.1,0.8,2.1,3.0,18.5,Clifford Robinson
+2000-01,34.0,PHO,NBA,PF,82.0,82.0,33.5,6.1,14.5,0.422,1.1,3.0,0.361,5.0,11.4,0.439,0.46,3.1,4.4,0.709,1.3,2.8,4.1,2.9,1.1,1.0,2.3,3.1,16.4,Clifford Robinson
+2001-02,35.0,DET,NBA,PF,80.0,80.0,35.7,5.7,13.4,0.425,1.4,3.8,0.378,4.2,9.6,0.443,0.478,1.8,2.6,0.694,1.0,3.8,4.8,2.5,1.1,1.2,1.9,3.0,14.6,Clifford Robinson
+2002-03,36.0,DET,NBA,PF,81.0,69.0,34.9,4.6,11.5,0.398,1.1,3.2,0.336,3.5,8.3,0.422,0.444,2.0,2.9,0.676,1.0,2.9,3.9,3.3,1.1,1.1,2.0,3.2,12.2,Clifford Robinson
+2003-04,37.0,GSW,NBA,PF,82.0,82.0,34.7,4.5,11.5,0.387,1.4,3.8,0.357,3.1,7.7,0.403,0.447,1.5,2.1,0.711,0.7,3.3,3.9,3.3,0.8,0.9,2.1,2.9,11.8,Clifford Robinson
+2004-05,38.0,TOT,NBA,"C,PF",71.0,29.0,23.8,2.8,7.4,0.386,0.9,2.7,0.347,1.9,4.6,0.409,0.45,0.9,1.4,0.639,0.8,2.2,2.9,1.5,0.9,0.7,0.9,2.5,7.5,Clifford Robinson
+2004-05,38.0,GSW,NBA,C,42.0,29.0,26.0,3.4,8.4,0.398,1.0,3.0,0.331,2.4,5.4,0.436,0.458,0.8,1.4,0.603,0.7,2.0,2.7,1.8,1.0,0.9,1.0,2.5,8.5,Clifford Robinson
+2004-05,38.0,NJN,NBA,PF,29.0,0.0,20.7,2.1,5.8,0.361,0.9,2.3,0.379,1.2,3.6,0.35,0.435,0.9,1.3,0.692,0.8,2.5,3.3,1.0,0.6,0.5,0.9,2.6,6.0,Clifford Robinson
+2005-06,39.0,NJN,NBA,PF,80.0,13.0,23.3,2.7,6.4,0.427,0.8,2.2,0.343,2.0,4.2,0.47,0.485,0.7,1.0,0.658,0.7,2.7,3.3,1.1,0.6,0.5,0.8,2.6,6.9,Clifford Robinson
+2006-07,40.0,NJN,NBA,C,50.0,1.0,19.1,1.6,4.4,0.372,0.5,1.3,0.379,1.1,3.0,0.368,0.429,0.3,0.7,0.444,0.6,1.8,2.4,1.0,0.2,0.5,0.6,2.0,4.1,Clifford Robinson
+1993-94,22.0,DEN,NBA,SF,79.0,14.0,17.8,3.0,6.9,0.439,0.4,1.2,0.38,2.6,5.7,0.45,0.471,1.6,2.4,0.672,1.1,1.7,2.9,1.3,0.8,0.6,1.7,2.5,8.1,Rodney Rogers
+1994-95,23.0,DEN,NBA,PF,80.0,77.0,26.8,4.7,9.6,0.488,0.6,1.9,0.338,4.1,7.8,0.523,0.52,2.2,3.4,0.651,1.7,3.2,4.8,2.0,1.2,0.6,2.2,3.5,12.2,Rodney Rogers
+1995-96,24.0,LAC,NBA,SF,67.0,51.0,29.1,4.6,9.6,0.477,0.7,2.3,0.32,3.8,7.3,0.527,0.516,1.7,2.7,0.628,1.7,2.6,4.3,2.5,1.1,0.5,2.1,3.2,11.6,Rodney Rogers
+1996-97,25.0,LAC,NBA,SF,81.0,62.0,30.6,5.0,10.9,0.462,0.8,2.2,0.361,4.2,8.7,0.487,0.498,2.4,3.6,0.663,1.7,3.4,5.1,2.7,1.1,0.8,2.7,3.4,13.2,Rodney Rogers
+1997-98,26.0,LAC,NBA,SF,76.0,70.0,32.9,5.6,12.3,0.456,0.9,2.8,0.34,4.7,9.5,0.49,0.494,3.0,4.3,0.686,2.0,3.5,5.6,2.7,1.2,0.5,2.5,3.2,15.1,Rodney Rogers
+1998-99,27.0,LAC,NBA,SF,47.0,7.0,20.6,2.8,6.3,0.441,0.4,1.3,0.286,2.4,5.0,0.483,0.471,1.4,2.1,0.673,1.4,2.4,3.8,1.6,1.0,0.5,1.4,3.0,7.4,Rodney Rogers
+1999-00,28.0,PHO,NBA,PF,82.0,7.0,27.9,5.2,10.7,0.486,1.4,3.2,0.439,3.8,7.5,0.506,0.551,1.9,3.0,0.639,1.7,3.8,5.5,2.1,1.1,0.6,2.0,3.5,13.8,Rodney Rogers
+2000-01,29.0,PHO,NBA,SF,82.0,3.0,26.6,4.6,10.7,0.43,0.7,2.3,0.296,3.9,8.4,0.467,0.462,2.3,3.0,0.761,1.1,3.2,4.4,2.2,1.2,0.6,1.9,3.3,12.2,Rodney Rogers
+2001-02,30.0,TOT,NBA,SF,77.0,8.0,24.4,4.6,9.8,0.471,1.1,3.1,0.374,3.5,6.8,0.514,0.529,1.5,1.9,0.785,1.7,2.8,4.5,1.5,0.9,0.4,1.4,2.9,11.9,Rodney Rogers
+2001-02,30.0,PHO,NBA,SF,50.0,7.0,25.1,5.0,10.7,0.466,1.0,2.8,0.35,4.0,7.9,0.508,0.512,1.6,2.0,0.828,1.9,2.9,4.8,1.4,1.0,0.3,1.3,3.0,12.6,Rodney Rogers
+2001-02,30.0,BOS,NBA,SF,27.0,1.0,23.2,4.0,8.2,0.482,1.4,3.5,0.411,2.5,4.7,0.535,0.57,1.3,1.9,0.7,1.3,2.7,4.0,1.5,0.6,0.4,1.6,2.9,10.7,Rodney Rogers
+2002-03,31.0,NJN,NBA,PF,68.0,0.0,19.2,2.7,6.7,0.402,0.6,1.9,0.333,2.0,4.8,0.43,0.451,1.0,1.3,0.756,0.9,3.0,3.9,1.6,0.7,0.5,1.3,2.8,7.0,Rodney Rogers
+2003-04,32.0,NJN,NBA,PF,69.0,15.0,20.4,3.0,7.3,0.41,0.7,2.2,0.329,2.3,5.1,0.445,0.459,1.1,1.4,0.765,1.4,3.0,4.4,2.0,0.9,0.4,1.4,2.7,7.8,Rodney Rogers
+2004-05,33.0,TOT,NBA,"PF,SF",58.0,33.0,23.6,3.0,7.8,0.382,0.8,2.9,0.286,2.1,4.9,0.44,0.436,0.9,1.2,0.743,1.1,3.2,4.2,1.5,0.7,0.3,1.5,3.0,7.7,Rodney Rogers
+2004-05,33.0,NOH,NBA,SF,30.0,26.0,29.4,3.6,9.6,0.377,0.8,3.1,0.272,2.8,6.6,0.426,0.42,1.1,1.4,0.762,0.9,3.8,4.7,2.0,0.6,0.4,2.2,3.4,9.2,Rodney Rogers
+2004-05,33.0,PHI,NBA,PF,28.0,7.0,17.3,2.3,5.8,0.391,0.8,2.7,0.303,1.4,3.0,0.471,0.463,0.7,1.0,0.714,1.2,2.5,3.7,0.9,0.8,0.3,0.7,2.5,6.0,Rodney Rogers
+2000-01,24.0,PHO,NBA,C,54,2,10.8,1.2,2.5,.478,0.0,0.0,0,1.2,2.5,.478,.478,0.8,1.1,.689,0.6,1.2,1.9,0.2,0.3,0.4,0.9,1.9,3.1,Daniel Santiago
+2001-02,25.0,PHO,NBA,C,3,0,8.0,1.3,2.7,.500,0.0,0.0,0,1.3,2.7,.500,.500,0.0,0.0,0,0.0,2.3,2.3,0.7,0.0,0.3,0.7,1.3,2.7,Daniel Santiago
+2002-03,26.0,Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Did Not Play (other pro league—Italy),Daniel Santiago
+2003-04,27.0,MIL,NBA,C,54,28,13.1,1.4,3.0,.479,0.0,0.0,0,1.4,3.0,.479,.479,1.1,1.7,.678,0.6,1.8,2.4,0.4,0.4,0.4,0.6,1.8,4.0,Daniel Santiago
+2004-05,28.0,MIL,NBA,C,11,0,9.5,0.6,1.9,.333,0.0,0.0,0,0.6,1.9,.333,.333,0.7,1.0,.727,0.5,1.2,1.7,0.1,0.3,0.4,0.4,2.5,2.0,Daniel Santiago
+2000-01,21.0,PHO,NBA,C,57.0,39.0,16.6,1.8,3.8,0.47,0.0,0.0,0.0,1.8,3.8,0.47,0.47,0.9,1.6,0.593,1.5,2.8,4.2,0.3,0.2,1.0,1.2,2.4,4.5,Jake Tsakalidis
+2001-02,22.0,PHO,NBA,C,67.0,47.0,23.6,2.8,6.0,0.475,0.0,0.0,0.0,2.8,6.0,0.476,0.475,1.7,2.4,0.698,1.9,3.6,5.6,0.3,0.3,1.0,1.2,2.9,7.3,Jake Tsakalidis
+2002-03,23.0,PHO,NBA,C,33.0,27.0,16.5,1.8,4.1,0.452,0.0,0.0,0.0,1.8,4.1,0.452,0.452,1.2,1.8,0.672,1.4,2.3,3.7,0.4,0.2,0.5,0.8,2.4,4.9,Jake Tsakalidis
+2003-04,24.0,MEM,NBA,C,40.0,28.0,13.3,1.7,3.3,0.504,0.0,0.0,0.0,1.7,3.3,0.504,0.504,0.9,1.5,0.59,0.9,2.3,3.2,0.5,0.2,0.6,0.6,2.0,4.3,Jake Tsakalidis
+2004-05,25.0,MEM,NBA,C,31.0,1.0,9.0,1.0,2.1,0.5,0.0,0.0,0.0,1.0,2.1,0.5,0.5,0.5,0.6,0.778,0.7,1.1,1.8,0.3,0.1,0.5,0.4,1.4,2.5,Jake Tsakalidis
+2005-06,26.0,MEM,NBA,C,51.0,19.0,14.4,2.0,3.2,0.606,0.0,0.0,0.0,2.0,3.2,0.606,0.606,1.1,1.7,0.655,1.5,2.6,4.2,0.3,0.3,0.6,0.8,2.1,5.0,Jake Tsakalidis
+2006-07,27.0,TOT,NBA,C,36.0,7.0,10.8,0.8,2.0,0.403,0.0,0.0,0.0,0.8,2.0,0.403,0.403,0.7,1.1,0.667,1.2,1.7,2.9,0.1,0.2,0.3,0.7,1.4,2.3,Jake Tsakalidis
+2006-07,27.0,MEM,NBA,C,23.0,7.0,11.2,0.9,2.2,0.4,0.0,0.0,0.0,0.9,2.2,0.4,0.4,0.6,1.0,0.583,1.0,1.7,2.8,0.1,0.3,0.5,0.9,1.5,2.3,Jake Tsakalidis
+2006-07,27.0,HOU,NBA,C,13.0,0.0,10.2,0.7,1.7,0.409,0.0,0.0,0.0,0.7,1.7,0.409,0.409,0.9,1.2,0.8,1.4,1.7,3.1,0.2,0.1,0.1,0.2,1.3,2.3,Jake Tsakalidis

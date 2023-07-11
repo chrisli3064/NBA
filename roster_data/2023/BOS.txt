@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Derrick White,1994-07-02
+Sam Hauser,1997-12-08
+Grant Williams,1998-11-30
+Jayson Tatum,1998-03-03
+Luke Kornet,1995-07-15
+Jaylen Brown,1996-10-24
+Malcolm Brogdon,1992-12-11
+Al Horford,1986-06-03
+Marcus Smart,1994-03-06
+Payton Pritchard,1998-01-28
+Blake Griffin,1989-03-16
+Robert Williams,1997-10-17
+Mike Muscala,1991-07-01
+JD Davison (TW),2002-10-03
+Mfiondu Kabengele (TW),1997-08-14
+Justin Champagnie,2001-06-29
+Danilo Gallinari,1988-08-08

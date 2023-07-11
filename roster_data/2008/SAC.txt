@@ -1,0 +1,20 @@
+PLAYER,BIRTH_DATE
+Shareef Abdur-Rahim,1976-12-11
+Mike Bibby,1978-05-13
+Quincy Douby,1984-05-16
+Francisco García,1981-12-31
+Orien Greene,1982-02-04
+Spencer Hawes,1988-04-28
+Anthony Johnson,1974-10-02
+Dahntay Jones,1980-12-27
+Kevin Martin,1983-02-01
+Brad Miller,1976-04-12
+Mikki Moore,1975-11-04
+John Salmons,1979-12-12
+Kenny Thomas,1977-07-25
+Beno Udrih,1982-07-05
+Darryl Watkins,1984-11-08
+Justin Williams,1984-05-12
+Shelden Williams,1983-10-21
+Metta World Peace,1979-11-13
+Lorenzen Wright,1975-11-04

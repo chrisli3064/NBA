@@ -1,0 +1,22 @@
+PLAYER,BIRTH_DATE
+Grayson Allen,1995-10-08
+Kyle Anderson,1993-09-20
+Jordan Bell,1995-01-07
+Dillon Brooks,1996-01-22
+Bruno Caboclo,1995-09-21
+Brandon Clarke,1996-09-19
+Jae Crowder,1990-07-06
+Gorgui Dieng,1990-01-18
+Marko Guduric,1995-03-08
+Dusty Hannahs,1993-09-02
+Solomon Hill,1991-03-18
+Jaren Jackson Jr.,1999-09-15
+Josh Jackson,1997-02-10
+Tyus Jones,1996-05-10
+John Konchar,1996-03-22
+De'Anthony Melton,1998-05-28
+Ja Morant,1999-08-10
+Anthony Tolliver,1985-06-01
+Jarrod Uthoff,1993-05-19
+Jonas Valančiūnas,1992-05-06
+Yuta Watanabe,1994-10-13

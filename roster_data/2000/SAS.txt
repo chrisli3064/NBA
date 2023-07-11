@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Chucky Brown,1968-02-29
+Antonio Daniels,1975-03-19
+Derrick Dial,1975-12-20
+Tim Duncan,1976-04-25
+Mario Elie,1963-11-26
+Sean Elliott,1968-02-02
+Jaren Jackson,1967-10-27
+Avery Johnson,1965-03-25
+Steve Kerr,1965-09-27
+Jerome Kersey,1962-06-26
+Terry Porter,1963-04-08
+David Robinson,1965-08-06
+Malik Rose,1974-11-23
+Felton Spencer,1968-01-15
+Samaki Walker,1976-02-25

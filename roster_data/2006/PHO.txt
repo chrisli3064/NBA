@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+Leandro Barbosa,1982-11-28
+Andre Barrett,1982-02-21
+Raja Bell,1976-09-19
+Pat Burke,1973-12-14
+Josh Davis,1980-08-10
+Boris Diaw,1982-04-16
+Sharrod Ford,1982-01-09
+Brian Grant,1972-03-05
+Eddie House,1978-05-14
+Jim Jackson,1970-10-14
+James Jones,1980-10-04
+Shawn Marion,1978-05-07
+Steve Nash,1974-02-07
+Amar'e Stoudemire,1982-11-16
+Kurt Thomas,1972-10-04
+Tim Thomas,1977-02-26
+Dijon Thompson,1983-02-23
+Nikoloz Tskitishvili,1983-04-14

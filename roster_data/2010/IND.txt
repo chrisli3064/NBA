@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Travis Diener,1982-03-01
+Mike Dunleavy,1980-09-15
+T.J. Ford,1983-03-24
+Jeff Foster,1977-01-16
+Danny Granger,1983-04-20
+Tyler Hansbrough,1985-11-03
+Luther Head,1982-11-26
+Roy Hibbert,1986-12-11
+Dahntay Jones,1980-12-27
+Solomon Jones,1984-07-16
+Josh McRoberts,1987-02-28
+Troy Murphy,1980-05-02
+A.J. Price,1986-10-07
+Brandon Rush,1985-07-07
+Earl Watson,1979-06-12

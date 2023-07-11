@@ -1,0 +1,23 @@
+PLAYER,BIRTH_DATE
+Avery Bradley,1990-11-26
+Reggie Bullock,1991-03-16
+Dwight Buycks,1989-03-06
+Andre Drummond,1993-08-10
+Henry Ellenson,1997-01-13
+James Ennis III,1990-07-01
+Kay Felder,1995-03-29
+Langston Galloway,1991-12-09
+Blake Griffin,1989-03-16
+Tobias Harris,1992-07-15
+Reggie Hearn,1991-08-14
+Reggie Jackson,1990-04-16
+Stanley Johnson,1996-05-29
+Luke Kennard,1996-06-24
+Jon Leuer,1989-05-14
+Boban Marjanović,1988-08-15
+Luis Montero,1993-04-06
+Eric Moreland,1991-12-24
+Jameer Nelson,1982-02-09
+Willie Reed,1990-05-16
+Ish Smith,1988-07-05
+Anthony Tolliver,1985-06-01

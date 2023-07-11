@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Malik Beasley,1996-11-26
+Jarrett Culver,1999-02-20
+Ed Davis,1989-06-05
+Anthony Edwards,2001-08-05
+Ashton Hagans,1999-07-08
+Juancho Hernangómez,1995-09-28
+Jake Layman,1994-03-07
+Jaden McDaniels,2000-09-29
+Jordan McLaughlin,1996-04-09
+Jaylen Nowell,1999-07-09
+Josh Okogie,1998-09-01
+Naz Reid,1999-08-26
+Ricky Rubio,1990-10-21
+D'Angelo Russell,1996-02-23
+Karl-Anthony Towns,1995-11-15
+Jarred Vanderbilt,1999-04-03

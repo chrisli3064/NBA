@@ -1,0 +1,15 @@
+PLAYER,BIRTH_DATE
+Mike Bibby,1978-05-13
+Doug Christie,1970-05-09
+Keon Clark,1975-04-16
+Mateen Cleaves,1977-09-07
+Vlade Divac,1968-02-03
+Lawrence Funderburke,1970-12-15
+Bobby Jackson,1973-03-13
+Jim Jackson,1970-10-14
+Damon Jones,1976-08-25
+Scot Pollard,1975-02-12
+Peja Stojaković,1977-06-09
+Hedo Türkoğlu,1979-03-19
+Gerald Wallace,1982-07-23
+Chris Webber,1973-03-01

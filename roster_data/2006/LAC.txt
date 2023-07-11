@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+Vin Baker,1971-11-23
+Elton Brand,1979-03-11
+Sam Cassell,1969-11-18
+Howard Eisley,1972-12-04
+Daniel Ewing,1983-03-26
+Anthony Goldwire,1971-09-06
+Chris Kaman,1982-04-28
+Yaroslav Korolev,1987-05-07
+Shaun Livingston,1985-09-11
+Corey Maggette,1979-11-12
+Walter McCarty,1974-02-01
+Cuttino Mobley,1975-09-01
+Boniface N'Dong,1977-03-09
+Vladimir Radmanović,1980-11-19
+Željko Rebrača,1972-04-09
+Quinton Ross,1981-04-30
+James Singleton,1981-07-20
+Chris Wilcox,1982-09-03

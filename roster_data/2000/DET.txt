@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Marcus Brown,1974-04-03
+Jud Buechler,1968-06-19
+John Crotty,1969-07-15
+Michael Curry,1968-08-22
+Grant Hill,1972-10-05
+Lindsey Hunter,1970-12-03
+Jermaine Jackson,1976-06-07
+Christian Laettner,1969-08-17
+Terry Mills,1967-12-21
+Eric Montross,1971-09-23
+Mikki Moore,1975-11-04
+Don Reid,1973-12-30
+Jerry Stackhouse,1974-11-05
+Loy Vaught,1968-02-27
+Jerome Williams,1973-05-10

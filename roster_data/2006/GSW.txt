@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Andris Biedriņš,1986-04-02
+Will Bynum,1983-01-04
+Žarko Čabarkapa,1981-05-21
+Calbert Cheaney,1971-07-17
+Baron Davis,1979-04-13
+Ike Diogu,1983-09-11
+Mike Dunleavy,1980-09-15
+Monta Ellis,1985-10-26
+Derek Fisher,1974-08-09
+Adonal Foyle,1975-03-09
+Aaron Miles,1983-04-13
+Troy Murphy,1980-05-02
+Mickaël Piétrus,1982-02-07
+Jason Richardson,1981-01-20
+Chris Taft,1985-03-10

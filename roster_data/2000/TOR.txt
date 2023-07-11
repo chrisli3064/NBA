@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Muggsy Bogues,1965-01-09
+Dee Brown,1968-11-29
+Vince Carter,1977-01-26
+Doug Christie,1970-05-09
+Dell Curry,1964-06-25
+Antonio Davis,1968-10-31
+Antonio Lang,1972-05-15
+Sean Marks,1975-08-23
+Tracy McGrady,1979-05-24
+Charles Oakley,1963-12-18
+Aleksandar Radojević,1976-08-08
+Michael Stewart,1975-04-25
+John Thomas,1975-09-08
+Alvin Williams,1974-08-06
+Kevin Willis,1962-09-06
+Haywoode Workman,1966-01-23

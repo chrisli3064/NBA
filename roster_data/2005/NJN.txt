@@ -1,0 +1,23 @@
+PLAYER,BIRTH_DATE
+Travis Best,1972-07-12
+Rodney Buford,1977-11-02
+Elden Campbell,1968-07-23
+Vince Carter,1977-01-26
+Jason Collins,1978-12-02
+Kaniel Dickens,1978-07-21
+Donnell Harvey,1980-08-26
+Richard Jefferson,1980-06-21
+Jason Kidd,1973-03-23
+Nenad Krstić,1983-07-25
+Ron Mercer,1976-05-18
+Jérôme Moïso,1978-06-15
+Alonzo Mourning,1970-02-08
+Zoran Planinić,1982-09-12
+Clifford Robinson,1966-12-16
+Brian Scalabrine,1978-03-18
+Jabari Smith,1977-02-12
+Awvee Storey,1977-04-18
+Billy Thomas,1975-12-23
+Jacque Vaughn,1975-02-11
+Aaron Williams,1971-10-02
+Eric Williams,1972-07-17

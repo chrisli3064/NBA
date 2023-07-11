@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Matt Barnes,1980-03-09
+Chauncey Billups,1976-09-25
+Eric Bledsoe,1989-12-09
+Caron Butler,1980-03-13
+Jamal Crawford,1980-03-20
+Willie Green,1981-07-28
+Blake Griffin,1989-03-16
+Grant Hill,1972-10-05
+Ryan Hollins,1984-10-10
+DeAndre Jordan,1988-07-21
+Lamar Odom,1979-11-06
+Chris Paul,1985-05-06
+DaJuan Summers,1988-01-24
+Ronny Turiaf,1983-01-13
+Maalik Wayns,1991-05-02

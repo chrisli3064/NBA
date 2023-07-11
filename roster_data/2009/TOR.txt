@@ -1,0 +1,20 @@
+PLAYER,BIRTH_DATE
+Hassan Adams,1984-06-20
+Marcus Banks,1981-11-19
+Andrea Bargnani,1985-10-26
+Chris Bosh,1984-03-24
+José Calderón,1981-09-28
+Quincy Douby,1984-05-16
+Joey Graham,1982-06-11
+Kris Humphries,1985-02-06
+Nathan Jawai,1986-10-10
+Jason Kapono,1981-02-04
+Shawn Marion,1978-05-07
+Pops Mensah-Bonsu,1983-09-07
+Jamario Moon,1980-06-13
+Patrick O'Bryant,1986-06-20
+Jermaine O'Neal,1978-10-13
+Anthony Parker,1975-06-19
+Will Solomon,1978-07-20
+Roko Ukić,1984-05-12
+Jake Voskuhl,1977-11-01

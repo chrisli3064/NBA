@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Jevon Carter,1995-09-14
+Brook Lopez,1988-04-01
+Grayson Allen,1995-10-08
+Bobby Portis,1995-02-10
+Jrue Holiday,1990-06-12
+Giannis Antetokounmpo,1994-12-06
+Pat Connaughton,1993-01-06
+MarJon Beauchamp,2000-10-12
+Wesley Matthews,1986-10-14
+Joe Ingles,1987-10-02
+Thanasis Antetokounmpo,1992-07-18
+A.J. Green (TW),1999-09-27
+Khris Middleton,1991-08-12
+Jae Crowder,1990-07-06
+Meyers Leonard,1992-02-27
+Lindell Wigginton (TW),1998-03-28
+Goran Dragić,1986-05-06

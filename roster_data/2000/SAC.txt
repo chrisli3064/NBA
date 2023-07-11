@@ -1,0 +1,15 @@
+PLAYER,BIRTH_DATE
+Nick Anderson,1968-01-20
+Jon Barry,1969-07-25
+Tyrone Corbin,1962-12-31
+Tony Delk,1974-01-28
+Vlade Divac,1968-02-03
+Lawrence Funderburke,1970-12-15
+Darrick Martin,1971-03-06
+Scot Pollard,1975-02-12
+Ryan Robertson,1976-10-02
+Peja Stojaković,1977-06-09
+Chris Webber,1973-03-01
+Bill Wennington,1963-04-26
+Jason Williams,1975-11-18
+Corliss Williamson,1973-12-04

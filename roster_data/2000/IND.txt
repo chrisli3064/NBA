@@ -1,0 +1,15 @@
+PLAYER,BIRTH_DATE
+Jonathan Bender,1981-01-30
+Travis Best,1972-07-12
+Austin Croshere,1975-05-01
+Dale Davis,1969-03-25
+Jeff Foster,1977-01-16
+Al Harrington,1980-02-17
+Mark Jackson,1965-04-01
+Derrick McKey,1966-10-10
+Reggie Miller,1965-08-24
+Chris Mullin,1963-07-30
+Sam Perkins,1961-06-14
+Jalen Rose,1973-01-30
+Rik Smits,1966-08-23
+Žan Tabak,1970-06-15

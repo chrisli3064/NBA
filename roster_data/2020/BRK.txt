@@ -1,0 +1,25 @@
+PLAYER,BIRTH_DATE
+Jarrett Allen,1998-04-21
+Justin Anderson,1993-11-19
+Wilson Chandler,1987-05-10
+Chris Chiozza,1995-11-21
+Nic Claxton,1999-04-17
+Jamal Crawford,1980-03-20
+Spencer Dinwiddie,1993-04-06
+Henry Ellenson,1997-01-13
+Donta Hall,1997-08-07
+Joe Harris,1991-09-06
+Kyrie Irving,1992-03-23
+Tyler Johnson,1992-05-07
+DeAndre Jordan,1988-07-21
+Rodions Kurucs,1998-02-05
+Caris LeVert,1994-08-25
+Timothé Luwawu-Cabarrot,1995-05-09
+Jeremiah Martin,1996-06-19
+Džanan Musa,1999-05-08
+David Nwaba,1993-01-14
+Theo Pinson,1995-11-05
+Taurean Prince,1994-03-22
+Iman Shumpert,1990-06-26
+Garrett Temple,1986-05-08
+Lance Thomas,1988-04-24

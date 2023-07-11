@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Arron Afflalo,1985-10-15
+Glen Davis,1986-01-01
+Dewayne Dedmon,1989-08-12
+Maurice Harkless,1993-05-11
+Tobias Harris,1992-07-15
+Solomon Jones,1984-07-16
+Doron Lamb,1991-11-06
+Jason Maxiell,1983-02-18
+E'Twaun Moore,1989-02-25
+Jameer Nelson,1982-02-09
+Andrew Nicholson,1989-12-08
+Kyle O'Quinn,1990-03-26
+Victor Oladipo,1992-05-04
+Ronnie Price,1983-06-21
+Adonis Thomas,1993-03-25
+Nikola Vučević,1990-10-24

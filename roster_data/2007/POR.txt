@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+LaMarcus Aldridge,1985-07-19
+Dan Dickau,1978-09-16
+Juan Dixon,1978-10-09
+Stephen Graham,1982-06-11
+Jarrett Jack,1983-10-28
+Fred Jones,1979-03-11
+Raef LaFrentz,1976-05-29
+Jamaal Magloire,1978-05-21
+Travis Outlaw,1984-09-18
+Joel Przybilla,1979-10-10
+Zach Randolph,1981-07-16
+Jeremy Richardson,1984-03-01
+Sergio Rodríguez,1986-06-12
+Brandon Roy,1984-07-23
+Luke Schenscher,1982-12-31
+Ime Udoka,1977-08-09
+Martell Webster,1986-12-04

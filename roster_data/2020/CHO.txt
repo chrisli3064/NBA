@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Dwayne Bacon,1995-08-30
+Nicolas Batum,1988-12-14
+Bismack Biyombo,1992-08-28
+Miles Bridges,1998-03-21
+Joe Chealey,1995-11-01
+Devonte' Graham,1995-02-22
+Willy Hernangómez,1994-05-27
+Michael Kidd-Gilchrist,1993-09-26
+Caleb Martin,1995-09-28
+Cody Martin,1995-09-28
+Jalen McDaniels,1998-01-31
+Malik Monk,1998-02-04
+Terry Rozier,1994-03-17
+P.J. Washington,1998-08-23
+Marvin Williams,1986-06-19
+Cody Zeller,1992-10-05

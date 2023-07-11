@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+Gustavo Ayón,1985-04-01
+Samuel Dalembert,1981-05-10
+Marquis Daniels,1981-01-07
+Mike Dunleavy,1980-09-15
+Monta Ellis,1985-10-26
+Drew Gooden,1981-09-24
+Tobias Harris,1992-07-15
+John Henson,1990-12-28
+Ersan İlyasova,1987-05-15
+Brandon Jennings,1989-09-23
+Doron Lamb,1991-11-06
+Luc Mbah a Moute,1986-09-09
+Joel Przybilla,1979-10-10
+J.J. Redick,1984-06-24
+Larry Sanders,1988-11-21
+Ish Smith,1988-07-05
+Ekpe Udoh,1987-05-20
+Beno Udrih,1982-07-05

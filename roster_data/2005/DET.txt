@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Carlos Arroyo,1979-07-30
+Chauncey Billups,1976-09-25
+Elden Campbell,1968-07-23
+Derrick Coleman,1967-06-21
+Carlos Delfino,1982-08-29
+Ronald Dupree,1981-01-26
+Anthony Goldwire,1971-09-06
+Darvin Ham,1973-07-23
+Richard Hamilton,1978-02-14
+Lindsey Hunter,1970-12-03
+Horace Jenkins,1974-10-14
+Antonio McDyess,1974-09-07
+Darko Miličić,1985-06-20
+Smush Parker,1981-06-01
+Tayshaun Prince,1980-02-28
+Ben Wallace,1974-09-10
+Rasheed Wallace,1974-09-17

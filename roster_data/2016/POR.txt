@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Cliff Alexander,1995-11-16
+Al-Farouq Aminu,1990-09-21
+Pat Connaughton,1993-01-06
+Allen Crabbe,1992-04-09
+Ed Davis,1989-06-05
+Tim Frazier,1990-11-01
+Maurice Harkless,1993-05-11
+Gerald Henderson,1987-12-09
+Chris Kaman,1982-04-28
+Meyers Leonard,1992-02-27
+Damian Lillard,1990-07-15
+CJ McCollum,1991-09-19
+Luis Montero,1993-04-06
+Mason Plumlee,1990-03-05
+Brian Roberts,1985-12-03
+Noah Vonleh,1995-08-24

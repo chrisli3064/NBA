@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Rafer Alston,1976-07-24
+Rafael Araújo,1980-08-12
+Matt Bonner,1980-04-05
+Chris Bosh,1984-03-24
+Vince Carter,1977-01-26
+Omar Cook,1982-01-28
+Donyell Marshall,1973-05-18
+Jérôme Moïso,1978-06-15
+Lamond Murray,1973-04-20
+Milt Palacio,1978-02-07
+Morris Peterson,1977-08-26
+Jalen Rose,1973-01-30
+Pape Sow,1981-11-22
+Aaron Williams,1971-10-02
+Eric Williams,1972-07-17
+Loren Woods,1978-06-21

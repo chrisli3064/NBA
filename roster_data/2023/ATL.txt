@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Onyeka Okongwu,2000-12-11
+Dejounte Murray,1996-09-19
+Trae Young,1998-09-19
+AJ Griffin,2003-08-25
+John Collins,1997-09-23
+Jalen Johnson,2001-12-18
+De'Andre Hunter,1997-12-02
+Clint Capela,1994-05-18
+Aaron Holiday,1996-09-30
+Bogdan Bogdanović,1992-08-18
+Vit Krejci,2000-06-19
+Saddiq Bey,1999-04-09
+Trent Forrest (TW),1998-06-12
+Tyrese Martin,1999-03-07
+Garrison Mathews,1996-10-24
+Bruno Fernando,1998-08-15
+Donovan Williams (TW),2001-09-06

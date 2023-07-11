@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Earl Boykins,1976-06-02
+Elton Brand,1979-03-11
+Keyon Dooling,1980-05-08
+Obinna Ekezie,1975-08-22
+Tremaine Fowlkes,1976-04-11
+Harold Jamison,1976-11-20
+Corey Maggette,1979-11-12
+Jeff McInnis,1974-10-22
+Darius Miles,1981-10-09
+Lamar Odom,1979-11-06
+Michael Olowokandi,1975-04-03
+Doug Overton,1969-08-03
+Eric Piatkowski,1970-09-30
+Eldridge Recasner,1967-12-14
+Quentin Richardson,1980-04-13
+Sean Rooks,1969-09-09

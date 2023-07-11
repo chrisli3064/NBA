@@ -1,0 +1,25 @@
+PLAYER,BIRTH_DATE
+Alexis Ajinça,1988-05-06
+D.J. Augustin,1987-11-10
+Raja Bell,1976-09-19
+Andre Brown,1981-05-12
+Shannon Brown,1985-11-29
+Matt Carroll,1980-08-28
+Boris Diaw,1982-04-16
+DeSagana Diop,1982-01-30
+Jared Dudley,1985-07-10
+Raymond Felton,1984-06-26
+Ryan Hollins,1984-10-10
+Juwan Howard,1973-02-07
+Dontell Jefferson,1983-12-15
+Linton Johnson,1980-06-13
+Dwayne Jones,1983-06-09
+Cartier Martin,1984-11-20
+Sean May,1984-04-04
+Nazr Mohammed,1977-09-05
+Adam Morrison,1984-07-19
+Emeka Okafor,1982-09-28
+Vladimir Radmanović,1980-11-19
+Jason Richardson,1981-01-20
+Sean Singletary,1985-09-06
+Gerald Wallace,1982-07-23

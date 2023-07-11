@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Nickeil Alexander-Walker,1998-09-02
+Lonzo Ball,1997-10-27
+Zylan Cheatham,1995-11-17
+Derrick Favors,1991-07-15
+Josh Gray,1993-09-09
+Josh Hart,1995-03-06
+Jaxson Hayes,2000-05-23
+Jrue Holiday,1990-06-12
+Brandon Ingram,1997-09-02
+Frank Jackson,1998-05-04
+Nicolò Melli,1991-01-26
+E'Twaun Moore,1989-02-25
+Jahlil Okafor,1995-12-15
+J.J. Redick,1984-06-24
+Sindarius Thornwell,1994-11-15
+Kenrich Williams,1994-12-02
+Zion Williamson,2000-07-06

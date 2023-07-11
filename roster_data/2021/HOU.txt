@@ -1,0 +1,31 @@
+PLAYER,BIRTH_DATE
+D.J. Augustin,1987-11-10
+Avery Bradley,1990-11-26
+Armoni Brooks,1998-06-05
+Sterling Brown,1995-02-10
+Bruno Caboclo,1995-09-21
+DeMarcus Cousins,1990-08-13
+Eric Gordon,1988-12-25
+James Harden,1989-08-26
+Danuel House Jr.,1993-06-07
+DaQuan Jeffries,1997-08-30
+Mason Jones,1998-07-21
+Rodions Kurucs,1998-02-05
+Anthony Lamb,1998-01-20
+Kenyon Martin Jr.,2001-01-06
+Ben McLemore,1993-02-11
+David Nwaba,1993-01-14
+Victor Oladipo,1992-05-04
+Cameron Oliver,1996-07-11
+Kelly Olynyk,1991-04-19
+Justin Patton,1997-06-14
+Kevin Porter Jr.,2000-05-04
+Cameron Reynolds,1995-02-07
+Ray Spalding,1997-03-11
+Jae'Sean Tate,1995-10-28
+Brodric Thomas,1997-01-28
+Khyri Thomas,1996-05-08
+P.J. Tucker,1985-05-05
+John Wall,1990-09-06
+D.J. Wilson,1996-02-19
+Christian Wood,1995-09-27

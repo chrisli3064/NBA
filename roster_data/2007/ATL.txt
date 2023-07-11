@@ -1,0 +1,20 @@
+PLAYER,BIRTH_DATE
+Esteban Batista,1983-09-02
+Cedric Bozeman,1983-03-07
+Josh Childress,1983-06-20
+Speedy Claxton,1978-05-08
+Matt Freije,1981-10-02
+Royal Ivey,1981-12-20
+Anthony Johnson,1974-10-02
+Joe Johnson,1981-06-29
+Solomon Jones,1984-07-16
+Tyronn Lue,1977-05-03
+Stanislav Medvedenko,1979-04-04
+Zaza Pachulia,1984-02-10
+Jeremy Richardson,1984-03-01
+Josh Smith,1985-12-05
+Salim Stoudamire,1982-10-11
+Dijon Thompson,1983-02-23
+Marvin Williams,1986-06-19
+Shelden Williams,1983-10-21
+Lorenzen Wright,1975-11-04

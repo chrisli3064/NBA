@@ -1,0 +1,20 @@
+PLAYER,BIRTH_DATE
+Shaedon Sharpe,2003-05-30
+Drew Eubanks,1997-02-01
+Jerami Grant,1994-03-12
+Anfernee Simons,1999-06-08
+Trendon Watford,2000-11-09
+Damian Lillard,1990-07-15
+Jabari Walker,2002-07-30
+Nassir Little,2000-02-11
+Jusuf Nurkić,1994-08-23
+Keon Johnson,2002-03-10
+Justise Winslow,1996-03-26
+Matisse Thybulle,1997-03-04
+Kevin Knox,1999-08-11
+Cam Reddish,1999-09-01
+John Butler (TW),2002-12-04
+Skylar Mays,1997-09-05
+Jeenathan Williams,1999-02-12
+Chance Comanche,1996-04-14
+Ibou Badji (TW),2002-10-13

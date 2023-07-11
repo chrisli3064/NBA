@@ -1,0 +1,27 @@
+PLAYER,BIRTH_DATE
+Jonah Bolden,1996-01-02
+Corey Brewer,1986-03-05
+Jimmy Butler,1989-09-14
+Wilson Chandler,1987-05-10
+Robert Covington,1990-12-14
+Joel Embiid,1994-03-16
+James Ennis III,1990-07-01
+Markelle Fultz,1998-05-29
+Tobias Harris,1992-07-15
+Haywood Highsmith,1996-12-09
+Demetrius Jackson,1994-09-07
+Amir Johnson,1987-05-01
+Furkan Korkmaz,1997-07-24
+Boban Marjanović,1988-08-15
+T.J. McConnell,1992-03-25
+Shake Milton,1996-09-26
+Greg Monroe,1990-06-04
+Mike Muscala,1991-07-01
+Justin Patton,1997-06-14
+J.J. Redick,1984-06-24
+Dario Šarić,1994-04-08
+Mike Scott,1988-07-16
+Landry Shamet,1997-03-13
+Ben Simmons,1996-07-20
+Jonathon Simmons,1989-09-14
+Zhaire Smith,1999-06-04

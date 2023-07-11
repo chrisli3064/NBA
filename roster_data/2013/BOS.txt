@@ -1,0 +1,21 @@
+PLAYER,BIRTH_DATE
+Leandro Barbosa,1982-11-28
+Brandon Bass,1985-04-30
+Avery Bradley,1990-11-26
+Jason Collins,1978-12-02
+Jordan Crawford,1988-10-23
+Kevin Garnett,1976-05-19
+Jeff Green,1986-08-28
+Kris Joseph,1988-12-17
+Courtney Lee,1985-10-03
+Fab Melo,1990-06-20
+Darko Miličić,1985-06-20
+Paul Pierce,1977-10-13
+Shavlik Randolph,1983-11-24
+Rajon Rondo,1986-02-22
+Jared Sullinger,1992-03-04
+Jason Terry,1977-09-15
+Jarvis Varnado,1988-03-01
+D.J. White,1986-08-31
+Chris Wilcox,1982-09-03
+Terrence Williams,1987-06-28

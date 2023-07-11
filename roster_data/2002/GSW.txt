@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Gilbert Arenas,1982-01-06
+Mookie Blaylock,1967-03-20
+Erick Dampier,1975-07-14
+Danny Fortson,1976-03-27
+Adonal Foyle,1975-03-09
+Dean Garrett,1966-11-27
+Cedric Henderson,1975-03-11
+Larry Hughes,1979-01-23
+Marc Jackson,1975-01-16
+Antawn Jamison,1976-06-12
+Chris Mills,1970-01-25
+Troy Murphy,1980-05-02
+Dean Oliver,1978-11-05
+Jason Richardson,1981-01-20
+Bob Sura,1973-03-25

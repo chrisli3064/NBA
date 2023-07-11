@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Derek Anderson,1974-07-18
+Erick Barkley,1978-02-21
+Ruben Boumtje-Boumtje,1978-05-20
+Rick Brunson,1972-06-14
+Mitchell Butler,1970-12-15
+Dale Davis,1969-03-25
+Chris Dudley,1965-02-22
+Shawn Kemp,1969-11-26
+Steve Kerr,1965-09-27
+Ruben Patterson,1975-07-31
+Scottie Pippen,1965-09-25
+Zach Randolph,1981-07-16
+Damon Stoudamire,1973-09-03
+Rasheed Wallace,1974-09-17
+Bonzi Wells,1976-09-28

@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Arron Afflalo,1985-10-15
+Lou Amundson,1982-12-07
+Thanasis Antetokounmpo,1992-07-18
+Carmelo Anthony,1984-05-29
+José Calderón,1981-09-28
+Cleanthony Early,1991-04-17
+Jimmer Fredette,1989-02-25
+Langston Galloway,1991-12-09
+Jerian Grant,1992-10-09
+Robin Lopez,1988-04-01
+Kyle O'Quinn,1990-03-26
+Kristaps Porziņģis,1995-08-02
+Kevin Séraphin,1989-12-07
+Lance Thomas,1988-04-24
+Sasha Vujačić,1984-03-08
+Derrick Williams,1991-05-25

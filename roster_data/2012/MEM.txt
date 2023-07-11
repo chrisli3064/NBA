@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Tony Allen,1982-01-11
+Gilbert Arenas,1982-01-06
+Mike Conley,1987-10-11
+Dante Cunningham,1987-04-22
+Josh Davis,1980-08-10
+Marc Gasol,1985-01-29
+Rudy Gay,1986-08-17
+Hamed Haddadi,1985-05-19
+Lester Hudson,1984-08-07
+O.J. Mayo,1987-11-05
+Jeremy Pargo,1986-03-17
+Quincy Pondexter,1988-03-10
+Zach Randolph,1981-07-16
+Josh Selby,1991-03-27
+Brian Skinner,1976-05-19
+Marreese Speights,1987-08-04
+Sam Young,1985-06-01

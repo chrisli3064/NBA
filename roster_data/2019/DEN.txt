@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+DeVaughn Akoon-Purcell,1993-06-05
+Will Barton,1991-01-06
+Malik Beasley,1996-11-26
+Torrey Craig,1990-12-19
+Brandon Goodwin,1995-10-02
+Gary Harris,1994-09-14
+Juancho Hernangómez,1995-09-28
+Nikola Jokić,1995-02-19
+Tyler Lydon,1996-04-09
+Trey Lyles,1995-11-05
+Paul Millsap,1985-02-10
+Monte Morris,1995-06-27
+Jamal Murray,1997-02-23
+Mason Plumlee,1990-03-05
+Isaiah Thomas,1989-02-07
+Jarred Vanderbilt,1999-04-03
+Thomas Welsh,1996-02-03
+Nick Young,1985-06-01

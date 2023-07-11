@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Cameron Bairstow,1990-12-07
+Aaron Brooks,1985-01-14
+Jimmy Butler,1989-09-14
+Mike Dunleavy,1980-09-15
+Cristiano Felício,1992-07-07
+Pau Gasol,1980-07-06
+Taj Gibson,1985-06-24
+Kirk Hinrich,1981-01-02
+Justin Holiday,1989-04-05
+Doug McDermott,1992-01-03
+Nikola Mirotić,1991-02-11
+E'Twaun Moore,1989-02-25
+Joakim Noah,1985-02-25
+Bobby Portis,1995-02-10
+Derrick Rose,1988-10-04
+Tony Snell,1991-11-10

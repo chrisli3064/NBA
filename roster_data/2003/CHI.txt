@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Dalibor Bagarić,1980-02-07
+Lonny Baxter,1979-01-27
+Corie Blount,1969-01-04
+Rick Brunson,1972-06-14
+Tyson Chandler,1982-10-02
+Jamal Crawford,1980-03-20
+Eddy Curry,1982-12-05
+Marcus Fizer,1978-08-10
+Trenton Hassell,1979-03-04
+Fred Hoiberg,1972-10-15
+Donyell Marshall,1973-05-18
+Roger Mason,1980-09-10
+Eddie Robinson,1976-04-19
+Jalen Rose,1973-01-30
+Jay Williams,1981-09-10

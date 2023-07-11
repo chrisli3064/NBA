@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Joel Anthony,1982-08-09
+Aron Baynes,1986-12-09
+Steve Blake,1980-02-26
+Reggie Bullock,1991-03-16
+Kentavious Caldwell-Pope,1993-02-18
+Spencer Dinwiddie,1993-04-06
+Andre Drummond,1993-08-10
+Justin Harper,1989-08-30
+Tobias Harris,1992-07-15
+Darrun Hilliard,1993-04-13
+Ersan İlyasova,1987-05-15
+Reggie Jackson,1990-04-16
+Brandon Jennings,1989-09-23
+Stanley Johnson,1996-05-29
+Jodie Meeks,1987-08-21
+Marcus Morris,1989-09-02
+Anthony Tolliver,1985-06-01

@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Jordan Poole,1999-06-19
+Kevon Looney,1996-02-06
+Draymond Green,1990-03-04
+Donte DiVincenzo,1997-01-31
+Klay Thompson,1990-02-08
+Jonathan Kuminga,2002-10-06
+Moses Moody,2002-05-31
+Anthony Lamb,1998-01-20
+JaMychal Green,1990-06-21
+Stephen Curry,1988-03-14
+Ty Jerome (TW),1997-07-08
+Andrew Wiggins,1995-02-23
+Patrick Baldwin Jr.,2002-11-18
+Ryan Rollins,2002-07-03
+Andre Iguodala,1984-01-28
+Gary Payton II,1992-12-01
+Lester Quinones (TW),2000-11-16

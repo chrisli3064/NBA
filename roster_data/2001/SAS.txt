@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Derek Anderson,1974-07-18
+Antonio Daniels,1975-03-19
+Derrick Dial,1975-12-20
+Tim Duncan,1976-04-25
+Sean Elliott,1968-02-02
+Danny Ferry,1966-10-17
+Jaren Jackson,1967-10-27
+Avery Johnson,1965-03-25
+Steve Kerr,1965-09-27
+Ira Newble,1975-01-20
+Terry Porter,1963-04-08
+David Robinson,1965-08-06
+Malik Rose,1974-11-23
+Shawnelle Scott,1972-06-16
+Samaki Walker,1976-02-25

@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Hilton Armstrong,1984-11-11
+Ryan Bowen,1975-11-20
+Devin Brown,1978-12-30
+Rasual Butler,1979-05-23
+Tyson Chandler,1982-10-02
+Antonio Daniels,1975-03-19
+Melvin Ely,1978-05-02
+Mike James,1975-06-23
+Sean Marks,1975-08-23
+Chris Paul,1985-05-06
+Morris Peterson,1977-08-26
+James Posey,1977-01-13
+Peja Stojaković,1977-06-09
+David West,1980-08-29
+Julian Wright,1987-05-20

@@ -1,0 +1,22 @@
+PLAYER,BIRTH_DATE
+Jaylen Brown,1996-10-24
+Carsen Edwards,1998-03-12
+Tacko Fall,1995-12-10
+Evan Fournier,1992-10-29
+Javonte Green,1993-07-23
+Luke Kornet,1995-07-15
+Romeo Langford,1999-10-25
+Aaron Nesmith,1999-10-16
+Semi Ojeleye,1994-12-05
+Jabari Parker,1995-03-15
+Payton Pritchard,1998-01-28
+Marcus Smart,1994-03-06
+Jayson Tatum,1998-03-03
+Jeff Teague,1988-06-10
+Daniel Theis,1992-04-04
+Tristan Thompson,1991-03-13
+Moritz Wagner,1997-04-26
+Kemba Walker,1990-05-08
+Tremont Waters,1998-01-10
+Grant Williams,1998-11-30
+Robert Williams,1997-10-17

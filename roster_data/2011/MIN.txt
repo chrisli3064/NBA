@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Maurice Ager,1984-02-09
+Michael Beasley,1989-01-09
+Corey Brewer,1986-03-05
+Wayne Ellington,1987-11-29
+Jonny Flynn,1989-02-06
+Sundiata Gaines,1986-04-18
+Lazar Hayward,1986-11-26
+Wesley Johnson,1987-07-11
+Kosta Koufos,1989-02-24
+Kevin Love,1988-09-07
+Darko Miličić,1985-06-20
+Nikola Peković,1986-01-03
+Anthony Randolph,1989-07-15
+Luke Ridnour,1981-02-13
+Sebastian Telfair,1985-06-09
+Anthony Tolliver,1985-06-01
+Martell Webster,1986-12-04

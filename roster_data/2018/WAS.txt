@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Bradley Beal,1993-06-28
+Tim Frazier,1990-11-01
+Marcin Gortat,1984-02-17
+Ty Lawson,1987-11-03
+Ian Mahinmi,1986-11-05
+Chris McCullough,1995-02-05
+Jodie Meeks,1987-08-21
+Markieff Morris,1989-09-02
+Kelly Oubre Jr.,1995-12-09
+Otto Porter Jr.,1993-06-03
+Devin Robinson,1995-03-07
+Tomáš Satoranský,1991-10-30
+Mike Scott,1988-07-16
+Ramon Sessions,1986-04-11
+Jason Smith,1986-03-02
+John Wall,1990-09-06

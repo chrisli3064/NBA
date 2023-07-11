@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Brent Barry,1971-12-31
+Bruce Bowen,1971-06-14
+Devin Brown,1978-12-30
+Tim Duncan,1976-04-25
+Manu Ginóbili,1977-07-28
+Dion Glover,1978-10-22
+Robert Horry,1970-08-25
+Linton Johnson,1980-06-13
+Sean Marks,1975-08-23
+Tony Massenburg,1967-07-31
+Nazr Mohammed,1977-09-05
+Rasho Nesterović,1976-05-30
+Tony Parker,1982-05-17
+Glenn Robinson,1973-01-10
+Malik Rose,1974-11-23
+Beno Udrih,1982-07-05
+Mike Wilks,1979-05-07

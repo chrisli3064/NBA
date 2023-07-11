@@ -1,0 +1,23 @@
+PLAYER,BIRTH_DATE
+Darius Bazley,2000-06-12
+Tony Bradley,1998-01-08
+Charlie Brown Jr.,1997-02-02
+Moses Brown,1999-10-13
+Gabriel Deck,1995-02-08
+Hamidou Diallo,1998-07-31
+Luguentz Dort,1999-04-19
+Shai Gilgeous-Alexander,1998-07-12
+Josh Hall,2000-10-08
+George Hill,1986-05-04
+Jaylen Hoard,1999-03-30
+Al Horford,1986-06-03
+Justin Jackson,1995-03-28
+Ty Jerome,1997-07-08
+Théo Maledon,2001-06-12
+Darius Miller,1990-03-21
+Mike Muscala,1991-07-01
+Svi Mykhailiuk,1997-06-10
+Aleksej Pokusevski,2001-12-26
+Justin Robinson,1997-10-12
+Isaiah Roby,1998-02-03
+Kenrich Williams,1994-12-02

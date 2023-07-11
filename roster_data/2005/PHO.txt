@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+Leandro Barbosa,1982-11-28
+Žarko Čabarkapa,1981-05-21
+Steven Hunter,1981-10-31
+Jim Jackson,1970-10-14
+Casey Jacobsen,1981-03-19
+Joe Johnson,1981-06-29
+Maciej Lampe,1985-02-05
+Shawn Marion,1978-05-07
+Walter McCarty,1974-02-01
+Steve Nash,1974-02-07
+Bo Outlaw,1971-04-13
+Smush Parker,1981-06-01
+Quentin Richardson,1980-04-13
+Paul Shirley,1977-12-23
+Amar'e Stoudemire,1982-11-16
+Yuta Tabuse,1980-10-05
+Jake Voskuhl,1977-11-01
+Jackson Vroman,1981-06-06

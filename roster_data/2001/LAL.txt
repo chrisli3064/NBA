@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Kobe Bryant,1978-08-23
+Derek Fisher,1974-08-09
+Greg Foster,1968-10-03
+Rick Fox,1969-07-24
+Devean George,1977-08-29
+Horace Grant,1965-07-04
+Ron Harper,1964-01-20
+Robert Horry,1970-08-25
+Tyronn Lue,1977-05-03
+Mark Madsen,1976-01-28
+Stanislav Medvedenko,1979-04-04
+Shaquille O'Neal,1972-03-06
+Mike Penberthy,1974-11-29
+Isaiah Rider,1971-03-12
+Brian Shaw,1966-03-22

@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Chucky Atkins,1974-08-14
+Jon Barry,1969-07-25
+Chauncey Billups,1976-09-25
+Michael Curry,1968-08-22
+Hubert Davis,1970-05-17
+Richard Hamilton,1978-02-14
+Danny Manning,1966-05-17
+Mehmet Okur,1979-05-26
+Tayshaun Prince,1980-02-28
+Željko Rebrača,1972-04-09
+Don Reid,1973-12-30
+Clifford Robinson,1966-12-16
+Pepe Sánchez,1977-05-08
+Ben Wallace,1974-09-10
+Corliss Williamson,1973-12-04

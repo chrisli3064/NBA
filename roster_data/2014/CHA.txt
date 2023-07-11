@@ -1,0 +1,20 @@
+PLAYER,BIRTH_DATE
+Jeff Adrien,1986-02-10
+Bismack Biyombo,1992-08-28
+Chris Douglas-Roberts,1987-01-08
+Ben Gordon,1983-04-04
+Justin Hamilton,1990-04-01
+Gerald Henderson,1987-12-09
+Al Jefferson,1985-01-04
+Michael Kidd-Gilchrist,1993-09-26
+Josh McRoberts,1987-02-28
+Gary Neal,1984-10-03
+Jannero Pargo,1979-10-22
+Luke Ridnour,1981-02-13
+Ramon Sessions,1986-04-11
+James Southerland,1990-04-28
+Jeff Taylor,1989-05-23
+Anthony Tolliver,1985-06-01
+Kemba Walker,1990-05-08
+D.J. White,1986-08-31
+Cody Zeller,1992-10-05

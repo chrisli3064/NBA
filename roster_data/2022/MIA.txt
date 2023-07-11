@@ -1,0 +1,23 @@
+PLAYER,BIRTH_DATE
+Bam Adebayo,1997-07-18
+Jimmy Butler,1989-09-14
+Dewayne Dedmon,1989-08-12
+Marcus Garrett,1998-11-09
+Kyle Guy,1997-08-11
+Udonis Haslem,1980-06-09
+Tyler Herro,2000-01-20
+Haywood Highsmith,1996-12-09
+Kyle Lowry,1986-03-25
+Caleb Martin,1995-09-28
+Markieff Morris,1989-09-02
+Mychal Mulder,1994-06-12
+KZ Okpala,1999-04-28
+Victor Oladipo,1992-05-04
+Duncan Robinson,1994-04-22
+Chris Silva,1996-09-19
+Javonte Smart,1999-06-03
+Nik Stauskas,1993-10-07
+Max Strus,1996-03-28
+P.J. Tucker,1985-05-05
+Gabe Vincent,1996-06-14
+Omer Yurtseven,1998-06-19

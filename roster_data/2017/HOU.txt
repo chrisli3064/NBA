@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+Ryan Anderson,1988-05-06
+Trevor Ariza,1985-06-30
+Patrick Beverley,1988-07-12
+Corey Brewer,1986-03-05
+Bobby Brown,1984-09-24
+Clint Capela,1994-05-18
+Sam Dekker,1994-05-06
+Tyler Ennis,1994-08-24
+Eric Gordon,1988-12-25
+James Harden,1989-08-26
+Montrezl Harrell,1994-01-26
+Nenê,1982-09-13
+K.J. McDaniels,1993-02-09
+Chinanu Onuaku,1996-11-01
+Isaiah Taylor,1994-07-11
+Lou Williams,1986-10-27
+Troy Williams,1994-12-30
+Kyle Wiltjer,1992-10-20

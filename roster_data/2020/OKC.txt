@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+Steven Adams,1993-07-20
+Darius Bazley,2000-06-12
+Deonte Burton,1994-01-31
+Hamidou Diallo,1998-07-31
+Luguentz Dort,1999-04-19
+Terrance Ferguson,1998-05-17
+Danilo Gallinari,1988-08-08
+Shai Gilgeous-Alexander,1998-07-12
+Devon Hall,1995-07-07
+Kevin Hervey,1996-07-09
+Mike Muscala,1991-07-01
+Abdel Nader,1993-09-25
+Nerlens Noel,1994-04-10
+Justin Patton,1997-06-14
+Chris Paul,1985-05-06
+Andre Roberson,1991-12-04
+Isaiah Roby,1998-02-03
+Dennis Schröder,1993-09-15

@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Malik Allen,1978-06-27
+Shandon Anderson,1973-12-31
+Rasual Butler,1979-05-23
+Michael Doleac,1977-06-15
+Keyon Dooling,1980-05-08
+Udonis Haslem,1980-06-09
+Damon Jones,1976-08-25
+Eddie Jones,1971-10-20
+Christian Laettner,1969-08-17
+Alonzo Mourning,1970-02-08
+Shaquille O'Neal,1972-03-06
+Wesley Person,1971-03-28
+Steve Smith,1969-03-31
+Dwyane Wade,1982-01-17
+Qyntel Woods,1981-02-16
+Dorell Wright,1985-12-02
+Wang Zhizhi,1977-07-08

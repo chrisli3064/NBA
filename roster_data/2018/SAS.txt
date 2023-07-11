@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+LaMarcus Aldridge,1985-07-19
+Kyle Anderson,1993-09-20
+Dāvis Bertāns,1992-11-12
+Matt Costello,1993-08-05
+Bryn Forbes,1993-07-23
+Pau Gasol,1980-07-06
+Rudy Gay,1986-08-17
+Manu Ginóbili,1977-07-28
+Danny Green,1987-06-22
+Darrun Hilliard,1993-04-13
+Joffrey Lauvergne,1991-09-30
+Kawhi Leonard,1991-06-29
+Patty Mills,1988-08-11
+Dejounte Murray,1996-09-19
+Tony Parker,1982-05-17
+Brandon Paul,1991-04-30
+Derrick White,1994-07-02

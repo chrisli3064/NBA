@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Lavoy Allen,1989-02-04
+Kwame Brown,1982-03-10
+Spencer Hawes,1988-04-28
+Jrue Holiday,1990-06-12
+Justin Holiday,1989-04-05
+Royal Ivey,1981-12-20
+Charles Jenkins,1989-02-28
+Shelvin Mack,1990-04-22
+Arnett Moultrie,1990-11-18
+Jeremy Pargo,1986-03-17
+Jason Richardson,1981-01-20
+Evan Turner,1988-10-27
+Maalik Wayns,1991-05-02
+Damien Wilkins,1980-01-11
+Dorell Wright,1985-12-02
+Nick Young,1985-06-01
+Thaddeus Young,1988-06-21

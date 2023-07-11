@@ -1,0 +1,24 @@
+PLAYER,BIRTH_DATE
+Deandre Ayton,1998-07-23
+Paris Bass,1995-08-29
+Bismack Biyombo,1992-08-28
+Devin Booker,1996-10-30
+Mikal Bridges,1996-08-30
+Torrey Craig,1990-12-19
+Jae Crowder,1990-07-06
+Aaron Holiday,1996-09-30
+Chandler Hutchison,1996-04-26
+Justin Jackson,1995-03-28
+Cameron Johnson,1996-03-03
+Frank Kaminsky,1993-04-04
+Gabriel Lundberg,1994-12-04
+JaVale McGee,1988-01-19
+Abdel Nader,1993-09-25
+Chris Paul,1985-05-06
+Cameron Payne,1994-08-08
+Elfrid Payton,1994-02-22
+Landry Shamet,1997-03-13
+Jalen Smith,2000-03-16
+Emanuel Terry,1996-08-21
+Ish Wainright,1994-09-12
+M.J. Walker,1998-03-28

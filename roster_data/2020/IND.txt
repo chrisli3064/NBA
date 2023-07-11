@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Goga Bitadze,1999-07-20
+Brian Bowen,1998-10-02
+Malcolm Brogdon,1992-12-11
+Aaron Holiday,1996-09-30
+Justin Holiday,1989-04-05
+Alize Johnson,1996-04-22
+Jeremy Lamb,1992-05-30
+T.J. Leaf,1997-04-30
+T.J. McConnell,1992-03-25
+Doug McDermott,1992-01-03
+Naz Mitrou-Long,1993-08-03
+Victor Oladipo,1992-05-04
+Domantas Sabonis,1996-05-03
+JaKarr Sampson,1993-03-20
+Edmond Sumner,1995-12-31
+Myles Turner,1996-03-24
+T.J. Warren,1993-09-05

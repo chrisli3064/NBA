@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Darrell Armstrong,1968-06-22
+Doug Christie,1970-05-09
+Erick Dampier,1975-07-14
+Marquis Daniels,1981-01-07
+DeSagana Diop,1982-01-30
+Adrian Griffin,1974-07-04
+Devin Harris,1983-02-27
+Josh Howard,1980-04-28
+D.J. Mbenga,1980-12-30
+Rawle Marshall,1982-02-20
+Dirk Nowitzki,1978-06-19
+Pavel Podkolzin,1985-01-15
+Josh Powell,1983-01-25
+Jerry Stackhouse,1974-11-05
+Jason Terry,1977-09-15
+Keith Van Horn,1975-10-23

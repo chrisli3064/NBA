@@ -1,0 +1,25 @@
+PLAYER,BIRTH_DATE
+Dillon Brooks,1996-01-22
+MarShon Brooks,1989-01-26
+Mario Chalmers,1986-05-19
+Mike Conley,1987-10-11
+Deyonta Davis,1996-12-02
+James Ennis III,1990-07-01
+Tyreke Evans,1989-09-19
+Marc Gasol,1985-01-29
+JaMychal Green,1990-06-21
+Andrew Harrison,1994-10-28
+Myke Henry,1992-12-23
+Vince Hunter,1994-08-05
+Brice Johnson,1994-06-27
+Omari Johnson,1989-11-26
+Jarell Martin,1994-05-24
+Ben McLemore,1993-02-11
+Chandler Parsons,1988-10-25
+Ivan Rabb,1997-02-04
+Xavier Rathan-Mayes,1994-04-29
+Wayne Selden,1994-09-30
+Kobi Simmons,1997-07-04
+Marquis Teague,1993-02-28
+Briante Weber,1992-12-29
+Brandan Wright,1987-10-05

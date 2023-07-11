@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Chucky Brown,1968-02-29
+Elden Campbell,1968-07-23
+Derrick Coleman,1967-06-21
+Baron Davis,1979-04-13
+Ricky Davis,1979-09-23
+Dale Ellis,1960-08-06
+Todd Fuller,1974-07-25
+Michael Hawkins,1972-10-28
+Derek Hood,1976-12-22
+Eddie Jones,1971-10-20
+Anthony Mason,1966-12-14
+Brad Miller,1976-04-12
+Jason Miskiri,1975-08-19
+Bobby Phills,1969-12-20
+Eldridge Recasner,1967-12-14
+Eddie Robinson,1976-04-19
+David Wesley,1970-11-14

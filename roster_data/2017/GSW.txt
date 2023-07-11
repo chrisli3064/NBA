@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Matt Barnes,1980-03-09
+Ian Clark,1991-03-07
+Stephen Curry,1988-03-14
+Kevin Durant,1988-09-29
+Draymond Green,1990-03-04
+Andre Iguodala,1984-01-28
+Damian Jones,1995-06-30
+Shaun Livingston,1985-09-11
+Kevon Looney,1996-02-06
+James Michael McAdoo,1993-01-04
+Patrick McCaw,1995-10-25
+JaVale McGee,1988-01-19
+Zaza Pachulia,1984-02-10
+Klay Thompson,1990-02-08
+Anderson Varejão,1982-09-28
+Briante Weber,1992-12-29
+David West,1980-08-29

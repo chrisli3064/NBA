@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Lou Amundson,1982-12-07
+Calvin Booth,1976-05-07
+Rodney Carney,1984-04-15
+Samuel Dalembert,1981-05-10
+Reggie Evans,1980-05-18
+Gordan Giriček,1977-06-20
+Willie Green,1981-07-28
+Andre Iguodala,1984-01-28
+Kyle Korver,1981-03-17
+Andre Miller,1976-03-19
+Kevin Ollie,1972-12-27
+Shavlik Randolph,1983-11-24
+Jason Smith,1986-03-02
+Lou Williams,1986-10-27
+Thaddeus Young,1988-06-21

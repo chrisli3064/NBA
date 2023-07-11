@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+Jeff Adrien,1986-02-10
+Bismack Biyombo,1992-08-28
+Matt Carroll,1980-08-28
+DeSagana Diop,1982-01-30
+Ben Gordon,1983-04-04
+Brendan Haywood,1979-11-27
+Gerald Henderson,1987-12-09
+Cory Higgins,1989-06-14
+Michael Kidd-Gilchrist,1993-09-26
+Josh McRoberts,1987-02-28
+Byron Mullens,1989-02-14
+Jannero Pargo,1979-10-22
+Ramon Sessions,1986-04-11
+Jeff Taylor,1989-05-23
+Tyrus Thomas,1986-08-17
+Kemba Walker,1990-05-08
+Hakim Warrick,1982-07-08
+Reggie Williams,1986-09-14

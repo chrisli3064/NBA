@@ -1,0 +1,15 @@
+PLAYER,BIRTH_DATE
+Malik Allen,1978-06-27
+Travis Best,1972-07-12
+Caron Butler,1980-03-13
+Rasual Butler,1979-05-23
+Anthony Carter,1975-06-16
+LaPhonso Ellis,1970-05-05
+Brian Grant,1972-03-05
+Eddie House,1978-05-14
+Mike James,1975-06-23
+Ken Johnson,1978-02-01
+Eddie Jones,1971-10-20
+Sean Lampley,1979-09-03
+Sean Marks,1975-08-23
+Vladimir Stepania,1976-05-08

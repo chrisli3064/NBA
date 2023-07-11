@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Franz Wagner,2001-08-27
+Paolo Banchero,2002-11-12
+Bol Bol,1999-11-16
+Markelle Fultz,1998-05-29
+Cole Anthony,2000-05-15
+Wendell Carter Jr.,1999-04-16
+Moritz Wagner,1997-04-26
+Jalen Suggs,2001-06-03
+Caleb Houstan,2003-01-09
+Gary Harris,1994-09-14
+Admiral Schofield,1997-03-30
+Kevon Harris (TW),1997-06-24
+Chuma Okeke,1998-08-18
+Goga Bitadze,1999-07-20
+Jonathan Isaac,1997-10-03
+Michael Carter-Williams,1991-10-10
+Jay Scrubb (TW),2000-09-01

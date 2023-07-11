@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Daniel Gibson,1986-02-27
+J.J. Hickson,1988-09-04
+Zydrunas Ilgauskas,1975-06-05
+Darnell Jackson,1985-11-07
+LeBron James,1984-12-30
+Trey Johnson,1984-08-30
+Tarence Kinsey,1984-03-21
+Sasha Pavlović,1983-11-15
+Joe Smith,1975-07-26
+Wally Szczerbiak,1977-03-05
+Anderson Varejão,1982-09-28
+Ben Wallace,1974-09-10
+Delonte West,1983-07-26
+Jawad Williams,1983-02-19
+Mo Williams,1982-12-19
+Lorenzen Wright,1975-11-04

@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Tyus Jones,1996-05-10
+Santi Aldama,2001-01-10
+Dillon Brooks,1996-01-22
+John Konchar,1996-03-22
+David Roddy,2001-03-27
+Jaren Jackson Jr.,1999-09-15
+Ja Morant,1999-08-10
+Xavier Tillman Sr.,1999-01-12
+Desmond Bane,1998-06-25
+Brandon Clarke,1996-09-19
+Steven Adams,1993-07-20
+Ziaire Williams,2001-09-12
+Jake LaRavia,2001-11-03
+Luke Kennard,1996-06-24
+Kenneth Lofton Jr.,2002-08-14
+Vince Williams Jr. (TW),2000-08-30
+Jacob Gilyard (TW),1998-07-14

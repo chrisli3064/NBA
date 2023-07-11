@@ -1,0 +1,20 @@
+PLAYER,BIRTH_DATE
+Jarrett Allen,1998-04-21
+DeMarre Carroll,1986-07-27
+Allen Crabbe,1992-04-09
+Mitch Creek,1992-04-27
+Ed Davis,1989-06-05
+Spencer Dinwiddie,1993-04-06
+Jared Dudley,1985-07-10
+Kenneth Faried,1989-11-19
+Treveon Graham,1993-10-28
+Joe Harris,1991-09-06
+Rondae Hollis-Jefferson,1995-01-03
+Rodions Kurucs,1998-02-05
+Caris LeVert,1994-08-25
+Tahjere McCall,1994-08-17
+Džanan Musa,1999-05-08
+Shabazz Napier,1991-07-14
+Theo Pinson,1995-11-05
+D'Angelo Russell,1996-02-23
+Alan Williams,1993-01-28

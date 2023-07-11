@@ -1,0 +1,990 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2013-10-30,27-118,HOU,HOME,CHA,W (+13),1,26:09,1,5,.200,0,0,,2,4,.500,5,9,14,0,1,2,1,1,4,7.3,-1,Ömer Aşık
+2013-11-01,27-120,HOU,HOME,DAL,W (+8),1,15:28,2,4,.500,0,0,,2,4,.500,1,11,12,0,0,0,2,6,6,2.8,+12,Ömer Aşık
+2013-11-02,27-121,HOU,AWAY,UTA,W (+11),1,28:10,2,4,.500,0,0,,0,0,,2,7,9,0,1,2,2,2,4,5.1,+12,Ömer Aşık
+2013-11-04,27-123,HOU,AWAY,LAC,L (-19),1,23:42,1,1,1.000,0,0,,4,4,1.000,2,5,7,0,0,0,2,3,6,5.4,-18,Ömer Aşık
+2013-11-05,27-124,HOU,AWAY,POR,W (+15),1,22:00,3,5,.600,0,0,,2,2,1.000,1,4,5,1,0,0,2,4,8,4.7,+1,Ömer Aşık
+2013-11-07,27-126,HOU,HOME,LAL,L (-1),1,23:19,1,3,.333,0,0,,4,6,.667,1,8,9,1,1,0,3,2,6,4.5,-11,Ömer Aşık
+2013-11-09,27-128,HOU,HOME,LAC,L (-13),1,23:36,3,3,1.000,0,0,,1,4,.250,2,5,7,0,0,0,1,3,7,5.6,-13,Ömer Aşık
+2013-11-11,27-130,HOU,HOME,TOR,W (+6),1,18:50,2,4,.500,0,0,,0,2,.000,1,1,2,0,0,1,0,2,4,2.1,+1,Ömer Aşık
+2013-11-13,27-132,HOU,AWAY,PHI,L (-6),0,4:22,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-7,Ömer Aşık
+2013-11-16,27-135,HOU,HOME,DEN,W (+11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ömer Aşık
+2013-11-19,27-138,HOU,HOME,BOS,W (+24),0,6:49,1,3,.333,0,0,,2,2,1.000,2,2,4,0,0,0,1,1,4,2.9,-3,Ömer Aşık
+2013-11-20,27-139,HOU,AWAY,DAL,L (-3),0,11:38,0,0,,0,0,,1,2,.500,1,4,5,0,0,1,1,3,1,1.0,-4,Ömer Aşık
+2013-11-23,27-142,HOU,HOME,MIN,W (+11),0,13:13,0,0,,0,0,,2,2,1.000,1,7,8,0,0,0,1,3,2,2.6,+8,Ömer Aşık
+2013-11-25,27-144,HOU,AWAY,MEM,W (+7),0,20:59,1,3,.333,0,0,,0,0,,4,6,10,1,0,0,0,1,2,5.2,+11,Ömer Aşık
+2013-11-27,27-146,HOU,HOME,ATL,W (+29),0,20:24,4,7,.571,0,0,,2,3,.667,2,7,9,2,0,1,1,0,10,10.9,+21,Ömer Aşık
+2013-11-29,27-148,HOU,HOME,BRK,W (+19),0,23:16,2,5,.400,0,0,,2,2,1.000,0,6,6,1,0,0,2,1,6,3.4,+7,Ömer Aşık
+2013-11-30,27-149,HOU,AWAY,SAS,W (+6),0,13:24,1,2,.500,0,0,,1,2,.500,1,2,3,1,1,0,1,0,3,3.6,+1,Ömer Aşık
+2013-12-02,27-151,HOU,AWAY,UTA,L (-6),0,15:16,1,4,.250,0,0,,0,0,,2,3,5,0,0,0,0,2,2,1.1,+5,Ömer Aşık
+2013-12-04,27-153,HOU,HOME,PHO,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ömer Aşık
+2013-12-06,27-155,HOU,HOME,GSW,W (+22),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ömer Aşık
+2013-12-08,27-157,HOU,HOME,ORL,W (+10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ömer Aşık
+2013-12-18,27-167,HOU,HOME,CHI,W (+15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ömer Aşık
+2013-12-20,27-169,HOU,AWAY,IND,L (-33),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Ömer Aşık
+2013-12-21,27-170,HOU,AWAY,DET,W (+17),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Ömer Aşık
+2013-12-23,27-172,HOU,HOME,DAL,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ömer Aşık
+2013-12-25,27-174,HOU,AWAY,SAS,W (+13),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Ömer Aşık
+2013-12-26,27-175,HOU,HOME,MEM,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ömer Aşık
+2013-12-28,27-177,HOU,HOME,NOP,W (+9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ömer Aşık
+2013-12-29,27-178,HOU,AWAY,OKC,L (-31),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Ömer Aşık
+2013-12-31,27-180,HOU,HOME,SAC,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ömer Aşık
+2014-01-03,27-183,HOU,HOME,NYK,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ömer Aşık
+2014-01-08,27-188,HOU,HOME,LAL,W (+14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ömer Aşık
+2014-01-10,27-190,HOU,AWAY,ATL,L (-3),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Ömer Aşık
+2014-01-13,27-193,HOU,AWAY,BOS,W (+12),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Ömer Aşık
+2014-01-15,27-195,HOU,AWAY,NOP,W (+3),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Ömer Aşık
+2014-01-16,27-196,HOU,HOME,OKC,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ömer Aşık
+2014-01-18,27-198,HOU,HOME,MIL,W (+10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ömer Aşık
+2014-02-08,27-219,HOU,AWAY,MIL,W (+6),0,10:59,0,0,,0,0,,0,0,,0,5,5,2,0,0,1,0,0,1.9,+9,Ömer Aşık
+2014-02-10,27-221,HOU,AWAY,MIN,W (+18),0,10:11,1,2,.500,0,0,,1,2,.500,2,4,6,0,0,0,2,1,3,1.8,-10,Ömer Aşık
+2014-02-12,27-223,HOU,HOME,WAS,W (+1),0,10:41,0,1,.000,0,0,,0,0,,1,2,3,0,0,0,1,1,0,-0.8,-15,Ömer Aşık
+2014-02-19,27-230,HOU,AWAY,LAL,W (+26),0,23:10,3,6,.500,0,0,,1,2,.500,5,7,12,1,0,0,0,1,7,9.5,+6,Ömer Aşık
+2014-02-20,27-231,HOU,AWAY,GSW,L (-3),0,15:05,3,6,.500,0,0,,0,0,,3,2,5,2,1,1,0,1,6,8.4,+7,Ömer Aşık
+2014-02-23,27-234,HOU,AWAY,PHO,W (+3),0,13:18,1,2,.500,0,0,,1,1,1.000,2,1,3,0,1,0,1,1,3,3.3,-9,Ömer Aşık
+2014-02-25,27-236,HOU,AWAY,SAC,W (+26),0,23:29,3,4,.750,0,0,,1,1,1.000,1,7,8,0,0,1,2,4,7,5.3,+7,Ömer Aşık
+2014-02-26,27-237,HOU,AWAY,LAC,L (-8),0,17:05,3,4,.750,0,0,,0,0,,2,3,5,1,0,2,1,1,6,7.4,+6,Ömer Aşık
+2014-03-01,27-240,HOU,HOME,DET,W (+8),0,12:45,0,1,.000,0,0,,0,2,.000,1,2,3,0,0,0,2,3,0,-3.4,-5,Ömer Aşık
+2014-03-04,27-243,HOU,HOME,MIA,W (+3),0,11:06,1,2,.500,0,0,,1,2,.500,2,2,4,0,0,0,2,2,3,0.8,-15,Ömer Aşık
+2014-03-05,27-244,HOU,AWAY,ORL,W (+12),0,15:41,0,1,.000,0,0,,2,2,1.000,0,8,8,0,0,1,0,1,2,4.0,+7,Ömer Aşık
+2014-03-07,27-246,HOU,HOME,IND,W (+26),0,20:01,0,2,.000,0,0,,4,6,.667,1,5,6,1,0,2,2,0,4,4.1,-4,Ömer Aşık
+2014-03-09,27-248,HOU,HOME,POR,W (+5),0,16:12,0,0,,0,0,,0,0,,1,2,3,1,0,0,0,2,0,1.2,+3,Ömer Aşık
+2014-03-11,27-250,HOU,AWAY,OKC,L (-8),0,15:06,2,4,.500,0,0,,3,4,.750,1,4,5,0,0,0,1,0,7,5.5,+4,Ömer Aşık
+2014-03-13,27-252,HOU,AWAY,CHI,L (-24),0,19:25,2,3,.667,0,0,,2,4,.500,3,1,4,0,0,0,0,1,6,5.9,+4,Ömer Aşık
+2014-03-16,27-255,HOU,AWAY,MIA,L (-9),0,10:11,2,3,.667,0,0,,0,2,.000,4,2,6,0,0,0,0,1,4,4.9,-5,Ömer Aşık
+2014-03-17,27-256,HOU,HOME,UTA,W (+38),1,28:17,5,12,.417,0,0,,2,4,.500,4,7,11,0,0,1,1,3,12,8.2,+24,Ömer Aşık
+2014-03-20,27-259,HOU,HOME,MIN,W (+23),1,27:29,4,4,1.000,0,0,,4,5,.800,1,4,5,3,0,4,2,4,12,13.6,+9,Ömer Aşık
+2014-03-22,27-261,HOU,AWAY,CLE,W (+7),1,33:04,4,8,.500,0,0,,1,2,.500,2,6,8,2,0,2,1,0,9,9.6,+13,Ömer Aşık
+2014-03-24,27-263,HOU,AWAY,CHA,W (+11),0,15:26,1,2,.500,0,0,,0,0,,1,3,4,1,0,3,1,3,2,3.2,+10,Ömer Aşık
+2014-03-27,27-266,HOU,HOME,PHI,W (+22),0,21:50,2,4,.500,0,0,,0,1,.000,3,4,7,0,1,0,0,3,4,4.7,-13,Ömer Aşık
+2014-03-29,27-268,HOU,HOME,LAC,L (-11),1,34:57,5,9,.556,0,0,,2,2,1.000,4,7,11,0,0,1,2,5,12,9.3,-7,Ömer Aşık
+2014-04-01,27-271,HOU,AWAY,BRK,L (-9),1,35:42,5,8,.625,0,0,,2,6,.333,6,17,23,0,1,2,3,1,12,15.1,-8,Ömer Aşık
+2014-04-02,27-272,HOU,AWAY,TOR,L (-4),1,31:53,3,5,.600,0,0,,3,6,.500,2,13,15,0,1,0,3,3,9,7.6,-1,Ömer Aşık
+2014-04-04,27-274,HOU,HOME,OKC,W (+4),1,32:54,3,5,.600,0,0,,3,4,.750,4,8,12,2,0,0,1,3,9,10.7,+5,Ömer Aşık
+2014-04-06,27-276,HOU,HOME,DEN,W (+5),1,43:09,6,11,.545,0,0,,6,11,.545,7,16,23,1,3,3,2,1,18,23.8,+11,Ömer Aşık
+2014-04-08,27-278,HOU,AWAY,LAL,W (+15),1,24:25,4,7,.571,0,0,,2,2,1.000,0,15,15,0,1,2,3,2,10,9.8,+24,Ömer Aşık
+2014-04-09,27-279,HOU,AWAY,DEN,L (-7),1,24:15,5,8,.625,0,0,,2,2,1.000,2,10,12,1,0,0,2,1,12,11.1,-1,Ömer Aşık
+2014-04-11,27-281,HOU,AWAY,MIN,L (-2),1,24:23,3,7,.429,0,0,,3,4,.750,6,9,15,0,1,2,1,5,9,11.2,+4,Ömer Aşık
+2014-04-12,27-282,HOU,HOME,NOP,W (+7),0,18:47,2,2,1.000,0,0,,5,8,.625,1,7,8,0,0,1,2,2,9,7.9,-14,Ömer Aşık
+2014-04-14,27-284,HOU,HOME,SAS,W (+6),0,16:35,3,4,.750,0,0,,2,2,1.000,1,7,8,0,0,2,0,2,8,9.8,-12,Ömer Aşık
+2013-10-30,25-110,HOU,HOME,CHA,W (+13),1,10:23,2,4,.500,1,3,.333,0,0,,1,0,1,1,0,0,2,0,5,2.4,+4,Patrick Beverley
+2013-11-02,25-113,HOU,AWAY,UTA,W (+11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Patrick Beverley
+2013-11-05,25-116,HOU,AWAY,POR,W (+15),0,28:37,5,9,.556,1,3,.333,1,1,1.000,4,0,4,1,0,0,0,2,12,10.4,+9,Patrick Beverley
+2013-11-07,25-118,HOU,HOME,LAL,L (-1),1,33:49,1,10,.100,1,5,.200,0,0,,3,1,4,4,1,1,1,5,3,0.3,-7,Patrick Beverley
+2013-11-09,25-120,HOU,HOME,LAC,L (-13),1,37:44,6,13,.462,3,8,.375,4,4,1.000,1,4,5,3,4,2,3,5,19,16.7,-12,Patrick Beverley
+2013-11-11,25-122,HOU,HOME,TOR,W (+6),1,24:22,0,5,.000,0,4,.000,1,2,.500,1,3,4,0,0,0,3,4,1,-5.9,+5,Patrick Beverley
+2013-11-13,25-124,HOU,AWAY,PHI,L (-6),1,42:21,4,8,.500,1,5,.200,3,4,.750,3,6,9,5,3,1,0,4,12,17.1,+11,Patrick Beverley
+2013-11-14,25-125,HOU,AWAY,NYK,W (+3),1,26:43,2,6,.333,1,5,.200,0,0,,1,1,2,2,1,0,2,0,5,3.0,-3,Patrick Beverley
+2013-11-16,25-127,HOU,HOME,DEN,W (+11),1,27:02,4,7,.571,3,4,.750,0,0,,2,3,5,2,0,1,0,2,11,11.3,+13,Patrick Beverley
+2013-11-19,25-130,HOU,HOME,BOS,W (+24),1,23:03,6,9,.667,2,3,.667,2,2,1.000,0,4,4,1,0,0,1,3,16,11.8,+30,Patrick Beverley
+2013-11-20,25-131,HOU,AWAY,DAL,L (-3),1,36:37,3,9,.333,3,8,.375,0,0,,1,1,2,3,4,0,2,3,9,7.8,-1,Patrick Beverley
+2013-11-23,25-134,HOU,HOME,MIN,W (+11),1,32:58,6,12,.500,5,8,.625,0,0,,0,2,2,3,0,0,3,3,17,9.5,+1,Patrick Beverley
+2013-11-25,25-136,HOU,AWAY,MEM,W (+7),1,39:22,4,9,.444,1,5,.200,0,0,,1,2,3,2,1,1,2,2,9,5.9,+5,Patrick Beverley
+2013-11-27,25-138,HOU,HOME,ATL,W (+29),1,33:05,2,8,.250,1,3,.333,2,3,.667,0,2,2,2,2,0,1,1,7,4.4,+6,Patrick Beverley
+2013-11-29,25-140,HOU,HOME,BRK,W (+19),1,24:07,2,7,.286,1,5,.200,0,0,,0,4,4,1,0,0,0,1,5,2.4,+18,Patrick Beverley
+2013-11-30,25-141,HOU,AWAY,SAS,W (+6),1,36:39,4,10,.400,3,5,.600,0,0,,3,3,6,5,3,1,0,3,11,14.6,+11,Patrick Beverley
+2013-12-02,25-143,HOU,AWAY,UTA,L (-6),1,38:26,4,10,.400,0,3,.000,0,0,,2,3,5,4,2,1,0,3,8,9.2,-2,Patrick Beverley
+2013-12-04,25-145,HOU,HOME,PHO,L (-9),1,41:54,4,10,.400,2,5,.400,2,2,1.000,3,5,8,2,2,0,1,3,12,11.4,+4,Patrick Beverley
+2013-12-06,25-147,HOU,HOME,GSW,W (+22),1,32:40,2,6,.333,0,3,.000,2,4,.500,1,0,1,0,2,0,3,4,6,-0.1,+13,Patrick Beverley
+2013-12-08,25-149,HOU,HOME,ORL,W (+10),1,38:52,3,9,.333,2,8,.250,1,3,.333,1,3,4,3,0,1,1,2,9,5.7,+17,Patrick Beverley
+2013-12-12,25-153,HOU,AWAY,POR,L (-7),1,39:23,3,10,.300,0,0,,3,3,1.000,5,6,11,2,3,1,2,4,9,10.0,-15,Patrick Beverley
+2013-12-13,25-154,HOU,AWAY,GSW,W (+4),1,30:17,7,9,.778,2,3,.667,0,0,,2,1,3,2,2,0,0,6,16,15.2,+13,Patrick Beverley
+2013-12-15,25-156,HOU,AWAY,SAC,L (-15),1,31:04,2,7,.286,0,3,.000,2,2,1.000,0,1,1,2,1,0,1,2,6,2.8,-11,Patrick Beverley
+2013-12-18,25-159,HOU,HOME,CHI,W (+15),1,33:38,5,9,.556,2,4,.500,3,5,.600,0,1,1,3,0,0,0,1,15,11.9,+4,Patrick Beverley
+2013-12-20,25-161,HOU,AWAY,IND,L (-33),1,30:01,3,5,.600,0,1,.000,2,2,1.000,2,1,3,1,0,0,0,1,8,7.7,-17,Patrick Beverley
+2013-12-21,25-162,HOU,AWAY,DET,W (+17),1,14:35,3,6,.500,0,1,.000,4,4,1.000,0,3,3,2,1,0,1,1,10,8.9,+7,Patrick Beverley
+2014-01-20,25-192,HOU,HOME,POR,W (+13),1,28:56,5,11,.455,3,8,.375,4,4,1.000,1,1,2,3,1,0,2,2,17,12.6,+26,Patrick Beverley
+2014-01-22,25-194,HOU,HOME,SAC,W (+21),1,33:11,2,9,.222,1,4,.250,1,2,.500,1,5,6,8,2,1,0,4,6,9.0,+29,Patrick Beverley
+2014-01-24,25-196,HOU,HOME,MEM,L (-1),1,34:14,1,11,.091,1,8,.125,0,0,,2,1,3,2,0,1,0,5,3,-2.5,+1,Patrick Beverley
+2014-01-25,25-197,HOU,AWAY,MEM,L (-18),1,32:42,3,11,.273,3,6,.500,0,0,,3,2,5,0,0,0,0,4,9,3.6,-13,Patrick Beverley
+2014-01-28,25-200,HOU,HOME,SAS,W (+7),1,29:38,4,8,.500,1,2,.500,2,2,1.000,3,2,5,3,2,0,1,5,11,10.8,0,Patrick Beverley
+2014-01-29,25-201,HOU,AWAY,DAL,W (+2),1,36:18,3,8,.375,3,6,.500,2,2,1.000,0,4,4,4,1,0,5,5,11,4.6,-9,Patrick Beverley
+2014-02-01,25-204,HOU,HOME,CLE,W (+14),1,40:54,0,5,.000,0,5,.000,0,0,,3,7,10,8,5,1,2,2,0,9.2,+15,Patrick Beverley
+2014-02-05,25-208,HOU,HOME,PHO,W (+14),1,31:02,3,7,.429,2,3,.667,0,0,,0,0,0,5,1,0,0,3,8,7.6,+13,Patrick Beverley
+2014-02-08,25-211,HOU,AWAY,MIL,W (+6),1,29:44,6,12,.500,3,5,.600,0,0,,1,2,3,3,1,3,0,3,15,14.3,+3,Patrick Beverley
+2014-02-10,25-213,HOU,AWAY,MIN,W (+18),1,29:13,5,11,.455,4,8,.500,0,0,,3,2,5,2,3,0,0,5,14,13.4,+20,Patrick Beverley
+2014-02-12,25-215,HOU,HOME,WAS,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Patrick Beverley
+2014-02-19,25-222,HOU,AWAY,LAL,W (+26),1,29:20,4,9,.444,2,6,.333,0,0,,1,2,3,5,3,0,0,2,10,12.3,+29,Patrick Beverley
+2014-02-20,25-223,HOU,AWAY,GSW,L (-3),1,37:09,1,6,.167,0,2,.000,0,0,,3,2,5,3,0,0,1,6,2,-0.4,-8,Patrick Beverley
+2014-02-23,25-226,HOU,AWAY,PHO,W (+3),1,33:22,6,12,.500,1,2,.500,7,8,.875,1,2,3,3,3,0,3,4,20,15.4,-2,Patrick Beverley
+2014-02-25,25-228,HOU,AWAY,SAC,W (+26),1,26:02,2,4,.500,1,3,.333,0,0,,0,2,2,0,1,0,1,2,5,2.8,+17,Patrick Beverley
+2014-02-26,25-229,HOU,AWAY,LAC,L (-8),1,29:24,1,2,.500,1,1,1.000,2,2,1.000,1,4,5,2,0,1,4,6,5,1.6,-10,Patrick Beverley
+2014-03-01,25-232,HOU,HOME,DET,W (+8),1,38:48,6,15,.400,5,9,.556,2,4,.500,1,4,5,3,1,1,0,4,19,14.2,+2,Patrick Beverley
+2014-03-04,25-235,HOU,HOME,MIA,W (+3),1,32:52,6,12,.500,5,8,.625,2,3,.667,2,0,2,2,3,1,2,4,19,15.5,+17,Patrick Beverley
+2014-03-05,25-236,HOU,AWAY,ORL,W (+12),1,31:38,1,8,.125,0,4,.000,2,2,1.000,0,0,0,1,2,0,0,5,4,-0.5,+9,Patrick Beverley
+2014-03-07,25-238,HOU,HOME,IND,W (+26),1,26:26,4,6,.667,1,1,1.000,0,0,,0,2,2,5,1,0,1,2,9,9.7,+17,Patrick Beverley
+2014-03-09,25-240,HOU,HOME,POR,W (+5),1,36:27,4,8,.500,0,3,.000,4,7,.571,1,1,2,0,4,0,0,6,12,9.4,-3,Patrick Beverley
+2014-03-11,25-242,HOU,AWAY,OKC,L (-8),1,24:42,1,4,.250,0,1,.000,0,0,,1,1,2,3,2,0,0,5,2,2.7,-8,Patrick Beverley
+2014-03-13,25-244,HOU,AWAY,CHI,L (-24),1,29:36,3,9,.333,0,4,.000,3,4,.750,2,1,3,3,0,0,0,3,9,6.1,-31,Patrick Beverley
+2014-03-16,25-247,HOU,AWAY,MIA,L (-9),1,36:17,5,14,.357,1,5,.200,4,4,1.000,0,0,0,5,3,1,2,3,15,11.2,-5,Patrick Beverley
+2014-03-17,25-248,HOU,HOME,UTA,W (+38),1,32:04,6,9,.667,2,4,.500,5,5,1.000,1,6,7,3,1,1,3,1,19,18.0,+19,Patrick Beverley
+2014-03-20,25-251,HOU,HOME,MIN,W (+23),1,25:13,5,10,.500,4,7,.571,0,0,,0,2,2,3,2,0,1,3,14,11.5,+18,Patrick Beverley
+2014-03-22,25-253,HOU,AWAY,CLE,W (+7),1,34:27,6,12,.500,3,9,.333,0,0,,0,3,3,7,0,0,1,2,15,13.0,+11,Patrick Beverley
+2014-03-24,25-255,HOU,AWAY,CHA,W (+11),1,34:06,3,10,.300,2,7,.286,0,0,,3,1,4,0,0,1,1,3,8,3.1,+11,Patrick Beverley
+2014-03-27,25-258,HOU,HOME,PHI,W (+22),1,7:33,1,2,.500,1,2,.500,2,2,1.000,0,0,0,1,0,0,0,1,5,4.3,+2,Patrick Beverley
+2014-03-29,25-260,HOU,HOME,LAC,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Patrick Beverley
+2014-04-01,25-263,HOU,AWAY,BRK,L (-9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Patrick Beverley
+2014-04-02,25-264,HOU,AWAY,TOR,L (-4),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Patrick Beverley
+2014-04-04,25-266,HOU,HOME,OKC,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Patrick Beverley
+2014-04-06,25-268,HOU,HOME,DEN,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Patrick Beverley
+2014-04-08,25-270,HOU,AWAY,LAL,W (+15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Patrick Beverley
+2014-04-12,25-274,HOU,HOME,NOP,W (+7),1,33:13,6,12,.500,4,8,.500,4,4,1.000,1,2,3,4,2,1,1,5,20,17.8,+18,Patrick Beverley
+2014-04-14,25-276,HOU,HOME,SAS,W (+6),1,36:19,5,11,.455,1,6,.167,1,1,1.000,0,1,1,2,1,0,2,4,12,5.4,+1,Patrick Beverley
+2014-04-16,25-278,HOU,AWAY,NOP,L (-5),1,22:09,4,6,.667,2,3,.667,4,5,.800,0,2,2,2,0,0,4,0,14,9.0,+3,Patrick Beverley
+2013-11-01,28-226,HOU,HOME,DAL,W (+8),0,7:29,0,0,,0,0,,0,0,,0,1,1,1,0,0,0,1,0,0.6,-15,Ronnie Brewer
+2013-11-04,28-229,HOU,AWAY,LAC,L (-19),0,4:38,0,0,,0,0,,0,2,.000,0,2,2,0,1,0,0,0,0,0.8,0,Ronnie Brewer
+2013-11-14,28-239,HOU,AWAY,NYK,W (+3),0,2:53,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4,Ronnie Brewer
+2013-11-16,28-241,HOU,HOME,DEN,W (+11),0,1:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3,Ronnie Brewer
+2013-11-19,28-244,HOU,HOME,BOS,W (+24),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ronnie Brewer
+2013-11-23,28-248,HOU,HOME,MIN,W (+11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ronnie Brewer
+2013-11-25,28-250,HOU,AWAY,MEM,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ronnie Brewer
+2013-11-27,28-252,HOU,HOME,ATL,W (+29),0,4:20,1,1,1.000,1,1,1.000,0,0,,1,0,1,2,0,0,0,0,3,4.8,+11,Ronnie Brewer
+2013-11-29,28-254,HOU,HOME,BRK,W (+19),0,14:10,0,2,.000,0,2,.000,0,0,,0,0,0,1,0,0,0,0,0,-0.7,-11,Ronnie Brewer
+2013-12-02,28-257,HOU,AWAY,UTA,L (-6),0,3:55,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-8,Ronnie Brewer
+2013-12-06,28-261,HOU,HOME,GSW,W (+22),0,2:47,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+5,Ronnie Brewer
+2013-12-08,28-263,HOU,HOME,ORL,W (+10),0,0:45,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3,Ronnie Brewer
+2013-12-15,28-270,HOU,AWAY,SAC,L (-15),0,1:16,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,+1,Ronnie Brewer
+2013-12-18,28-273,HOU,HOME,CHI,W (+15),0,2:35,1,2,.500,0,0,,0,0,,0,0,0,1,1,0,0,0,2,2.7,+1,Ronnie Brewer
+2013-12-20,28-275,HOU,AWAY,IND,L (-33),0,4:46,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-3,Ronnie Brewer
+2013-12-21,28-276,HOU,AWAY,DET,W (+17),0,13:33,0,2,.000,0,2,.000,0,0,,0,1,1,2,1,0,1,0,0,0.3,-14,Ronnie Brewer
+2013-12-23,28-278,HOU,HOME,DAL,L (-7),0,7:14,0,0,,0,0,,0,0,,0,0,0,1,1,0,0,0,0,1.7,-2,Ronnie Brewer
+2013-12-25,28-280,HOU,AWAY,SAS,W (+13),0,0:23,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Ronnie Brewer
+2013-12-29,28-284,HOU,AWAY,OKC,L (-31),0,6:16,0,0,,0,0,,0,0,,0,2,2,0,0,0,0,0,0,0.6,-6,Ronnie Brewer
+2014-01-08,28-294,HOU,HOME,LAL,W (+14),1,23:19,0,2,.000,0,1,.000,0,0,,0,2,2,0,1,0,0,2,0,-0.6,-1,Ronnie Brewer
+2014-01-10,28-296,HOU,AWAY,ATL,L (-3),1,25:04,0,2,.000,0,0,,0,0,,0,2,2,1,0,0,1,0,0,-1.1,+2,Ronnie Brewer
+2014-01-11,28-297,HOU,AWAY,WAS,W (+7),1,17:09,1,2,.500,0,1,.000,0,0,,1,0,1,0,1,0,0,1,2,2.3,+8,Ronnie Brewer
+2014-01-13,28-299,HOU,AWAY,BOS,W (+12),0,4:44,0,0,,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0.7,-4,Ronnie Brewer
+2014-01-18,28-304,HOU,HOME,MIL,W (+10),0,0:54,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,Ronnie Brewer
+2014-01-20,28-306,HOU,HOME,POR,W (+13),0,8:56,0,1,.000,0,1,.000,0,0,,0,2,2,0,0,0,0,0,0,-0.1,+3,Ronnie Brewer
+2014-01-22,28-308,HOU,HOME,SAC,W (+21),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ronnie Brewer
+2014-01-24,28-310,HOU,HOME,MEM,L (-1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ronnie Brewer
+2014-01-25,28-311,HOU,AWAY,MEM,L (-18),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ronnie Brewer
+2014-01-29,28-315,HOU,AWAY,DAL,W (+2),0,0:03,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Ronnie Brewer
+2014-02-19,28-336,HOU,AWAY,LAL,W (+26),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ronnie Brewer
+2014-02-20,28-337,HOU,AWAY,GSW,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ronnie Brewer
+2014-04-14,29-025,CHI,HOME,ORL,W (+13),0,2:06,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-5,Ronnie Brewer
+2013-10-30,28-289,HOU,HOME,CHA,W (+13),0,11:05,0,0,,0,0,,0,0,,0,0,0,1,1,0,2,3,0,-1.5,+10,Aaron Brooks
+2013-11-01,28-291,HOU,HOME,DAL,W (+8),0,22:57,3,8,.375,2,5,.400,5,5,1.000,1,1,2,2,0,0,1,0,13,10.0,-7,Aaron Brooks
+2013-11-02,28-292,HOU,AWAY,UTA,W (+11),0,20:34,1,4,.250,0,1,.000,0,0,,1,1,2,0,0,0,2,1,2,-1.8,-8,Aaron Brooks
+2013-11-04,28-294,HOU,AWAY,LAC,L (-19),0,17:31,3,5,.600,0,0,,3,4,.750,0,4,4,0,1,1,0,2,9,8.4,+8,Aaron Brooks
+2013-11-05,28-295,HOU,AWAY,POR,W (+15),0,1:01,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+1,Aaron Brooks
+2013-11-11,28-301,HOU,HOME,TOR,W (+6),0,0:06,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1,Aaron Brooks
+2013-11-13,28-303,HOU,AWAY,PHI,L (-6),0,4:23,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-9,Aaron Brooks
+2013-11-14,28-304,HOU,AWAY,NYK,W (+3),0,0:02,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2,Aaron Brooks
+2013-11-16,28-306,HOU,HOME,DEN,W (+11),0,1:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3,Aaron Brooks
+2013-11-19,28-309,HOU,HOME,BOS,W (+24),0,9:11,2,4,.500,0,0,,0,0,,0,0,0,0,0,0,1,3,4,-0.2,-7,Aaron Brooks
+2013-11-23,28-313,HOU,HOME,MIN,W (+11),0,24:36,10,14,.714,6,7,.857,0,0,,1,3,4,5,2,0,4,0,26,23.3,+9,Aaron Brooks
+2013-11-25,28-315,HOU,AWAY,MEM,W (+7),0,16:11,1,6,.167,1,4,.250,0,0,,2,1,3,1,1,0,1,3,3,0.4,+1,Aaron Brooks
+2013-11-27,28-317,HOU,HOME,ATL,W (+29),0,27:29,7,12,.583,4,6,.667,3,3,1.000,0,2,2,4,2,0,3,4,21,16.2,+20,Aaron Brooks
+2013-11-29,28-319,HOU,HOME,BRK,W (+19),0,28:15,5,8,.625,3,5,.600,1,1,1.000,1,0,1,7,3,1,1,3,14,17.5,-1,Aaron Brooks
+2013-11-30,28-320,HOU,AWAY,SAS,W (+6),0,15:52,1,8,.125,0,3,.000,1,2,.500,0,2,2,4,3,0,4,3,3,-1.4,0,Aaron Brooks
+2013-12-02,28-322,HOU,AWAY,UTA,L (-6),0,24:01,5,12,.417,1,3,.333,2,2,1.000,0,2,2,2,0,0,1,1,13,7.2,-1,Aaron Brooks
+2013-12-04,28-324,HOU,HOME,PHO,L (-9),0,33:27,7,18,.389,3,5,.600,0,0,,2,2,4,6,3,0,2,3,17,13.2,-1,Aaron Brooks
+2013-12-06,28-326,HOU,HOME,GSW,W (+22),0,17:03,3,7,.429,2,5,.400,0,0,,1,0,1,2,1,0,1,1,8,6.0,+8,Aaron Brooks
+2013-12-08,28-328,HOU,HOME,ORL,W (+10),0,13:17,1,4,.250,0,2,.000,0,0,,0,1,1,1,0,0,3,1,2,-2.8,-10,Aaron Brooks
+2013-12-15,28-335,HOU,AWAY,SAC,L (-15),0,27:19,4,8,.500,2,4,.500,3,4,.750,0,1,1,2,1,0,3,1,13,7.9,-14,Aaron Brooks
+2013-12-18,28-338,HOU,HOME,CHI,W (+15),0,17:38,1,6,.167,0,1,.000,0,0,,1,2,3,4,1,0,0,3,2,2.1,+6,Aaron Brooks
+2013-12-20,28-340,HOU,AWAY,IND,L (-33),0,17:59,0,7,.000,0,1,.000,1,2,.500,1,1,2,1,1,0,2,2,1,-4.4,-16,Aaron Brooks
+2013-12-21,28-341,HOU,AWAY,DET,W (+17),0,34:26,4,10,.400,1,4,.250,1,1,1.000,0,2,2,7,0,0,1,4,10,7.5,+20,Aaron Brooks
+2013-12-23,28-343,HOU,HOME,DAL,L (-7),0,27:13,7,13,.538,4,7,.571,0,0,,1,2,3,5,0,1,2,4,18,13.6,-7,Aaron Brooks
+2013-12-25,28-345,HOU,AWAY,SAS,W (+13),0,14:08,2,5,.400,2,3,.667,0,0,,1,0,1,0,0,0,0,2,6,3.2,-11,Aaron Brooks
+2013-12-26,28-346,HOU,HOME,MEM,W (+8),0,14:52,3,7,.429,0,3,.000,0,0,,1,0,1,2,0,0,0,1,6,4.0,-7,Aaron Brooks
+2013-12-28,28-348,HOU,HOME,NOP,W (+9),0,20:09,3,8,.375,1,5,.200,2,2,1.000,1,0,1,1,0,0,1,2,9,4.2,-1,Aaron Brooks
+2013-12-29,28-349,HOU,AWAY,OKC,L (-31),0,23:26,6,14,.429,3,7,.429,2,2,1.000,0,1,1,2,1,1,0,1,17,12.6,-1,Aaron Brooks
+2013-12-31,28-351,HOU,HOME,SAC,L (-4),0,14:38,1,5,.200,0,3,.000,2,2,1.000,2,0,2,3,0,0,0,3,4,3.2,-4,Aaron Brooks
+2014-01-03,28-354,HOU,HOME,NYK,W (+2),0,19:32,1,8,.125,1,5,.200,2,2,1.000,1,1,2,1,0,0,2,4,5,-2.1,+3,Aaron Brooks
+2014-01-08,28-359,HOU,HOME,LAL,W (+14),0,15:03,3,6,.500,3,5,.600,0,0,,1,2,3,1,0,0,2,1,9,5.6,+2,Aaron Brooks
+2014-01-10,28-361,HOU,AWAY,ATL,L (-3),0,27:07,5,9,.556,3,5,.600,0,2,.000,1,2,3,1,0,0,2,5,13,5.9,-8,Aaron Brooks
+2014-01-11,28-362,HOU,AWAY,WAS,W (+7),0,14:51,1,5,.200,1,4,.250,0,0,,0,1,1,1,0,0,1,0,3,-0.1,-8,Aaron Brooks
+2014-01-13,28-364,HOU,AWAY,BOS,W (+12),0,15:07,0,2,.000,0,1,.000,2,2,1.000,0,0,0,3,0,0,0,1,2,2.3,+2,Aaron Brooks
+2014-01-16,29-002,HOU,HOME,OKC,L (-12),0,23:52,3,8,.375,3,7,.429,2,2,1.000,2,0,2,3,1,0,2,3,11,7.9,-5,Aaron Brooks
+2014-01-18,29-004,HOU,HOME,MIL,W (+10),0,25:15,3,6,.500,2,4,.500,2,2,1.000,0,0,0,4,1,0,1,2,10,9.0,+8,Aaron Brooks
+2014-01-20,29-006,HOU,HOME,POR,W (+13),0,0:31,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2,Aaron Brooks
+2014-01-22,29-008,HOU,HOME,SAC,W (+21),0,4:43,0,1,.000,0,1,.000,0,0,,0,2,2,0,0,0,0,0,0,-0.1,-6,Aaron Brooks
+2014-01-25,29-011,HOU,AWAY,MEM,L (-18),0,9:51,2,4,.500,2,3,.667,0,0,,0,0,0,2,0,0,1,0,6,4.4,+5,Aaron Brooks
+2014-01-28,29-014,HOU,HOME,SAS,W (+7),0,22:19,3,9,.333,2,5,.400,0,0,,1,1,2,1,0,1,2,2,8,2.5,+7,Aaron Brooks
+2014-01-29,29-015,HOU,AWAY,DAL,W (+2),0,22:28,3,7,.429,2,5,.400,3,4,.750,0,2,2,4,2,0,1,2,11,10.5,+12,Aaron Brooks
+2014-02-12,29-029,HOU,HOME,WAS,W (+1),0,10:40,0,2,.000,0,0,,0,0,,0,0,0,0,0,1,1,2,0,-2.5,0,Aaron Brooks
+2014-02-19,29-036,HOU,AWAY,LAL,W (+26),0,5:04,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,2,0,-2.5,-6,Aaron Brooks
+2014-02-20,29-037,DEN,AWAY,MIL,W (+11),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Aaron Brooks
+2014-02-21,29-038,DEN,AWAY,CHI,L (-28),0,27:49,7,11,.636,1,2,.500,2,2,1.000,0,1,1,1,0,1,1,2,17,12.0,-17,Aaron Brooks
+2014-02-23,29-040,DEN,HOME,SAC,L (-14),1,31:55,3,12,.250,2,5,.400,1,2,.500,2,0,2,8,2,0,5,4,9,3.8,-30,Aaron Brooks
+2014-02-25,29-042,DEN,HOME,POR,L (-5),1,29:54,7,15,.467,0,2,.000,0,0,,2,3,5,6,0,0,2,2,14,10.0,-16,Aaron Brooks
+2014-02-27,29-044,DEN,HOME,BRK,L (-23),1,35:58,4,8,.500,3,5,.600,2,2,1.000,0,2,2,3,1,1,4,5,13,7.4,-10,Aaron Brooks
+2014-03-01,29-046,DEN,AWAY,POR,L (-6),1,25:23,3,11,.273,0,3,.000,0,0,,0,3,3,2,0,0,0,3,6,0.6,-11,Aaron Brooks
+2014-03-03,29-048,DEN,HOME,MIN,L (-4),0,17:37,3,9,.333,2,5,.400,0,0,,0,1,1,2,0,0,2,2,8,1.8,0,Aaron Brooks
+2014-03-05,29-050,DEN,HOME,DAL,W (+5),0,17:02,2,6,.333,0,2,.000,0,0,,0,2,2,4,4,0,0,1,4,7.6,+7,Aaron Brooks
+2014-03-07,29-052,DEN,HOME,LAL,W (+8),0,19:17,3,8,.375,1,3,.333,0,0,,0,2,2,2,0,0,2,1,7,2.2,-15,Aaron Brooks
+2014-03-09,29-054,DEN,AWAY,NOP,L (-4),0,22:26,4,9,.444,2,4,.500,5,5,1.000,2,1,3,4,1,0,0,1,15,15.4,+2,Aaron Brooks
+2014-03-10,29-055,DEN,AWAY,CHA,L (-7),0,24:08,5,11,.455,1,4,.250,5,5,1.000,1,3,4,0,0,0,2,3,16,8.7,-2,Aaron Brooks
+2014-03-12,29-057,DEN,AWAY,ORL,W (+8),0,20:29,3,8,.375,2,3,.667,1,2,.500,0,3,3,7,1,0,3,2,9,7.2,-6,Aaron Brooks
+2014-03-14,29-059,DEN,AWAY,MIA,W (+4),0,15:06,3,5,.600,3,4,.750,0,0,,0,0,0,5,0,0,1,2,9,8.4,+17,Aaron Brooks
+2014-03-15,29-060,DEN,AWAY,ATL,L (-5),0,25:34,3,9,.333,1,4,.250,0,0,,0,3,3,7,2,2,1,1,7,9.7,+12,Aaron Brooks
+2014-03-17,29-062,DEN,HOME,LAC,W (+10),0,17:16,1,5,.200,0,1,.000,1,1,1.000,0,2,2,5,2,0,3,4,3,1.4,+2,Aaron Brooks
+2014-03-19,29-064,DEN,HOME,DET,W (+9),1,46:36,10,19,.526,1,5,.200,6,7,.857,3,3,6,17,0,0,3,4,27,27.6,+12,Aaron Brooks
+2014-03-21,29-066,DEN,AWAY,DAL,L (-16),0,21:09,3,7,.429,0,3,.000,0,0,,1,0,1,2,0,0,1,1,6,3.0,-18,Aaron Brooks
+2014-03-23,29-068,DEN,HOME,WAS,W (+3),0,24:42,4,13,.308,1,4,.250,4,4,1.000,1,1,2,7,1,0,1,2,13,10.6,+7,Aaron Brooks
+2014-03-24,29-069,DEN,AWAY,OKC,L (-21),0,27:39,1,8,.125,0,3,.000,3,4,.750,0,1,1,3,0,0,5,2,5,-4.0,-8,Aaron Brooks
+2014-03-26,29-071,DEN,AWAY,SAS,L (-5),0,30:59,9,18,.500,4,6,.667,3,3,1.000,2,3,5,8,0,0,0,4,25,22.3,+12,Aaron Brooks
+2014-03-28,29-073,DEN,HOME,SAS,L (-31),0,29:35,2,5,.400,1,2,.500,3,4,.750,0,0,0,3,1,0,1,2,8,6.2,-23,Aaron Brooks
+2014-03-31,29-076,DEN,HOME,MEM,L (-2),0,29:26,4,8,.500,2,4,.500,0,0,,0,0,0,6,1,0,2,1,10,8.8,+2,Aaron Brooks
+2014-04-02,29-078,DEN,HOME,NOP,W (+30),0,29:45,9,12,.750,6,8,.750,0,0,,0,3,3,1,2,2,1,3,24,22.0,+18,Aaron Brooks
+2014-04-04,29-080,DEN,AWAY,MEM,L (-8),1,40:21,5,13,.385,1,4,.250,0,0,,1,3,4,2,0,0,4,2,11,2.1,-8,Aaron Brooks
+2014-04-06,29-082,DEN,AWAY,HOU,L (-5),1,47:03,11,24,.458,2,7,.286,0,0,,2,6,8,15,3,0,7,5,24,19.3,-1,Aaron Brooks
+2014-04-09,29-085,DEN,HOME,HOU,W (+7),1,36:50,5,15,.333,1,6,.167,2,2,1.000,0,5,5,7,2,1,3,4,13,9.0,-2,Aaron Brooks
+2014-04-10,29-086,DEN,AWAY,GSW,W (+1),1,39:28,3,14,.214,0,3,.000,2,2,1.000,1,1,2,7,1,0,2,0,8,4.3,-5,Aaron Brooks
+2014-04-12,29-088,DEN,HOME,UTA,W (+7),1,40:38,3,13,.231,0,3,.000,2,2,1.000,1,2,3,5,1,0,1,1,8,4.5,+9,Aaron Brooks
+2014-04-15,29-091,DEN,AWAY,LAC,L (-12),1,41:30,6,12,.500,3,6,.500,4,4,1.000,1,3,4,5,2,0,9,2,19,10.3,-3,Aaron Brooks
+2014-04-16,29-092,DEN,HOME,GSW,L (-4),1,25:29,3,10,.300,2,5,.400,0,0,,0,1,1,6,0,0,0,4,8,5.1,-6,Aaron Brooks
+2013-12-25,22-218,HOU,AWAY,SAS,W (+13),0,0:23,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Isaiah Canaan
+2013-12-29,22-222,HOU,AWAY,OKC,L (-31),0,7:29,1,3,.333,0,2,.000,2,2,1.000,0,0,0,0,0,0,0,0,4,2.3,-7,Isaiah Canaan
+2014-01-08,22-232,HOU,HOME,LAL,W (+14),0,1:32,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3,Isaiah Canaan
+2014-01-15,22-239,HOU,AWAY,NOP,W (+3),0,9:19,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,3,0,-1.9,-8,Isaiah Canaan
+2014-01-18,22-242,HOU,HOME,MIL,W (+10),0,0:55,0,0,,0,0,,2,2,1.000,0,1,1,0,0,0,0,0,2,2.3,-2,Isaiah Canaan
+2014-02-25,22-280,HOU,AWAY,SAC,W (+26),0,7:35,1,3,.333,0,1,.000,1,1,1.000,1,0,1,0,0,0,1,0,3,1.0,+1,Isaiah Canaan
+2014-03-05,22-288,HOU,AWAY,ORL,W (+12),0,1:32,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,-2,Isaiah Canaan
+2014-03-07,22-290,HOU,HOME,IND,W (+26),0,5:32,1,1,1.000,1,1,1.000,2,2,1.000,0,0,0,0,1,0,1,1,5,4.3,-2,Isaiah Canaan
+2014-03-13,22-296,HOU,AWAY,CHI,L (-24),0,8:12,1,5,.200,0,2,.000,2,2,1.000,2,0,2,1,0,0,0,1,4,2.6,0,Isaiah Canaan
+2014-03-17,22-300,HOU,HOME,UTA,W (+38),0,8:19,1,4,.250,1,2,.500,0,0,,0,1,1,2,2,0,1,0,3,3.3,+15,Isaiah Canaan
+2014-03-20,22-303,HOU,HOME,MIN,W (+23),0,3:11,2,3,.667,1,2,.500,0,0,,0,0,0,0,0,0,0,1,5,3.3,+3,Isaiah Canaan
+2014-03-22,22-305,HOU,AWAY,CLE,W (+7),0,5:20,0,1,.000,0,1,.000,3,4,.750,0,0,0,0,0,0,1,1,3,0.5,-12,Isaiah Canaan
+2014-03-27,22-310,HOU,HOME,PHI,W (+22),0,13:49,2,6,.333,1,3,.333,0,0,,0,1,1,0,1,1,3,2,5,-0.2,+3,Isaiah Canaan
+2014-03-29,22-312,HOU,HOME,LAC,L (-11),0,20:29,3,5,.600,2,4,.500,6,8,.750,0,4,4,3,0,0,4,2,14,9.4,-7,Isaiah Canaan
+2014-04-01,22-315,HOU,AWAY,BRK,L (-9),0,23:10,1,8,.125,0,4,.000,0,0,,0,1,1,0,0,0,2,1,2,-5.3,-1,Isaiah Canaan
+2014-04-02,22-316,HOU,AWAY,TOR,L (-4),0,17:38,2,8,.250,2,5,.400,1,2,.500,1,3,4,1,1,0,0,2,7,4.3,-2,Isaiah Canaan
+2014-04-04,22-318,HOU,HOME,OKC,W (+4),0,18:00,2,5,.400,2,3,.667,0,0,,0,2,2,1,0,0,2,2,6,1.8,+2,Isaiah Canaan
+2014-04-06,22-320,HOU,HOME,DEN,W (+5),0,18:36,5,8,.625,4,7,.571,1,2,.500,1,0,1,2,0,1,0,2,15,13.0,-4,Isaiah Canaan
+2014-04-08,22-322,HOU,AWAY,LAL,W (+15),0,26:52,6,8,.750,3,4,.750,0,0,,0,1,1,1,0,0,2,1,15,10.4,0,Isaiah Canaan
+2014-04-09,22-323,HOU,AWAY,DEN,L (-7),0,24:09,2,10,.200,1,8,.125,1,2,.500,2,1,3,6,2,2,4,3,6,3.5,+5,Isaiah Canaan
+2014-04-11,22-325,HOU,AWAY,MIN,L (-2),0,4:22,0,2,.000,0,2,.000,0,0,,0,1,1,0,0,0,0,1,0,-1.5,-8,Isaiah Canaan
+2014-04-16,22-330,HOU,AWAY,NOP,L (-5),0,25:51,1,6,.167,0,3,.000,0,2,.000,0,1,1,4,1,0,0,2,2,0.7,-8,Isaiah Canaan
+2013-10-30,25-130,HOU,HOME,CHA,W (+13),0,20:24,2,6,.333,0,2,.000,0,0,,1,3,4,2,0,1,1,2,4,2.5,+8,Omri Casspi
+2013-11-01,25-132,HOU,HOME,DAL,W (+8),0,21:14,4,8,.500,3,3,1.000,1,2,.500,1,1,2,2,1,0,1,3,12,8.8,+17,Omri Casspi
+2013-11-02,25-133,HOU,AWAY,UTA,W (+11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Omri Casspi
+2013-11-04,25-135,HOU,AWAY,LAC,L (-19),0,28:06,6,12,.500,3,6,.500,4,5,.800,2,7,9,4,2,0,4,3,19,15.7,+4,Omri Casspi
+2013-11-05,25-136,HOU,AWAY,POR,W (+15),0,23:48,2,4,.500,0,2,.000,3,4,.750,1,7,8,5,0,0,0,2,7,10.1,+3,Omri Casspi
+2013-11-07,25-138,HOU,HOME,LAL,L (-1),0,20:25,1,5,.200,1,3,.333,2,2,1.000,0,3,3,1,1,0,1,1,5,3.1,+9,Omri Casspi
+2013-11-09,25-140,HOU,HOME,LAC,L (-13),0,17:49,1,5,.200,1,4,.250,0,0,,0,3,3,2,0,0,0,0,3,2.2,+8,Omri Casspi
+2013-11-11,25-142,HOU,HOME,TOR,W (+6),0,26:14,1,4,.250,0,2,.000,3,6,.500,2,4,6,3,1,1,2,1,5,5.4,+16,Omri Casspi
+2013-11-13,25-144,HOU,AWAY,PHI,L (-6),0,23:47,7,13,.538,2,6,.333,0,0,,0,2,2,1,2,1,2,4,16,10.1,-9,Omri Casspi
+2013-11-14,25-145,HOU,AWAY,NYK,W (+3),0,16:51,1,3,.333,1,2,.500,1,2,.500,0,0,0,0,0,0,0,2,4,1.1,+10,Omri Casspi
+2013-11-16,25-147,HOU,HOME,DEN,W (+11),0,18:23,3,9,.333,1,3,.333,0,0,,0,4,4,0,1,1,1,1,7,3.4,+7,Omri Casspi
+2013-11-19,25-150,HOU,HOME,BOS,W (+24),0,24:47,2,6,.333,1,3,.333,0,0,,0,4,4,1,3,1,2,2,5,4.4,+6,Omri Casspi
+2013-11-20,25-151,HOU,AWAY,DAL,L (-3),0,15:19,5,5,1.000,1,1,1.000,0,0,,1,2,3,0,1,0,1,3,11,9.6,-4,Omri Casspi
+2013-11-23,25-154,HOU,HOME,MIN,W (+11),0,16:30,2,8,.250,1,4,.250,0,0,,0,5,5,1,1,0,2,1,5,1.0,+8,Omri Casspi
+2013-11-25,25-156,HOU,AWAY,MEM,W (+7),0,22:30,4,6,.667,2,3,.667,6,6,1.000,0,3,3,0,1,0,1,2,16,13.5,+11,Omri Casspi
+2013-11-27,25-158,HOU,HOME,ATL,W (+29),0,25:42,3,5,.600,1,1,1.000,2,2,1.000,1,4,5,2,1,0,2,3,9,7.8,+16,Omri Casspi
+2013-11-29,25-160,HOU,HOME,BRK,W (+19),0,22:07,6,9,.667,3,3,1.000,1,2,.500,1,4,5,3,0,0,4,0,16,11.7,-3,Omri Casspi
+2013-11-30,25-161,HOU,AWAY,SAS,W (+6),0,17:10,4,8,.500,0,3,.000,0,0,,0,3,3,1,0,1,0,1,8,5.9,-5,Omri Casspi
+2013-12-02,25-163,HOU,AWAY,UTA,L (-6),0,30:11,5,8,.625,2,4,.500,1,3,.333,1,5,6,0,2,0,0,2,13,12.0,+8,Omri Casspi
+2013-12-04,25-165,HOU,HOME,PHO,L (-9),0,30:50,6,13,.462,2,3,.667,0,0,,3,4,7,1,1,0,5,3,14,6.1,+9,Omri Casspi
+2013-12-06,25-167,HOU,HOME,GSW,W (+22),0,16:56,1,4,.250,0,2,.000,0,0,,0,2,2,1,1,0,2,3,2,-1.3,+3,Omri Casspi
+2013-12-08,25-169,HOU,HOME,ORL,W (+10),0,22:59,2,5,.400,0,2,.000,2,2,1.000,0,6,6,1,0,1,0,2,6,5.7,+3,Omri Casspi
+2013-12-12,25-173,HOU,AWAY,POR,L (-7),0,16:07,2,6,.333,0,2,.000,2,2,1.000,1,2,3,0,0,1,0,3,6,3.4,+7,Omri Casspi
+2013-12-13,25-174,HOU,AWAY,GSW,W (+4),0,20:54,3,8,.375,1,3,.333,3,5,.600,1,1,2,1,3,1,1,0,10,9.2,0,Omri Casspi
+2013-12-15,25-176,HOU,AWAY,SAC,L (-15),0,15:15,1,5,.200,1,3,.333,1,2,.500,0,0,0,2,0,0,0,2,4,1.1,-12,Omri Casspi
+2013-12-18,25-179,HOU,HOME,CHI,W (+15),0,21:15,3,7,.429,1,4,.250,4,4,1.000,2,1,3,0,1,0,1,2,11,8.2,+7,Omri Casspi
+2013-12-20,25-181,HOU,AWAY,IND,L (-33),0,20:39,1,10,.100,1,7,.143,0,0,,1,1,2,1,2,0,1,1,3,-1.3,-16,Omri Casspi
+2013-12-21,25-182,HOU,AWAY,DET,W (+17),0,30:30,5,9,.556,1,2,.500,2,2,1.000,0,6,6,7,0,0,1,3,13,13.2,+6,Omri Casspi
+2013-12-23,25-184,HOU,HOME,DAL,L (-7),0,18:55,1,2,.500,0,0,,1,2,.500,0,3,3,2,0,0,1,3,3,1.7,-11,Omri Casspi
+2013-12-25,25-186,HOU,AWAY,SAS,W (+13),0,18:51,3,9,.333,1,4,.250,0,0,,0,1,1,2,0,0,0,0,7,3.6,-11,Omri Casspi
+2013-12-26,25-187,HOU,HOME,MEM,W (+8),0,11:27,1,3,.333,0,1,.000,0,0,,0,1,1,0,0,0,0,0,2,0.6,-14,Omri Casspi
+2013-12-28,25-189,HOU,HOME,NOP,W (+9),0,12:39,3,6,.500,1,3,.333,0,3,.000,2,2,4,0,1,1,0,0,7,6.5,+7,Omri Casspi
+2013-12-29,25-190,HOU,AWAY,OKC,L (-31),0,30:28,6,12,.500,1,5,.200,2,4,.500,3,3,6,0,1,0,2,2,15,9.4,-6,Omri Casspi
+2013-12-31,25-192,HOU,HOME,SAC,L (-4),0,15:28,2,7,.286,1,1,1.000,1,2,.500,3,2,5,2,3,0,1,1,6,7.2,+2,Omri Casspi
+2014-01-03,25-195,HOU,HOME,NYK,W (+2),0,6:20,2,3,.667,1,2,.500,0,0,,0,1,1,0,0,0,0,0,5,4.0,+5,Omri Casspi
+2014-01-08,25-200,HOU,HOME,LAL,W (+14),0,21:11,3,5,.600,0,2,.000,3,4,.750,1,5,6,4,0,0,1,3,9,9.1,+5,Omri Casspi
+2014-01-10,25-202,HOU,AWAY,ATL,L (-3),0,6:10,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-1.4,0,Omri Casspi
+2014-01-11,25-203,HOU,AWAY,WAS,W (+7),0,17:36,4,5,.800,2,2,1.000,4,4,1.000,0,2,2,2,1,0,1,3,14,12.9,+4,Omri Casspi
+2014-01-13,25-205,HOU,AWAY,BOS,W (+12),0,22:31,4,9,.444,3,5,.600,1,2,.500,0,6,6,3,0,0,3,3,12,6.6,-2,Omri Casspi
+2014-01-15,25-207,HOU,AWAY,NOP,W (+3),0,6:49,0,1,.000,0,0,,0,0,,1,1,2,0,0,0,1,1,0,-1.1,-10,Omri Casspi
+2014-01-16,25-208,HOU,HOME,OKC,L (-12),0,6:21,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+11,Omri Casspi
+2014-01-18,25-210,HOU,HOME,MIL,W (+10),0,21:04,3,11,.273,0,6,.000,0,0,,1,3,4,1,1,0,0,1,6,2.4,+8,Omri Casspi
+2014-01-20,25-212,HOU,HOME,POR,W (+13),0,33:11,5,9,.556,3,5,.600,2,2,1.000,3,5,8,2,0,0,2,2,15,12.9,+10,Omri Casspi
+2014-01-22,25-214,HOU,HOME,SAC,W (+21),0,33:03,9,15,.600,2,5,.400,0,0,,3,9,12,1,1,0,1,4,20,17.0,+16,Omri Casspi
+2014-01-24,25-216,HOU,HOME,MEM,L (-1),0,17:57,2,7,.286,1,3,.333,0,0,,0,2,2,0,1,0,1,0,5,1.5,+1,Omri Casspi
+2014-01-25,25-217,HOU,AWAY,MEM,L (-18),0,17:51,3,6,.500,1,3,.333,2,2,1.000,0,2,2,0,0,0,1,1,9,5.2,-8,Omri Casspi
+2014-01-28,25-220,HOU,HOME,SAS,W (+7),0,15:02,2,4,.500,0,2,.000,1,5,.200,2,6,8,1,1,0,2,2,5,3.5,+8,Omri Casspi
+2014-01-29,25-221,HOU,AWAY,DAL,W (+2),0,12:13,1,3,.333,0,1,.000,0,0,,2,0,2,2,0,0,0,1,2,2.7,+5,Omri Casspi
+2014-02-01,25-224,HOU,HOME,CLE,W (+14),0,17:55,2,6,.333,1,1,1.000,4,6,.667,1,2,3,0,0,0,2,1,9,3.7,+7,Omri Casspi
+2014-02-05,25-228,HOU,HOME,PHO,W (+14),0,13:43,1,2,.500,1,1,1.000,0,2,.000,0,2,2,1,0,0,2,0,3,0.5,-6,Omri Casspi
+2014-02-08,25-231,HOU,AWAY,MIL,W (+6),0,12:34,0,2,.000,0,1,.000,0,0,,2,2,4,1,0,0,0,1,0,0.9,+8,Omri Casspi
+2014-02-10,25-233,HOU,AWAY,MIN,W (+18),0,7:26,0,1,.000,0,1,.000,2,2,1.000,0,3,3,0,0,0,1,1,2,0.8,0,Omri Casspi
+2014-02-19,25-242,HOU,AWAY,LAL,W (+26),0,12:00,2,5,.400,1,2,.500,2,2,1.000,0,2,2,3,1,1,0,1,7,8.3,-3,Omri Casspi
+2014-02-20,25-243,HOU,AWAY,GSW,L (-3),0,18:47,1,5,.200,1,4,.250,0,0,,1,3,4,1,1,0,1,0,3,2.2,-3,Omri Casspi
+2014-02-23,25-246,HOU,AWAY,PHO,W (+3),0,9:48,3,5,.600,1,2,.500,0,0,,0,2,2,0,0,0,2,0,7,3.3,-6,Omri Casspi
+2014-02-25,25-248,HOU,AWAY,SAC,W (+26),0,12:00,1,4,.250,0,1,.000,0,0,,1,1,2,1,0,0,0,0,2,1.3,-1,Omri Casspi
+2014-03-01,25-252,HOU,HOME,DET,W (+8),0,14:40,4,5,.800,3,4,.750,5,6,.833,0,3,3,2,1,1,1,2,16,15.9,0,Omri Casspi
+2014-03-05,25-256,HOU,AWAY,ORL,W (+12),0,1:32,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-2,Omri Casspi
+2014-03-07,25-258,HOU,HOME,IND,W (+26),0,7:57,0,2,.000,0,1,.000,0,0,,0,2,2,1,0,0,0,0,0,-0.1,-4,Omri Casspi
+2014-03-13,25-264,HOU,AWAY,CHI,L (-24),0,9:37,0,1,.000,0,1,.000,4,6,.667,1,1,2,1,0,0,0,1,4,3.8,0,Omri Casspi
+2014-03-17,25-268,HOU,HOME,UTA,W (+38),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Omri Casspi
+2014-03-20,25-271,HOU,HOME,MIN,W (+23),0,19:24,3,6,.500,1,3,.333,0,2,.000,1,5,6,2,2,0,1,1,7,7.4,+18,Omri Casspi
+2014-03-22,25-273,HOU,AWAY,CLE,W (+7),0,14:32,0,3,.000,0,2,.000,0,0,,0,1,1,1,2,2,4,3,0,-2.9,-9,Omri Casspi
+2014-03-27,25-278,HOU,HOME,PHI,W (+22),0,13:03,1,5,.200,0,0,,3,6,.500,2,2,4,2,0,0,0,0,5,4.1,0,Omri Casspi
+2014-03-29,25-280,HOU,HOME,LAC,L (-11),0,11:31,0,1,.000,0,0,,0,0,,1,1,2,0,0,0,0,1,0,-0.1,+6,Omri Casspi
+2014-04-01,25-283,HOU,AWAY,BRK,L (-9),0,22:15,3,10,.300,1,5,.200,0,0,,1,1,2,0,0,0,0,2,7,1.4,-5,Omri Casspi
+2014-04-02,25-284,HOU,AWAY,TOR,L (-4),0,23:17,2,4,.500,1,2,.500,3,4,.750,1,4,5,1,0,0,0,2,8,7.4,+8,Omri Casspi
+2014-04-06,25-288,HOU,HOME,DEN,W (+5),0,11:12,2,3,.667,2,3,.667,0,0,,0,3,3,1,0,0,1,1,6,4.9,+9,Omri Casspi
+2014-04-08,25-290,HOU,AWAY,LAL,W (+15),0,13:11,3,4,.750,0,0,,0,0,,1,4,5,1,1,0,1,0,6,7.0,-9,Omri Casspi
+2014-04-09,25-291,HOU,AWAY,DEN,L (-7),0,11:34,1,4,.250,0,2,.000,0,0,,0,3,3,1,0,0,0,0,2,1.2,-17,Omri Casspi
+2014-04-11,25-293,HOU,AWAY,MIN,L (-2),0,22:05,3,7,.429,0,2,.000,3,3,1.000,0,4,4,2,1,0,3,2,9,5.1,+15,Omri Casspi
+2014-04-12,25-294,HOU,HOME,NOP,W (+7),1,22:20,0,4,.000,0,1,.000,2,2,1.000,1,5,6,1,0,0,1,1,2,0.7,-4,Omri Casspi
+2014-04-16,25-298,HOU,AWAY,NOP,L (-5),1,28:39,4,10,.400,1,2,.500,0,0,,1,7,8,1,0,0,0,1,9,6.7,+6,Omri Casspi
+2014-01-18,23-035,HOU,HOME,MIL,W (+10),0,0:54,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,Robert Covington
+2014-01-20,23-037,HOU,HOME,POR,W (+13),0,0:31,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+2,Robert Covington
+2014-01-22,23-039,HOU,HOME,SAC,W (+21),0,10:02,2,5,.400,1,4,.250,0,0,,0,0,0,0,1,0,0,1,5,2.9,-3,Robert Covington
+2014-01-25,23-042,HOU,AWAY,MEM,L (-18),0,6:44,2,4,.500,2,4,.500,0,0,,1,0,1,0,0,0,0,1,6,4.3,+8,Robert Covington
+2014-02-05,23-053,HOU,HOME,PHO,W (+14),0,0:27,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Robert Covington
+2014-04-09,23-116,HOU,AWAY,DEN,L (-7),0,11:05,2,3,.667,1,1,1.000,0,0,,1,1,2,0,1,0,1,0,5,4.7,+15,Robert Covington
+2014-04-16,23-123,HOU,AWAY,NOP,L (-5),0,4:05,0,2,.000,0,2,.000,0,0,,0,1,1,0,0,0,0,1,0,-1.5,-3,Robert Covington
+2014-03-05,22-233,HOU,AWAY,ORL,W (+12),0,1:32,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,Troy Daniels
+2014-03-07,22-235,HOU,HOME,IND,W (+26),0,5:32,2,4,.500,1,3,.333,0,0,,0,0,0,0,0,0,0,1,5,2.6,-2,Troy Daniels
+2014-04-09,22-268,HOU,AWAY,DEN,L (-7),0,11:05,4,6,.667,4,6,.667,0,0,,0,2,2,0,0,0,1,1,12,8.6,+15,Troy Daniels
+2014-04-12,22-271,HOU,HOME,NOP,W (+7),0,12:45,1,5,.200,1,5,.200,0,0,,0,1,1,0,0,0,1,0,3,-0.8,+19,Troy Daniels
+2014-04-16,22-275,HOU,AWAY,NOP,L (-5),1,43:55,8,16,.500,6,11,.545,0,0,,0,1,1,5,0,0,1,4,22,15.2,-2,Troy Daniels
+2013-10-30,31-303,HOU,HOME,CHA,W (+13),0,30:03,7,13,.538,5,9,.556,0,0,,0,1,1,1,0,0,1,2,19,11.9,+18,Francisco García
+2013-11-01,31-305,HOU,HOME,DAL,W (+8),0,24:47,3,6,.500,2,5,.400,0,0,,1,1,2,3,1,3,1,2,8,9.4,+20,Francisco García
+2013-11-02,31-306,HOU,AWAY,UTA,W (+11),0,25:45,4,8,.500,3,6,.500,1,2,.500,0,1,1,0,0,0,0,3,12,6.7,+2,Francisco García
+2013-11-04,31-308,HOU,AWAY,LAC,L (-19),0,21:18,5,9,.556,2,6,.333,2,2,1.000,1,1,2,0,0,0,0,1,14,10.3,-8,Francisco García
+2013-11-05,31-309,HOU,AWAY,POR,W (+15),0,22:35,2,6,.333,2,4,.500,0,0,,0,1,1,0,1,0,0,2,6,3.1,+1,Francisco García
+2013-11-07,31-311,HOU,HOME,LAL,L (-1),0,14:12,1,6,.167,0,5,.000,0,0,,0,1,1,0,1,1,1,3,2,-2.0,+3,Francisco García
+2013-11-09,31-313,HOU,HOME,LAC,L (-13),0,19:46,1,6,.167,0,3,.000,1,2,.500,1,4,5,1,2,0,1,3,3,1.2,+3,Francisco García
+2013-11-11,31-315,HOU,HOME,TOR,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Francisco García
+2013-11-13,31-317,HOU,AWAY,PHI,L (-6),0,20:10,0,4,.000,0,4,.000,0,0,,0,2,2,2,1,0,1,1,0,-1.2,-16,Francisco García
+2013-11-14,31-318,HOU,AWAY,NYK,W (+3),0,16:25,2,5,.400,2,4,.500,2,2,1.000,0,2,2,1,0,2,0,3,8,6.8,+8,Francisco García
+2013-11-16,31-320,HOU,HOME,DEN,W (+11),0,13:56,0,2,.000,0,1,.000,0,0,,0,1,1,2,0,0,1,0,0,-0.7,+2,Francisco García
+2013-11-19,31-323,HOU,HOME,BOS,W (+24),0,18:08,2,3,.667,0,1,.000,0,0,,0,5,5,1,0,0,0,2,4,4.1,-3,Francisco García
+2013-11-20,31-324,HOU,AWAY,DAL,L (-3),0,10:09,1,4,.250,1,3,.333,0,0,,0,0,0,0,0,0,1,1,3,-0.8,-8,Francisco García
+2013-11-23,31-327,HOU,HOME,MIN,W (+11),0,15:15,0,1,.000,0,0,,0,0,,0,1,1,1,0,1,1,0,0,0.0,+5,Francisco García
+2013-11-25,31-329,HOU,AWAY,MEM,W (+7),0,20:21,2,8,.250,1,6,.167,1,2,.500,0,5,5,2,2,2,3,6,6,1.7,+14,Francisco García
+2013-11-27,31-331,HOU,HOME,ATL,W (+29),0,33:12,9,14,.643,3,6,.500,0,0,,0,2,2,3,1,0,1,0,21,17.5,+17,Francisco García
+2013-11-29,31-333,HOU,HOME,BRK,W (+19),0,24:47,5,9,.556,5,7,.714,0,0,,1,2,3,5,1,3,1,4,15,16.0,-1,Francisco García
+2013-11-30,31-334,HOU,AWAY,SAS,W (+6),0,13:41,3,6,.500,2,4,.500,0,0,,1,2,3,0,2,0,1,2,8,6.5,-1,Francisco García
+2013-12-02,31-336,HOU,AWAY,UTA,L (-6),1,34:31,5,10,.500,3,7,.429,0,0,,0,6,6,2,0,4,0,2,13,13.2,+5,Francisco García
+2013-12-04,31-338,HOU,HOME,PHO,L (-9),1,27:31,3,9,.333,2,7,.286,0,0,,1,4,5,1,0,0,1,3,8,3.3,-10,Francisco García
+2013-12-06,31-340,HOU,HOME,GSW,W (+22),0,17:37,0,4,.000,0,3,.000,0,0,,0,6,6,1,0,4,0,1,0,2.1,+9,Francisco García
+2013-12-08,31-342,HOU,HOME,ORL,W (+10),0,12:53,0,3,.000,0,3,.000,0,0,,0,0,0,0,1,0,2,2,0,-3.9,-7,Francisco García
+2013-12-12,31-346,HOU,AWAY,POR,L (-7),0,18:46,1,6,.167,1,5,.200,0,0,,2,0,2,0,3,0,1,1,3,2.2,-1,Francisco García
+2013-12-13,31-347,HOU,AWAY,GSW,W (+4),0,18:10,2,5,.400,2,3,.667,0,0,,1,3,4,0,0,0,0,2,6,4.1,-5,Francisco García
+2013-12-15,31-349,HOU,AWAY,SAC,L (-15),0,19:40,1,6,.167,1,5,.200,0,0,,2,2,4,0,0,0,0,2,3,0.4,-11,Francisco García
+2013-12-18,31-352,HOU,HOME,CHI,W (+15),0,18:49,4,6,.667,1,2,.500,0,0,,1,0,1,0,0,2,0,4,9,6.9,+5,Francisco García
+2013-12-20,31-354,HOU,AWAY,IND,L (-33),0,24:09,2,6,.333,1,4,.250,0,0,,0,3,3,1,1,0,0,1,5,3.8,-17,Francisco García
+2013-12-21,31-355,HOU,AWAY,DET,W (+17),1,35:25,6,11,.545,4,8,.500,0,1,.000,1,4,5,4,0,1,2,4,16,12.1,+15,Francisco García
+2013-12-23,31-357,HOU,HOME,DAL,L (-7),1,35:01,1,6,.167,1,5,.200,0,0,,1,3,4,6,1,0,1,3,3,3.8,0,Francisco García
+2013-12-25,31-359,HOU,AWAY,SAS,W (+13),0,13:53,0,0,,0,0,,0,0,,0,0,0,2,1,0,1,2,0,0.6,-13,Francisco García
+2013-12-26,31-360,HOU,HOME,MEM,W (+8),0,16:09,2,4,.500,2,4,.500,0,0,,0,2,2,0,0,1,0,2,6,4.5,+9,Francisco García
+2013-12-28,31-362,HOU,HOME,NOP,W (+9),0,12:17,0,4,.000,0,4,.000,0,0,,0,0,0,1,1,0,0,0,0,-1.1,-1,Francisco García
+2013-12-29,31-363,HOU,AWAY,OKC,L (-31),0,21:20,3,5,.600,1,2,.500,1,4,.250,0,1,1,0,1,0,1,4,8,3.2,-10,Francisco García
+2013-12-31,32-000,HOU,HOME,SAC,L (-4),0,15:56,1,3,.333,0,2,.000,2,2,1.000,0,0,0,0,0,0,0,1,4,1.9,-1,Francisco García
+2014-01-03,32-003,HOU,HOME,NYK,W (+2),0,19:11,1,2,.500,1,2,.500,0,0,,0,4,4,0,0,1,0,4,3,2.3,+19,Francisco García
+2014-01-08,32-008,HOU,HOME,LAL,W (+14),0,21:53,1,3,.333,1,2,.500,0,0,,1,1,2,1,1,0,1,2,3,2.2,+9,Francisco García
+2014-01-10,32-010,HOU,AWAY,ATL,L (-3),0,23:20,1,7,.143,0,4,.000,0,0,,0,1,1,1,1,0,1,3,2,-2.7,-5,Francisco García
+2014-01-11,32-011,HOU,AWAY,WAS,W (+7),0,31:10,2,3,.667,2,2,1.000,0,0,,1,3,4,3,1,1,0,3,6,8.9,0,Francisco García
+2014-01-13,32-013,HOU,AWAY,BOS,W (+12),0,11:15,0,2,.000,0,1,.000,0,0,,1,1,2,0,0,1,0,0,0,0.3,+8,Francisco García
+2014-01-15,32-015,HOU,AWAY,NOP,W (+3),0,10:04,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,2,0,-0.5,-9,Francisco García
+2014-01-16,32-016,HOU,HOME,OKC,L (-12),0,8:41,1,3,.333,1,3,.333,0,0,,0,0,0,0,0,0,0,2,3,0.5,-9,Francisco García
+2014-01-20,32-020,HOU,HOME,POR,W (+13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Francisco García
+2014-01-22,32-022,HOU,HOME,SAC,W (+21),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Francisco García
+2014-01-24,32-024,HOU,HOME,MEM,L (-1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Francisco García
+2014-01-25,32-025,HOU,AWAY,MEM,L (-18),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Francisco García
+2014-01-28,32-028,HOU,HOME,SAS,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Francisco García
+2014-01-29,32-029,HOU,AWAY,DAL,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Francisco García
+2014-02-01,32-032,HOU,HOME,CLE,W (+14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Francisco García
+2014-02-10,32-041,HOU,AWAY,MIN,W (+18),0,12:25,2,5,.400,2,5,.400,0,0,,0,1,1,1,0,1,0,1,6,4.6,+2,Francisco García
+2014-02-12,32-043,HOU,HOME,WAS,W (+1),0,18:13,2,4,.500,1,3,.333,0,0,,0,1,1,0,0,0,1,0,5,2.3,-12,Francisco García
+2014-02-19,32-050,HOU,AWAY,LAL,W (+26),0,18:40,4,7,.571,3,5,.600,0,0,,0,2,2,2,0,0,0,2,11,8.9,-3,Francisco García
+2014-03-11,32-070,HOU,AWAY,OKC,L (-8),0,16:32,4,5,.800,3,4,.750,0,0,,1,2,3,0,0,1,1,3,11,8.9,+8,Francisco García
+2014-03-13,32-072,HOU,AWAY,CHI,L (-24),0,13:03,2,4,.500,1,2,.500,0,0,,0,1,1,1,1,0,0,3,5,3.8,+3,Francisco García
+2014-03-17,32-076,HOU,HOME,UTA,W (+38),0,1:52,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Francisco García
+2014-03-22,32-081,HOU,AWAY,CLE,W (+7),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Francisco García
+2014-03-24,32-083,HOU,AWAY,CHA,W (+11),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Francisco García
+2014-03-29,32-088,HOU,HOME,LAC,L (-11),0,8:28,1,2,.500,1,2,.500,0,0,,1,1,2,0,0,0,1,1,3,1.6,-7,Francisco García
+2014-04-01,32-091,HOU,AWAY,BRK,L (-9),0,25:32,4,9,.444,2,5,.400,0,0,,0,2,2,3,0,1,0,2,10,7.9,+9,Francisco García
+2014-04-02,32-092,HOU,AWAY,TOR,L (-4),0,17:25,2,3,.667,0,0,,0,0,,0,1,1,2,0,0,0,3,4,3.2,-3,Francisco García
+2014-04-04,32-094,HOU,HOME,OKC,W (+4),0,28:05,2,4,.500,2,3,.667,0,0,,0,1,1,3,2,0,0,5,6,6.4,+7,Francisco García
+2014-04-06,32-096,HOU,HOME,DEN,W (+5),0,31:57,5,11,.455,1,5,.200,0,2,.000,1,5,6,1,0,1,0,4,11,6.5,+3,Francisco García
+2014-04-08,32-098,HOU,AWAY,LAL,W (+15),0,22:59,2,9,.222,1,4,.250,0,0,,1,2,3,3,0,2,2,5,5,0.3,-5,Francisco García
+2014-04-09,32-099,HOU,AWAY,DEN,L (-7),0,8:49,1,2,.500,0,1,.000,0,0,,0,1,1,1,0,0,0,2,2,1.2,-8,Francisco García
+2014-04-11,32-101,HOU,AWAY,MIN,L (-2),0,33:14,2,8,.250,0,2,.000,0,0,,0,1,1,1,0,0,0,4,4,-1.4,+9,Francisco García
+2014-04-14,32-104,HOU,HOME,SAS,W (+6),0,13:48,1,3,.333,0,0,,0,0,,0,3,3,0,0,0,0,0,2,1.2,-5,Francisco García
+2013-11-05,23-030,DEN,HOME,SAS,L (-8),1,23:06,4,6,.667,3,3,1.000,0,0,,0,4,4,1,0,0,2,1,11,7.9,-6,Jordan Hamilton
+2013-11-07,23-032,DEN,HOME,ATL,W (+2),1,15:38,2,7,.286,1,5,.200,1,2,.500,0,1,1,1,0,1,0,1,6,2.8,-5,Jordan Hamilton
+2013-11-08,23-033,DEN,AWAY,PHO,L (-11),1,32:13,8,12,.667,3,7,.429,0,0,,2,7,9,0,2,0,5,0,19,14.3,+2,Jordan Hamilton
+2013-11-11,23-036,DEN,AWAY,UTA,W (+19),1,17:27,2,6,.333,1,5,.200,0,0,,1,3,4,0,0,0,1,2,5,1.4,-9,Jordan Hamilton
+2013-11-13,23-038,DEN,HOME,LAL,W (+12),1,12:01,1,6,.167,0,3,.000,4,4,1.000,2,4,6,1,2,0,0,1,6,7.1,+3,Jordan Hamilton
+2013-11-15,23-040,DEN,HOME,MIN,W (+4),1,16:14,3,6,.500,1,3,.333,0,0,,0,3,3,2,0,2,2,0,7,5.7,-2,Jordan Hamilton
+2013-11-16,23-041,DEN,AWAY,HOU,L (-11),1,14:26,4,8,.500,0,3,.000,0,0,,1,0,1,0,1,0,1,3,8,3.5,-10,Jordan Hamilton
+2013-11-18,23-043,DEN,AWAY,OKC,L (-2),0,16:19,2,6,.333,1,1,1.000,1,1,1.000,0,3,3,2,0,0,0,1,6,4.5,-9,Jordan Hamilton
+2013-11-21,23-046,DEN,HOME,CHI,W (+10),0,22:10,6,12,.500,3,6,.500,2,3,.667,2,4,6,0,1,1,1,0,17,13.9,+10,Jordan Hamilton
+2013-11-23,23-048,DEN,HOME,DAL,W (+2),0,11:37,1,5,.200,1,3,.333,0,0,,0,1,1,1,0,0,0,0,3,0.9,+10,Jordan Hamilton
+2013-11-25,23-050,DEN,AWAY,DAL,W (+14),0,18:26,4,8,.500,1,2,.500,2,2,1.000,0,7,7,2,3,0,1,0,11,12.5,-2,Jordan Hamilton
+2013-11-27,23-052,DEN,AWAY,MIN,W (+7),0,18:29,4,8,.500,2,4,.500,1,2,.500,1,2,3,2,3,0,0,0,11,12.3,+17,Jordan Hamilton
+2013-11-29,23-054,DEN,HOME,NYK,W (+2),0,13:33,1,6,.167,1,4,.250,0,0,,1,5,6,0,0,0,1,3,3,-0.8,-8,Jordan Hamilton
+2013-12-01,23-056,DEN,AWAY,TOR,W (+14),0,17:38,3,8,.375,2,4,.500,2,2,1.000,0,3,3,1,0,1,1,2,10,6.1,+15,Jordan Hamilton
+2013-12-03,23-058,DEN,AWAY,BRK,W (+24),0,17:08,6,11,.545,3,6,.500,0,0,,0,1,1,1,0,0,0,2,15,9.9,+18,Jordan Hamilton
+2013-12-04,23-059,DEN,AWAY,CLE,L (-10),0,10:25,1,5,.200,1,4,.250,0,0,,0,1,1,0,1,0,2,0,3,-0.8,-7,Jordan Hamilton
+2013-12-06,23-061,DEN,AWAY,BOS,L (-8),0,14:47,2,7,.286,1,4,.250,0,0,,0,0,0,1,0,0,0,0,5,1.6,-14,Jordan Hamilton
+2013-12-07,23-062,DEN,AWAY,PHI,W (+11),0,22:19,4,5,.800,3,3,1.000,2,2,1.000,0,5,5,0,2,0,0,0,13,14.6,+6,Jordan Hamilton
+2013-12-09,23-064,DEN,AWAY,WAS,W (+1),0,21:01,3,9,.333,2,5,.400,0,0,,1,7,8,1,1,0,0,0,8,7.4,+10,Jordan Hamilton
+2013-12-13,23-068,DEN,HOME,UTA,L (-10),0,24:46,6,8,.750,4,6,.667,1,1,1.000,0,5,5,1,1,0,0,0,17,17.0,-2,Jordan Hamilton
+2013-12-15,23-070,DEN,HOME,NOP,W (+9),0,26:37,1,8,.125,0,4,.000,0,0,,2,6,8,3,1,0,2,1,2,0.7,+5,Jordan Hamilton
+2013-12-17,23-072,DEN,HOME,OKC,L (-12),0,16:15,2,6,.333,0,3,.000,0,0,,1,4,5,1,1,0,1,2,4,2.4,-17,Jordan Hamilton
+2013-12-20,23-075,DEN,HOME,PHO,L (-4),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Jordan Hamilton
+2013-12-21,23-076,DEN,AWAY,LAC,L (-21),0,26:40,1,10,.100,1,6,.167,1,2,.500,0,4,4,1,5,0,2,0,4,1.9,-19,Jordan Hamilton
+2013-12-23,23-078,DEN,HOME,GSW,L (-8),0,18:56,0,4,.000,0,1,.000,0,0,,2,3,5,0,2,2,0,0,0,2.9,-6,Jordan Hamilton
+2013-12-27,23-082,DEN,AWAY,NOP,L (-16),1,32:10,5,13,.385,2,6,.333,0,2,.000,0,7,7,1,0,1,0,2,12,6.8,-5,Jordan Hamilton
+2013-12-28,23-083,DEN,AWAY,MEM,L (-21),1,26:08,4,8,.500,2,6,.333,2,2,1.000,0,2,2,0,0,1,1,2,12,7.5,-13,Jordan Hamilton
+2013-12-30,23-085,DEN,HOME,MIA,L (-3),1,10:20,1,3,.333,1,2,.500,0,0,,0,3,3,1,0,0,0,2,3,2.1,-13,Jordan Hamilton
+2014-01-01,23-087,DEN,HOME,PHI,L (-12),0,3:42,1,2,.500,0,1,.000,0,0,,0,0,0,0,0,1,1,0,2,0.7,-2,Jordan Hamilton
+2014-01-05,23-091,DEN,AWAY,LAL,W (+22),0,2:37,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-1,Jordan Hamilton
+2014-01-07,23-093,DEN,HOME,BOS,W (+31),0,2:38,0,1,.000,0,1,.000,0,0,,0,1,1,1,0,0,0,0,0,0.3,0,Jordan Hamilton
+2014-01-09,23-095,DEN,HOME,OKC,W (+13),0,2:44,1,2,.500,1,2,.500,0,0,,0,0,0,0,0,0,0,0,3,2.0,-4,Jordan Hamilton
+2014-01-11,23-097,DEN,HOME,ORL,W (+26),0,12:00,1,4,.250,1,3,.333,0,0,,0,0,0,1,0,2,0,0,3,2.7,0,Jordan Hamilton
+2014-01-29,23-115,DEN,HOME,CHA,L (-3),0,14:01,0,3,.000,0,1,.000,0,0,,0,1,1,0,0,0,1,3,0,-4.0,+8,Jordan Hamilton
+2014-01-31,23-117,DEN,HOME,TOR,L (-10),0,10:39,1,2,.500,0,0,,0,0,,0,2,2,0,0,0,0,0,2,1.6,-13,Jordan Hamilton
+2014-02-07,23-124,DEN,AWAY,NYK,L (-27),0,10:40,0,3,.000,0,0,,0,0,,0,1,1,0,0,0,1,0,0,-2.8,-10,Jordan Hamilton
+2014-02-08,23-125,DEN,AWAY,DET,L (-17),0,10:04,0,2,.000,0,0,,1,2,.500,2,2,4,0,1,0,0,0,1,2.2,-3,Jordan Hamilton
+2014-02-10,23-127,DEN,AWAY,IND,L (-39),0,25:17,4,12,.333,1,4,.250,2,3,.667,1,2,3,1,0,0,0,1,11,5.4,-13,Jordan Hamilton
+2014-02-12,23-129,DEN,AWAY,MIN,L (-27),0,33:15,7,14,.500,2,4,.500,0,0,,2,4,6,7,3,0,1,0,16,18.5,-3,Jordan Hamilton
+2014-02-18,23-135,DEN,HOME,PHO,L (-5),1,25:45,3,7,.429,0,3,.000,1,1,1.000,2,2,4,0,1,1,0,1,7,6.6,-8,Jordan Hamilton
+2014-02-20,23-137,HOU,AWAY,GSW,L (-3),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jordan Hamilton
+2014-02-25,23-142,HOU,AWAY,SAC,W (+26),0,24:22,4,7,.571,2,3,.667,2,2,1.000,1,4,5,2,1,1,0,3,12,12.5,+3,Jordan Hamilton
+2014-02-26,23-143,HOU,AWAY,LAC,L (-8),0,24:14,6,12,.500,4,8,.500,0,0,,0,3,3,2,2,0,1,2,16,12.5,+16,Jordan Hamilton
+2014-03-01,23-146,HOU,HOME,DET,W (+8),1,33:20,6,12,.500,1,6,.167,0,0,,0,4,4,1,0,1,1,3,13,7.4,+8,Jordan Hamilton
+2014-03-04,23-149,HOU,HOME,MIA,W (+3),0,18:25,1,3,.333,0,0,,2,2,1.000,0,3,3,0,0,0,0,3,4,2.0,-16,Jordan Hamilton
+2014-03-05,23-150,HOU,AWAY,ORL,W (+12),0,17:44,1,4,.250,1,3,.333,0,0,,1,3,4,0,1,1,1,1,3,2.5,0,Jordan Hamilton
+2014-03-07,23-152,HOU,HOME,IND,W (+26),0,17:16,3,7,.429,1,5,.200,0,0,,0,3,3,0,2,1,3,1,7,3.5,+13,Jordan Hamilton
+2014-03-09,23-154,HOU,HOME,POR,W (+5),0,15:41,2,8,.250,0,3,.000,0,0,,3,1,4,0,0,0,1,1,4,0.2,0,Jordan Hamilton
+2014-03-11,23-156,HOU,AWAY,OKC,L (-8),0,9:14,0,2,.000,0,2,.000,3,4,.750,0,3,3,0,0,0,0,1,3,1.7,-2,Jordan Hamilton
+2014-03-13,23-158,HOU,AWAY,CHI,L (-24),0,18:20,3,7,.429,2,5,.400,4,4,1.000,0,7,7,1,0,0,1,0,12,10.1,-2,Jordan Hamilton
+2014-03-16,23-161,HOU,AWAY,MIA,L (-9),0,7:18,0,2,.000,0,0,,0,0,,0,1,1,0,0,1,0,2,0,-1.2,-7,Jordan Hamilton
+2014-03-17,23-162,HOU,HOME,UTA,W (+38),0,19:09,5,7,.714,3,4,.750,2,2,1.000,0,4,4,1,0,1,2,3,15,11.5,+23,Jordan Hamilton
+2014-03-20,23-165,HOU,HOME,MIN,W (+23),0,15:33,1,4,.250,0,2,.000,1,2,.500,0,1,1,1,2,0,0,2,3,2.4,-5,Jordan Hamilton
+2014-03-22,23-167,HOU,AWAY,CLE,W (+7),0,10:44,0,2,.000,0,1,.000,0,0,,0,0,0,1,0,0,2,2,0,-3.5,-12,Jordan Hamilton
+2014-03-24,23-169,HOU,AWAY,CHA,W (+11),0,12:54,2,5,.400,2,4,.500,0,0,,0,2,2,1,1,0,0,2,6,4.8,+4,Jordan Hamilton
+2014-03-27,23-172,HOU,HOME,PHI,W (+22),0,11:50,1,5,.200,1,3,.333,0,0,,1,4,5,0,0,0,2,2,3,-1.0,-15,Jordan Hamilton
+2014-04-01,23-177,HOU,AWAY,BRK,L (-9),0,14:37,2,8,.250,1,4,.250,2,2,1.000,0,1,1,3,1,0,2,2,7,2.8,+6,Jordan Hamilton
+2014-04-02,23-178,HOU,AWAY,TOR,L (-4),0,3:11,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-2.1,-8,Jordan Hamilton
+2014-04-08,23-184,HOU,AWAY,LAL,W (+15),0,6:53,1,4,.250,0,1,.000,0,0,,0,2,2,0,0,0,0,1,2,-0.2,-5,Jordan Hamilton
+2014-04-09,23-185,HOU,AWAY,DEN,L (-7),0,29:57,4,9,.444,2,6,.333,1,2,.500,3,5,8,1,2,1,1,1,11,11.5,+7,Jordan Hamilton
+2014-04-12,23-188,HOU,HOME,NOP,W (+7),0,11:43,1,3,.333,1,2,.500,0,0,,0,0,0,1,0,0,0,1,3,1.6,-6,Jordan Hamilton
+2014-04-16,23-192,HOU,AWAY,NOP,L (-5),0,27:03,5,10,.500,4,7,.571,0,0,,0,1,1,3,1,0,1,2,14,10.6,-7,Jordan Hamilton
+2013-10-30,24-065,HOU,HOME,CHA,W (+13),1,36:51,7,16,.438,1,6,.167,6,6,1.000,1,2,3,5,1,0,5,1,21,13.0,+9,James Harden
+2013-11-01,24-067,HOU,HOME,DAL,W (+8),1,39:07,11,17,.647,4,8,.500,8,9,.889,1,3,4,3,4,0,4,2,34,29.0,+22,James Harden
+2013-11-02,24-068,HOU,AWAY,UTA,W (+11),1,43:01,7,15,.467,2,6,.333,7,10,.700,1,3,4,5,3,1,5,4,23,16.3,+10,James Harden
+2013-11-04,24-070,HOU,AWAY,LAC,L (-19),1,32:48,6,16,.375,0,7,.000,3,5,.600,1,1,2,5,0,0,2,2,15,7.1,-11,James Harden
+2013-11-05,24-071,HOU,AWAY,POR,W (+15),1,39:34,11,18,.611,2,7,.286,9,10,.900,0,7,7,3,1,2,8,5,33,21.0,+11,James Harden
+2013-11-07,24-073,HOU,HOME,LAL,L (-1),1,43:54,9,24,.375,3,9,.333,14,16,.875,3,6,9,5,4,2,3,0,35,30.8,+2,James Harden
+2013-11-09,24-075,HOU,HOME,LAC,L (-13),1,37:35,4,15,.267,1,6,.167,3,3,1.000,1,4,5,5,2,1,3,2,12,7.4,-19,James Harden
+2013-11-11,24-077,HOU,HOME,TOR,W (+6),1,47:43,7,19,.368,3,9,.333,9,11,.818,0,3,3,10,3,1,6,4,26,18.7,+3,James Harden
+2013-11-13,24-079,HOU,AWAY,PHI,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,James Harden
+2013-11-14,24-080,HOU,AWAY,NYK,W (+3),1,41:40,9,17,.529,2,6,.333,16,18,.889,2,7,9,2,1,0,5,3,36,26.6,+3,James Harden
+2013-11-16,24-082,HOU,HOME,DEN,W (+11),1,35:41,5,16,.313,2,6,.333,5,5,1.000,2,3,5,9,1,1,3,5,17,13.1,+11,James Harden
+2013-11-19,24-085,HOU,HOME,BOS,W (+24),1,31:24,5,8,.625,3,3,1.000,2,2,1.000,0,4,4,5,1,1,7,2,15,10.0,+32,James Harden
+2013-11-20,24-086,HOU,AWAY,DAL,L (-3),1,42:34,6,14,.429,2,8,.250,9,11,.818,0,1,1,8,0,0,1,4,23,18.1,+3,James Harden
+2013-11-23,24-089,HOU,HOME,MIN,W (+11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,James Harden
+2013-11-25,24-091,HOU,AWAY,MEM,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,James Harden
+2013-11-27,24-093,HOU,HOME,ATL,W (+29),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,James Harden
+2013-11-29,24-095,HOU,HOME,BRK,W (+19),1,25:53,1,4,.250,0,1,.000,7,7,1.000,1,0,1,7,1,0,1,1,9,11.8,+22,James Harden
+2013-11-30,24-096,HOU,AWAY,SAS,W (+6),1,37:19,10,19,.526,3,5,.600,8,13,.615,1,6,7,6,1,1,3,1,31,24.7,+3,James Harden
+2013-12-02,24-098,HOU,AWAY,UTA,L (-6),1,43:07,12,22,.545,3,9,.333,10,10,1.000,1,2,3,8,1,0,4,5,37,28.3,-12,James Harden
+2013-12-04,24-100,HOU,HOME,PHO,L (-9),1,41:08,3,17,.176,0,10,.000,8,8,1.000,0,4,4,2,1,0,5,4,14,0.3,-20,James Harden
+2013-12-06,24-102,HOU,HOME,GSW,W (+22),1,39:38,13,22,.591,1,3,.333,7,9,.778,0,7,7,4,1,1,4,2,34,24.8,+25,James Harden
+2013-12-08,24-104,HOU,HOME,ORL,W (+10),1,39:41,7,17,.412,3,7,.429,10,11,.909,4,4,8,10,0,0,3,1,27,25.1,+22,James Harden
+2013-12-12,24-108,HOU,AWAY,POR,L (-7),1,41:54,8,18,.444,2,5,.400,7,9,.778,0,6,6,7,1,0,3,2,25,18.7,+2,James Harden
+2013-12-13,24-109,HOU,AWAY,GSW,W (+4),1,42:16,9,22,.409,3,8,.375,5,8,.625,1,1,2,9,0,0,3,1,26,16.9,+19,James Harden
+2013-12-15,24-111,HOU,AWAY,SAC,L (-15),1,33:05,8,18,.444,3,9,.333,6,7,.857,1,2,3,3,1,0,3,3,25,15.4,-4,James Harden
+2013-12-18,24-114,HOU,HOME,CHI,W (+15),1,35:39,7,13,.538,1,4,.250,4,4,1.000,0,4,4,6,3,0,7,3,19,12.9,+22,James Harden
+2013-12-20,24-116,HOU,AWAY,IND,L (-33),1,32:32,3,14,.214,1,5,.200,5,6,.833,0,3,3,2,3,0,5,3,12,2.1,-16,James Harden
+2013-12-23,24-119,HOU,HOME,DAL,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,James Harden
+2013-12-25,24-121,HOU,AWAY,SAS,W (+13),1,41:54,11,16,.688,3,3,1.000,3,6,.500,1,5,6,6,0,2,2,3,28,24.6,+19,James Harden
+2013-12-26,24-122,HOU,HOME,MEM,W (+8),1,43:51,2,9,.222,1,5,.200,22,25,.880,1,5,6,5,0,1,2,2,27,23.9,+13,James Harden
+2013-12-28,24-124,HOU,HOME,NOP,W (+9),1,40:20,7,17,.412,1,7,.143,6,7,.857,1,4,5,2,0,0,3,2,21,11.0,+2,James Harden
+2013-12-29,24-125,HOU,AWAY,OKC,L (-31),1,30:03,2,9,.222,0,3,.000,4,5,.800,2,1,3,3,0,1,2,1,8,4.2,-20,James Harden
+2013-12-31,24-127,HOU,HOME,SAC,L (-4),1,38:42,12,26,.462,5,11,.455,9,10,.900,3,7,10,1,2,0,5,5,38,24.1,-8,James Harden
+2014-01-03,24-130,HOU,HOME,NYK,W (+2),1,44:28,10,19,.526,5,10,.500,12,12,1.000,2,5,7,6,0,0,5,2,37,29.0,-2,James Harden
+2014-01-08,24-135,HOU,HOME,LAL,W (+14),1,38:20,14,23,.609,2,7,.286,8,11,.727,1,3,4,4,5,0,1,2,38,33.9,+18,James Harden
+2014-01-10,24-137,HOU,AWAY,ATL,L (-3),1,38:06,6,14,.429,2,3,.667,11,14,.786,0,7,7,7,0,0,5,1,25,18.0,+3,James Harden
+2014-01-11,24-138,HOU,AWAY,WAS,W (+7),1,38:05,7,14,.500,3,5,.600,8,9,.889,0,8,8,5,1,0,5,2,25,18.7,+4,James Harden
+2014-01-13,24-140,HOU,AWAY,BOS,W (+12),1,38:23,6,18,.333,2,6,.333,2,2,1.000,1,6,7,3,0,3,3,2,16,8.7,+12,James Harden
+2014-01-15,24-142,HOU,AWAY,NOP,W (+3),1,40:48,7,14,.500,2,3,.667,10,11,.909,0,2,2,7,2,1,4,3,26,21.6,+5,James Harden
+2014-01-16,24-143,HOU,HOME,OKC,L (-12),1,39:54,6,16,.375,2,8,.250,2,3,.667,0,7,7,8,0,0,3,2,16,10.7,-3,James Harden
+2014-01-18,24-145,HOU,HOME,MIL,W (+10),1,37:03,7,16,.438,1,6,.167,7,10,.700,1,3,4,4,5,0,4,3,22,16.6,+11,James Harden
+2014-01-20,24-147,HOU,HOME,POR,W (+13),1,41:25,7,15,.467,4,9,.444,4,5,.800,2,4,6,5,1,0,5,3,22,14.8,+5,James Harden
+2014-01-22,24-149,HOU,HOME,SAC,W (+21),1,33:03,7,16,.438,0,5,.000,10,10,1.000,0,2,2,9,2,2,3,2,24,22.1,+10,James Harden
+2014-01-24,24-151,HOU,HOME,MEM,L (-1),1,39:46,2,11,.182,1,4,.250,5,6,.833,0,2,2,13,1,0,1,2,10,11.6,+4,James Harden
+2014-01-25,24-152,HOU,AWAY,MEM,L (-18),1,34:06,6,13,.462,0,4,.000,4,4,1.000,2,2,4,3,0,1,3,0,16,11.1,-22,James Harden
+2014-01-28,24-155,HOU,HOME,SAS,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,James Harden
+2014-01-29,24-156,HOU,AWAY,DAL,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,James Harden
+2014-02-01,24-159,HOU,HOME,CLE,W (+14),1,36:38,10,17,.588,3,8,.375,5,6,.833,1,2,3,4,0,0,3,2,28,20.0,+6,James Harden
+2014-02-05,24-163,HOU,HOME,PHO,W (+14),1,38:15,4,10,.400,3,5,.600,12,12,1.000,0,2,2,1,2,0,1,2,23,19.1,+25,James Harden
+2014-02-08,24-166,HOU,AWAY,MIL,W (+6),1,39:06,9,21,.429,1,9,.111,3,4,.750,0,2,2,3,4,0,5,1,22,11.8,+3,James Harden
+2014-02-10,24-168,HOU,AWAY,MIN,W (+18),1,32:08,4,14,.286,3,6,.500,8,8,1.000,0,5,5,5,1,0,4,0,19,12.8,+8,James Harden
+2014-02-12,24-170,HOU,HOME,WAS,W (+1),1,40:33,8,14,.571,3,6,.500,16,16,1.000,1,5,6,6,1,0,4,3,35,30.6,0,James Harden
+2014-02-19,24-177,HOU,AWAY,LAL,W (+26),1,32:05,10,18,.556,5,7,.714,4,6,.667,1,5,6,11,4,1,1,3,29,32.0,+23,James Harden
+2014-02-20,24-178,HOU,AWAY,GSW,L (-3),1,45:26,14,27,.519,3,8,.375,8,10,.800,2,2,4,5,1,0,2,4,39,27.8,0,James Harden
+2014-02-23,24-181,HOU,AWAY,PHO,W (+3),1,41:39,6,15,.400,2,7,.286,9,9,1.000,1,4,5,7,3,0,4,5,23,18.7,+14,James Harden
+2014-02-25,24-183,HOU,AWAY,SAC,W (+26),1,31:10,11,20,.550,6,9,.667,15,16,.938,0,2,2,8,3,0,5,2,43,36.4,+29,James Harden
+2014-02-26,24-184,HOU,AWAY,LAC,L (-8),1,42:43,6,16,.375,1,6,.167,5,7,.714,2,4,6,3,0,0,6,2,18,6.3,-13,James Harden
+2014-03-01,24-187,HOU,HOME,DET,W (+8),1,39:43,7,16,.438,1,6,.167,5,8,.625,1,4,5,12,3,0,4,0,20,19.7,+15,James Harden
+2014-03-04,24-190,HOU,HOME,MIA,W (+3),1,39:40,9,15,.600,1,5,.200,2,5,.400,0,4,4,11,1,0,6,3,21,15.6,+14,James Harden
+2014-03-05,24-191,HOU,AWAY,ORL,W (+12),1,36:05,11,19,.579,2,7,.286,7,7,1.000,1,2,3,6,0,0,3,2,31,23.8,+17,James Harden
+2014-03-07,24-193,HOU,HOME,IND,W (+26),1,30:31,10,17,.588,4,7,.571,4,6,.667,0,4,4,4,3,0,2,2,28,23.5,+28,James Harden
+2014-03-09,24-195,HOU,HOME,POR,W (+5),1,47:12,12,28,.429,7,12,.583,10,11,.909,2,8,10,6,6,1,4,5,41,34.5,+10,James Harden
+2014-03-11,24-197,HOU,AWAY,OKC,L (-8),1,43:42,9,21,.429,3,7,.429,7,7,1.000,0,8,8,9,1,1,3,1,28,23.9,-6,James Harden
+2014-03-13,24-199,HOU,AWAY,CHI,L (-24),1,26:36,2,7,.286,1,5,.200,3,4,.750,0,2,2,2,0,1,5,3,8,0.0,-30,James Harden
+2014-03-16,24-202,HOU,AWAY,MIA,L (-9),1,43:11,7,16,.438,5,12,.417,11,12,.917,0,3,3,1,1,0,4,3,30,18.6,-7,James Harden
+2014-03-17,24-203,HOU,HOME,UTA,W (+38),1,26:38,5,10,.500,2,4,.500,3,3,1.000,0,1,1,5,0,0,1,3,15,11.6,+11,James Harden
+2014-03-20,24-206,HOU,HOME,MIN,W (+23),1,36:20,9,16,.563,6,10,.600,4,4,1.000,1,4,5,8,1,0,7,1,28,21.5,+21,James Harden
+2014-03-22,24-208,HOU,AWAY,CLE,W (+7),1,29:28,9,15,.600,5,8,.625,14,14,1.000,0,3,3,10,4,1,1,1,37,41.3,+20,James Harden
+2014-03-24,24-210,HOU,AWAY,CHA,W (+11),1,39:07,11,19,.579,4,7,.571,5,7,.714,0,3,3,5,1,1,3,4,31,22.8,+10,James Harden
+2014-03-27,24-213,HOU,HOME,PHI,W (+22),1,31:29,9,17,.529,3,8,.375,5,6,.833,4,6,10,10,1,0,5,0,26,24.9,+26,James Harden
+2014-03-29,24-215,HOU,HOME,LAC,L (-11),1,41:31,9,22,.409,3,11,.273,11,13,.846,2,5,7,6,1,0,6,3,32,20.3,-2,James Harden
+2014-04-01,24-218,HOU,AWAY,BRK,L (-9),1,36:06,4,10,.400,2,6,.333,16,16,1.000,1,0,1,9,2,0,4,2,26,24.8,-17,James Harden
+2014-04-02,24-219,HOU,AWAY,TOR,L (-4),1,39:37,7,17,.412,2,6,.333,10,12,.833,0,6,6,4,2,0,1,4,26,20.1,-14,James Harden
+2014-04-04,24-221,HOU,HOME,OKC,W (+4),1,43:02,9,22,.409,4,8,.500,17,20,.850,0,9,9,7,2,0,5,2,39,29.8,+5,James Harden
+2014-04-06,24-223,HOU,HOME,DEN,W (+5),1,43:13,9,23,.391,3,10,.300,11,12,.917,0,4,4,10,4,0,5,3,32,25.1,+1,James Harden
+2014-04-08,24-225,HOU,AWAY,LAL,W (+15),1,31:46,10,15,.667,3,6,.500,10,11,.909,1,2,3,12,0,1,1,3,33,34.3,+26,James Harden
+2014-04-09,24-226,HOU,AWAY,DEN,L (-7),1,25:46,1,9,.111,0,4,.000,8,8,1.000,0,4,4,6,1,0,1,0,10,9.5,-21,James Harden
+2014-04-11,24-228,HOU,AWAY,MIN,L (-2),1,46:09,7,14,.500,4,5,.800,15,19,.789,1,7,8,10,6,0,5,5,33,33.2,-3,James Harden
+2014-04-12,24-229,HOU,HOME,NOP,W (+7),1,43:22,10,22,.455,3,8,.375,10,10,1.000,1,3,4,13,2,0,4,2,33,29.5,+11,James Harden
+2014-04-14,24-231,HOU,HOME,SAS,W (+6),1,35:11,4,16,.250,0,4,.000,8,8,1.000,0,2,2,7,1,0,1,4,16,10.3,+6,James Harden
+2013-10-30,27-326,HOU,HOME,CHA,W (+13),1,34:41,8,14,.571,0,0,,1,4,.250,6,20,26,2,0,2,4,3,17,17.0,+10,Dwight Howard
+2013-11-01,27-328,HOU,HOME,DAL,W (+8),1,31:44,4,10,.400,0,0,,5,12,.417,5,11,16,0,1,1,3,4,13,8.7,+6,Dwight Howard
+2013-11-02,27-329,HOU,AWAY,UTA,W (+11),1,37:13,4,8,.500,0,0,,7,10,.700,2,7,9,1,1,2,2,3,15,13.2,+5,Dwight Howard
+2013-11-04,27-331,HOU,AWAY,LAC,L (-19),1,25:49,4,9,.444,0,0,,5,10,.500,2,7,9,0,0,1,2,4,13,6.9,-24,Dwight Howard
+2013-11-05,27-332,HOU,AWAY,POR,W (+15),1,38:22,10,13,.769,0,0,,9,12,.750,4,9,13,2,0,1,6,4,29,22.7,+22,Dwight Howard
+2013-11-07,27-334,HOU,HOME,LAL,L (-1),1,36:31,5,10,.500,0,0,,5,16,.313,1,13,14,2,0,1,4,4,15,6.7,-2,Dwight Howard
+2013-11-09,27-336,HOU,HOME,LAC,L (-13),1,39:22,8,14,.571,0,0,,5,11,.455,4,4,8,0,0,2,2,5,21,13.4,-12,Dwight Howard
+2013-11-11,27-338,HOU,HOME,TOR,W (+6),1,44:48,7,12,.583,0,0,,4,12,.333,6,18,24,2,1,5,3,5,18,19.7,+2,Dwight Howard
+2013-11-13,27-340,HOU,AWAY,PHI,L (-6),1,42:05,9,20,.450,0,1,.000,5,9,.556,4,11,15,7,2,6,2,4,23,24.6,+2,Dwight Howard
+2013-11-14,27-341,HOU,AWAY,NYK,W (+3),1,34:02,1,5,.200,0,0,,5,8,.625,6,9,15,2,0,4,5,4,7,7.2,-1,Dwight Howard
+2013-11-16,27-343,HOU,HOME,DEN,W (+11),1,28:34,4,6,.667,0,0,,17,24,.708,0,7,7,1,0,1,4,5,25,17.1,+12,Dwight Howard
+2013-11-19,27-346,HOU,HOME,BOS,W (+24),1,27:52,3,4,.750,0,0,,4,8,.500,1,11,12,2,2,3,3,3,10,12.1,+21,Dwight Howard
+2013-11-20,27-347,HOU,AWAY,DAL,L (-3),1,36:15,12,16,.750,0,0,,9,13,.692,3,8,11,1,0,0,1,3,33,28.0,+1,Dwight Howard
+2013-11-23,27-350,HOU,HOME,MIN,W (+11),1,33:46,5,9,.556,0,0,,1,2,.500,4,9,13,4,1,4,3,4,11,13.8,+3,Dwight Howard
+2013-11-25,27-352,HOU,AWAY,MEM,W (+7),1,27:01,6,10,.600,0,0,,3,6,.500,2,5,7,1,0,1,5,3,15,7.3,-4,Dwight Howard
+2013-11-27,27-354,HOU,HOME,ATL,W (+29),1,26:03,4,6,.667,0,0,,3,8,.375,3,5,8,4,2,1,2,3,11,12.3,+10,Dwight Howard
+2013-11-29,27-356,HOU,HOME,BRK,W (+19),1,17:27,5,10,.500,0,0,,2,2,1.000,2,5,7,2,1,0,2,4,12,8.7,+19,Dwight Howard
+2013-11-30,27-357,HOU,AWAY,SAS,W (+6),1,34:36,4,6,.667,0,0,,5,8,.625,2,9,11,1,0,0,2,4,13,10.4,+5,Dwight Howard
+2013-12-02,27-359,HOU,AWAY,UTA,L (-6),1,32:44,7,12,.583,0,0,,1,4,.250,4,5,9,2,0,0,3,3,15,9.7,-11,Dwight Howard
+2013-12-04,27-361,HOU,HOME,PHO,L (-9),1,35:55,4,11,.364,0,0,,7,9,.778,8,10,18,0,1,0,5,2,15,11.9,-18,Dwight Howard
+2013-12-06,27-363,HOU,HOME,GSW,W (+22),1,35:14,5,8,.625,0,0,,12,20,.600,6,12,18,1,3,1,3,2,22,23.6,+22,Dwight Howard
+2013-12-08,28-000,HOU,HOME,ORL,W (+10),1,34:05,6,12,.500,0,0,,8,14,.571,8,14,22,3,2,3,4,4,20,22.0,+5,Dwight Howard
+2013-12-12,28-004,HOU,AWAY,POR,L (-7),1,42:07,14,22,.636,0,1,.000,4,6,.667,5,12,17,1,2,3,1,2,32,31.5,+4,Dwight Howard
+2013-12-13,28-005,HOU,AWAY,GSW,W (+4),1,30:54,5,6,.833,1,1,1.000,7,7,1.000,2,9,11,3,0,1,5,5,18,15.7,-4,Dwight Howard
+2013-12-15,28-007,HOU,AWAY,SAC,L (-15),1,30:56,4,7,.571,0,0,,5,13,.385,2,8,10,0,1,3,5,4,13,6.8,-12,Dwight Howard
+2013-12-18,28-010,HOU,HOME,CHI,W (+15),1,34:29,11,14,.786,0,0,,1,1,1.000,1,8,9,0,1,1,2,2,23,19.6,+19,Dwight Howard
+2013-12-20,28-012,HOU,AWAY,IND,L (-33),1,31:26,9,16,.563,0,0,,1,3,.333,3,9,12,2,1,5,3,2,19,17.5,-17,Dwight Howard
+2013-12-21,28-013,HOU,AWAY,DET,W (+17),1,39:47,13,18,.722,0,0,,9,14,.643,4,15,19,5,1,3,5,2,35,33.7,+25,Dwight Howard
+2013-12-23,28-015,HOU,HOME,DAL,L (-7),1,40:48,10,16,.625,0,0,,9,13,.692,5,10,15,4,1,0,4,2,29,25.7,+3,Dwight Howard
+2013-12-25,28-017,HOU,AWAY,SAS,W (+13),1,34:32,7,12,.583,0,0,,1,4,.250,4,16,20,3,0,2,5,5,15,12.3,+23,Dwight Howard
+2013-12-26,28-018,HOU,HOME,MEM,W (+8),1,18:05,1,5,.200,0,0,,0,0,,1,5,6,0,2,0,1,5,2,0.1,-1,Dwight Howard
+2013-12-28,28-020,HOU,HOME,NOP,W (+9),1,42:14,10,11,.909,0,0,,4,6,.667,6,12,18,3,1,1,8,4,24,21.5,+12,Dwight Howard
+2013-12-29,28-021,HOU,AWAY,OKC,L (-31),1,25:16,4,13,.308,0,0,,1,7,.143,2,7,9,1,1,1,1,3,9,2.8,-27,Dwight Howard
+2013-12-31,28-023,HOU,HOME,SAC,L (-4),1,44:42,5,9,.556,0,0,,5,11,.455,3,5,8,2,0,1,3,3,15,9.8,-4,Dwight Howard
+2014-01-03,28-026,HOU,HOME,NYK,W (+2),1,38:28,6,11,.545,0,0,,3,6,.500,2,5,7,0,1,3,1,3,15,12.3,-8,Dwight Howard
+2014-01-08,28-031,HOU,HOME,LAL,W (+14),1,38:06,5,14,.357,0,0,,10,24,.417,4,9,13,3,4,1,0,4,20,17.3,+15,Dwight Howard
+2014-01-10,28-033,HOU,AWAY,ATL,L (-3),1,37:16,7,11,.636,0,0,,1,2,.500,4,7,11,1,1,2,1,4,15,15.1,+7,Dwight Howard
+2014-01-11,28-034,HOU,AWAY,WAS,W (+7),1,34:18,10,17,.588,0,0,,3,10,.300,2,5,7,2,1,0,5,5,23,10.6,+12,Dwight Howard
+2014-01-13,28-036,HOU,AWAY,BOS,W (+12),1,36:50,11,17,.647,0,1,.000,10,18,.556,3,8,11,2,0,1,2,2,32,25.1,+8,Dwight Howard
+2014-01-15,28-038,HOU,AWAY,NOP,W (+3),1,29:51,4,5,.800,0,0,,4,11,.364,4,7,11,2,2,3,3,5,12,12.7,+13,Dwight Howard
+2014-01-16,28-039,HOU,HOME,OKC,L (-12),1,29:50,5,13,.385,0,0,,1,2,.500,3,5,8,2,0,3,3,5,11,5.6,-11,Dwight Howard
+2014-01-18,28-041,HOU,HOME,MIL,W (+10),1,34:53,8,11,.727,1,1,1.000,3,7,.429,4,10,14,2,0,1,0,4,20,20.2,+10,Dwight Howard
+2014-01-20,28-043,HOU,HOME,POR,W (+13),1,37:50,9,15,.600,0,0,,6,9,.667,4,8,12,3,1,0,4,4,24,18.6,+12,Dwight Howard
+2014-01-22,28-045,HOU,HOME,SAC,W (+21),1,32:28,10,13,.769,0,0,,6,17,.353,4,9,13,1,1,4,2,1,26,24.1,+8,Dwight Howard
+2014-01-24,28-047,HOU,HOME,MEM,L (-1),1,30:20,5,10,.500,0,0,,1,2,.500,1,11,12,0,0,2,3,5,11,6.0,+7,Dwight Howard
+2014-01-25,28-048,HOU,AWAY,MEM,L (-18),1,33:15,4,11,.364,0,0,,2,6,.333,2,10,12,1,2,1,4,3,10,4.9,-16,Dwight Howard
+2014-01-28,28-051,HOU,HOME,SAS,W (+7),1,35:35,5,15,.333,0,0,,13,25,.520,7,9,16,0,0,1,6,4,23,10.4,0,Dwight Howard
+2014-01-29,28-052,HOU,AWAY,DAL,W (+2),1,35:47,6,10,.600,0,0,,9,11,.818,0,5,5,1,1,1,4,4,21,13.9,-3,Dwight Howard
+2014-02-01,28-055,HOU,HOME,CLE,W (+14),1,35:48,10,12,.833,0,0,,6,8,.750,1,5,6,1,1,3,4,2,26,22.0,+4,Dwight Howard
+2014-02-05,28-059,HOU,HOME,PHO,W (+14),1,38:59,11,17,.647,0,0,,12,18,.667,0,14,14,0,3,2,5,4,34,26.1,+24,Dwight Howard
+2014-02-08,28-062,HOU,AWAY,MIL,W (+6),1,37:01,11,19,.579,0,0,,5,7,.714,1,12,13,5,1,2,2,3,27,24.3,-3,Dwight Howard
+2014-02-10,28-064,HOU,AWAY,MIN,W (+18),1,39:28,7,13,.538,0,0,,4,5,.800,4,11,15,2,1,3,6,4,18,14.3,+27,Dwight Howard
+2014-02-12,28-066,HOU,HOME,WAS,W (+1),1,37:19,7,9,.778,0,0,,10,16,.625,2,14,16,1,2,3,7,3,24,20.3,+16,Dwight Howard
+2014-02-19,28-073,HOU,AWAY,LAL,W (+26),1,28:25,9,14,.643,0,0,,2,6,.333,6,7,13,1,2,3,4,0,20,19.3,+20,Dwight Howard
+2014-02-20,28-074,HOU,AWAY,GSW,L (-3),1,37:55,4,13,.308,0,0,,3,8,.375,6,15,21,3,0,4,2,5,11,11.1,-10,Dwight Howard
+2014-02-23,28-077,HOU,AWAY,PHO,W (+3),1,34:28,10,12,.833,0,0,,5,7,.714,3,6,9,2,0,2,4,1,25,22.1,+10,Dwight Howard
+2014-02-25,28-079,HOU,AWAY,SAC,W (+26),1,24:31,7,9,.778,0,0,,6,10,.600,1,10,11,3,0,2,1,4,20,19.5,+19,Dwight Howard
+2014-02-26,28-080,HOU,AWAY,LAC,L (-8),1,34:57,9,12,.750,0,0,,5,9,.556,3,8,11,2,0,1,3,2,23,19.4,-13,Dwight Howard
+2014-03-01,28-083,HOU,HOME,DET,W (+8),1,35:15,5,7,.714,0,1,.000,7,9,.778,4,4,8,4,0,0,3,4,17,15.5,+13,Dwight Howard
+2014-03-04,28-086,HOU,HOME,MIA,W (+3),1,36:29,8,13,.615,0,0,,6,8,.750,3,13,16,1,0,0,2,2,22,19.2,+16,Dwight Howard
+2014-03-05,28-087,HOU,AWAY,ORL,W (+12),1,30:47,8,12,.667,0,0,,3,6,.500,6,7,13,1,2,0,6,2,19,14.8,+7,Dwight Howard
+2014-03-07,28-089,HOU,HOME,IND,W (+26),1,27:59,6,11,.545,0,0,,3,5,.600,1,5,6,4,0,1,2,3,15,11.4,+30,Dwight Howard
+2014-03-09,28-091,HOU,HOME,POR,W (+5),1,38:43,5,10,.500,0,0,,7,13,.538,4,8,12,1,1,3,5,3,17,12.4,+1,Dwight Howard
+2014-03-11,28-093,HOU,AWAY,OKC,L (-8),1,32:54,4,12,.333,0,0,,1,6,.167,2,8,10,0,0,1,2,4,9,1.1,-14,Dwight Howard
+2014-03-13,28-095,HOU,AWAY,CHI,L (-24),1,28:35,5,7,.714,0,0,,2,2,1.000,5,5,10,1,0,4,7,2,12,9.8,-28,Dwight Howard
+2014-03-16,28-098,HOU,AWAY,MIA,L (-9),1,37:48,9,12,.750,0,0,,3,6,.500,3,11,14,5,0,2,2,3,21,22.1,-4,Dwight Howard
+2014-03-22,28-104,HOU,AWAY,CLE,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Dwight Howard
+2014-03-24,28-106,HOU,AWAY,CHA,W (+11),1,32:34,4,9,.444,0,0,,2,4,.500,3,7,10,4,2,1,2,5,10,10.2,+1,Dwight Howard
+2014-03-27,28-109,HOU,HOME,PHI,W (+22),1,26:10,6,6,1.000,0,0,,5,9,.556,3,10,13,0,2,3,3,3,17,18.6,+35,Dwight Howard
+2014-03-29,28-111,HOU,HOME,LAC,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Dwight Howard
+2014-04-01,28-114,HOU,AWAY,BRK,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Dwight Howard
+2014-04-02,28-115,HOU,AWAY,TOR,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Dwight Howard
+2014-04-04,28-117,HOU,HOME,OKC,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Dwight Howard
+2014-04-06,28-119,HOU,HOME,DEN,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Dwight Howard
+2014-04-08,28-121,HOU,AWAY,LAL,W (+15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Dwight Howard
+2014-04-12,28-125,HOU,HOME,NOP,W (+7),1,29:13,5,8,.625,0,0,,3,8,.375,0,6,6,2,1,2,1,3,13,10.8,+21,Dwight Howard
+2014-04-14,28-127,HOU,HOME,SAS,W (+6),1,31:25,9,11,.818,0,0,,2,4,.500,5,12,17,0,0,0,2,3,20,19.0,+18,Dwight Howard
+2014-04-16,28-129,HOU,AWAY,NOP,L (-5),1,25:31,1,5,.200,0,1,.000,5,7,.714,0,4,4,4,0,3,3,3,7,5.0,+1,Dwight Howard
+2013-11-01,21-296,HOU,HOME,DAL,W (+8),0,3:58,0,1,.000,0,0,,3,4,.750,0,1,1,0,0,0,0,0,3,2.2,-9,Terrence Jones
+2013-11-02,21-297,HOU,AWAY,UTA,W (+11),0,6:37,1,1,1.000,0,0,,2,2,1.000,0,0,0,0,0,0,0,2,4,2.9,+2,Terrence Jones
+2013-11-04,21-299,HOU,AWAY,LAC,L (-19),0,4:07,0,2,.000,0,0,,2,2,1.000,0,0,0,0,0,0,0,0,2,0.6,0,Terrence Jones
+2013-11-05,21-300,HOU,AWAY,POR,W (+15),0,1:01,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1,Terrence Jones
+2013-11-11,21-306,HOU,HOME,TOR,W (+6),0,32:08,3,7,.429,0,0,,1,2,.500,3,7,10,0,0,4,2,5,7,5.9,-4,Terrence Jones
+2013-11-13,21-308,HOU,AWAY,PHI,L (-6),1,36:43,4,12,.333,2,4,.500,0,0,,3,8,11,1,0,3,1,4,10,7.9,+7,Terrence Jones
+2013-11-14,21-309,HOU,AWAY,NYK,W (+3),1,33:44,2,5,.400,0,0,,2,2,1.000,2,6,8,2,1,0,0,4,6,7.3,+7,Terrence Jones
+2013-11-16,21-311,HOU,HOME,DEN,W (+11),1,31:45,6,11,.545,1,2,.500,1,4,.250,4,8,12,2,1,3,3,2,14,13.4,+13,Terrence Jones
+2013-11-19,21-314,HOU,HOME,BOS,W (+24),1,27:09,10,12,.833,1,1,1.000,3,4,.750,3,6,9,1,0,2,1,0,24,24.2,+20,Terrence Jones
+2013-11-20,21-315,HOU,AWAY,DAL,L (-3),1,32:40,8,13,.615,1,3,.333,1,1,1.000,1,1,2,2,0,0,2,2,18,11.7,+3,Terrence Jones
+2013-11-23,21-318,HOU,HOME,MIN,W (+11),1,31:30,7,10,.700,2,3,.667,2,2,1.000,4,6,10,3,0,2,1,1,18,20.5,+3,Terrence Jones
+2013-11-25,21-320,HOU,AWAY,MEM,W (+7),1,25:30,4,10,.400,0,2,.000,3,6,.500,2,3,5,2,0,2,1,1,11,8.1,-4,Terrence Jones
+2013-11-27,21-322,HOU,HOME,ATL,W (+29),1,23:51,6,10,.600,2,3,.667,0,0,,1,5,6,1,0,1,1,4,14,10.4,+11,Terrence Jones
+2013-11-29,21-324,HOU,HOME,BRK,W (+19),1,25:53,4,8,.500,0,1,.000,3,4,.750,1,6,7,1,1,3,3,2,11,9.1,+22,Terrence Jones
+2013-11-30,21-325,HOU,AWAY,SAS,W (+6),1,30:50,4,10,.400,1,2,.500,1,1,1.000,4,12,16,1,1,0,2,1,10,10.3,+11,Terrence Jones
+2013-12-02,21-327,HOU,AWAY,UTA,L (-6),1,17:49,1,5,.200,0,2,.000,0,1,.000,1,3,4,0,0,0,0,1,2,-0.3,-14,Terrence Jones
+2013-12-04,21-329,HOU,HOME,PHO,L (-9),1,23:38,4,9,.444,0,1,.000,0,0,,3,4,7,1,0,1,2,2,8,5.2,-13,Terrence Jones
+2013-12-06,21-331,HOU,HOME,GSW,W (+22),1,31:04,7,12,.583,1,4,.250,1,2,.500,3,7,10,1,3,3,0,2,16,19.2,+19,Terrence Jones
+2013-12-08,21-333,HOU,HOME,ORL,W (+10),1,34:51,6,13,.462,2,4,.500,2,7,.286,2,11,13,0,2,5,1,3,16,15.3,+17,Terrence Jones
+2013-12-12,21-337,HOU,AWAY,POR,L (-7),1,29:03,5,10,.500,0,1,.000,0,0,,0,2,2,2,1,1,1,5,10,5.7,-26,Terrence Jones
+2013-12-13,21-338,HOU,AWAY,GSW,W (+4),1,34:59,2,8,.250,0,3,.000,3,4,.750,0,8,8,0,2,0,0,2,7,5.4,+17,Terrence Jones
+2013-12-15,21-340,HOU,AWAY,SAC,L (-15),1,14:48,1,3,.333,0,0,,0,2,.000,0,5,5,0,0,0,1,1,2,-0.4,+6,Terrence Jones
+2013-12-18,21-343,HOU,HOME,CHI,W (+15),1,26:45,2,8,.250,0,3,.000,1,1,1.000,1,4,5,6,1,1,0,2,5,7.2,+8,Terrence Jones
+2013-12-20,21-345,HOU,AWAY,IND,L (-33),1,24:55,4,8,.500,1,3,.333,1,3,.333,2,3,5,0,0,0,2,2,10,4.7,-30,Terrence Jones
+2013-12-21,21-346,HOU,AWAY,DET,W (+17),1,24:16,3,5,.600,2,2,1.000,0,0,,0,2,2,3,0,0,1,1,8,7.0,0,Terrence Jones
+2013-12-23,21-348,HOU,HOME,DAL,L (-7),1,30:23,5,8,.625,0,1,.000,0,0,,1,3,4,1,0,0,0,2,10,7.9,-12,Terrence Jones
+2013-12-25,21-350,HOU,AWAY,SAS,W (+13),1,42:14,9,20,.450,0,3,.000,3,4,.750,5,9,14,1,1,3,0,1,21,19.8,+14,Terrence Jones
+2013-12-26,21-351,HOU,HOME,MEM,W (+8),1,31:10,10,14,.714,0,2,.000,0,3,.000,2,3,5,2,0,2,0,0,20,18.1,0,Terrence Jones
+2013-12-28,21-353,HOU,HOME,NOP,W (+9),1,34:17,6,8,.750,0,0,,5,6,.833,1,7,8,2,0,3,0,0,17,19.7,+9,Terrence Jones
+2013-12-29,21-354,HOU,AWAY,OKC,L (-31),1,21:54,1,5,.200,0,0,,0,0,,2,7,9,0,0,1,0,1,2,2.7,-18,Terrence Jones
+2013-12-31,21-356,HOU,HOME,SAC,L (-4),1,35:49,6,10,.600,0,2,.000,0,0,,2,9,11,1,2,4,2,2,12,14.2,-5,Terrence Jones
+2014-01-03,21-359,HOU,HOME,NYK,W (+2),1,29:57,3,7,.429,0,0,,0,0,,3,6,9,3,0,0,2,2,6,5.5,-13,Terrence Jones
+2014-01-08,21-364,HOU,HOME,LAL,W (+14),1,30:52,7,14,.500,0,2,.000,1,2,.500,6,7,13,0,0,0,0,1,15,13.5,+14,Terrence Jones
+2014-01-10,22-001,HOU,AWAY,ATL,L (-3),1,26:34,3,10,.300,0,1,.000,0,0,,3,5,8,2,1,0,0,0,6,6.2,0,Terrence Jones
+2014-01-11,22-002,HOU,AWAY,WAS,W (+7),1,30:24,7,14,.500,0,1,.000,5,5,1.000,3,14,17,1,0,3,3,3,19,16.9,+3,Terrence Jones
+2014-01-13,22-004,HOU,AWAY,BOS,W (+12),1,36:39,6,11,.545,0,0,,0,2,.000,5,7,12,0,2,3,1,2,12,13.8,+18,Terrence Jones
+2014-01-15,22-006,HOU,AWAY,NOP,W (+3),1,41:24,10,17,.588,0,1,.000,5,10,.500,2,6,8,1,1,6,0,4,25,22.6,+5,Terrence Jones
+2014-01-16,22-007,HOU,HOME,OKC,L (-12),1,40:32,6,12,.500,0,1,.000,4,6,.667,3,10,13,3,2,1,3,1,16,15.7,-14,Terrence Jones
+2014-01-18,22-009,HOU,HOME,MIL,W (+10),1,38:16,14,20,.700,1,2,.500,7,10,.700,6,5,11,1,1,2,0,1,36,34.8,+15,Terrence Jones
+2014-01-20,22-011,HOU,HOME,POR,W (+13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Terrence Jones
+2014-01-22,22-013,HOU,HOME,SAC,W (+21),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Terrence Jones
+2014-01-24,22-015,HOU,HOME,MEM,L (-1),1,27:33,4,10,.400,1,2,.500,0,0,,0,3,3,2,1,0,2,2,9,4.1,-3,Terrence Jones
+2014-01-25,22-016,HOU,AWAY,MEM,L (-18),1,29:26,3,7,.429,0,1,.000,2,3,.667,1,5,6,3,0,1,1,2,8,7.1,-5,Terrence Jones
+2014-01-28,22-019,HOU,HOME,SAS,W (+7),1,38:16,9,12,.750,0,0,,3,8,.375,3,6,9,0,1,1,1,2,21,18.0,-3,Terrence Jones
+2014-01-29,22-020,HOU,AWAY,DAL,W (+2),1,31:33,7,10,.700,0,0,,2,4,.500,2,3,5,1,2,0,2,5,16,12.0,-2,Terrence Jones
+2014-02-01,22-023,HOU,HOME,CLE,W (+14),1,34:53,8,14,.571,1,2,.500,0,2,.000,1,6,7,0,0,1,0,0,17,12.8,+9,Terrence Jones
+2014-02-05,22-027,HOU,HOME,PHO,W (+14),1,31:14,8,12,.667,1,2,.500,2,3,.667,4,5,9,2,0,3,1,2,19,19.4,+12,Terrence Jones
+2014-02-08,22-030,HOU,AWAY,MIL,W (+6),1,22:52,1,4,.250,0,0,,0,0,,1,4,5,1,0,0,0,1,2,1.8,-9,Terrence Jones
+2014-02-10,22-032,HOU,AWAY,MIN,W (+18),1,29:00,7,11,.636,0,1,.000,0,0,,0,0,0,1,2,0,2,3,14,8.6,+6,Terrence Jones
+2014-02-12,22-034,HOU,HOME,WAS,W (+1),1,30:31,2,7,.286,0,1,.000,0,1,.000,2,6,8,0,0,2,2,3,4,0.9,+3,Terrence Jones
+2014-02-19,22-041,HOU,AWAY,LAL,W (+26),1,20:31,4,8,.500,1,1,1.000,2,6,.333,2,3,5,0,0,0,1,1,11,6.3,+19,Terrence Jones
+2014-02-20,22-042,HOU,AWAY,GSW,L (-3),1,18:06,1,7,.143,0,2,.000,1,2,.500,3,3,6,0,0,0,1,2,3,-0.7,-12,Terrence Jones
+2014-02-23,22-045,HOU,AWAY,PHO,W (+3),1,24:21,7,10,.700,0,0,,1,1,1.000,1,6,7,0,1,1,3,1,15,11.6,-6,Terrence Jones
+2014-02-25,22-047,HOU,AWAY,SAC,W (+26),1,20:05,5,5,1.000,0,0,,1,1,1.000,1,1,2,1,0,1,1,3,11,9.7,+9,Terrence Jones
+2014-02-26,22-048,HOU,AWAY,LAC,L (-8),1,19:12,2,4,.500,0,0,,0,0,,2,2,4,1,1,0,1,3,4,3.5,-18,Terrence Jones
+2014-03-01,22-051,HOU,HOME,DET,W (+8),1,32:12,10,15,.667,0,1,.000,2,2,1.000,3,7,10,1,0,1,0,1,22,20.7,+12,Terrence Jones
+2014-03-04,22-054,HOU,HOME,MIA,W (+3),1,34:50,8,13,.615,1,1,1.000,2,3,.667,4,8,12,2,0,1,0,1,19,19.6,+17,Terrence Jones
+2014-03-05,22-055,HOU,AWAY,ORL,W (+12),1,38:11,8,10,.800,1,1,1.000,0,2,.000,3,8,11,1,1,2,4,0,17,16.0,+16,Terrence Jones
+2014-03-07,22-057,HOU,HOME,IND,W (+26),1,24:12,3,4,.750,1,1,1.000,0,0,,1,3,4,1,1,0,0,2,7,7.9,+11,Terrence Jones
+2014-03-09,22-059,HOU,HOME,POR,W (+5),1,19:40,1,2,.500,0,1,.000,0,0,,0,4,4,1,0,0,1,2,2,1.1,-19,Terrence Jones
+2014-03-11,22-061,HOU,AWAY,OKC,L (-8),1,20:32,4,7,.571,0,1,.000,0,1,.000,1,2,3,0,1,2,1,3,8,5.8,-16,Terrence Jones
+2014-03-13,22-063,HOU,AWAY,CHI,L (-24),1,19:44,1,7,.143,0,1,.000,0,0,,3,6,9,1,2,0,0,1,2,3.7,-22,Terrence Jones
+2014-03-16,22-066,HOU,AWAY,MIA,L (-9),1,24:35,5,7,.714,1,1,1.000,1,1,1.000,2,2,4,0,2,0,1,1,12,11.7,+2,Terrence Jones
+2014-03-17,22-067,HOU,HOME,UTA,W (+38),1,38:12,11,15,.733,3,4,.750,5,7,.714,1,4,5,1,1,4,0,1,30,29.1,+29,Terrence Jones
+2014-03-20,22-070,HOU,HOME,MIN,W (+23),1,23:20,4,9,.444,0,4,.000,2,2,1.000,3,4,7,4,0,3,0,3,10,12.3,0,Terrence Jones
+2014-03-22,22-072,HOU,AWAY,CLE,W (+7),1,29:01,4,5,.800,1,2,.500,5,7,.714,2,3,5,2,0,2,0,3,14,15.2,+10,Terrence Jones
+2014-03-24,22-074,HOU,AWAY,CHA,W (+11),1,31:35,9,15,.600,0,2,.000,0,1,.000,3,4,7,2,0,0,1,2,18,13.6,-5,Terrence Jones
+2014-03-27,22-077,HOU,HOME,PHI,W (+22),1,29:36,8,15,.533,0,2,.000,4,6,.667,2,5,7,0,4,2,1,0,20,19.2,+31,Terrence Jones
+2014-03-29,22-079,HOU,HOME,LAC,L (-11),1,18:32,1,4,.250,0,0,,0,2,.000,4,1,5,0,0,0,0,4,2,0.3,-20,Terrence Jones
+2014-04-01,22-082,HOU,AWAY,BRK,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Terrence Jones
+2014-04-02,22-083,HOU,AWAY,TOR,L (-4),1,9:48,0,4,.000,0,0,,0,0,,1,2,3,0,0,0,1,2,0,-3.3,-7,Terrence Jones
+2014-04-04,22-085,HOU,HOME,OKC,W (+4),1,33:10,7,12,.583,0,2,.000,2,2,1.000,2,9,11,2,2,2,1,1,16,17.9,-1,Terrence Jones
+2014-04-06,22-087,HOU,HOME,DEN,W (+5),1,23:46,6,16,.375,0,1,.000,2,2,1.000,1,4,5,0,2,3,1,1,14,9.8,-17,Terrence Jones
+2014-04-08,22-089,HOU,AWAY,LAL,W (+15),1,32:35,13,18,.722,1,1,1.000,6,8,.750,2,5,7,2,1,1,0,3,33,29.6,+21,Terrence Jones
+2014-04-09,22-090,HOU,AWAY,DEN,L (-7),1,17:24,5,8,.625,1,1,1.000,0,1,.000,2,2,4,1,2,1,0,3,11,11.2,-5,Terrence Jones
+2014-04-11,22-092,HOU,AWAY,MIN,L (-2),1,29:16,5,11,.455,0,0,,0,0,,5,3,8,1,0,2,2,3,10,7.6,-10,Terrence Jones
+2014-04-12,22-093,HOU,HOME,NOP,W (+7),1,24:19,4,8,.500,0,1,.000,2,2,1.000,1,1,2,1,1,4,1,1,10,10.1,-9,Terrence Jones
+2014-04-14,22-095,HOU,HOME,SAS,W (+6),1,39:37,7,12,.583,0,1,.000,6,7,.857,4,7,11,1,2,0,1,1,20,20.2,+16,Terrence Jones
+2014-04-16,22-097,HOU,AWAY,NOP,L (-5),1,26:26,7,11,.636,0,0,,3,6,.500,5,3,8,4,0,0,1,1,17,16.7,+4,Terrence Jones
+2013-10-30,25-068,HOU,HOME,CHA,W (+13),0,30:56,5,7,.714,2,2,1.000,4,6,.667,0,0,0,2,0,0,2,2,16,10.9,+2,Jeremy Lin
+2013-11-01,25-070,HOU,HOME,DAL,W (+8),1,29:58,4,9,.444,0,3,.000,6,7,.857,0,3,3,4,3,0,6,1,14,9.2,+14,Jeremy Lin
+2013-11-02,25-071,HOU,AWAY,UTA,W (+11),1,36:23,7,13,.538,2,5,.400,4,5,.800,1,2,3,4,1,1,3,3,20,14.9,+21,Jeremy Lin
+2013-11-04,25-073,HOU,AWAY,LAC,L (-19),1,30:29,4,8,.500,1,2,.500,5,6,.833,0,2,2,8,1,0,1,5,14,13.8,-27,Jeremy Lin
+2013-11-05,25-074,HOU,AWAY,POR,W (+15),1,29:08,4,8,.500,1,2,.500,3,4,.750,0,2,2,4,2,0,3,4,12,8.4,+10,Jeremy Lin
+2013-11-07,25-076,HOU,HOME,LAL,L (-1),0,31:06,5,8,.625,1,2,.500,5,8,.625,0,1,1,3,3,2,3,1,16,14.6,+4,Jeremy Lin
+2013-11-09,25-078,HOU,HOME,LAC,L (-13),0,26:29,3,7,.429,0,0,,0,0,,1,0,1,7,1,0,5,1,6,3.5,+1,Jeremy Lin
+2013-11-11,25-080,HOU,HOME,TOR,W (+6),0,45:52,10,17,.588,3,6,.500,8,9,.889,0,5,5,1,2,1,5,3,31,21.4,+7,Jeremy Lin
+2013-11-13,25-082,HOU,AWAY,PHI,L (-6),1,48:37,10,19,.526,9,15,.600,5,6,.833,0,5,5,11,0,0,8,5,34,23.5,-11,Jeremy Lin
+2013-11-14,25-083,HOU,AWAY,NYK,W (+3),0,30:23,7,16,.438,1,6,.167,6,6,1.000,0,5,5,3,1,0,2,1,21,14.8,-2,Jeremy Lin
+2013-11-16,25-085,HOU,HOME,DEN,W (+11),0,32:23,6,11,.545,0,2,.000,4,6,.667,0,4,4,7,1,1,1,3,16,15.5,0,Jeremy Lin
+2013-11-19,25-088,HOU,HOME,BOS,W (+24),0,23:37,4,7,.571,1,3,.333,2,2,1.000,0,0,0,5,1,1,1,2,11,11.1,0,Jeremy Lin
+2013-11-20,25-089,HOU,AWAY,DAL,L (-3),0,16:57,0,5,.000,0,3,.000,1,2,.500,0,1,1,4,0,1,0,1,1,0.5,-10,Jeremy Lin
+2013-11-23,25-092,HOU,HOME,MIN,W (+11),1,34:26,5,11,.455,2,5,.400,7,8,.875,1,4,5,5,2,1,5,4,19,14.4,+8,Jeremy Lin
+2013-11-25,25-094,HOU,AWAY,MEM,W (+7),1,31:30,4,8,.500,0,2,.000,6,7,.857,0,4,4,2,2,0,2,0,14,12.2,-3,Jeremy Lin
+2013-11-27,25-096,HOU,HOME,ATL,W (+29),1,4:09,0,1,.000,0,1,.000,0,0,,0,1,1,1,0,0,0,0,0,0.3,+1,Jeremy Lin
+2013-11-29,25-098,HOU,HOME,BRK,W (+19),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jeremy Lin
+2013-11-30,25-099,HOU,AWAY,SAS,W (+6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jeremy Lin
+2013-12-02,25-101,HOU,AWAY,UTA,L (-6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jeremy Lin
+2013-12-04,25-103,HOU,HOME,PHO,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jeremy Lin
+2013-12-06,25-105,HOU,HOME,GSW,W (+22),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jeremy Lin
+2013-12-08,25-107,HOU,HOME,ORL,W (+10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jeremy Lin
+2013-12-12,25-111,HOU,AWAY,POR,L (-7),0,14:43,1,4,.250,0,2,.000,3,4,.750,0,2,2,2,1,0,0,3,5,4.0,-1,Jeremy Lin
+2013-12-13,25-112,HOU,AWAY,GSW,W (+4),0,20:37,2,4,.500,1,3,.333,3,4,.750,0,0,0,2,0,0,4,3,8,1.8,-13,Jeremy Lin
+2013-12-18,25-117,HOU,HOME,CHI,W (+15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jeremy Lin
+2013-12-21,25-120,HOU,AWAY,DET,W (+17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jeremy Lin
+2013-12-23,25-122,HOU,HOME,DAL,L (-7),1,36:51,6,10,.600,1,2,.500,7,10,.700,0,2,2,2,1,0,5,2,20,11.4,-4,Jeremy Lin
+2013-12-25,25-124,HOU,AWAY,SAS,W (+13),1,33:52,5,10,.500,1,2,.500,2,4,.500,0,2,2,8,1,2,1,1,13,14.4,+24,Jeremy Lin
+2013-12-26,25-125,HOU,HOME,MEM,W (+8),1,37:17,5,13,.385,2,4,.500,6,6,1.000,1,5,6,2,0,0,4,3,18,9.3,+10,Jeremy Lin
+2013-12-28,25-127,HOU,HOME,NOP,W (+9),1,34:07,3,12,.250,2,5,.400,2,2,1.000,0,3,3,5,1,0,2,2,10,5.4,+7,Jeremy Lin
+2013-12-29,25-128,HOU,AWAY,OKC,L (-31),1,24:20,2,9,.222,0,2,.000,2,4,.500,1,2,3,1,0,0,3,0,6,-1.3,-28,Jeremy Lin
+2013-12-31,25-130,HOU,HOME,SAC,L (-4),1,34:36,7,10,.700,0,2,.000,0,0,,0,2,2,6,2,1,2,4,14,13.7,-2,Jeremy Lin
+2014-01-03,25-133,HOU,HOME,NYK,W (+2),1,28:11,5,11,.455,1,2,.500,3,3,1.000,1,1,2,4,0,0,3,2,14,8.3,-1,Jeremy Lin
+2014-01-08,25-138,HOU,HOME,LAL,W (+14),1,39:21,4,12,.333,1,5,.200,4,7,.571,0,4,4,4,1,1,4,3,13,5.5,+14,Jeremy Lin
+2014-01-10,25-140,HOU,AWAY,ATL,L (-3),1,38:55,3,8,.375,1,4,.250,4,4,1.000,0,4,4,1,0,0,4,3,11,3.3,+2,Jeremy Lin
+2014-01-11,25-141,HOU,AWAY,WAS,W (+7),1,43:04,5,11,.455,0,3,.000,8,10,.800,2,0,2,8,2,0,3,5,18,15.5,+18,Jeremy Lin
+2014-01-13,25-143,HOU,AWAY,BOS,W (+12),1,35:24,5,7,.714,1,2,.500,5,6,.833,0,1,1,9,3,0,1,3,16,20.1,+4,Jeremy Lin
+2014-01-15,25-145,HOU,AWAY,NOP,W (+3),1,38:41,6,12,.500,0,3,.000,1,1,1.000,0,1,1,4,1,2,2,4,13,8.9,+11,Jeremy Lin
+2014-01-16,25-146,HOU,HOME,OKC,L (-12),1,24:08,2,8,.250,0,2,.000,2,2,1.000,0,0,0,2,0,1,1,0,6,2.3,-7,Jeremy Lin
+2014-01-18,25-148,HOU,HOME,MIL,W (+10),1,22:37,2,7,.286,1,1,1.000,2,2,1.000,0,1,1,4,0,0,2,2,7,3.2,0,Jeremy Lin
+2014-01-20,25-150,HOU,HOME,POR,W (+13),0,24:41,3,8,.375,2,3,.667,0,0,,1,1,2,5,1,0,4,0,8,5.1,-7,Jeremy Lin
+2014-01-22,25-152,HOU,HOME,SAC,W (+21),0,29:36,4,10,.400,1,4,.250,4,6,.667,1,0,1,4,1,1,1,3,13,9.8,+9,Jeremy Lin
+2014-01-24,25-154,HOU,HOME,MEM,L (-1),0,27:03,4,6,.667,0,1,.000,1,2,.500,0,1,1,3,2,1,2,1,9,8.7,-2,Jeremy Lin
+2014-01-25,25-155,HOU,AWAY,MEM,L (-18),0,28:16,2,8,.250,0,4,.000,2,2,1.000,0,1,1,3,0,1,2,1,6,1.9,-13,Jeremy Lin
+2014-01-28,25-158,HOU,HOME,SAS,W (+7),1,44:03,5,13,.385,1,5,.200,7,7,1.000,1,2,3,8,0,1,3,2,18,14.7,+7,Jeremy Lin
+2014-01-29,25-159,HOU,AWAY,DAL,W (+2),1,37:13,8,14,.571,2,3,.667,0,0,,1,6,7,7,1,0,2,3,18,16.6,+1,Jeremy Lin
+2014-02-01,25-162,HOU,HOME,CLE,W (+14),0,29:11,6,12,.500,1,4,.250,2,2,1.000,1,10,11,10,2,1,3,3,15,18.2,+19,Jeremy Lin
+2014-02-05,25-166,HOU,HOME,PHO,W (+14),0,28:40,3,6,.500,1,1,1.000,4,4,1.000,0,1,1,2,1,0,3,4,11,6.1,-7,Jeremy Lin
+2014-02-08,25-169,HOU,AWAY,MIL,W (+6),0,27:31,8,14,.571,2,4,.500,0,0,,0,2,2,4,2,0,2,2,18,14.0,+9,Jeremy Lin
+2014-02-10,25-171,HOU,AWAY,MIN,W (+18),0,32:55,1,6,.167,0,2,.000,0,0,,0,3,3,7,1,0,1,2,2,3.2,+7,Jeremy Lin
+2014-02-12,25-173,HOU,HOME,WAS,W (+1),1,37:20,5,8,.625,3,6,.500,3,4,.750,0,1,1,5,0,0,5,3,16,9.6,+1,Jeremy Lin
+2014-02-19,25-180,HOU,AWAY,LAL,W (+26),0,20:57,3,11,.273,2,6,.333,1,2,.500,1,2,3,2,1,0,4,2,9,1.0,+4,Jeremy Lin
+2014-02-20,25-181,HOU,AWAY,GSW,L (-3),0,33:55,3,8,.375,1,2,.500,2,2,1.000,1,4,5,4,0,0,2,4,9,5.7,+8,Jeremy Lin
+2014-02-23,25-184,HOU,AWAY,PHO,W (+3),0,20:00,1,6,.167,0,0,,0,0,,0,3,3,6,0,0,2,2,2,0.5,+1,Jeremy Lin
+2014-02-25,25-186,HOU,AWAY,SAC,W (+26),0,21:58,3,7,.429,0,1,.000,5,6,.833,0,3,3,3,0,0,3,0,11,6.9,+9,Jeremy Lin
+2014-02-26,25-187,HOU,AWAY,LAC,L (-8),0,18:36,2,8,.250,1,3,.333,1,2,.500,1,2,3,3,2,0,2,2,6,3.4,+2,Jeremy Lin
+2014-03-01,25-190,HOU,HOME,DET,W (+8),0,17:29,1,6,.167,0,2,.000,2,2,1.000,3,1,4,2,0,1,4,2,4,-0.1,-1,Jeremy Lin
+2014-03-04,25-193,HOU,HOME,MIA,W (+3),0,15:08,2,5,.400,1,4,.250,2,2,1.000,0,0,0,0,0,1,2,2,7,2.2,-14,Jeremy Lin
+2014-03-05,25-194,HOU,AWAY,ORL,W (+12),0,14:50,1,4,.250,0,0,,0,2,.000,1,1,2,3,0,0,2,1,2,-0.5,+5,Jeremy Lin
+2014-03-07,25-196,HOU,HOME,IND,W (+26),0,16:02,4,5,.800,1,2,.500,2,2,1.000,0,0,0,3,0,0,0,1,11,10.8,+11,Jeremy Lin
+2014-03-09,25-198,HOU,HOME,POR,W (+5),0,34:03,7,17,.412,2,7,.286,10,12,.833,1,2,3,1,2,0,0,2,26,19.3,+20,Jeremy Lin
+2014-03-11,25-200,HOU,AWAY,OKC,L (-8),0,23:41,3,6,.500,0,3,.000,2,2,1.000,0,4,4,2,1,0,3,2,8,4.8,-2,Jeremy Lin
+2014-03-13,25-202,HOU,AWAY,CHI,L (-24),0,23:53,7,13,.538,1,2,.500,6,6,1.000,1,1,2,3,0,0,0,1,21,17.4,+6,Jeremy Lin
+2014-03-16,25-205,HOU,AWAY,MIA,L (-9),0,25:34,2,7,.286,1,2,.500,1,1,1.000,0,1,1,2,1,0,3,4,6,0.0,-22,Jeremy Lin
+2014-03-17,25-206,HOU,HOME,UTA,W (+38),0,28:59,7,10,.700,1,2,.500,2,3,.667,1,3,4,9,0,2,5,2,17,15.9,+31,Jeremy Lin
+2014-03-20,25-209,HOU,HOME,MIN,W (+23),0,29:54,4,7,.571,1,3,.333,2,2,1.000,0,3,3,10,1,0,1,3,11,14.4,+17,Jeremy Lin
+2014-03-22,25-211,HOU,AWAY,CLE,W (+7),0,26:04,3,11,.273,1,5,.200,6,6,1.000,1,6,7,2,2,1,1,1,13,11.7,-9,Jeremy Lin
+2014-03-24,25-213,HOU,AWAY,CHA,W (+11),0,19:50,4,6,.667,2,2,1.000,0,2,.000,0,4,4,3,1,0,2,1,10,8.5,+6,Jeremy Lin
+2014-03-27,25-216,HOU,HOME,PHI,W (+22),0,27:06,4,9,.444,1,2,.500,4,4,1.000,0,1,1,7,0,0,2,4,13,9.9,+14,Jeremy Lin
+2014-03-29,25-218,HOU,HOME,LAC,L (-11),1,31:36,1,9,.111,0,3,.000,8,8,1.000,0,2,2,2,0,0,3,3,10,1.9,-8,Jeremy Lin
+2014-04-01,25-221,HOU,AWAY,BRK,L (-9),1,32:55,6,14,.429,2,4,.500,2,2,1.000,1,3,4,1,1,0,2,0,16,9.9,-14,Jeremy Lin
+2014-04-02,25-222,HOU,AWAY,TOR,L (-4),1,38:52,6,18,.333,3,7,.429,1,2,.500,1,0,1,7,2,1,2,4,16,10.1,+15,Jeremy Lin
+2014-04-04,25-224,HOU,HOME,OKC,W (+4),1,38:08,3,11,.273,2,6,.333,0,0,,2,1,3,3,0,0,1,4,8,2.7,+3,Jeremy Lin
+2014-04-06,25-226,HOU,HOME,DEN,W (+5),1,34:24,7,12,.583,1,4,.250,4,4,1.000,2,0,2,5,3,0,3,2,19,17.5,+9,Jeremy Lin
+2014-04-08,25-228,HOU,AWAY,LAL,W (+15),1,26:15,4,8,.500,1,2,.500,0,0,,2,2,4,6,3,1,3,4,9,10.3,+10,Jeremy Lin
+2014-04-09,25-229,HOU,AWAY,DEN,L (-7),1,23:31,6,11,.545,4,6,.667,2,2,1.000,1,0,1,6,0,0,2,4,18,14.0,-8,Jeremy Lin
+2014-04-11,25-231,HOU,AWAY,MIN,L (-2),1,24:26,3,10,.300,3,6,.500,5,6,.833,0,4,4,1,0,0,5,5,14,2.7,+2,Jeremy Lin
+2014-04-12,25-232,HOU,HOME,NOP,W (+7),0,31:14,6,8,.750,1,1,1.000,5,5,1.000,1,3,4,1,4,0,1,4,18,18.5,+2,Jeremy Lin
+2014-04-14,25-234,HOU,HOME,SAS,W (+6),0,19:05,2,7,.286,1,2,.500,0,0,,0,0,0,4,0,0,0,0,5,3.7,0,Jeremy Lin
+2014-04-16,25-236,HOU,AWAY,NOP,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jeremy Lin
+2013-11-01,23-042,HOU,HOME,DAL,W (+8),0,3:58,0,1,.000,0,0,,1,2,.500,0,0,0,0,0,0,0,0,1,-0.1,-9,Donatas Motiejūnas
+2013-11-04,23-045,HOU,AWAY,LAC,L (-19),0,4:38,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,0,Donatas Motiejūnas
+2013-11-16,23-057,HOU,HOME,DEN,W (+11),0,16:12,5,6,.833,1,1,1.000,1,2,.500,2,1,3,1,1,1,0,5,12,11.5,-6,Donatas Motiejūnas
+2013-11-19,23-060,HOU,HOME,BOS,W (+24),0,18:08,2,8,.250,0,4,.000,1,1,1.000,0,5,5,0,0,1,2,1,5,0.0,-3,Donatas Motiejūnas
+2013-11-23,23-064,HOU,HOME,MIN,W (+11),0,1:01,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Donatas Motiejūnas
+2013-11-27,23-068,HOU,HOME,ATL,W (+29),0,4:20,1,3,.333,0,0,,1,2,.500,0,1,1,0,0,0,0,0,3,1.2,+11,Donatas Motiejūnas
+2013-11-29,23-070,HOU,HOME,BRK,W (+19),0,7:17,2,5,.400,1,2,.500,0,0,,0,1,1,0,0,1,1,1,5,1.9,-7,Donatas Motiejūnas
+2013-12-04,23-075,HOU,HOME,PHO,L (-9),0,5:37,0,1,.000,0,0,,0,0,,1,0,1,0,0,0,1,0,0,-1.0,+4,Donatas Motiejūnas
+2013-12-06,23-077,HOU,HOME,GSW,W (+22),0,12:46,3,7,.429,0,3,.000,3,4,.750,2,1,3,0,0,0,0,1,9,6.2,0,Donatas Motiejūnas
+2013-12-08,23-079,HOU,HOME,ORL,W (+10),0,4:06,0,1,.000,0,1,.000,0,0,,0,2,2,0,0,0,1,2,0,-1.9,-5,Donatas Motiejūnas
+2013-12-13,23-084,HOU,AWAY,GSW,W (+4),0,8:54,0,3,.000,0,1,.000,2,4,.500,0,1,1,0,0,0,0,1,2,-1.0,-7,Donatas Motiejūnas
+2013-12-15,23-086,HOU,AWAY,SAC,L (-15),0,5:16,0,1,.000,0,1,.000,0,2,.000,0,2,2,0,0,0,0,1,0,-1.3,+1,Donatas Motiejūnas
+2013-12-20,23-091,HOU,AWAY,IND,L (-33),0,7:59,1,3,.333,0,0,,1,2,.500,0,1,1,0,0,0,0,0,3,1.2,-3,Donatas Motiejūnas
+2013-12-21,23-092,HOU,AWAY,DET,W (+17),0,0:04,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-3,Donatas Motiejūnas
+2013-12-26,23-097,HOU,HOME,MEM,W (+8),0,23:18,2,4,.500,0,1,.000,0,0,,1,2,3,1,0,3,0,5,4,4.1,+17,Donatas Motiejūnas
+2013-12-28,23-099,HOU,HOME,NOP,W (+9),0,3:50,0,1,.000,0,0,,0,0,,0,1,1,1,0,0,0,1,0,-0.1,-5,Donatas Motiejūnas
+2013-12-29,23-100,HOU,AWAY,OKC,L (-31),0,15:58,1,3,.333,0,1,.000,0,0,,0,2,2,0,0,0,0,1,2,0.5,-9,Donatas Motiejūnas
+2014-01-08,23-110,HOU,HOME,LAL,W (+14),0,10:23,2,7,.286,0,4,.000,2,2,1.000,2,3,5,1,0,1,0,1,6,5.2,-3,Donatas Motiejūnas
+2014-01-10,23-112,HOU,AWAY,ATL,L (-3),0,7:01,2,5,.400,0,1,.000,0,0,,1,4,5,1,0,0,2,2,4,1.1,-6,Donatas Motiejūnas
+2014-01-15,23-117,HOU,AWAY,NOP,W (+3),0,17:56,4,7,.571,0,1,.000,2,4,.500,1,4,5,0,0,1,0,5,10,6.5,-2,Donatas Motiejūnas
+2014-01-16,23-118,HOU,HOME,OKC,L (-12),0,23:57,6,9,.667,3,4,.750,0,0,,2,5,7,0,0,0,1,2,15,12.2,-3,Donatas Motiejūnas
+2014-01-18,23-120,HOU,HOME,MIL,W (+10),0,21:10,1,4,.250,0,2,.000,1,2,.500,0,3,3,2,2,0,1,5,3,1.5,+1,Donatas Motiejūnas
+2014-01-20,23-122,HOU,HOME,POR,W (+13),1,21:46,4,8,.500,1,2,.500,0,0,,4,5,9,2,1,1,0,6,9,10.0,+2,Donatas Motiejūnas
+2014-01-22,23-124,HOU,HOME,SAC,W (+21),1,29:01,2,6,.333,0,1,.000,2,3,.667,1,8,9,2,0,1,1,6,6,4.0,+17,Donatas Motiejūnas
+2014-01-24,23-126,HOU,HOME,MEM,L (-1),0,20:06,3,7,.429,0,2,.000,0,2,.000,2,2,4,0,2,0,2,1,6,3.1,-7,Donatas Motiejūnas
+2014-01-25,23-127,HOU,AWAY,MEM,L (-18),0,11:35,0,1,.000,0,1,.000,0,0,,0,2,2,0,0,1,2,2,0,-2.2,-9,Donatas Motiejūnas
+2014-01-28,23-130,HOU,HOME,SAS,W (+7),0,17:54,2,3,.667,1,2,.500,0,0,,0,6,6,1,1,0,0,2,5,6.4,+12,Donatas Motiejūnas
+2014-01-29,23-131,HOU,AWAY,DAL,W (+2),0,25:46,4,5,.800,0,0,,4,6,.667,4,9,13,0,0,0,1,4,12,12.2,+5,Donatas Motiejūnas
+2014-02-01,23-134,HOU,HOME,CLE,W (+14),0,25:19,2,7,.286,0,2,.000,0,0,,2,2,4,1,0,1,1,2,4,1.5,+15,Donatas Motiejūnas
+2014-02-05,23-138,HOU,HOME,PHO,W (+14),0,16:38,1,5,.200,0,1,.000,3,3,1.000,0,1,1,0,0,0,1,3,5,0.0,-6,Donatas Motiejūnas
+2014-02-08,23-141,HOU,AWAY,MIL,W (+6),0,24:47,4,5,.800,0,0,,1,2,.500,0,1,1,0,1,0,1,3,9,5.8,+12,Donatas Motiejūnas
+2014-02-10,23-143,HOU,AWAY,MIN,W (+18),0,17:21,3,5,.600,2,2,1.000,1,1,1.000,1,4,5,1,1,0,0,2,9,9.5,+13,Donatas Motiejūnas
+2014-02-12,23-145,HOU,HOME,WAS,W (+1),0,17:25,3,4,.750,1,2,.500,4,6,.667,2,2,4,0,0,1,1,1,11,9.9,-4,Donatas Motiejūnas
+2014-02-19,23-152,HOU,AWAY,LAL,W (+26),0,18:50,5,11,.455,2,4,.500,0,1,.000,2,3,5,1,2,1,1,0,12,10.6,+13,Donatas Motiejūnas
+2014-02-20,23-153,HOU,AWAY,GSW,L (-3),0,12:07,2,5,.400,1,2,.500,0,0,,0,2,2,1,0,0,0,1,5,3.2,+3,Donatas Motiejūnas
+2014-02-23,23-156,HOU,AWAY,PHO,W (+3),0,23:39,2,4,.500,0,1,.000,3,4,.750,1,4,5,0,0,0,1,4,7,3.9,+9,Donatas Motiejūnas
+2014-02-25,23-158,HOU,AWAY,SAC,W (+26),0,19:04,1,1,1.000,1,1,1.000,2,2,1.000,1,0,1,3,0,1,2,6,5,3.8,+20,Donatas Motiejūnas
+2014-02-26,23-159,HOU,AWAY,LAC,L (-8),0,22:19,2,6,.333,0,2,.000,4,4,1.000,0,4,4,2,0,0,0,1,8,6.8,+11,Donatas Motiejūnas
+2014-03-01,23-162,HOU,HOME,DET,W (+8),0,15:48,3,7,.429,1,4,.250,0,0,,0,2,2,1,0,0,0,1,7,4.2,-4,Donatas Motiejūnas
+2014-03-04,23-165,HOU,HOME,MIA,W (+3),0,13:10,0,5,.000,0,2,.000,1,2,.500,0,1,1,0,0,0,1,3,1,-4.8,-14,Donatas Motiejūnas
+2014-03-05,23-166,HOU,AWAY,ORL,W (+12),0,9:49,2,3,.667,0,0,,0,0,,0,2,2,1,1,0,3,1,4,1.6,-4,Donatas Motiejūnas
+2014-03-07,23-168,HOU,HOME,IND,W (+26),0,23:22,3,5,.600,2,3,.667,2,2,1.000,1,1,2,1,0,0,0,1,10,9.0,+15,Donatas Motiejūnas
+2014-03-09,23-170,HOU,HOME,POR,W (+5),0,8:03,0,1,.000,0,0,,0,0,,0,3,3,0,0,0,1,1,0,-1.2,+4,Donatas Motiejūnas
+2014-03-11,23-172,HOU,AWAY,OKC,L (-8),0,7:43,0,1,.000,0,0,,3,6,.500,1,0,1,0,0,0,0,1,3,1.4,-3,Donatas Motiejūnas
+2014-03-13,23-174,HOU,AWAY,CHI,L (-24),0,17:11,1,5,.200,0,2,.000,0,2,.000,1,4,5,1,0,0,0,2,2,-0.1,0,Donatas Motiejūnas
+2014-03-16,23-177,HOU,AWAY,MIA,L (-9),0,17:12,3,5,.600,1,2,.500,0,0,,1,3,4,0,0,0,1,2,7,4.5,+3,Donatas Motiejūnas
+2014-03-17,23-178,HOU,HOME,UTA,W (+38),0,27:39,3,7,.429,1,3,.333,0,2,.000,1,10,11,3,2,1,5,6,7,3.6,+23,Donatas Motiejūnas
+2014-03-20,23-181,HOU,HOME,MIN,W (+23),0,25:47,9,11,.818,1,2,.500,1,1,1.000,3,3,6,0,1,0,1,1,20,18.5,+19,Donatas Motiejūnas
+2014-03-22,23-183,HOU,AWAY,CLE,W (+7),0,18:55,5,5,1.000,0,0,,1,1,1.000,0,0,0,0,1,0,1,4,11,7.9,0,Donatas Motiejūnas
+2014-03-24,23-185,HOU,AWAY,CHA,W (+11),0,16:25,2,5,.400,0,1,.000,0,0,,0,4,4,2,0,0,0,2,4,3.1,+16,Donatas Motiejūnas
+2014-03-27,23-188,HOU,HOME,PHI,W (+22),0,18:24,3,7,.429,0,2,.000,0,0,,2,2,4,0,2,0,2,5,6,2.3,-9,Donatas Motiejūnas
+2014-03-29,23-190,HOU,HOME,LAC,L (-11),0,26:55,3,8,.375,0,0,,0,1,.000,1,6,7,1,0,2,1,3,6,3.6,+3,Donatas Motiejūnas
+2014-04-01,23-193,HOU,AWAY,BRK,L (-9),1,8:26,0,2,.000,0,0,,0,0,,1,1,2,0,0,0,0,4,0,-2.0,-6,Donatas Motiejūnas
+2014-04-02,23-194,HOU,AWAY,TOR,L (-4),0,22:41,6,11,.545,0,3,.000,1,1,1.000,3,2,5,1,0,0,3,5,13,6.1,+2,Donatas Motiejūnas
+2014-04-04,23-196,HOU,HOME,OKC,W (+4),0,5:34,2,2,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,4,3.7,+1,Donatas Motiejūnas
+2014-04-06,23-198,HOU,HOME,DEN,W (+5),0,16:29,0,3,.000,0,0,,0,2,.000,1,2,3,1,1,1,0,2,0,0.0,-9,Donatas Motiejūnas
+2014-04-08,23-200,HOU,AWAY,LAL,W (+15),0,23:30,5,11,.455,0,2,.000,3,5,.600,4,11,15,0,0,1,1,1,13,11.9,-11,Donatas Motiejūnas
+2014-04-09,23-201,HOU,AWAY,DEN,L (-7),0,29:50,4,9,.444,0,1,.000,3,4,.750,0,4,4,1,0,1,1,1,11,7.1,-6,Donatas Motiejūnas
+2014-04-11,23-203,HOU,AWAY,MIN,L (-2),0,13:27,2,5,.400,0,0,,0,2,.000,1,3,4,0,0,0,1,5,4,-0.9,-12,Donatas Motiejūnas
+2014-04-12,23-204,HOU,HOME,NOP,W (+7),0,13:04,0,2,.000,0,1,.000,0,0,,0,2,2,0,0,0,1,0,0,-1.8,-3,Donatas Motiejūnas
+2014-04-14,23-206,HOU,HOME,SAS,W (+6),0,8:23,0,4,.000,0,2,.000,0,0,,0,1,1,0,0,0,0,1,0,-2.9,-10,Donatas Motiejūnas
+2014-04-16,23-208,HOU,AWAY,NOP,L (-5),0,16:59,3,9,.333,1,1,1.000,4,4,1.000,7,3,10,0,1,0,3,1,11,9.3,-12,Donatas Motiejūnas
+2013-10-30,25-005,HOU,HOME,CHA,W (+13),1,39:28,4,11,.364,0,3,.000,2,4,.500,0,5,5,3,1,1,0,2,10,7.6,+5,Chandler Parsons
+2013-11-01,25-007,HOU,HOME,DAL,W (+8),1,35:22,3,8,.375,0,5,.000,3,6,.500,2,5,7,2,1,0,3,1,9,5.3,+8,Chandler Parsons
+2013-11-02,25-008,HOU,AWAY,UTA,W (+11),1,42:17,8,14,.571,2,4,.500,6,6,1.000,2,10,12,6,0,1,4,5,24,20.7,+11,Chandler Parsons
+2013-11-04,25-010,HOU,AWAY,LAC,L (-19),1,35:51,6,13,.462,1,3,.333,1,2,.500,0,2,2,4,2,1,3,1,14,9.6,-25,Chandler Parsons
+2013-11-05,25-011,HOU,AWAY,POR,W (+15),1,32:53,4,11,.364,0,3,.000,1,1,1.000,0,6,6,1,2,0,1,4,9,4.8,+15,Chandler Parsons
+2013-11-07,25-013,HOU,HOME,LAL,L (-1),1,36:44,6,11,.545,1,3,.333,3,4,.750,0,3,3,1,1,0,1,1,16,11.5,-3,Chandler Parsons
+2013-11-09,25-015,HOU,HOME,LAC,L (-13),1,37:39,9,15,.600,2,5,.400,3,3,1.000,0,8,8,3,1,0,3,4,23,17.0,-21,Chandler Parsons
+2013-11-11,25-017,HOU,HOME,TOR,W (+6),1,49:57,7,16,.438,1,5,.200,3,3,1.000,0,5,5,5,1,1,2,6,18,11.9,-1,Chandler Parsons
+2013-11-13,25-019,HOU,AWAY,PHI,L (-6),1,42:32,9,19,.474,1,5,.200,3,6,.500,3,3,6,7,0,4,5,4,22,15.2,+2,Chandler Parsons
+2013-11-14,25-020,HOU,AWAY,NYK,W (+3),1,36:37,7,11,.636,2,5,.400,6,6,1.000,0,2,2,2,2,0,0,2,22,20.3,-6,Chandler Parsons
+2013-11-16,25-022,HOU,HOME,DEN,W (+11),1,34:04,8,13,.615,1,2,.500,3,3,1.000,2,4,6,3,1,0,3,0,20,16.8,+9,Chandler Parsons
+2013-11-19,25-025,HOU,HOME,BOS,W (+24),1,29:52,4,8,.500,1,3,.333,2,3,.667,0,1,1,6,0,1,0,1,11,11.4,+27,Chandler Parsons
+2013-11-20,25-026,HOU,AWAY,DAL,L (-3),1,37:51,7,10,.700,4,5,.800,3,4,.750,1,4,5,11,4,0,2,3,21,26.8,+5,Chandler Parsons
+2013-11-23,25-029,HOU,HOME,MIN,W (+11),1,36:45,6,14,.429,1,4,.250,1,2,.500,0,6,6,4,0,1,3,0,14,8.5,+10,Chandler Parsons
+2013-11-25,25-031,HOU,AWAY,MEM,W (+7),1,36:36,8,9,.889,1,2,.500,0,0,,0,3,3,1,0,0,3,2,17,11.7,+4,Chandler Parsons
+2013-11-27,25-033,HOU,HOME,ATL,W (+29),1,37:25,6,11,.545,2,6,.333,0,0,,0,5,5,4,0,0,2,2,14,10.2,+21,Chandler Parsons
+2013-11-29,25-035,HOU,HOME,BRK,W (+19),1,26:48,7,7,1.000,6,6,1.000,1,2,.500,0,6,6,3,2,0,1,1,21,23.0,+30,Chandler Parsons
+2013-11-30,25-036,HOU,AWAY,SAS,W (+6),1,40:29,9,21,.429,4,8,.500,3,4,.750,0,3,3,5,2,1,3,3,25,16.4,+5,Chandler Parsons
+2013-12-02,25-038,HOU,AWAY,UTA,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chandler Parsons
+2013-12-04,25-040,HOU,HOME,PHO,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chandler Parsons
+2013-12-06,25-042,HOU,HOME,GSW,W (+22),1,34:15,3,13,.231,2,5,.400,0,0,,1,3,4,5,3,0,2,5,8,4.2,+6,Chandler Parsons
+2013-12-08,25-044,HOU,HOME,ORL,W (+10),1,38:31,7,12,.583,3,6,.500,1,5,.200,0,4,4,4,0,0,3,3,18,10.6,+11,Chandler Parsons
+2013-12-12,25-048,HOU,AWAY,POR,L (-7),1,37:57,6,18,.333,2,4,.500,0,0,,2,3,5,2,0,0,0,3,14,6.3,-5,Chandler Parsons
+2013-12-13,25-049,HOU,AWAY,GSW,W (+4),1,32:59,9,14,.643,2,4,.500,3,3,1.000,0,1,1,3,3,1,2,3,23,19.7,0,Chandler Parsons
+2013-12-15,25-051,HOU,AWAY,SAC,L (-15),1,40:54,7,15,.467,0,2,.000,5,6,.833,4,3,7,5,2,1,3,4,19,16.2,-12,Chandler Parsons
+2013-12-18,25-054,HOU,HOME,CHI,W (+15),1,35:41,8,14,.571,3,4,.750,0,1,.000,2,7,9,3,0,1,2,2,19,15.5,+7,Chandler Parsons
+2013-12-20,25-056,HOU,AWAY,IND,L (-33),1,33:29,6,8,.750,0,1,.000,2,6,.333,2,1,3,2,2,1,1,3,14,12.8,-23,Chandler Parsons
+2013-12-21,25-057,HOU,AWAY,DET,W (+17),1,43:15,9,15,.600,1,4,.250,1,1,1.000,0,7,7,3,1,0,2,2,20,15.5,+20,Chandler Parsons
+2013-12-23,25-059,HOU,HOME,DAL,L (-7),1,43:35,8,15,.533,1,4,.250,4,4,1.000,0,5,5,2,1,0,4,2,21,12.8,-2,Chandler Parsons
+2013-12-25,25-061,HOU,AWAY,SAS,W (+13),1,39:50,8,14,.571,5,9,.556,0,0,,0,6,6,6,0,0,1,2,21,18.6,+20,Chandler Parsons
+2013-12-26,25-062,HOU,HOME,MEM,W (+8),1,43:51,5,12,.417,0,4,.000,5,6,.833,0,11,11,5,1,0,2,1,15,13.6,+13,Chandler Parsons
+2013-12-28,25-064,HOU,HOME,NOP,W (+9),1,40:07,6,10,.600,1,2,.500,6,6,1.000,1,6,7,4,2,0,0,0,19,21.7,+15,Chandler Parsons
+2013-12-29,25-065,HOU,AWAY,OKC,L (-31),1,33:30,5,12,.417,2,6,.333,3,3,1.000,1,1,2,1,0,0,0,1,15,9.9,-23,Chandler Parsons
+2013-12-31,25-067,HOU,HOME,SAC,L (-4),1,40:09,5,11,.455,1,7,.143,2,6,.333,1,4,5,1,1,1,3,4,13,5.4,+2,Chandler Parsons
+2014-01-03,25-070,HOU,HOME,NYK,W (+2),1,44:21,6,13,.462,1,5,.200,4,5,.800,1,10,11,2,3,0,2,2,17,15.2,-3,Chandler Parsons
+2014-01-08,25-075,HOU,HOME,LAL,W (+14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chandler Parsons
+2014-01-10,25-077,HOU,AWAY,ATL,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chandler Parsons
+2014-01-11,25-078,HOU,AWAY,WAS,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chandler Parsons
+2014-01-13,25-080,HOU,AWAY,BOS,W (+12),1,39:07,5,13,.385,2,3,.667,2,2,1.000,0,7,7,4,1,0,1,3,14,10.6,+14,Chandler Parsons
+2014-01-15,25-082,HOU,AWAY,NOP,W (+3),1,45:08,6,15,.400,2,4,.500,3,4,.750,0,8,8,4,3,1,3,1,17,14.0,+10,Chandler Parsons
+2014-01-16,25-083,HOU,HOME,OKC,L (-12),1,42:45,4,13,.308,3,9,.333,3,6,.500,0,4,4,2,1,0,4,5,14,2.9,-19,Chandler Parsons
+2014-01-18,25-085,HOU,HOME,MIL,W (+10),1,36:59,3,10,.300,1,5,.200,1,2,.500,1,7,8,2,1,1,3,1,8,4.3,+3,Chandler Parsons
+2014-01-20,25-087,HOU,HOME,POR,W (+13),1,42:13,12,19,.632,3,5,.600,4,4,1.000,2,8,10,7,0,2,1,1,31,31.2,+10,Chandler Parsons
+2014-01-22,25-089,HOU,HOME,SAC,W (+21),1,34:53,7,15,.467,3,7,.429,2,2,1.000,4,6,10,4,0,0,2,0,19,16.7,+15,Chandler Parsons
+2014-01-24,25-091,HOU,HOME,MEM,L (-1),1,43:01,11,17,.647,10,14,.714,2,2,1.000,2,2,4,1,0,0,2,3,34,26.0,-6,Chandler Parsons
+2014-01-25,25-092,HOU,AWAY,MEM,L (-18),1,36:14,5,16,.313,1,6,.167,0,0,,1,4,5,2,1,0,1,1,11,4.7,-17,Chandler Parsons
+2014-01-28,25-095,HOU,HOME,SAS,W (+7),1,37:13,3,11,.273,0,2,.000,0,0,,2,4,6,4,0,0,0,2,6,4.1,+4,Chandler Parsons
+2014-01-29,25-096,HOU,AWAY,DAL,W (+2),1,38:39,9,17,.529,2,6,.333,6,9,.667,1,3,4,5,1,0,2,5,26,18.6,+1,Chandler Parsons
+2014-02-01,25-099,HOU,HOME,CLE,W (+14),1,19:22,3,7,.429,1,4,.250,0,0,,0,0,0,0,0,0,2,0,7,1.3,-5,Chandler Parsons
+2014-02-05,25-103,HOU,HOME,PHO,W (+14),1,41:02,8,12,.667,3,3,1.000,0,0,,1,6,7,6,2,0,0,1,19,22.1,+15,Chandler Parsons
+2014-02-08,25-106,HOU,AWAY,MIL,W (+6),1,35:26,3,8,.375,2,5,.400,0,0,,1,2,3,4,2,0,2,1,8,7.3,-2,Chandler Parsons
+2014-02-10,25-108,HOU,AWAY,MIN,W (+18),1,29:53,9,14,.643,0,2,.000,2,2,1.000,0,3,3,6,1,0,1,4,20,17.3,+17,Chandler Parsons
+2014-02-12,25-110,HOU,HOME,WAS,W (+1),1,37:18,7,15,.467,2,4,.500,2,4,.500,5,7,12,6,1,0,2,3,18,17.1,+16,Chandler Parsons
+2014-02-19,25-117,HOU,AWAY,LAL,W (+26),1,30:58,8,14,.571,2,3,.667,0,0,,1,4,5,2,2,0,2,1,18,14.3,+28,Chandler Parsons
+2014-02-20,25-118,HOU,AWAY,GSW,L (-3),1,46:30,8,24,.333,3,10,.300,2,3,.667,2,6,8,5,1,1,3,2,21,11.6,0,Chandler Parsons
+2014-02-23,25-121,HOU,AWAY,PHO,W (+3),1,39:25,5,12,.417,1,4,.250,2,2,1.000,1,5,6,7,2,0,2,1,13,13.3,+4,Chandler Parsons
+2014-02-25,25-123,HOU,AWAY,SAC,W (+26),1,29:44,3,8,.375,1,3,.333,3,3,1.000,0,8,8,4,0,0,3,2,10,7.0,+17,Chandler Parsons
+2014-02-26,25-124,HOU,AWAY,LAC,L (-8),1,31:30,3,13,.231,1,5,.200,0,0,,1,4,5,3,1,0,2,1,7,1.7,-21,Chandler Parsons
+2014-03-01,25-127,HOU,HOME,DET,W (+8),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Chandler Parsons
+2014-03-04,25-130,HOU,HOME,MIA,W (+3),1,38:20,5,10,.500,0,3,.000,0,0,,1,3,4,8,0,0,3,2,10,8.4,+10,Chandler Parsons
+2014-03-05,25-131,HOU,AWAY,ORL,W (+12),1,40:39,8,20,.400,2,6,.333,1,3,.333,2,4,6,7,1,0,2,2,19,13.1,+9,Chandler Parsons
+2014-03-07,25-133,HOU,HOME,IND,W (+26),1,35:10,4,12,.333,1,4,.250,2,2,1.000,2,3,5,6,0,0,1,1,11,9.3,+17,Chandler Parsons
+2014-03-09,25-135,HOU,HOME,POR,W (+5),1,48:59,7,15,.467,0,3,.000,2,2,1.000,1,6,7,3,2,1,1,5,16,12.6,+9,Chandler Parsons
+2014-03-11,25-137,HOU,AWAY,OKC,L (-8),1,45:54,6,17,.353,3,7,.429,4,4,1.000,1,5,6,4,2,0,2,2,19,13.7,-11,Chandler Parsons
+2014-03-13,25-139,HOU,AWAY,CHI,L (-24),1,25:48,1,11,.091,0,2,.000,0,0,,1,1,2,1,0,0,3,3,2,-7.8,-20,Chandler Parsons
+2014-03-16,25-142,HOU,AWAY,MIA,L (-9),1,37:54,4,9,.444,0,1,.000,1,2,.500,0,1,1,5,4,0,2,2,9,8.9,0,Chandler Parsons
+2014-03-17,25-143,HOU,HOME,UTA,W (+38),1,28:51,3,5,.600,0,2,.000,0,0,,0,2,2,7,1,2,1,3,6,9.4,+15,Chandler Parsons
+2014-03-20,25-146,HOU,HOME,MIN,W (+23),1,33:49,8,15,.533,2,5,.400,1,1,1.000,0,9,9,5,2,0,2,1,19,17.5,+15,Chandler Parsons
+2014-03-22,25-148,HOU,AWAY,CLE,W (+7),1,38:25,7,17,.412,2,7,.286,0,0,,0,4,4,6,0,2,1,1,16,12.3,+23,Chandler Parsons
+2014-03-24,25-150,HOU,AWAY,CHA,W (+11),1,38:03,3,11,.273,2,4,.500,3,4,.750,1,3,4,4,0,1,2,2,11,6.4,+2,Chandler Parsons
+2014-03-27,25-153,HOU,HOME,PHI,W (+22),1,39:10,7,14,.500,2,4,.500,0,0,,0,5,5,7,2,0,2,2,16,14.6,+36,Chandler Parsons
+2014-03-29,25-155,HOU,HOME,LAC,L (-11),1,46:01,9,19,.474,1,5,.200,9,11,.818,1,8,9,2,1,0,2,3,28,19.8,-13,Chandler Parsons
+2014-04-01,25-158,HOU,AWAY,BRK,L (-9),1,41:17,7,15,.467,2,7,.286,0,2,.000,0,8,8,4,1,0,2,2,16,10.9,-9,Chandler Parsons
+2014-04-02,25-159,HOU,AWAY,TOR,L (-4),1,35:38,8,16,.500,1,3,.333,3,3,1.000,1,6,7,3,2,0,4,4,20,13.0,-10,Chandler Parsons
+2014-04-04,25-161,HOU,HOME,OKC,W (+4),1,41:07,5,17,.294,3,9,.333,10,11,.909,1,5,6,3,2,0,1,4,23,16.4,-2,Chandler Parsons
+2014-04-06,25-163,HOU,HOME,DEN,W (+5),1,42:14,5,11,.455,2,6,.333,3,5,.600,2,1,3,3,2,1,3,3,15,10.8,+22,Chandler Parsons
+2014-04-08,25-165,HOU,AWAY,LAL,W (+15),1,31:34,8,13,.615,2,6,.333,1,2,.500,1,2,3,8,2,1,1,2,19,20.5,+24,Chandler Parsons
+2014-04-09,25-166,HOU,AWAY,DEN,L (-7),1,22:35,5,13,.385,2,4,.500,4,4,1.000,1,2,3,4,1,0,2,4,16,10.4,-11,Chandler Parsons
+2014-04-11,25-168,HOU,AWAY,MIN,L (-2),1,42:38,11,19,.579,4,8,.500,1,2,.500,2,5,7,7,4,0,3,2,27,25.7,-7,Chandler Parsons
+2014-04-12,25-169,HOU,HOME,NOP,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chandler Parsons
+2014-04-14,25-171,HOU,HOME,SAS,W (+6),1,39:37,7,17,.412,2,7,.286,5,7,.714,1,6,7,4,0,0,0,1,21,16.0,+16,Chandler Parsons
+2014-04-16,25-173,HOU,AWAY,NOP,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chandler Parsons
+2014-04-16,31-081,HOU,AWAY,NOP,L (-5),0,19:22,2,6,0.333,0,0,,0,0,,0,5,5,0,0,1,1,1,4,1.4,-7,Josh Powell
+2013-11-01,22-297,HOU,HOME,DAL,W (+8),0,3:58,0,1,.000,0,0,,0,0,,1,0,1,0,0,0,1,0,0,-1.0,-9,Greg Smith
+2013-11-04,22-300,HOU,AWAY,LAC,L (-19),0,11:03,6,6,1.000,0,0,,0,1,.000,5,2,7,0,0,0,1,1,12,12.5,+6,Greg Smith
+2013-11-05,22-301,HOU,AWAY,POR,W (+15),0,1:01,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+1,Greg Smith
+2013-11-14,22-310,HOU,AWAY,NYK,W (+3),0,0:40,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1,Greg Smith
+2013-11-19,22-315,HOU,HOME,BOS,W (+24),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2013-11-23,22-319,HOU,HOME,MIN,W (+11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2013-11-25,22-321,HOU,AWAY,MEM,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2013-11-27,22-323,HOU,HOME,ATL,W (+29),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2013-11-29,22-325,HOU,HOME,BRK,W (+19),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2013-11-30,22-326,HOU,AWAY,SAS,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2013-12-02,22-328,HOU,AWAY,UTA,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2013-12-04,22-330,HOU,HOME,PHO,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2013-12-06,22-332,HOU,HOME,GSW,W (+22),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2013-12-08,22-334,HOU,HOME,ORL,W (+10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2013-12-15,22-341,HOU,AWAY,SAC,L (-15),0,20:27,3,5,.600,0,0,,0,0,,2,7,9,0,0,1,1,6,6,4.5,-7,Greg Smith
+2013-12-18,22-344,HOU,HOME,CHI,W (+15),0,13:31,2,3,.667,0,0,,0,0,,1,1,2,0,0,0,1,3,4,1.5,-4,Greg Smith
+2013-12-20,22-346,HOU,AWAY,IND,L (-33),0,12:05,3,6,.500,0,0,,0,0,,1,1,2,0,1,0,0,3,6,3.8,-7,Greg Smith
+2013-12-21,22-347,HOU,AWAY,DET,W (+17),0,4:09,1,3,.333,0,0,,0,0,,0,0,0,0,0,0,0,1,2,-0.1,+9,Greg Smith
+2013-12-23,22-349,HOU,HOME,DAL,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2013-12-25,22-351,HOU,AWAY,SAS,W (+13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2013-12-26,22-352,HOU,HOME,MEM,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2013-12-28,22-354,HOU,HOME,NOP,W (+9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2013-12-29,22-355,HOU,AWAY,OKC,L (-31),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2013-12-31,22-357,HOU,HOME,SAC,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2014-01-03,22-360,HOU,HOME,NYK,W (+2),0,9:32,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+10,Greg Smith
+2014-01-08,23-000,HOU,HOME,LAL,W (+14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2014-01-10,23-002,HOU,AWAY,ATL,L (-3),0,10:27,2,2,1.000,0,0,,0,0,,1,2,3,0,0,0,0,0,4,4.7,-10,Greg Smith
+2014-01-11,23-003,HOU,AWAY,WAS,W (+7),0,13:23,1,2,.500,0,0,,2,4,.500,0,1,1,0,0,1,1,3,4,1.0,-6,Greg Smith
+2014-01-16,23-008,HOU,HOME,OKC,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2014-01-18,23-010,HOU,HOME,MIL,W (+10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2014-01-20,23-012,HOU,HOME,POR,W (+13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2014-01-22,23-014,HOU,HOME,SAC,W (+21),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2014-01-24,23-016,HOU,HOME,MEM,L (-1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2014-01-25,23-017,HOU,AWAY,MEM,L (-18),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2014-01-28,23-020,HOU,HOME,SAS,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2014-01-29,23-021,HOU,AWAY,DAL,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2014-02-01,23-024,HOU,HOME,CLE,W (+14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2014-02-05,23-028,HOU,HOME,PHO,W (+14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2014-02-08,23-031,HOU,AWAY,MIL,W (+6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Greg Smith
+2014-02-25,23-048,HOU,AWAY,SAC,W (+26),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Greg Smith
+2014-02-26,23-049,HOU,AWAY,LAC,L (-8),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Greg Smith
+2014-03-01,23-052,HOU,HOME,DET,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2014-03-11,23-062,HOU,AWAY,OKC,L (-8),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Greg Smith
+2014-03-13,23-064,HOU,AWAY,CHI,L (-24),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Greg Smith
+2014-03-16,23-067,HOU,AWAY,MIA,L (-9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Greg Smith
+2014-03-17,23-068,HOU,HOME,UTA,W (+38),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2014-03-20,23-071,HOU,HOME,MIN,W (+23),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2014-03-22,23-073,HOU,AWAY,CLE,W (+7),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Greg Smith
+2014-03-24,23-075,HOU,AWAY,CHA,W (+11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2014-03-27,23-078,HOU,HOME,PHI,W (+22),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2014-03-29,23-080,HOU,HOME,LAC,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2014-04-01,23-083,HOU,AWAY,BRK,L (-9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Greg Smith
+2014-04-02,23-084,HOU,AWAY,TOR,L (-4),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Greg Smith
+2014-04-04,23-086,HOU,HOME,OKC,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2014-04-06,23-088,HOU,HOME,DEN,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Smith
+2014-04-08,23-090,HOU,AWAY,LAL,W (+15),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Greg Smith

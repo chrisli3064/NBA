@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Courtney Alexander,1977-04-27
+Kenny Anderson,1970-10-09
+Stacey Augmon,1968-08-01
+P.J. Brown,1969-10-14
+Elden Campbell,1968-07-23
+Baron Davis,1979-04-13
+Bryce Drew,1974-09-21
+Kirk Haston,1979-03-10
+Randy Livingston,1975-04-02
+George Lynch,1970-09-03
+Jamaal Magloire,1978-05-21
+Jamal Mashburn,1972-11-29
+Jérôme Moïso,1978-06-15
+Robert Pack,1969-02-03
+Robert Traylor,1977-02-01
+David Wesley,1970-11-14

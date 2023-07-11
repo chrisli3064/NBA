@@ -1,0 +1,20 @@
+PLAYER,BIRTH_DATE
+Raja Bell,1976-09-19
+Rodney Buford,1977-11-02
+Matt Geiger,1969-09-10
+Tyrone Hill,1968-03-19
+Allen Iverson,1975-06-07
+Jumaine Jones,1979-02-10
+Toni Kukoč,1968-09-18
+George Lynch,1970-09-03
+Todd MacCulloch,1976-01-27
+Vernon Maxwell,1965-09-12
+Aaron McKie,1972-10-02
+Roshown McLeod,1975-11-17
+Anthony Miller,1971-10-22
+Nazr Mohammed,1977-09-05
+Dikembe Mutombo,1966-06-25
+Kevin Ollie,1972-12-27
+Theo Ratliff,1973-04-17
+Pepe Sánchez,1977-05-08
+Eric Snow,1973-04-24

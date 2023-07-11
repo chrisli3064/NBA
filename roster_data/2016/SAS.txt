@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+LaMarcus Aldridge,1985-07-19
+Kyle Anderson,1993-09-20
+Matt Bonner,1980-04-05
+Rasual Butler,1979-05-23
+Boris Diaw,1982-04-16
+Tim Duncan,1976-04-25
+Manu Ginóbili,1977-07-28
+Danny Green,1987-06-22
+Kawhi Leonard,1991-06-29
+Boban Marjanović,1988-08-15
+Kevin Martin,1983-02-01
+Ray McCallum,1991-06-12
+Andre Miller,1976-03-19
+Patty Mills,1988-08-11
+Tony Parker,1982-05-17
+Jonathon Simmons,1989-09-14
+David West,1980-08-29

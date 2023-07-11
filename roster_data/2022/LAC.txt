@@ -1,0 +1,24 @@
+PLAYER,BIRTH_DATE
+Nicolas Batum,1988-12-14
+Eric Bledsoe,1989-12-09
+Brandon Boston Jr.,2001-11-28
+Amir Coffey,1997-06-17
+Robert Covington,1990-12-14
+James Ennis III,1990-07-01
+Wenyen Gabriel,1997-03-26
+Paul George,1990-05-02
+Isaiah Hartenstein,1998-05-05
+Rodney Hood,1992-10-20
+Serge Ibaka,1989-09-18
+Reggie Jackson,1990-04-16
+Keon Johnson,2002-03-10
+Luke Kennard,1996-06-24
+Terance Mann,1996-10-18
+Xavier Moon,1995-01-02
+Marcus Morris,1989-09-02
+Semi Ojeleye,1994-12-05
+Norman Powell,1993-05-25
+Jay Scrubb,2000-09-01
+Justise Winslow,1996-03-26
+Moses Wright,1998-12-23
+Ivica Zubac,1997-03-18

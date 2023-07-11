@@ -1,0 +1,24 @@
+PLAYER,BIRTH_DATE
+Tony Bradley,1998-01-08
+Ignas Brazdeikis,1999-01-08
+Gary Clark,1994-11-16
+Seth Curry,1990-08-23
+Joel Embiid,1994-03-16
+Terrance Ferguson,1998-05-17
+Danny Green,1987-06-22
+Tobias Harris,1992-07-15
+George Hill,1986-05-04
+Dwight Howard,1985-12-08
+Isaiah Joe,1999-07-02
+Mason Jones,1998-07-21
+Furkan Korkmaz,1997-07-24
+Dakota Mathias,1995-07-11
+Tyrese Maxey,2000-11-04
+Shake Milton,1996-09-26
+Vincent Poirier,1993-10-17
+Paul Reed,1999-06-14
+Mike Scott,1988-07-16
+Ben Simmons,1996-07-20
+Matisse Thybulle,1997-03-04
+Anthony Tolliver,1985-06-01
+Rayjon Tucker,1997-09-24

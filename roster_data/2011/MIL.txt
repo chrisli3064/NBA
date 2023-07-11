@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Earl Barron,1981-08-14
+Andrew Bogut,1984-11-28
+Earl Boykins,1976-06-02
+Jon Brockman,1987-03-20
+Carlos Delfino,1982-08-29
+Keyon Dooling,1980-05-08
+Chris Douglas-Roberts,1987-01-08
+Drew Gooden,1981-09-24
+Ersan İlyasova,1987-05-15
+Brandon Jennings,1989-09-23
+Corey Maggette,1979-11-12
+Luc Mbah a Moute,1986-09-09
+Michael Redd,1979-08-24
+John Salmons,1979-12-12
+Larry Sanders,1988-11-21
+Brian Skinner,1976-05-19
+Garrett Temple,1986-05-08

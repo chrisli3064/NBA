@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Kobe Bryant,1978-08-23
+Joe Crispin,1979-07-18
+Derek Fisher,1974-08-09
+Rick Fox,1969-07-24
+Devean George,1977-08-29
+Robert Horry,1970-08-25
+Lindsey Hunter,1970-12-03
+Mark Madsen,1976-01-28
+Jelani McCoy,1977-12-06
+Stanislav Medvedenko,1979-04-04
+Shaquille O'Neal,1972-03-06
+Mike Penberthy,1974-11-29
+Mitch Richmond,1965-06-30
+Brian Shaw,1966-03-22
+Samaki Walker,1976-02-25

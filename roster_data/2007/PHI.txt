@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+Lou Amundson,1982-12-07
+Rodney Carney,1984-04-15
+Samuel Dalembert,1981-05-10
+Willie Green,1981-07-28
+Alan Henderson,1972-12-02
+Steven Hunter,1981-10-31
+Andre Iguodala,1984-01-28
+Allen Iverson,1975-06-07
+Bobby Jones,1984-01-09
+Kyle Korver,1981-03-17
+Ivan McFarlin,1982-04-26
+Andre Miller,1976-03-19
+Kevin Ollie,1972-12-27
+Shavlik Randolph,1983-11-24
+Joe Smith,1975-07-26
+Steven Smith,1983-04-12
+Chris Webber,1973-03-01
+Lou Williams,1986-10-27

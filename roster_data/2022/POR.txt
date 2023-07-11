@@ -1,0 +1,28 @@
+PLAYER,BIRTH_DATE
+Keljin Blevins,1995-11-24
+Greg Brown III,2001-09-01
+Robert Covington,1990-12-14
+Jarron Cumberland,1997-09-22
+Kris Dunn,1994-03-18
+CJ Elleby,2000-06-16
+Drew Eubanks,1997-02-01
+Josh Hart,1995-03-06
+Elijah Hughes,1998-03-10
+Keon Johnson,2002-03-10
+Damian Lillard,1990-07-15
+Nassir Little,2000-02-11
+Didi Louzada,1999-02-07
+CJ McCollum,1991-09-19
+Cameron McGriff,1997-09-30
+Ben McLemore,1993-02-11
+Larry Nance Jr.,1993-01-01
+Jusuf Nurkić,1994-08-23
+Reggie Perry,2000-03-21
+Norman Powell,1993-05-25
+Anfernee Simons,1999-06-08
+Dennis Smith Jr.,1997-11-25
+Tony Snell,1991-11-10
+Trendon Watford,2000-11-09
+Brandon Williams,1999-11-22
+Justise Winslow,1996-03-26
+Cody Zeller,1992-10-05

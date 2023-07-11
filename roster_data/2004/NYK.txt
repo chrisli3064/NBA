@@ -1,0 +1,23 @@
+PLAYER,BIRTH_DATE
+Shandon Anderson,1973-12-31
+Vin Baker,1971-11-23
+Michael Doleac,1977-06-15
+Howard Eisley,1972-12-04
+Anfernee Hardaway,1971-07-18
+Othella Harrington,1974-01-31
+Allan Houston,1971-04-20
+DerMarr Johnson,1980-05-05
+Stephon Marbury,1977-02-20
+Antonio McDyess,1974-09-07
+Nazr Mohammed,1977-09-05
+Dikembe Mutombo,1966-06-25
+Moochie Norris,1973-07-27
+Bruno Šundov,1980-02-10
+Mike Sweetney,1982-10-25
+Kurt Thomas,1972-10-04
+Tim Thomas,1977-02-26
+Cezary Trybański,1979-09-22
+Keith Van Horn,1975-10-23
+Charlie Ward,1970-10-12
+Clarence Weatherspoon,1970-09-08
+Frank Williams,1980-02-25

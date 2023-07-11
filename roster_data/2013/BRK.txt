@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Andray Blatche,1986-08-22
+Keith Bogans,1980-05-12
+MarShon Brooks,1989-01-26
+Josh Childress,1983-06-20
+Reggie Evans,1980-05-18
+Kris Humphries,1985-02-06
+Damion James,1987-10-07
+Joe Johnson,1981-06-29
+Kris Joseph,1988-12-17
+Brook Lopez,1988-04-01
+Tornike Shengelia,1991-10-05
+Jerry Stackhouse,1974-11-05
+Tyshawn Taylor,1990-04-12
+Mirza Teletović,1985-09-18
+Gerald Wallace,1982-07-23
+C.J. Watson,1984-04-17
+Deron Williams,1984-06-26

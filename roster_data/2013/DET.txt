@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Will Bynum,1983-01-04
+José Calderón,1981-09-28
+Austin Daye,1988-06-05
+Andre Drummond,1993-08-10
+Kim English,1988-09-24
+Jonas Jerebko,1987-03-02
+Brandon Knight,1991-12-02
+Viacheslav Kravtsov,1987-08-25
+Corey Maggette,1979-11-12
+Jason Maxiell,1983-02-18
+Khris Middleton,1991-08-12
+Greg Monroe,1990-06-04
+Tayshaun Prince,1980-02-28
+Kyle Singler,1988-05-04
+Rodney Stuckey,1986-04-21
+Charlie Villanueva,1984-08-24

@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+Shareef Abdur-Rahim,1976-12-11
+Cal Bowdler,1977-03-31
+Chris Crawford,1975-05-13
+Emanual Davis,1968-08-27
+Dion Glover,1978-10-22
+Alan Henderson,1972-12-02
+DerMarr Johnson,1980-05-05
+Toni Kukoč,1968-09-18
+Nazr Mohammed,1977-09-05
+Hanno Möttölä,1976-09-09
+Ira Newble,1975-01-20
+Theo Ratliff,1973-04-17
+Dickey Simpkins,1972-04-06
+Reggie Slater,1970-08-27
+Leon Smith,1980-11-02
+Mark Strickland,1970-07-14
+Jason Terry,1977-09-15
+Jacque Vaughn,1975-02-11

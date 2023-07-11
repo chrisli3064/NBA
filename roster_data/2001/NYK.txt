@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Rick Brunson,1972-06-14
+Marcus Camby,1974-03-22
+Chris Childs,1967-11-20
+Othella Harrington,1974-01-31
+Allan Houston,1971-04-20
+Mark Jackson,1965-04-01
+Larry Johnson,1969-03-14
+Travis Knight,1974-09-13
+Luc Longley,1969-01-19
+Lavor Postell,1978-02-26
+Glen Rice,1967-05-28
+Felton Spencer,1968-01-15
+Latrell Sprewell,1970-09-08
+Erick Strickland,1973-11-25
+Kurt Thomas,1972-10-04
+Charlie Ward,1970-10-12

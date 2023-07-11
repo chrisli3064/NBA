@@ -1,0 +1,22 @@
+PLAYER,BIRTH_DATE
+Bam Adebayo,1997-07-18
+Kyle Alexander,1996-10-21
+Jimmy Butler,1989-09-14
+Jae Crowder,1990-07-06
+Goran Dragić,1986-05-06
+Udonis Haslem,1980-06-09
+Tyler Herro,2000-01-20
+Solomon Hill,1991-03-18
+Andre Iguodala,1984-01-28
+James Johnson,1987-02-20
+Derrick Jones Jr.,1997-02-15
+Meyers Leonard,1992-02-27
+Daryl Macon,1995-11-29
+Kendrick Nunn,1995-08-03
+KZ Okpala,1999-04-28
+Kelly Olynyk,1991-04-19
+Duncan Robinson,1994-04-22
+Chris Silva,1996-09-19
+Gabe Vincent,1996-06-14
+Dion Waiters,1991-12-10
+Justise Winslow,1996-03-26

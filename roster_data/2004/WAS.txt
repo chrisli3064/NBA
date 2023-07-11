@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Gilbert Arenas,1982-01-06
+Lonny Baxter,1979-01-27
+Steve Blake,1980-02-26
+Torraye Braggs,1976-05-15
+Kwame Brown,1982-03-10
+Mitchell Butler,1970-12-15
+Juan Dixon,1978-10-09
+Jarvis Hayes,1981-08-09
+Brendan Haywood,1979-11-27
+Larry Hughes,1979-01-23
+Jared Jeffries,1981-11-25
+Brevin Knight,1975-11-08
+Christian Laettner,1969-08-17
+Jerry Stackhouse,1974-11-05
+Etan Thomas,1978-04-01
+Jahidi White,1976-02-19
+Chris Whitney,1971-10-05

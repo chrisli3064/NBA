@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Matt Barnes,1980-03-09
+Steve Blake,1980-02-26
+Kobe Bryant,1978-08-23
+Andrew Bynum,1987-10-27
+Devin Ebanks,1989-10-28
+Christian Eyenga,1989-06-22
+Derek Fisher,1974-08-09
+Pau Gasol,1980-07-06
+Andrew Goudelock,1988-12-07
+Jordan Hill,1987-07-27
+Jason Kapono,1981-02-04
+Josh McRoberts,1987-02-28
+Darius Morris,1991-01-03
+Troy Murphy,1980-05-02
+Ramon Sessions,1986-04-11
+Luke Walton,1980-03-28
+Metta World Peace,1979-11-13

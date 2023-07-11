@@ -1,0 +1,15 @@
+PLAYER,BIRTH_DATE
+Will Bynum,1983-01-04
+Austin Daye,1988-06-05
+Ben Gordon,1983-04-04
+Jonas Jerebko,1987-03-02
+Brandon Knight,1991-12-02
+Vernon Macklin,1986-09-20
+Jason Maxiell,1983-02-18
+Greg Monroe,1990-06-04
+Tayshaun Prince,1980-02-28
+Walker Russell,1982-10-06
+Rodney Stuckey,1986-04-21
+Charlie Villanueva,1984-08-24
+Ben Wallace,1974-09-10
+Damien Wilkins,1980-01-11

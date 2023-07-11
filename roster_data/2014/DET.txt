@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Chauncey Billups,1976-09-25
+Will Bynum,1983-01-04
+Kentavious Caldwell-Pope,1993-02-18
+Gigi Datome,1987-11-27
+Andre Drummond,1993-08-10
+Josh Harrellson,1989-02-12
+Brandon Jennings,1989-09-23
+Jonas Jerebko,1987-03-02
+Tony Mitchell,1992-04-07
+Greg Monroe,1990-06-04
+Kyle Singler,1988-05-04
+Peyton Siva,1990-10-24
+Josh Smith,1985-12-05
+Rodney Stuckey,1986-04-21
+Charlie Villanueva,1984-08-24

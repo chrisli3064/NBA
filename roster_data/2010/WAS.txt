@@ -1,0 +1,25 @@
+PLAYER,BIRTH_DATE
+Gilbert Arenas,1982-01-06
+Andray Blatche,1986-08-22
+Earl Boykins,1976-06-02
+Caron Butler,1980-03-13
+Paul Davis,1984-07-21
+Randy Foye,1983-09-24
+Alonzo Gee,1987-05-29
+Mike Harris,1983-06-15
+Brendan Haywood,1979-11-27
+Josh Howard,1980-04-28
+Cedric Jackson,1986-03-05
+Mike James,1975-06-23
+Antawn Jamison,1976-06-12
+Shaun Livingston,1985-09-11
+Cartier Martin,1984-11-20
+JaVale McGee,1988-01-19
+Dominic McGuire,1985-10-20
+Mike Miller,1980-02-19
+Fabricio Oberto,1975-03-21
+Quinton Ross,1981-04-30
+James Singleton,1981-07-20
+DeShawn Stevenson,1981-04-03
+Al Thornton,1983-12-07
+Nick Young,1985-06-01

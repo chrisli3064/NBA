@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Matt Barnes,1980-03-09
+Steve Blake,1980-02-26
+Shannon Brown,1985-11-29
+Kobe Bryant,1978-08-23
+Andrew Bynum,1987-10-27
+Derrick Caracter,1988-05-04
+Devin Ebanks,1989-10-28
+Derek Fisher,1974-08-09
+Pau Gasol,1980-07-06
+Trey Johnson,1984-08-30
+Lamar Odom,1979-11-06
+Theo Ratliff,1973-04-17
+Joe Smith,1975-07-26
+Sasha Vujačić,1984-03-08
+Luke Walton,1980-03-28
+Metta World Peace,1979-11-13

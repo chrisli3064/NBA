@@ -1,0 +1,20 @@
+PLAYER,BIRTH_DATE
+LaMelo Ball,2001-08-22
+James Bouknight,2000-09-18
+Miles Bridges,1998-03-21
+Vernon Carey Jr.,2001-02-25
+Montrezl Harrell,1994-01-26
+Gordon Hayward,1990-03-23
+Kai Jones,2001-01-19
+Arnoldas Kulboka,1998-01-04
+Scottie Lewis,2000-03-12
+Cody Martin,1995-09-28
+Jalen McDaniels,1998-01-31
+Kelly Oubre Jr.,1995-12-09
+Mason Plumlee,1990-03-05
+Nick Richards,1997-11-29
+Terry Rozier,1994-03-17
+Ish Smith,1988-07-05
+Isaiah Thomas,1989-02-07
+JT Thor,2002-08-26
+P.J. Washington,1998-08-23

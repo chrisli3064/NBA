@@ -1,0 +1,22 @@
+PLAYER,BIRTH_DATE
+Steven Adams,1993-07-20
+Nickeil Alexander-Walker,1998-09-02
+Lonzo Ball,1997-10-27
+Eric Bledsoe,1989-12-09
+Wenyen Gabriel,1997-03-26
+Josh Hart,1995-03-06
+Jaxson Hayes,2000-05-23
+Willy Hernangómez,1994-05-27
+Brandon Ingram,1997-09-02
+Wes Iwundu,1994-12-20
+James Johnson,1987-02-20
+Kira Lewis Jr.,2001-04-06
+Didi Louzada,1999-02-07
+Will Magnay,1998-06-10
+Naji Marshall,1998-01-24
+Nicolò Melli,1991-01-26
+James Nunnally,1990-07-14
+J.J. Redick,1984-06-24
+Isaiah Thomas,1989-02-07
+Sindarius Thornwell,1994-11-15
+Zion Williamson,2000-07-06

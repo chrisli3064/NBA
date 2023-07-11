@@ -1,0 +1,21 @@
+PLAYER,BIRTH_DATE
+Marvin Bagley III,1999-03-14
+Harrison Barnes,1992-05-30
+Nemanja Bjelica,1988-05-09
+Bogdan Bogdanović,1992-08-18
+Corey Brewer,1986-03-05
+Alec Burks,1991-07-20
+Willie Cauley-Stein,1993-08-18
+Yogi Ferrell,1993-05-09
+De'Aaron Fox,1997-12-20
+Harry Giles,1998-04-22
+Buddy Hield,1992-12-17
+Justin Jackson,1995-03-28
+B.J. Johnson,1995-12-21
+Kosta Koufos,1989-02-24
+Skal Labissière,1996-03-18
+Frank Mason III,1994-04-03
+Ben McLemore,1993-02-11
+Iman Shumpert,1990-06-26
+Caleb Swanigan,1997-04-18
+Troy Williams,1994-12-30

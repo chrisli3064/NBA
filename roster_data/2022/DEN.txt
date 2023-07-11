@@ -1,0 +1,23 @@
+PLAYER,BIRTH_DATE
+Will Barton,1991-01-06
+Bol Bol,1999-11-16
+Facundo Campazzo,1991-03-23
+Vlatko Čančar,1997-04-10
+Petr Cornelie,1995-07-26
+DeMarcus Cousins,1990-08-13
+PJ Dozier,1996-10-25
+James Ennis III,1990-07-01
+Bryn Forbes,1993-07-23
+Aaron Gordon,1995-09-16
+JaMychal Green,1990-06-21
+Jeff Green,1986-08-28
+Markus Howard,1999-03-03
+Bones Hyland,2000-09-14
+Nikola Jokić,1995-02-19
+Carlik Jones,1997-12-23
+Monte Morris,1995-06-27
+Zeke Nnaji,2001-01-09
+Michael Porter Jr.,1998-06-29
+Davon Reed,1995-06-11
+Austin Rivers,1992-08-01
+Rayjon Tucker,1997-09-24

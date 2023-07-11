@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Robert Archibald,1980-03-29
+Mike Batiste,1977-11-21
+Shane Battier,1978-09-09
+Michael Dickerson,1975-06-25
+Pau Gasol,1980-07-06
+Gordan Giriček,1977-06-20
+Drew Gooden,1981-09-24
+Ryan Humphrey,1979-07-24
+Brevin Knight,1975-11-08
+Mike Miller,1980-02-19
+Chris Owens,1979-03-01
+Wesley Person,1971-03-28
+Stromile Swift,1979-11-21
+Cezary Trybański,1979-09-22
+Earl Watson,1979-06-12
+Jason Williams,1975-11-18
+Lorenzen Wright,1975-11-04

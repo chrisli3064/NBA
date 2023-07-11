@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Torrey Craig,1990-12-19
+Damion Lee,1992-10-21
+Josh Okogie,1998-09-01
+Jock Landale,1995-10-25
+Deandre Ayton,1998-07-23
+Bismack Biyombo,1992-08-28
+Ish Wainright,1994-09-12
+Chris Paul,1985-05-06
+Devin Booker,1996-10-30
+Cameron Payne,1994-08-08
+Landry Shamet,1997-03-13
+Saben Lee (TW),1999-06-23
+Terrence Ross,1991-02-05
+T.J. Warren,1993-09-05
+Kevin Durant,1988-09-29
+Darius Bazley,2000-06-12

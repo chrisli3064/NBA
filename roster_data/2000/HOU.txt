@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Shandon Anderson,1973-12-31
+Charles Barkley,1963-02-20
+Matt Bullard,1967-06-05
+Kelvin Cato,1974-08-26
+Bill Curley,1972-05-29
+Bryce Drew,1974-09-21
+Steve Francis,1977-02-21
+Devin Gray,1972-05-31
+Thomas Hamilton,1975-04-03
+Tony Massenburg,1967-07-31
+Anthony Miller,1971-10-22
+Cuttino Mobley,1975-09-01
+Moochie Norris,1973-07-27
+Hakeem Olajuwon,1963-01-21
+Carlos Rogers,1971-02-06
+Kenny Thomas,1977-07-25
+Walt Williams,1970-04-16

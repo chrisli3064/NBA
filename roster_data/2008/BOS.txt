@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Ray Allen,1975-07-20
+Tony Allen,1982-01-11
+P.J. Brown,1969-10-14
+Sam Cassell,1969-11-18
+Glen Davis,1986-01-01
+Kevin Garnett,1976-05-19
+Eddie House,1978-05-14
+Kendrick Perkins,1984-11-10
+Paul Pierce,1977-10-13
+Scot Pollard,1975-02-12
+James Posey,1977-01-13
+Leon Powe,1984-01-22
+Gabe Pruitt,1986-04-19
+Rajon Rondo,1986-02-22
+Brian Scalabrine,1978-03-18

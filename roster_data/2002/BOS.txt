@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Kenny Anderson,1970-10-09
+Tony Battie,1976-02-11
+Mark Blount,1975-11-30
+Kedrick Brown,1981-03-18
+Randy Brown,1968-05-22
+Tony Delk,1974-01-28
+Joseph Forte,1981-03-23
+Joe Johnson,1981-06-29
+Walter McCarty,1974-02-01
+Milt Palacio,1978-02-07
+Paul Pierce,1977-10-13
+Vitaly Potapenko,1975-03-21
+Rodney Rogers,1971-06-20
+Erick Strickland,1973-11-25
+Antoine Walker,1976-08-12
+Eric Williams,1972-07-17

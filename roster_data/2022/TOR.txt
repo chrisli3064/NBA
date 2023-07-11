@@ -1,0 +1,24 @@
+PLAYER,BIRTH_DATE
+Precious Achiuwa,1999-09-19
+OG Anunoby,1997-07-17
+Dalano Banton,1999-11-07
+Scottie Barnes,2001-08-01
+Khem Birch,1992-09-28
+Isaac Bonga,1999-11-08
+Chris Boucher,1993-01-11
+Armoni Brooks,1998-06-05
+Justin Champagnie,2001-06-29
+Sam Dekker,1994-05-06
+Goran Dragić,1986-05-06
+Malachi Flynn,1998-05-10
+David Johnson,2001-02-26
+Juwan Morgan,1997-04-17
+Svi Mykhailiuk,1997-06-10
+Daniel Oturu,1999-09-20
+Pascal Siakam,1994-04-02
+Gary Trent Jr.,1999-01-18
+Fred VanVleet,1994-02-25
+Yuta Watanabe,1994-10-13
+Tremont Waters,1998-01-10
+D.J. Wilson,1996-02-19
+Thaddeus Young,1988-06-21

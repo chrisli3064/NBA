@@ -1,0 +1,22 @@
+PLAYER,BIRTH_DATE
+Anthony Bennett,1993-03-14
+Andrew Bynum,1987-10-27
+Earl Clark,1988-01-17
+Seth Curry,1990-08-23
+Matthew Dellavedova,1990-09-08
+Luol Deng,1985-04-16
+Shane Edwards,1987-05-31
+Carrick Felix,1990-08-17
+Alonzo Gee,1987-05-29
+Spencer Hawes,1988-04-28
+Scotty Hopson,1989-08-08
+Kyrie Irving,1992-03-23
+Jarrett Jack,1983-10-28
+Sergey Karasev,1993-10-26
+C.J. Miles,1987-03-18
+Arinze Onuaku,1987-07-13
+Henry Sims,1990-03-27
+Tristan Thompson,1991-03-13
+Anderson Varejão,1982-09-28
+Dion Waiters,1991-12-10
+Tyler Zeller,1990-01-17

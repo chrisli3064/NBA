@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+Alexis Ajinça,1988-05-06
+J.J. Barea,1984-06-26
+Rodrigue Beaubois,1988-02-24
+Corey Brewer,1986-03-05
+Caron Butler,1980-03-13
+Brian Cardinal,1977-05-02
+Tyson Chandler,1982-10-02
+Brendan Haywood,1979-11-27
+Dominique Jones,1988-10-15
+Jason Kidd,1973-03-23
+Ian Mahinmi,1986-11-05
+Shawn Marion,1978-05-07
+Steve Novak,1983-06-13
+Dirk Nowitzki,1978-06-19
+Sasha Pavlović,1983-11-15
+DeShawn Stevenson,1981-04-03
+Peja Stojaković,1977-06-09
+Jason Terry,1977-09-15

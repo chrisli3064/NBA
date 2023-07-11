@@ -1,0 +1,15 @@
+PLAYER,BIRTH_DATE
+Randy Brown,1968-05-22
+Alton Ford,1981-05-29
+Tom Gugliotta,1969-12-19
+Anfernee Hardaway,1971-07-18
+Casey Jacobsen,1981-03-19
+Joe Johnson,1981-06-29
+Dan Langhi,1977-11-28
+Stephon Marbury,1977-02-20
+Shawn Marion,1978-05-07
+Bo Outlaw,1971-04-13
+Amar'e Stoudemire,1982-11-16
+Jake Tsakalidis,1979-06-10
+Jake Voskuhl,1977-11-01
+Scott Williams,1968-03-21

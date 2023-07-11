@@ -1,0 +1,24 @@
+PLAYER,BIRTH_DATE
+Trevor Ariza,1985-06-30
+Marvin Bagley III,1999-03-14
+Harrison Barnes,1992-05-30
+Kent Bazemore,1989-07-01
+Nemanja Bjelica,1988-05-09
+Bogdan Bogdanović,1992-08-18
+Corey Brewer,1986-03-05
+Dewayne Dedmon,1989-08-12
+Yogi Ferrell,1993-05-09
+De'Aaron Fox,1997-12-20
+Wenyen Gabriel,1997-03-26
+Harry Giles,1998-04-22
+Kyle Guy,1997-08-11
+Buddy Hield,1992-12-17
+Richaun Holmes,1993-10-15
+Justin James,1997-01-24
+DaQuan Jeffries,1997-08-30
+Cory Joseph,1991-08-20
+Alex Len,1993-06-16
+Eric Mika,1995-01-05
+Jabari Parker,1995-03-15
+Caleb Swanigan,1997-04-18
+Anthony Tolliver,1985-06-01

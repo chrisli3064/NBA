@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Ty-Shon Alexander,1998-07-16
+Deandre Ayton,1998-07-23
+Devin Booker,1996-10-30
+Mikal Bridges,1996-08-30
+Jevon Carter,1995-09-14
+Torrey Craig,1990-12-19
+Jae Crowder,1990-07-06
+Langston Galloway,1991-12-09
+Cameron Johnson,1996-03-03
+Damian Jones,1995-06-30
+Frank Kaminsky,1993-04-04
+E'Twaun Moore,1989-02-25
+Abdel Nader,1993-09-25
+Chris Paul,1985-05-06
+Cameron Payne,1994-08-08
+Dario Šarić,1994-04-08
+Jalen Smith,2000-03-16

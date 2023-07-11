@@ -1,0 +1,15 @@
+PLAYER,BIRTH_DATE
+Tierre Brown,1979-06-03
+Kelvin Cato,1974-08-26
+Jason Collier,1977-09-08
+Steve Francis,1977-02-21
+Eddie Griffin,1982-05-30
+Dan Langhi,1977-11-28
+Cuttino Mobley,1975-09-01
+Terence Morris,1979-01-11
+Moochie Norris,1973-07-27
+Glen Rice,1967-05-28
+Kenny Thomas,1977-07-25
+Óscar Torres,1976-12-18
+Walt Williams,1970-04-16
+Kevin Willis,1962-09-06

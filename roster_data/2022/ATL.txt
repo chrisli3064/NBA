@@ -1,0 +1,25 @@
+PLAYER,BIRTH_DATE
+Cat Barber,1994-07-25
+Bogdan Bogdanović,1992-08-18
+Chaundee Brown Jr.,1998-12-04
+Clint Capela,1994-05-18
+John Collins,1997-09-23
+Sharife Cooper,2001-06-11
+Gorgui Dieng,1990-01-18
+Danilo Gallinari,1988-08-08
+Malcolm Hill,1995-10-26
+Solomon Hill,1991-03-18
+Kevin Huerter,1998-08-27
+De'Andre Hunter,1997-12-02
+Wes Iwundu,1994-12-20
+Jalen Johnson,2001-12-18
+Kevin Knox,1999-08-11
+Timothé Luwawu-Cabarrot,1995-05-09
+Skylar Mays,1997-09-05
+Onyeka Okongwu,2000-12-11
+Cameron Oliver,1996-07-11
+Cam Reddish,1999-09-01
+Lance Stephenson,1990-09-05
+Lou Williams,1986-10-27
+Delon Wright,1992-04-26
+Trae Young,1998-09-19

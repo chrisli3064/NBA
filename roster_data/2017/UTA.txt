@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Joel Bolomboy,1994-01-28
+Alec Burks,1991-07-20
+Boris Diaw,1982-04-16
+Dante Exum,1995-07-13
+Derrick Favors,1991-07-15
+Rudy Gobert,1992-06-26
+Gordon Hayward,1990-03-23
+George Hill,1986-05-04
+Rodney Hood,1992-10-20
+Joe Ingles,1987-10-02
+Joe Johnson,1981-06-29
+Trey Lyles,1995-11-05
+Shelvin Mack,1990-04-22
+Raul Neto,1992-05-19
+Jeff Withey,1990-03-07

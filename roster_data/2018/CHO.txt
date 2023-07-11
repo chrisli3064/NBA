@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Dwayne Bacon,1995-08-30
+Nicolas Batum,1988-12-14
+Michael Carter-Williams,1991-10-10
+Treveon Graham,1993-10-28
+Willy Hernangómez,1994-05-27
+Dwight Howard,1985-12-08
+Frank Kaminsky,1993-04-04
+Michael Kidd-Gilchrist,1993-09-26
+Jeremy Lamb,1992-05-30
+Mangok Mathiang,1992-10-08
+Malik Monk,1998-02-04
+Johnny O'Bryant,1993-06-01
+Marcus Paige,1993-09-11
+Julyan Stone,1988-12-07
+Kemba Walker,1990-05-08
+Marvin Williams,1986-06-19
+Cody Zeller,1992-10-05

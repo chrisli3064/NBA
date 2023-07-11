@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Derek Anderson,1974-07-18
+Ruben Boumtje-Boumtje,1978-05-20
+Antonio Daniels,1975-03-19
+Dale Davis,1969-03-25
+Chris Dudley,1965-02-22
+Jeff McInnis,1974-10-22
+Ruben Patterson,1975-07-31
+Scottie Pippen,1965-09-25
+Zach Randolph,1981-07-16
+Arvydas Sabonis,1964-12-19
+Charles Smith,1975-08-22
+Damon Stoudamire,1973-09-03
+Rasheed Wallace,1974-09-17
+Bonzi Wells,1976-09-28
+Qyntel Woods,1981-02-16

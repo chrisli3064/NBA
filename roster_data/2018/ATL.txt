@@ -1,0 +1,23 @@
+PLAYER,BIRTH_DATE
+Luke Babbitt,1989-06-20
+Kent Bazemore,1989-07-01
+Marco Belinelli,1986-03-25
+DeAndre' Bembry,1994-07-04
+Nicolás Brussino,1993-03-02
+Tyler Cavanaugh,1994-02-09
+Antonius Cleveland,1994-02-02
+John Collins,1997-09-23
+Dewayne Dedmon,1989-08-12
+Malcolm Delaney,1989-03-11
+Tyler Dorsey,1996-02-18
+Jeremy Evans,1987-10-24
+Ersan İlyasova,1987-05-15
+Damion Lee,1992-10-21
+Josh Magette,1989-11-28
+Jaylen Morris,1995-09-19
+Mike Muscala,1991-07-01
+Miles Plumlee,1988-09-01
+Taurean Prince,1994-03-22
+Dennis Schröder,1993-09-15
+Isaiah Taylor,1994-07-11
+Andrew White,1993-06-16

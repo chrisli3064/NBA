@@ -1,0 +1,22 @@
+PLAYER,BIRTH_DATE
+Rafer Alston,1976-07-24
+Derek Anderson,1974-07-18
+Jon Barry,1969-07-25
+Lonny Baxter,1979-01-27
+Keith Bogans,1980-05-12
+Ryan Bowen,1975-11-20
+Rick Brunson,1972-06-14
+Josh Davis,1980-08-10
+Richie Frahm,1977-08-14
+Stephen Graham,1982-06-11
+Chuck Hayes,1983-06-11
+Luther Head,1982-11-26
+Juwan Howard,1973-02-07
+Maciej Lampe,1985-02-05
+John Lucas III,1982-11-21
+Tracy McGrady,1979-05-24
+Yao Ming,1980-09-12
+Dikembe Mutombo,1966-06-25
+Moochie Norris,1973-07-27
+Stromile Swift,1979-11-21
+David Wesley,1970-11-14

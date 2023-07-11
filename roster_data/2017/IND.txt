@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Lavoy Allen,1989-02-04
+Aaron Brooks,1985-01-14
+Rakeem Christmas,1991-12-01
+Monta Ellis,1985-10-26
+Paul George,1990-05-02
+Al Jefferson,1985-01-04
+C.J. Miles,1987-03-18
+Georges Niang,1993-06-17
+Glenn Robinson III,1994-01-08
+Kevin Séraphin,1989-12-07
+Lance Stephenson,1990-09-05
+Rodney Stuckey,1986-04-21
+Jeff Teague,1988-06-10
+Myles Turner,1996-03-24
+Joe Young,1992-06-27
+Thaddeus Young,1988-06-21

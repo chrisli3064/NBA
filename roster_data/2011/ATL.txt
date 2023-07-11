@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Hilton Armstrong,1984-11-11
+Mike Bibby,1978-05-13
+Jason Collins,1978-12-02
+Jamal Crawford,1980-03-20
+Jordan Crawford,1988-10-23
+Maurice Evans,1978-11-08
+Kirk Hinrich,1981-01-02
+Al Horford,1986-06-03
+Joe Johnson,1981-06-29
+Zaza Pachulia,1984-02-10
+Josh Powell,1983-01-25
+Josh Smith,1985-12-05
+Pape Sy,1988-04-05
+Jeff Teague,1988-06-10
+Etan Thomas,1978-04-01
+Damien Wilkins,1980-01-11
+Marvin Williams,1986-06-19

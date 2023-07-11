@@ -1,0 +1,811 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2019-11-23,22-006,MIL,HOME,DET,W (+14),0,2:14,0,0,,0,0,,0,0,,0,0,0,1,0,1,1,1,0,0.0,-3,Dragan Bender
+2019-11-30,22-013,MIL,HOME,CHO,W (+41),0,13:31,5,7,.714,2,4,.500,0,0,,0,1,1,1,0,0,0,4,12,8.5,+16,Dragan Bender
+2019-12-02,22-015,MIL,HOME,NYK,W (+44),0,13:25,1,1,1.000,0,0,,1,1,1.000,0,1,1,1,0,1,0,1,3,4.0,+5,Dragan Bender
+2020-01-14,22-058,MIL,HOME,NYK,W (+26),0,21:14,0,3,.000,0,1,.000,0,0,,0,7,7,2,0,1,0,4,0,0.5,+13,Dragan Bender
+2020-01-18,22-062,MIL,AWAY,BRK,W (+20),0,20:35,2,7,.286,2,4,.500,0,0,,0,6,6,1,0,0,1,2,6,2.6,+14,Dragan Bender
+2020-01-20,22-064,MIL,HOME,CHI,W (+13),0,14:05,2,2,1.000,0,0,,1,2,.500,0,3,3,2,0,1,3,3,5,2.8,+1,Dragan Bender
+2020-01-24,22-068,MIL,AWAY,CHO,W (+13),0,5:39,0,1,.000,0,0,,0,0,,0,2,2,1,0,1,0,1,0,0.9,-2,Dragan Bender
+2020-02-23,22-098,GSW,HOME,NOP,L (-14),0,20:05,2,8,.250,2,5,.400,0,2,.000,2,3,5,3,0,1,0,0,6,5.5,+1,Dragan Bender
+2020-02-25,22-100,GSW,HOME,SAC,L (-18),0,24:43,0,4,.000,0,2,.000,0,0,,2,3,5,1,1,0,3,2,0,-2.6,-14,Dragan Bender
+2020-02-27,22-102,GSW,HOME,LAL,L (-30),1,22:14,2,6,.333,0,4,.000,0,0,,0,4,4,1,2,0,3,6,4,-0.9,-14,Dragan Bender
+2020-02-29,22-104,GSW,AWAY,PHO,W (+16),1,30:46,5,10,.500,3,6,.500,0,0,,2,7,9,4,1,3,3,2,13,13.6,+8,Dragan Bender
+2020-03-01,22-105,GSW,HOME,WAS,L (-14),1,19:15,4,12,.333,0,3,.000,0,0,,6,4,10,0,0,0,2,5,8,2.6,-6,Dragan Bender
+2020-03-03,22-107,GSW,AWAY,DEN,W (+16),0,22:59,5,9,.556,2,4,.500,2,2,1.000,1,4,5,2,0,0,1,3,14,10.8,+4,Dragan Bender
+2020-03-05,22-109,GSW,HOME,TOR,L (-8),0,16:11,1,6,.167,0,3,.000,1,2,.500,2,3,5,4,0,0,1,3,3,1.7,-11,Dragan Bender
+2020-03-07,22-111,GSW,HOME,PHI,W (+4),0,13:15,4,4,1.000,2,2,1.000,0,0,,0,3,3,1,0,0,0,2,10,9.6,-10,Dragan Bender
+2020-03-10,22-114,GSW,HOME,LAC,L (-24),0,25:22,8,12,.667,2,5,.400,5,5,1.000,1,6,7,3,0,0,3,3,23,18.2,-7,Dragan Bender
+2019-10-24,22-130,GSW,HOME,LAC,L (-19),0,4:06,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,+3,Ky Bowman
+2019-10-27,22-133,GSW,AWAY,OKC,L (-28),0,12:00,2,8,.250,0,1,.000,1,1,1.000,0,0,0,0,0,0,0,0,5,0.2,+9,Ky Bowman
+2019-10-28,22-134,GSW,AWAY,NOP,W (+11),0,7:37,0,2,.000,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-2.8,-12,Ky Bowman
+2019-10-30,22-136,GSW,HOME,PHO,L (-11),0,12:00,2,4,.500,1,1,1.000,5,5,1.000,0,1,1,1,3,0,1,2,10,10.2,+17,Ky Bowman
+2019-11-01,22-138,GSW,HOME,SAS,L (-17),0,14:58,1,6,.167,0,1,.000,0,0,,0,1,1,2,0,0,1,2,2,-1.9,-11,Ky Bowman
+2019-11-02,22-139,GSW,HOME,CHO,L (-6),1,38:42,6,11,.545,2,6,.333,2,2,1.000,1,6,7,4,2,0,2,3,16,14.8,-6,Ky Bowman
+2019-11-04,22-141,GSW,HOME,POR,W (+9),1,37:15,9,14,.643,1,3,.333,0,0,,0,4,4,8,0,0,3,3,19,15.4,+10,Ky Bowman
+2019-11-06,22-143,GSW,AWAY,HOU,L (-17),1,35:46,3,9,.333,2,3,.667,0,1,.000,0,0,0,4,1,0,3,2,8,2.5,-10,Ky Bowman
+2019-11-08,22-145,GSW,AWAY,MIN,L (-6),0,12:22,1,2,.500,0,0,,0,0,,0,4,4,1,0,0,0,2,2,2.1,-1,Ky Bowman
+2019-11-09,22-146,GSW,AWAY,OKC,L (-6),0,17:26,2,4,.500,0,1,.000,0,0,,0,1,1,1,1,0,1,1,4,2.6,-5,Ky Bowman
+2019-11-11,22-148,GSW,HOME,UTA,L (-14),0,15:40,3,5,.600,1,3,.333,0,0,,0,3,3,0,1,0,1,1,7,5.2,-1,Ky Bowman
+2019-11-13,22-150,GSW,AWAY,LAL,L (-26),0,12:35,2,3,.667,1,1,1.000,0,0,,0,1,1,3,1,1,1,1,5,6.4,-6,Ky Bowman
+2019-11-15,22-152,GSW,HOME,BOS,L (-5),0,13:31,3,8,.375,0,2,.000,0,0,,2,1,3,0,1,0,1,2,6,2.5,-2,Ky Bowman
+2019-11-17,22-154,GSW,AWAY,NOP,L (-8),0,27:39,8,16,.500,3,7,.429,0,0,,0,2,2,4,1,0,0,2,19,14.6,+2,Ky Bowman
+2019-11-19,22-156,GSW,AWAY,MEM,W (+19),0,24:44,1,3,.333,1,2,.500,0,0,,1,1,2,5,1,0,1,2,3,5.0,+15,Ky Bowman
+2019-11-20,22-157,GSW,AWAY,DAL,L (-48),1,32:00,7,10,.700,2,3,.667,0,0,,1,1,2,2,1,0,0,4,16,13.6,-30,Ky Bowman
+2019-11-22,22-159,GSW,AWAY,UTA,L (-4),1,36:25,7,16,.438,3,6,.500,0,0,,1,5,6,5,3,0,0,3,17,16.1,+1,Ky Bowman
+2019-11-25,22-162,GSW,HOME,OKC,L (-3),1,38:33,9,17,.529,2,3,.667,4,4,1.000,2,1,3,5,3,1,1,3,24,22.4,+6,Ky Bowman
+2019-11-27,22-164,GSW,HOME,CHI,W (+14),0,27:40,1,4,.250,1,4,.250,2,2,1.000,0,3,3,3,0,0,2,2,5,2.8,+3,Ky Bowman
+2019-11-29,22-166,GSW,AWAY,MIA,L (-17),0,32:28,2,9,.222,1,4,.250,2,2,1.000,1,6,7,6,0,0,1,2,7,6.4,+2,Ky Bowman
+2019-12-01,22-168,GSW,AWAY,ORL,L (-4),0,28:34,4,12,.333,1,3,.333,3,3,1.000,2,1,3,4,0,0,2,2,12,6.9,-7,Ky Bowman
+2019-12-02,22-169,GSW,AWAY,ATL,L (-25),0,36:48,5,10,.500,0,1,.000,0,0,,2,6,8,3,3,1,5,4,10,7.4,-18,Ky Bowman
+2019-12-04,22-171,GSW,AWAY,CHO,L (-15),0,24:31,3,8,.375,1,3,.333,0,0,,0,4,4,1,1,0,3,1,7,2.1,-13,Ky Bowman
+2019-12-06,22-173,GSW,AWAY,CHI,W (+2),0,20:55,3,4,.750,2,3,.667,0,0,,0,0,0,6,0,0,1,5,8,7.6,+1,Ky Bowman
+2019-12-09,22-176,GSW,HOME,MEM,L (-8),0,16:05,3,7,.429,2,3,.667,0,0,,0,4,4,1,0,0,0,4,8,4.6,+1,Ky Bowman
+2019-12-11,22-178,GSW,HOME,NYK,L (-2),0,15:17,1,2,.500,0,1,.000,1,2,.500,0,0,0,0,0,0,0,1,3,1.2,+3,Ky Bowman
+2019-12-23,22-190,GSW,HOME,MIN,W (+9),0,22:53,1,6,.167,0,2,.000,0,0,,1,1,2,3,1,0,1,5,2,-0.7,-2,Ky Bowman
+2019-12-25,22-192,GSW,HOME,HOU,W (+12),0,21:43,1,4,.250,0,2,.000,2,2,1.000,1,4,5,6,0,1,1,2,4,6.6,+14,Ky Bowman
+2019-12-27,22-194,GSW,HOME,PHO,W (+9),0,20:52,2,7,.286,1,3,.333,0,0,,0,3,3,5,0,1,3,1,5,2.6,+4,Ky Bowman
+2019-12-28,22-195,GSW,HOME,DAL,L (-20),0,23:09,2,5,.400,1,3,.333,0,0,,1,1,2,5,0,0,0,3,5,5.6,-15,Ky Bowman
+2019-12-31,22-198,GSW,AWAY,SAS,L (-4),0,21:07,4,9,.444,0,2,.000,1,1,1.000,1,2,3,3,1,0,0,1,9,8.3,+1,Ky Bowman
+2020-01-02,22-200,GSW,AWAY,MIN,L (-15),0,27:25,2,9,.222,0,2,.000,0,0,,0,2,2,2,4,0,1,3,4,2.3,-4,Ky Bowman
+2020-01-04,22-202,GSW,HOME,DET,L (-7),1,13:32,1,5,.200,0,0,,0,0,,0,2,2,2,0,0,2,3,2,-2.3,-20,Ky Bowman
+2020-01-06,22-204,GSW,AWAY,SAC,L (-13),1,22:21,3,10,.300,1,3,.333,1,2,.500,0,2,2,2,3,0,5,4,8,0.2,-3,Ky Bowman
+2020-01-08,22-206,GSW,HOME,MIL,L (-9),1,23:07,3,9,.333,1,5,.200,0,0,,0,1,1,3,2,0,1,3,7,4.1,+1,Ky Bowman
+2020-01-10,22-208,GSW,AWAY,LAC,L (-9),1,18:13,1,4,.250,0,2,.000,0,2,.000,1,0,1,3,1,0,0,2,2,1.8,-10,Ky Bowman
+2020-01-18,22-216,GSW,HOME,ORL,W (+14),0,16:38,0,2,.000,0,1,.000,0,0,,0,2,2,1,1,0,4,1,0,-3.5,-2,Ky Bowman
+2020-02-08,22-237,GSW,HOME,LAL,L (-5),1,29:07,1,6,.167,0,2,.000,5,6,.833,2,0,2,11,0,1,4,3,7,7.4,-3,Ky Bowman
+2020-02-10,22-239,GSW,HOME,MIA,L (-12),1,15:15,1,4,.250,0,2,.000,0,0,,0,3,3,2,0,0,1,1,2,0.5,-14,Ky Bowman
+2020-02-12,22-241,GSW,AWAY,PHO,L (-6),0,4:10,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,2,0,-2.5,-9,Ky Bowman
+2020-02-20,22-249,GSW,HOME,HOU,L (-30),0,27:41,4,9,.444,0,3,.000,0,1,.000,2,3,5,1,2,2,4,0,8,5.3,-13,Ky Bowman
+2020-02-23,22-252,GSW,HOME,NOP,L (-14),0,32:18,6,12,.500,0,3,.000,3,3,1.000,2,4,6,7,3,1,1,1,15,18.8,-7,Ky Bowman
+2020-02-25,22-254,GSW,HOME,SAC,L (-18),0,25:09,4,10,.400,0,2,.000,2,2,1.000,0,4,4,2,1,0,2,5,10,4.2,-9,Ky Bowman
+2020-02-27,22-256,GSW,HOME,LAL,L (-30),0,30:47,5,9,.556,1,2,.500,0,0,,0,3,3,2,2,1,7,2,11,3.9,-30,Ky Bowman
+2020-02-29,22-258,GSW,AWAY,PHO,W (+16),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Ky Bowman
+2020-03-05,22-263,GSW,HOME,TOR,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ky Bowman
+2020-03-07,22-265,GSW,HOME,PHI,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ky Bowman
+2020-03-10,22-268,GSW,HOME,LAC,L (-24),0,24:04,5,6,.833,1,2,.500,0,0,,0,4,4,1,0,0,1,5,11,7.7,-4,Ky Bowman
+2019-10-30,28-102,GSW,HOME,PHO,L (-11),0,17:49,3,6,.500,1,3,.333,0,0,,0,1,1,2,0,0,1,1,7,4.3,-1,Alec Burks
+2019-11-01,28-104,GSW,HOME,SAS,L (-17),0,15:35,5,9,.556,2,2,1.000,2,2,1.000,0,1,1,0,0,0,0,3,14,8.8,-19,Alec Burks
+2019-11-02,28-105,GSW,HOME,CHO,L (-6),0,24:47,0,3,.000,0,0,,0,0,,0,4,4,3,0,1,1,0,0,0.9,-4,Alec Burks
+2019-11-04,28-107,GSW,HOME,POR,W (+9),0,27:58,4,12,.333,1,4,.250,4,5,.800,0,4,4,2,0,0,2,3,13,5.2,+6,Alec Burks
+2019-11-06,28-109,GSW,AWAY,HOU,L (-17),0,31:24,10,18,.556,3,8,.375,5,6,.833,0,8,8,3,2,0,2,2,28,22.7,+2,Alec Burks
+2019-11-08,28-111,GSW,AWAY,MIN,L (-6),0,31:45,5,10,.500,2,6,.333,6,6,1.000,2,7,9,1,0,2,3,3,18,14.4,-2,Alec Burks
+2019-11-09,28-112,GSW,AWAY,OKC,L (-6),1,36:41,9,17,.529,0,1,.000,5,5,1.000,1,4,5,4,1,1,1,4,23,18.5,+5,Alec Burks
+2019-11-11,28-114,GSW,HOME,UTA,L (-14),0,18:44,2,5,.400,2,3,.667,4,4,1.000,1,0,1,3,1,1,0,3,10,10.6,-6,Alec Burks
+2019-11-13,28-116,GSW,AWAY,LAL,L (-26),0,21:37,2,7,.286,2,4,.500,3,5,.600,1,2,3,2,0,0,0,0,9,6.8,-12,Alec Burks
+2019-11-15,28-118,GSW,HOME,BOS,L (-5),0,30:30,4,11,.364,1,3,.333,11,12,.917,0,3,3,1,1,0,0,3,20,14.9,+3,Alec Burks
+2019-11-17,28-120,GSW,AWAY,NOP,L (-8),1,29:44,2,13,.154,0,4,.000,3,4,.750,1,3,4,5,0,0,0,3,7,2.2,-14,Alec Burks
+2019-11-19,28-122,GSW,AWAY,MEM,W (+19),1,35:41,9,15,.600,2,5,.400,9,9,1.000,0,8,8,2,1,1,5,1,29,22.2,+9,Alec Burks
+2019-11-20,28-123,GSW,AWAY,DAL,L (-48),1,28:39,3,11,.273,1,4,.250,4,4,1.000,0,4,4,4,1,0,2,2,11,6.7,-37,Alec Burks
+2019-11-22,28-125,GSW,AWAY,UTA,L (-4),1,34:40,7,18,.389,2,6,.333,4,4,1.000,1,5,6,3,5,0,1,3,20,17.3,-1,Alec Burks
+2019-11-25,28-128,GSW,HOME,OKC,L (-3),1,32:58,3,17,.176,1,4,.250,0,0,,0,4,4,3,1,0,3,1,7,-2.8,-15,Alec Burks
+2019-11-27,28-130,GSW,HOME,CHI,W (+14),1,35:20,9,19,.474,3,8,.375,2,3,.667,2,8,10,7,0,0,2,3,23,18.4,+7,Alec Burks
+2019-11-29,28-132,GSW,AWAY,MIA,L (-17),1,31:11,6,13,.462,2,5,.400,2,3,.667,0,1,1,1,2,0,0,4,16,10.3,-22,Alec Burks
+2019-12-01,28-134,GSW,AWAY,ORL,L (-4),1,36:13,6,16,.375,1,5,.200,2,3,.667,2,3,5,3,3,0,2,1,15,10.8,-9,Alec Burks
+2019-12-02,28-135,GSW,AWAY,ATL,L (-25),1,31:35,5,16,.313,1,5,.200,4,5,.800,2,1,3,3,0,0,2,3,15,6.0,-8,Alec Burks
+2019-12-04,28-137,GSW,AWAY,CHO,L (-15),0,30:13,6,7,.857,2,3,.667,1,1,1.000,0,4,4,4,2,0,1,1,15,17.1,-9,Alec Burks
+2019-12-06,28-139,GSW,AWAY,CHI,W (+2),0,29:43,6,10,.600,1,3,.333,1,1,1.000,0,4,4,3,1,0,1,1,14,12.3,+10,Alec Burks
+2019-12-09,28-142,GSW,HOME,MEM,L (-8),0,30:06,4,9,.444,2,4,.500,8,8,1.000,2,5,7,6,3,0,3,3,18,19.2,+4,Alec Burks
+2019-12-11,28-144,GSW,HOME,NYK,L (-2),0,33:18,6,14,.429,1,4,.250,5,5,1.000,1,4,5,2,2,0,2,2,18,13.1,+2,Alec Burks
+2019-12-13,28-146,GSW,AWAY,UTA,L (-8),1,29:32,10,16,.625,2,4,.500,2,2,1.000,2,3,5,3,0,0,1,4,24,18.6,-24,Alec Burks
+2019-12-15,28-148,GSW,HOME,SAC,L (-21),0,22:03,3,8,.375,1,3,.333,4,6,.667,2,0,2,3,2,0,5,1,11,5.9,-16,Alec Burks
+2019-12-18,28-151,GSW,AWAY,POR,L (-10),0,33:22,6,20,.300,4,9,.444,0,0,,0,6,6,4,1,1,2,2,16,7.9,-9,Alec Burks
+2019-12-20,28-153,GSW,HOME,NOP,W (+4),0,29:58,7,13,.538,0,5,.000,4,4,1.000,1,7,8,3,4,0,1,2,18,18.8,+6,Alec Burks
+2019-12-23,28-156,GSW,HOME,MIN,W (+9),1,34:26,8,13,.615,3,6,.500,6,6,1.000,0,2,2,8,3,1,1,2,25,27.2,+17,Alec Burks
+2019-12-25,28-158,GSW,HOME,HOU,W (+12),0,23:44,2,9,.222,1,5,.200,3,4,.750,0,5,5,4,0,1,1,3,8,4.9,-7,Alec Burks
+2019-12-27,28-160,GSW,HOME,PHO,W (+9),0,25:27,5,14,.357,1,3,.333,2,3,.667,0,5,5,1,1,0,0,1,13,7.6,+3,Alec Burks
+2019-12-28,28-161,GSW,HOME,DAL,L (-20),0,26:23,5,11,.455,2,6,.333,4,4,1.000,0,0,0,0,3,0,1,2,16,11.5,-21,Alec Burks
+2019-12-31,28-164,GSW,AWAY,SAS,L (-4),1,38:14,9,20,.450,4,5,.800,6,9,.667,1,3,4,4,1,1,0,0,28,22.5,+2,Alec Burks
+2020-01-02,28-166,GSW,AWAY,MIN,L (-15),1,22:17,3,5,.600,1,1,1.000,0,0,,0,3,3,1,1,0,4,5,7,1.3,-11,Alec Burks
+2020-01-04,28-168,GSW,HOME,DET,L (-7),0,31:33,5,13,.385,3,6,.500,14,14,1.000,2,5,7,5,1,0,2,2,27,24.5,+10,Alec Burks
+2020-01-06,28-170,GSW,AWAY,SAC,L (-13),0,25:41,2,10,.200,0,4,.000,6,6,1.000,1,5,6,3,0,1,2,3,10,5.6,-12,Alec Burks
+2020-01-08,28-172,GSW,HOME,MIL,L (-9),0,26:24,5,13,.385,3,5,.600,6,6,1.000,2,3,5,7,0,1,1,5,19,16.8,-8,Alec Burks
+2020-01-10,28-174,GSW,AWAY,LAC,L (-9),0,31:37,3,17,.176,1,7,.143,9,9,1.000,2,6,8,5,0,0,2,1,16,9.6,+7,Alec Burks
+2020-01-12,28-176,GSW,AWAY,MEM,L (-20),1,27:32,4,12,.333,1,2,.500,4,5,.800,1,5,6,0,0,0,3,3,13,3.8,-15,Alec Burks
+2020-01-14,28-178,GSW,HOME,DAL,L (-27),1,29:15,4,13,.308,2,6,.333,0,0,,1,5,6,5,0,0,1,2,10,6.4,-21,Alec Burks
+2020-01-16,28-180,GSW,HOME,DEN,L (-3),0,31:44,6,14,.429,4,9,.444,9,10,.900,0,4,4,1,1,0,4,3,25,14.9,+8,Alec Burks
+2020-01-18,28-182,GSW,HOME,ORL,W (+14),1,32:02,4,15,.267,0,5,.000,3,3,1.000,0,6,6,4,0,0,0,1,11,6.3,0,Alec Burks
+2020-01-20,28-184,GSW,AWAY,POR,L (-5),1,39:16,11,23,.478,2,6,.333,9,9,1.000,2,5,7,8,1,3,0,6,33,30.5,0,Alec Burks
+2020-01-22,28-186,GSW,HOME,UTA,L (-33),0,24:23,2,7,.286,1,2,.500,2,2,1.000,1,5,6,1,1,0,0,2,7,6.0,-13,Alec Burks
+2020-01-24,28-188,GSW,HOME,IND,L (-11),0,25:54,3,14,.214,2,7,.286,3,4,.750,1,4,5,7,0,0,1,3,11,6.6,-14,Alec Burks
+2020-01-28,28-192,GSW,AWAY,PHI,L (-11),0,25:55,3,8,.375,2,3,.667,4,5,.800,1,5,6,2,1,0,4,2,12,7.0,-31,Alec Burks
+2020-01-30,28-194,GSW,AWAY,BOS,L (-15),0,24:23,5,10,.500,3,6,.500,5,6,.833,0,4,4,0,1,0,2,0,18,12.8,-11,Alec Burks
+2020-02-01,28-196,GSW,AWAY,CLE,W (+19),0,23:47,4,10,.400,3,5,.600,4,4,1.000,1,2,3,3,0,2,2,1,15,12.0,+6,Alec Burks
+2020-02-03,28-198,GSW,AWAY,WAS,W (+8),0,28:59,9,17,.529,5,10,.500,7,8,.875,0,3,3,2,2,0,2,1,30,23.2,+7,Alec Burks
+2020-02-05,28-200,GSW,AWAY,BRK,L (-41),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Alec Burks
+2020-02-11,28-206,PHI,HOME,LAC,W (+7),0,14:20,1,4,.250,0,2,.000,0,0,,0,0,0,2,0,0,0,1,2,0.6,-1,Alec Burks
+2020-02-20,28-215,PHI,HOME,BRK,W (+8),0,29:44,6,11,.545,2,4,.500,5,5,1.000,0,4,4,1,0,0,0,2,19,14.8,+4,Alec Burks
+2020-02-22,28-217,PHI,AWAY,MIL,L (-21),0,21:21,3,13,.231,1,5,.200,1,2,.500,2,2,4,1,2,0,1,2,8,2.6,-11,Alec Burks
+2020-02-24,28-219,PHI,HOME,ATL,W (+17),0,16:21,3,5,.600,1,3,.333,0,0,,0,1,1,2,0,0,1,2,7,4.6,-12,Alec Burks
+2020-02-26,28-221,PHI,AWAY,CLE,L (-14),0,17:19,6,12,.500,1,4,.250,0,0,,0,2,2,2,2,0,1,1,13,9.6,-8,Alec Burks
+2020-02-27,28-222,PHI,HOME,NYK,W (+9),0,17:57,2,10,.200,1,4,.250,2,2,1.000,0,4,4,2,0,0,0,1,7,3.0,+11,Alec Burks
+2020-03-01,28-225,PHI,AWAY,LAC,L (-6),0,25:24,5,13,.385,3,7,.429,2,2,1.000,0,6,6,3,0,0,1,0,15,10.8,-9,Alec Burks
+2020-03-03,28-227,PHI,AWAY,LAL,L (-13),0,22:06,2,7,.286,1,5,.200,7,8,.875,1,3,4,1,0,0,1,1,12,8.4,-7,Alec Burks
+2020-03-05,28-229,PHI,AWAY,SAC,W (+17),0,18:40,6,12,.500,3,6,.500,2,2,1.000,1,2,3,1,2,0,1,2,17,13.2,-1,Alec Burks
+2020-03-07,28-231,PHI,AWAY,GSW,L (-4),0,17:56,4,8,.500,2,6,.333,1,2,.500,1,3,4,2,0,0,0,0,11,9.6,+2,Alec Burks
+2020-03-11,28-235,PHI,HOME,DET,W (+18),0,20:29,1,5,.200,1,3,.333,4,4,1.000,1,3,4,3,2,0,3,1,7,6.2,+17,Alec Burks
+2020-08-01,29-012,PHI,AWAY,IND,L (-6),0,12:14,3,4,.750,3,3,1.000,0,0,,0,2,2,1,0,0,4,3,9,3.5,-2,Alec Burks
+2020-08-03,29-014,PHI,HOME,SAS,W (+2),0,9:57,1,1,1.000,1,1,1.000,0,0,,0,1,1,2,0,0,0,0,3,4.4,-3,Alec Burks
+2020-08-05,29-016,PHI,AWAY,WAS,W (+9),0,19:34,3,5,.600,2,2,1.000,1,2,.500,0,1,1,2,1,0,0,1,9,8.6,+7,Alec Burks
+2020-08-07,29-018,PHI,HOME,ORL,W (+7),0,27:31,8,15,.533,3,7,.429,3,5,.600,1,3,4,2,0,0,1,3,22,14.7,+12,Alec Burks
+2020-08-09,29-020,PHI,AWAY,POR,L (-3),0,23:27,8,14,.571,1,4,.250,3,3,1.000,2,3,5,2,0,0,1,0,20,16.1,+1,Alec Burks
+2020-08-11,29-022,PHI,HOME,PHO,L (-13),1,27:42,9,17,.529,2,5,.400,3,4,.750,0,2,2,4,1,0,0,1,23,18.3,-2,Alec Burks
+2020-08-14,29-025,PHI,AWAY,HOU,W (+38),0,22:09,6,11,.545,4,6,.667,0,0,,2,3,5,5,2,0,0,0,16,18.5,+37,Alec Burks
+2019-10-30,26-073,GSW,HOME,PHO,L (-11),0,12:19,5,5,1.000,0,0,,2,2,1.000,2,3,5,1,0,1,0,3,12,13.0,-8,Willie Cauley-Stein
+2019-11-01,26-075,GSW,HOME,SAS,L (-17),1,17:01,3,7,.429,0,0,,0,0,,0,5,5,0,1,0,0,2,6,4.0,-4,Willie Cauley-Stein
+2019-11-02,26-076,GSW,HOME,CHO,L (-6),1,21:13,4,7,.571,0,0,,0,0,,0,8,8,2,1,1,0,3,8,9.0,+6,Willie Cauley-Stein
+2019-11-04,26-078,GSW,HOME,POR,W (+9),1,15:30,4,5,.800,0,0,,2,2,1.000,1,2,3,2,2,0,1,3,10,10.6,+7,Willie Cauley-Stein
+2019-11-06,26-080,GSW,AWAY,HOU,L (-17),1,19:59,1,6,.167,0,0,,2,2,1.000,3,1,4,2,0,0,0,3,4,2.8,-18,Willie Cauley-Stein
+2019-11-08,26-082,GSW,AWAY,MIN,L (-6),1,24:51,2,5,.400,0,0,,0,0,,2,6,8,0,1,3,2,2,4,4.8,-4,Willie Cauley-Stein
+2019-11-09,26-083,GSW,AWAY,OKC,L (-6),1,23:32,5,9,.556,0,0,,0,0,,0,6,6,0,0,3,3,5,10,4.6,-11,Willie Cauley-Stein
+2019-11-11,26-085,GSW,HOME,UTA,L (-14),1,26:14,4,7,.571,0,0,,0,2,.000,1,10,11,2,2,1,1,5,8,8.7,-7,Willie Cauley-Stein
+2019-11-13,26-087,GSW,AWAY,LAL,L (-26),1,22:42,5,7,.714,0,0,,0,0,,3,2,5,3,0,2,0,3,10,12.1,-14,Willie Cauley-Stein
+2019-11-15,26-089,GSW,HOME,BOS,L (-5),1,25:04,5,6,.833,0,0,,0,0,,1,7,8,2,1,1,1,0,10,12.7,+6,Willie Cauley-Stein
+2019-11-17,26-091,GSW,AWAY,NOP,L (-8),1,24:38,4,5,.800,0,0,,1,1,1.000,0,4,4,1,3,1,0,3,9,11.5,-6,Willie Cauley-Stein
+2019-11-19,26-093,GSW,AWAY,MEM,W (+19),1,26:21,2,3,.667,0,0,,2,2,1.000,2,8,10,4,2,1,1,2,6,12.2,+4,Willie Cauley-Stein
+2019-11-20,26-094,GSW,AWAY,DAL,L (-48),1,25:29,3,7,.429,0,0,,1,2,.500,0,4,4,1,1,2,0,1,7,6.8,-34,Willie Cauley-Stein
+2019-11-22,26-096,GSW,AWAY,UTA,L (-4),1,28:03,1,4,.250,0,0,,0,0,,0,4,4,4,1,1,3,4,2,0.7,+1,Willie Cauley-Stein
+2019-11-25,26-099,GSW,HOME,OKC,L (-3),1,29:24,2,7,.286,0,0,,0,0,,2,4,6,1,2,0,0,3,4,4.0,-10,Willie Cauley-Stein
+2019-11-27,26-101,GSW,HOME,CHI,W (+14),1,16:36,0,5,.000,0,0,,3,4,.750,3,6,9,3,1,1,3,1,3,3.4,+1,Willie Cauley-Stein
+2019-11-29,26-103,GSW,AWAY,MIA,L (-17),1,24:01,7,10,.700,0,0,,0,0,,2,4,6,0,0,1,1,6,14,9.7,-12,Willie Cauley-Stein
+2019-12-01,26-105,GSW,AWAY,ORL,L (-4),1,24:03,5,10,.500,0,0,,1,2,.500,4,8,12,3,1,1,1,3,11,12.4,-11,Willie Cauley-Stein
+2019-12-02,26-106,GSW,AWAY,ATL,L (-25),1,19:14,2,4,.500,0,0,,0,0,,0,4,4,0,2,2,1,5,4,3.6,-8,Willie Cauley-Stein
+2019-12-04,26-108,GSW,AWAY,CHO,L (-15),1,17:57,3,4,.750,0,0,,2,4,.500,2,5,7,0,1,2,1,1,8,9.5,-8,Willie Cauley-Stein
+2019-12-06,26-110,GSW,AWAY,CHI,W (+2),1,24:15,5,8,.625,0,0,,0,2,.000,3,4,7,2,0,1,1,3,10,8.8,+6,Willie Cauley-Stein
+2019-12-09,26-113,GSW,HOME,MEM,L (-8),1,24:16,6,9,.667,0,0,,5,6,.833,2,6,8,2,1,2,1,2,17,17.9,-8,Willie Cauley-Stein
+2019-12-11,26-115,GSW,HOME,NYK,L (-2),1,22:21,3,7,.429,0,0,,1,2,.500,2,3,5,0,0,3,0,2,7,6.5,+5,Willie Cauley-Stein
+2019-12-13,26-117,GSW,AWAY,UTA,L (-8),1,23:24,0,4,.000,0,0,,0,0,,2,3,5,1,2,3,1,5,0,1.3,-11,Willie Cauley-Stein
+2019-12-15,26-119,GSW,HOME,SAC,L (-21),1,29:43,7,9,.778,0,0,,0,1,.000,0,5,5,2,6,0,3,2,14,15.2,+1,Willie Cauley-Stein
+2019-12-18,26-122,GSW,AWAY,POR,L (-10),1,22:36,6,8,.750,0,0,,0,2,.000,3,4,7,1,1,0,1,3,12,10.8,-7,Willie Cauley-Stein
+2019-12-20,26-124,GSW,HOME,NOP,W (+4),1,27:40,3,6,.500,0,0,,2,2,1.000,2,5,7,2,0,3,1,3,8,9.2,-4,Willie Cauley-Stein
+2019-12-23,26-127,GSW,HOME,MIN,W (+9),1,30:15,6,8,.750,0,0,,0,0,,2,5,7,1,2,3,0,2,12,15.7,+25,Willie Cauley-Stein
+2019-12-25,26-129,GSW,HOME,HOU,W (+12),1,31:28,5,7,.714,0,0,,0,0,,0,4,4,0,2,4,1,0,10,12.1,+29,Willie Cauley-Stein
+2019-12-27,26-131,GSW,HOME,PHO,W (+9),1,25:03,4,6,.667,0,0,,1,3,.333,2,2,4,1,2,0,0,3,9,9.1,+12,Willie Cauley-Stein
+2019-12-28,26-132,GSW,HOME,DAL,L (-20),1,18:42,2,5,.400,0,0,,0,0,,1,4,5,1,0,1,2,3,4,1.4,-6,Willie Cauley-Stein
+2020-01-04,26-139,GSW,HOME,DET,L (-7),1,14:10,2,5,.400,0,0,,1,2,.500,1,2,3,0,0,0,1,1,5,1.8,-15,Willie Cauley-Stein
+2020-01-06,26-141,GSW,AWAY,SAC,L (-13),1,26:16,4,8,.500,0,0,,0,0,,6,3,9,5,2,1,0,0,8,15.3,-10,Willie Cauley-Stein
+2020-01-08,26-143,GSW,HOME,MIL,L (-9),1,20:54,4,6,.667,0,0,,2,2,1.000,2,9,11,0,0,0,0,3,10,10.3,-3,Willie Cauley-Stein
+2020-01-10,26-145,GSW,AWAY,LAC,L (-9),0,16:13,2,3,.667,0,0,,0,2,.000,2,5,7,1,0,0,0,1,4,5.1,+1,Willie Cauley-Stein
+2020-01-12,26-147,GSW,AWAY,MEM,L (-20),0,16:58,0,5,.000,0,0,,1,2,.500,0,3,3,1,0,0,3,1,1,-4.7,-10,Willie Cauley-Stein
+2020-01-14,26-149,GSW,HOME,DAL,L (-27),0,17:38,3,5,.600,0,0,,2,2,1.000,1,5,6,0,2,1,0,3,8,9.4,-3,Willie Cauley-Stein
+2020-01-16,26-151,GSW,HOME,DEN,L (-3),1,33:10,4,5,.800,0,0,,2,4,.500,4,2,6,2,1,1,1,2,10,12.0,-15,Willie Cauley-Stein
+2020-01-18,26-153,GSW,HOME,ORL,W (+14),1,25:03,5,5,1.000,0,0,,0,0,,2,4,6,2,1,0,0,0,10,13.5,+24,Willie Cauley-Stein
+2020-01-20,26-155,GSW,AWAY,POR,L (-5),1,32:23,6,10,.600,0,0,,0,0,,6,1,7,3,1,2,0,1,12,16.0,-8,Willie Cauley-Stein
+2020-01-22,26-157,GSW,HOME,UTA,L (-33),1,13:50,0,5,.000,0,0,,2,2,1.000,0,4,4,2,0,1,0,4,2,0.2,-13,Willie Cauley-Stein
+2020-01-28,26-163,DAL,HOME,PHO,L (-29),0,12:22,2,4,.500,0,0,,0,0,,2,1,3,1,2,0,0,1,4,6.0,+5,Willie Cauley-Stein
+2020-01-31,26-166,DAL,AWAY,HOU,L (-7),0,11:28,1,2,.500,0,0,,0,0,,1,5,6,2,0,1,1,5,2,2.3,+8,Willie Cauley-Stein
+2020-02-01,26-167,DAL,HOME,ATL,W (+23),1,25:54,3,8,.375,0,0,,1,2,.500,3,7,10,1,1,2,1,0,7,8.5,+1,Willie Cauley-Stein
+2020-02-03,26-169,DAL,AWAY,IND,W (+9),0,6:28,0,0,,0,0,,0,0,,0,2,2,1,0,1,1,2,0,0.2,-5,Willie Cauley-Stein
+2020-02-05,26-171,DAL,HOME,MEM,L (-14),0,12:01,2,2,1.000,0,0,,0,0,,1,2,3,0,0,2,1,3,4,3.9,-16,Willie Cauley-Stein
+2020-02-07,26-173,DAL,AWAY,WAS,L (-1),0,8:49,3,5,.600,0,0,,0,0,,0,5,5,1,1,0,0,0,6,6.9,+2,Willie Cauley-Stein
+2020-02-08,26-174,DAL,AWAY,CHO,W (+16),1,25:03,7,7,1.000,0,0,,1,1,1.000,2,8,10,1,0,2,0,3,15,17.6,+25,Willie Cauley-Stein
+2020-02-10,26-176,DAL,HOME,UTA,L (-4),0,4:45,3,3,1.000,0,0,,2,3,.667,0,1,1,0,0,0,0,1,8,6.6,-3,Willie Cauley-Stein
+2020-02-12,26-178,DAL,HOME,SAC,W (+19),0,3:42,2,3,.667,0,1,.000,0,0,,0,1,1,0,0,0,0,1,4,2.6,-1,Willie Cauley-Stein
+2020-03-04,26-199,DAL,HOME,NOP,W (+4),0,15:45,1,1,1.000,0,0,,0,0,,0,5,5,0,0,2,0,0,2,4.6,-2,Willie Cauley-Stein
+2020-03-06,26-201,DAL,HOME,MEM,W (+25),0,10:34,2,5,.400,0,0,,0,0,,3,1,4,3,0,1,0,0,4,6.5,-7,Willie Cauley-Stein
+2020-03-08,26-203,DAL,HOME,IND,L (-3),0,9:37,2,2,1.000,0,0,,1,3,.333,0,3,3,0,0,0,0,2,5,3.7,-3,Willie Cauley-Stein
+2020-03-11,26-206,DAL,HOME,DEN,W (+16),0,10:30,3,3,1.000,0,0,,0,0,,1,6,7,0,0,0,1,1,6,6.2,+5,Willie Cauley-Stein
+2019-10-24,22-114,GSW,HOME,LAC,L (-19),0,14:29,1,2,.500,0,0,,6,6,1.000,2,2,4,1,1,0,1,4,8,8.1,0,Marquese Chriss
+2019-10-27,22-117,GSW,AWAY,OKC,L (-28),1,23:10,3,7,.429,0,1,.000,4,6,.667,2,2,4,3,4,0,3,3,10,9.4,-28,Marquese Chriss
+2019-10-28,22-118,GSW,AWAY,NOP,W (+11),0,8:34,2,3,.667,0,0,,0,0,,0,2,2,0,0,0,0,3,4,2.1,-1,Marquese Chriss
+2019-11-01,22-122,GSW,HOME,SAS,L (-17),0,19:20,2,4,.500,0,0,,0,0,,3,6,9,2,0,1,3,1,4,4.6,-2,Marquese Chriss
+2019-11-02,22-123,GSW,HOME,CHO,L (-6),0,7:31,0,2,.000,0,0,,0,0,,0,1,1,2,0,1,3,1,0,-2.4,-9,Marquese Chriss
+2019-11-04,22-125,GSW,HOME,POR,W (+9),0,14:05,2,3,.667,1,2,.500,0,0,,1,3,4,3,0,1,0,2,5,7.3,+5,Marquese Chriss
+2019-11-06,22-127,GSW,AWAY,HOU,L (-17),0,12:42,1,4,.250,0,0,,2,2,1.000,2,5,7,1,1,0,0,1,4,5.8,+4,Marquese Chriss
+2019-11-08,22-129,GSW,AWAY,MIN,L (-6),0,12:58,4,6,.667,0,0,,0,0,,1,2,3,2,1,0,2,3,8,5.9,-3,Marquese Chriss
+2019-11-09,22-130,GSW,AWAY,OKC,L (-6),0,24:28,4,7,.571,0,1,.000,2,2,1.000,1,3,4,1,0,2,2,1,10,8.0,+5,Marquese Chriss
+2019-11-11,22-132,GSW,HOME,UTA,L (-14),0,16:31,4,7,.571,1,2,.500,2,2,1.000,1,5,6,2,0,0,0,0,11,11.3,-7,Marquese Chriss
+2019-11-13,22-134,GSW,AWAY,LAL,L (-26),0,16:34,0,5,.000,0,1,.000,0,0,,1,5,6,2,0,2,3,3,0,-2.7,-4,Marquese Chriss
+2019-11-15,22-136,GSW,HOME,BOS,L (-5),0,12:55,2,3,.667,0,1,.000,0,0,,0,2,2,0,0,0,1,0,4,2.3,-12,Marquese Chriss
+2019-11-17,22-138,GSW,AWAY,NOP,L (-8),0,18:22,3,6,.500,0,0,,4,4,1.000,3,4,7,2,1,1,3,3,10,9.2,+1,Marquese Chriss
+2019-11-19,22-140,GSW,AWAY,MEM,W (+19),0,21:12,7,11,.636,0,2,.000,3,4,.750,2,4,6,2,0,4,2,3,17,15.3,+15,Marquese Chriss
+2019-11-20,22-141,GSW,AWAY,DAL,L (-48),0,26:56,3,11,.273,0,2,.000,5,8,.625,3,2,5,2,2,2,0,3,11,9.6,-17,Marquese Chriss
+2019-11-22,22-143,GSW,AWAY,UTA,L (-4),0,22:01,5,8,.625,0,0,,0,0,,2,2,4,4,1,1,0,1,10,12.5,-10,Marquese Chriss
+2019-11-25,22-146,GSW,HOME,OKC,L (-3),0,23:22,2,5,.400,0,1,.000,2,2,1.000,1,4,5,7,1,2,0,2,6,11.7,+6,Marquese Chriss
+2019-11-27,22-148,GSW,HOME,CHI,W (+14),0,20:19,5,5,1.000,1,1,1.000,0,0,,1,4,5,1,4,2,3,4,11,12.9,+6,Marquese Chriss
+2019-11-29,22-150,GSW,AWAY,MIA,L (-17),0,23:59,1,3,.333,0,1,.000,8,8,1.000,1,4,5,6,0,0,1,3,10,12.2,-5,Marquese Chriss
+2019-12-01,22-152,GSW,AWAY,ORL,L (-4),0,22:44,0,2,.000,0,1,.000,3,4,.750,0,6,6,1,0,2,0,2,3,4.3,+8,Marquese Chriss
+2019-12-02,22-153,GSW,AWAY,ATL,L (-25),0,19:49,4,11,.364,0,1,.000,0,0,,3,2,5,1,1,0,6,2,8,-0.5,-9,Marquese Chriss
+2019-12-04,22-155,GSW,AWAY,CHO,L (-15),0,14:48,0,2,.000,0,0,,2,2,1.000,0,4,4,0,0,0,1,0,2,0.8,-8,Marquese Chriss
+2019-12-06,22-157,GSW,AWAY,CHI,W (+2),0,15:13,4,6,.667,1,1,1.000,0,0,,1,2,3,1,0,1,1,1,9,7.7,+1,Marquese Chriss
+2019-12-09,22-160,GSW,HOME,MEM,L (-8),0,12:38,2,6,.333,0,1,.000,0,0,,2,3,5,0,0,0,0,2,4,2.1,+5,Marquese Chriss
+2019-12-11,22-162,GSW,HOME,NYK,L (-2),0,24:02,4,8,.500,0,1,.000,4,6,.667,6,4,10,2,1,3,1,2,12,15.3,-3,Marquese Chriss
+2019-12-13,22-164,GSW,AWAY,UTA,L (-8),0,23:05,4,7,.571,0,0,,4,7,.571,3,10,13,5,1,2,1,3,12,16.3,+5,Marquese Chriss
+2019-12-15,22-166,GSW,HOME,SAC,L (-21),0,10:35,1,3,.333,0,0,,0,0,,1,4,5,0,0,0,1,1,2,0.8,-17,Marquese Chriss
+2019-12-18,22-169,GSW,AWAY,POR,L (-10),0,16:54,2,2,1.000,0,0,,6,9,.667,5,5,10,1,0,1,1,1,10,13.2,-1,Marquese Chriss
+2019-12-20,22-171,GSW,HOME,NOP,W (+4),0,12:31,2,3,.667,0,0,,4,4,1.000,0,5,5,0,0,0,2,2,8,5.4,-5,Marquese Chriss
+2019-12-23,22-174,GSW,HOME,MIN,W (+9),0,11:52,3,7,.429,0,0,,0,0,,5,6,11,0,0,0,4,1,6,3.2,-13,Marquese Chriss
+2019-12-25,22-176,GSW,HOME,HOU,W (+12),0,12:27,3,6,.500,0,1,.000,0,0,,1,1,2,0,0,0,2,4,6,0.4,-10,Marquese Chriss
+2019-12-27,22-178,GSW,HOME,PHO,W (+9),0,13:27,1,1,1.000,0,0,,0,0,,1,0,1,1,0,0,1,1,2,1.7,-11,Marquese Chriss
+2019-12-28,22-179,GSW,HOME,DAL,L (-20),0,16:40,5,9,.556,0,0,,6,8,.750,2,3,5,2,0,2,0,0,16,16.0,+2,Marquese Chriss
+2019-12-31,22-182,GSW,AWAY,SAS,L (-4),1,33:57,3,6,.500,0,0,,1,2,.500,5,6,11,5,1,1,3,3,7,9.9,-1,Marquese Chriss
+2020-01-02,22-184,GSW,AWAY,MIN,L (-15),1,22:20,3,6,.500,0,0,,0,2,.000,2,5,7,5,0,1,0,3,6,8.1,-8,Marquese Chriss
+2020-01-04,22-186,GSW,HOME,DET,L (-7),0,17:36,3,6,.500,0,0,,2,4,.500,3,1,4,2,2,0,0,1,8,9.6,+4,Marquese Chriss
+2020-01-06,22-188,GSW,AWAY,SAC,L (-13),0,14:41,2,7,.286,1,1,1.000,3,4,.750,2,3,5,1,0,1,1,2,8,5.4,-9,Marquese Chriss
+2020-01-16,22-198,GSW,HOME,DEN,L (-3),0,11:26,2,4,.500,0,0,,0,0,,1,1,2,1,1,1,2,3,4,2.2,+3,Marquese Chriss
+2020-01-18,22-200,GSW,HOME,ORL,W (+14),0,15:01,2,3,.667,0,0,,0,0,,2,5,7,0,0,1,1,1,4,4.9,-9,Marquese Chriss
+2020-01-20,22-202,GSW,AWAY,POR,L (-5),0,20:49,7,9,.778,0,0,,0,0,,2,4,6,1,1,0,1,1,14,13.4,+2,Marquese Chriss
+2020-01-22,22-204,GSW,HOME,UTA,L (-33),0,17:37,5,9,.556,0,1,.000,1,2,.500,4,4,8,1,0,0,0,1,11,10.6,-16,Marquese Chriss
+2020-01-24,22-206,GSW,HOME,IND,L (-11),1,21:29,5,5,1.000,1,1,1.000,2,2,1.000,1,2,3,1,2,2,2,2,13,14.1,-3,Marquese Chriss
+2020-01-28,22-210,GSW,AWAY,PHI,L (-11),1,31:07,6,10,.600,0,2,.000,3,4,.750,1,4,5,2,0,0,0,2,15,12.5,+8,Marquese Chriss
+2020-01-30,22-212,GSW,AWAY,BOS,L (-15),1,23:00,4,6,.667,0,0,,1,2,.500,1,2,3,1,2,1,0,1,9,10.3,-1,Marquese Chriss
+2020-02-01,22-214,GSW,AWAY,CLE,W (+19),1,24:55,5,11,.455,0,0,,0,0,,3,4,7,3,1,4,1,1,10,12.1,+13,Marquese Chriss
+2020-02-03,22-216,GSW,AWAY,WAS,W (+8),1,25:40,5,5,1.000,0,0,,3,4,.750,2,3,5,1,0,2,1,3,13,13.3,-8,Marquese Chriss
+2020-02-05,22-218,GSW,AWAY,BRK,L (-41),1,28:25,3,10,.300,1,4,.250,1,1,1.000,1,6,7,0,0,3,1,2,8,5.0,-42,Marquese Chriss
+2020-02-08,22-221,GSW,HOME,LAL,L (-5),1,27:19,12,15,.800,1,2,.500,1,1,1.000,2,7,9,1,1,2,0,3,26,25.7,-7,Marquese Chriss
+2020-02-10,22-223,GSW,HOME,MIA,L (-12),1,26:43,5,10,.500,0,2,.000,7,9,.778,3,6,9,0,2,1,1,3,17,15.6,+1,Marquese Chriss
+2020-02-12,22-225,GSW,AWAY,PHO,L (-6),1,31:06,7,11,.636,0,1,.000,4,6,.667,2,10,12,3,0,3,3,3,18,16.7,+2,Marquese Chriss
+2020-02-20,22-233,GSW,HOME,HOU,L (-30),1,17:52,4,8,.500,0,0,,2,2,1.000,1,4,5,2,0,1,1,1,10,8.6,-12,Marquese Chriss
+2020-02-23,22-236,GSW,HOME,NOP,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Marquese Chriss
+2020-02-25,22-238,GSW,HOME,SAC,L (-18),1,25:21,8,10,.800,0,1,.000,5,6,.833,1,9,10,3,0,0,1,4,21,19.7,-12,Marquese Chriss
+2020-02-27,22-240,GSW,HOME,LAL,L (-30),1,23:04,2,5,.400,0,0,,0,0,,2,5,7,4,0,1,1,4,4,5.1,-13,Marquese Chriss
+2020-02-29,22-242,GSW,AWAY,PHO,W (+16),1,25:41,3,6,.500,0,0,,5,8,.625,2,7,9,3,3,1,2,4,11,12.5,+15,Marquese Chriss
+2020-03-01,22-243,GSW,HOME,WAS,L (-14),1,30:13,6,8,.750,0,0,,0,0,,2,11,13,2,0,2,5,3,12,10.1,-18,Marquese Chriss
+2020-03-03,22-245,GSW,AWAY,DEN,W (+16),1,24:52,7,12,.583,0,1,.000,2,2,1.000,1,4,5,1,2,1,1,3,16,13.5,+12,Marquese Chriss
+2020-03-05,22-247,GSW,HOME,TOR,L (-8),1,29:56,6,14,.429,0,1,.000,5,6,.833,5,7,12,4,1,2,1,2,17,18.2,+5,Marquese Chriss
+2020-03-07,22-249,GSW,HOME,PHI,W (+4),1,32:41,6,9,.667,0,1,.000,1,1,1.000,3,7,10,8,1,1,0,2,13,19.8,+12,Marquese Chriss
+2020-03-10,22-252,GSW,HOME,LAC,L (-24),1,27:09,3,5,.600,0,0,,4,4,1.000,3,7,10,2,0,0,1,1,10,11.9,-32,Marquese Chriss
+2019-10-24,31-224,GSW,HOME,LAC,L (-19),1,29:48,8,20,.400,2,11,.182,5,5,1.000,1,3,4,4,1,0,8,3,23,8.4,-19,Stephen Curry
+2019-10-27,31-227,GSW,AWAY,OKC,L (-28),1,30:08,7,18,.389,2,9,.222,7,7,1.000,2,6,8,5,0,0,2,0,23,17.9,-30,Stephen Curry
+2019-10-28,31-228,GSW,AWAY,NOP,W (+11),1,31:00,9,17,.529,4,10,.400,4,4,1.000,1,2,3,11,3,0,1,5,26,26.7,+32,Stephen Curry
+2019-10-30,31-230,GSW,HOME,PHO,L (-11),1,21:09,3,11,.273,1,7,.143,2,2,1.000,0,5,5,6,1,2,4,2,9,5.8,-13,Stephen Curry
+2020-02-20,31-343,GSW,HOME,HOU,L (-30),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stephen Curry
+2020-03-05,31-357,GSW,HOME,TOR,L (-8),1,27:14,6,16,.375,3,12,.250,8,8,1.000,0,6,6,7,0,0,1,1,23,19.5,-13,Stephen Curry
+2020-03-10,31-362,GSW,HOME,LAC,L (-24),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stephen Curry
+2019-10-24,22-128,GSW,HOME,LAC,L (-19),0,21:43,5,9,.556,4,6,.667,0,0,,1,3,4,1,0,0,0,1,14,11.6,+3,Jacob Evans
+2019-10-27,22-131,GSW,AWAY,OKC,L (-28),0,18:15,0,3,.000,0,2,.000,4,4,1.000,0,0,0,1,0,0,1,1,4,1.2,-13,Jacob Evans
+2019-10-28,22-132,GSW,AWAY,NOP,W (+11),0,3:14,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-2,Jacob Evans
+2019-11-06,22-141,GSW,AWAY,HOU,L (-17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jacob Evans
+2019-11-08,22-143,GSW,AWAY,MIN,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jacob Evans
+2019-11-09,22-144,GSW,AWAY,OKC,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jacob Evans
+2019-11-11,22-146,GSW,HOME,UTA,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jacob Evans
+2019-11-13,22-148,GSW,AWAY,LAL,L (-26),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jacob Evans
+2019-11-15,22-150,GSW,HOME,BOS,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jacob Evans
+2019-11-17,22-152,GSW,AWAY,NOP,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jacob Evans
+2019-11-19,22-154,GSW,AWAY,MEM,W (+19),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jacob Evans
+2019-11-20,22-155,GSW,AWAY,DAL,L (-48),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jacob Evans
+2019-11-25,22-160,GSW,HOME,OKC,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jacob Evans
+2019-11-27,22-162,GSW,HOME,CHI,W (+14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jacob Evans
+2019-12-02,22-167,GSW,AWAY,ATL,L (-25),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jacob Evans
+2019-12-06,22-171,GSW,AWAY,CHI,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jacob Evans
+2019-12-09,22-174,GSW,HOME,MEM,L (-8),0,11:13,1,4,.250,0,0,,0,0,,0,1,1,1,0,0,1,2,2,-1.2,+9,Jacob Evans
+2019-12-11,22-176,GSW,HOME,NYK,L (-2),0,5:45,0,2,.000,0,0,,0,0,,0,0,0,0,0,0,0,3,0,-2.6,-6,Jacob Evans
+2019-12-13,22-178,GSW,AWAY,UTA,L (-8),0,27:23,4,14,.286,1,1,1.000,4,4,1.000,0,2,2,2,1,2,0,2,13,8.4,+10,Jacob Evans
+2019-12-15,22-180,GSW,HOME,SAC,L (-21),0,19:33,2,3,.667,1,1,1.000,2,2,1.000,0,0,0,1,0,1,2,3,7,3.9,-28,Jacob Evans
+2019-12-18,22-183,GSW,AWAY,POR,L (-10),0,11:41,1,6,.167,0,1,.000,0,0,,1,0,1,1,0,1,0,2,2,-0.5,-2,Jacob Evans
+2019-12-20,22-185,GSW,HOME,NOP,W (+4),0,11:30,0,2,.000,0,1,.000,0,0,,0,1,1,2,1,0,4,3,0,-3.9,-7,Jacob Evans
+2019-12-23,22-188,GSW,HOME,MIN,W (+9),0,10:29,0,6,.000,0,1,.000,1,2,.500,0,1,1,0,0,0,0,2,1,-4.1,-1,Jacob Evans
+2019-12-25,22-190,GSW,HOME,HOU,W (+12),0,8:21,3,5,.600,1,2,.500,1,1,1.000,0,2,2,1,0,0,2,0,8,5.0,-1,Jacob Evans
+2019-12-27,22-192,GSW,HOME,PHO,W (+9),0,12:01,1,2,.500,0,0,,0,0,,0,1,1,1,0,0,0,0,2,2.0,-4,Jacob Evans
+2019-12-28,22-193,GSW,HOME,DAL,L (-20),0,15:42,2,6,.333,0,1,.000,0,0,,1,2,3,1,0,0,4,0,4,-1.4,+1,Jacob Evans
+2019-12-31,22-196,GSW,AWAY,SAS,L (-4),0,17:05,0,4,.000,0,2,.000,0,0,,0,2,2,0,0,1,0,1,0,-1.9,-5,Jacob Evans
+2020-01-02,22-198,GSW,AWAY,MIN,L (-15),0,22:49,3,6,.500,0,0,,3,4,.750,0,4,4,1,0,0,0,0,9,7.5,+6,Jacob Evans
+2020-01-04,22-200,GSW,HOME,DET,L (-7),0,19:47,2,5,.400,1,1,1.000,1,2,.500,1,1,2,3,1,0,2,3,6,3.8,+5,Jacob Evans
+2020-01-06,22-202,GSW,AWAY,SAC,L (-13),0,18:53,1,4,.250,0,2,.000,2,2,1.000,0,1,1,0,1,1,2,2,4,0.8,-7,Jacob Evans
+2020-01-08,22-204,GSW,HOME,MIL,L (-9),0,18:50,1,5,.200,0,2,.000,0,0,,0,2,2,2,1,1,3,0,2,-0.4,-10,Jacob Evans
+2020-01-10,22-206,GSW,AWAY,LAC,L (-9),0,11:45,3,8,.375,0,1,.000,1,2,.500,2,1,3,0,1,0,0,2,7,4.1,-4,Jacob Evans
+2020-01-12,22-208,GSW,AWAY,MEM,L (-20),0,17:48,3,9,.333,2,3,.667,0,0,,1,0,1,3,0,0,2,2,8,2.9,-13,Jacob Evans
+2020-01-14,22-210,GSW,HOME,DAL,L (-27),0,7:20,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.8,-4,Jacob Evans
+2020-01-22,22-218,GSW,HOME,UTA,L (-33),0,18:52,2,5,.400,0,2,.000,0,0,,0,0,0,1,1,1,2,2,4,0.9,-9,Jacob Evans
+2020-01-28,22-224,GSW,AWAY,PHI,L (-11),0,7:17,1,2,.500,0,0,,0,0,,0,0,0,2,1,0,0,2,2,2.6,+1,Jacob Evans
+2020-01-30,22-226,GSW,AWAY,BOS,L (-15),0,13:25,2,3,.667,2,2,1.000,2,2,1.000,0,1,1,0,1,1,0,1,8,8.3,-4,Jacob Evans
+2020-02-01,22-228,GSW,AWAY,CLE,W (+19),0,13:46,3,3,1.000,0,0,,0,0,,0,1,1,0,1,0,0,0,6,6.4,-13,Jacob Evans
+2020-02-03,22-230,GSW,AWAY,WAS,W (+8),1,25:42,1,8,.125,1,3,.333,4,4,1.000,1,1,2,3,1,3,0,4,7,6.4,-8,Jacob Evans
+2020-02-05,22-232,GSW,AWAY,BRK,L (-41),0,23:43,4,8,.500,0,4,.000,0,0,,1,3,4,4,0,0,0,2,8,7.6,-5,Jacob Evans
+2020-02-08,22-235,MIN,HOME,LAC,W (+27),0,1:06,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Jacob Evans
+2020-02-24,22-251,MIN,AWAY,DAL,L (-16),0,3:10,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+10,Jacob Evans
+2019-10-24,29-234,GSW,HOME,LAC,L (-19),1,28:25,3,6,.500,1,2,.500,4,4,1.000,0,4,4,3,1,0,0,3,11,11.1,-35,Draymond Green
+2019-10-27,29-237,GSW,AWAY,OKC,L (-28),1,23:57,4,9,.444,1,4,.250,1,1,1.000,0,5,5,2,2,0,1,2,10,8.4,-23,Draymond Green
+2019-10-28,29-238,GSW,AWAY,NOP,W (+11),1,33:53,7,12,.583,0,1,.000,2,3,.667,3,14,17,10,2,0,4,1,16,20.9,+36,Draymond Green
+2019-10-30,29-240,GSW,HOME,PHO,L (-11),1,23:45,2,8,.250,0,2,.000,0,2,.000,0,5,5,4,1,0,1,2,4,1.9,-30,Draymond Green
+2019-11-01,29-242,GSW,HOME,SAS,L (-17),1,34:26,2,7,.286,2,4,.500,0,0,,1,7,8,7,1,0,1,3,6,8.4,-16,Draymond Green
+2019-11-02,29-243,GSW,HOME,CHO,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Draymond Green
+2019-11-11,29-252,GSW,HOME,UTA,L (-14),1,22:20,2,7,.286,0,4,.000,0,0,,0,7,7,4,0,0,1,4,4,2.2,-14,Draymond Green
+2019-11-13,29-254,GSW,AWAY,LAL,L (-26),1,28:14,4,10,.400,2,4,.500,0,0,,0,1,1,5,1,1,3,1,10,6.7,-15,Draymond Green
+2019-11-15,29-256,GSW,HOME,BOS,L (-5),1,34:02,3,6,.500,1,4,.250,4,5,.800,1,10,11,4,2,1,2,3,11,13.6,+4,Draymond Green
+2019-11-17,29-258,GSW,AWAY,NOP,L (-8),1,32:30,2,10,.200,1,3,.333,2,2,1.000,0,6,6,4,2,1,3,2,7,4.3,-15,Draymond Green
+2019-11-19,29-260,GSW,AWAY,MEM,W (+19),1,34:38,4,12,.333,0,2,.000,0,0,,1,9,10,11,0,2,1,3,8,11.5,+19,Draymond Green
+2019-11-25,29-266,GSW,HOME,OKC,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Draymond Green
+2019-11-27,29-268,GSW,HOME,CHI,W (+14),1,23:38,2,3,.667,1,1,1.000,2,4,.500,0,5,5,8,3,2,5,3,7,10.2,+9,Draymond Green
+2019-11-29,29-270,GSW,AWAY,MIA,L (-17),1,19:18,2,5,.400,0,2,.000,2,2,1.000,0,2,2,4,0,0,2,2,6,3.9,-20,Draymond Green
+2019-12-01,29-272,GSW,AWAY,ORL,L (-4),1,23:23,4,6,.667,1,1,1.000,2,2,1.000,0,4,4,7,2,0,2,4,11,12.9,-1,Draymond Green
+2019-12-02,29-273,GSW,AWAY,ATL,L (-25),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Draymond Green
+2019-12-04,29-275,GSW,AWAY,CHO,L (-15),1,24:36,2,6,.333,0,2,.000,1,2,.500,0,3,3,6,3,0,3,4,5,4.7,-3,Draymond Green
+2019-12-06,29-277,GSW,AWAY,CHI,W (+2),1,30:18,2,6,.333,0,1,.000,5,8,.625,0,4,4,5,4,1,4,2,9,9.0,-5,Draymond Green
+2019-12-09,29-280,GSW,HOME,MEM,L (-8),1,33:23,6,13,.462,1,3,.333,3,4,.750,1,2,3,5,1,3,4,3,16,11.6,-11,Draymond Green
+2019-12-11,29-282,GSW,HOME,NYK,L (-2),1,39:29,5,11,.455,1,5,.200,3,4,.750,0,10,10,12,4,0,2,2,14,20.5,-10,Draymond Green
+2019-12-15,29-286,GSW,HOME,SAC,L (-21),1,26:10,3,7,.429,1,4,.250,0,0,,0,2,2,3,1,0,2,2,7,4.2,-6,Draymond Green
+2019-12-18,29-289,GSW,AWAY,POR,L (-10),1,29:25,2,6,.333,1,1,1.000,2,4,.500,0,5,5,2,3,0,0,1,7,8.3,-8,Draymond Green
+2019-12-20,29-291,GSW,HOME,NOP,W (+4),1,31:20,3,6,.500,0,1,.000,4,4,1.000,1,3,4,8,2,0,3,3,10,12.0,+7,Draymond Green
+2019-12-23,29-294,GSW,HOME,MIN,W (+9),1,32:55,2,6,.333,0,3,.000,5,5,1.000,1,13,14,5,2,1,7,4,9,7.8,+18,Draymond Green
+2019-12-25,29-296,GSW,HOME,HOU,W (+12),1,33:50,8,14,.571,2,4,.500,2,3,.667,3,8,11,3,0,1,3,2,20,16.5,+20,Draymond Green
+2019-12-27,29-298,GSW,HOME,PHO,W (+9),1,32:28,4,14,.286,2,5,.400,1,2,.500,3,4,7,4,0,3,1,4,11,8.0,+6,Draymond Green
+2019-12-28,29-299,GSW,HOME,DAL,L (-20),1,27:20,4,10,.400,2,5,.400,0,0,,0,3,3,8,1,0,3,3,10,7.9,-22,Draymond Green
+2019-12-31,29-302,GSW,AWAY,SAS,L (-4),1,35:48,4,11,.364,2,6,.333,0,0,,0,10,10,9,1,1,2,2,10,12.1,0,Draymond Green
+2020-01-02,29-304,GSW,AWAY,MIN,L (-15),1,22:24,1,4,.250,0,3,.000,0,0,,0,3,3,6,1,0,1,1,2,4.3,-18,Draymond Green
+2020-01-04,29-306,GSW,HOME,DET,L (-7),1,21:36,0,2,.000,0,2,.000,2,2,1.000,1,5,6,3,0,1,1,1,2,4.2,-11,Draymond Green
+2020-01-08,29-310,GSW,HOME,MIL,L (-9),1,33:38,1,7,.143,1,5,.200,2,2,1.000,0,8,8,8,2,1,4,4,5,5.6,-7,Draymond Green
+2020-01-10,29-312,GSW,AWAY,LAC,L (-9),1,31:03,3,9,.333,1,6,.167,1,2,.500,0,6,6,4,1,1,1,3,8,6.6,-6,Draymond Green
+2020-01-12,29-314,GSW,AWAY,MEM,L (-20),1,23:03,1,5,.200,1,2,.500,0,0,,2,6,8,4,3,3,4,3,3,5.8,-7,Draymond Green
+2020-01-14,29-316,GSW,HOME,DAL,L (-27),1,27:17,2,6,.333,1,3,.333,0,0,,0,3,3,4,1,0,2,3,5,3.1,-21,Draymond Green
+2020-01-16,29-318,GSW,HOME,DEN,L (-3),1,35:49,2,8,.250,0,2,.000,2,2,1.000,0,8,8,8,1,2,0,3,6,10.4,+4,Draymond Green
+2020-01-18,29-320,GSW,HOME,ORL,W (+14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Draymond Green
+2020-01-22,29-324,GSW,HOME,UTA,L (-33),1,25:11,2,3,.667,1,2,.500,0,0,,0,4,4,2,1,0,0,2,5,6.5,-19,Draymond Green
+2020-01-24,29-326,GSW,HOME,IND,L (-11),1,31:56,3,8,.375,1,4,.250,3,3,1.000,1,5,6,11,1,0,4,1,10,12.1,-3,Draymond Green
+2020-01-28,29-330,GSW,AWAY,PHI,L (-11),1,33:27,3,8,.375,1,6,.167,2,2,1.000,0,9,9,12,1,3,1,5,9,15.8,+7,Draymond Green
+2020-01-30,29-332,GSW,AWAY,BOS,L (-15),1,27:20,3,8,.375,1,2,.500,2,4,.500,1,3,4,7,1,0,3,3,9,7.1,-8,Draymond Green
+2020-02-01,29-334,GSW,AWAY,CLE,W (+19),1,25:50,3,6,.500,2,5,.400,0,0,,1,6,7,16,2,2,2,3,8,18.9,+26,Draymond Green
+2020-02-03,29-336,GSW,AWAY,WAS,W (+8),1,33:12,5,8,.625,2,3,.667,0,0,,1,9,10,7,2,1,3,5,12,14.4,+8,Draymond Green
+2020-02-05,29-338,GSW,AWAY,BRK,L (-41),1,20:41,2,6,.333,0,1,.000,1,2,.500,0,3,3,2,0,1,0,1,5,3.8,-26,Draymond Green
+2020-02-10,29-343,GSW,HOME,MIA,L (-12),1,31:25,1,5,.200,1,3,.333,2,2,1.000,1,8,9,9,1,1,3,0,5,10.0,+6,Draymond Green
+2020-02-12,29-345,GSW,AWAY,PHO,L (-6),1,30:20,2,5,.400,1,2,.500,1,1,1.000,0,6,6,9,1,0,5,2,6,6.6,+2,Draymond Green
+2020-02-20,29-353,GSW,HOME,HOU,L (-30),1,18:11,2,6,.333,0,4,.000,0,0,,0,4,4,7,0,0,1,1,4,5.3,-7,Draymond Green
+2020-02-23,29-356,GSW,HOME,NOP,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Draymond Green
+2020-02-25,29-358,GSW,HOME,SAC,L (-18),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Draymond Green
+2020-02-27,29-360,GSW,HOME,LAL,L (-30),1,9:44,1,1,1.000,0,0,,0,0,,0,1,1,4,1,0,3,4,2,1.2,+3,Draymond Green
+2020-02-29,29-362,GSW,AWAY,PHO,W (+16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Draymond Green
+2020-03-01,29-363,GSW,HOME,WAS,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Draymond Green
+2020-03-05,30-001,GSW,HOME,TOR,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Draymond Green
+2019-10-24,27-003,GSW,HOME,LAC,L (-19),0,4:19,0,0,,0,0,,3,3,1.000,0,1,1,1,0,0,0,0,3,4.0,+3,Damion Lee
+2019-10-27,27-006,GSW,AWAY,OKC,L (-28),0,17:01,1,5,.200,0,3,.000,4,5,.800,0,3,3,0,1,0,0,2,6,3.6,-2,Damion Lee
+2019-10-28,27-007,GSW,AWAY,NOP,W (+11),0,27:52,8,14,.571,4,6,.667,3,3,1.000,5,6,11,2,0,0,2,4,23,19.5,+10,Damion Lee
+2019-10-30,27-009,GSW,HOME,PHO,L (-11),0,11:06,1,4,.250,1,3,.333,0,0,,0,3,3,1,0,0,2,2,3,-0.6,-10,Damion Lee
+2019-11-01,27-011,GSW,HOME,SAS,L (-17),0,25:15,6,9,.667,2,2,1.000,2,3,.667,0,4,4,2,1,0,2,1,16,12.9,-3,Damion Lee
+2019-11-02,27-012,GSW,HOME,CHO,L (-6),0,26:47,5,11,.455,3,6,.500,0,0,,1,1,2,3,0,0,3,4,13,5.8,-5,Damion Lee
+2019-11-04,27-014,GSW,HOME,POR,W (+9),0,29:10,4,8,.500,0,1,.000,10,11,.909,0,4,4,3,2,0,2,1,18,16.5,+2,Damion Lee
+2019-11-06,27-016,GSW,AWAY,HOU,L (-17),0,27:52,3,14,.214,1,4,.250,6,8,.750,1,5,6,3,0,0,0,0,13,7.9,-10,Damion Lee
+2019-11-08,27-018,GSW,AWAY,MIN,L (-6),0,26:59,1,8,.125,0,3,.000,0,0,,1,1,2,3,3,0,1,3,2,0.7,+1,Damion Lee
+2019-11-09,27-019,GSW,AWAY,OKC,L (-6),0,22:20,2,7,.286,1,4,.250,0,0,,1,6,7,2,1,0,0,0,5,5.8,+3,Damion Lee
+2019-11-11,27-021,GSW,HOME,UTA,L (-14),0,21:58,4,11,.364,0,3,.000,0,0,,0,0,0,0,0,0,1,1,8,0.5,-8,Damion Lee
+2019-12-11,27-051,GSW,HOME,NYK,L (-2),0,15:09,3,7,.429,0,3,.000,0,0,,0,1,1,0,0,0,0,1,6,2.2,+9,Damion Lee
+2019-12-13,27-053,GSW,AWAY,UTA,L (-8),0,25:57,7,11,.636,3,5,.600,4,6,.667,1,2,3,0,0,0,0,1,21,16.2,+8,Damion Lee
+2019-12-15,27-055,GSW,HOME,SAC,L (-21),1,34:30,6,15,.400,0,5,.000,1,1,1.000,1,4,5,5,1,0,2,1,13,8.9,-7,Damion Lee
+2019-12-18,27-058,GSW,AWAY,POR,L (-10),1,24:54,1,7,.143,0,2,.000,2,2,1.000,1,5,6,6,0,0,1,5,4,2.9,+1,Damion Lee
+2019-12-20,27-060,GSW,HOME,NOP,W (+4),1,34:38,6,15,.400,4,7,.571,4,4,1.000,1,6,7,1,0,0,0,2,20,14.3,+6,Damion Lee
+2019-12-23,27-063,GSW,HOME,MIN,W (+9),1,28:21,4,9,.444,2,5,.400,4,4,1.000,1,6,7,3,1,0,2,5,14,10.9,+8,Damion Lee
+2019-12-25,27-065,GSW,HOME,HOU,W (+12),1,31:13,5,9,.556,2,2,1.000,10,10,1.000,2,13,15,4,3,0,2,1,22,26.4,+8,Damion Lee
+2019-12-27,27-067,GSW,HOME,PHO,W (+9),1,36:03,5,13,.385,1,4,.250,5,5,1.000,1,7,8,2,3,0,2,2,16,13.3,+8,Damion Lee
+2019-12-28,27-068,GSW,HOME,DAL,L (-20),1,33:23,7,13,.538,3,4,.750,1,2,.500,3,9,12,2,0,0,1,2,18,15.7,-11,Damion Lee
+2019-12-31,27-071,GSW,AWAY,SAS,L (-4),1,39:32,8,13,.615,2,3,.667,2,2,1.000,1,6,7,2,0,0,0,0,20,18.0,-1,Damion Lee
+2020-01-02,27-073,GSW,AWAY,MIN,L (-15),1,27:29,4,11,.364,0,4,.000,2,2,1.000,1,2,3,2,2,0,4,2,10,3.8,-19,Damion Lee
+2020-01-04,27-075,GSW,HOME,DET,L (-7),1,32:29,5,12,.417,2,2,1.000,2,2,1.000,0,5,5,3,1,1,2,2,14,10.1,-18,Damion Lee
+2020-01-06,27-077,GSW,AWAY,SAC,L (-13),1,29:07,3,11,.273,1,6,.167,1,2,.500,0,5,5,2,2,0,0,2,8,5.2,-6,Damion Lee
+2020-01-08,27-079,GSW,HOME,MIL,L (-9),1,32:03,4,13,.308,4,8,.500,3,3,1.000,0,4,4,4,1,0,3,2,15,8.7,-3,Damion Lee
+2020-01-10,27-081,GSW,AWAY,LAC,L (-9),1,30:59,4,13,.308,0,5,.000,2,3,.667,1,5,6,5,1,0,1,1,10,7.4,-6,Damion Lee
+2020-01-16,27-087,GSW,HOME,DEN,L (-3),1,37:12,7,17,.412,3,9,.333,4,4,1.000,2,3,5,6,1,1,3,3,21,15.9,+7,Damion Lee
+2020-01-18,27-089,GSW,HOME,ORL,W (+14),1,33:04,4,8,.500,0,3,.000,1,1,1.000,0,6,6,1,2,0,1,4,9,6.9,+13,Damion Lee
+2020-01-20,27-091,GSW,AWAY,POR,L (-5),1,39:13,1,7,.143,0,2,.000,2,2,1.000,1,8,9,4,1,0,2,6,4,2.0,-17,Damion Lee
+2020-01-22,27-093,GSW,HOME,UTA,L (-33),1,24:40,3,7,.429,0,1,.000,0,1,.000,0,2,2,4,1,1,5,4,6,0.4,-24,Damion Lee
+2020-01-24,27-095,GSW,HOME,IND,L (-11),1,26:31,1,5,.200,0,1,.000,0,0,,0,4,4,2,1,0,0,4,2,0.9,-4,Damion Lee
+2020-01-28,27-099,GSW,AWAY,PHI,L (-11),1,26:54,2,8,.250,1,3,.333,1,2,.500,1,0,1,1,0,0,0,2,6,1.4,+5,Damion Lee
+2020-01-30,27-101,GSW,AWAY,BOS,L (-15),1,31:58,4,6,.667,1,3,.333,2,2,1.000,0,7,7,2,1,0,2,4,11,9.3,+1,Damion Lee
+2020-02-01,27-103,GSW,AWAY,CLE,W (+19),1,27:04,8,11,.727,2,4,.500,0,0,,1,3,4,2,1,0,0,4,18,15.9,+15,Damion Lee
+2020-02-03,27-105,GSW,AWAY,WAS,W (+8),1,34:11,7,15,.467,5,9,.556,0,0,,0,1,1,6,1,0,2,3,19,13.6,+3,Damion Lee
+2020-02-05,27-107,GSW,AWAY,BRK,L (-41),1,28:59,2,10,.200,1,7,.143,2,2,1.000,1,3,4,1,0,0,0,2,7,2.3,-32,Damion Lee
+2020-02-08,27-110,GSW,HOME,LAL,L (-5),1,22:23,3,8,.375,2,6,.333,0,0,,1,2,3,2,3,0,2,2,8,6.5,-5,Damion Lee
+2020-02-10,27-112,GSW,HOME,MIA,L (-12),1,30:02,7,12,.583,5,7,.714,7,7,1.000,0,2,2,1,0,0,1,4,26,19.1,+2,Damion Lee
+2020-02-12,27-114,GSW,AWAY,PHO,L (-6),1,31:42,4,10,.400,2,8,.250,0,0,,0,5,5,3,3,0,1,2,10,9.4,-5,Damion Lee
+2020-02-20,27-122,GSW,HOME,HOU,L (-30),1,28:32,4,12,.333,1,7,.143,4,4,1.000,0,3,3,3,2,0,1,4,13,8.6,-21,Damion Lee
+2020-02-23,27-125,GSW,HOME,NOP,L (-14),1,34:41,9,15,.600,4,8,.500,0,0,,0,4,4,4,1,1,3,0,22,17.8,-8,Damion Lee
+2020-02-25,27-127,GSW,HOME,SAC,L (-18),1,30:24,4,9,.444,3,7,.429,3,4,.750,1,5,6,4,1,1,1,3,14,13.4,-13,Damion Lee
+2020-02-27,27-129,GSW,HOME,LAL,L (-30),1,33:34,5,15,.333,4,11,.364,1,1,1.000,0,6,6,4,0,0,3,4,15,6.5,-15,Damion Lee
+2020-02-29,27-131,GSW,AWAY,PHO,W (+16),1,36:58,6,13,.462,2,6,.333,6,6,1.000,0,5,5,8,1,0,0,0,20,21.4,+26,Damion Lee
+2020-03-01,27-132,GSW,HOME,WAS,L (-14),1,34:12,4,11,.364,2,6,.333,0,0,,0,6,6,2,2,1,1,1,10,8.4,-2,Damion Lee
+2020-03-03,27-134,GSW,AWAY,DEN,W (+16),1,33:24,1,9,.111,1,6,.167,1,2,.500,0,3,3,3,3,0,1,3,4,1.5,+18,Damion Lee
+2020-03-05,27-136,GSW,HOME,TOR,L (-8),1,35:33,8,17,.471,5,12,.417,2,4,.500,0,5,5,3,1,0,2,6,23,13.7,-1,Damion Lee
+2020-03-07,27-138,GSW,HOME,PHI,W (+4),1,34:01,10,17,.588,3,8,.375,1,1,1.000,1,5,6,3,0,0,2,2,24,17.6,+1,Damion Lee
+2020-03-10,27-141,GSW,HOME,LAC,L (-24),1,30:52,2,6,.333,2,5,.400,2,2,1.000,0,5,5,3,1,0,1,2,8,7.4,-25,Damion Lee
+2019-10-24,23-260,GSW,HOME,LAC,L (-19),1,10:27,1,4,.250,1,1,1.000,0,0,,5,4,9,1,0,0,1,3,3,3.8,-4,Kevon Looney
+2019-11-27,23-294,GSW,HOME,CHI,W (+14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Kevon Looney
+2019-12-02,23-299,GSW,AWAY,ATL,L (-25),1,14:43,1,3,.333,0,0,,0,0,,0,2,2,0,0,2,1,2,2,0.5,-5,Kevon Looney
+2019-12-04,23-301,GSW,AWAY,CHO,L (-15),0,12:18,3,8,.375,0,0,,1,3,.333,3,0,3,1,0,0,0,2,7,3.8,-8,Kevon Looney
+2019-12-06,23-303,GSW,AWAY,CHI,W (+2),0,7:48,1,1,1.000,0,0,,1,1,1.000,0,1,1,0,0,0,2,0,3,1.0,-6,Kevon Looney
+2019-12-09,23-306,GSW,HOME,MEM,L (-8),0,10:18,0,2,.000,0,0,,0,0,,1,2,3,0,1,0,0,2,0,0.1,-6,Kevon Looney
+2019-12-11,23-308,GSW,HOME,NYK,L (-2),0,5:20,2,2,1.000,0,0,,1,1,1.000,1,0,1,0,0,0,0,1,5,4.7,-9,Kevon Looney
+2019-12-13,23-310,GSW,AWAY,UTA,L (-8),1,18:21,1,3,.333,0,1,.000,0,0,,1,3,4,0,1,0,2,3,2,-0.3,-6,Kevon Looney
+2019-12-15,23-312,GSW,HOME,SAC,L (-21),0,11:16,0,5,.000,0,0,,0,0,,1,0,1,1,1,0,0,1,0,-1.5,-15,Kevon Looney
+2019-12-20,23-317,GSW,HOME,NOP,W (+4),0,5:42,0,2,.000,0,0,,0,0,,2,2,4,0,0,0,0,1,0,0.2,+2,Kevon Looney
+2019-12-23,23-320,GSW,HOME,MIN,W (+9),0,8:43,2,2,1.000,0,0,,0,0,,1,0,1,1,0,0,0,2,4,4.0,-3,Kevon Looney
+2020-01-12,23-340,GSW,AWAY,MEM,L (-20),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Kevon Looney
+2020-01-14,23-342,GSW,HOME,DAL,L (-27),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Kevon Looney
+2020-01-24,23-352,GSW,HOME,IND,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Kevon Looney
+2020-01-28,23-356,GSW,AWAY,PHI,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Kevon Looney
+2020-02-01,23-360,GSW,AWAY,CLE,W (+19),0,12:30,0,2,.000,0,0,,2,2,1.000,3,1,4,0,2,1,0,0,2,5.7,-1,Kevon Looney
+2020-02-03,23-362,GSW,AWAY,WAS,W (+8),0,9:32,1,2,.500,0,0,,0,0,,1,3,4,3,1,0,0,1,2,5.3,+12,Kevon Looney
+2020-02-05,23-364,GSW,AWAY,BRK,L (-41),0,17:51,5,9,.556,0,2,.000,1,1,1.000,3,2,5,3,0,1,0,1,11,11.8,+3,Kevon Looney
+2020-02-08,24-002,GSW,HOME,LAL,L (-5),0,14:25,1,4,.250,0,2,.000,0,1,.000,0,1,1,0,0,0,1,5,2,-3.5,-1,Kevon Looney
+2020-02-10,24-004,GSW,HOME,MIA,L (-12),0,16:26,0,2,.000,0,1,.000,0,0,,0,3,3,1,1,0,0,1,0,0.8,-10,Kevon Looney
+2020-02-12,24-006,GSW,AWAY,PHO,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Kevon Looney
+2020-02-20,24-014,GSW,HOME,HOU,L (-30),0,18:26,2,5,.400,0,1,.000,0,0,,0,1,1,2,2,0,2,1,4,2.6,-19,Kevon Looney
+2020-02-23,24-017,GSW,HOME,NOP,L (-14),1,18:47,1,6,.167,0,3,.000,0,0,,1,5,6,0,2,0,0,3,2,1.2,-11,Kevon Looney
+2020-02-25,24-019,GSW,HOME,SAC,L (-18),0,14:45,2,6,.333,0,1,.000,1,1,1.000,1,2,3,2,0,1,1,1,5,3.6,-1,Kevon Looney
+2020-02-27,24-021,GSW,HOME,LAL,L (-30),0,19:16,2,6,.333,0,1,.000,0,0,,2,2,4,2,1,1,2,3,4,2.5,-13,Kevon Looney
+2020-02-29,24-023,GSW,AWAY,PHO,W (+16),0,14:43,4,5,.800,0,1,.000,2,2,1.000,2,4,6,3,0,0,0,1,10,12.4,+2,Kevon Looney
+2020-03-01,24-024,GSW,HOME,WAS,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Kevon Looney
+2020-03-07,24-030,GSW,HOME,PHI,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Kevon Looney
+2020-02-27,25-260,GSW,HOME,LAL,L (-30),0,22:03,1,6,0.167,0,5,0.0,0,0,,0,4,4,0,0,0,0,0,2,-0.6,-18,Mychal Mulder
+2020-02-29,25-262,GSW,AWAY,PHO,W (+16),0,33:40,5,12,0.417,3,8,0.375,1,1,1.0,2,4,6,0,0,0,0,4,14,8.6,16,Mychal Mulder
+2020-03-01,25-263,GSW,HOME,WAS,L (-14),0,31:11,6,10,0.6,3,7,0.429,2,3,0.667,0,2,2,1,1,1,0,5,17,13.0,5,Mychal Mulder
+2020-03-03,25-265,GSW,AWAY,DEN,W (+16),1,34:47,5,11,0.455,5,10,0.5,0,0,,1,2,3,3,0,0,2,4,15,9.1,14,Mychal Mulder
+2020-03-05,25-267,GSW,HOME,TOR,L (-8),0,23:52,3,9,0.333,2,8,0.25,0,0,,0,3,3,1,1,0,2,2,8,2.7,1,Mychal Mulder
+2020-03-07,25-269,GSW,HOME,PHI,W (+4),1,31:48,5,10,0.5,3,7,0.429,5,6,0.833,0,1,1,3,0,0,0,3,18,13.8,15,Mychal Mulder
+2020-03-10,25-272,GSW,HOME,LAC,L (-24),1,26:21,1,9,0.111,0,7,0.0,1,2,0.5,0,4,4,0,0,0,1,2,3,-3.9,-10,Mychal Mulder
+2019-10-25,21-320,LAL,HOME,UTA,W (+9),0,2:31,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,-6,Zach Norvell
+2019-10-27,21-322,LAL,HOME,CHO,W (+19),0,2:20,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2,Zach Norvell
+2020-02-08,22-061,GSW,HOME,LAL,L (-5),0,17:22,2,4,.500,2,3,.667,1,1,1.000,0,4,4,2,2,0,1,1,7,8.2,+10,Zach Norvell
+2020-02-10,22-063,GSW,HOME,MIA,L (-12),0,10:35,1,6,.167,1,4,.250,0,0,,0,1,1,1,0,0,1,1,3,-1.2,-19,Zach Norvell
+2020-02-12,22-065,GSW,AWAY,PHO,L (-6),0,8:01,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,2,0,-2.5,-14,Zach Norvell
+2020-02-08,33-328,GSW,HOME,LAL,L (-5),0,14:15,3,6,0.5,0,1,0.0,0,1,0.0,1,1,2,4,1,0,1,2,6,5.6,-3,Jeremy Pargo
+2020-02-10,33-330,GSW,HOME,MIA,L (-12),0,9:09,2,5,0.4,0,1,0.0,0,0,,0,0,0,2,0,0,1,1,4,1.3,-2,Jeremy Pargo
+2020-02-12,33-332,GSW,AWAY,PHO,L (-6),0,20:54,6,11,0.545,3,5,0.6,0,0,,0,1,1,2,0,0,2,5,15,7.4,5,Jeremy Pargo
+2019-10-24,22-354,GSW,HOME,LAC,L (-19),0,31:28,6,13,.462,0,1,.000,2,3,.667,2,2,4,3,2,0,1,1,14,11.6,+5,Eric Paschall
+2019-10-27,22-357,GSW,AWAY,OKC,L (-28),0,24:04,4,6,.667,0,1,.000,2,2,1.000,1,2,3,1,0,0,0,1,10,9.0,-6,Eric Paschall
+2019-10-28,22-358,GSW,AWAY,NOP,W (+11),0,19:17,4,5,.800,0,0,,0,0,,1,1,2,3,0,0,3,0,8,6.2,-22,Eric Paschall
+2019-10-30,22-360,GSW,HOME,PHO,L (-11),1,37:33,7,9,.778,0,0,,6,6,1.000,1,2,3,0,1,2,0,2,20,19.4,+19,Eric Paschall
+2019-11-01,22-362,GSW,HOME,SAS,L (-17),0,20:04,2,3,.667,0,1,.000,2,2,1.000,1,1,2,1,1,0,2,3,6,4.2,-19,Eric Paschall
+2019-11-02,22-363,GSW,HOME,CHO,L (-6),1,34:59,10,18,.556,0,5,.000,5,8,.625,0,4,4,2,0,1,1,3,25,16.3,-14,Eric Paschall
+2019-11-04,23-000,GSW,HOME,POR,W (+9),1,39:32,11,19,.579,4,6,.667,8,8,1.000,3,10,13,0,0,1,1,2,34,29.1,+11,Eric Paschall
+2019-11-06,23-002,GSW,AWAY,HOU,L (-17),1,33:43,6,15,.400,2,4,.500,5,5,1.000,0,6,6,3,0,0,1,1,19,13.4,-11,Eric Paschall
+2019-11-08,23-004,GSW,AWAY,MIN,L (-6),1,33:56,3,10,.300,0,1,.000,6,6,1.000,0,1,1,1,0,0,3,6,12,1.8,-9,Eric Paschall
+2019-11-11,23-007,GSW,HOME,UTA,L (-14),0,29:49,4,10,.400,0,2,.000,0,0,,2,4,6,0,2,0,0,1,8,6.8,+3,Eric Paschall
+2019-11-13,23-009,GSW,AWAY,LAL,L (-26),0,32:23,7,15,.467,0,4,.000,1,2,.500,1,2,3,0,0,0,2,1,15,5.8,-7,Eric Paschall
+2019-11-15,23-011,GSW,HOME,BOS,L (-5),1,33:25,6,14,.429,1,4,.250,3,5,.600,0,8,8,1,0,0,2,3,16,7.7,-19,Eric Paschall
+2019-11-17,23-013,GSW,AWAY,NOP,L (-8),1,34:40,10,17,.588,2,4,.500,8,10,.800,3,4,7,2,0,0,1,2,30,24.2,+3,Eric Paschall
+2019-11-19,23-015,GSW,AWAY,MEM,W (+19),1,24:22,7,15,.467,0,2,.000,3,3,1.000,1,4,5,3,0,1,2,6,17,9.6,+7,Eric Paschall
+2019-11-20,23-016,GSW,AWAY,DAL,L (-48),1,40:05,8,19,.421,1,4,.250,5,9,.556,2,5,7,0,1,0,2,0,22,12.2,-43,Eric Paschall
+2019-11-22,23-018,GSW,AWAY,UTA,L (-4),1,29:32,5,14,.357,0,4,.000,2,3,.667,2,5,7,5,0,1,1,1,12,9.5,-5,Eric Paschall
+2019-11-25,23-021,GSW,HOME,OKC,L (-3),1,31:25,6,9,.667,0,0,,1,1,1.000,2,8,10,1,0,1,5,5,13,7.3,-4,Eric Paschall
+2019-11-27,23-023,GSW,HOME,CHI,W (+14),1,35:41,9,17,.529,2,2,1.000,5,6,.833,3,4,7,3,0,0,1,0,25,20.7,+10,Eric Paschall
+2019-11-29,23-025,GSW,AWAY,MIA,L (-17),1,28:57,4,10,.400,1,3,.333,8,10,.800,0,1,1,1,0,0,2,1,17,9.4,-12,Eric Paschall
+2019-12-01,23-027,GSW,AWAY,ORL,L (-4),1,35:05,6,14,.429,0,1,.000,5,6,.833,4,2,6,2,0,0,1,3,17,11.8,-2,Eric Paschall
+2019-12-02,23-028,GSW,AWAY,ATL,L (-25),1,35:59,9,11,.818,2,2,1.000,4,5,.800,5,4,9,6,0,0,3,2,24,24.6,-17,Eric Paschall
+2019-12-04,23-030,GSW,AWAY,CHO,L (-15),1,36:11,6,13,.462,2,3,.667,2,2,1.000,0,6,6,1,0,0,3,1,16,8.4,-7,Eric Paschall
+2019-12-06,23-032,GSW,AWAY,CHI,W (+2),1,31:22,5,10,.500,0,2,.000,3,4,.750,0,3,3,2,2,1,1,2,13,10.8,+14,Eric Paschall
+2019-12-09,23-035,GSW,HOME,MEM,L (-8),1,21:29,2,10,.200,0,2,.000,1,1,1.000,1,1,2,0,0,1,2,0,5,-1.5,-14,Eric Paschall
+2019-12-11,23-037,GSW,HOME,NYK,L (-2),1,16:52,2,6,.333,0,1,.000,1,2,.500,0,1,1,1,0,0,0,2,5,1.4,-4,Eric Paschall
+2019-12-13,23-039,GSW,AWAY,UTA,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Eric Paschall
+2019-12-18,23-044,GSW,AWAY,POR,L (-10),0,17:56,5,10,.500,1,4,.250,0,0,,2,2,4,2,1,0,1,3,11,8.2,-2,Eric Paschall
+2019-12-20,23-046,GSW,HOME,NOP,W (+4),0,6:36,1,2,.500,0,0,,1,1,1.000,0,1,1,1,0,0,0,1,3,2.6,+2,Eric Paschall
+2019-12-23,23-049,GSW,HOME,MIN,W (+9),0,15:32,3,6,.500,2,2,1.000,0,3,.000,2,0,2,2,2,1,1,2,8,7.5,+4,Eric Paschall
+2019-12-25,23-051,GSW,HOME,HOU,W (+12),0,6:46,0,1,.000,0,0,,0,0,,3,0,3,2,0,0,1,2,0,1.0,-9,Eric Paschall
+2019-12-31,23-057,GSW,AWAY,SAS,L (-4),0,17:48,1,4,.250,0,1,.000,1,1,1.000,0,0,0,3,0,0,1,1,3,1.3,-7,Eric Paschall
+2020-01-02,23-059,GSW,AWAY,MIN,L (-15),0,26:16,6,14,.429,0,3,.000,1,2,.500,1,6,7,0,0,0,2,1,13,5.3,-7,Eric Paschall
+2020-01-04,23-061,GSW,HOME,DET,L (-7),0,19:07,4,7,.571,1,1,1.000,0,0,,0,2,2,4,1,0,2,2,9,7.3,0,Eric Paschall
+2020-01-06,23-063,GSW,AWAY,SAC,L (-13),1,30:52,5,9,.556,0,3,.000,2,4,.500,0,4,4,1,1,0,4,0,12,5.8,-19,Eric Paschall
+2020-01-08,23-065,GSW,HOME,MIL,L (-9),0,12:22,2,5,.400,0,1,.000,0,0,,1,1,2,1,0,0,1,5,4,0.0,-4,Eric Paschall
+2020-01-10,23-067,GSW,AWAY,LAC,L (-9),0,18:34,5,10,.500,0,1,.000,2,2,1.000,2,3,5,1,0,0,0,3,12,8.8,-8,Eric Paschall
+2020-01-12,23-069,GSW,AWAY,MEM,L (-20),0,29:55,5,12,.417,0,1,.000,0,0,,3,2,5,5,5,0,2,1,10,12.4,-12,Eric Paschall
+2020-01-14,23-071,GSW,HOME,DAL,L (-27),0,25:19,7,11,.636,2,2,1.000,0,0,,1,2,3,0,0,0,2,4,16,8.8,-6,Eric Paschall
+2020-01-16,23-073,GSW,HOME,DEN,L (-3),0,19:53,4,7,.571,1,1,1.000,7,7,1.000,1,4,5,2,1,0,1,1,16,15.6,-11,Eric Paschall
+2020-01-18,23-075,GSW,HOME,ORL,W (+14),1,34:38,8,14,.571,2,5,.400,2,2,1.000,1,8,9,1,2,0,1,3,20,17.0,+17,Eric Paschall
+2020-01-20,23-077,GSW,AWAY,POR,L (-5),1,42:13,11,21,.524,0,3,.000,0,1,.000,4,9,13,2,1,0,0,2,22,18.4,-10,Eric Paschall
+2020-01-22,23-079,GSW,HOME,UTA,L (-33),0,25:55,4,10,.400,0,1,.000,3,5,.600,2,2,4,3,0,0,0,3,11,7.7,-11,Eric Paschall
+2020-01-24,23-081,GSW,HOME,IND,L (-11),0,26:31,3,7,.429,0,1,.000,3,4,.750,3,4,7,2,2,0,2,2,9,8.8,-8,Eric Paschall
+2020-01-28,23-085,GSW,AWAY,PHI,L (-11),0,11:20,2,6,.333,0,1,.000,0,0,,1,2,3,0,0,0,3,5,4,-3.1,-12,Eric Paschall
+2020-01-30,23-087,GSW,AWAY,BOS,L (-15),0,23:13,1,5,.200,0,1,.000,2,2,1.000,0,1,1,2,0,0,1,2,4,0.8,-9,Eric Paschall
+2020-02-01,23-089,GSW,AWAY,CLE,W (+19),0,22:10,5,8,.625,0,1,.000,6,6,1.000,0,2,2,2,0,0,1,2,16,12.6,-7,Eric Paschall
+2020-02-03,23-091,GSW,AWAY,WAS,W (+8),0,24:11,5,13,.385,0,0,,4,9,.444,4,6,10,1,0,0,2,2,14,7.4,+6,Eric Paschall
+2020-02-05,23-093,GSW,AWAY,BRK,L (-41),1,33:27,6,16,.375,2,5,.400,1,2,.500,0,5,5,2,1,1,1,2,15,8.6,-24,Eric Paschall
+2020-02-08,23-096,GSW,HOME,LAL,L (-5),1,27:55,3,11,.273,0,2,.000,0,0,,0,4,4,2,1,1,2,5,6,-0.2,-3,Eric Paschall
+2020-02-10,23-098,GSW,HOME,MIA,L (-12),0,16:35,3,6,.500,1,2,.500,2,2,1.000,1,0,1,0,2,0,2,2,9,5.9,-18,Eric Paschall
+2020-02-12,23-100,GSW,AWAY,PHO,L (-6),0,26:47,5,8,.625,0,2,.000,2,2,1.000,2,4,6,2,0,0,3,1,12,9.0,-7,Eric Paschall
+2020-02-20,23-108,GSW,HOME,HOU,L (-30),0,31:53,5,7,.714,1,1,1.000,1,1,1.000,4,2,6,2,0,1,5,1,12,9.2,-22,Eric Paschall
+2020-02-23,23-111,GSW,HOME,NOP,L (-14),1,30:55,5,9,.556,0,2,.000,3,4,.750,1,4,5,0,1,0,2,4,13,7.6,-16,Eric Paschall
+2020-02-25,23-113,GSW,HOME,SAC,L (-18),1,36:04,5,8,.625,0,3,.000,2,2,1.000,0,3,3,2,1,0,2,4,12,8.1,-8,Eric Paschall
+2020-02-27,23-115,GSW,HOME,LAL,L (-30),0,26:37,7,14,.500,1,3,.333,8,9,.889,1,2,3,2,0,0,0,0,23,18.3,-25,Eric Paschall
+2020-02-29,23-117,GSW,AWAY,PHO,W (+16),0,32:32,10,16,.625,1,2,.500,4,6,.667,1,2,3,4,0,0,1,3,25,18.9,+18,Eric Paschall
+2020-03-01,23-118,GSW,HOME,WAS,L (-14),0,33:22,7,14,.500,1,2,.500,2,3,.667,5,2,7,6,0,0,2,1,17,15.5,-6,Eric Paschall
+2020-03-03,23-120,GSW,AWAY,DEN,W (+16),0,35:04,8,13,.615,2,4,.500,4,8,.500,1,4,5,5,1,0,2,1,22,18.5,+7,Eric Paschall
+2020-03-05,23-122,GSW,HOME,TOR,L (-8),0,32:01,6,10,.600,1,4,.250,3,4,.750,0,4,4,8,0,0,3,2,16,14.0,+7,Eric Paschall
+2020-03-07,23-124,GSW,HOME,PHI,W (+4),0,29:26,8,12,.667,0,1,.000,7,7,1.000,0,3,3,6,0,0,1,2,23,21.1,+8,Eric Paschall
+2020-03-10,23-127,GSW,HOME,LAC,L (-24),0,32:13,4,12,.333,1,4,.250,3,4,.750,0,2,2,7,0,0,0,1,12,9.9,-28,Eric Paschall
+2019-10-24,20-127,GSW,HOME,LAC,L (-19),0,20:48,2,13,.154,1,7,.143,0,0,,0,2,2,2,1,0,1,0,5,-1.3,+10,Jordan Poole
+2019-10-27,20-130,GSW,AWAY,OKC,L (-28),0,23:27,1,9,.111,1,5,.200,3,3,1.000,0,2,2,1,1,0,2,1,6,0.0,+4,Jordan Poole
+2019-10-28,20-131,GSW,AWAY,NOP,W (+11),1,26:26,4,10,.400,3,5,.600,2,2,1.000,0,1,1,0,2,0,1,5,13,6.9,-21,Jordan Poole
+2019-10-30,20-133,GSW,HOME,PHO,L (-11),0,21:05,2,8,.250,2,5,.400,3,3,1.000,0,4,4,2,0,0,1,2,9,5.0,+9,Jordan Poole
+2019-11-01,20-135,GSW,HOME,SAS,L (-17),1,28:37,7,13,.538,4,7,.571,2,2,1.000,0,0,0,1,0,0,1,3,20,12.2,-8,Jordan Poole
+2019-11-02,20-136,GSW,HOME,CHO,L (-6),1,30:45,2,9,.222,0,2,.000,1,1,1.000,0,1,1,3,0,0,3,5,5,-3.1,-6,Jordan Poole
+2019-11-04,20-138,GSW,HOME,POR,W (+9),1,30:32,3,16,.188,2,9,.222,8,8,1.000,0,3,3,5,0,1,1,2,16,9.3,+7,Jordan Poole
+2019-11-06,20-140,GSW,AWAY,HOU,L (-17),1,26:35,2,11,.182,2,8,.250,2,2,1.000,1,1,2,2,1,1,2,1,8,2.8,-14,Jordan Poole
+2019-11-08,20-142,GSW,AWAY,MIN,L (-6),1,25:08,3,10,.300,1,6,.167,2,2,1.000,0,1,1,0,2,1,2,1,9,3.8,-4,Jordan Poole
+2019-11-09,20-143,GSW,AWAY,OKC,L (-6),1,34:57,2,6,.333,0,2,.000,0,0,,0,3,3,6,2,0,2,4,4,4.1,-12,Jordan Poole
+2019-11-11,20-145,GSW,HOME,UTA,L (-14),1,32:16,5,11,.455,1,3,.333,0,1,.000,1,5,6,2,0,0,2,4,11,4.9,-10,Jordan Poole
+2019-11-13,20-147,GSW,AWAY,LAL,L (-26),1,31:32,4,15,.267,3,12,.250,0,0,,0,1,1,0,1,0,1,2,11,1.6,-22,Jordan Poole
+2019-11-15,20-149,GSW,HOME,BOS,L (-5),0,21:40,1,8,.125,0,5,.000,2,2,1.000,0,6,6,1,1,0,1,4,4,-0.3,-4,Jordan Poole
+2019-11-17,20-151,GSW,AWAY,NOP,L (-8),0,23:09,0,7,.000,0,3,.000,0,1,.000,0,5,5,3,0,0,2,1,0,-4.1,+3,Jordan Poole
+2019-11-19,20-153,GSW,AWAY,MEM,W (+19),0,16:32,2,8,.250,1,5,.200,0,0,,1,2,3,3,0,1,0,0,5,4.3,-1,Jordan Poole
+2019-11-20,20-154,GSW,AWAY,DAL,L (-48),0,30:03,5,14,.357,0,4,.000,1,2,.500,0,1,1,7,0,0,1,3,11,5.8,-23,Jordan Poole
+2019-11-22,20-156,GSW,AWAY,UTA,L (-4),0,25:14,4,13,.308,1,5,.200,4,4,1.000,0,1,1,1,0,0,1,2,13,4.7,-3,Jordan Poole
+2019-11-25,20-159,GSW,HOME,OKC,L (-3),0,24:22,3,13,.231,2,5,.400,3,4,.750,1,5,6,4,1,0,1,1,11,7.3,+3,Jordan Poole
+2019-11-27,20-161,GSW,HOME,CHI,W (+14),0,22:02,2,6,.333,0,4,.000,2,3,.667,0,3,3,2,0,0,3,2,6,0.7,+7,Jordan Poole
+2019-11-29,20-163,GSW,AWAY,MIA,L (-17),0,28:17,5,10,.500,5,6,.833,5,6,.833,0,1,1,1,0,0,0,1,20,15.2,+2,Jordan Poole
+2019-12-01,20-165,GSW,AWAY,ORL,L (-4),0,15:48,0,8,.000,0,4,.000,1,2,.500,0,0,0,0,0,1,0,0,1,-4.3,0,Jordan Poole
+2019-12-02,20-166,GSW,AWAY,ATL,L (-25),0,19:40,0,5,.000,0,3,.000,0,0,,0,2,2,2,3,1,1,0,0,1.2,-23,Jordan Poole
+2019-12-04,20-168,GSW,AWAY,CHO,L (-15),0,11:08,0,3,.000,0,2,.000,0,0,,0,0,0,1,0,0,0,0,0,-1.4,-7,Jordan Poole
+2019-12-06,20-170,GSW,AWAY,CHI,W (+2),0,5:48,0,3,.000,0,1,.000,1,1,1.000,0,0,0,0,0,0,0,0,1,-1.1,-7,Jordan Poole
+2019-12-13,20-177,GSW,AWAY,UTA,L (-8),0,9:35,1,3,.333,1,3,.333,1,3,.333,0,0,0,3,0,0,0,1,4,3.2,+13,Jordan Poole
+2019-12-15,20-179,GSW,HOME,SAC,L (-21),0,16:18,1,7,.143,1,6,.167,2,2,1.000,0,0,0,1,2,0,1,1,5,1.8,-12,Jordan Poole
+2019-12-18,20-182,GSW,AWAY,POR,L (-10),0,8:52,1,3,.333,0,2,.000,0,0,,0,0,0,0,0,0,0,1,2,-0.1,-5,Jordan Poole
+2019-12-20,20-184,GSW,HOME,NOP,W (+4),0,13:07,1,4,.250,1,3,.333,2,2,1.000,0,2,2,0,0,1,1,1,5,2.5,-1,Jordan Poole
+2019-12-23,20-187,GSW,HOME,MIN,W (+9),0,6:45,0,2,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-1.1,-8,Jordan Poole
+2020-01-04,20-199,GSW,HOME,DET,L (-7),0,18:28,2,5,.400,0,3,.000,0,0,,0,0,0,2,2,0,0,1,4,4.3,+19,Jordan Poole
+2020-01-06,20-201,GSW,AWAY,SAC,L (-13),0,16:19,2,4,.500,1,3,.333,4,4,1.000,0,1,1,1,2,0,0,1,9,9.6,+5,Jordan Poole
+2020-01-08,20-203,GSW,HOME,MIL,L (-9),0,14:26,0,3,.000,0,1,.000,0,2,.000,0,3,3,2,0,0,0,1,0,-1.0,-8,Jordan Poole
+2020-01-10,20-205,GSW,AWAY,LAC,L (-9),0,15:31,2,7,.286,1,5,.200,0,0,,0,0,0,2,0,0,1,2,5,0.5,+3,Jordan Poole
+2020-01-12,20-207,GSW,AWAY,MEM,L (-20),0,27:27,4,11,.364,4,9,.444,1,1,1.000,0,3,3,2,0,0,1,2,13,7.4,-11,Jordan Poole
+2020-01-14,20-209,GSW,HOME,DAL,L (-27),0,28:01,6,12,.500,3,7,.429,2,4,.500,0,2,2,5,0,0,1,0,17,13.3,-9,Jordan Poole
+2020-01-16,20-211,GSW,HOME,DEN,L (-3),0,11:38,4,9,.444,2,5,.400,0,0,,0,2,2,2,2,0,1,0,10,8.3,+3,Jordan Poole
+2020-01-18,20-213,GSW,HOME,ORL,W (+14),0,27:45,8,19,.421,4,10,.400,1,1,1.000,0,3,3,2,1,0,2,0,21,12.2,+17,Jordan Poole
+2020-01-20,20-215,GSW,AWAY,POR,L (-5),0,29:37,2,11,.182,1,5,.200,4,6,.667,1,4,5,3,1,0,0,3,9,5.1,+4,Jordan Poole
+2020-01-22,20-217,GSW,HOME,UTA,L (-33),0,21:34,0,6,.000,0,1,.000,2,2,1.000,0,1,1,2,0,1,0,1,2,-0.2,-7,Jordan Poole
+2020-01-24,20-219,GSW,HOME,IND,L (-11),0,18:31,2,6,.333,2,4,.500,3,3,1.000,0,0,0,2,0,0,3,2,9,3.2,-9,Jordan Poole
+2020-01-28,20-223,GSW,AWAY,PHI,L (-11),0,15:06,1,5,.200,1,4,.250,0,0,,0,2,2,0,0,0,0,2,3,-0.3,-12,Jordan Poole
+2020-01-30,20-225,GSW,AWAY,BOS,L (-15),0,18:53,1,6,.167,0,4,.000,3,3,1.000,0,3,3,1,0,1,1,3,5,1.3,-5,Jordan Poole
+2020-02-01,20-227,GSW,AWAY,CLE,W (+19),0,12:31,1,4,.250,1,1,1.000,0,0,,0,3,3,3,0,0,1,0,3,2.6,+6,Jordan Poole
+2020-02-03,20-229,GSW,AWAY,WAS,W (+8),0,14:06,1,2,.500,0,0,,0,0,,0,0,0,1,0,0,1,3,2,-0.5,+9,Jordan Poole
+2020-02-05,20-231,GSW,AWAY,BRK,L (-41),0,26:36,6,14,.429,1,7,.143,3,3,1.000,0,2,2,4,3,0,3,2,16,11.2,-12,Jordan Poole
+2020-02-08,20-234,GSW,HOME,LAL,L (-5),0,22:48,8,12,.667,3,7,.429,0,0,,1,1,2,3,1,0,1,2,19,16.1,+3,Jordan Poole
+2020-02-10,20-236,GSW,HOME,MIA,L (-12),0,30:59,3,11,.273,0,4,.000,6,6,1.000,0,6,6,2,0,0,0,2,12,7.9,+9,Jordan Poole
+2020-02-12,20-238,GSW,AWAY,PHO,L (-6),1,32:01,4,12,.333,2,7,.286,2,2,1.000,0,3,3,3,1,0,2,1,12,6.8,0,Jordan Poole
+2020-02-20,20-246,GSW,HOME,HOU,L (-30),1,32:01,7,15,.467,3,10,.300,2,3,.667,1,3,4,2,1,0,3,5,19,9.9,-26,Jordan Poole
+2020-02-23,20-249,GSW,HOME,NOP,L (-14),1,32:38,8,14,.571,1,4,.250,2,3,.667,0,4,4,5,0,0,4,1,19,12.3,-20,Jordan Poole
+2020-02-25,20-251,GSW,HOME,SAC,L (-18),1,31:31,5,14,.357,1,7,.143,2,3,.667,0,1,1,4,1,0,3,5,13,3.9,-7,Jordan Poole
+2020-02-27,20-253,GSW,HOME,LAL,L (-30),1,32:17,7,13,.538,2,5,.400,0,0,,0,1,1,8,0,0,4,0,16,11.6,-4,Jordan Poole
+2020-03-01,20-256,GSW,HOME,WAS,L (-14),0,27:47,5,9,.556,2,3,.667,5,7,.714,2,1,3,7,0,0,4,2,17,13.7,-4,Jordan Poole
+2020-03-03,20-258,GSW,AWAY,DEN,W (+16),0,22:27,4,7,.571,4,6,.667,3,4,.750,0,3,3,6,1,0,0,1,15,17.0,0,Jordan Poole
+2020-03-05,20-260,GSW,HOME,TOR,L (-8),0,15:53,0,2,.000,0,1,.000,0,0,,0,2,2,2,0,1,3,1,0,-2.1,-3,Jordan Poole
+2020-03-07,20-262,GSW,HOME,PHI,W (+4),0,20:26,5,11,.455,1,4,.250,0,2,.000,0,1,1,2,1,0,3,3,11,3.0,-5,Jordan Poole
+2020-03-10,20-265,GSW,HOME,LAC,L (-24),0,26:06,6,10,.600,2,6,.333,3,4,.750,0,1,1,3,1,0,1,0,17,14.4,-3,Jordan Poole
+2020-03-03,27-027,GSW,AWAY,DEN,W (+16),0,12:06,0,1,.000,0,1,.000,0,0,,0,1,1,1,0,0,0,1,0,-0.1,+1,Chasson Randle
+2020-03-07,27-031,GSW,HOME,PHI,W (+4),0,13:36,0,1,.000,0,0,,3,4,.750,0,1,1,1,1,0,0,0,3,3.9,-10,Chasson Randle
+2020-03-10,27-034,GSW,HOME,LAC,L (-24),0,14:42,0,2,.000,0,1,.000,2,2,1.000,0,0,0,3,1,0,0,2,2,2.9,+5,Chasson Randle
+2019-10-24,25-289,GSW,HOME,LAC,L (-19),1,30:14,5,10,.500,1,4,.250,2,2,1.000,2,3,5,2,0,0,0,3,13,10.5,-22,Glenn Robinson III
+2019-10-27,25-292,GSW,AWAY,OKC,L (-28),1,20:46,1,7,.143,0,3,.000,1,2,.500,4,2,6,0,2,0,2,1,3,1.1,-29,Glenn Robinson III
+2019-10-28,25-293,GSW,AWAY,NOP,W (+11),1,30:58,5,13,.385,0,1,.000,2,2,1.000,4,5,9,2,1,1,0,0,12,12.3,+30,Glenn Robinson III
+2019-10-30,25-295,GSW,HOME,PHO,L (-11),1,31:03,6,10,.600,1,2,.500,4,4,1.000,0,2,2,1,1,1,2,3,17,12.2,-7,Glenn Robinson III
+2019-11-01,25-297,GSW,HOME,SAS,L (-17),1,26:40,2,2,1.000,0,0,,0,0,,2,2,4,1,0,0,0,2,4,5.3,+1,Glenn Robinson III
+2019-11-02,25-298,GSW,HOME,CHO,L (-6),1,36:22,6,12,.500,4,7,.571,0,0,,3,6,9,3,2,0,2,2,16,15.2,+6,Glenn Robinson III
+2019-11-04,25-300,GSW,HOME,POR,W (+9),1,30:46,2,5,.400,0,0,,1,2,.500,1,5,6,3,0,0,0,0,5,6.2,+1,Glenn Robinson III
+2019-11-06,25-302,GSW,AWAY,HOU,L (-17),1,33:44,6,13,.462,3,6,.500,0,0,,5,6,11,1,0,0,2,2,15,11.5,-28,Glenn Robinson III
+2019-11-08,25-304,GSW,AWAY,MIN,L (-6),1,41:43,3,7,.429,0,0,,0,0,,3,4,7,2,2,0,2,4,6,5.4,-7,Glenn Robinson III
+2019-11-09,25-305,GSW,AWAY,OKC,L (-6),1,34:15,7,12,.583,2,5,.400,2,2,1.000,1,1,2,0,1,0,1,1,18,13.0,-17,Glenn Robinson III
+2019-11-11,25-307,GSW,HOME,UTA,L (-14),1,24:08,4,6,.667,0,2,.000,0,0,,2,0,2,2,1,0,1,2,8,7.4,-7,Glenn Robinson III
+2019-11-13,25-309,GSW,AWAY,LAL,L (-26),1,27:56,4,7,.571,1,3,.333,0,0,,1,3,4,5,3,0,1,0,9,12.8,-10,Glenn Robinson III
+2019-11-15,25-311,GSW,HOME,BOS,L (-5),1,32:12,3,11,.273,1,2,.500,2,2,1.000,1,3,4,1,1,0,0,1,9,5.4,-3,Glenn Robinson III
+2019-11-17,25-313,GSW,AWAY,NOP,L (-8),1,35:20,6,13,.462,1,4,.250,1,1,1.000,1,5,6,2,0,0,0,2,14,10.1,-5,Glenn Robinson III
+2019-11-19,25-315,GSW,AWAY,MEM,W (+19),1,33:42,8,14,.571,3,6,.500,1,1,1.000,0,1,1,2,0,0,0,3,20,13.9,+16,Glenn Robinson III
+2019-11-20,25-316,GSW,AWAY,DAL,L (-48),1,28:21,2,7,.286,1,3,.333,0,0,,1,4,5,1,1,0,2,2,5,1.7,-39,Glenn Robinson III
+2019-11-22,25-318,GSW,AWAY,UTA,L (-4),1,35:47,7,12,.583,2,3,.667,1,1,1.000,0,4,4,5,1,0,1,0,17,16.1,-6,Glenn Robinson III
+2019-11-25,25-321,GSW,HOME,OKC,L (-3),1,36:08,9,14,.643,3,4,.750,4,5,.800,1,1,2,5,2,1,1,1,25,24.2,-13,Glenn Robinson III
+2019-11-27,25-323,GSW,HOME,CHI,W (+14),1,34:21,4,11,.364,2,6,.333,1,2,.500,0,1,1,3,2,1,0,1,11,9.2,+12,Glenn Robinson III
+2019-11-29,25-325,GSW,AWAY,MIA,L (-17),1,29:09,0,10,.000,0,4,.000,3,4,.750,1,3,4,0,0,1,1,3,3,-4.3,-19,Glenn Robinson III
+2019-12-01,25-327,GSW,AWAY,ORL,L (-4),1,37:28,8,16,.500,3,6,.500,0,0,,1,2,3,1,0,1,1,1,19,12.3,0,Glenn Robinson III
+2019-12-02,25-328,GSW,AWAY,ATL,L (-25),1,34:28,3,12,.250,0,1,.000,0,0,,1,3,4,1,0,1,1,1,6,0.4,-10,Glenn Robinson III
+2019-12-04,25-330,GSW,AWAY,CHO,L (-15),1,30:17,4,10,.400,0,1,.000,0,0,,0,2,2,0,0,0,0,1,8,2.8,-7,Glenn Robinson III
+2019-12-06,25-332,GSW,AWAY,CHI,W (+2),1,33:58,8,12,.667,2,4,.500,2,2,1.000,1,6,7,0,2,0,2,3,20,16.1,-4,Glenn Robinson III
+2019-12-09,25-335,GSW,HOME,MEM,L (-8),1,31:49,2,7,.286,0,2,.000,0,0,,0,8,8,0,3,0,0,2,4,4.5,-11,Glenn Robinson III
+2019-12-11,25-337,GSW,HOME,NYK,L (-2),1,35:55,6,14,.429,2,6,.333,3,4,.750,2,2,4,2,1,0,1,4,17,11.0,-7,Glenn Robinson III
+2019-12-13,25-339,GSW,AWAY,UTA,L (-8),1,31:33,5,10,.500,0,2,.000,0,0,,3,5,8,1,1,0,1,2,10,8.5,-24,Glenn Robinson III
+2019-12-15,25-341,GSW,HOME,SAC,L (-21),1,24:23,3,6,.500,1,2,.500,0,0,,1,2,3,0,0,0,0,0,7,5.3,-1,Glenn Robinson III
+2019-12-18,25-344,GSW,AWAY,POR,L (-10),1,29:59,6,13,.462,5,7,.714,0,0,,2,2,4,0,0,1,1,3,17,10.8,0,Glenn Robinson III
+2019-12-20,25-346,GSW,HOME,NOP,W (+4),1,28:07,4,9,.444,1,4,.250,0,0,,1,2,3,1,1,0,1,2,9,5.5,+2,Glenn Robinson III
+2019-12-25,25-351,GSW,HOME,HOU,W (+12),1,37:22,6,13,.462,2,2,1.000,4,4,1.000,0,4,4,3,1,0,0,2,18,14.8,+24,Glenn Robinson III
+2019-12-27,25-353,GSW,HOME,PHO,W (+9),1,34:47,4,7,.571,0,0,,4,4,1.000,3,3,6,1,3,0,2,3,12,12.2,+9,Glenn Robinson III
+2019-12-28,25-354,GSW,HOME,DAL,L (-20),1,28:44,3,10,.300,1,5,.200,1,2,.500,1,2,3,2,0,0,0,1,8,4.1,-10,Glenn Robinson III
+2019-12-31,25-357,GSW,AWAY,SAS,L (-4),1,39:32,10,17,.588,3,5,.600,2,2,1.000,0,3,3,3,0,1,2,3,25,17.6,-3,Glenn Robinson III
+2020-01-02,25-359,GSW,AWAY,MIN,L (-15),1,31:27,7,14,.500,1,3,.333,1,2,.500,1,5,6,1,0,0,1,1,16,10.1,-22,Glenn Robinson III
+2020-01-04,25-361,GSW,HOME,DET,L (-7),1,31:15,1,11,.091,0,2,.000,2,2,1.000,1,5,6,1,1,0,1,3,4,-1.6,-9,Glenn Robinson III
+2020-01-06,25-363,GSW,AWAY,SAC,L (-13),1,26:41,7,13,.538,1,2,.500,1,2,.500,0,5,5,1,0,0,2,3,16,8.3,-12,Glenn Robinson III
+2020-01-08,26-000,GSW,HOME,MIL,L (-9),1,29:10,6,13,.462,2,4,.500,1,1,1.000,4,3,7,1,1,0,2,3,15,10.5,+1,Glenn Robinson III
+2020-01-10,26-002,GSW,AWAY,LAC,L (-9),1,33:59,7,12,.583,1,4,.250,2,2,1.000,0,3,3,4,2,0,3,2,17,13.3,-17,Glenn Robinson III
+2020-01-12,26-004,GSW,AWAY,MEM,L (-20),1,28:48,3,7,.429,1,5,.200,1,1,1.000,2,5,7,0,2,0,2,2,8,6.4,-10,Glenn Robinson III
+2020-01-14,26-006,GSW,HOME,DAL,L (-27),1,31:37,6,10,.600,1,4,.250,0,0,,2,5,7,2,1,0,1,0,13,12.7,-27,Glenn Robinson III
+2020-01-16,26-008,GSW,HOME,DEN,L (-3),1,30:38,6,10,.600,3,5,.600,2,2,1.000,1,5,6,3,1,1,2,0,17,16.4,-1,Glenn Robinson III
+2020-01-18,26-010,GSW,HOME,ORL,W (+14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson III
+2020-01-22,26-014,GSW,HOME,UTA,L (-33),1,24:49,4,8,.500,2,4,.500,0,0,,2,1,3,1,0,1,0,2,10,8.3,-24,Glenn Robinson III
+2020-01-24,26-016,GSW,HOME,IND,L (-11),1,37:14,7,10,.700,2,5,.400,2,3,.667,1,6,7,1,0,1,2,1,18,14.9,-7,Glenn Robinson III
+2020-01-28,26-020,GSW,AWAY,PHI,L (-11),1,33:27,7,11,.636,3,5,.600,3,3,1.000,1,4,5,3,1,0,1,0,20,19.1,+7,Glenn Robinson III
+2020-01-30,26-022,GSW,AWAY,BOS,L (-15),1,27:51,4,10,.400,1,6,.167,2,2,1.000,0,1,1,3,0,1,1,3,11,6.5,-16,Glenn Robinson III
+2020-02-01,26-024,GSW,AWAY,CLE,W (+19),1,25:50,9,13,.692,3,5,.600,1,2,.500,0,1,1,1,3,1,0,0,22,20.8,+26,Glenn Robinson III
+2020-02-03,26-026,GSW,AWAY,WAS,W (+8),1,31:39,8,13,.615,2,4,.500,4,4,1.000,2,4,6,7,1,0,2,1,22,22.2,+9,Glenn Robinson III
+2020-02-05,26-028,GSW,AWAY,BRK,L (-41),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson III
+2020-02-09,26-032,PHI,HOME,CHI,W (+7),0,12:11,5,6,.833,0,1,.000,0,0,,1,0,1,0,0,0,0,1,10,8.1,+11,Glenn Robinson III
+2020-02-11,26-034,PHI,HOME,LAC,W (+7),0,12:19,3,6,.500,0,1,.000,0,0,,0,1,1,1,0,1,1,1,6,3.3,0,Glenn Robinson III
+2020-02-20,26-043,PHI,HOME,BRK,W (+8),1,14:07,2,3,.667,0,1,.000,0,0,,0,2,2,0,1,0,0,1,4,3.9,+1,Glenn Robinson III
+2020-02-22,26-045,PHI,AWAY,MIL,L (-21),1,19:50,3,8,.375,0,3,.000,0,0,,0,2,2,2,4,0,0,1,6,7.2,0,Glenn Robinson III
+2020-02-24,26-047,PHI,HOME,ATL,W (+17),0,13:42,3,5,.600,0,1,.000,0,0,,0,1,1,1,1,0,0,2,6,4.9,-3,Glenn Robinson III
+2020-02-26,26-049,PHI,AWAY,CLE,L (-14),0,15:12,1,5,.200,0,2,.000,2,2,1.000,4,0,4,0,0,0,0,0,4,3.7,-8,Glenn Robinson III
+2020-02-27,26-050,PHI,HOME,NYK,W (+9),1,21:05,2,6,.333,0,0,,0,0,,2,1,3,2,0,0,1,1,4,2.3,+6,Glenn Robinson III
+2020-03-01,26-053,PHI,AWAY,LAC,L (-6),1,13:58,1,3,.333,0,1,.000,0,0,,1,1,2,0,0,0,1,2,2,-0.5,+1,Glenn Robinson III
+2020-03-03,26-055,PHI,AWAY,LAL,L (-13),0,31:29,10,15,.667,3,5,.600,2,2,1.000,1,3,4,1,1,0,0,0,25,21.8,-2,Glenn Robinson III
+2020-03-05,26-057,PHI,AWAY,SAC,W (+17),0,28:38,2,6,.333,1,3,.333,0,0,,1,4,5,1,0,0,0,2,5,3.4,-2,Glenn Robinson III
+2020-03-07,26-059,PHI,AWAY,GSW,L (-4),0,28:11,4,5,.800,2,2,1.000,5,5,1.000,1,5,6,3,1,1,0,3,15,17.9,-9,Glenn Robinson III
+2020-03-11,26-063,PHI,HOME,DET,W (+18),0,16:30,1,3,.333,0,1,.000,0,0,,1,2,3,0,0,0,0,1,2,1.2,+4,Glenn Robinson III
+2020-08-09,26-214,PHI,AWAY,POR,L (-3),0,17:23,2,5,.400,0,0,,0,0,,0,3,3,0,1,0,1,1,4,1.8,+2,Glenn Robinson III
+2020-08-11,26-216,PHI,HOME,PHO,L (-13),0,25:25,5,9,.556,3,6,.500,2,3,.667,3,4,7,0,0,0,1,2,15,11.8,-7,Glenn Robinson III
+2019-10-24,23-243,GSW,HOME,LAC,L (-19),1,33:15,6,16,.375,4,8,.500,4,4,1.000,0,0,0,8,0,0,1,2,20,15.0,-35,D'Angelo Russell
+2019-10-27,23-246,GSW,AWAY,OKC,L (-28),1,22:23,3,10,.300,0,1,.000,0,0,,0,1,1,2,0,0,2,2,6,-0.9,-23,D'Angelo Russell
+2019-10-28,23-247,GSW,AWAY,NOP,W (+11),1,33:39,9,21,.429,3,11,.273,3,6,.500,1,6,7,8,0,0,3,1,24,16.4,+12,D'Angelo Russell
+2019-10-30,23-249,GSW,HOME,PHO,L (-11),1,29:48,5,12,.417,1,4,.250,4,8,.500,1,6,7,6,0,0,3,1,15,10.3,-28,D'Angelo Russell
+2019-11-01,23-251,GSW,HOME,SAS,L (-17),1,33:02,9,24,.375,3,11,.273,9,10,.900,0,3,3,8,0,1,1,1,30,22.2,-5,D'Angelo Russell
+2019-11-02,23-252,GSW,HOME,CHO,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,D'Angelo Russell
+2019-11-06,23-256,GSW,AWAY,HOU,L (-17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,D'Angelo Russell
+2019-11-08,23-258,GSW,AWAY,MIN,L (-6),1,40:05,19,37,.514,7,17,.412,7,8,.875,0,9,9,5,3,2,3,0,52,40.9,-2,D'Angelo Russell
+2019-11-09,23-259,GSW,AWAY,OKC,L (-6),1,34:11,10,19,.526,4,8,.500,6,6,1.000,0,3,3,7,2,0,4,2,30,23.7,+11,D'Angelo Russell
+2019-11-11,23-261,GSW,HOME,UTA,L (-14),1,32:20,13,25,.520,5,9,.556,2,5,.400,0,2,2,8,1,0,3,3,33,22.5,-13,D'Angelo Russell
+2019-11-13,23-263,GSW,AWAY,LAL,L (-26),1,31:00,6,13,.462,0,4,.000,9,10,.900,0,2,2,8,1,1,5,3,21,15.6,-27,D'Angelo Russell
+2019-11-15,23-265,GSW,HOME,BOS,L (-5),1,25:06,5,10,.500,1,6,.167,1,2,.500,0,2,2,7,1,1,9,3,12,3.6,+3,D'Angelo Russell
+2019-11-17,23-267,GSW,AWAY,NOP,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,D'Angelo Russell
+2019-11-19,23-269,GSW,AWAY,MEM,W (+19),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,D'Angelo Russell
+2019-11-20,23-270,GSW,AWAY,DAL,L (-48),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,D'Angelo Russell
+2019-11-25,23-275,GSW,HOME,OKC,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,D'Angelo Russell
+2019-11-27,23-277,GSW,HOME,CHI,W (+14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,D'Angelo Russell
+2019-12-04,23-284,GSW,AWAY,CHO,L (-15),1,24:47,7,14,.500,3,8,.375,1,1,1.000,0,2,2,2,0,0,2,1,18,10.6,-1,D'Angelo Russell
+2019-12-06,23-286,GSW,AWAY,CHI,W (+2),1,28:35,2,8,.250,2,8,.250,1,2,.500,1,6,7,5,0,0,4,2,7,3.0,-7,D'Angelo Russell
+2019-12-09,23-289,GSW,HOME,MEM,L (-8),1,34:06,6,22,.273,4,10,.400,2,4,.500,1,2,3,7,1,0,3,1,18,8.0,-12,D'Angelo Russell
+2019-12-11,23-291,GSW,HOME,NYK,L (-2),1,35:41,12,27,.444,6,14,.429,2,3,.667,0,3,3,6,2,0,2,5,32,20.6,0,D'Angelo Russell
+2019-12-13,23-293,GSW,AWAY,UTA,L (-8),1,30:21,8,20,.400,2,12,.167,0,0,,0,3,3,4,3,0,4,5,18,7.9,-15,D'Angelo Russell
+2019-12-15,23-295,GSW,HOME,SAC,L (-21),1,27:13,2,9,.222,1,3,.333,3,4,.750,0,0,0,8,0,0,4,4,8,2.1,+1,D'Angelo Russell
+2019-12-18,23-298,GSW,AWAY,POR,L (-10),1,32:58,9,23,.391,5,12,.417,3,4,.750,0,1,1,7,1,2,1,1,26,19.3,-13,D'Angelo Russell
+2019-12-20,23-300,GSW,HOME,NOP,W (+4),1,32:15,9,20,.450,4,12,.333,3,4,.750,1,2,3,7,2,0,4,3,25,17.2,+18,D'Angelo Russell
+2019-12-23,23-303,GSW,HOME,MIN,W (+9),1,33:21,8,18,.444,5,11,.455,9,10,.900,0,4,4,4,0,0,3,2,30,20.4,+7,D'Angelo Russell
+2019-12-25,23-305,GSW,HOME,HOU,W (+12),1,30:58,8,19,.421,1,10,.100,3,4,.750,1,2,3,4,1,1,3,2,20,11.5,-4,D'Angelo Russell
+2019-12-27,23-307,GSW,HOME,PHO,W (+9),1,35:06,10,25,.400,4,11,.364,7,8,.875,0,5,5,6,1,0,1,2,31,22.0,+19,D'Angelo Russell
+2019-12-28,23-308,GSW,HOME,DAL,L (-20),1,30:22,13,21,.619,9,14,.643,0,0,,0,4,4,6,0,0,2,2,35,28.1,-12,D'Angelo Russell
+2020-01-02,23-313,GSW,AWAY,MIN,L (-15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,D'Angelo Russell
+2020-01-12,23-323,GSW,AWAY,MEM,L (-20),1,34:39,12,24,.500,5,9,.556,5,6,.833,1,6,7,4,0,0,2,1,34,24.5,-10,D'Angelo Russell
+2020-01-14,23-325,GSW,HOME,DAL,L (-27),1,34:10,5,17,.294,0,6,.000,3,4,.750,0,3,3,8,0,0,6,1,13,2.8,-23,D'Angelo Russell
+2020-01-16,23-327,GSW,HOME,DEN,L (-3),1,36:24,6,18,.333,6,12,.500,1,2,.500,1,2,3,9,3,0,3,3,19,14.8,-12,D'Angelo Russell
+2020-01-18,23-329,GSW,HOME,ORL,W (+14),1,34:31,9,21,.429,4,12,.333,4,4,1.000,0,2,2,12,2,0,1,1,26,24.5,+14,D'Angelo Russell
+2020-01-20,23-331,GSW,AWAY,POR,L (-5),1,39:54,9,27,.333,5,16,.313,4,4,1.000,1,7,8,9,0,0,6,5,27,12.8,+3,D'Angelo Russell
+2020-01-22,23-333,GSW,HOME,UTA,L (-33),1,27:44,10,21,.476,2,7,.286,4,4,1.000,1,2,3,3,0,0,1,0,26,17.7,-24,D'Angelo Russell
+2020-01-24,23-335,GSW,HOME,IND,L (-11),1,35:50,13,21,.619,9,13,.692,2,2,1.000,0,4,4,5,0,0,5,1,37,26.8,+1,D'Angelo Russell
+2020-01-28,23-339,GSW,AWAY,PHI,L (-11),1,36:52,10,22,.455,6,12,.500,2,5,.400,1,4,5,7,2,0,3,2,28,20.4,-8,D'Angelo Russell
+2020-01-30,23-341,GSW,AWAY,BOS,L (-15),1,28:20,7,17,.412,3,11,.273,5,5,1.000,1,2,3,5,3,0,4,1,22,16.3,-14,D'Angelo Russell
+2020-02-01,23-343,GSW,AWAY,CLE,W (+19),1,28:55,6,14,.429,6,11,.545,1,2,.500,1,6,7,8,0,0,2,1,19,16.9,+18,D'Angelo Russell
+2020-02-05,23-347,GSW,AWAY,BRK,L (-41),1,32:32,7,20,.350,0,8,.000,3,3,1.000,1,2,3,3,2,1,1,0,17,10.9,-48,D'Angelo Russell
+2020-02-10,23-352,MIN,AWAY,TOR,L (-11),1,31:38,7,12,.583,4,5,.800,4,4,1.000,0,0,0,5,1,0,6,1,22,14.5,-22,D'Angelo Russell
+2020-02-12,23-354,MIN,HOME,CHO,L (-7),1,35:29,9,23,.391,4,12,.333,4,4,1.000,1,5,6,11,2,1,3,4,26,21.5,+12,D'Angelo Russell
+2020-02-21,23-363,MIN,HOME,BOS,L (-10),1,34:07,5,16,.313,1,9,.111,7,8,.875,0,6,6,13,0,0,3,1,18,15.9,-14,D'Angelo Russell
+2020-02-23,24-000,MIN,AWAY,DEN,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,D'Angelo Russell
+2020-02-24,24-001,MIN,AWAY,DAL,L (-16),1,31:29,10,20,.500,3,8,.375,6,6,1.000,0,3,3,5,1,0,2,3,29,21.2,-1,D'Angelo Russell
+2020-02-26,24-003,MIN,AWAY,MIA,W (+3),1,31:29,9,18,.500,7,14,.500,2,3,.667,0,5,5,6,3,1,3,2,27,23.2,0,D'Angelo Russell
+2020-02-28,24-005,MIN,AWAY,ORL,L (-11),1,36:02,11,22,.500,5,11,.455,1,2,.500,0,3,3,7,1,1,4,2,28,19.3,+8,D'Angelo Russell
+2020-03-01,24-007,MIN,HOME,DAL,L (-20),1,36:48,6,18,.333,2,9,.222,2,3,.667,1,8,9,7,2,0,4,1,16,11.0,-12,D'Angelo Russell
+2020-03-03,24-009,MIN,AWAY,NOP,W (+5),1,31:02,8,21,.381,3,9,.333,4,4,1.000,0,3,3,8,1,0,5,2,23,13.2,-14,D'Angelo Russell
+2020-03-04,24-010,MIN,HOME,CHI,W (+7),1,31:23,6,14,.429,4,10,.400,3,3,1.000,0,3,3,4,1,0,5,1,19,10.9,+23,D'Angelo Russell
+2020-03-06,24-012,MIN,HOME,ORL,L (-14),1,23:21,2,14,.143,0,4,.000,1,2,.500,0,5,5,3,0,0,0,1,5,-1.2,-14,D'Angelo Russell
+2020-03-08,24-014,MIN,HOME,NOP,L (-13),1,34:57,6,18,.333,0,7,.000,7,7,1.000,1,5,6,5,1,1,5,2,19,10.4,+10,D'Angelo Russell
+2020-03-10,24-016,MIN,AWAY,HOU,L (-6),1,33:56,8,15,.533,5,12,.417,7,9,.778,0,6,6,5,4,0,6,2,28,22.4,+2,D'Angelo Russell
+2019-12-27,19-131,GSW,HOME,PHO,W (+9),0,4:46,2,3,.667,0,1,.000,0,0,,1,0,1,0,0,1,0,0,4,4.1,-1,Alen Smailagić
+2019-12-28,19-132,GSW,HOME,DAL,L (-20),0,19:35,2,3,.667,0,1,.000,1,1,1.000,0,5,5,1,0,0,0,3,5,4.7,-6,Alen Smailagić
+2019-12-31,19-135,GSW,AWAY,SAS,L (-4),0,10:12,3,6,.500,1,2,.500,0,0,,1,2,3,1,0,1,0,2,7,5.9,-3,Alen Smailagić
+2020-01-02,19-137,GSW,AWAY,MIN,L (-15),0,15:53,1,4,.250,0,2,.000,5,6,.833,1,2,3,1,1,0,1,2,7,5.4,+9,Alen Smailagić
+2020-01-06,19-141,GSW,AWAY,SAC,L (-13),0,7:03,1,2,.500,0,0,,0,0,,0,0,0,1,0,0,0,0,2,1.7,+6,Alen Smailagić
+2020-01-08,19-143,GSW,HOME,MIL,L (-9),0,11:29,4,7,.571,1,2,.500,1,2,.500,2,2,4,0,0,0,2,1,10,5.9,-6,Alen Smailagić
+2020-01-10,19-145,GSW,AWAY,LAC,L (-9),0,4:18,1,1,1.000,0,0,,0,0,,1,1,2,0,0,0,0,0,2,2.7,+4,Alen Smailagić
+2020-01-12,19-147,GSW,AWAY,MEM,L (-20),0,7:04,0,0,,0,0,,0,0,,0,3,3,1,0,1,1,0,0,1.3,+1,Alen Smailagić
+2020-01-14,19-149,GSW,HOME,DAL,L (-27),0,11:58,2,3,.667,0,1,.000,1,1,1.000,1,0,1,3,0,0,1,2,5,4.7,-1,Alen Smailagić
+2020-02-08,19-174,GSW,HOME,LAL,L (-5),0,14:05,3,5,.600,1,2,.500,3,4,.750,0,1,1,1,1,1,1,1,10,8.6,-10,Alen Smailagić
+2020-02-10,19-176,GSW,HOME,MIA,L (-12),0,4:51,0,1,.000,0,0,,2,2,1.000,1,0,1,0,0,0,1,0,2,1.0,-3,Alen Smailagić
+2020-02-12,19-178,GSW,AWAY,PHO,L (-6),0,7:12,0,1,.000,0,0,,2,2,1.000,0,0,0,0,0,0,2,1,2,-1.1,-3,Alen Smailagić
+2020-02-20,19-186,GSW,HOME,HOU,L (-30),0,11:42,1,2,.500,0,1,.000,1,1,1.000,2,1,3,2,1,0,1,0,3,5.1,+1,Alen Smailagić
+2020-02-23,19-189,GSW,HOME,NOP,L (-14),0,8:44,0,2,.000,0,1,.000,0,0,,0,0,0,2,0,0,1,2,0,-1.8,+4,Alen Smailagić
+2019-10-24,22-095,GSW,HOME,LAC,L (-19),0,10:58,2,6,.333,1,2,.500,3,3,1.000,2,3,5,0,1,0,0,1,8,7.5,-4,Omari Spellman
+2019-10-27,22-098,GSW,AWAY,OKC,L (-28),0,24:49,4,10,.400,1,3,.333,0,0,,3,4,7,2,3,2,1,2,9,10.9,+1,Omari Spellman
+2019-10-28,22-099,GSW,AWAY,NOP,W (+11),0,17:29,3,7,.429,0,1,.000,2,4,.500,4,4,8,1,0,1,3,2,8,5.1,-7,Omari Spellman
+2019-10-30,22-101,GSW,HOME,PHO,L (-11),0,22:23,0,5,.000,0,1,.000,4,4,1.000,3,4,7,0,1,0,3,2,4,1.0,-3,Omari Spellman
+2019-11-01,22-103,GSW,HOME,SAS,L (-17),0,5:02,0,0,,0,0,,2,2,1.000,0,2,2,1,0,0,0,1,2,2.9,+6,Omari Spellman
+2019-11-02,22-104,GSW,HOME,CHO,L (-6),0,18:54,1,4,.250,0,2,.000,2,2,1.000,0,4,4,1,0,1,3,1,4,0.8,+2,Omari Spellman
+2019-11-04,22-106,GSW,HOME,POR,W (+9),0,15:12,3,4,.750,1,1,1.000,0,0,,2,4,6,2,0,1,0,1,7,9.7,-4,Omari Spellman
+2019-11-06,22-108,GSW,AWAY,HOU,L (-17),0,18:15,6,6,1.000,0,0,,1,2,.500,4,3,7,3,2,0,0,0,13,18.6,0,Omari Spellman
+2019-11-08,22-110,GSW,AWAY,MIN,L (-6),0,15:09,2,8,.250,0,2,.000,2,2,1.000,4,1,5,3,0,1,2,2,6,4.3,+1,Omari Spellman
+2019-11-09,22-111,GSW,AWAY,OKC,L (-6),0,12:10,1,4,.250,0,0,,2,2,1.000,2,1,3,1,1,0,1,0,4,4.0,-9,Omari Spellman
+2019-11-11,22-113,GSW,HOME,UTA,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Omari Spellman
+2019-11-13,22-115,GSW,AWAY,LAL,L (-26),0,15:27,2,7,.286,0,2,.000,0,0,,3,4,7,1,1,0,1,0,4,3.9,-13,Omari Spellman
+2019-11-15,22-117,GSW,HOME,BOS,L (-5),0,11:34,2,5,.400,0,1,.000,4,6,.667,7,1,8,0,0,1,2,0,8,8.4,-1,Omari Spellman
+2019-11-17,22-119,GSW,AWAY,NOP,L (-8),0,13:57,2,4,.500,0,0,,0,0,,1,1,2,0,0,0,1,1,4,1.6,-9,Omari Spellman
+2019-11-19,22-121,GSW,AWAY,MEM,W (+19),0,22:48,3,9,.333,2,5,.400,1,3,.333,3,3,6,1,1,0,2,4,9,4.2,+11,Omari Spellman
+2019-11-20,22-122,GSW,AWAY,DAL,L (-48),0,28:25,4,11,.364,3,7,.429,0,0,,2,4,6,1,0,1,2,1,11,6.5,-17,Omari Spellman
+2019-11-22,22-124,GSW,AWAY,UTA,L (-4),0,28:18,7,9,.778,4,4,1.000,0,0,,0,5,5,1,0,0,1,4,18,14.1,+3,Omari Spellman
+2019-11-25,22-127,GSW,HOME,OKC,L (-3),0,23:48,3,7,.429,1,3,.333,0,0,,0,5,5,1,0,2,1,1,7,5.5,+12,Omari Spellman
+2019-11-27,22-129,GSW,HOME,CHI,W (+14),0,24:23,5,11,.455,1,3,.333,2,2,1.000,4,7,11,1,2,3,1,1,13,15.6,+15,Omari Spellman
+2019-11-29,22-131,GSW,AWAY,MIA,L (-17),0,22:39,3,7,.429,1,3,.333,5,5,1.000,0,4,4,0,2,1,1,1,12,10.8,+1,Omari Spellman
+2019-12-01,22-133,GSW,AWAY,ORL,L (-4),0,16:42,3,7,.429,0,2,.000,1,1,1.000,2,5,7,0,0,0,1,1,7,4.8,+2,Omari Spellman
+2019-12-02,22-134,GSW,AWAY,ATL,L (-25),0,27:44,4,11,.364,0,4,.000,2,2,1.000,5,4,9,1,2,1,3,1,10,8.6,-27,Omari Spellman
+2019-12-04,22-136,GSW,AWAY,CHO,L (-15),0,13:11,2,3,.667,1,1,1.000,0,0,,1,1,2,2,0,1,2,0,5,4.8,-4,Omari Spellman
+2019-12-06,22-138,GSW,AWAY,CHI,W (+2),0,12:05,2,3,.667,1,1,1.000,1,1,1.000,0,3,3,0,0,0,2,0,6,3.6,+7,Omari Spellman
+2019-12-09,22-141,GSW,HOME,MEM,L (-8),0,14:37,3,4,.750,2,2,1.000,2,2,1.000,0,2,2,1,0,0,1,0,10,8.7,+3,Omari Spellman
+2019-12-11,22-143,GSW,HOME,NYK,L (-2),0,15:51,1,4,.250,0,2,.000,1,1,1.000,2,4,6,2,0,0,0,0,3,4.6,+10,Omari Spellman
+2019-12-13,22-145,GSW,AWAY,UTA,L (-8),0,20:49,1,3,.333,0,1,.000,0,0,,2,3,5,0,0,0,2,0,2,0.6,+4,Omari Spellman
+2019-12-15,22-147,GSW,HOME,SAC,L (-21),0,18:16,2,4,.500,0,1,.000,1,2,.500,1,1,2,0,1,0,0,1,5,4.2,-5,Omari Spellman
+2019-12-18,22-150,GSW,AWAY,POR,L (-10),0,11:23,2,5,.400,0,0,,1,2,.500,3,3,6,0,0,1,0,1,5,5.2,-4,Omari Spellman
+2019-12-20,22-152,GSW,HOME,NOP,W (+4),0,6:36,0,1,.000,0,0,,0,0,,1,1,2,0,0,0,0,1,0,-0.1,-6,Omari Spellman
+2019-12-23,22-155,GSW,HOME,MIN,W (+9),0,4:27,1,4,.250,0,0,,0,0,,0,3,3,0,0,0,0,0,2,0.5,-7,Omari Spellman
+2019-12-25,22-157,GSW,HOME,HOU,W (+12),0,2:08,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4,Omari Spellman
+2019-12-31,22-163,GSW,AWAY,SAS,L (-4),0,11:45,2,6,.333,0,1,.000,0,1,.000,0,1,1,1,1,0,0,1,4,1.8,-3,Omari Spellman
+2020-01-02,22-165,GSW,AWAY,MIN,L (-15),0,21:40,3,4,.750,1,2,.500,3,3,1.000,1,4,5,1,0,0,2,2,10,8.2,-1,Omari Spellman
+2020-01-04,22-167,GSW,HOME,DET,L (-7),0,20:27,8,11,.727,4,4,1.000,3,4,.750,2,3,5,1,4,1,1,0,23,24.8,0,Omari Spellman
+2020-01-06,22-169,GSW,AWAY,SAC,L (-13),0,22:06,4,8,.500,0,2,.000,5,6,.833,1,5,6,2,2,0,1,1,13,12.8,+2,Omari Spellman
+2020-01-08,22-171,GSW,HOME,MIL,L (-9),0,17:37,3,6,.500,3,5,.600,2,2,1.000,1,4,5,1,0,1,1,3,11,9.1,+2,Omari Spellman
+2020-01-10,22-173,GSW,AWAY,LAC,L (-9),1,27:48,6,12,.500,4,8,.500,1,1,1.000,2,3,5,3,3,0,2,5,17,14.4,-9,Omari Spellman
+2020-01-12,22-175,GSW,AWAY,MEM,L (-20),1,26:46,3,7,.429,3,3,1.000,3,6,.500,2,2,4,3,1,2,2,3,12,10.4,-13,Omari Spellman
+2020-01-14,22-177,GSW,HOME,DAL,L (-27),1,27:25,4,9,.444,0,3,.000,2,2,1.000,1,3,4,0,0,0,0,0,10,6.9,-20,Omari Spellman
+2020-01-16,22-179,GSW,HOME,DEN,L (-3),0,17:06,1,3,.333,1,2,.500,0,0,,0,1,1,2,0,0,1,2,3,1.2,-1,Omari Spellman
+2020-01-18,22-181,GSW,HOME,ORL,W (+14),0,21:18,3,7,.429,2,4,.500,0,0,,2,1,3,2,0,1,0,2,8,7.3,-4,Omari Spellman
+2020-01-20,22-183,GSW,AWAY,POR,L (-5),0,21:35,1,8,.125,1,4,.250,0,0,,2,3,5,0,1,0,0,1,3,0.7,+1,Omari Spellman
+2020-01-22,22-185,GSW,HOME,UTA,L (-33),0,15:25,3,7,.429,0,2,.000,6,6,1.000,1,1,2,0,1,0,0,2,12,9.5,-5,Omari Spellman
+2020-01-24,22-187,GSW,HOME,IND,L (-11),0,16:04,3,6,.500,2,3,.667,1,2,.500,0,2,2,0,0,0,1,0,9,5.2,-8,Omari Spellman
+2020-01-28,22-191,GSW,AWAY,PHI,L (-11),0,18:35,2,7,.286,1,4,.250,0,0,,0,4,4,0,0,0,1,2,5,0.3,-20,Omari Spellman
+2020-01-30,22-193,GSW,AWAY,BOS,L (-15),0,21:37,2,6,.333,1,4,.250,2,2,1.000,0,3,3,3,2,2,2,1,7,7.6,-8,Omari Spellman
+2020-02-01,22-195,GSW,AWAY,CLE,W (+19),0,22:42,4,8,.500,1,3,.333,3,3,1.000,0,5,5,1,1,0,2,4,12,7.6,+6,Omari Spellman
+2020-02-03,22-197,GSW,AWAY,WAS,W (+8),0,12:48,1,4,.250,0,1,.000,2,2,1.000,1,2,3,0,0,0,1,2,4,1.1,+2,Omari Spellman
+2020-02-05,22-199,GSW,AWAY,BRK,L (-41),0,27:46,0,3,.000,0,1,.000,1,4,.250,0,1,1,1,0,0,1,2,1,-3.1,-19,Omari Spellman
+2020-02-08,26-304,GSW,HOME,LAL,L (-5),0,19:27,2,6,0.333,1,1,1.0,0,0,,0,3,3,2,0,0,1,0,5,2.9,-4,Juan Toscano-Anderson
+2020-02-10,26-306,GSW,HOME,MIA,L (-12),0,13:56,1,1,1.0,1,1,1.0,0,0,,0,3,3,1,2,0,2,2,3,3.5,-18,Juan Toscano-Anderson
+2020-02-12,26-308,GSW,AWAY,PHO,L (-6),0,14:00,2,3,0.667,0,0,,0,0,,0,1,1,0,1,0,0,1,4,3.6,-10,Juan Toscano-Anderson
+2020-02-20,26-316,GSW,HOME,HOU,L (-30),0,24:45,5,8,0.625,0,2,0.0,0,0,,1,5,6,5,2,1,2,2,10,12.0,-12,Juan Toscano-Anderson
+2020-02-23,26-319,GSW,HOME,NOP,L (-14),0,27:32,6,10,0.6,3,5,0.6,1,1,1.0,0,8,8,3,1,2,1,2,16,16.5,6,Juan Toscano-Anderson
+2020-02-25,26-321,GSW,HOME,SAC,L (-18),0,21:32,1,4,0.25,0,2,0.0,1,2,0.5,0,2,2,2,2,0,1,1,3,2.8,-10,Juan Toscano-Anderson
+2020-02-27,26-323,GSW,HOME,LAL,L (-30),0,20:24,2,5,0.4,1,1,1.0,0,0,,0,4,4,0,1,0,3,4,5,-0.1,-21,Juan Toscano-Anderson
+2020-02-29,26-325,GSW,AWAY,PHO,W (+16),1,30:52,2,5,0.4,0,2,0.0,1,2,0.5,2,2,4,3,1,0,2,6,5,2.6,-7,Juan Toscano-Anderson
+2020-03-01,26-326,GSW,HOME,WAS,L (-14),1,28:38,1,6,0.167,0,2,0.0,0,0,,2,3,5,5,2,1,3,4,2,2.1,-8,Juan Toscano-Anderson
+2020-03-03,26-328,GSW,AWAY,DEN,W (+16),1,20:28,3,4,0.75,2,3,0.667,0,0,,0,5,5,0,0,1,1,4,8,6.0,16,Juan Toscano-Anderson
+2020-03-05,26-330,GSW,HOME,TOR,L (-8),1,21:55,1,4,0.25,0,2,0.0,0,0,,2,3,5,3,1,0,0,3,2,3.8,-14,Juan Toscano-Anderson
+2020-03-07,26-332,GSW,HOME,PHI,W (+4),1,27:43,3,6,0.5,0,2,0.0,0,0,,2,4,6,2,0,0,0,1,6,6.6,1,Juan Toscano-Anderson
+2020-03-10,26-335,GSW,HOME,LAC,L (-24),1,0:50,0,1,0.0,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,2,Juan Toscano-Anderson
+2019-10-23,24-242,MIN,AWAY,BRK,W (+1),1,36:13,10,27,.370,0,4,.000,1,2,.500,5,3,8,0,0,0,1,4,21,7.5,-26,Andrew Wiggins
+2019-10-25,24-244,MIN,AWAY,CHO,W (+22),1,32:40,6,13,.462,0,3,.000,4,5,.800,2,2,4,2,1,1,1,1,16,12.6,+19,Andrew Wiggins
+2019-10-27,24-246,MIN,HOME,MIA,W (+7),1,35:27,9,18,.500,4,10,.400,3,4,.750,1,5,6,0,0,0,3,3,25,13.6,+15,Andrew Wiggins
+2019-10-30,24-249,MIN,AWAY,PHI,L (-22),1,33:00,6,16,.375,1,6,.167,6,6,1.000,1,4,5,2,1,1,1,1,19,13.8,-27,Andrew Wiggins
+2019-11-02,24-252,MIN,AWAY,WAS,W (+22),1,26:25,7,16,.438,4,9,.444,3,4,.750,0,5,5,6,0,1,1,0,21,17.6,+19,Andrew Wiggins
+2019-11-04,24-254,MIN,HOME,MIL,L (-28),1,30:38,10,21,.476,4,7,.571,1,2,.500,1,2,3,0,0,2,2,3,25,13.4,-17,Andrew Wiggins
+2019-11-06,24-256,MIN,AWAY,MEM,L (-16),1,34:20,11,21,.524,3,8,.375,5,8,.625,1,1,2,6,2,1,3,5,30,21.4,-11,Andrew Wiggins
+2019-11-08,24-258,MIN,HOME,GSW,W (+6),1,44:37,17,33,.515,2,7,.286,4,8,.500,1,4,5,7,0,3,0,4,40,29.4,+13,Andrew Wiggins
+2019-11-10,24-260,MIN,HOME,DEN,L (-2),1,40:28,10,22,.455,1,6,.167,4,4,1.000,0,4,4,5,1,1,1,1,25,18.6,-1,Andrew Wiggins
+2019-11-11,24-261,MIN,AWAY,DET,W (+6),1,35:57,12,20,.600,3,5,.600,6,8,.750,0,6,6,5,1,1,2,0,33,28.0,+7,Andrew Wiggins
+2019-11-13,24-263,MIN,HOME,SAS,W (+15),1,31:45,12,23,.522,4,7,.571,2,2,1.000,2,6,8,7,2,1,2,1,30,27.1,+24,Andrew Wiggins
+2019-11-20,24-270,MIN,HOME,UTA,L (-8),1,34:09,10,24,.417,1,10,.100,1,3,.333,2,5,7,3,0,0,3,3,22,9.2,+1,Andrew Wiggins
+2019-11-23,24-273,MIN,HOME,PHO,L (-2),1,36:28,9,21,.429,2,6,.333,1,3,.333,1,3,4,3,0,3,4,6,21,8.5,-1,Andrew Wiggins
+2019-11-25,24-275,MIN,AWAY,ATL,W (+12),1,36:28,9,19,.474,3,6,.500,4,6,.667,0,6,6,1,2,0,2,2,25,16.2,+13,Andrew Wiggins
+2019-11-27,24-277,MIN,AWAY,SAS,W (+12),1,35:49,7,16,.438,3,5,.600,9,14,.643,1,7,8,2,0,2,1,2,26,19.4,+26,Andrew Wiggins
+2019-12-01,24-281,MIN,HOME,MEM,L (-8),1,35:02,6,17,.353,1,6,.167,5,5,1.000,1,5,6,7,1,2,3,1,18,14.6,+3,Andrew Wiggins
+2019-12-04,24-284,MIN,AWAY,DAL,L (-7),1,31:38,7,24,.292,3,8,.375,9,11,.818,3,2,5,1,0,3,3,4,26,12.1,-8,Andrew Wiggins
+2019-12-08,24-288,MIN,AWAY,LAL,L (-17),1,29:25,8,15,.533,1,5,.200,2,3,.667,0,2,2,3,0,0,3,3,19,9.8,-20,Andrew Wiggins
+2019-12-09,24-289,MIN,AWAY,PHO,L (-16),1,37:20,8,18,.444,1,5,.200,6,7,.857,1,3,4,4,0,2,1,2,23,17.2,-16,Andrew Wiggins
+2019-12-11,24-291,MIN,HOME,UTA,L (-11),1,37:32,11,23,.478,3,8,.375,1,1,1.000,2,4,6,3,3,0,2,1,26,19.6,-6,Andrew Wiggins
+2019-12-13,24-293,MIN,HOME,LAC,L (-7),1,39:20,12,20,.600,2,7,.286,8,8,1.000,1,2,3,2,1,0,4,4,34,22.9,-9,Andrew Wiggins
+2019-12-18,24-298,MIN,HOME,NOP,L (-8),1,41:55,9,23,.391,2,6,.333,7,9,.778,2,5,7,0,2,0,4,3,27,13.4,-4,Andrew Wiggins
+2019-12-20,24-300,MIN,AWAY,DEN,L (-9),1,37:04,7,18,.389,2,8,.250,3,4,.750,1,2,3,6,1,1,4,2,19,11.2,-3,Andrew Wiggins
+2019-12-21,24-301,MIN,AWAY,POR,L (-7),1,34:56,13,24,.542,4,6,.667,3,4,.750,1,5,6,1,0,3,5,1,33,20.6,-6,Andrew Wiggins
+2019-12-23,24-303,MIN,AWAY,GSW,L (-9),1,38:36,10,27,.370,1,8,.125,1,2,.500,1,6,7,2,0,1,5,5,22,4.3,-20,Andrew Wiggins
+2019-12-26,24-306,MIN,AWAY,SAC,W (+1),1,43:37,4,19,.211,2,9,.222,8,10,.800,1,9,10,7,0,0,3,2,18,10.0,+1,Andrew Wiggins
+2019-12-28,24-308,MIN,HOME,CLE,L (-6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Andrew Wiggins
+2020-01-05,24-316,MIN,AWAY,CLE,W (+15),1,30:54,6,19,.316,1,6,.167,2,2,1.000,4,3,7,4,2,0,3,2,15,8.8,+19,Andrew Wiggins
+2020-01-07,24-318,MIN,AWAY,MEM,L (-7),1,33:29,6,13,.462,3,8,.375,0,0,,2,2,4,2,0,1,4,2,15,7.6,-5,Andrew Wiggins
+2020-01-09,24-320,MIN,HOME,POR,W (+14),1,25:38,9,15,.600,2,4,.500,3,6,.500,1,2,3,8,0,0,1,1,23,20.4,+14,Andrew Wiggins
+2020-01-11,24-322,MIN,AWAY,HOU,L (-30),1,24:37,3,13,.231,1,7,.143,4,4,1.000,1,2,3,1,0,0,2,1,11,2.7,-25,Andrew Wiggins
+2020-01-13,24-324,MIN,HOME,OKC,L (-13),1,31:17,4,12,.333,0,3,.000,2,2,1.000,1,0,1,3,1,1,1,1,10,6.3,-22,Andrew Wiggins
+2020-01-15,24-326,MIN,HOME,IND,L (-5),1,32:18,4,13,.308,1,4,.250,1,2,.500,0,3,3,3,1,1,0,0,10,6.8,-5,Andrew Wiggins
+2020-01-17,24-328,MIN,AWAY,IND,L (-2),1,34:08,9,17,.529,2,3,.667,2,3,.667,1,1,2,4,0,0,3,4,22,12.5,-3,Andrew Wiggins
+2020-01-18,24-329,MIN,HOME,TOR,L (-10),1,36:05,6,14,.429,1,5,.200,5,6,.833,1,9,10,11,1,0,3,2,18,18.5,-13,Andrew Wiggins
+2020-01-20,24-331,MIN,HOME,DEN,L (-7),1,33:19,6,17,.353,1,7,.143,2,2,1.000,1,5,6,2,0,1,3,0,15,6.8,-8,Andrew Wiggins
+2020-01-22,24-333,MIN,AWAY,CHI,L (-7),1,35:09,10,19,.526,4,10,.400,1,6,.167,1,4,5,9,1,0,5,2,25,17.1,+6,Andrew Wiggins
+2020-01-24,24-335,MIN,HOME,HOU,L (-7),1,33:09,11,19,.579,3,7,.429,3,4,.750,0,5,5,3,1,0,2,4,28,19.7,-6,Andrew Wiggins
+2020-01-25,24-336,MIN,HOME,OKC,L (-9),1,33:45,8,18,.444,4,11,.364,2,4,.500,0,3,3,1,1,0,3,5,22,9.4,-10,Andrew Wiggins
+2020-01-27,24-338,MIN,HOME,SAC,L (-4),1,42:47,13,21,.619,7,11,.636,3,6,.500,0,9,9,8,0,1,2,4,36,30.7,+8,Andrew Wiggins
+2020-02-01,24-343,MIN,AWAY,LAC,L (-12),1,26:32,4,11,.364,1,3,.333,4,5,.800,0,5,5,3,0,0,2,3,13,6.9,-16,Andrew Wiggins
+2020-02-03,24-345,MIN,AWAY,SAC,L (-4),1,35:29,3,11,.273,0,3,.000,4,6,.667,2,4,6,5,1,1,5,4,10,3.9,-11,Andrew Wiggins
+2020-02-05,24-347,MIN,HOME,ATL,L (-7),1,36:03,9,20,.450,3,8,.375,4,6,.667,1,6,7,3,2,1,4,2,25,16.3,-7,Andrew Wiggins
+2020-02-08,24-350,GSW,HOME,LAL,L (-5),1,30:54,8,12,.667,3,4,.750,5,9,.556,1,1,2,3,5,1,4,3,24,20.8,-2,Andrew Wiggins
+2020-02-10,24-352,GSW,HOME,MIA,L (-12),1,34:04,6,14,.429,2,7,.286,4,6,.667,0,2,2,4,0,0,2,4,18,9.6,+6,Andrew Wiggins
+2020-02-12,24-354,GSW,AWAY,PHO,L (-6),1,33:47,9,14,.643,3,4,.750,6,6,1.000,0,4,4,5,2,4,2,0,27,28.3,+9,Andrew Wiggins
+2020-02-20,24-362,GSW,HOME,HOU,L (-30),1,28:57,10,17,.588,2,4,.500,0,0,,2,1,3,0,1,2,1,1,22,16.8,-19,Andrew Wiggins
+2020-02-23,25-000,GSW,HOME,NOP,L (-14),1,34:20,3,16,.188,1,4,.250,1,2,.500,5,5,10,4,1,2,1,3,8,5.6,-19,Andrew Wiggins
+2020-02-25,25-002,GSW,HOME,SAC,L (-18),1,30:31,6,14,.429,0,3,.000,4,4,1.000,0,0,0,1,0,0,2,0,16,7.3,-16,Andrew Wiggins
+2020-02-27,25-004,GSW,HOME,LAL,L (-30),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Andrew Wiggins
+2020-02-29,25-006,GSW,AWAY,PHO,W (+16),1,34:48,6,20,.300,0,5,.000,5,7,.714,2,5,7,5,3,2,2,1,17,13.0,+2,Andrew Wiggins
+2020-03-01,25-007,GSW,HOME,WAS,L (-14),1,35:22,9,19,.474,1,5,.200,8,11,.727,1,5,6,2,2,2,4,3,27,17.9,-31,Andrew Wiggins
+2020-03-03,25-009,GSW,AWAY,DEN,W (+16),1,33:53,9,16,.563,2,6,.333,2,4,.500,1,4,5,10,1,1,3,3,22,20.0,+8,Andrew Wiggins
+2020-03-05,25-011,GSW,HOME,TOR,L (-8),1,37:25,9,20,.450,3,9,.333,0,1,.000,5,5,10,2,0,2,2,3,21,14.8,-11,Andrew Wiggins
+2020-03-07,25-013,GSW,HOME,PHI,W (+4),1,37:04,3,10,.300,0,0,,4,7,.571,1,3,4,4,1,1,1,4,10,6.5,+8,Andrew Wiggins
+2020-03-10,25-016,GSW,HOME,LAC,L (-24),1,32:21,8,16,.500,3,8,.375,2,4,.500,0,2,2,3,0,0,1,1,21,13.5,-18,Andrew Wiggins

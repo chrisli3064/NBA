@@ -1,0 +1,14 @@
+PLAYER,BIRTH_DATE
+Shandon Anderson,1973-12-31
+Michael Doleac,1977-06-15
+Howard Eisley,1972-12-04
+Othella Harrington,1974-01-31
+Allan Houston,1971-04-20
+Travis Knight,1974-09-13
+Lee Nailon,1975-02-22
+Lavor Postell,1978-02-26
+Latrell Sprewell,1970-09-08
+Kurt Thomas,1972-10-04
+Charlie Ward,1970-10-12
+Clarence Weatherspoon,1970-09-08
+Frank Williams,1980-02-25

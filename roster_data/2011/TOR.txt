@@ -1,0 +1,23 @@
+PLAYER,BIRTH_DATE
+Alexis Ajinça,1988-05-06
+Solomon Alabi,1988-03-21
+David Andersen,1980-06-23
+Marcus Banks,1981-11-19
+Leandro Barbosa,1982-11-28
+Andrea Bargnani,1985-10-26
+Jerryd Bayless,1988-08-20
+José Calderón,1981-09-28
+Ed Davis,1989-06-05
+DeMar DeRozan,1989-08-07
+Joey Dorsey,1983-12-16
+Ronald Dupree,1981-01-26
+Reggie Evans,1980-05-18
+Sundiata Gaines,1986-04-18
+Jarrett Jack,1983-10-28
+Amir Johnson,1987-05-01
+James Johnson,1987-02-20
+Trey Johnson,1984-08-30
+Linas Kleiza,1985-01-03
+Peja Stojaković,1977-06-09
+Sonny Weems,1986-07-08
+Julian Wright,1987-05-20

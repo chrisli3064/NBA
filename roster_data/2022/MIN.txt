@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+Malik Beasley,1996-11-26
+Patrick Beverley,1988-07-12
+Leandro Bolmaro,2000-09-11
+Anthony Edwards,2001-08-05
+Nathan Knight,1997-09-20
+Jake Layman,1994-03-07
+Jaden McDaniels,2000-09-29
+Jordan McLaughlin,1996-04-09
+Greg Monroe,1990-06-04
+Jaylen Nowell,1999-07-09
+Josh Okogie,1998-09-01
+Taurean Prince,1994-03-22
+Naz Reid,1999-08-26
+D'Angelo Russell,1996-02-23
+Chris Silva,1996-09-19
+Karl-Anthony Towns,1995-11-15
+Jarred Vanderbilt,1999-04-03
+McKinley Wright IV,1998-10-25

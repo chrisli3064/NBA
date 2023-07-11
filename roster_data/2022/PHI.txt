@@ -1,0 +1,24 @@
+PLAYER,BIRTH_DATE
+Charles Bassey,2000-10-28
+Charlie Brown Jr.,1997-02-02
+Willie Cauley-Stein,1993-08-18
+Seth Curry,1990-08-23
+Andre Drummond,1993-08-10
+Joel Embiid,1994-03-16
+Danny Green,1987-06-22
+James Harden,1989-08-26
+Tobias Harris,1992-07-15
+Aaron Henry,1999-08-30
+Isaiah Joe,1999-07-02
+Tyler Johnson,1992-05-07
+DeAndre Jordan,1988-07-21
+Braxton Key,1997-02-14
+Furkan Korkmaz,1997-07-24
+Tyrese Maxey,2000-11-04
+Paul Millsap,1985-02-10
+Shake Milton,1996-09-26
+Georges Niang,1993-06-17
+Myles Powell,1997-07-07
+Paul Reed,1999-06-14
+Jaden Springer,2002-09-25
+Matisse Thybulle,1997-03-04

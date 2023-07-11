@@ -1,0 +1,27 @@
+PLAYER,BIRTH_DATE
+Alexis Ajinça,1988-05-06
+Ömer Aşık,1986-07-04
+Anthony Brown,1992-10-10
+Omri Casspi,1988-06-22
+Quinn Cook,1993-03-23
+DeMarcus Cousins,1990-08-13
+Jordan Crawford,1988-10-23
+Dante Cunningham,1987-04-22
+Anthony Davis,1993-03-11
+Cheick Diallo,1996-09-13
+Tyreke Evans,1989-09-19
+Tim Frazier,1990-11-01
+Langston Galloway,1991-12-09
+Archie Goodwin,1994-08-17
+Buddy Hield,1992-12-17
+Solomon Hill,1991-03-18
+Jrue Holiday,1990-06-12
+Jarrett Jack,1983-10-28
+Terrence Jones,1992-01-09
+E'Twaun Moore,1989-02-25
+Donatas Motiejūnas,1990-09-20
+Wayne Selden,1994-09-30
+Lance Stephenson,1990-09-05
+Hollis Thompson,1991-04-03
+Axel Toupane,1992-07-23
+Reggie Williams,1986-09-14

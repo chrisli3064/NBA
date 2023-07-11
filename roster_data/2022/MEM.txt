@@ -1,0 +1,24 @@
+PLAYER,BIRTH_DATE
+Steven Adams,1993-07-20
+Santi Aldama,2001-01-10
+Kyle Anderson,1993-09-20
+Desmond Bane,1998-06-25
+Dillon Brooks,1996-01-22
+Shaq Buchanan,1997-01-30
+Brandon Clarke,1996-09-19
+Jarrett Culver,1999-02-20
+Jaren Jackson Jr.,1999-09-15
+DaQuan Jeffries,1997-08-30
+Tyus Jones,1996-05-10
+John Konchar,1996-03-22
+Dakota Mathias,1995-07-11
+De'Anthony Melton,1998-05-28
+Sam Merrill,1996-05-15
+Ja Morant,1999-08-10
+Yves Pons,1999-05-07
+Xavier Sneed,1997-12-21
+Tyrell Terry,2000-09-28
+Jon Teske,1997-05-04
+Killian Tillie,1998-03-05
+Xavier Tillman Sr.,1999-01-12
+Ziaire Williams,2001-09-12

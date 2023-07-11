@@ -1,0 +1,865 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2015-10-28,21-112,MEM,HOME,CLE,L (-30),0,7:04,1,4,.250,0,1,.000,1,2,.500,0,0,0,0,2,0,1,0,3,1.2,0,Jordan Adams
+2015-11-02,21-117,MEM,AWAY,GSW,L (-50),0,7:36,1,2,.500,0,0,,2,3,.667,0,2,2,3,1,0,1,2,4,4.5,+4,Jordan Adams
+2015-11-11,21-126,MEM,HOME,GSW,L (-16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jordan Adams
+2015-12-22,21-167,MEM,AWAY,PHI,W (+14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jordan Adams
+2015-12-23,21-168,MEM,AWAY,WAS,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jordan Adams
+2016-01-02,21-178,MEM,AWAY,UTA,L (-5),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jordan Adams
+2016-01-04,21-180,MEM,AWAY,POR,W (+13),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jordan Adams
+2016-01-06,21-182,MEM,AWAY,OKC,L (-18),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jordan Adams
+2016-02-10,21-217,MEM,AWAY,BRK,W (+19),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jordan Adams
+2016-04-08,21-275,MEM,AWAY,DAL,L (-10),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jordan Adams
+2016-04-09,21-276,MEM,HOME,GSW,L (-1),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jordan Adams
+2015-10-28,29-162,MIA,HOME,CHO,W (+10),0,17:07,1,3,.333,1,2,.500,5,5,1.000,0,3,3,4,2,0,2,2,8,9.2,+8,Mario Chalmers
+2015-10-30,29-164,MIA,AWAY,CLE,L (-10),0,14:24,3,6,.500,0,2,.000,2,2,1.000,0,1,1,2,0,0,0,1,8,6.3,-19,Mario Chalmers
+2015-11-01,29-166,MIA,HOME,HOU,W (+20),0,22:35,1,3,.333,0,1,.000,2,3,.667,1,0,1,3,2,0,3,3,4,2.5,+27,Mario Chalmers
+2015-11-03,29-168,MIA,HOME,ATL,L (-6),0,21:43,1,9,.111,0,4,.000,0,0,,0,1,1,3,2,0,1,4,2,-2.1,-2,Mario Chalmers
+2015-11-06,29-171,MIA,AWAY,IND,L (-3),0,18:52,1,3,.333,0,1,.000,0,0,,0,1,1,1,1,0,0,3,2,1.1,+21,Mario Chalmers
+2015-11-08,29-173,MIA,HOME,TOR,W (+20),0,25:10,3,8,.375,0,1,.000,3,3,1.000,0,7,7,6,1,1,3,3,9,8.4,+18,Mario Chalmers
+2015-11-13,29-178,MEM,HOME,POR,W (+1),0,19:37,4,6,.667,1,2,.500,2,2,1.000,0,1,1,2,4,0,1,1,11,12.7,+5,Mario Chalmers
+2015-11-15,29-180,MEM,AWAY,MIN,W (+8),0,18:10,2,4,.500,2,3,.667,10,10,1.000,0,0,0,4,0,1,3,1,16,14.1,+7,Mario Chalmers
+2015-11-16,29-181,MEM,HOME,OKC,W (+8),0,22:45,6,13,.462,4,7,.571,13,15,.867,0,2,2,1,1,0,1,3,29,21.6,+9,Mario Chalmers
+2015-11-20,29-185,MEM,HOME,HOU,W (+12),0,16:31,2,9,.222,0,1,.000,6,6,1.000,1,3,4,3,1,0,0,5,10,7.2,+11,Mario Chalmers
+2015-11-21,29-186,MEM,AWAY,SAS,L (-10),0,21:03,2,10,.200,0,2,.000,2,2,1.000,0,2,2,4,1,0,1,4,6,1.6,-6,Mario Chalmers
+2015-11-24,29-189,MEM,HOME,DAL,W (+14),0,20:54,4,7,.571,0,1,.000,6,10,.600,0,1,1,2,5,0,1,2,14,14.0,+2,Mario Chalmers
+2015-11-25,29-190,MEM,AWAY,HOU,W (+9),0,23:20,2,7,.286,0,3,.000,2,2,1.000,0,3,3,5,0,0,2,3,6,3.1,+3,Mario Chalmers
+2015-11-27,29-192,MEM,HOME,ATL,L (-15),0,10:46,0,2,.000,0,2,.000,3,4,.750,0,1,1,2,0,0,5,4,3,-3.7,+4,Mario Chalmers
+2015-11-29,29-194,MEM,HOME,PHI,W (+8),0,14:45,2,5,.400,1,1,1.000,0,0,,2,1,3,2,1,0,3,4,5,1.8,+2,Mario Chalmers
+2015-12-01,29-196,MEM,AWAY,NOP,W (+9),0,23:37,4,4,1.000,0,0,,3,4,.750,1,3,4,4,0,0,0,4,11,12.2,+22,Mario Chalmers
+2015-12-03,29-198,MEM,HOME,SAS,L (-20),0,19:54,3,11,.273,1,6,.167,8,8,1.000,2,3,5,2,2,0,1,3,15,12.0,-10,Mario Chalmers
+2015-12-06,29-201,MEM,HOME,PHO,W (+2),0,21:08,3,7,.429,1,3,.333,4,4,1.000,1,3,4,2,3,0,2,2,11,10.5,+7,Mario Chalmers
+2015-12-08,29-203,MEM,HOME,OKC,L (-37),0,21:14,6,8,.750,0,1,.000,7,8,.875,0,2,2,1,2,1,3,2,19,15.6,-13,Mario Chalmers
+2015-12-09,29-204,MEM,AWAY,DET,W (+1),0,19:14,2,6,.333,0,1,.000,1,2,.500,0,0,0,2,1,2,2,2,5,2.2,+4,Mario Chalmers
+2015-12-11,29-206,MEM,HOME,CHO,L (-24),0,12:31,0,3,.000,0,2,.000,6,8,.750,0,3,3,2,2,0,1,5,6,4.4,-4,Mario Chalmers
+2015-12-13,29-208,MEM,AWAY,MIA,L (-3),0,22:00,4,7,.571,0,1,.000,4,5,.800,0,0,0,2,0,0,2,4,12,6.1,-6,Mario Chalmers
+2015-12-14,29-209,MEM,HOME,WAS,W (+17),0,18:34,5,6,.833,1,1,1.000,1,1,1.000,0,1,1,1,1,0,1,2,12,10.0,+4,Mario Chalmers
+2015-12-16,29-211,MEM,AWAY,CHI,L (-13),0,26:31,2,5,.400,0,1,.000,4,8,.500,0,3,3,4,0,1,2,3,8,4.9,+2,Mario Chalmers
+2015-12-18,29-213,MEM,AWAY,DAL,L (-9),0,25:09,4,9,.444,2,4,.500,2,2,1.000,0,0,0,2,1,0,2,2,12,6.9,-10,Mario Chalmers
+2015-12-19,29-214,MEM,HOME,IND,W (+12),0,18:20,3,6,.500,0,2,.000,6,8,.750,0,3,3,3,0,0,2,4,12,7.6,-5,Mario Chalmers
+2015-12-22,29-217,MEM,AWAY,PHI,W (+14),0,22:57,1,7,.143,0,2,.000,0,0,,0,2,2,7,4,0,3,1,2,3.6,+5,Mario Chalmers
+2015-12-23,29-218,MEM,AWAY,WAS,L (-9),0,4:48,0,1,.000,0,0,,0,0,,0,1,1,0,1,0,0,3,0,-0.6,-11,Mario Chalmers
+2015-12-26,29-221,MEM,AWAY,CHO,L (-6),0,17:12,2,3,.667,0,1,.000,1,2,.500,0,1,1,4,1,0,2,3,5,4.2,+1,Mario Chalmers
+2015-12-27,29-222,MEM,HOME,LAL,W (+16),0,28:51,4,10,.400,1,3,.333,2,2,1.000,1,4,5,7,1,0,2,3,11,10.2,-3,Mario Chalmers
+2015-12-29,29-224,MEM,HOME,MIA,W (+9),0,22:51,4,11,.364,2,5,.400,2,2,1.000,2,3,5,4,1,0,0,4,12,10.4,+12,Mario Chalmers
+2016-01-02,29-228,MEM,AWAY,UTA,L (-5),0,12:04,3,5,.600,2,2,1.000,0,0,,0,0,0,1,0,0,2,3,8,3.2,-13,Mario Chalmers
+2016-01-04,29-230,MEM,AWAY,POR,W (+13),0,21:49,3,9,.333,1,5,.200,3,5,.600,0,1,1,6,2,0,1,5,10,7.6,+13,Mario Chalmers
+2016-01-06,29-232,MEM,AWAY,OKC,L (-18),0,38:32,8,19,.421,4,8,.500,3,6,.500,1,7,8,9,2,0,1,4,23,20.2,-14,Mario Chalmers
+2016-01-08,29-234,MEM,HOME,DEN,W (+7),1,40:13,3,13,.231,2,6,.333,4,4,1.000,0,6,6,4,0,0,4,1,12,4.3,-5,Mario Chalmers
+2016-01-10,29-236,MEM,HOME,BOS,W (+3),1,32:35,3,8,.375,1,4,.250,11,13,.846,0,5,5,4,2,0,5,4,18,12.5,-1,Mario Chalmers
+2016-01-12,29-238,MEM,HOME,HOU,L (-16),1,40:49,3,8,.375,1,4,.250,3,4,.750,0,3,3,9,3,0,3,3,10,11.2,-10,Mario Chalmers
+2016-01-14,29-240,MEM,HOME,DET,W (+2),1,41:48,9,15,.600,2,6,.333,5,6,.833,0,3,3,8,4,0,3,3,25,24.0,+7,Mario Chalmers
+2016-01-16,29-242,MEM,HOME,NYK,W (+8),1,28:49,4,7,.571,2,2,1.000,2,2,1.000,1,1,2,8,0,0,2,3,12,12.1,-8,Mario Chalmers
+2016-01-18,29-244,MEM,HOME,NOP,W (+2),0,20:34,0,1,.000,0,0,,3,4,.750,0,1,1,5,0,0,3,3,3,1.5,-17,Mario Chalmers
+2016-01-21,29-247,MEM,AWAY,DEN,W (+1),0,21:04,2,7,.286,1,4,.250,0,0,,0,3,3,6,1,0,1,2,5,5.2,+13,Mario Chalmers
+2016-01-23,29-249,MEM,AWAY,MIN,L (-5),0,26:50,6,8,.750,2,3,.667,5,6,.833,0,3,3,5,2,1,2,5,19,18.5,-8,Mario Chalmers
+2016-01-25,29-251,MEM,HOME,ORL,W (+6),0,14:26,0,3,.000,0,0,,0,0,,1,0,1,4,0,0,2,2,0,-1.4,-5,Mario Chalmers
+2016-01-28,29-254,MEM,HOME,MIL,W (+20),0,27:25,1,4,.250,1,2,.500,4,4,1.000,1,3,4,10,0,0,2,4,7,9.6,+10,Mario Chalmers
+2016-01-30,29-256,MEM,HOME,SAC,W (+4),0,17:53,2,7,.286,0,2,.000,2,4,.500,1,1,2,5,2,0,1,2,6,5.8,+3,Mario Chalmers
+2016-02-01,29-258,MEM,AWAY,NOP,W (+15),0,20:55,3,5,.600,1,2,.500,2,2,1.000,0,3,3,4,2,0,4,2,9,7.6,-9,Mario Chalmers
+2016-02-05,29-262,MEM,AWAY,NYK,W (+6),0,16:39,3,6,.500,0,1,.000,2,2,1.000,0,3,3,0,2,1,0,3,8,7.4,-1,Mario Chalmers
+2016-02-06,29-263,MEM,HOME,DAL,L (-4),0,18:47,5,7,.714,0,1,.000,2,4,.500,0,2,2,4,0,0,1,2,12,9.9,-6,Mario Chalmers
+2016-02-08,29-265,MEM,HOME,POR,L (-6),0,23:28,5,12,.417,1,3,.333,1,2,.500,1,1,2,3,1,0,2,3,12,6.1,-2,Mario Chalmers
+2016-02-10,29-267,MEM,AWAY,BRK,W (+19),0,24:30,5,7,.714,0,0,,0,0,,0,6,6,3,1,1,2,1,10,10.3,+6,Mario Chalmers
+2016-02-19,29-276,MEM,HOME,MIN,W (+5),0,26:31,2,6,.333,1,1,1.000,5,6,.833,1,2,3,3,1,0,2,5,10,6.6,-1,Mario Chalmers
+2016-02-21,29-278,MEM,AWAY,TOR,L (-13),0,18:40,5,15,.333,1,4,.250,6,7,.857,2,2,4,0,2,0,1,4,17,9.5,-3,Mario Chalmers
+2016-02-24,29-281,MEM,HOME,LAL,W (+9),0,18:22,1,3,.333,0,1,.000,2,2,1.000,0,1,1,6,0,0,1,2,4,5.0,-7,Mario Chalmers
+2016-02-26,29-283,MEM,AWAY,LAL,W (+17),0,15:28,0,3,.000,0,1,.000,4,6,.667,0,2,2,4,0,0,2,5,4,0.5,-3,Mario Chalmers
+2016-02-27,29-284,MEM,AWAY,PHO,L (-5),0,20:30,2,7,.286,0,2,.000,11,12,.917,0,1,1,1,3,1,2,1,15,12.8,-4,Mario Chalmers
+2016-02-29,29-286,MEM,AWAY,DEN,W (+7),0,23:24,3,6,.500,1,2,.500,8,8,1.000,0,2,2,3,2,0,0,4,15,15.1,+7,Mario Chalmers
+2016-03-02,29-288,MEM,HOME,SAC,W (+6),0,26:47,4,9,.444,1,2,.500,6,6,1.000,0,0,0,4,3,0,1,3,15,13.9,+6,Mario Chalmers
+2016-03-04,29-290,MEM,HOME,UTA,W (+6),0,30:23,4,8,.500,1,2,.500,2,3,.667,2,4,6,5,5,2,3,3,11,14.9,+32,Mario Chalmers
+2016-03-06,29-292,MEM,HOME,PHO,L (-9),0,28:32,4,13,.308,1,4,.250,5,5,1.000,1,0,1,3,2,0,1,3,14,9.1,+1,Mario Chalmers
+2016-03-07,29-293,MEM,AWAY,CLE,W (+3),1,40:36,7,17,.412,1,6,.167,2,3,.667,0,4,4,7,4,0,3,4,17,13.0,+5,Mario Chalmers
+2016-03-09,29-295,MEM,AWAY,BOS,L (-20),1,21:49,1,7,.143,1,3,.333,8,8,1.000,1,4,5,5,1,1,2,2,11,10.8,+2,Mario Chalmers
+2015-10-28,28-017,MEM,HOME,CLE,L (-30),1,29:26,2,8,.250,0,2,.000,4,4,1.000,0,4,4,6,0,0,1,1,8,7.2,-18,Mike Conley
+2015-10-29,28-018,MEM,AWAY,IND,W (+9),1,30:16,5,11,.455,1,1,1.000,2,2,1.000,2,2,4,10,2,0,4,4,13,12.7,+3,Mike Conley
+2015-10-31,28-020,MEM,HOME,BRK,W (+10),1,32:26,7,12,.583,4,7,.571,4,4,1.000,0,2,2,8,1,0,1,0,22,22.6,+6,Mike Conley
+2015-11-02,28-022,MEM,AWAY,GSW,L (-50),1,26:27,2,8,.250,0,2,.000,6,7,.857,0,2,2,5,1,0,0,1,10,9.5,-41,Mike Conley
+2015-11-03,28-023,MEM,AWAY,SAC,W (+14),1,25:12,5,9,.556,1,4,.250,3,3,1.000,1,2,3,6,1,0,1,2,14,14.4,+9,Mike Conley
+2015-11-05,28-025,MEM,AWAY,POR,L (-19),1,31:10,2,8,.250,0,2,.000,3,4,.750,0,2,2,3,0,0,2,0,7,2.5,-19,Mike Conley
+2015-11-07,28-027,MEM,AWAY,UTA,L (-10),1,39:38,8,25,.320,3,10,.300,1,1,1.000,0,4,4,5,1,0,4,4,20,5.8,-2,Mike Conley
+2015-11-09,28-029,MEM,AWAY,LAC,L (-2),1,35:02,6,15,.400,1,5,.200,3,4,.750,3,3,6,5,1,0,2,0,16,13.0,+8,Mike Conley
+2015-11-11,28-031,MEM,HOME,GSW,L (-16),1,33:07,1,12,.083,0,4,.000,2,2,1.000,0,2,2,9,3,0,4,5,4,-0.1,-3,Mike Conley
+2015-11-13,28-033,MEM,HOME,POR,W (+1),1,33:20,4,13,.308,1,4,.250,2,3,.667,1,0,1,9,0,0,1,2,11,8.3,0,Mike Conley
+2015-11-15,28-035,MEM,AWAY,MIN,W (+8),1,32:49,7,14,.500,4,6,.667,2,4,.500,0,0,0,7,2,0,1,0,20,18.1,+5,Mike Conley
+2015-11-16,28-036,MEM,HOME,OKC,W (+8),1,31:23,8,13,.615,4,5,.800,2,3,.667,1,3,4,9,2,0,0,1,22,25.2,-4,Mike Conley
+2015-11-20,28-040,MEM,HOME,HOU,W (+12),1,33:56,10,17,.588,3,6,.500,3,4,.750,0,3,3,5,3,0,2,5,26,21.1,+9,Mike Conley
+2015-11-21,28-041,MEM,AWAY,SAS,L (-10),1,32:01,5,12,.417,0,1,.000,6,6,1.000,0,3,3,5,2,1,1,2,16,14.9,-6,Mike Conley
+2015-11-24,28-044,MEM,HOME,DAL,W (+14),1,29:59,8,17,.471,1,4,.250,4,4,1.000,2,1,3,6,1,0,0,3,21,18.0,+14,Mike Conley
+2015-11-25,28-045,MEM,AWAY,HOU,W (+9),1,33:17,7,9,.778,1,2,.500,4,4,1.000,0,1,1,5,0,0,2,2,19,16.5,+1,Mike Conley
+2015-11-27,28-047,MEM,HOME,ATL,L (-15),1,38:06,4,13,.308,2,6,.333,6,6,1.000,0,1,1,9,0,0,3,1,16,11.7,-17,Mike Conley
+2015-11-29,28-049,MEM,HOME,PHI,W (+8),1,36:49,6,14,.429,1,2,.500,7,8,.875,0,4,4,5,1,2,5,2,20,13.5,+9,Mike Conley
+2015-12-01,28-051,MEM,AWAY,NOP,W (+9),1,24:23,5,10,.500,1,3,.333,0,0,,0,2,2,3,0,0,2,0,11,6.7,-13,Mike Conley
+2015-12-03,28-053,MEM,HOME,SAS,L (-20),1,28:15,5,13,.385,0,2,.000,5,5,1.000,1,4,5,4,0,2,1,1,15,12.6,-8,Mike Conley
+2015-12-06,28-056,MEM,HOME,PHO,W (+2),1,34:28,4,14,.286,2,5,.400,2,4,.500,0,1,1,6,3,1,1,3,12,9.0,+2,Mike Conley
+2015-12-08,28-058,MEM,HOME,OKC,L (-37),1,21:48,0,7,.000,0,3,.000,0,0,,0,0,0,6,1,0,1,1,0,-1.1,-22,Mike Conley
+2015-12-09,28-059,MEM,AWAY,DET,W (+1),1,29:11,4,13,.308,1,6,.167,2,3,.667,1,0,1,8,0,0,2,1,11,7.0,-5,Mike Conley
+2015-12-11,28-061,MEM,HOME,CHO,L (-24),1,30:26,4,8,.500,2,4,.500,6,7,.857,1,2,3,4,0,2,0,2,16,16.3,-16,Mike Conley
+2015-12-13,28-063,MEM,AWAY,MIA,L (-3),1,26:00,4,11,.364,1,3,.333,0,0,,0,1,1,4,4,1,2,4,9,7.1,+3,Mike Conley
+2015-12-14,28-064,MEM,HOME,WAS,W (+17),1,37:25,7,14,.500,2,4,.500,2,2,1.000,1,3,4,11,2,0,2,1,18,19.9,+16,Mike Conley
+2015-12-16,28-066,MEM,AWAY,CHI,L (-13),1,34:08,3,14,.214,1,8,.125,1,2,.500,1,6,7,2,1,1,1,2,8,2.8,-7,Mike Conley
+2015-12-18,28-068,MEM,AWAY,DAL,L (-9),1,34:56,6,12,.500,1,2,.500,7,7,1.000,1,3,4,2,1,0,2,2,20,15.2,-9,Mike Conley
+2015-12-19,28-069,MEM,HOME,IND,W (+12),1,33:16,6,16,.375,1,3,.333,7,8,.875,0,4,4,8,4,0,1,1,20,20.2,+18,Mike Conley
+2015-12-22,28-072,MEM,AWAY,PHI,W (+14),1,32:17,6,13,.462,1,3,.333,5,6,.833,0,1,1,6,1,0,2,2,18,13.6,+5,Mike Conley
+2015-12-23,28-073,MEM,AWAY,WAS,L (-9),1,39:51,9,16,.563,2,3,.667,1,1,1.000,0,3,3,3,1,0,0,0,21,17.4,+1,Mike Conley
+2015-12-26,28-076,MEM,AWAY,CHO,L (-6),1,30:53,7,20,.350,4,9,.444,1,2,.500,0,4,4,7,3,1,3,2,19,13.4,-7,Mike Conley
+2015-12-27,28-077,MEM,HOME,LAL,W (+16),1,24:18,7,11,.636,1,3,.333,4,4,1.000,0,4,4,5,4,0,0,0,19,22.8,+26,Mike Conley
+2015-12-29,28-079,MEM,HOME,MIA,W (+9),1,38:23,5,12,.417,1,2,.500,5,5,1.000,0,3,3,5,0,0,1,1,16,12.6,+11,Mike Conley
+2016-01-02,28-083,MEM,AWAY,UTA,L (-5),1,40:56,5,16,.313,2,6,.333,3,6,.500,1,3,4,4,1,1,1,1,15,9.3,+8,Mike Conley
+2016-01-04,28-085,MEM,AWAY,POR,W (+13),1,26:15,3,13,.231,1,4,.250,2,3,.667,0,2,2,4,0,0,0,0,9,4.1,0,Mike Conley
+2016-01-06,28-087,MEM,AWAY,OKC,L (-18),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mike Conley
+2016-01-08,28-089,MEM,HOME,DEN,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mike Conley
+2016-01-10,28-091,MEM,HOME,BOS,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mike Conley
+2016-01-12,28-093,MEM,HOME,HOU,L (-16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mike Conley
+2016-01-14,28-095,MEM,HOME,DET,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mike Conley
+2016-01-16,28-097,MEM,HOME,NYK,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mike Conley
+2016-01-18,28-099,MEM,HOME,NOP,W (+2),1,27:08,6,12,.500,3,5,.600,0,0,,0,1,1,10,0,0,0,4,15,14.7,+19,Mike Conley
+2016-01-21,28-102,MEM,AWAY,DEN,W (+1),1,26:56,5,9,.556,2,3,.667,8,10,.800,1,2,3,2,1,0,0,3,20,17.4,-12,Mike Conley
+2016-01-23,28-104,MEM,AWAY,MIN,L (-5),1,24:01,2,9,.222,0,2,.000,5,5,1.000,1,6,7,6,1,0,1,4,9,8.6,+1,Mike Conley
+2016-01-25,28-106,MEM,HOME,ORL,W (+6),1,38:34,4,13,.308,1,3,.333,3,4,.750,1,5,6,9,2,1,1,1,12,13.9,+11,Mike Conley
+2016-01-28,28-109,MEM,HOME,MIL,W (+20),1,23:48,1,8,.125,0,5,.000,3,3,1.000,0,1,1,9,1,0,1,1,5,6.0,+17,Mike Conley
+2016-01-30,28-111,MEM,HOME,SAC,W (+4),1,30:07,3,6,.500,0,0,,2,4,.500,0,4,4,7,1,0,2,3,8,8.1,+1,Mike Conley
+2016-02-01,28-113,MEM,AWAY,NOP,W (+15),1,28:29,5,7,.714,1,2,.500,6,6,1.000,0,4,4,10,1,1,1,1,17,22.6,+23,Mike Conley
+2016-02-05,28-117,MEM,AWAY,NYK,W (+6),1,31:21,2,9,.222,0,3,.000,4,4,1.000,0,2,2,9,1,0,1,1,8,9.0,+7,Mike Conley
+2016-02-06,28-118,MEM,HOME,DAL,L (-4),1,34:13,6,12,.500,2,5,.400,2,4,.500,0,4,4,7,0,0,2,3,16,12.1,+2,Mike Conley
+2016-02-08,28-120,MEM,HOME,POR,L (-6),1,33:22,10,17,.588,2,3,.667,5,6,.833,0,3,3,3,1,0,4,5,27,16.7,-8,Mike Conley
+2016-02-10,28-122,MEM,AWAY,BRK,W (+19),1,29:00,7,13,.538,3,4,.750,3,3,1.000,1,3,4,5,1,0,1,0,20,18.8,+17,Mike Conley
+2016-02-19,28-131,MEM,HOME,MIN,W (+5),1,38:22,10,19,.526,2,4,.500,3,4,.750,1,3,4,7,2,0,3,3,25,19.6,+6,Mike Conley
+2016-02-21,28-133,MEM,AWAY,TOR,L (-13),1,34:55,2,12,.167,0,4,.000,4,5,.800,1,4,5,4,0,0,1,0,8,3.7,-17,Mike Conley
+2016-02-24,28-136,MEM,HOME,LAL,W (+9),1,29:24,10,14,.714,2,4,.500,2,2,1.000,1,5,6,8,1,0,2,1,24,24.6,+14,Mike Conley
+2016-02-26,28-138,MEM,AWAY,LAL,W (+17),1,28:40,6,10,.600,2,5,.400,3,3,1.000,0,1,1,7,1,0,1,2,17,16.8,+29,Mike Conley
+2016-02-27,28-139,MEM,AWAY,PHO,L (-5),1,30:19,6,16,.375,1,3,.333,6,7,.857,1,0,1,8,1,0,2,3,19,13.9,0,Mike Conley
+2016-02-29,28-141,MEM,AWAY,DEN,W (+7),1,28:37,2,9,.222,0,4,.000,3,5,.600,1,0,1,9,0,1,2,0,7,6.4,+3,Mike Conley
+2016-03-02,28-143,MEM,HOME,SAC,W (+6),1,33:34,9,12,.750,3,3,1.000,3,4,.750,0,2,2,5,3,1,1,1,24,25.2,+11,Mike Conley
+2016-03-04,28-145,MEM,HOME,UTA,W (+6),1,28:17,4,13,.308,0,2,.000,4,6,.667,0,2,2,4,0,0,1,3,12,4.9,-7,Mike Conley
+2016-03-06,28-147,MEM,HOME,PHO,L (-9),1,29:49,7,13,.538,3,5,.600,5,6,.833,0,1,1,4,2,0,1,2,22,18.6,-6,Mike Conley
+2016-03-07,28-148,MEM,AWAY,CLE,W (+3),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Mike Conley
+2016-03-09,28-150,MEM,AWAY,BOS,L (-20),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Mike Conley
+2016-03-11,28-152,MEM,HOME,NOP,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mike Conley
+2015-12-30,23-141,PHO,AWAY,SAS,L (-33),0,21:15,1,6,.167,0,2,.000,0,0,,0,0,0,2,3,0,3,1,2,-0.8,-19,Bryce Cotton
+2015-12-31,23-142,PHO,AWAY,OKC,L (-4),0,5:34,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+6,Bryce Cotton
+2016-01-02,23-144,PHO,AWAY,SAC,L (-23),0,5:53,1,2,.500,0,1,.000,0,0,,0,0,0,1,0,0,2,1,2,-0.7,-1,Bryce Cotton
+2016-04-03,23-236,MEM,AWAY,ORL,L (-12),0,0:46,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,0,Bryce Cotton
+2016-04-05,23-238,MEM,HOME,CHI,W (+16),0,0:20,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,Bryce Cotton
+2016-04-08,23-241,MEM,AWAY,DAL,L (-10),0,0:14,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Bryce Cotton
+2016-04-12,23-245,MEM,AWAY,LAC,L (-26),0,2:47,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-7,Bryce Cotton
+2016-04-13,23-246,MEM,AWAY,GSW,L (-21),0,1:56,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,-1,Bryce Cotton
+2015-10-30,25-121,MIA,AWAY,CLE,L (-10),0,1:28,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,+4,James Ennis III
+2015-11-05,25-127,MIA,AWAY,MIN,W (+12),0,2:29,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-5,James Ennis III
+2015-11-08,25-130,MIA,HOME,TOR,W (+20),0,3:26,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,0,James Ennis III
+2015-11-20,25-142,MEM,HOME,HOU,W (+12),0,1:13,0,1,.000,0,1,.000,0,0,,1,0,1,0,0,0,0,0,0,0.0,-1,James Ennis III
+2015-11-24,25-146,MEM,HOME,DAL,W (+14),0,2:16,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,0,0,1.0,-1,James Ennis III
+2015-12-03,25-155,MEM,HOME,SAS,L (-20),0,5:58,0,1,.000,0,1,.000,3,4,.750,0,2,2,1,1,1,0,0,3,4.9,+1,James Ennis III
+2015-12-16,25-168,MEM,AWAY,CHI,L (-13),0,9:14,1,2,.500,1,1,1.000,1,2,.500,1,1,2,1,0,1,1,0,4,4.0,-2,James Ennis III
+2015-12-18,25-170,MEM,AWAY,DAL,L (-9),0,7:52,1,2,.500,1,1,1.000,1,2,.500,0,0,0,0,1,0,1,1,4,2.2,-2,James Ennis III
+2016-01-08,25-191,MEM,HOME,DEN,W (+7),0,0:13,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,James Ennis III
+2016-01-12,25-195,MEM,HOME,HOU,L (-16),0,1:34,1,2,.500,0,1,.000,0,0,,0,0,0,0,0,0,0,0,2,1.0,-3,James Ennis III
+2016-02-19,25-233,MEM,HOME,MIN,W (+5),0,4:20,0,0,,0,0,,1,2,.500,0,0,0,0,1,0,0,0,1,1.6,-3,James Ennis III
+2016-02-24,25-238,MEM,HOME,LAL,W (+9),0,1:03,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-5,James Ennis III
+2016-02-26,25-240,MEM,AWAY,LAL,W (+17),0,5:51,1,4,.250,0,2,.000,0,0,,2,0,2,0,0,0,0,0,2,1.0,-8,James Ennis III
+2016-03-30,25-273,NOP,AWAY,SAS,L (-8),0,24:06,4,9,.444,3,4,.750,2,2,1.000,3,2,5,4,0,0,1,2,13,12.0,+3,James Ennis III
+2016-03-31,25-274,NOP,HOME,DEN,W (+6),0,30:00,4,12,.333,3,5,.600,0,0,,5,1,6,3,0,0,1,1,11,8.7,-3,James Ennis III
+2016-04-03,25-277,NOP,AWAY,BRK,W (+19),0,28:47,4,10,.400,2,6,.333,4,6,.667,0,3,3,2,4,1,0,3,14,13.6,+19,James Ennis III
+2016-04-05,25-279,NOP,AWAY,PHI,L (-14),0,29:44,3,7,.429,1,4,.250,4,6,.667,0,1,1,2,0,1,4,3,11,3.7,-12,James Ennis III
+2016-04-06,25-280,NOP,AWAY,BOS,L (-7),1,28:38,5,6,.833,2,3,.667,1,1,1.000,2,2,4,1,2,0,5,6,13,8.1,-8,James Ennis III
+2016-04-08,25-282,NOP,HOME,LAL,W (+8),1,26:45,2,6,.333,0,3,.000,2,2,1.000,0,3,3,2,1,0,2,1,6,3.5,+9,James Ennis III
+2016-04-09,25-283,NOP,HOME,PHO,L (-21),1,33:50,8,16,.500,2,6,.333,0,0,,4,2,6,0,3,0,3,3,18,12.2,-3,James Ennis III
+2016-04-11,25-285,NOP,HOME,CHI,L (-5),1,39:54,9,14,.643,5,8,.625,6,7,.857,2,3,5,4,1,1,1,3,29,27.0,-9,James Ennis III
+2016-04-13,25-287,NOP,AWAY,MIN,L (-35),1,39:50,11,20,.550,6,11,.545,0,0,,1,1,2,0,1,0,0,4,28,18.8,-16,James Ennis III
+2016-03-21,29-112,MEM,AWAY,PHO,W (+6),0,22:43,4,8,0.5,2,4,0.5,2,2,1.0,0,3,3,1,1,0,0,2,12,9.8,6,Jordan Farmar
+2016-03-22,29-113,MEM,AWAY,LAL,L (-7),0,30:31,2,9,0.222,2,6,0.333,2,2,1.0,0,1,1,5,2,0,3,2,8,4.5,-2,Jordan Farmar
+2016-03-25,29-116,MEM,AWAY,SAS,L (-6),1,23:21,4,7,0.571,1,2,0.5,2,2,1.0,0,2,2,5,3,0,2,2,11,12.0,-6,Jordan Farmar
+2016-03-28,29-119,MEM,HOME,SAS,L (-14),1,25:54,4,10,0.4,1,4,0.25,0,0,,0,3,3,2,0,0,0,3,9,4.7,-14,Jordan Farmar
+2016-03-30,29-121,MEM,HOME,DEN,L (-4),1,25:12,6,10,0.6,2,4,0.5,0,0,,0,0,0,5,1,0,1,2,14,12.1,-5,Jordan Farmar
+2016-04-01,29-123,MEM,HOME,TOR,L (-4),1,25:58,4,10,0.4,2,5,0.4,2,2,1.0,0,2,2,2,2,1,1,2,12,9.5,-11,Jordan Farmar
+2016-04-03,29-125,MEM,AWAY,ORL,L (-12),1,14:14,1,5,0.2,0,3,0.0,0,0,,0,0,0,3,1,0,2,1,2,-0.4,-7,Jordan Farmar
+2016-04-05,29-127,MEM,HOME,CHI,W (+16),1,31:03,6,12,0.5,1,4,0.25,2,2,1.0,1,1,2,4,1,0,2,0,15,11.8,10,Jordan Farmar
+2016-04-08,29-130,MEM,AWAY,DAL,L (-10),1,25:36,4,9,0.444,3,4,0.75,0,0,,0,2,2,2,0,0,4,3,11,3.1,-12,Jordan Farmar
+2016-04-09,29-131,MEM,HOME,GSW,L (-1),1,18:56,1,4,0.25,1,3,0.333,0,0,,1,2,3,2,1,1,0,1,3,4.6,-4,Jordan Farmar
+2016-04-12,29-134,MEM,AWAY,LAC,L (-26),1,26:21,2,7,0.286,0,2,0.0,0,0,,2,3,5,2,1,0,2,1,4,2.2,-15,Jordan Farmar
+2016-04-13,29-135,MEM,AWAY,GSW,L (-21),1,21:29,4,9,0.444,1,4,0.25,0,0,,0,2,2,4,2,0,1,3,9,7.5,-4,Jordan Farmar
+2015-10-28,30-272,MEM,HOME,CLE,L (-30),1,29:43,6,12,.500,0,0,,0,0,,0,5,5,0,0,0,1,3,12,5.3,-6,Marc Gasol
+2015-10-29,30-273,MEM,AWAY,IND,W (+9),1,32:31,7,13,.538,0,0,,6,7,.857,1,7,8,3,0,1,0,1,20,18.5,+13,Marc Gasol
+2015-10-31,30-275,MEM,HOME,BRK,W (+10),1,29:50,2,10,.200,0,1,.000,3,4,.750,1,3,4,6,0,0,3,4,7,1.6,+7,Marc Gasol
+2015-11-02,30-277,MEM,AWAY,GSW,L (-50),1,25:40,5,12,.417,0,0,,3,3,1.000,3,6,9,3,0,1,2,2,13,10.5,-32,Marc Gasol
+2015-11-03,30-278,MEM,AWAY,SAC,W (+14),1,17:38,4,8,.500,0,0,,0,0,,0,2,2,2,0,1,1,1,8,5.3,+7,Marc Gasol
+2015-11-05,30-280,MEM,AWAY,POR,L (-19),1,27:39,4,13,.308,0,0,,7,10,.700,1,4,5,3,0,2,1,2,15,9.9,-21,Marc Gasol
+2015-11-07,30-282,MEM,AWAY,UTA,L (-10),1,38:19,4,14,.286,0,0,,5,5,1.000,3,7,10,6,0,1,4,3,13,8.7,-7,Marc Gasol
+2015-11-09,30-284,MEM,AWAY,LAC,L (-2),1,37:05,5,8,.625,0,0,,8,12,.667,1,6,7,3,0,0,4,5,18,11.4,0,Marc Gasol
+2015-11-11,30-286,MEM,HOME,GSW,L (-16),1,39:49,6,15,.400,1,1,1.000,13,14,.929,2,5,7,3,2,0,2,3,26,21.3,-5,Marc Gasol
+2015-11-13,30-288,MEM,HOME,POR,W (+1),1,40:49,11,18,.611,1,1,1.000,8,8,1.000,1,3,4,5,0,0,0,2,31,27.1,0,Marc Gasol
+2015-11-15,30-290,MEM,AWAY,MIN,W (+8),1,37:16,7,10,.700,0,0,,2,2,1.000,1,6,7,4,0,2,4,4,16,12.9,+6,Marc Gasol
+2015-11-16,30-291,MEM,HOME,OKC,W (+8),1,35:04,7,13,.538,0,0,,3,3,1.000,1,5,6,6,0,1,4,5,17,11.8,+11,Marc Gasol
+2015-11-20,30-295,MEM,HOME,HOU,W (+12),1,37:26,7,14,.500,0,0,,2,2,1.000,3,8,11,11,4,0,2,2,16,22.4,+14,Marc Gasol
+2015-11-21,30-296,MEM,AWAY,SAS,L (-10),1,39:42,3,9,.333,0,0,,2,2,1.000,3,5,8,6,3,0,5,3,8,7.5,-8,Marc Gasol
+2015-11-24,30-299,MEM,HOME,DAL,W (+14),1,36:07,4,12,.333,0,0,,7,7,1.000,0,10,10,4,0,2,1,4,15,12.8,+11,Marc Gasol
+2015-11-25,30-300,MEM,AWAY,HOU,W (+9),1,38:35,5,12,.417,0,0,,1,2,.500,1,6,7,2,1,1,6,2,11,3.0,+16,Marc Gasol
+2015-11-27,30-302,MEM,HOME,ATL,L (-15),1,36:33,4,9,.444,0,0,,5,6,.833,1,7,8,2,0,0,2,2,13,9.3,-24,Marc Gasol
+2015-11-29,30-304,MEM,HOME,PHI,W (+8),1,39:01,4,8,.500,0,0,,1,2,.500,1,11,12,3,1,4,3,3,9,10.3,+9,Marc Gasol
+2015-12-01,30-306,MEM,AWAY,NOP,W (+9),1,42:11,11,22,.500,0,0,,16,16,1.000,0,13,13,6,0,4,3,1,38,34.5,+8,Marc Gasol
+2015-12-03,30-308,MEM,HOME,SAS,L (-20),1,33:33,7,11,.636,0,0,,1,2,.500,2,6,8,2,2,3,5,3,15,12.2,-16,Marc Gasol
+2015-12-06,30-311,MEM,HOME,PHO,W (+2),1,36:30,9,17,.529,0,0,,4,6,.667,1,7,8,0,0,2,1,2,22,15.3,-9,Marc Gasol
+2015-12-08,30-313,MEM,HOME,OKC,L (-37),1,23:12,4,9,.444,0,0,,3,3,1.000,1,3,4,1,0,1,3,2,11,5.5,-25,Marc Gasol
+2015-12-09,30-314,MEM,AWAY,DET,W (+1),1,35:34,9,18,.500,0,0,,1,2,.500,2,10,12,4,1,2,6,2,19,12.4,-2,Marc Gasol
+2015-12-11,30-316,MEM,HOME,CHO,L (-24),1,37:18,5,11,.455,0,0,,7,8,.875,0,9,9,5,2,1,4,2,17,15.0,-17,Marc Gasol
+2015-12-13,30-318,MEM,AWAY,MIA,L (-3),1,36:52,5,10,.500,0,0,,2,4,.500,2,5,7,4,0,0,2,1,12,9.5,+9,Marc Gasol
+2015-12-14,30-319,MEM,HOME,WAS,W (+17),1,39:02,9,17,.529,0,0,,6,6,1.000,1,11,12,6,1,3,3,4,24,22.4,+16,Marc Gasol
+2015-12-16,30-321,MEM,AWAY,CHI,L (-13),1,33:57,4,10,.400,0,0,,0,0,,2,5,7,7,0,0,3,4,8,5.8,-8,Marc Gasol
+2015-12-18,30-323,MEM,AWAY,DAL,L (-9),1,33:35,6,14,.429,0,0,,4,4,1.000,1,7,8,1,3,0,2,2,16,12.3,-4,Marc Gasol
+2015-12-19,30-324,MEM,HOME,IND,W (+12),1,39:35,9,18,.500,0,0,,1,2,.500,3,9,12,6,2,1,0,3,19,20.1,+11,Marc Gasol
+2015-12-22,30-327,MEM,AWAY,PHI,W (+14),1,34:43,7,15,.467,0,0,,5,5,1.000,0,6,6,5,3,1,1,4,19,17.7,+7,Marc Gasol
+2015-12-23,30-328,MEM,AWAY,WAS,L (-9),1,32:08,3,9,.333,0,0,,5,6,.833,1,5,6,2,0,2,0,1,11,10.1,-5,Marc Gasol
+2015-12-26,30-331,MEM,AWAY,CHO,L (-6),1,33:14,8,18,.444,0,0,,2,4,.500,1,4,5,2,0,1,1,3,18,9.6,-11,Marc Gasol
+2015-12-27,30-332,MEM,HOME,LAL,W (+16),1,23:17,7,11,.636,0,0,,2,2,1.000,0,3,3,6,1,0,0,2,16,16.4,+20,Marc Gasol
+2015-12-29,30-334,MEM,HOME,MIA,W (+9),1,44:18,8,18,.444,0,0,,7,7,1.000,0,8,8,6,0,4,2,3,23,19.8,+15,Marc Gasol
+2016-01-02,30-338,MEM,AWAY,UTA,L (-5),1,45:26,8,20,.400,0,0,,4,5,.800,2,5,7,4,0,2,4,4,20,10.3,+8,Marc Gasol
+2016-01-04,30-340,MEM,AWAY,POR,W (+13),1,30:06,3,12,.250,0,0,,1,2,.500,1,5,6,2,1,1,4,3,7,-0.5,-13,Marc Gasol
+2016-01-06,30-342,MEM,AWAY,OKC,L (-18),1,24:08,2,11,.182,0,0,,4,4,1.000,1,3,4,2,0,0,0,1,8,3.7,-13,Marc Gasol
+2016-01-08,30-344,MEM,HOME,DEN,W (+7),1,37:03,5,17,.294,0,0,,2,3,.667,2,2,4,3,5,1,0,4,12,9.9,+9,Marc Gasol
+2016-01-10,30-346,MEM,HOME,BOS,W (+3),1,36:16,5,17,.294,0,0,,1,1,1.000,2,9,11,1,0,0,2,4,11,2.3,-5,Marc Gasol
+2016-01-12,30-348,MEM,HOME,HOU,L (-16),1,40:21,8,15,.533,0,0,,4,5,.800,1,4,5,3,2,3,2,3,20,17.2,-11,Marc Gasol
+2016-01-14,30-350,MEM,HOME,DET,W (+2),1,37:18,8,20,.400,0,0,,3,4,.750,0,5,5,4,2,3,3,5,19,11.2,-11,Marc Gasol
+2016-01-16,30-352,MEM,HOME,NYK,W (+8),1,40:44,15,29,.517,0,0,,7,8,.875,1,7,8,3,0,3,1,4,37,26.7,+11,Marc Gasol
+2016-01-18,30-354,MEM,HOME,NOP,W (+2),1,39:22,6,13,.462,0,0,,4,8,.500,4,6,10,6,2,1,4,4,16,13.6,+4,Marc Gasol
+2016-01-21,30-357,MEM,AWAY,DEN,W (+1),1,35:14,9,14,.643,0,0,,9,10,.900,0,4,4,6,1,3,3,3,27,24.7,+13,Marc Gasol
+2016-01-23,30-359,MEM,AWAY,MIN,L (-5),1,31:36,7,12,.583,0,0,,3,4,.750,0,2,2,1,0,1,2,1,17,10.6,-9,Marc Gasol
+2016-01-25,30-361,MEM,HOME,ORL,W (+6),1,42:10,7,20,.350,0,0,,3,4,.750,2,3,5,5,4,2,1,2,17,14.8,+4,Marc Gasol
+2016-01-28,30-364,MEM,HOME,MIL,W (+20),1,28:05,7,11,.636,0,0,,1,2,.500,1,7,8,4,4,0,1,2,15,17.5,+17,Marc Gasol
+2016-01-30,31-001,MEM,HOME,SAC,W (+4),1,33:56,7,14,.500,0,0,,8,8,1.000,0,6,6,5,2,5,3,3,22,21.6,+8,Marc Gasol
+2016-02-01,31-003,MEM,AWAY,NOP,W (+15),1,32:15,7,12,.583,0,0,,0,2,.000,0,3,3,7,0,2,2,3,14,11.6,+21,Marc Gasol
+2016-02-05,31-007,MEM,AWAY,NYK,W (+6),1,31:29,5,11,.455,0,0,,0,0,,0,7,7,1,1,1,3,2,10,5.0,+4,Marc Gasol
+2016-02-06,31-008,MEM,HOME,DAL,L (-4),1,36:49,9,15,.600,0,0,,4,6,.667,0,6,6,2,0,1,2,3,22,15.0,-10,Marc Gasol
+2016-02-08,31-010,MEM,HOME,POR,L (-6),1,10:59,4,6,.667,0,0,,3,3,1.000,0,3,3,2,0,0,0,0,11,10.7,+2,Marc Gasol
+2015-10-28,25-129,MEM,HOME,CLE,L (-30),0,14:00,2,5,.400,0,1,.000,0,2,.000,4,3,7,0,0,0,0,2,4,3.4,-17,JaMychal Green
+2015-10-29,25-130,MEM,AWAY,IND,W (+9),0,12:45,1,4,.250,0,0,,3,4,.750,2,2,4,0,0,1,2,2,5,2.1,-1,JaMychal Green
+2015-10-31,25-132,MEM,HOME,BRK,W (+10),0,11:20,2,5,.400,1,1,1.000,0,0,,1,2,3,0,0,1,0,2,5,3.5,+2,JaMychal Green
+2015-11-02,25-134,MEM,AWAY,GSW,L (-50),0,21:27,3,8,.375,0,1,.000,0,0,,1,3,4,1,1,0,0,1,6,4.5,-12,JaMychal Green
+2015-11-03,25-135,MEM,AWAY,SAC,W (+14),0,19:58,4,7,.571,0,1,.000,4,4,1.000,4,8,12,0,1,0,3,3,12,10.7,+5,JaMychal Green
+2015-11-05,25-137,MEM,AWAY,POR,L (-19),0,10:24,3,4,.750,2,2,1.000,0,0,,0,3,3,0,1,0,0,1,8,7.9,+4,JaMychal Green
+2015-11-07,25-139,MEM,AWAY,UTA,L (-10),0,9:15,0,3,.000,0,0,,2,2,1.000,1,1,2,1,0,0,0,0,2,1.6,+4,JaMychal Green
+2015-11-09,25-141,MEM,AWAY,LAC,L (-2),0,16:19,2,4,.500,0,0,,1,2,.500,0,1,1,1,0,0,0,4,5,2.0,-9,JaMychal Green
+2015-11-11,25-143,MEM,HOME,GSW,L (-16),0,25:16,3,4,.750,0,0,,3,4,.750,2,7,9,0,1,2,3,4,9,8.3,-19,JaMychal Green
+2015-11-13,25-145,MEM,HOME,POR,W (+1),0,18:02,3,7,.429,0,1,.000,0,0,,2,2,4,0,0,0,2,4,6,0.7,+6,JaMychal Green
+2015-11-15,25-147,MEM,AWAY,MIN,W (+8),0,24:38,4,6,.667,1,1,1.000,3,3,1.000,1,6,7,1,1,1,2,1,12,11.9,+13,JaMychal Green
+2015-11-16,25-148,MEM,HOME,OKC,W (+8),0,30:23,1,5,.200,1,1,1.000,2,2,1.000,1,2,3,0,1,2,0,3,5,4.4,0,JaMychal Green
+2015-11-20,25-152,MEM,HOME,HOU,W (+12),1,23:00,2,6,.333,0,0,,1,1,1.000,1,4,5,1,0,0,4,4,5,-1.4,-1,JaMychal Green
+2015-11-21,25-153,MEM,AWAY,SAS,L (-10),1,21:11,3,6,.500,0,0,,2,2,1.000,2,3,5,1,1,0,0,5,8,7.0,-1,JaMychal Green
+2015-11-24,25-156,MEM,HOME,DAL,W (+14),0,16:58,5,7,.714,1,1,1.000,2,2,1.000,1,5,6,1,1,0,3,4,13,9.4,+4,JaMychal Green
+2015-11-25,25-157,MEM,AWAY,HOU,W (+9),0,12:06,2,6,.333,0,0,,2,2,1.000,1,2,3,0,0,1,2,5,6,0.6,-1,JaMychal Green
+2015-11-27,25-159,MEM,HOME,ATL,L (-15),0,26:38,4,7,.571,0,0,,1,1,1.000,1,6,7,2,1,0,1,3,9,8.4,+3,JaMychal Green
+2015-11-29,25-161,MEM,HOME,PHI,W (+8),0,16:59,1,3,.333,0,1,.000,0,0,,0,3,3,1,1,0,4,2,2,-1.9,-2,JaMychal Green
+2015-12-01,25-163,MEM,AWAY,NOP,W (+9),0,9:00,1,2,.500,0,0,,0,0,,2,2,4,0,0,0,0,1,2,2.6,+11,JaMychal Green
+2015-12-03,25-165,MEM,HOME,SAS,L (-20),0,13:23,2,4,.500,0,1,.000,0,0,,1,2,3,1,0,0,0,4,4,2.4,-7,JaMychal Green
+2015-12-06,25-168,MEM,HOME,PHO,W (+2),0,17:55,2,4,.500,0,0,,3,3,1.000,3,6,9,1,0,0,1,1,7,8.2,+19,JaMychal Green
+2015-12-08,25-170,MEM,HOME,OKC,L (-37),0,19:01,4,7,.571,0,0,,3,4,.750,2,2,4,0,1,0,0,2,11,9.5,-9,JaMychal Green
+2015-12-09,25-171,MEM,AWAY,DET,W (+1),0,14:40,1,4,.250,0,0,,1,1,1.000,1,2,3,1,0,0,0,0,3,2.6,+6,JaMychal Green
+2015-12-11,25-173,MEM,HOME,CHO,L (-24),0,16:59,2,5,.400,0,0,,2,4,.500,2,1,3,0,0,0,1,5,6,1.2,-5,JaMychal Green
+2015-12-13,25-175,MEM,AWAY,MIA,L (-3),0,9:03,2,3,.667,0,0,,0,0,,2,1,3,0,0,0,0,1,4,4.0,-10,JaMychal Green
+2015-12-14,25-176,MEM,HOME,WAS,W (+17),0,11:17,0,2,.000,0,0,,0,0,,0,3,3,0,0,0,2,0,0,-2.5,-7,JaMychal Green
+2015-12-16,25-178,MEM,AWAY,CHI,L (-13),0,14:03,4,6,.667,0,1,.000,3,6,.500,1,1,2,0,1,0,3,1,11,5.8,-5,JaMychal Green
+2015-12-18,25-180,MEM,AWAY,DAL,L (-9),0,12:32,4,6,.667,0,0,,0,0,,5,2,7,0,0,0,1,2,8,7.7,0,JaMychal Green
+2015-12-19,25-181,MEM,HOME,IND,W (+12),0,8:25,1,3,.333,0,0,,0,0,,0,4,4,0,0,1,0,1,2,1.8,+1,JaMychal Green
+2015-12-22,25-184,MEM,AWAY,PHI,W (+14),0,9:33,3,4,.750,0,0,,1,2,.500,1,0,1,0,0,0,1,3,7,3.5,-4,JaMychal Green
+2015-12-23,25-185,MEM,AWAY,WAS,L (-9),0,15:52,3,4,.750,0,0,,2,2,1.000,0,1,1,1,0,0,0,3,8,6.2,-4,JaMychal Green
+2015-12-26,25-188,MEM,AWAY,CHO,L (-6),0,14:22,2,5,.400,0,0,,4,4,1.000,1,7,8,0,0,0,1,1,8,6.7,+5,JaMychal Green
+2015-12-27,25-189,MEM,HOME,LAL,W (+16),0,27:22,3,7,.429,1,1,1.000,0,2,.000,1,7,8,1,1,2,1,3,7,6.2,+2,JaMychal Green
+2015-12-29,25-191,MEM,HOME,MIA,W (+9),0,7:19,0,3,.000,0,1,.000,0,0,,2,1,3,0,0,0,0,2,0,-1.2,-8,JaMychal Green
+2016-01-02,25-195,MEM,AWAY,UTA,L (-5),0,5:50,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,-3,JaMychal Green
+2016-01-04,25-197,MEM,AWAY,POR,W (+13),0,11:15,3,4,.750,0,0,,0,0,,2,3,5,0,0,0,1,1,6,5.3,-1,JaMychal Green
+2016-01-06,25-199,MEM,AWAY,OKC,L (-18),0,17:42,4,7,.571,0,0,,1,2,.500,1,3,4,0,0,0,1,3,9,4.7,+3,JaMychal Green
+2016-01-08,25-201,MEM,HOME,DEN,W (+7),0,9:17,0,3,.000,0,0,,0,0,,1,1,2,0,0,0,1,0,0,-2.1,0,JaMychal Green
+2016-01-10,25-203,MEM,HOME,BOS,W (+3),0,15:23,2,2,1.000,0,0,,2,2,1.000,1,3,4,0,0,1,2,1,6,5.3,+12,JaMychal Green
+2016-01-12,25-205,MEM,HOME,HOU,L (-16),0,14:27,1,2,.500,1,1,1.000,0,0,,0,1,1,0,1,0,0,4,3,1.7,-9,JaMychal Green
+2016-01-14,25-207,MEM,HOME,DET,W (+2),0,4:44,0,1,.000,0,0,,2,2,1.000,0,0,0,1,0,0,1,2,2,0.2,+2,JaMychal Green
+2016-01-16,25-209,MEM,HOME,NYK,W (+8),0,7:16,0,1,.000,0,0,,1,2,.500,1,3,4,0,0,1,1,2,1,0.4,-3,JaMychal Green
+2016-01-18,25-211,MEM,HOME,NOP,W (+2),0,4:27,2,2,1.000,0,0,,1,1,1.000,0,0,0,0,0,1,0,0,5,5.1,+5,JaMychal Green
+2016-01-21,25-214,MEM,AWAY,DEN,W (+1),0,14:08,3,4,.750,1,1,1.000,0,0,,0,2,2,0,0,0,0,2,7,5.2,0,JaMychal Green
+2016-01-23,25-216,MEM,AWAY,MIN,L (-5),0,10:54,2,3,.667,0,0,,0,0,,1,4,5,0,0,0,0,3,4,3.4,+3,JaMychal Green
+2016-01-28,25-221,MEM,HOME,MIL,W (+20),0,5:28,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.7,-5,JaMychal Green
+2016-02-01,25-225,MEM,AWAY,NOP,W (+15),0,8:30,1,2,.500,0,0,,0,0,,0,1,1,2,0,0,2,2,2,-0.1,+3,JaMychal Green
+2016-02-08,25-232,MEM,HOME,POR,L (-6),0,12:49,1,1,1.000,0,0,,0,0,,0,2,2,0,1,0,0,2,2,2.5,+2,JaMychal Green
+2016-02-10,25-234,MEM,AWAY,BRK,W (+19),1,20:48,5,6,.833,1,1,1.000,2,2,1.000,0,4,4,1,1,0,0,5,13,11.7,+11,JaMychal Green
+2016-02-19,25-243,MEM,HOME,MIN,W (+5),1,30:08,4,9,.444,0,1,.000,1,2,.500,4,7,11,2,3,3,1,2,9,13.5,+11,JaMychal Green
+2016-02-21,25-245,MEM,AWAY,TOR,L (-13),1,20:09,2,5,.400,0,1,.000,0,1,.000,2,4,6,0,1,0,0,5,4,2.5,+8,JaMychal Green
+2016-02-24,25-248,MEM,HOME,LAL,W (+9),1,25:17,5,8,.625,1,1,1.000,1,2,.500,1,8,9,0,1,0,0,2,12,11.3,+15,JaMychal Green
+2016-02-26,25-250,MEM,AWAY,LAL,W (+17),0,22:39,4,8,.500,0,0,,2,2,1.000,1,2,3,0,1,1,3,3,10,4.8,-6,JaMychal Green
+2016-02-27,25-251,MEM,AWAY,PHO,L (-5),0,15:55,3,7,.429,0,1,.000,0,0,,1,1,2,1,1,1,0,3,6,4.5,+2,JaMychal Green
+2016-02-29,25-253,MEM,AWAY,DEN,W (+7),0,12:07,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,1,2,2,-0.8,-1,JaMychal Green
+2016-03-02,25-255,MEM,HOME,SAC,W (+6),0,21:16,5,7,.714,1,1,1.000,4,5,.800,1,1,2,0,3,0,1,3,15,13.5,0,JaMychal Green
+2016-03-04,25-257,MEM,HOME,UTA,W (+6),0,19:45,3,5,.600,0,2,.000,0,0,,0,3,3,1,0,0,0,0,6,5.3,+7,JaMychal Green
+2016-03-06,25-259,MEM,HOME,PHO,L (-9),0,23:53,5,7,.714,0,1,.000,7,10,.700,3,2,5,2,0,0,1,6,17,13.6,+3,JaMychal Green
+2016-03-07,25-260,MEM,AWAY,CLE,W (+3),1,36:32,6,13,.462,0,2,.000,4,4,1.000,4,6,10,6,4,2,1,1,16,22.1,+15,JaMychal Green
+2016-03-09,25-262,MEM,AWAY,BOS,L (-20),1,36:55,6,12,.500,0,1,.000,5,6,.833,4,9,13,2,0,2,4,4,17,13.3,-6,JaMychal Green
+2016-03-11,25-264,MEM,HOME,NOP,W (+7),1,38:03,9,15,.600,0,0,,3,4,.750,4,6,10,1,1,1,1,5,21,17.7,+19,JaMychal Green
+2016-03-12,25-265,MEM,AWAY,ATL,L (-12),1,24:22,2,13,.154,0,1,.000,0,0,,4,4,8,0,0,0,3,3,4,-4.5,-23,JaMychal Green
+2016-03-14,25-267,MEM,AWAY,HOU,L (-49),1,28:08,4,17,.235,1,5,.200,0,0,,3,1,4,2,0,0,4,4,9,-3.1,-38,JaMychal Green
+2016-03-16,25-269,MEM,HOME,MIN,L (-6),1,31:06,7,17,.412,1,2,.500,3,4,.750,8,2,10,3,0,0,2,2,18,14.0,-6,JaMychal Green
+2016-03-17,25-270,MEM,AWAY,MIL,L (-10),1,36:50,5,14,.357,0,0,,1,1,1.000,5,1,6,2,1,1,0,2,11,9.3,-9,JaMychal Green
+2016-03-19,25-272,MEM,HOME,LAC,W (+11),0,27:05,4,10,.400,0,1,.000,3,3,1.000,2,5,7,4,4,1,3,4,11,11.4,-1,JaMychal Green
+2016-03-21,25-274,MEM,AWAY,PHO,W (+6),0,22:02,3,12,.250,0,1,.000,0,0,,3,4,7,1,1,0,0,1,6,3.4,+2,JaMychal Green
+2016-03-22,25-275,MEM,AWAY,LAL,L (-7),0,19:35,3,5,.600,0,1,.000,0,0,,2,0,2,2,1,0,0,5,6,5.5,-2,JaMychal Green
+2016-03-25,25-278,MEM,AWAY,SAS,L (-6),1,25:12,10,18,.556,0,1,.000,0,0,,0,2,2,3,0,2,1,2,20,13.7,-2,JaMychal Green
+2016-03-28,25-281,MEM,HOME,SAS,L (-14),1,27:08,5,9,.556,1,2,.500,1,2,.500,0,5,5,3,1,0,0,5,12,9.9,-19,JaMychal Green
+2016-03-30,25-283,MEM,HOME,DEN,L (-4),0,25:50,6,16,.375,0,0,,1,2,.500,9,3,12,3,0,1,2,2,13,11.0,+7,JaMychal Green
+2016-04-01,25-285,MEM,HOME,TOR,L (-4),0,27:58,5,9,.556,0,0,,0,0,,3,4,7,0,2,2,2,0,10,10.4,+7,JaMychal Green
+2016-04-03,25-287,MEM,AWAY,ORL,L (-12),0,29:59,5,9,.556,0,0,,1,4,.250,3,7,10,3,0,1,0,4,11,10.9,-2,JaMychal Green
+2016-04-05,25-289,MEM,HOME,CHI,W (+16),0,24:22,2,10,.200,0,1,.000,4,4,1.000,3,2,5,1,3,0,1,3,8,6.0,+7,JaMychal Green
+2016-04-08,25-292,MEM,AWAY,DAL,L (-10),0,13:31,3,8,.375,0,1,.000,1,2,.500,1,2,3,0,1,0,0,4,7,2.9,-7,JaMychal Green
+2016-04-09,25-293,MEM,HOME,GSW,L (-1),0,13:53,1,8,.125,0,0,,5,6,.833,2,2,4,2,1,0,2,1,7,3.4,+14,JaMychal Green
+2016-04-12,25-296,MEM,AWAY,LAC,L (-26),0,26:03,4,9,.444,0,0,,0,0,,6,4,10,2,0,1,1,1,8,9.4,-7,JaMychal Green
+2016-04-13,25-297,MEM,AWAY,GSW,L (-21),0,26:00,5,8,.625,0,0,,2,3,.667,4,4,8,2,0,0,2,2,12,10.6,-13,JaMychal Green
+2015-10-28,29-061,MEM,HOME,CLE,L (-30),1,20:04,3,9,.333,1,3,.333,1,2,.500,0,1,1,2,0,0,0,5,8,2.2,-21,Jeff Green
+2015-10-29,29-062,MEM,AWAY,IND,W (+9),0,29:08,5,6,.833,2,2,1.000,0,0,,0,3,3,3,1,1,3,5,12,9.5,+14,Jeff Green
+2015-10-31,29-064,MEM,HOME,BRK,W (+10),0,27:00,2,5,.400,1,3,.333,8,10,.800,0,4,4,5,0,0,0,3,13,13.0,+11,Jeff Green
+2015-11-02,29-066,MEM,AWAY,GSW,L (-50),0,19:36,1,8,.125,0,1,.000,0,0,,1,2,3,1,0,0,3,1,2,-4.6,-17,Jeff Green
+2015-11-03,29-067,MEM,AWAY,SAC,W (+14),0,21:58,2,8,.250,1,4,.250,0,0,,1,3,4,2,0,0,1,2,5,1.4,+6,Jeff Green
+2015-11-05,29-069,MEM,AWAY,POR,L (-19),0,19:45,3,8,.375,0,3,.000,0,0,,0,2,2,0,1,0,1,1,6,1.8,-14,Jeff Green
+2015-11-07,29-071,MEM,AWAY,UTA,L (-10),0,28:43,4,10,.400,0,2,.000,0,0,,1,3,4,0,1,0,1,1,8,3.8,-4,Jeff Green
+2015-11-09,29-073,MEM,AWAY,LAC,L (-2),0,17:21,2,7,.286,0,1,.000,1,2,.500,0,3,3,0,0,1,2,3,5,-1.1,-15,Jeff Green
+2015-11-11,29-075,MEM,HOME,GSW,L (-16),0,17:21,0,2,.000,0,1,.000,0,0,,0,2,2,0,0,0,2,1,0,-3.2,-4,Jeff Green
+2015-11-13,29-077,MEM,HOME,POR,W (+1),0,29:58,4,10,.400,0,0,,6,6,1.000,3,2,5,2,2,0,0,3,14,13.5,+4,Jeff Green
+2015-11-15,29-079,MEM,AWAY,MIN,W (+8),1,35:07,7,12,.583,1,3,.333,6,6,1.000,1,3,4,3,0,0,2,2,21,16.3,+2,Jeff Green
+2015-11-16,29-080,MEM,HOME,OKC,W (+8),1,34:09,5,13,.385,2,2,1.000,8,8,1.000,1,4,5,1,2,1,2,2,20,15.4,-1,Jeff Green
+2015-11-20,29-084,MEM,HOME,HOU,W (+12),1,28:31,2,9,.222,1,4,.250,2,2,1.000,1,5,6,1,2,1,0,2,7,6.3,-1,Jeff Green
+2015-11-21,29-085,MEM,AWAY,SAS,L (-10),1,28:28,3,7,.429,0,0,,0,0,,0,7,7,1,1,0,1,2,6,4.3,-16,Jeff Green
+2015-11-24,29-088,MEM,HOME,DAL,W (+14),1,34:46,8,14,.571,1,1,1.000,2,2,1.000,1,6,7,3,0,2,1,3,19,16.2,+14,Jeff Green
+2015-11-25,29-089,MEM,AWAY,HOU,W (+9),1,32:03,5,10,.500,0,1,.000,10,10,1.000,2,5,7,1,1,0,0,0,20,19.6,+3,Jeff Green
+2015-11-27,29-091,MEM,HOME,ATL,L (-15),1,31:04,4,7,.571,1,1,1.000,2,2,1.000,0,7,7,1,0,0,1,5,11,7.5,-11,Jeff Green
+2015-11-29,29-093,MEM,HOME,PHI,W (+8),1,28:25,4,10,.400,1,4,.250,4,4,1.000,2,0,2,2,1,0,3,0,13,8.4,+7,Jeff Green
+2015-12-01,29-095,MEM,AWAY,NOP,W (+9),1,31:01,3,11,.273,0,2,.000,0,0,,0,4,4,1,1,0,0,3,6,1.2,-8,Jeff Green
+2015-12-03,29-097,MEM,HOME,SAS,L (-20),1,26:45,4,11,.364,1,2,.500,1,2,.500,0,2,2,2,0,0,0,0,10,5.5,-11,Jeff Green
+2015-12-06,29-100,MEM,HOME,PHO,W (+2),1,25:51,5,11,.455,0,2,.000,0,1,.000,3,2,5,2,0,0,2,1,10,5.6,-10,Jeff Green
+2015-12-08,29-102,MEM,HOME,OKC,L (-37),1,29:50,4,10,.400,0,1,.000,1,1,1.000,2,1,3,1,1,0,1,0,9,6.0,-27,Jeff Green
+2015-12-09,29-103,MEM,AWAY,DET,W (+1),1,24:51,4,7,.571,0,1,.000,0,0,,0,2,2,2,1,0,2,1,8,5.3,-6,Jeff Green
+2015-12-11,29-105,MEM,HOME,CHO,L (-24),1,25:42,2,8,.250,0,1,.000,2,4,.500,0,3,3,1,0,0,2,1,6,-0.4,-15,Jeff Green
+2015-12-13,29-107,MEM,AWAY,MIA,L (-3),1,44:40,10,20,.500,2,6,.333,4,4,1.000,0,2,2,3,0,1,4,3,26,14.2,-3,Jeff Green
+2015-12-14,29-108,MEM,HOME,WAS,W (+17),1,39:56,6,12,.500,0,1,.000,3,4,.750,2,4,6,4,1,1,3,3,15,11.5,+12,Jeff Green
+2015-12-16,29-110,MEM,AWAY,CHI,L (-13),1,33:25,4,12,.333,1,3,.333,2,4,.500,0,1,1,2,1,1,0,1,11,6.4,-8,Jeff Green
+2015-12-18,29-112,MEM,AWAY,DAL,L (-9),1,34:37,0,7,.000,0,1,.000,2,2,1.000,0,7,7,3,0,0,0,3,2,0.1,-8,Jeff Green
+2015-12-19,29-113,MEM,HOME,IND,W (+12),1,34:02,5,11,.455,0,2,.000,1,1,1.000,1,5,6,0,0,1,0,3,11,7.0,+10,Jeff Green
+2015-12-22,29-116,MEM,AWAY,PHI,W (+14),1,18:56,3,3,1.000,0,0,,2,2,1.000,2,1,3,0,1,0,0,1,8,9.4,-4,Jeff Green
+2015-12-23,29-117,MEM,AWAY,WAS,L (-9),1,37:44,8,14,.571,0,4,.000,3,5,.600,2,10,12,4,3,1,1,2,19,20.7,0,Jeff Green
+2015-12-26,29-120,MEM,AWAY,CHO,L (-6),1,23:49,3,5,.600,1,1,1.000,1,2,.500,2,2,4,3,2,0,3,1,8,8.0,-5,Jeff Green
+2015-12-27,29-121,MEM,HOME,LAL,W (+16),1,24:31,6,10,.600,1,3,.333,4,6,.667,3,1,4,4,0,1,1,2,17,15.7,+18,Jeff Green
+2015-12-29,29-123,MEM,HOME,MIA,W (+9),1,37:43,8,17,.471,0,3,.000,0,0,,3,4,7,4,0,0,1,0,16,12.4,+17,Jeff Green
+2016-01-02,29-127,MEM,AWAY,UTA,L (-5),1,43:52,3,10,.300,0,5,.000,0,2,.000,1,9,10,0,0,0,2,5,6,-1.2,+3,Jeff Green
+2016-01-04,29-129,MEM,AWAY,POR,W (+13),1,29:06,3,12,.250,0,2,.000,0,2,.000,1,5,6,1,0,2,1,3,6,0.1,+7,Jeff Green
+2016-01-06,29-131,MEM,AWAY,OKC,L (-18),1,25:06,3,12,.250,2,3,.667,2,2,1.000,0,5,5,4,1,0,1,1,10,6.7,-6,Jeff Green
+2016-01-08,29-133,MEM,HOME,DEN,W (+7),1,35:21,4,13,.308,3,6,.500,5,8,.625,2,7,9,2,1,0,1,5,16,10.2,+4,Jeff Green
+2016-01-10,29-135,MEM,HOME,BOS,W (+3),1,31:20,2,11,.182,0,1,.000,0,0,,2,2,4,3,2,0,3,1,4,-0.2,-4,Jeff Green
+2016-01-12,29-137,MEM,HOME,HOU,L (-16),1,14:46,0,2,.000,0,0,,3,4,.750,0,0,0,2,0,0,1,2,3,0.8,-10,Jeff Green
+2016-01-14,29-139,MEM,HOME,DET,W (+2),0,26:46,6,10,.600,1,2,.500,3,3,1.000,2,2,4,1,0,0,2,1,16,11.7,+3,Jeff Green
+2016-01-16,29-141,MEM,HOME,NYK,W (+8),0,30:12,7,14,.500,1,4,.250,3,4,.750,0,2,2,3,0,0,0,1,18,12.9,+6,Jeff Green
+2016-01-18,29-143,MEM,HOME,NOP,W (+2),0,26:48,5,12,.417,1,3,.333,5,6,.833,2,4,6,2,2,1,1,1,16,14.5,+2,Jeff Green
+2016-01-21,29-146,MEM,AWAY,DEN,W (+1),0,21:23,3,9,.333,1,2,.500,2,3,.667,0,4,4,1,0,0,3,3,9,1.2,+7,Jeff Green
+2016-01-23,29-148,MEM,AWAY,MIN,L (-5),0,26:52,5,13,.385,0,2,.000,1,1,1.000,2,0,2,3,2,0,4,0,11,5.4,+3,Jeff Green
+2016-01-25,29-150,MEM,HOME,ORL,W (+6),0,31:10,11,18,.611,2,6,.333,6,8,.750,2,6,8,1,2,1,2,1,30,25.2,+4,Jeff Green
+2016-01-28,29-153,MEM,HOME,MIL,W (+20),0,31:45,9,15,.600,3,6,.500,0,0,,1,4,5,1,0,0,2,3,21,13.5,+11,Jeff Green
+2016-01-30,29-155,MEM,HOME,SAC,W (+4),0,27:21,11,16,.688,3,5,.600,4,4,1.000,0,2,2,1,3,0,1,2,29,24.7,-3,Jeff Green
+2016-02-01,29-157,MEM,AWAY,NOP,W (+15),0,33:39,8,13,.615,3,4,.750,5,5,1.000,0,7,7,1,1,0,0,2,24,21.1,+16,Jeff Green
+2016-02-05,29-161,MEM,AWAY,NYK,W (+6),0,29:16,5,11,.455,0,1,.000,6,6,1.000,1,4,5,2,1,0,0,2,16,13.8,+7,Jeff Green
+2016-02-06,29-162,MEM,HOME,DAL,L (-4),0,34:46,4,14,.286,0,4,.000,1,2,.500,1,4,5,3,0,1,0,1,9,4.7,+4,Jeff Green
+2016-02-08,29-164,MEM,HOME,POR,L (-6),0,38:36,5,14,.357,1,4,.250,1,2,.500,2,4,6,1,0,2,2,1,12,6.1,-6,Jeff Green
+2016-02-10,29-166,MEM,AWAY,BRK,W (+19),0,29:01,7,14,.500,3,7,.429,1,1,1.000,2,2,4,2,2,0,0,1,18,16.0,+10,Jeff Green
+2016-02-20,29-176,LAC,HOME,GSW,L (-3),0,19:42,2,7,.286,0,1,.000,1,2,.500,2,0,2,1,0,0,3,3,5,-1.6,0,Jeff Green
+2016-02-22,29-178,LAC,HOME,PHO,W (+40),0,23:42,6,10,.600,2,3,.667,4,7,.571,0,5,5,2,0,1,0,1,18,15.4,+6,Jeff Green
+2016-02-24,29-180,LAC,HOME,DEN,L (-6),0,25:30,3,10,.300,0,3,.000,0,2,.000,2,3,5,1,0,3,2,2,6,1.7,-1,Jeff Green
+2016-02-26,29-182,LAC,AWAY,SAC,W (+10),1,30:37,9,13,.692,4,5,.800,0,0,,1,4,5,0,0,1,2,5,22,15.1,+6,Jeff Green
+2016-02-29,29-185,LAC,HOME,BRK,W (+10),0,31:13,3,9,.333,1,3,.333,0,0,,1,6,7,2,0,0,0,2,7,5.0,+3,Jeff Green
+2016-03-02,29-187,LAC,HOME,OKC,W (+5),1,17:07,0,7,.000,0,3,.000,0,0,,0,2,2,2,0,0,1,3,0,-5.1,-3,Jeff Green
+2016-03-05,29-190,LAC,HOME,ATL,L (-10),1,37:37,6,9,.667,2,4,.500,0,1,.000,1,4,5,2,1,2,0,4,14,13.8,-11,Jeff Green
+2016-03-07,29-192,LAC,AWAY,DAL,W (+19),1,20:57,0,5,.000,0,2,.000,0,0,,0,3,3,2,0,1,1,1,0,-1.9,-8,Jeff Green
+2016-03-09,29-194,LAC,AWAY,OKC,L (-12),1,25:42,10,13,.769,3,5,.600,0,0,,0,2,2,0,2,1,0,2,23,20.4,-2,Jeff Green
+2016-03-11,29-196,LAC,HOME,NYK,W (+7),1,44:59,6,11,.545,1,2,.500,4,5,.800,1,5,6,4,0,1,0,2,17,16.2,+7,Jeff Green
+2016-03-13,29-198,LAC,HOME,CLE,L (-24),1,27:20,2,10,.200,0,4,.000,3,5,.600,1,2,3,5,0,0,0,4,7,3.2,+11,Jeff Green
+2016-03-15,29-200,LAC,AWAY,SAS,L (-21),1,31:30,5,13,.385,3,7,.429,2,2,1.000,1,1,2,0,0,1,2,4,15,6.0,-6,Jeff Green
+2016-03-16,29-201,LAC,AWAY,HOU,W (+16),1,15:35,0,4,.000,0,1,.000,0,0,,0,0,0,0,1,1,1,4,0,-3.7,+16,Jeff Green
+2016-03-19,29-204,LAC,AWAY,MEM,L (-11),1,20:57,2,5,.400,1,3,.333,3,4,.750,0,1,1,0,1,0,0,2,8,5.4,-12,Jeff Green
+2016-03-23,29-208,LAC,AWAY,GSW,L (-16),0,25:04,4,9,.444,1,2,.500,4,5,.800,0,3,3,1,4,1,1,1,13,12.8,-10,Jeff Green
+2016-03-24,29-209,LAC,HOME,POR,W (+2),0,26:13,2,7,.286,0,2,.000,0,0,,0,4,4,4,0,1,1,4,4,2.0,-3,Jeff Green
+2016-03-27,29-212,LAC,HOME,DEN,W (+15),0,29:26,6,13,.462,0,0,,1,2,.500,3,3,6,0,2,1,0,3,13,10.4,-4,Jeff Green
+2016-03-28,29-213,LAC,HOME,BOS,W (+24),0,26:15,4,11,.364,1,1,1.000,1,2,.500,0,4,4,1,0,0,1,1,10,4.0,+17,Jeff Green
+2016-03-30,29-215,LAC,AWAY,MIN,W (+20),0,29:00,4,10,.400,0,3,.000,2,2,1.000,0,3,3,1,1,2,0,3,10,7.4,+5,Jeff Green
+2016-03-31,29-216,LAC,AWAY,OKC,L (-2),0,34:46,7,15,.467,1,5,.200,4,8,.500,1,2,3,0,0,1,1,2,19,9.9,+4,Jeff Green
+2016-04-03,29-219,LAC,HOME,WAS,W (+5),0,14:50,2,4,.500,0,0,,0,0,,0,0,0,0,0,0,3,0,4,-1.0,-5,Jeff Green
+2016-04-05,29-221,LAC,HOME,LAL,W (+22),0,31:21,7,12,.583,1,3,.333,6,9,.667,0,3,3,2,1,1,1,4,21,15.6,-5,Jeff Green
+2016-04-06,29-222,LAC,AWAY,LAL,W (+10),0,14:12,1,5,.200,0,2,.000,1,2,.500,1,1,2,2,1,0,0,0,3,2.9,+2,Jeff Green
+2016-04-08,29-224,LAC,AWAY,UTA,W (+3),0,35:54,7,21,.333,3,7,.429,1,2,.500,1,3,4,0,1,1,1,2,18,7.2,-24,Jeff Green
+2016-04-10,29-226,LAC,HOME,DAL,W (+7),0,19:33,5,11,.455,0,2,.000,1,1,1.000,0,1,1,2,3,1,0,0,11,10.7,-2,Jeff Green
+2016-04-12,29-228,LAC,HOME,MEM,W (+26),0,25:42,6,12,.500,1,2,.500,0,2,.000,2,1,3,1,0,0,0,1,13,8.2,+17,Jeff Green
+2016-04-13,29-229,LAC,AWAY,PHO,L (-9),0,24:35,5,11,.455,0,2,.000,2,2,1.000,1,6,7,5,0,0,3,2,12,8.5,-6,Jeff Green
+2015-10-28,22-308,CHO,AWAY,MIA,L (-10),1,18:26,1,5,.200,1,4,.250,0,0,,0,0,0,2,0,0,0,1,3,0.9,-6,P.J. Hairston
+2015-10-30,22-310,CHO,AWAY,ATL,L (-3),1,16:36,1,5,.200,1,4,.250,0,0,,0,1,1,0,0,1,0,1,3,0.5,-6,P.J. Hairston
+2015-11-01,22-312,CHO,HOME,ATL,L (-2),1,23:12,2,6,.333,0,4,.000,3,3,1.000,0,4,4,1,0,0,2,1,7,3.1,+4,P.J. Hairston
+2015-11-03,22-314,CHO,HOME,CHI,W (+25),1,19:54,3,5,.600,2,3,.667,2,2,1.000,0,5,5,0,0,0,0,3,10,8.0,+4,P.J. Hairston
+2015-11-05,22-316,CHO,AWAY,DAL,W (+14),1,22:13,2,5,.400,0,2,.000,0,0,,0,3,3,0,1,0,0,4,4,1.6,+12,P.J. Hairston
+2015-11-07,22-318,CHO,AWAY,SAS,L (-20),1,16:44,1,5,.200,0,3,.000,2,2,1.000,0,3,3,0,0,0,1,2,4,0.0,+16,P.J. Hairston
+2015-11-10,22-321,CHO,AWAY,MIN,W (+9),1,7:38,1,3,.333,1,2,.500,1,2,.500,0,0,0,1,0,0,0,2,4,1.8,-5,P.J. Hairston
+2015-11-11,22-322,CHO,HOME,NYK,W (+2),1,25:51,2,8,.250,1,5,.200,0,0,,0,3,3,2,0,1,0,3,5,2.0,-8,P.J. Hairston
+2015-11-13,22-324,CHO,AWAY,CHI,L (-5),1,15:12,2,4,.500,2,4,.500,0,0,,0,1,1,0,0,0,0,3,6,3.1,+5,P.J. Hairston
+2015-11-15,22-326,CHO,HOME,POR,W (+12),1,9:28,1,2,.500,0,1,.000,0,0,,1,0,1,0,1,0,0,0,2,2.7,+5,P.J. Hairston
+2015-11-23,22-334,CHO,HOME,SAC,W (+5),1,19:27,2,5,.400,1,4,.250,0,0,,0,6,6,1,0,1,1,2,5,3.7,-6,P.J. Hairston
+2015-11-25,22-336,CHO,HOME,WAS,W (+14),1,16:12,1,4,.250,1,4,.250,2,2,1.000,0,3,3,2,0,0,1,3,5,2.7,-4,P.J. Hairston
+2015-11-27,22-338,CHO,HOME,CLE,L (-5),1,19:28,1,5,.200,0,3,.000,0,0,,0,2,2,1,1,0,0,4,2,-0.4,+1,P.J. Hairston
+2015-11-29,22-340,CHO,HOME,MIL,W (+5),1,14:42,1,3,.333,1,1,1.000,0,0,,0,1,1,0,0,0,0,0,3,1.6,-13,P.J. Hairston
+2015-12-02,22-343,CHO,HOME,GSW,L (-17),1,4:45,0,0,,0,0,,0,0,,0,0,0,1,0,1,0,0,0,1.4,-9,P.J. Hairston
+2015-12-05,22-346,CHO,AWAY,CHI,W (+6),1,18:52,0,3,.000,0,3,.000,0,0,,0,0,0,0,1,0,1,0,0,-2.1,+5,P.J. Hairston
+2015-12-07,22-348,CHO,HOME,DET,W (+20),1,16:05,2,6,.333,1,3,.333,1,1,1.000,0,3,3,1,0,0,0,5,6,2.2,+13,P.J. Hairston
+2015-12-09,22-350,CHO,HOME,MIA,W (+18),1,16:25,2,3,.667,2,2,1.000,0,0,,0,2,2,0,0,0,0,1,6,4.9,+11,P.J. Hairston
+2015-12-11,22-352,CHO,AWAY,MEM,W (+24),1,17:36,1,4,.250,0,3,.000,0,0,,1,4,5,3,0,0,1,4,2,1.0,0,P.J. Hairston
+2015-12-12,22-353,CHO,HOME,BOS,L (-5),1,21:35,2,7,.286,2,5,.400,0,0,,0,4,4,0,0,1,0,0,6,3.8,-12,P.J. Hairston
+2015-12-16,22-357,CHO,AWAY,ORL,L (-15),1,21:57,5,11,.455,3,7,.429,1,1,1.000,1,1,2,0,1,0,2,1,14,7.9,-14,P.J. Hairston
+2015-12-17,22-358,CHO,HOME,TOR,W (+10),1,34:06,5,10,.500,4,7,.571,0,0,,1,3,4,0,0,0,2,4,14,7.0,+8,P.J. Hairston
+2015-12-19,22-360,CHO,AWAY,WAS,L (-8),1,18:40,3,6,.500,2,3,.667,2,2,1.000,3,3,6,2,0,0,1,1,10,10.0,-10,P.J. Hairston
+2015-12-21,22-362,CHO,AWAY,HOU,L (-7),1,19:44,2,12,.167,2,9,.222,1,2,.500,2,0,2,0,1,0,0,3,7,0.2,-1,P.J. Hairston
+2015-12-23,22-364,CHO,HOME,BOS,L (-13),1,12:40,1,5,.200,1,4,.250,2,2,1.000,0,1,1,0,2,0,0,1,5,3.8,-18,P.J. Hairston
+2015-12-26,23-002,CHO,HOME,MEM,W (+6),1,17:56,5,6,.833,4,5,.800,0,0,,0,0,0,1,2,0,0,4,14,12.9,+8,P.J. Hairston
+2015-12-28,23-004,CHO,HOME,LAL,W (+10),1,19:17,5,12,.417,2,6,.333,1,1,1.000,0,0,0,1,0,0,0,4,13,5.7,+1,P.J. Hairston
+2015-12-30,23-006,CHO,HOME,LAC,L (-5),1,21:58,2,9,.222,1,6,.167,0,0,,1,3,4,1,0,0,0,5,5,-0.2,-2,P.J. Hairston
+2016-01-01,23-008,CHO,AWAY,TOR,L (-10),1,20:33,1,5,.200,0,3,.000,0,0,,1,5,6,0,0,0,0,0,2,1.1,-6,P.J. Hairston
+2016-01-02,23-009,CHO,HOME,OKC,L (-19),1,21:28,3,6,.500,2,4,.500,2,2,1.000,0,1,1,1,1,0,0,4,10,7.4,-11,P.J. Hairston
+2016-01-04,23-011,CHO,AWAY,GSW,L (-10),1,20:16,2,7,.286,2,3,.667,1,2,.500,1,1,2,1,0,0,1,2,7,2.4,-8,P.J. Hairston
+2016-01-06,23-013,CHO,AWAY,PHO,L (-9),1,35:15,3,7,.429,2,5,.400,3,5,.600,0,5,5,0,1,0,0,4,11,7.4,-12,P.J. Hairston
+2016-01-09,23-016,CHO,AWAY,LAC,L (-14),1,21:00,1,4,.250,0,1,.000,0,0,,0,3,3,0,1,0,0,1,2,1.1,-18,P.J. Hairston
+2016-01-10,23-017,CHO,AWAY,DEN,L (-3),1,18:16,3,8,.375,1,5,.200,0,0,,0,3,3,1,0,0,0,4,7,2.6,-13,P.J. Hairston
+2016-01-13,23-020,CHO,HOME,ATL,W (+23),1,25:49,1,6,.167,1,5,.200,2,2,1.000,2,3,5,0,0,0,3,4,5,-1.1,+18,P.J. Hairston
+2016-01-15,23-022,CHO,AWAY,NOP,L (-2),1,26:58,3,6,.500,1,3,.333,0,0,,0,2,2,0,0,0,0,2,7,3.8,0,P.J. Hairston
+2016-01-16,23-023,CHO,HOME,MIL,L (-13),1,26:30,4,10,.400,1,5,.200,2,4,.500,2,2,4,2,0,0,1,2,11,6.4,-12,P.J. Hairston
+2016-01-18,23-025,CHO,HOME,UTA,W (+5),1,19:07,0,2,.000,0,1,.000,0,0,,0,6,6,0,0,1,0,2,0,0.3,+10,P.J. Hairston
+2016-01-20,23-027,CHO,AWAY,OKC,L (-14),1,22:02,5,11,.455,1,4,.250,0,0,,0,2,2,0,2,0,1,3,11,5.7,-19,P.J. Hairston
+2016-01-22,23-029,CHO,AWAY,ORL,W (+4),1,18:01,3,5,.600,1,2,.500,0,0,,0,1,1,1,3,0,0,2,7,7.9,-17,P.J. Hairston
+2016-01-23,23-030,CHO,HOME,NYK,W (+13),1,34:19,7,14,.500,2,7,.286,4,4,1.000,1,9,10,1,2,0,1,4,20,16.5,+14,P.J. Hairston
+2016-01-25,23-032,CHO,AWAY,SAC,W (+1),1,32:45,2,7,.286,1,4,.250,0,1,.000,0,2,2,0,2,0,0,3,5,1.9,-4,P.J. Hairston
+2016-01-27,23-034,CHO,AWAY,UTA,L (-29),1,28:00,1,5,.200,0,2,.000,2,2,1.000,0,3,3,0,0,0,1,2,4,0.0,-5,P.J. Hairston
+2016-01-29,23-036,CHO,AWAY,POR,L (-18),0,14:27,0,2,.000,0,1,.000,0,0,,0,2,2,0,0,1,1,0,0,-1.1,-16,P.J. Hairston
+2016-01-31,23-038,CHO,AWAY,LAL,W (+19),0,20:03,3,8,.375,3,6,.500,0,0,,1,2,3,1,2,0,1,2,9,6.8,-5,P.J. Hairston
+2016-02-03,23-041,CHO,HOME,CLE,W (+9),0,11:09,1,3,.333,1,3,.333,0,0,,0,0,0,1,0,0,1,1,3,0.6,+2,P.J. Hairston
+2016-02-05,23-043,CHO,HOME,MIA,L (-3),0,13:24,0,1,.000,0,1,.000,0,0,,0,2,2,0,0,0,1,2,0,-1.9,0,P.J. Hairston
+2016-02-10,23-048,CHO,AWAY,IND,W (+22),0,1:37,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,P.J. Hairston
+2016-02-19,23-057,MEM,HOME,MIN,W (+5),0,7:21,1,3,.333,0,2,.000,0,0,,0,0,0,0,0,0,1,1,2,-1.1,-6,P.J. Hairston
+2016-02-21,23-059,MEM,AWAY,TOR,L (-13),1,16:14,1,5,.200,0,2,.000,0,0,,0,1,1,0,0,0,2,3,2,-4.0,-8,P.J. Hairston
+2016-02-24,23-062,MEM,HOME,LAL,W (+9),1,22:30,5,9,.556,4,7,.571,3,4,.750,0,2,2,2,1,0,0,1,17,14.9,+18,P.J. Hairston
+2016-02-26,23-064,MEM,AWAY,LAL,W (+17),1,30:28,8,13,.615,5,9,.556,0,0,,0,4,4,0,1,0,3,4,21,12.7,+6,P.J. Hairston
+2016-02-27,23-065,MEM,AWAY,PHO,L (-5),1,23:57,1,5,.200,1,3,.333,1,2,.500,0,2,2,0,0,1,0,1,4,1.4,-9,P.J. Hairston
+2016-02-29,23-067,MEM,AWAY,DEN,W (+7),1,31:33,5,10,.500,2,6,.333,2,3,.667,0,4,4,0,1,1,0,1,14,11.1,+11,P.J. Hairston
+2016-03-02,23-069,MEM,HOME,SAC,W (+6),1,22:55,2,8,.250,0,3,.000,2,2,1.000,1,2,3,2,0,1,2,3,6,1.4,-8,P.J. Hairston
+2016-03-04,23-071,MEM,HOME,UTA,W (+6),1,17:03,1,6,.167,0,2,.000,0,0,,1,2,3,0,1,0,1,3,2,-1.7,-25,P.J. Hairston
+2016-03-06,23-073,MEM,HOME,PHO,L (-9),1,19:03,1,4,.250,0,1,.000,0,0,,0,0,0,0,0,0,2,2,2,-3.2,-8,P.J. Hairston
+2016-03-07,23-074,MEM,AWAY,CLE,W (+3),1,35:23,2,9,.222,1,6,.167,4,5,.800,1,2,3,0,0,1,1,3,9,2.9,+7,P.J. Hairston
+2016-03-09,23-076,MEM,AWAY,BOS,L (-20),0,24:33,1,8,.125,0,4,.000,0,0,,2,1,3,0,1,0,0,0,2,-0.5,-23,P.J. Hairston
+2016-03-11,23-078,MEM,HOME,NOP,W (+7),0,24:02,4,10,.400,0,1,.000,0,1,.000,1,3,4,1,1,0,1,5,8,2.5,-8,P.J. Hairston
+2016-03-12,23-079,MEM,AWAY,ATL,L (-12),0,20:09,4,11,.364,0,6,.000,1,2,.500,1,4,5,1,0,0,0,0,9,5.1,+1,P.J. Hairston
+2016-03-14,23-081,MEM,AWAY,HOU,L (-49),0,17:50,3,8,.375,0,3,.000,0,0,,0,2,2,2,0,0,2,2,6,0.8,-11,P.J. Hairston
+2016-03-22,23-089,MEM,AWAY,LAL,L (-7),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,P.J. Hairston
+2016-03-25,23-092,MEM,AWAY,SAS,L (-6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,P.J. Hairston
+2016-03-28,23-095,MEM,HOME,SAS,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,P.J. Hairston
+2016-03-30,23-097,MEM,HOME,DEN,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,P.J. Hairston
+2016-04-01,23-099,MEM,HOME,TOR,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,P.J. Hairston
+2016-04-03,23-101,MEM,AWAY,ORL,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,P.J. Hairston
+2016-04-08,23-106,MEM,AWAY,DAL,L (-10),0,5:37,1,3,.333,0,2,.000,0,0,,0,0,0,0,1,0,0,1,2,0.9,+5,P.J. Hairston
+2016-04-09,23-107,MEM,HOME,GSW,L (-1),0,16:00,2,5,.400,0,2,.000,3,3,1.000,0,4,4,1,0,0,0,1,7,5.8,+15,P.J. Hairston
+2016-04-12,23-110,MEM,AWAY,LAC,L (-26),0,23:42,2,7,.286,2,5,.400,0,0,,0,3,3,0,0,0,2,0,6,0.8,-14,P.J. Hairston
+2016-04-13,23-111,MEM,AWAY,GSW,L (-21),0,17:08,2,8,.250,1,5,.200,0,0,,0,3,3,0,1,0,0,0,5,2.1,-7,P.J. Hairston
+2015-12-02,31-053,WAS,HOME,LAL,L (-4),0,10:50,0,0,,0,0,,0,0,,1,0,1,0,0,0,1,1,0,-0.7,-6,Ryan Hollins
+2015-12-04,31-055,WAS,HOME,PHO,W (+3),1,12:49,1,1,1.000,0,0,,0,0,,2,2,4,0,0,0,2,2,2,0.9,-1,Ryan Hollins
+2015-12-06,31-057,WAS,HOME,DAL,L (-12),1,4:34,0,2,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-1.1,0,Ryan Hollins
+2015-12-07,31-058,WAS,AWAY,MIA,W (+11),1,14:25,2,3,.667,0,0,,0,0,,4,1,5,0,0,1,0,1,4,6.1,-1,Ryan Hollins
+2015-12-11,31-062,WAS,AWAY,NOP,L (-2),0,5:13,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,-10,Ryan Hollins
+2015-12-29,31-080,MEM,HOME,MIA,W (+9),0,8:42,0,0,,0,0,,0,0,,1,0,1,1,1,1,1,4,0,0.5,-6,Ryan Hollins
+2016-01-02,31-084,MEM,AWAY,UTA,L (-5),0,6:00,0,1,.000,0,0,,0,0,,2,0,2,0,0,1,0,0,0,1.4,-10,Ryan Hollins
+2016-01-04,31-086,MEM,AWAY,POR,W (+13),0,1:04,0,1,.000,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.0,0,Ryan Hollins
+2016-01-06,31-088,MEM,AWAY,OKC,L (-18),0,12:02,3,3,1.000,0,0,,1,1,1.000,1,2,3,1,0,2,0,1,7,9.1,-9,Ryan Hollins
+2016-01-21,31-103,MEM,AWAY,DEN,W (+1),0,12:46,2,3,.667,0,0,,0,0,,0,4,4,0,0,1,0,3,4,3.4,-12,Ryan Hollins
+2016-01-23,31-105,MEM,AWAY,MIN,L (-5),0,19:44,2,4,.500,0,0,,1,2,.500,2,0,2,1,1,0,2,3,5,2.5,-2,Ryan Hollins
+2016-01-25,31-107,MEM,HOME,ORL,W (+6),0,7:04,2,3,.667,0,0,,0,0,,1,2,3,0,0,0,0,0,4,4.0,+4,Ryan Hollins
+2016-01-28,31-110,MEM,HOME,MIL,W (+20),0,17:50,2,4,.500,0,0,,1,2,.500,2,2,4,1,0,1,0,4,5,4.4,+2,Ryan Hollins
+2016-01-30,31-112,MEM,HOME,SAC,W (+4),0,9:55,0,0,,0,0,,3,4,.750,0,3,3,0,0,2,1,3,3,2.7,-6,Ryan Hollins
+2016-02-01,31-114,MEM,AWAY,NOP,W (+15),0,5:11,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,-9,Ryan Hollins
+2016-02-05,31-118,MEM,AWAY,NYK,W (+6),0,16:31,2,2,1.000,0,0,,4,4,1.000,1,1,2,1,0,1,1,1,8,8.4,+2,Ryan Hollins
+2016-02-06,31-119,MEM,HOME,DAL,L (-4),0,8:56,1,1,1.000,0,0,,2,2,1.000,0,2,2,0,0,0,0,2,4,3.5,-5,Ryan Hollins
+2016-02-08,31-121,MEM,HOME,POR,L (-6),0,5:43,0,1,.000,0,0,,0,0,,0,2,2,1,0,0,0,1,0,0.2,+2,Ryan Hollins
+2016-02-10,31-123,MEM,AWAY,BRK,W (+19),0,25:22,3,6,.500,0,0,,0,0,,3,1,4,1,0,0,2,4,6,2.5,-1,Ryan Hollins
+2016-03-02,31-144,MEM,HOME,SAC,W (+6),0,1:53,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,+1,Ryan Hollins
+2016-03-04,31-146,MEM,HOME,UTA,W (+6),0,10:58,0,0,,0,0,,2,2,1.000,1,0,1,0,0,1,1,1,2,2.0,+14,Ryan Hollins
+2016-03-06,31-148,MEM,HOME,PHO,L (-9),0,12:16,0,3,.000,0,0,,2,4,.500,2,0,2,0,0,1,0,3,2,0.0,-19,Ryan Hollins
+2016-03-07,31-149,MEM,AWAY,CLE,W (+3),1,21:55,2,2,1.000,0,0,,0,0,,0,2,2,0,0,1,1,5,4,1.7,-12,Ryan Hollins
+2016-03-09,31-151,MEM,AWAY,BOS,L (-20),1,24:34,3,5,.600,0,0,,1,2,.500,2,4,6,0,0,0,1,0,7,5.9,-14,Ryan Hollins
+2016-03-11,31-153,MEM,HOME,NOP,W (+7),1,12:34,2,3,.667,0,0,,0,2,.000,1,1,2,0,0,3,2,2,4,2.2,-9,Ryan Hollins
+2016-03-12,31-154,MEM,AWAY,ATL,L (-12),1,19:51,1,2,.500,0,0,,0,0,,1,3,4,1,0,0,2,1,2,0.9,0,Ryan Hollins
+2016-03-14,31-156,MEM,AWAY,HOU,L (-49),1,25:56,4,7,.571,0,0,,2,4,.500,4,4,8,0,0,0,1,3,10,7.7,-35,Ryan Hollins
+2016-03-16,31-158,MEM,HOME,MIN,L (-6),1,24:14,6,8,.750,0,0,,0,0,,5,0,5,1,1,2,1,2,12,13.6,-10,Ryan Hollins
+2016-03-17,31-159,MEM,AWAY,MIL,L (-10),1,24:58,2,5,.400,0,0,,2,2,1.000,3,7,10,0,0,0,2,1,6,5.1,+4,Ryan Hollins
+2016-03-19,31-161,MEM,HOME,LAC,W (+11),1,13:44,1,1,1.000,0,0,,2,4,.500,2,1,3,0,1,1,0,1,4,5.9,+14,Ryan Hollins
+2016-03-21,31-163,MEM,AWAY,PHO,W (+6),1,19:07,4,4,1.000,0,0,,1,1,1.000,2,1,3,0,0,0,0,3,9,8.3,-2,Ryan Hollins
+2016-03-22,31-164,MEM,AWAY,LAL,L (-7),0,4:18,0,0,,0,0,,0,0,,0,2,2,0,0,0,1,1,0,-0.8,-2,Ryan Hollins
+2016-03-25,31-167,MEM,AWAY,SAS,L (-6),0,12:21,0,0,,0,0,,0,0,,1,0,1,0,1,0,0,4,0,0.1,-1,Ryan Hollins
+2016-03-28,31-170,MEM,HOME,SAS,L (-14),0,20:24,2,2,1.000,0,0,,2,6,.333,2,1,3,1,1,1,1,2,6,6.1,-10,Ryan Hollins
+2016-03-30,31-172,MEM,HOME,DEN,L (-4),0,4:51,1,1,1.000,0,0,,0,0,,0,2,2,0,0,0,0,0,2,2.3,+3,Ryan Hollins
+2016-04-03,31-176,MEM,AWAY,ORL,L (-12),0,0:46,0,0,,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0.7,0,Ryan Hollins
+2016-04-05,31-178,MEM,HOME,CHI,W (+16),0,0:20,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,Ryan Hollins
+2015-10-28,30-025,MEM,HOME,CLE,L (-30),1,31:16,2,9,.222,1,4,.250,2,2,1.000,0,2,2,2,2,1,0,0,7,6.2,-12,Courtney Lee
+2015-10-29,30-026,MEM,AWAY,IND,W (+9),1,29:14,4,9,.444,0,4,.000,2,2,1.000,1,1,2,1,1,0,1,1,10,6.6,+9,Courtney Lee
+2015-10-31,30-028,MEM,HOME,BRK,W (+10),1,33:38,4,9,.444,1,3,.333,6,6,1.000,1,0,1,1,2,0,1,0,15,12.7,+5,Courtney Lee
+2015-11-02,30-030,MEM,AWAY,GSW,L (-50),1,24:37,2,11,.182,0,5,.000,2,3,.667,1,2,3,0,1,0,0,3,6,-0.2,-44,Courtney Lee
+2015-11-03,30-031,MEM,AWAY,SAC,W (+14),1,30:33,6,12,.500,0,2,.000,2,2,1.000,1,4,5,1,1,0,2,4,14,8.0,+8,Courtney Lee
+2015-11-05,30-033,MEM,AWAY,POR,L (-19),1,30:06,6,10,.600,3,6,.500,3,4,.750,1,1,2,0,1,0,0,0,18,15.0,-13,Courtney Lee
+2015-11-07,30-035,MEM,AWAY,UTA,L (-10),1,26:44,2,10,.200,1,3,.333,1,1,1.000,1,4,5,2,0,0,0,2,6,2.3,-15,Courtney Lee
+2015-11-09,30-037,MEM,AWAY,LAC,L (-2),1,29:30,2,6,.333,0,1,.000,2,2,1.000,0,2,2,5,3,0,1,5,6,6.7,+11,Courtney Lee
+2015-11-11,30-039,MEM,HOME,GSW,L (-16),1,31:44,1,7,.143,0,3,.000,1,1,1.000,1,5,6,1,3,2,2,1,3,3.4,-6,Courtney Lee
+2015-11-13,30-041,MEM,HOME,POR,W (+1),1,25:53,2,8,.250,1,6,.167,2,2,1.000,0,2,2,1,0,0,0,0,7,3.5,+5,Courtney Lee
+2015-11-15,30-043,MEM,AWAY,MIN,W (+8),0,28:12,3,7,.429,1,1,1.000,0,0,,0,6,6,0,1,1,0,2,7,6.0,+13,Courtney Lee
+2015-11-16,30-044,MEM,HOME,OKC,W (+8),0,17:16,2,3,.667,0,0,,2,2,1.000,0,1,1,2,1,0,1,1,6,6.0,+14,Courtney Lee
+2015-11-20,30-048,MEM,HOME,HOU,W (+12),0,31:59,3,7,.429,0,3,.000,0,0,,0,4,4,1,1,1,2,3,6,2.7,+16,Courtney Lee
+2015-11-21,30-049,MEM,AWAY,SAS,L (-10),0,34:30,5,10,.500,1,2,.500,4,4,1.000,1,0,1,0,2,0,3,2,15,8.9,-10,Courtney Lee
+2015-11-24,30-052,MEM,HOME,DAL,W (+14),0,17:55,0,5,.000,0,1,.000,0,0,,0,2,2,0,0,0,0,1,0,-3.3,-2,Courtney Lee
+2015-11-25,30-053,MEM,AWAY,HOU,W (+9),0,26:43,8,14,.571,0,3,.000,1,2,.500,0,1,1,2,2,0,0,3,17,12.5,+1,Courtney Lee
+2015-11-27,30-055,MEM,HOME,ATL,L (-15),0,25:31,6,10,.600,2,3,.667,0,0,,1,3,4,1,0,0,0,0,14,11.7,-7,Courtney Lee
+2015-11-29,30-057,MEM,HOME,PHI,W (+8),0,16:33,1,2,.500,0,0,,1,1,1.000,0,1,1,1,1,0,4,0,3,0.0,-4,Courtney Lee
+2015-12-01,30-059,MEM,AWAY,NOP,W (+9),0,33:39,6,12,.500,0,0,,1,1,1.000,2,2,4,1,1,0,1,3,13,8.5,+15,Courtney Lee
+2015-12-03,30-061,MEM,HOME,SAS,L (-20),0,31:18,3,9,.333,0,2,.000,0,0,,0,1,1,2,0,0,1,0,6,1.6,-15,Courtney Lee
+2015-12-06,30-064,MEM,HOME,PHO,W (+2),0,28:29,7,12,.583,2,2,1.000,2,2,1.000,0,4,4,6,0,1,2,0,18,16.5,+5,Courtney Lee
+2015-12-08,30-066,MEM,HOME,OKC,L (-37),0,29:49,4,13,.308,1,4,.250,0,0,,0,2,2,0,1,1,2,1,9,1.4,-21,Courtney Lee
+2015-12-09,30-067,MEM,AWAY,DET,W (+1),0,29:04,6,9,.667,1,2,.500,1,1,1.000,1,1,2,1,0,0,1,2,14,10.0,-4,Courtney Lee
+2015-12-11,30-069,MEM,HOME,CHO,L (-24),0,25:44,4,9,.444,2,4,.500,2,2,1.000,0,2,2,1,0,0,0,1,12,8.2,-15,Courtney Lee
+2015-12-13,30-071,MEM,AWAY,MIA,L (-3),1,38:27,4,8,.500,1,2,.500,0,0,,0,1,1,2,4,0,0,4,9,9.1,+7,Courtney Lee
+2015-12-14,30-072,MEM,HOME,WAS,W (+17),1,38:37,6,11,.545,3,4,.750,0,0,,0,3,3,0,0,0,0,3,15,9.4,+17,Courtney Lee
+2015-12-16,30-074,MEM,AWAY,CHI,L (-13),1,36:40,8,11,.727,2,2,1.000,0,0,,0,7,7,6,2,0,1,2,18,20.0,-11,Courtney Lee
+2015-12-18,30-076,MEM,AWAY,DAL,L (-9),1,28:47,2,8,.250,1,3,.333,3,3,1.000,0,0,0,2,1,0,2,1,8,3.2,-4,Courtney Lee
+2015-12-19,30-077,MEM,HOME,IND,W (+12),1,30:29,1,6,.167,0,3,.000,0,0,,0,4,4,0,0,1,3,1,2,-3.3,+11,Courtney Lee
+2015-12-22,30-080,MEM,AWAY,PHI,W (+14),1,34:08,6,12,.500,0,0,,3,3,1.000,0,1,1,2,2,0,1,1,15,11.3,+28,Courtney Lee
+2015-12-23,30-081,MEM,AWAY,WAS,L (-9),1,26:31,3,6,.500,1,2,.500,1,2,.500,0,1,1,1,2,0,0,1,8,7.2,-10,Courtney Lee
+2015-12-26,30-084,MEM,AWAY,CHO,L (-6),1,27:13,2,5,.400,1,3,.333,0,1,.000,0,2,2,1,0,1,0,2,5,3.1,-16,Courtney Lee
+2015-12-27,30-085,MEM,HOME,LAL,W (+16),1,24:00,5,7,.714,1,2,.500,2,2,1.000,1,1,2,3,1,0,0,1,13,13.8,+14,Courtney Lee
+2015-12-29,30-087,MEM,HOME,MIA,W (+9),1,26:44,3,5,.600,1,2,.500,2,3,.667,1,3,4,1,0,0,0,0,9,8.6,+2,Courtney Lee
+2016-01-02,30-091,MEM,AWAY,UTA,L (-5),1,41:20,5,9,.556,2,3,.667,5,6,.833,0,2,2,2,3,0,1,3,17,15.1,-15,Courtney Lee
+2016-01-04,30-093,MEM,AWAY,POR,W (+13),1,36:40,6,9,.667,0,1,.000,4,4,1.000,1,2,3,3,2,0,0,1,16,17.1,+20,Courtney Lee
+2016-01-06,30-095,MEM,AWAY,OKC,L (-18),1,21:28,0,6,.000,0,3,.000,0,0,,0,2,2,0,0,1,1,1,0,-4.3,-15,Courtney Lee
+2016-01-08,30-097,MEM,HOME,DEN,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Courtney Lee
+2016-01-10,30-099,MEM,HOME,BOS,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Courtney Lee
+2016-01-12,30-101,MEM,HOME,HOU,L (-16),1,37:27,6,12,.500,3,5,.600,1,3,.333,2,1,3,1,1,0,3,2,16,8.8,+1,Courtney Lee
+2016-01-14,30-103,MEM,HOME,DET,W (+2),1,28:49,1,7,.143,0,2,.000,6,7,.857,0,2,2,2,0,0,2,2,8,2.3,0,Courtney Lee
+2016-01-16,30-105,MEM,HOME,NYK,W (+8),1,25:40,2,3,.667,1,2,.500,1,1,1.000,0,0,0,2,1,1,1,1,6,6.4,+3,Courtney Lee
+2016-01-18,30-107,MEM,HOME,NOP,W (+2),1,32:30,6,11,.545,2,4,.500,2,3,.667,0,4,4,1,1,0,0,2,16,12.4,+7,Courtney Lee
+2016-01-21,30-110,MEM,AWAY,DEN,W (+1),1,35:13,4,6,.667,0,2,.000,2,2,1.000,0,4,4,0,1,0,1,2,10,7.8,+11,Courtney Lee
+2016-01-23,30-112,MEM,AWAY,MIN,L (-5),1,24:17,3,5,.600,2,2,1.000,0,0,,1,2,3,0,1,0,0,1,8,7.6,-4,Courtney Lee
+2016-01-25,30-114,MEM,HOME,ORL,W (+6),1,34:14,6,12,.500,3,6,.500,1,2,.500,0,0,0,2,0,1,1,1,16,10.3,+16,Courtney Lee
+2016-01-28,30-117,MEM,HOME,MIL,W (+20),1,24:19,5,10,.500,2,5,.400,1,1,1.000,0,0,0,1,0,1,0,2,13,8.6,+11,Courtney Lee
+2016-01-30,30-119,MEM,HOME,SAC,W (+4),1,33:43,5,5,1.000,3,3,1.000,5,6,.833,0,1,1,1,2,0,2,1,18,16.7,+12,Courtney Lee
+2016-02-01,30-121,MEM,AWAY,NOP,W (+15),1,27:35,3,6,.500,1,3,.333,0,0,,1,0,1,0,0,2,1,1,7,4.7,+4,Courtney Lee
+2016-02-05,30-125,MEM,AWAY,NYK,W (+6),1,22:21,1,6,.167,1,3,.333,0,0,,0,0,0,2,0,0,0,1,3,0.2,-3,Courtney Lee
+2016-02-06,30-126,MEM,HOME,DAL,L (-4),1,28:30,4,6,.667,2,3,.667,0,1,.000,0,1,1,4,1,1,0,3,10,10.6,+7,Courtney Lee
+2016-02-08,30-128,MEM,HOME,POR,L (-6),1,24:40,1,4,.250,1,2,.500,0,0,,0,2,2,1,0,0,4,1,3,-2.5,-3,Courtney Lee
+2016-02-10,30-130,MEM,AWAY,BRK,W (+19),1,28:58,5,10,.500,0,2,.000,0,2,.000,0,0,0,4,3,0,1,3,10,7.8,+19,Courtney Lee
+2016-02-21,30-141,CHO,AWAY,BRK,W (+8),1,21:25,2,4,.500,1,1,1.000,0,0,,0,1,1,1,0,0,1,3,5,1.8,-8,Courtney Lee
+2016-02-24,30-144,CHO,AWAY,CLE,L (-11),1,29:39,4,7,.571,0,3,.000,0,0,,1,4,5,2,1,1,0,2,8,8.9,-21,Courtney Lee
+2016-02-26,30-146,CHO,AWAY,IND,W (+1),1,39:05,3,10,.300,1,5,.200,0,0,,0,4,4,2,3,0,1,1,7,5.4,+1,Courtney Lee
+2016-02-28,30-148,CHO,AWAY,ATL,L (-11),1,22:11,3,6,.500,1,2,.500,2,2,1.000,1,2,3,2,1,0,0,1,9,9.3,-9,Courtney Lee
+2016-03-01,30-150,CHO,HOME,PHO,W (+34),1,23:39,3,5,.600,1,2,.500,1,1,1.000,0,1,1,2,1,0,2,3,8,5.2,+34,Courtney Lee
+2016-03-02,30-151,CHO,AWAY,PHI,W (+20),1,28:30,2,5,.400,1,2,.500,4,4,1.000,0,3,3,3,1,0,2,4,9,6.7,+13,Courtney Lee
+2016-03-04,30-153,CHO,HOME,IND,W (+7),1,34:22,1,4,.250,1,2,.500,1,2,.500,0,2,2,1,0,1,1,1,4,1.8,0,Courtney Lee
+2016-03-07,30-156,CHO,HOME,MIN,W (+5),1,27:04,2,7,.286,0,1,.000,0,0,,0,3,3,2,0,0,1,2,4,0.4,-11,Courtney Lee
+2016-03-09,30-158,CHO,HOME,NOP,W (+9),1,29:05,6,12,.500,4,5,.800,0,0,,1,5,6,1,1,0,0,2,16,13.1,+2,Courtney Lee
+2016-03-11,30-160,CHO,HOME,DET,W (+15),1,34:40,7,9,.778,0,0,,1,1,1.000,0,6,6,1,1,1,1,4,15,13.1,+23,Courtney Lee
+2016-03-12,30-161,CHO,HOME,HOU,W (+16),1,25:47,5,9,.556,2,4,.500,0,0,,0,2,2,1,0,0,0,0,12,9.0,+9,Courtney Lee
+2016-03-14,30-163,CHO,HOME,DAL,L (-11),1,30:33,4,7,.571,2,4,.500,2,2,1.000,1,2,3,0,2,0,1,1,12,10.6,-10,Courtney Lee
+2016-03-16,30-165,CHO,HOME,ORL,W (+8),1,27:49,2,9,.222,1,5,.200,1,1,1.000,0,1,1,5,0,1,2,2,6,2.2,+20,Courtney Lee
+2016-03-17,30-166,CHO,AWAY,MIA,W (+3),1,37:04,3,6,.500,2,3,.667,5,6,.833,0,3,3,1,0,0,1,4,13,8.6,-8,Courtney Lee
+2016-03-19,30-168,CHO,HOME,DEN,L (-8),1,28:44,3,10,.300,1,4,.250,0,0,,1,3,4,3,1,2,1,2,7,5.5,+5,Courtney Lee
+2016-03-21,30-170,CHO,HOME,SAS,W (+3),1,33:03,8,13,.615,1,2,.500,0,0,,0,2,2,2,4,0,1,1,17,15.7,+12,Courtney Lee
+2016-03-22,30-171,CHO,AWAY,BRK,W (+5),1,27:19,3,7,.429,1,3,.333,0,0,,0,5,5,3,3,0,0,2,7,9.1,+20,Courtney Lee
+2016-03-25,30-174,CHO,AWAY,DET,L (-7),1,27:34,3,6,.500,2,4,.500,0,0,,0,1,1,1,1,0,1,1,8,5.6,-14,Courtney Lee
+2016-03-26,30-175,CHO,AWAY,MIL,W (+24),1,34:44,5,9,.556,2,4,.500,0,0,,1,3,4,5,0,1,0,1,12,13.1,+18,Courtney Lee
+2016-03-29,30-178,CHO,AWAY,PHI,W (+15),1,36:57,6,10,.600,2,2,1.000,1,1,1.000,0,6,6,3,2,1,3,1,15,13.6,+12,Courtney Lee
+2016-04-01,30-181,CHO,HOME,PHI,W (+9),1,36:15,1,7,.143,0,2,.000,2,2,1.000,2,3,5,2,2,0,1,3,4,3.0,+10,Courtney Lee
+2016-04-03,30-183,CHO,AWAY,CLE,L (-9),1,37:56,5,13,.385,1,3,.333,0,0,,1,0,1,3,3,1,0,2,11,9.6,-6,Courtney Lee
+2016-04-05,30-185,CHO,AWAY,TOR,L (-6),1,36:15,5,11,.455,0,3,.000,1,2,.500,0,2,2,2,1,1,1,5,11,5.6,-13,Courtney Lee
+2016-04-06,30-186,CHO,AWAY,NYK,W (+14),1,35:51,2,4,.500,0,1,.000,0,0,,0,5,5,6,0,1,0,0,4,8.4,+6,Courtney Lee
+2016-04-08,30-188,CHO,HOME,BRK,W (+14),1,24:22,3,4,.750,0,1,.000,0,0,,0,2,2,2,1,0,0,2,6,6.6,+15,Courtney Lee
+2016-04-10,30-190,CHO,AWAY,WAS,L (-15),1,28:26,2,11,.182,2,6,.333,2,2,1.000,1,2,3,0,2,1,1,3,8,2.9,-21,Courtney Lee
+2016-04-11,30-191,CHO,AWAY,BOS,W (+14),1,32:44,2,6,.333,1,2,.500,0,0,,0,3,3,2,0,0,1,2,5,2.1,+13,Courtney Lee
+2016-04-13,30-193,CHO,HOME,ORL,W (+14),1,14:08,3,9,.333,1,3,.333,0,0,,0,1,1,2,2,0,0,0,7,5.6,+13,Courtney Lee
+2015-11-11,21-171,MEM,HOME,GSW,L (-16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jarell Martin
+2015-12-18,21-208,MEM,AWAY,DAL,L (-9),0,3:28,0,2,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-1.4,+6,Jarell Martin
+2015-12-27,21-217,MEM,HOME,LAL,W (+16),0,5:49,1,3,.333,0,0,,0,0,,0,0,0,0,0,0,0,2,2,-0.5,-6,Jarell Martin
+2016-01-18,21-239,MEM,HOME,NOP,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jarell Martin
+2016-02-24,21-276,MEM,HOME,LAL,W (+9),0,2:56,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-8,Jarell Martin
+2016-02-29,21-281,MEM,AWAY,DEN,W (+7),0,11:39,1,2,.500,0,0,,0,0,,1,3,4,0,0,0,0,1,2,2.2,+3,Jarell Martin
+2016-03-02,21-283,MEM,HOME,SAC,W (+6),0,10:02,1,1,1.000,0,0,,0,0,,4,4,8,0,0,1,1,0,2,5.4,+7,Jarell Martin
+2016-03-04,21-285,MEM,HOME,UTA,W (+6),0,3:11,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+3,Jarell Martin
+2016-03-06,21-287,MEM,HOME,PHO,L (-9),0,6:32,0,2,.000,0,0,,0,0,,0,2,2,0,0,0,1,2,0,-2.6,-1,Jarell Martin
+2016-03-07,21-288,MEM,AWAY,CLE,W (+3),0,18:30,1,4,.250,0,0,,0,0,,2,1,3,2,0,0,2,4,2,-0.9,-8,Jarell Martin
+2016-03-09,21-290,MEM,AWAY,BOS,L (-20),0,23:02,7,10,.700,0,0,,2,3,.667,4,2,6,1,0,1,1,5,16,13.2,+6,Jarell Martin
+2016-03-11,21-292,MEM,HOME,NOP,W (+7),0,21:16,3,9,.333,0,0,,0,2,.000,0,2,2,2,2,1,0,1,6,4.4,-2,Jarell Martin
+2016-03-12,21-293,MEM,AWAY,ATL,L (-12),0,19:41,3,10,.300,0,0,,4,5,.800,3,1,4,0,1,0,2,2,10,4.4,+4,Jarell Martin
+2016-03-14,21-295,MEM,AWAY,HOU,L (-49),0,29:17,4,12,.333,0,1,.000,9,10,.900,2,6,8,1,0,0,0,3,17,12.5,-18,Jarell Martin
+2016-03-16,21-297,MEM,HOME,MIN,L (-6),0,23:33,5,9,.556,0,1,.000,2,3,.667,3,5,8,1,0,1,0,1,12,11.9,-2,Jarell Martin
+2016-03-17,21-298,MEM,AWAY,MIL,L (-10),0,18:04,2,7,.286,0,0,,1,2,.500,2,1,3,1,0,0,2,2,5,0.1,-14,Jarell Martin
+2016-03-19,21-300,MEM,HOME,LAC,W (+11),0,12:12,3,7,.429,0,0,,0,0,,6,1,7,1,0,0,2,5,6,3.5,-14,Jarell Martin
+2016-03-21,21-302,MEM,AWAY,PHO,W (+6),0,4:55,0,1,.000,0,0,,2,2,1.000,0,0,0,0,0,0,0,1,2,0.9,-10,Jarell Martin
+2016-03-22,21-303,MEM,AWAY,LAL,L (-7),0,12:11,2,3,.667,0,0,,2,3,.667,1,1,2,0,2,0,2,3,6,4.1,+5,Jarell Martin
+2016-03-25,21-306,MEM,AWAY,SAS,L (-6),0,15:42,1,1,1.000,0,0,,1,2,.500,1,1,2,2,0,0,0,1,3,4.3,-3,Jarell Martin
+2016-03-28,21-309,MEM,HOME,SAS,L (-14),0,20:17,3,6,.500,0,0,,1,2,.500,1,4,5,0,0,1,1,3,7,4.0,+4,Jarell Martin
+2016-03-30,21-311,MEM,HOME,DEN,L (-4),0,2:48,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,-4,Jarell Martin
+2016-04-01,21-313,MEM,HOME,TOR,L (-4),0,18:08,1,1,1.000,0,0,,6,8,.750,1,3,4,0,2,1,0,3,8,10.0,+17,Jarell Martin
+2016-04-03,21-315,MEM,AWAY,ORL,L (-12),0,15:36,1,3,.333,0,0,,5,6,.833,2,4,6,1,0,0,1,2,7,6.4,+11,Jarell Martin
+2016-04-05,21-317,MEM,HOME,CHI,W (+16),0,13:38,3,3,1.000,0,0,,1,1,1.000,0,0,0,1,0,0,0,2,7,6.0,+6,Jarell Martin
+2016-04-08,21-320,MEM,AWAY,DAL,L (-10),0,10:36,2,3,.667,0,0,,0,2,.000,2,1,3,0,0,0,1,3,4,1.4,-6,Jarell Martin
+2016-04-09,21-321,MEM,HOME,GSW,L (-1),0,12:40,2,4,.500,0,0,,0,0,,1,0,1,0,0,1,0,3,4,2.2,-2,Jarell Martin
+2016-04-12,21-324,MEM,AWAY,LAC,L (-26),0,19:50,3,4,.750,0,0,,6,7,.857,1,2,3,2,0,0,0,5,12,10.7,-7,Jarell Martin
+2016-04-13,21-325,MEM,AWAY,GSW,L (-21),0,24:00,4,8,.500,0,0,,3,4,.750,2,3,5,0,1,0,3,4,11,5.3,-6,Jarell Martin
+2015-10-30,24-140,SAS,HOME,BRK,W (+27),0,5:50,1,1,1.000,0,0,,0,0,,0,0,0,0,2,0,1,1,2,2.3,+5,Ray McCallum
+2015-11-02,24-143,SAS,AWAY,NYK,W (+10),0,1:22,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-3,Ray McCallum
+2015-11-07,24-148,SAS,HOME,CHO,W (+20),0,3:51,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,-4,Ray McCallum
+2015-11-09,24-150,SAS,AWAY,SAC,W (+18),0,3:28,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,1,0,0,-1.0,-2,Ray McCallum
+2015-11-11,24-152,SAS,AWAY,POR,W (+12),0,0:55,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2,Ray McCallum
+2015-11-14,24-155,SAS,HOME,PHI,W (+9),0,13:18,4,5,.800,0,0,,0,0,,0,3,3,0,0,0,1,0,8,6.0,-13,Ray McCallum
+2015-11-20,24-161,SAS,AWAY,NOP,L (-14),0,6:35,0,1,.000,0,0,,0,0,,0,2,2,0,0,0,0,1,0,-0.5,-3,Ray McCallum
+2015-11-21,24-162,SAS,HOME,MEM,W (+10),0,0:09,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Ray McCallum
+2015-11-23,24-164,SAS,HOME,PHO,W (+14),0,1:28,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3,Ray McCallum
+2015-11-27,24-168,SAS,AWAY,DEN,W (+11),0,6:15,0,2,.000,0,1,.000,0,0,,0,1,1,1,0,0,0,0,0,-0.4,-3,Ray McCallum
+2015-12-07,24-178,SAS,AWAY,PHI,W (+51),0,24:31,1,2,.500,0,1,.000,4,4,1.000,0,5,5,3,0,0,1,0,6,7.6,+23,Ray McCallum
+2015-12-11,24-182,SAS,HOME,LAL,W (+22),1,23:28,2,8,.250,1,2,.500,0,0,,1,2,3,5,0,2,1,3,5,4.2,+9,Ray McCallum
+2015-12-26,24-197,SAS,HOME,DEN,W (+15),0,1:14,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4,Ray McCallum
+2015-12-30,24-201,SAS,HOME,PHO,W (+33),0,8:17,1,2,.500,0,0,,0,0,,0,0,0,3,0,0,1,0,2,2.1,+5,Ray McCallum
+2016-01-04,24-206,SAS,AWAY,MIL,W (+25),0,17:12,1,2,.500,0,1,.000,0,0,,0,1,1,4,0,0,0,0,2,4.1,+6,Ray McCallum
+2016-01-06,24-208,SAS,HOME,UTA,W (+25),0,24:55,4,7,.571,0,1,.000,2,2,1.000,0,0,0,3,2,1,1,3,10,9.3,+12,Ray McCallum
+2016-01-21,24-223,SAS,AWAY,PHO,W (+28),1,28:42,5,10,.500,1,3,.333,0,0,,2,2,4,3,0,0,0,2,11,9.3,+15,Ray McCallum
+2016-01-22,24-224,SAS,AWAY,LAL,W (+13),0,7:29,0,2,.000,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-2.4,-12,Ray McCallum
+2016-01-25,24-227,SAS,AWAY,GSW,L (-30),0,8:58,1,3,.333,0,0,,0,0,,1,0,1,1,0,0,2,1,2,-0.7,-1,Ray McCallum
+2016-01-27,24-229,SAS,HOME,HOU,W (+31),0,9:31,3,5,.600,2,3,.667,0,0,,1,2,3,3,0,0,0,0,8,9.1,+7,Ray McCallum
+2016-02-01,24-234,SAS,HOME,ORL,W (+15),0,10:40,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,1,0,0,0,0.7,+12,Ray McCallum
+2016-02-03,24-236,SAS,HOME,NOP,W (+13),0,0:35,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2,Ray McCallum
+2016-02-05,24-238,SAS,AWAY,DAL,W (+26),0,9:14,2,4,.500,1,1,1.000,0,0,,1,1,2,2,0,0,0,1,5,5.0,+1,Ray McCallum
+2016-02-09,24-242,SAS,AWAY,MIA,W (+18),0,4:38,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-2,Ray McCallum
+2016-02-10,24-243,SAS,AWAY,ORL,W (+2),1,17:29,1,4,.250,0,1,.000,2,2,1.000,0,5,5,1,0,0,1,1,4,2.4,0,Ray McCallum
+2016-02-18,24-251,SAS,AWAY,LAC,L (-19),0,7:53,1,2,.500,0,0,,1,2,.500,0,0,0,1,1,0,0,0,3,3.3,-7,Ray McCallum
+2016-02-19,24-252,SAS,AWAY,LAL,W (+6),0,0:36,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4,Ray McCallum
+2016-02-21,24-254,SAS,AWAY,PHO,W (+7),0,2:31,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-2,Ray McCallum
+2016-02-24,24-257,SAS,AWAY,SAC,W (+16),0,1:25,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1,Ray McCallum
+2016-02-25,24-258,SAS,AWAY,UTA,W (+18),0,1:54,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.0,-1,Ray McCallum
+2016-02-27,24-260,SAS,AWAY,HOU,W (+10),0,1:27,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-7,Ray McCallum
+2016-03-12,24-274,MEM,AWAY,ATL,L (-12),0,26:48,5,10,.500,3,4,.750,0,0,,1,3,4,2,2,1,2,2,13,10.9,+6,Ray McCallum
+2016-03-14,24-276,MEM,AWAY,HOU,L (-49),0,27:54,2,10,.200,1,1,1.000,0,0,,1,1,2,4,2,0,3,2,5,0.8,-16,Ray McCallum
+2016-03-16,24-278,MEM,HOME,MIN,L (-6),0,15:41,2,5,.400,2,4,.500,0,0,,0,0,0,1,0,0,1,1,6,2.6,-8,Ray McCallum
+2016-03-17,24-279,MEM,AWAY,MIL,L (-10),0,15:12,2,5,.400,0,1,.000,0,0,,0,1,1,0,0,0,2,0,4,-0.4,-6,Ray McCallum
+2016-03-19,24-281,MEM,HOME,LAC,W (+11),1,34:58,6,12,.500,2,5,.400,0,0,,0,2,2,3,0,2,2,3,14,8.9,+15,Ray McCallum
+2016-03-21,24-283,MEM,AWAY,PHO,W (+6),1,25:17,3,10,.300,1,3,.333,2,3,.667,0,1,1,7,2,0,1,4,9,7.4,0,Ray McCallum
+2016-03-22,24-284,MEM,AWAY,LAL,L (-7),1,17:29,0,2,.000,0,2,.000,0,0,,0,0,0,3,0,0,1,2,0,-1.1,-5,Ray McCallum
+2016-03-25,24-287,MEM,AWAY,SAS,L (-6),0,20:41,3,10,.300,1,3,.333,0,0,,0,4,4,1,1,0,1,0,7,3.1,0,Ray McCallum
+2016-03-28,24-290,MEM,HOME,SAS,L (-14),0,27:17,5,13,.385,0,2,.000,0,0,,0,1,1,4,0,0,0,1,10,5.6,+7,Ray McCallum
+2016-03-30,24-292,MEM,HOME,DEN,L (-4),0,7:15,0,2,.000,0,1,.000,1,2,.500,0,1,1,2,0,0,0,0,1,0.9,-1,Ray McCallum
+2016-03-17,23-290,MEM,AWAY,MIL,L (-10),0,11:00,0,3,.000,0,1,.000,2,2,1.000,0,1,1,0,2,0,1,2,2,0.4,+4,Xavier Munford
+2016-03-19,23-292,MEM,HOME,LAC,W (+11),0,19:42,3,5,.600,0,1,.000,1,2,.500,2,1,3,1,0,0,0,2,7,5.9,-8,Xavier Munford
+2016-03-21,23-294,MEM,AWAY,PHO,W (+6),0,9:36,1,2,.500,1,2,.500,0,0,,0,1,1,1,1,0,0,1,3,3.6,+3,Xavier Munford
+2016-03-22,23-295,MEM,AWAY,LAL,L (-7),0,3:28,0,0,,0,0,,0,0,,0,0,0,0,1,0,1,1,0,-0.4,+4,Xavier Munford
+2016-03-25,23-298,MEM,AWAY,SAS,L (-6),0,6:47,0,0,,0,0,,0,0,,0,3,3,2,0,0,0,0,0,2.3,-2,Xavier Munford
+2016-03-28,23-301,MEM,HOME,SAS,L (-14),0,6:22,2,4,.500,1,1,1.000,0,1,.000,0,1,1,0,0,1,0,1,5,3.2,+3,Xavier Munford
+2016-03-30,23-303,MEM,HOME,DEN,L (-4),0,11:59,4,8,.500,1,2,.500,0,1,.000,0,3,3,1,0,0,1,2,9,4.4,-1,Xavier Munford
+2016-04-01,23-305,MEM,HOME,TOR,L (-4),0,22:02,5,7,.714,2,3,.667,0,0,,0,2,2,3,1,0,2,0,12,10.8,+7,Xavier Munford
+2016-04-03,23-307,MEM,AWAY,ORL,L (-12),0,33:46,4,8,.500,1,1,1.000,1,2,.500,0,2,2,1,2,0,3,3,10,4.7,-5,Xavier Munford
+2016-04-05,23-309,MEM,HOME,CHI,W (+16),0,17:30,3,7,.429,2,2,1.000,0,0,,0,3,3,0,0,0,2,1,8,2.8,+4,Xavier Munford
+2016-04-08,23-312,MEM,AWAY,DAL,L (-10),0,14:51,0,2,.000,0,2,.000,1,2,.500,0,0,0,1,1,0,1,3,1,-1.3,-3,Xavier Munford
+2016-04-09,23-313,MEM,HOME,GSW,L (-1),0,29:32,3,10,.300,1,3,.333,1,2,.500,1,6,7,4,3,1,0,2,8,10.0,+2,Xavier Munford
+2016-04-12,23-316,MEM,AWAY,LAC,L (-26),0,32:06,5,11,.455,0,3,.000,1,1,1.000,0,3,3,4,0,0,4,4,11,3.4,-17,Xavier Munford
+2016-04-13,23-317,MEM,AWAY,GSW,L (-21),0,25:36,2,10,.200,0,2,.000,0,1,.000,0,2,2,4,2,1,0,3,4,2.3,-16,Xavier Munford
+2015-10-28,24-192,MEM,HOME,CLE,L (-30),0,5:59,1,4,.250,0,0,,1,1,1.000,0,2,2,0,1,0,1,1,3,0.8,-1,Russ Smith
+2015-11-02,24-197,MEM,AWAY,GSW,L (-50),0,6:26,2,5,.400,1,2,.500,0,2,.000,1,0,1,0,0,0,1,1,5,0.8,-10,Russ Smith
+2015-11-03,24-198,MEM,AWAY,SAC,W (+14),0,2:57,0,1,.000,0,1,.000,2,2,1.000,0,0,0,0,0,0,0,0,2,1.3,-3,Russ Smith
+2015-11-05,24-200,MEM,AWAY,POR,L (-19),0,3:34,0,1,.000,0,1,.000,0,0,,0,0,0,2,0,0,1,0,0,-0.3,+5,Russ Smith
+2015-11-11,24-206,MEM,HOME,GSW,L (-16),0,13:00,1,2,.500,0,0,,3,4,.750,0,1,1,0,1,0,1,1,5,3.5,-13,Russ Smith
+2015-11-16,24-211,MEM,HOME,OKC,W (+8),0,0:02,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Russ Smith
+2015-11-20,24-215,MEM,HOME,HOU,W (+12),0,1:24,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1,Russ Smith
+2015-11-24,24-219,MEM,HOME,DAL,W (+14),0,1:26,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+1,Russ Smith
+2015-11-27,24-222,MEM,HOME,ATL,L (-15),0,1:09,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,0,Russ Smith
+2015-12-03,24-228,MEM,HOME,SAS,L (-20),0,4:24,1,2,.500,0,0,,0,0,,0,0,0,1,0,0,1,0,2,0.7,-1,Russ Smith
+2015-12-08,24-233,MEM,HOME,OKC,L (-37),0,8:59,1,1,1.000,0,0,,2,2,1.000,0,3,3,3,0,0,0,0,4,6.7,-4,Russ Smith
+2015-12-11,24-236,MEM,HOME,CHO,L (-24),0,7:24,1,2,.500,0,0,,0,0,,0,0,0,3,1,0,0,2,2,3.3,-6,Russ Smith
+2015-12-14,24-239,MEM,HOME,WAS,W (+17),0,1:24,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,-3,Russ Smith
+2015-12-18,24-243,MEM,AWAY,DAL,L (-9),0,1:12,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.0,+4,Russ Smith
+2015-12-27,24-252,MEM,HOME,LAL,W (+16),0,6:51,0,1,.000,0,0,,0,2,.000,0,2,2,0,2,1,2,0,0,-0.2,-9,Russ Smith
+2015-10-28,25-053,LAC,AWAY,SAC,W (+7),1,19:08,3,5,.600,1,2,.500,0,0,,1,1,2,2,1,0,1,0,7,7.1,+11,Lance Stephenson
+2015-10-29,25-054,LAC,HOME,DAL,W (+16),1,20:52,1,5,.200,1,4,.250,0,0,,0,2,2,2,0,0,1,3,3,-0.3,+7,Lance Stephenson
+2015-10-31,25-056,LAC,HOME,SAC,W (+5),1,24:17,3,6,.500,0,1,.000,1,2,.500,0,2,2,4,0,0,2,3,7,3.8,+21,Lance Stephenson
+2015-11-02,25-058,LAC,HOME,PHO,W (+6),1,18:20,2,6,.333,0,0,,1,1,1.000,1,5,6,2,0,0,1,3,5,3.0,0,Lance Stephenson
+2015-11-04,25-060,LAC,AWAY,GSW,L (-4),1,22:56,2,5,.400,2,2,1.000,1,2,.500,0,5,5,3,0,0,1,3,7,5.3,+15,Lance Stephenson
+2015-11-07,25-063,LAC,HOME,HOU,L (-4),1,21:55,2,6,.333,1,2,.500,2,2,1.000,1,2,3,3,2,0,0,2,7,8.2,-7,Lance Stephenson
+2015-11-09,25-065,LAC,HOME,MEM,W (+2),1,20:56,1,4,.250,1,2,.500,0,0,,1,2,3,1,0,0,4,0,3,-1.4,-4,Lance Stephenson
+2015-11-11,25-067,LAC,AWAY,DAL,L (-10),1,20:30,3,9,.333,0,2,.000,0,0,,2,0,2,0,0,0,1,1,6,0.9,-19,Lance Stephenson
+2015-11-12,25-068,LAC,AWAY,PHO,L (-14),1,30:01,5,13,.385,0,3,.000,1,2,.500,2,3,5,2,2,1,4,2,11,5.1,-9,Lance Stephenson
+2015-11-14,25-070,LAC,HOME,DET,W (+5),0,1:42,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,-8,Lance Stephenson
+2015-11-20,25-076,LAC,AWAY,POR,L (-11),1,18:45,1,2,.500,0,0,,0,2,.000,0,0,0,1,0,1,0,1,2,1.2,-6,Lance Stephenson
+2015-11-22,25-078,LAC,HOME,TOR,L (-11),0,5:25,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,3,0,-0.2,-11,Lance Stephenson
+2015-11-24,25-080,LAC,AWAY,DEN,W (+17),0,14:52,1,1,1.000,0,0,,2,2,1.000,1,1,2,0,1,0,1,1,4,4.3,+5,Lance Stephenson
+2015-11-25,25-081,LAC,HOME,UTA,L (-11),0,11:31,0,1,.000,0,0,,0,0,,1,1,2,0,1,0,1,1,0,-0.1,-8,Lance Stephenson
+2015-11-27,25-083,LAC,HOME,NOP,W (+21),0,26:09,3,7,.429,1,2,.500,3,4,.750,0,5,5,4,0,0,2,1,10,7.8,+11,Lance Stephenson
+2015-11-29,25-085,LAC,HOME,MIN,W (+8),0,19:43,3,6,.500,1,1,1.000,2,2,1.000,2,4,6,3,1,0,0,2,9,10.9,+7,Lance Stephenson
+2015-11-30,25-086,LAC,HOME,POR,W (+15),0,17:22,1,2,.500,0,1,.000,0,0,,0,10,10,3,0,0,2,0,2,4.1,-6,Lance Stephenson
+2015-12-02,25-088,LAC,HOME,IND,L (-12),0,28:09,8,11,.727,3,4,.750,0,0,,1,2,3,3,1,0,2,5,19,14.9,-8,Lance Stephenson
+2015-12-05,25-091,LAC,HOME,ORL,W (+2),0,18:10,0,2,.000,0,1,.000,0,0,,0,2,2,1,2,0,0,2,0,1.1,-7,Lance Stephenson
+2015-12-07,25-093,LAC,AWAY,MIN,W (+4),0,13:07,1,2,.500,1,2,.500,0,0,,0,1,1,0,1,0,1,3,3,1.1,-4,Lance Stephenson
+2015-12-09,25-095,LAC,AWAY,MIL,W (+14),0,7:12,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,-12,Lance Stephenson
+2015-12-10,25-096,LAC,AWAY,CHI,L (-3),0,18:26,2,4,.500,1,2,.500,0,0,,0,3,3,4,1,0,1,2,5,5.9,+8,Lance Stephenson
+2015-12-12,25-098,LAC,AWAY,BRK,W (+5),0,11:33,0,2,.000,0,1,.000,0,0,,0,1,1,2,0,0,1,2,0,-1.5,+1,Lance Stephenson
+2015-12-16,25-102,LAC,HOME,MIL,W (+13),0,18:28,2,2,1.000,0,0,,0,0,,1,1,2,4,1,0,0,3,4,7.0,-1,Lance Stephenson
+2015-12-18,25-104,LAC,AWAY,SAS,L (-8),0,10:19,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,1,0,-2.1,-8,Lance Stephenson
+2015-12-19,25-105,LAC,AWAY,HOU,L (-10),0,20:06,0,2,.000,0,1,.000,0,0,,1,2,3,0,0,0,3,6,0,-5.5,-4,Lance Stephenson
+2015-12-21,25-107,LAC,HOME,OKC,L (-1),0,19:36,5,7,.714,0,2,.000,0,0,,0,4,4,1,1,0,4,3,10,4.8,-2,Lance Stephenson
+2015-12-25,25-111,LAC,AWAY,LAL,W (+10),0,14:53,1,5,.200,1,2,.500,0,0,,0,1,1,1,0,0,0,1,3,0.5,-2,Lance Stephenson
+2015-12-26,25-112,LAC,AWAY,UTA,W (+5),0,9:01,0,2,.000,0,1,.000,0,0,,0,1,1,1,1,0,1,2,0,-1.2,-6,Lance Stephenson
+2015-12-28,25-114,LAC,AWAY,WAS,W (+17),0,3:56,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.0,-9,Lance Stephenson
+2015-12-30,25-116,LAC,AWAY,CHO,W (+5),0,2:18,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-4,Lance Stephenson
+2016-01-02,25-119,LAC,HOME,PHI,W (+31),0,21:14,2,3,.667,0,1,.000,3,4,.750,0,4,4,3,1,0,2,0,7,7.6,+12,Lance Stephenson
+2016-01-13,25-130,LAC,HOME,MIA,W (+14),0,6:08,1,1,1.000,0,0,,0,0,,1,0,1,0,0,0,0,0,2,2.4,-4,Lance Stephenson
+2016-01-21,25-138,LAC,AWAY,CLE,L (-13),0,8:29,1,3,.333,0,0,,0,0,,1,1,2,0,1,0,0,3,2,1.1,+5,Lance Stephenson
+2016-01-22,25-139,LAC,AWAY,NYK,W (+28),0,6:10,0,2,.000,0,0,,0,0,,0,1,1,1,0,0,0,1,0,-0.8,0,Lance Stephenson
+2016-01-24,25-141,LAC,AWAY,TOR,L (-18),0,7:31,4,4,1.000,0,0,,0,0,,0,2,2,0,0,0,1,1,8,6.0,-1,Lance Stephenson
+2016-01-29,25-146,LAC,HOME,LAL,W (+12),0,22:29,6,7,.857,2,2,1.000,2,2,1.000,0,5,5,2,1,1,1,2,16,16.3,+7,Lance Stephenson
+2016-01-31,25-148,LAC,HOME,CHI,W (+27),0,9:03,1,3,.333,0,1,.000,0,0,,1,5,6,1,1,0,1,2,2,2.4,+11,Lance Stephenson
+2016-02-03,25-151,LAC,HOME,MIN,L (-6),0,12:12,2,3,.667,0,1,.000,0,0,,0,2,2,0,0,0,1,1,4,1.9,-6,Lance Stephenson
+2016-02-05,25-153,LAC,AWAY,ORL,W (+14),0,19:24,6,6,1.000,0,0,,1,1,1.000,0,1,1,3,1,0,1,3,13,12.4,+6,Lance Stephenson
+2016-02-07,25-155,LAC,AWAY,MIA,W (+7),0,17:34,4,5,.800,1,1,1.000,0,0,,0,1,1,1,1,0,1,4,9,6.5,-4,Lance Stephenson
+2016-02-08,25-156,LAC,AWAY,PHI,W (+6),0,16:11,1,5,.200,0,0,,0,0,,0,3,3,1,0,0,2,1,2,-1.9,-4,Lance Stephenson
+2016-02-10,25-158,LAC,AWAY,BOS,L (-5),0,24:16,4,5,.800,2,2,1.000,2,4,.500,1,3,4,0,1,0,1,3,12,9.7,+2,Lance Stephenson
+2016-02-21,25-169,MEM,AWAY,TOR,L (-13),0,22:22,6,10,.600,0,0,,4,4,1.000,0,3,3,2,1,0,1,1,16,13.3,-12,Lance Stephenson
+2016-02-24,25-172,MEM,HOME,LAL,W (+9),0,23:17,3,7,.429,0,0,,2,4,.500,0,4,4,1,0,0,1,3,8,3.2,-11,Lance Stephenson
+2016-02-26,25-174,MEM,AWAY,LAL,W (+17),0,25:38,7,15,.467,0,2,.000,0,0,,2,5,7,3,1,0,1,3,14,10.1,+5,Lance Stephenson
+2016-02-27,25-175,MEM,AWAY,PHO,L (-5),0,27:11,4,8,.500,0,0,,4,4,1.000,0,4,4,3,0,0,1,3,12,9.1,-2,Lance Stephenson
+2016-02-29,25-177,MEM,AWAY,DEN,W (+7),0,20:39,6,9,.667,0,1,.000,2,2,1.000,0,3,3,2,1,0,1,0,14,12.4,-1,Lance Stephenson
+2016-03-02,25-179,MEM,HOME,SAC,W (+6),0,15:43,3,7,.429,0,1,.000,1,1,1.000,1,2,3,3,1,0,4,2,7,2.9,+7,Lance Stephenson
+2016-03-04,25-181,MEM,HOME,UTA,W (+6),0,24:36,8,11,.727,0,0,,0,0,,0,5,5,1,0,0,2,5,16,9.7,+15,Lance Stephenson
+2016-03-06,25-183,MEM,HOME,PHO,L (-9),0,23:55,4,11,.364,1,3,.333,4,4,1.000,1,4,5,2,1,0,1,0,13,10.2,-7,Lance Stephenson
+2016-03-07,25-184,MEM,AWAY,CLE,W (+3),0,27:33,8,15,.533,1,1,1.000,0,1,.000,0,7,7,3,1,1,3,2,17,11.4,-13,Lance Stephenson
+2016-03-09,25-186,MEM,AWAY,BOS,L (-20),0,21:23,1,8,.125,0,1,.000,0,0,,0,2,2,3,0,0,2,2,2,-3.3,-18,Lance Stephenson
+2016-03-11,25-188,MEM,HOME,NOP,W (+7),0,37:48,12,20,.600,1,2,.500,8,12,.667,0,7,7,4,2,1,1,3,33,27.6,+17,Lance Stephenson
+2016-03-12,25-189,MEM,AWAY,ATL,L (-12),0,29:58,7,12,.583,0,2,.000,4,4,1.000,0,8,8,6,0,0,1,1,18,17.6,-5,Lance Stephenson
+2016-03-16,25-193,MEM,HOME,MIN,L (-6),0,35:49,8,18,.444,0,2,.000,8,9,.889,4,7,11,7,0,0,1,4,24,21.4,+11,Lance Stephenson
+2016-03-17,25-194,MEM,AWAY,MIL,L (-10),1,38:28,8,21,.381,0,1,.000,3,3,1.000,1,6,7,6,1,0,3,4,19,10.6,-7,Lance Stephenson
+2016-03-19,25-196,MEM,HOME,LAC,W (+11),1,27:36,4,9,.444,0,0,,4,5,.800,1,2,3,1,2,1,1,2,12,9.8,+27,Lance Stephenson
+2016-03-21,25-198,MEM,AWAY,PHO,W (+6),0,22:08,6,8,.750,0,1,.000,4,4,1.000,1,1,2,0,0,0,4,2,16,9.0,+5,Lance Stephenson
+2016-03-22,25-199,MEM,AWAY,LAL,L (-7),0,21:22,5,12,.417,1,1,1.000,5,5,1.000,2,4,6,0,2,0,2,1,16,11.8,-7,Lance Stephenson
+2016-03-25,25-202,MEM,AWAY,SAS,L (-6),0,27:32,8,15,.533,1,2,.500,0,1,.000,0,1,1,3,3,0,0,4,17,13.1,0,Lance Stephenson
+2016-03-28,25-205,MEM,HOME,SAS,L (-14),0,21:03,2,8,.250,0,1,.000,0,0,,3,1,4,3,0,0,6,1,4,-2.7,-17,Lance Stephenson
+2016-03-30,25-207,MEM,HOME,DEN,L (-4),0,25:37,4,10,.400,0,1,.000,4,7,.571,2,1,3,1,0,1,1,2,12,6.7,+12,Lance Stephenson
+2016-04-01,25-209,MEM,HOME,TOR,L (-4),0,28:57,5,15,.333,0,1,.000,2,2,1.000,0,3,3,4,0,1,2,1,12,5.5,+10,Lance Stephenson
+2016-04-03,25-211,MEM,AWAY,ORL,L (-12),0,22:45,4,11,.364,0,0,,3,4,.750,0,4,4,3,0,1,1,1,11,7.1,-4,Lance Stephenson
+2016-04-08,25-216,MEM,AWAY,DAL,L (-10),0,24:32,5,10,.500,0,1,.000,0,0,,1,5,6,5,0,0,2,4,10,7.1,-4,Lance Stephenson
+2016-04-09,25-217,MEM,HOME,GSW,L (-1),1,38:15,6,13,.462,1,2,.500,0,0,,1,1,2,0,1,0,2,1,13,5.9,0,Lance Stephenson
+2016-04-12,25-220,MEM,AWAY,LAC,L (-26),0,22:26,4,11,.364,2,2,1.000,1,2,.500,1,2,3,3,0,0,1,2,11,6.1,-11,Lance Stephenson
+2016-04-13,25-221,MEM,AWAY,GSW,L (-21),0,35:26,8,14,.571,3,3,1.000,3,3,1.000,0,2,2,4,2,0,1,2,22,19.0,-18,Lance Stephenson
+2016-02-20,28-197,LAC,HOME,GSW,L (-3),0,1:39,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+10,Alex Stepheson
+2016-02-22,28-199,LAC,HOME,PHO,W (+40),0,7:03,1,1,1.000,0,0,,0,0,,1,0,1,0,0,1,0,3,2,1.9,-2,Alex Stepheson
+2016-03-07,28-213,LAC,AWAY,DAL,W (+19),0,1:53,0,0,,0,0,,0,2,.000,0,0,0,0,0,1,0,1,0,-0.5,-4,Alex Stepheson
+2016-03-09,28-215,LAC,AWAY,OKC,L (-12),0,0:58,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Alex Stepheson
+2016-03-12,28-218,MEM,AWAY,ATL,L (-12),0,18:37,1,5,.200,0,0,,2,2,1.000,2,4,6,2,1,2,0,0,4,7.3,+11,Alex Stepheson
+2016-03-14,28-220,MEM,AWAY,HOU,L (-49),0,25:17,5,17,.294,0,0,,2,8,.250,13,2,15,0,0,0,0,6,12,7.0,-15,Alex Stepheson
+2016-03-16,28-222,MEM,HOME,MIN,L (-6),0,5:27,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,0,Alex Stepheson
+2016-03-17,28-223,MEM,AWAY,MIL,L (-10),0,11:16,2,4,.500,0,0,,0,0,,3,1,4,0,0,1,0,1,4,4.7,-2,Alex Stepheson
+2015-11-05,21-302,MEM,AWAY,POR,L (-19),0,3:18,0,0,,0,0,,0,0,,1,1,2,0,0,0,0,0,0,1.0,+5,Jarnell Stokes
+2015-11-07,21-304,MEM,AWAY,UTA,L (-10),0,1:08,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4,Jarnell Stokes
+2016-01-20,22-013,MIA,AWAY,WAS,L (-19),0,5:12,2,4,.500,0,0,,0,0,,0,0,0,0,0,0,0,0,4,2.0,0,Jarnell Stokes
+2016-01-22,22-015,MIA,AWAY,TOR,L (-20),0,1:36,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-2,Jarnell Stokes
+2016-01-31,22-024,MIA,HOME,ATL,W (+18),0,1:11,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,2,2.0,+2,Jarnell Stokes
+2016-02-02,22-026,MIA,AWAY,HOU,L (-13),0,3:16,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,+4,Jarnell Stokes
+2016-02-09,22-033,MIA,HOME,SAS,L (-18),0,2:54,0,0,,0,0,,1,2,.500,0,0,0,0,1,0,0,1,1,1.2,+4,Jarnell Stokes
+2015-10-28,33-115,MEM,HOME,CLE,L (-30),0,14:44,2,5,.400,0,1,.000,1,1,1.000,0,0,0,2,0,0,4,1,5,-0.7,-12,Beno Udrih
+2015-10-29,33-116,MEM,AWAY,IND,W (+9),0,17:48,5,6,.833,1,2,.500,2,2,1.000,0,2,2,6,1,0,1,1,13,15.2,+6,Beno Udrih
+2015-10-31,33-118,MEM,HOME,BRK,W (+10),0,15:18,3,8,.375,2,3,.667,0,0,,0,2,2,3,0,1,0,0,8,7.0,+4,Beno Udrih
+2015-11-02,33-120,MEM,AWAY,GSW,L (-50),0,15:07,0,5,.000,0,1,.000,0,0,,0,2,2,5,1,0,0,1,0,1.2,+1,Beno Udrih
+2015-11-03,33-121,MEM,AWAY,SAC,W (+14),0,21:12,3,7,.429,0,2,.000,0,0,,0,0,0,3,1,0,3,5,6,0.4,-1,Beno Udrih
+2015-11-05,33-123,MEM,AWAY,POR,L (-19),0,15:51,4,5,.800,1,1,1.000,0,0,,0,0,0,6,0,0,0,2,9,10.5,0,Beno Udrih
+2015-11-07,33-125,MEM,AWAY,UTA,L (-10),0,7:37,2,3,.667,0,0,,0,0,,0,0,0,0,0,0,1,0,4,1.7,-8,Beno Udrih
+2015-11-09,33-127,MEM,AWAY,LAC,L (-2),0,12:44,1,7,.143,0,1,.000,0,0,,2,1,3,1,0,0,2,1,2,-2.5,-8,Beno Udrih
+2015-11-12,33-130,MIA,HOME,UTA,W (+1),0,17:22,1,3,.333,0,0,,0,0,,0,3,3,1,0,0,1,0,2,0.9,+11,Beno Udrih
+2015-11-21,33-139,MIA,HOME,PHI,W (+5),0,6:05,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,1,0,2,1.0,0,Beno Udrih
+2015-11-25,33-143,MIA,AWAY,DET,L (-23),0,9:40,1,2,.500,0,1,.000,0,0,,0,0,0,4,0,0,0,1,2,3.4,-1,Beno Udrih
+2015-11-27,33-145,MIA,AWAY,NYK,W (+19),0,4:11,0,0,,0,0,,0,0,,0,0,0,1,0,0,1,1,0,-0.7,0,Beno Udrih
+2015-12-05,33-153,MIA,HOME,CLE,W (+15),0,3:43,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,-2,Beno Udrih
+2015-12-09,33-157,MIA,AWAY,CHO,L (-18),0,7:20,1,2,.500,0,0,,1,2,.500,0,1,1,1,0,0,2,1,3,0.2,+10,Beno Udrih
+2015-12-11,33-159,MIA,AWAY,IND,L (-13),0,14:12,1,2,.500,0,0,,0,0,,0,2,2,1,1,0,2,0,2,1.3,-1,Beno Udrih
+2015-12-13,33-161,MIA,HOME,MEM,W (+3),0,10:31,2,6,.333,0,1,.000,2,2,1.000,0,3,3,1,1,0,0,2,6,4.4,+3,Beno Udrih
+2015-12-14,33-162,MIA,AWAY,ATL,W (+12),0,19:13,3,5,.600,1,1,1.000,2,2,1.000,1,1,2,1,0,0,2,2,9,5.6,-2,Beno Udrih
+2015-12-16,33-164,MIA,AWAY,BRK,W (+6),0,6:22,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,1,2,1.3,-1,Beno Udrih
+2015-12-18,33-166,MIA,HOME,TOR,L (-14),0,21:44,2,4,.500,1,1,1.000,0,0,,0,3,3,2,0,0,1,2,5,3.5,+1,Beno Udrih
+2015-12-20,33-168,MIA,HOME,POR,W (+7),0,20:15,0,3,.000,0,1,.000,2,2,1.000,0,1,1,2,0,0,1,0,2,0.6,+11,Beno Udrih
+2015-12-22,33-170,MIA,HOME,DET,L (-1),1,33:58,7,11,.636,0,3,.000,0,0,,1,2,3,6,0,0,0,4,14,13.0,+12,Beno Udrih
+2015-12-25,33-173,MIA,HOME,NOP,W (+6),0,12:52,1,2,.500,0,0,,2,2,1.000,0,2,2,4,1,0,2,0,4,5.4,-7,Beno Udrih
+2015-12-26,33-174,MIA,AWAY,ORL,W (+7),0,12:39,1,3,.333,1,1,1.000,0,0,,0,0,0,4,0,0,0,0,3,4.1,+8,Beno Udrih
+2015-12-28,33-176,MIA,HOME,BRK,L (-6),0,13:44,1,5,.200,0,1,.000,0,0,,0,0,0,2,0,0,0,0,2,0.3,-3,Beno Udrih
+2015-12-29,33-177,MIA,AWAY,MEM,L (-9),0,11:39,0,1,.000,0,0,,0,0,,0,1,1,2,0,0,1,2,0,-0.8,+2,Beno Udrih
+2016-01-01,33-180,MIA,HOME,DAL,W (+24),0,21:16,1,2,.500,0,0,,0,0,,0,3,3,2,0,0,1,1,2,1.9,+2,Beno Udrih
+2016-01-03,33-182,MIA,AWAY,WAS,W (+22),0,17:09,2,4,.500,0,0,,0,0,,0,3,3,7,0,0,0,3,4,6.6,+3,Beno Udrih
+2016-01-04,33-183,MIA,HOME,IND,W (+3),0,7:42,0,3,.000,0,1,.000,0,0,,0,2,2,2,0,0,0,1,0,-0.5,-1,Beno Udrih
+2016-01-06,33-185,MIA,HOME,NYK,L (-8),0,12:16,0,2,.000,0,1,.000,0,0,,0,2,2,1,0,0,2,0,0,-2.1,+3,Beno Udrih
+2016-01-09,33-188,MIA,AWAY,UTA,L (-15),0,19:59,2,6,.333,1,2,.500,0,0,,0,4,4,4,1,0,2,1,5,4.2,-9,Beno Udrih
+2016-01-13,33-192,MIA,AWAY,LAC,L (-14),1,28:26,3,7,.429,2,3,.667,0,0,,0,0,0,3,0,0,2,2,8,3.6,-27,Beno Udrih
+2016-01-15,33-194,MIA,AWAY,DEN,W (+3),1,37:01,5,10,.500,1,2,.500,0,0,,0,3,3,11,1,0,0,2,11,14.8,+13,Beno Udrih
+2016-01-17,33-196,MIA,AWAY,OKC,L (-25),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Beno Udrih
+2016-01-19,33-198,MIA,HOME,MIL,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Beno Udrih
+2016-01-20,33-199,MIA,AWAY,WAS,L (-19),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Beno Udrih
+2016-01-22,33-201,MIA,AWAY,TOR,L (-20),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Beno Udrih
+2016-01-25,33-204,MIA,AWAY,CHI,W (+5),1,20:36,1,6,.167,1,2,.500,0,0,,0,2,2,1,2,0,3,2,3,-1.3,-16,Beno Udrih
+2016-01-26,33-205,MIA,AWAY,BRK,W (+4),1,30:11,4,6,.667,1,1,1.000,0,0,,0,5,5,4,1,0,0,1,9,11.3,+5,Beno Udrih
+2016-01-29,33-208,MIA,AWAY,MIL,W (+4),0,16:23,2,4,.500,1,2,.500,0,0,,0,1,1,2,2,0,3,0,5,3.7,+4,Beno Udrih
+2016-01-31,33-210,MIA,HOME,ATL,W (+18),0,25:01,3,7,.429,0,3,.000,0,0,,1,0,1,2,1,0,4,3,6,0.2,+1,Beno Udrih
+2016-02-02,33-212,MIA,AWAY,HOU,L (-13),0,24:31,2,5,.400,0,2,.000,0,0,,0,4,4,5,0,0,1,2,4,4.2,-14,Beno Udrih
+2016-02-03,33-213,MIA,AWAY,DAL,W (+3),0,14:43,4,7,.571,0,1,.000,0,0,,0,3,3,2,0,0,2,1,8,4.6,+2,Beno Udrih
+2016-02-05,33-215,MIA,AWAY,CHO,W (+3),0,15:29,2,6,.333,0,0,,0,0,,0,2,2,2,0,0,1,0,4,1.6,-5,Beno Udrih
+2016-02-07,33-217,MIA,HOME,LAC,L (-7),0,13:16,2,4,.500,0,0,,2,2,1.000,1,0,1,2,0,0,1,1,6,4.7,+2,Beno Udrih
+2016-02-09,33-219,MIA,HOME,SAS,L (-18),0,18:50,5,7,.714,0,0,,3,3,1.000,1,0,1,3,0,0,1,1,13,11.5,-6,Beno Udrih
+2016-02-19,33-229,MIA,AWAY,ATL,W (+4),0,14:41,1,6,.167,1,1,1.000,0,0,,0,0,0,3,0,0,2,1,3,-1.1,+1,Beno Udrih
+2016-02-20,33-230,MIA,HOME,WAS,W (+20),0,18:04,3,8,.375,0,2,.000,1,2,.500,1,3,4,2,0,0,3,1,7,1.8,+7,Beno Udrih
+2016-02-22,33-232,MIA,HOME,IND,W (+8),0,6:14,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-8,Beno Udrih
+2016-02-24,33-234,MIA,HOME,GSW,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Beno Udrih
+2016-02-27,33-237,MIA,AWAY,BOS,L (-12),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Beno Udrih
+2016-02-28,33-238,MIA,AWAY,NYK,W (+17),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Beno Udrih
+2016-03-11,23-073,MEM,HOME,NOP,W (+7),1,39:42,4,6,.667,0,0,,2,2,1.000,1,4,5,7,1,1,2,2,10,13.1,-4,Briante Weber
+2016-03-12,23-074,MEM,AWAY,ATL,L (-12),1,31:33,1,5,.200,0,2,.000,0,0,,3,1,4,3,3,1,0,1,2,6.7,-15,Briante Weber
+2016-03-14,23-076,MEM,AWAY,HOU,L (-49),1,34:37,1,8,.125,0,0,,1,2,.500,2,5,7,3,2,0,5,1,3,-1.0,-43,Briante Weber
+2016-03-16,23-078,MEM,HOME,MIN,L (-6),1,33:57,6,13,.462,0,1,.000,0,0,,1,2,3,4,1,1,2,3,12,7.9,0,Briante Weber
+2016-03-17,23-079,MEM,AWAY,MIL,L (-10),0,14:55,1,4,.250,0,1,.000,0,0,,1,3,4,2,1,0,0,1,2,3.2,-4,Briante Weber
+2016-03-19,23-081,MEM,HOME,LAC,W (+11),0,11:12,0,2,.000,0,1,.000,0,0,,0,1,1,1,1,0,0,3,0,-0.6,-6,Briante Weber
+2016-04-10,23-103,MIA,HOME,ORL,W (+22),0,2:43,1,1,1.000,0,0,,0,0,,0,1,1,1,0,0,0,1,2,2.3,+5,Briante Weber
+2016-01-08,26-202,MEM,HOME,DEN,W (+7),0,9:32,1,3,0.333,0,1,0.0,0,0,,0,0,0,0,0,0,0,1,2,-0.1,5,Elliot Williams
+2016-01-10,26-204,MEM,HOME,BOS,W (+3),0,4:30,0,1,0.0,0,1,0.0,2,2,1.0,0,0,0,0,0,0,0,0,2,1.3,-8,Elliot Williams
+2016-01-12,26-206,MEM,HOME,HOU,L (-16),0,5:02,0,2,0.0,0,1,0.0,0,0,,0,0,0,1,0,0,1,0,0,-1.7,-7,Elliot Williams
+2016-01-14,26-208,MEM,HOME,DET,W (+2),0,6:12,0,1,0.0,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.0,-5,Elliot Williams
+2016-01-16,26-210,MEM,HOME,NYK,W (+8),0,19:53,1,3,0.333,1,1,1.0,1,2,0.5,1,3,4,2,0,0,0,1,4,4.5,15,Elliot Williams
+2015-10-28,28-023,MEM,HOME,CLE,L (-30),0,16:41,2,5,.400,0,0,,4,4,1.000,1,1,2,0,0,1,2,1,8,4.6,-22,Brandan Wright
+2015-10-29,28-024,MEM,AWAY,IND,W (+9),0,15:24,4,4,1.000,0,0,,1,2,.500,0,1,1,0,0,2,0,1,9,8.7,-4,Brandan Wright
+2015-10-31,28-026,MEM,HOME,BRK,W (+10),0,16:21,3,5,.600,0,0,,0,0,,3,2,5,0,0,0,1,0,6,5.4,-4,Brandan Wright
+2015-11-02,28-028,MEM,AWAY,GSW,L (-50),0,19:49,3,6,.500,0,0,,1,2,.500,0,6,6,1,0,2,0,2,7,6.7,-12,Brandan Wright
+2015-11-03,28-029,MEM,AWAY,SAC,W (+14),0,27:41,4,5,.800,0,0,,2,7,.286,1,5,6,3,0,4,1,3,10,11.0,+2,Brandan Wright
+2015-11-05,28-031,MEM,AWAY,POR,L (-19),0,17:39,2,4,.500,0,0,,2,3,.667,1,3,4,0,0,1,0,1,6,5.5,-4,Brandan Wright
+2015-11-07,28-033,MEM,AWAY,UTA,L (-10),0,6:05,0,1,.000,0,0,,0,0,,0,0,0,0,1,0,0,1,0,-0.1,-8,Brandan Wright
+2015-11-11,28-037,MEM,HOME,GSW,L (-16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brandan Wright
+2015-11-13,28-039,MEM,HOME,POR,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brandan Wright
+2015-11-15,28-041,MEM,AWAY,MIN,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brandan Wright
+2015-11-16,28-042,MEM,HOME,OKC,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brandan Wright
+2015-11-20,28-046,MEM,HOME,HOU,W (+12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brandan Wright
+2015-11-21,28-047,MEM,AWAY,SAS,L (-10),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Brandan Wright
+2015-11-24,28-050,MEM,HOME,DAL,W (+14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brandan Wright
+2015-11-25,28-051,MEM,AWAY,HOU,W (+9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Brandan Wright
+2015-11-27,28-053,MEM,HOME,ATL,L (-15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brandan Wright
+2015-11-29,28-055,MEM,HOME,PHI,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brandan Wright
+2015-12-01,28-057,MEM,AWAY,NOP,W (+9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Brandan Wright
+2015-12-06,28-062,MEM,HOME,PHO,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brandan Wright
+2015-12-08,28-064,MEM,HOME,OKC,L (-37),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brandan Wright
+2015-12-09,28-065,MEM,AWAY,DET,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brandan Wright
+2015-12-22,28-078,MEM,AWAY,PHI,W (+14),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Brandan Wright
+2015-12-23,28-079,MEM,AWAY,WAS,L (-9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Brandan Wright
+2016-01-16,28-103,MEM,HOME,NYK,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brandan Wright
+2016-01-18,28-105,MEM,HOME,NOP,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brandan Wright
+2016-01-21,28-108,MEM,AWAY,DEN,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brandan Wright
+2016-01-23,28-110,MEM,AWAY,MIN,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brandan Wright
+2016-01-25,28-112,MEM,HOME,ORL,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brandan Wright
+2016-02-01,28-119,MEM,AWAY,NOP,W (+15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brandan Wright
+2016-02-05,28-123,MEM,AWAY,NYK,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brandan Wright
+2016-02-06,28-124,MEM,HOME,DAL,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brandan Wright
+2016-02-08,28-126,MEM,HOME,POR,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brandan Wright
+2016-02-10,28-128,MEM,AWAY,BRK,W (+19),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brandan Wright
+2016-02-19,28-137,MEM,HOME,MIN,W (+5),0,16:54,3,4,.750,0,0,,0,0,,1,1,2,0,1,0,0,1,6,6.0,-8,Brandan Wright
+2016-02-21,28-139,MEM,AWAY,TOR,L (-13),0,20:38,1,2,.500,0,0,,0,0,,1,1,2,1,0,1,3,2,2,-0.4,-4,Brandan Wright
+2016-02-24,28-142,MEM,HOME,LAL,W (+9),0,21:58,7,10,.700,0,0,,1,4,.250,4,2,6,1,0,2,2,3,15,11.9,-3,Brandan Wright
+2016-02-26,28-144,MEM,AWAY,LAL,W (+17),1,18:21,3,3,1.000,0,0,,2,2,1.000,2,3,5,0,0,2,0,3,8,9.6,+12,Brandan Wright
+2016-02-27,28-145,MEM,AWAY,PHO,L (-5),1,14:36,3,3,1.000,0,0,,0,0,,0,4,4,0,3,0,1,3,6,7.1,-1,Brandan Wright
+2016-03-11,28-158,MEM,HOME,NOP,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brandan Wright

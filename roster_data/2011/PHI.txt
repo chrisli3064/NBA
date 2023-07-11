@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Tony Battie,1976-02-11
+Craig Brackins,1987-10-09
+Elton Brand,1979-03-11
+Antonio Daniels,1975-03-19
+Spencer Hawes,1988-04-28
+Jrue Holiday,1990-06-12
+Andre Iguodala,1984-01-28
+Jason Kapono,1981-02-04
+Jodie Meeks,1987-08-21
+Andrés Nocioni,1979-11-30
+Darius Songaila,1978-02-14
+Marreese Speights,1987-08-04
+Evan Turner,1988-10-27
+Lou Williams,1986-10-27
+Thaddeus Young,1988-06-21

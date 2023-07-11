@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Anthony Edwards,2001-08-05
+Jaden McDaniels,2000-09-29
+Rudy Gobert,1992-06-26
+Kyle Anderson,1993-09-20
+Naz Reid,1999-08-26
+Jaylen Nowell,1999-07-09
+Taurean Prince,1994-03-22
+Austin Rivers,1992-08-01
+Jordan McLaughlin,1996-04-09
+Nathan Knight,1997-09-20
+Karl-Anthony Towns,1995-11-15
+Wendell Moore Jr.,2001-09-18
+Luka Garza (TW),1998-12-27
+Mike Conley,1987-10-11
+Nickeil Alexander-Walker,1998-09-02
+Matt Ryan (TW),1997-04-17
+Josh Minott,2002-11-25

@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Ray Allen,1975-07-20
+Rafer Alston,1976-07-24
+Jason Caffey,1973-06-12
+Sam Cassell,1969-11-18
+Darvin Ham,1973-07-23
+Jason Hart,1978-04-29
+Lindsey Hunter,1970-12-03
+Ervin Johnson,1967-12-21
+Jerome Kersey,1962-06-26
+Mark Pope,1972-09-11
+Joel Przybilla,1979-10-10
+Michael Redd,1979-08-24
+Glenn Robinson,1973-01-10
+Tim Thomas,1977-02-26
+Scott Williams,1968-03-21

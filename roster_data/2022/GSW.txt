@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Nemanja Bjelica,1988-05-09
+Chris Chiozza,1995-11-21
+Stephen Curry,1988-03-14
+Jeff Dowtin,1997-05-10
+Draymond Green,1990-03-04
+Andre Iguodala,1984-01-28
+Jonathan Kuminga,2002-10-06
+Damion Lee,1992-10-21
+Kevon Looney,1996-02-06
+Moses Moody,2002-05-31
+Gary Payton II,1992-12-01
+Jordan Poole,1999-06-19
+Otto Porter Jr.,1993-06-03
+Klay Thompson,1990-02-08
+Juan Toscano-Anderson,1993-04-10
+Quinndary Weatherspoon,1996-09-10
+Andrew Wiggins,1995-02-23

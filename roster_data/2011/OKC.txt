@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+Cole Aldrich,1988-10-31
+Nick Collison,1980-10-26
+Daequan Cook,1987-04-28
+Kevin Durant,1988-09-29
+Jeff Green,1986-08-28
+James Harden,1989-08-26
+Serge Ibaka,1989-09-18
+Royal Ivey,1981-12-20
+Nenad Krstić,1983-07-25
+Eric Maynor,1987-06-11
+Nazr Mohammed,1977-09-05
+Byron Mullens,1989-02-14
+Kendrick Perkins,1984-11-10
+Morris Peterson,1977-08-26
+Nate Robinson,1984-05-31
+Thabo Sefolosha,1984-05-02
+Russell Westbrook,1988-11-12
+D.J. White,1986-08-31

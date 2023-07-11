@@ -1,0 +1,15 @@
+PLAYER,BIRTH_DATE
+Ömer Aşık,1986-07-04
+Carlos Boozer,1981-11-20
+Ronnie Brewer,1985-03-20
+Jimmy Butler,1989-09-14
+Luol Deng,1985-04-16
+Taj Gibson,1985-06-24
+Richard Hamilton,1978-02-14
+Mike James,1975-06-23
+Kyle Korver,1981-03-17
+John Lucas III,1982-11-21
+Joakim Noah,1985-02-25
+Derrick Rose,1988-10-04
+Brian Scalabrine,1978-03-18
+C.J. Watson,1984-04-17

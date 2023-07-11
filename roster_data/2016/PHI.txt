@@ -1,0 +1,19 @@
+PLAYER,BIRTH_DATE
+Elton Brand,1979-03-11
+Isaiah Canaan,1991-05-21
+Robert Covington,1990-12-14
+Jerami Grant,1994-03-12
+Richaun Holmes,1993-10-15
+Carl Landry,1983-09-19
+Kendall Marshall,1991-08-19
+T.J. McConnell,1992-03-25
+Nerlens Noel,1994-04-10
+Jahlil Okafor,1995-12-15
+Phil Pressey,1991-02-17
+JaKarr Sampson,1993-03-20
+Ish Smith,1988-07-05
+Nik Stauskas,1993-10-07
+Hollis Thompson,1991-04-03
+Sonny Weems,1986-07-08
+Christian Wood,1995-09-27
+Tony Wroten,1993-04-13

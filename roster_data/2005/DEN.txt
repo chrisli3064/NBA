@@ -1,0 +1,18 @@
+PLAYER,BIRTH_DATE
+Carmelo Anthony,1984-05-29
+Earl Boykins,1976-06-02
+Greg Buckner,1976-09-16
+Marcus Camby,1974-03-22
+Francisco Elson,1976-02-28
+Luis Flores,1981-04-11
+Nenê,1982-09-13
+DerMarr Johnson,1980-05-05
+Voshon Lenard,1973-05-14
+Kenyon Martin,1977-12-30
+Andre Miller,1976-03-19
+Eduardo Nájera,1976-07-11
+Wesley Person,1971-03-28
+Mark Pope,1972-09-11
+Bryon Russell,1970-12-31
+Nikoloz Tskitishvili,1983-04-14
+Rodney White,1980-06-28

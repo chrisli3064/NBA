@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Omri Casspi,1988-06-22
+DeMarcus Cousins,1990-08-13
+Samuel Dalembert,1981-05-10
+Tyreke Evans,1989-09-19
+Francisco García,1981-12-31
+Donté Greene,1988-02-21
+Luther Head,1982-11-26
+Darnell Jackson,1985-11-07
+Eugene Jeter,1983-12-02
+Carl Landry,1983-09-19
+Jermaine Taylor,1986-12-08
+Jason Thompson,1986-07-21
+Marcus Thornton,1987-06-05
+Beno Udrih,1982-07-05
+Hassan Whiteside,1989-06-13
+Antoine Wright,1984-02-06

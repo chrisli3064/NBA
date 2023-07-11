@@ -1,0 +1,28 @@
+PLAYER,BIRTH_DATE
+Dāvis Bertāns,1992-11-12
+Charlie Brown Jr.,1997-02-02
+Moses Brown,1999-10-13
+Sterling Brown,1995-02-10
+Jalen Brunson,1996-08-31
+Reggie Bullock,1991-03-16
+Trey Burke,1992-11-12
+Willie Cauley-Stein,1993-08-18
+Marquese Chriss,1997-07-02
+Spencer Dinwiddie,1993-04-06
+Luka Dončić,1999-02-28
+Dorian Finney-Smith,1993-05-04
+Josh Green,2000-11-16
+Tim Hardaway Jr.,1992-03-16
+Carlik Jones,1997-12-23
+George King,1994-01-15
+Maxi Kleber,1992-01-29
+Brandon Knight,1991-12-02
+Boban Marjanović,1988-08-15
+JaQuori McLaughlin,1998-01-29
+Frank Ntilikina,1998-07-28
+Eugene Omoruyi,1997-02-14
+Theo Pinson,1995-11-05
+Kristaps Porziņģis,1995-08-02
+Dwight Powell,1991-07-20
+Isaiah Thomas,1989-02-07
+Moses Wright,1998-12-23

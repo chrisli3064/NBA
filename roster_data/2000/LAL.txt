@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Kobe Bryant,1978-08-23
+John Celestand,1977-03-06
+Derek Fisher,1974-08-09
+Rick Fox,1969-07-24
+Devean George,1977-08-29
+A.C. Green,1963-10-04
+Ron Harper,1964-01-20
+Robert Horry,1970-08-25
+Sam Jacobson,1975-07-22
+Travis Knight,1974-09-13
+Tyronn Lue,1977-05-03
+Shaquille O'Neal,1972-03-06
+Glen Rice,1967-05-28
+John Salley,1964-05-16
+Brian Shaw,1966-03-22

@@ -1,0 +1,20 @@
+PLAYER,BIRTH_DATE
+Robert Archibald,1980-03-29
+Leandro Barbosa,1982-11-28
+Žarko Čabarkapa,1981-05-21
+Howard Eisley,1972-12-04
+Tom Gugliotta,1969-12-19
+Anfernee Hardaway,1971-07-18
+Donnell Harvey,1980-08-26
+Casey Jacobsen,1981-03-19
+Joe Johnson,1981-06-29
+Brevin Knight,1975-11-08
+Maciej Lampe,1985-02-05
+Stephon Marbury,1977-02-20
+Shawn Marion,1978-05-07
+Antonio McDyess,1974-09-07
+Amar'e Stoudemire,1982-11-16
+Cezary Trybański,1979-09-22
+Jake Voskuhl,1977-11-01
+Jahidi White,1976-02-19
+Scott Williams,1968-03-21

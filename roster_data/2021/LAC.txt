@@ -1,0 +1,21 @@
+PLAYER,BIRTH_DATE
+Nicolas Batum,1988-12-14
+Patrick Beverley,1988-07-12
+Amir Coffey,1997-06-17
+DeMarcus Cousins,1990-08-13
+Yogi Ferrell,1993-05-09
+Malik Fitts,1997-07-04
+Paul George,1990-05-02
+Serge Ibaka,1989-09-18
+Reggie Jackson,1990-04-16
+Mfiondu Kabengele,1997-08-14
+Luke Kennard,1996-06-24
+Kawhi Leonard,1991-06-29
+Terance Mann,1996-10-18
+Marcus Morris,1989-09-02
+Daniel Oturu,1999-09-20
+Patrick Patterson,1989-03-14
+Rajon Rondo,1986-02-22
+Jay Scrubb,2000-09-01
+Lou Williams,1986-10-27
+Ivica Zubac,1997-03-18

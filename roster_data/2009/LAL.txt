@@ -1,0 +1,17 @@
+PLAYER,BIRTH_DATE
+Trevor Ariza,1985-06-30
+Shannon Brown,1985-11-29
+Kobe Bryant,1978-08-23
+Andrew Bynum,1987-10-27
+Jordan Farmar,1986-11-30
+Derek Fisher,1974-08-09
+Pau Gasol,1980-07-06
+D.J. Mbenga,1980-12-30
+Chris Mihm,1979-07-16
+Adam Morrison,1984-07-19
+Lamar Odom,1979-11-06
+Josh Powell,1983-01-25
+Vladimir Radmanović,1980-11-19
+Sasha Vujačić,1984-03-08
+Luke Walton,1980-03-28
+Sun Yue,1985-11-06

@@ -1,0 +1,16 @@
+PLAYER,BIRTH_DATE
+Victor Alexander,1969-08-31
+Chucky Atkins,1974-08-14
+Dana Barros,1967-04-13
+Jon Barry,1969-07-25
+Brian Cardinal,1977-05-02
+Michael Curry,1968-08-22
+Damon Jones,1976-08-25
+Mikki Moore,1975-11-04
+Željko Rebrača,1972-04-09
+Clifford Robinson,1966-12-16
+Jerry Stackhouse,1974-11-05
+Ratko Varda,1979-05-06
+Ben Wallace,1974-09-10
+Rodney White,1980-06-28
+Corliss Williamson,1973-12-04
