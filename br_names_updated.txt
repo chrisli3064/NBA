@@ -1382,7 +1382,7 @@ Jeremiah Robinson-Earl
 Jae'Sean Tate
 Magic Johnson
 Will Barton
-Dennis Smith
+Dennis Smith Jr.
 Sharife Cooper
 Alec Kessler
 Roger Mason
@@ -3065,6 +3065,7 @@ Todd Lichti
 Chris Morris
 Beno Udrih
 Larry Nance
+Larry Nance Jr.
 Maalik Wayns
 Joe Fabel
 Oscar Robertson

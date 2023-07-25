@@ -25,7 +25,7 @@ Isaiah Stewart
 Tyrese Maxey
 Saddiq Bey
 Dylan Windler
-Vernon Carey
+Vernon Carey Jr.
 Kira Lewis
 Jalen Smith
 Malachi Flynn
@@ -47,6 +47,7 @@ Precious Achiuwa
 Will Magnay
 Nick Richards
 Kenyon Martin
+Kenyon Martin Jr. 
 Isaiah Joe
 Udoka Azubuike
 Killian Tillie
@@ -641,7 +642,7 @@ Bob Brown
 Bobby Brown
 Bruce Brown
 Charlie Brown
-Chaundee Brown
+Chaundee Brown Jr.
 Chucky Brown
 Damone Brown
 Darrell Brown
@@ -1845,7 +1846,7 @@ Reggie Hanson
 Bill Hanzlik
 Luke Harangody
 Anfernee Hardaway
-Tim Hardaway
+Tim Hardaway Jr.
 Tim Hardaway
 James Harden
 Reggie Harding
@@ -2071,7 +2072,7 @@ Ed Horton
 Talen Horton-Tucker
 Bill Hosket
 Bob Houbregs
-Danuel House
+Danuel House Jr.
 Eddie House
 Allan Houston
 Byron Houston
@@ -2327,7 +2328,7 @@ Dahntay Jones
 Damian Jones
 Damon Jones
 DeQuan Jones
-Derrick Jones
+Derrick Jones Jr.
 Dominique Jones
 Dontae' Jones
 Dwayne Jones
@@ -2642,7 +2643,7 @@ Ed Leede
 Hank Lefkowitz
 Tim Legler
 George Lehmann
-Walt Lemon
+Walt Lemon Jr.
 Alex Len
 Voshon Lenard
 Leary Lentz
@@ -2839,6 +2840,7 @@ Jeff Martin
 Jeremiah Martin
 Kelan Martin
 Kenyon Martin
+Kenyon Martin Jr.
 Kevin Martin
 LaRue Martin
 Maurice Martin
@@ -3214,7 +3216,7 @@ Jerry Nagel
 Fritz Nagy
 Lee Nailon
 Eduardo Najera
-Larry Nance
+Larry Nance Jr.
 Larry Nance
 Shabazz Napier
 Paul Napolitano
@@ -3378,7 +3380,7 @@ Greg Ostertag
 Matt Othick
 Don Otten
 Mac Otten
-Kelly Oubre
+Kelly Oubre Jr.
 Bo Outlaw
 Travis Outlaw
 Claude Overton
@@ -3560,8 +3562,8 @@ Chris Porter
 Howard Porter
 Jontay Porter
 Kevin Porter
-Kevin Porter
-Michael Porter
+Kevin Porter Jr.
+Michael Porter Jr.
 Otto Porter
 Terry Porter
 Willie Porter
@@ -4090,7 +4092,7 @@ Chris Smith
 Clinton Smith
 Craig Smith
 Deb Smith
-Dennis Smith
+Dennis Smith Jr.
 Derek Smith
 Don Smith
 Don Smith
@@ -4103,7 +4105,7 @@ Greg Smith
 Greg Smith
 Ish Smith
 J.R. Smith
-Jabari Smith
+Jabari Smith Jr.
 Jason Smith
 Jerry Smith
 Jim Smith
@@ -4604,7 +4606,7 @@ Julian Washburn
 Bobby Washington
 Darius Washington
 Donald Washington
-Duane Washington
+Duane Washington Jr.
 Eric Washington
 Jim Washington
 Kermit Washington
@@ -4943,7 +4945,7 @@ Ivica Zubac
 Matt Zunic
 Omer Ask
 Gigi Datome
-Otto Porter
+Otto Porter Jr.
 Glen Rice
 James Ennis III
 Glenn Robinson III
@@ -4959,22 +4961,22 @@ James Webb III
 Dennis Smith
 Walt Lemon
 Frank Mason III
-Wendell Carter
-Jaren Jackson
+Wendell Carter Jr.
+Jaren Jackson Jr.
 Gary Trent
 Marvin Bagley III
 Lonnie Walker IV
-Troy Brown
-Charlie Brown
+Troy Brown Jr.
+Charlie Brown Jr.
 Nic Claxton
-Kevin Porter
+Kevin Porter Jr. 
 Michael Porter
 Xavier Tillman Sr.
-Kira Lewis
+Kira Lewis Jr.
 Robert Woodard II
 Sam Hauser
 Matt Ryan
-David Duke
+David Duke Jr.
 Kessler Edwards
 Day'Ron Sharpe
 Cam Thomas
@@ -4985,7 +4987,7 @@ Kai Jones
 Arnoldas Kulboka
 Scottie Lewis
 JT Thor
-RJ Nembhard
+RJ Nembhard Jr.
 Kevin Pangos
 Tre Scott
 Carlik Jones
@@ -5115,7 +5117,7 @@ Ryan Rollins
 Lester Quinones
 Tari Eason
 Jabari Smith
-TyTy Washington
+TyTy Washington Jr.
 Trevor Hudgins
 Darius Days
 Bennedict Mathurin
@@ -5128,10 +5130,11 @@ Xavier Moon
 Max Christie
 Cole Swider
 Scotty Pippen
+Scotty Pippen Jr.
 David Roddy
 Jake LaRavia
 Kenneth Lofton Jr.
-Vince Williams
+Vince Williams Jr.
 Jacob Gilyard
 Orlando Robinson
 Jamal Cain
@@ -5139,7 +5142,7 @@ Nikola Jovic
 MarJon Beauchamp
 A.J. Green
 Lindell Wigginton
-Wendell Moore
+Wendell Moore Jr.
 Luka Garza
 Matt Ryan
 Josh Minott
