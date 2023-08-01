@@ -175,7 +175,6 @@ def get_player_suffix(name,birthdate = None):
         suffix = '/players/'+initial+'/'+last_name_part+first_name_part+'01.html'
         if suffix == '/players/w/willima01.html':
             suffix = '/players/w/willima02.html'
-    # print(f'https://www.basketball-reference.com{suffix}')
     player_r = RetriableRequest.get(f'https://www.basketball-reference.com{suffix}')
     while player_r.status_code == 404:
         print(other_names_search)
@@ -190,26 +189,30 @@ def get_player_suffix(name,birthdate = None):
 
         if h1:
             page_name = h1.find('span').text
-            foundName = False
             """
                 Test if the URL we constructed matches the
                 name of the player on that page; if it does,
                 return suffix, if not add 1 to the numbering
                 and recheck.
             """
+
+            
             currentBirthday = None
             if birthdate:
                 currentBirthday = player_soup.find(attrs={'id': 'necro-birth','data-birth':birthdate})
-            if ( currentBirthday is not None if birthdate else True) or (((((unidecode.unidecode(page_name)).lower() == normalized_name.lower()) or foundName) and ( currentBirthday is not None if birthdate else True))):
+            if ((((unidecode.unidecode(page_name)).lower() == normalized_name.lower()) and ( currentBirthday is not None if birthdate else True))):
                 return suffix
             else:
                 page_names = unidecode.unidecode(page_name).lower().split(' ')
                 page_first_name = page_names[0]
-                if first_name.lower() == page_first_name.lower() and currentBirthday is not None if birthdate else True:
+                print(page_first_name,page_names,page_name,normalized_name)
+                if (first_name.lower() == page_first_name.lower()) and (currentBirthday is not None if birthdate else True):
+                    print("A")
                     return suffix
                 # if players have same first two letters of last name then just
                 # increment suffix
                 elif first_name.lower()[:2] == page_first_name.lower()[:2]:
+                    print("B")
                     player_number = int(''.join(c for c in suffix if c.isdigit())) + 1
                     if player_number < 10:
                         player_number = f"0{str(player_number)}"
