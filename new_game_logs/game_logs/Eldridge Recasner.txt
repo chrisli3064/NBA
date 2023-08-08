@@ -1,0 +1,65 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2001-11-02,33-323,CHH,HOME,NYK,W (+4),0,1:53,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-2,Eldridge Recasner
+2001-12-27,34-013,LAC,AWAY,SEA,L (-11),0,6:37,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-6,Eldridge Recasner
+2002-01-02,34-019,LAC,AWAY,SAC,L (-14),0,2:24,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+3,Eldridge Recasner
+2002-01-10,34-027,LAC,AWAY,NJN,L (-19),0,8:05,1,1,1.000,0,0,,1,1,1.000,0,0,0,1,0,0,1,3,3,1.2,-3,Eldridge Recasner
+2002-01-11,34-028,LAC,AWAY,CHH,L (-1),0,6:16,0,0,,0,0,,0,0,,0,0,0,2,1,0,0,0,0,2.4,+8,Eldridge Recasner
+2002-01-19,34-036,LAC,AWAY,POR,L (-20),0,7:38,1,4,.250,0,1,.000,0,0,,0,0,0,2,0,0,0,0,2,1.0,0,Eldridge Recasner
+2000-10-31,32-322,CHH,AWAY,ATL,W (+24),0,20:26,1,4,.250,0,0,,2,2,1.000,0,2,2,1,0,0,1,1,4,1.5,+11,Eldridge Recasner
+2000-11-01,32-323,CHH,HOME,WAS,L (-18),0,14:37,2,4,.500,0,0,,0,0,,0,1,1,4,1,0,1,0,4,5.1,-6,Eldridge Recasner
+2000-11-03,32-325,CHH,HOME,MIA,W (+4),0,9:14,0,3,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-2.5,-8,Eldridge Recasner
+2000-11-08,32-330,CHH,AWAY,ORL,W (+6),0,1:06,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,-1,Eldridge Recasner
+2000-11-09,32-331,CHH,HOME,SEA,L (-8),0,7:46,0,2,.000,0,1,.000,0,0,,2,0,2,0,0,0,0,0,0,0.0,-3,Eldridge Recasner
+2000-11-17,32-339,CHH,HOME,DET,L (-7),0,15:15,2,6,.333,1,3,.333,0,0,,0,2,2,2,0,0,0,1,5,3.2,-3,Eldridge Recasner
+2000-11-19,32-341,CHH,AWAY,DET,W (+9),0,4:57,0,1,.000,0,0,,1,2,.500,0,0,0,1,0,0,2,1,1,-1.8,0,Eldridge Recasner
+2000-11-20,32-342,CHH,AWAY,TOR,W (+36),0,17:34,1,5,.200,1,3,.333,2,2,1.000,0,2,2,3,1,0,0,0,5,5.6,+10,Eldridge Recasner
+2000-11-22,32-344,CHH,HOME,PHI,W (+15),0,9:49,0,2,.000,0,0,,0,0,,0,0,0,1,0,0,1,1,0,-2.1,-6,Eldridge Recasner
+2000-11-24,32-346,CHH,AWAY,MIL,W (+16),0,23:00,4,5,.800,3,4,.750,0,0,,0,1,1,0,0,0,1,1,11,8.0,+19,Eldridge Recasner
+2000-11-25,32-347,CHH,HOME,CLE,W (+11),0,15:14,2,4,.500,0,1,.000,0,0,,0,1,1,2,0,0,0,0,4,3.7,-1,Eldridge Recasner
+2000-11-29,32-351,CHH,HOME,TOR,W (+24),0,11:59,2,2,1.000,0,0,,2,2,1.000,0,0,0,1,0,0,2,1,6,3.7,+5,Eldridge Recasner
+2000-12-01,32-353,CHH,AWAY,PHI,L (-21),0,7:55,1,2,.500,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.0,-6,Eldridge Recasner
+2000-12-02,32-354,CHH,HOME,UTA,W (+5),0,7:46,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,0,Eldridge Recasner
+2000-12-13,32-365,CHH,HOME,SAC,W (+11),0,5:19,0,0,,0,0,,0,0,,0,1,1,1,0,0,0,0,0,1.0,0,Eldridge Recasner
+2000-12-15,33-001,CHH,AWAY,WAS,W (+14),0,4:04,0,0,,0,0,,0,0,,0,2,2,0,0,0,0,1,0,0.2,-5,Eldridge Recasner
+2000-12-16,33-002,CHH,HOME,BOS,W (+12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Eldridge Recasner
+2000-12-20,33-006,CHH,HOME,MIA,W (+9),0,11:34,1,3,.333,0,1,.000,0,0,,2,0,2,0,0,0,0,0,2,1.7,+5,Eldridge Recasner
+2000-12-22,33-008,CHH,AWAY,MIN,W (+9),0,7:24,0,3,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-1.8,+4,Eldridge Recasner
+2000-12-23,33-009,CHH,HOME,SAS,W (+4),0,8:23,1,3,.333,0,1,.000,0,0,,0,0,0,1,0,0,0,2,2,0.2,-4,Eldridge Recasner
+2000-12-26,33-012,CHH,HOME,CLE,W (+5),0,8:15,1,1,1.000,0,0,,0,0,,0,0,0,2,0,0,2,2,2,0.3,+8,Eldridge Recasner
+2000-12-28,33-014,CHH,AWAY,SAC,L (-4),0,7:14,0,2,.000,0,2,.000,0,0,,0,0,0,2,0,0,1,0,0,-1.0,+1,Eldridge Recasner
+2000-12-30,33-016,CHH,AWAY,SEA,L (-2),0,7:45,1,3,.333,0,0,,2,2,1.000,1,1,2,1,1,0,1,0,4,4.0,-6,Eldridge Recasner
+2001-01-01,33-018,CHH,AWAY,POR,L (-22),0,14:28,0,3,.000,0,0,,0,0,,1,1,2,1,0,0,0,2,0,-1.2,-10,Eldridge Recasner
+2001-01-03,33-020,CHH,AWAY,VAN,L (-10),0,8:52,1,4,.250,0,2,.000,0,0,,1,0,1,1,0,0,1,1,2,-0.4,+6,Eldridge Recasner
+2001-01-05,33-022,CHH,AWAY,LAC,W (+13),0,5:14,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,-4,Eldridge Recasner
+2001-01-07,33-024,CHH,AWAY,DEN,L (-7),0,9:41,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,1,0,-2.8,-12,Eldridge Recasner
+2001-01-09,33-026,CHH,HOME,CHI,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Eldridge Recasner
+2001-01-11,33-028,CHH,HOME,POR,L (-13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Eldridge Recasner
+2001-01-12,33-029,CHH,AWAY,CHI,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Eldridge Recasner
+2001-02-06,33-054,CHH,HOME,ORL,L (-26),0,6:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,2,1,0,-2.4,-5,Eldridge Recasner
+2001-02-08,33-056,CHH,HOME,ATL,W (+17),0,12:46,3,5,.600,1,1,1.000,0,0,,0,2,2,3,0,0,0,3,7,6.2,+9,Eldridge Recasner
+2001-02-13,33-061,CHH,AWAY,IND,W (+11),0,10:15,0,2,.000,0,2,.000,2,2,1.000,1,2,3,1,0,0,1,1,2,1.2,+8,Eldridge Recasner
+2001-02-16,33-064,CHH,HOME,LAL,L (-5),0,7:27,1,3,.333,1,2,.500,0,0,,0,2,2,1,0,0,0,0,3,2.6,+1,Eldridge Recasner
+2001-02-17,33-065,CHH,AWAY,MIL,W (+10),0,5:16,0,1,.000,0,1,.000,0,0,,1,2,3,1,0,0,1,0,0,0.3,+2,Eldridge Recasner
+2001-02-22,33-070,CHH,HOME,GSW,W (+2),0,11:20,3,6,.500,1,2,.500,0,0,,1,1,2,0,1,0,0,1,7,5.6,0,Eldridge Recasner
+2001-02-24,33-072,CHH,HOME,PHI,W (+1),0,5:07,0,1,.000,0,0,,0,0,,0,2,2,1,1,0,0,0,0,1.6,+5,Eldridge Recasner
+2001-02-26,33-074,CHH,HOME,IND,W (+10),0,8:35,3,4,.750,2,3,.667,1,2,.500,1,1,2,2,0,0,1,0,9,8.4,-1,Eldridge Recasner
+2001-02-28,33-076,CHH,HOME,NJN,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Eldridge Recasner
+2001-03-02,33-078,CHH,AWAY,ATL,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Eldridge Recasner
+2001-03-08,33-084,CHH,HOME,ORL,W (+13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Eldridge Recasner
+2001-03-10,33-086,CHH,HOME,MIL,W (+10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Eldridge Recasner
+2001-03-24,33-100,CHH,AWAY,DAL,L (-3),0,10:03,0,2,.000,0,1,.000,0,0,,0,1,1,1,0,0,1,2,0,-2.2,-18,Eldridge Recasner
+2001-03-27,33-103,CHH,AWAY,SAS,L (-14),0,2:30,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,1,0,0.6,+1,Eldridge Recasner
+2001-04-01,33-108,CHH,HOME,BOS,W (+1),0,10:49,1,5,.200,1,1,1.000,0,0,,0,0,0,1,0,1,1,2,3,-0.5,-7,Eldridge Recasner
+2001-04-03,33-110,CHH,AWAY,NJN,W (+15),0,11:18,1,6,.167,0,1,.000,0,0,,1,1,2,0,0,0,0,1,2,-1.2,+1,Eldridge Recasner
+2001-04-04,33-111,CHH,HOME,PHO,L (-9),0,10:11,3,4,.750,1,1,1.000,2,2,1.000,0,1,1,0,0,0,1,0,9,6.7,-7,Eldridge Recasner
+2001-04-06,33-113,CHH,AWAY,MIA,L (-5),0,8:54,1,2,.500,0,1,.000,0,0,,0,4,4,1,0,0,2,0,2,0.9,0,Eldridge Recasner
+2001-04-07,33-114,CHH,HOME,DET,L (-5),0,7:08,0,3,.000,0,1,.000,0,2,.000,1,1,2,1,0,0,0,0,0,-1.2,-5,Eldridge Recasner
+2001-04-12,33-119,CHH,HOME,NJN,W (+10),0,8:31,1,2,.500,0,1,.000,0,0,,0,0,0,1,0,0,2,2,2,-1.1,+2,Eldridge Recasner
+2001-04-16,33-123,CHH,HOME,ATL,W (+23),0,4:17,1,2,.500,0,0,,0,0,,0,0,0,1,0,0,0,0,2,1.7,0,Eldridge Recasner
+2000-03-10,32-087,CHH,AWAY,LAC,W (+17),0,2:35,0,0,,0,0,,0,0,,0,2,2,1,0,0,0,0,0,1.3,-3,Eldridge Recasner
+2000-03-18,32-095,CHH,AWAY,IND,L (-14),0,1:42,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Eldridge Recasner
+2000-03-22,32-099,CHH,HOME,NJN,W (+16),0,1:38,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Eldridge Recasner
+2000-03-25,32-102,CHH,AWAY,ATL,W (+16),0,2:22,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-3,Eldridge Recasner
+2000-04-07,32-115,CHH,HOME,DET,L (-15),0,12:20,2,4,.500,0,2,.000,0,0,,0,1,1,2,0,0,0,0,4,3.7,+6,Eldridge Recasner
+2000-04-12,32-120,CHH,HOME,ATL,W (+32),0,4:21,1,2,.500,1,2,.500,0,0,,0,0,0,1,0,0,0,0,3,2.7,0,Eldridge Recasner
+2000-04-18,32-126,CHH,AWAY,CLE,W (+15),0,3:20,0,1,.000,0,0,,0,0,,0,1,1,1,0,0,0,0,0,0.3,-2,Eldridge Recasner

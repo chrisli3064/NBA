@@ -1,0 +1,8 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+1999-11-05,25-154,DEN,AWAY,POR,L (-12),0,4:39,.000,.000,0.0,22.9,12.0,0.0,0.0,0.0,0.0,18.6,0,103,-1.5,-23.6,Johnny Taylor
+2000-02-01,25-242,ORL,AWAY,NYK,W (+21),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Johnny Taylor
+2000-02-07,25-248,ORL,HOME,GSW,W (+20),0,4:46,.667,.667,26.7,19.6,22.6,0.0,0.0,0.0,0.0,25.8,139,101,3.7,5.9,Johnny Taylor
+2000-02-09,25-250,ORL,HOME,WAS,W (+11),0,1:17,.000,.000,0.0,0.0,0.0,100.0,0.0,0.0,0.0,42.2,52,115,0.0,-6.9,Johnny Taylor
+2000-02-16,25-257,ORL,HOME,LAC,W (+33),0,6:42,.500,.500,0.0,24.1,14.3,0.0,0.0,0.0,33.3,17.9,63,95,0.2,-15.2,Johnny Taylor
+2000-02-22,25-263,ORL,AWAY,SEA,L (-36),0,10:40,.375,.375,7.7,0.0,4.5,0.0,4.2,7.4,0.0,14.3,95,118,2.6,2.0,Johnny Taylor
+2000-04-19,25-320,ORL,HOME,TOR,W (+6),0,4:47,.500,.500,0.0,0.0,0.0,0.0,0.0,0.0,33.3,24.9,59,105,-0.8,-21.1,Johnny Taylor

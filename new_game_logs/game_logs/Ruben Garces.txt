@@ -1,0 +1,16 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2000-10-31,27-014,PHO,AWAY,GSW,L (-2),0,2:20,0,1,.000,0,0,,0,0,,0,0,0,0,0,1,1,2,0,-1.8,-4,Ruben Garces
+2000-11-02,27-016,PHO,HOME,POR,W (+26),0,2:35,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,+2,Ruben Garces
+2000-11-04,27-018,PHO,AWAY,DEN,W (+3),0,7:17,2,2,1.000,0,0,,1,2,.500,2,0,2,0,0,0,0,2,5,4.6,+18,Ruben Garces
+2000-11-05,27-019,PHO,HOME,HOU,W (+5),0,11:03,3,3,1.000,0,0,,0,4,.000,2,2,4,0,0,0,1,3,6,3.3,-5,Ruben Garces
+2000-11-07,27-021,PHO,HOME,SAS,W (+19),0,3:18,0,0,,0,0,,0,0,,0,1,1,1,0,0,0,0,0,1.0,+1,Ruben Garces
+2000-11-09,27-023,PHO,HOME,ATL,W (+9),0,6:50,0,0,,0,0,,0,0,,1,0,1,1,0,0,0,3,0,0.2,-9,Ruben Garces
+2000-11-11,27-025,PHO,HOME,MIA,W (+2),0,4:29,0,0,,0,0,,0,0,,1,0,1,1,0,0,1,1,0,0.0,-7,Ruben Garces
+2000-11-15,27-029,PHO,HOME,DAL,W (+21),0,1:29,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+7,Ruben Garces
+2000-12-19,27-063,PHO,HOME,DET,L (-5),0,10:40,0,0,,0,0,,1,1,1.000,0,2,2,0,1,0,1,3,1,0.4,+6,Ruben Garces
+2000-12-28,27-072,PHO,HOME,LAL,L (-37),0,12:00,2,8,.250,0,0,,0,1,.000,6,5,11,0,1,0,1,0,4,4.5,-11,Ruben Garces
+2001-01-26,27-101,GSW,HOME,SEA,L (-2),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Ruben Garces
+2001-01-30,27-105,GSW,AWAY,SAC,L (-26),0,7:09,0,5,.000,0,0,,0,0,,3,1,4,1,1,1,0,0,0,1.3,+9,Ruben Garces
+2001-02-05,27-111,GSW,AWAY,SAS,L (-24),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ruben Garces
+2001-02-13,27-119,GSW,HOME,PHO,L (-10),0,1:47,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+10,Ruben Garces
+2001-02-23,27-129,GSW,AWAY,MIN,L (-39),0,2:21,0,2,.000,0,0,,0,0,,1,1,2,0,0,0,0,0,0,-0.4,+3,Ruben Garces

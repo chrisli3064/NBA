@@ -1,0 +1,24 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+2000-11-01,33-137,DEN,AWAY,SEA,L (-13),0,18:36,.694,1.000,0.0,15.8,6.3,6.9,0.0,0.0,41.0,5.5,81,117,0.4,-8.2,Terry Davis
+2000-11-02,33-138,DEN,HOME,GSW,W (+4),0,17:45,.000,.000,0.0,16.3,8.6,0.0,0.0,0.0,34.7,7.0,0,99,-2.8,-14.2,Terry Davis
+2000-11-04,33-140,DEN,HOME,PHO,L (-3),0,9:44,.568,,22.9,29.1,25.6,14.5,0.0,0.0,53.2,7.7,97,107,1.9,-2.3,Terry Davis
+2000-11-08,33-144,DEN,HOME,MIN,W (+2),0,3:16,.000,.000,38.4,36.1,37.2,42.1,0.0,0.0,0.0,15.3,93,108,1.0,1.8,Terry Davis
+2000-11-09,33-145,DEN,AWAY,POR,L (-16),0,13:22,.798,1.000,34.3,21.1,28.4,0.0,0.0,0.0,0.0,6.5,181,121,5.3,4.8,Terry Davis
+2000-11-14,33-150,DEN,AWAY,LAL,L (-16),0,20:38,.773,1.000,14.6,6.0,10.8,0.0,2.4,0.0,0.0,7.9,156,127,6.1,-2.8,Terry Davis
+2000-11-16,33-152,DEN,HOME,CHI,W (+4),1,20:33,.333,.333,13.1,10.4,11.6,0.0,0.0,0.0,0.0,6.6,104,101,1.1,-6.4,Terry Davis
+2000-11-22,33-158,DEN,AWAY,UTA,L (-38),0,13:41,1.000,1.000,7.3,10.1,8.5,0.0,0.0,0.0,50.0,6.8,98,130,0.9,-8.1,Terry Davis
+2000-11-24,33-160,DEN,HOME,SAS,W (+10),0,12:34,1.000,1.000,12.7,8.6,10.3,0.0,0.0,0.0,0.0,3.9,209,114,2.3,-2.2,Terry Davis
+2000-11-25,33-161,DEN,AWAY,DAL,L (-24),0,4:36,,,0.0,21.3,10.0,0.0,0.0,0.0,,0.0,0,126,0.3,-6.2,Terry Davis
+2001-03-02,33-258,DEN,HOME,MIN,L (-18),0,8:50,.000,.000,0.0,13.7,6.4,0.0,0.0,0.0,0.0,5.3,0,108,-0.8,-12.4,Terry Davis
+2001-03-03,33-259,DEN,AWAY,PHO,L (-15),0,3:00,,,0.0,38.1,17.4,47.1,0.0,0.0,,0.0,209,104,0.6,6.9,Terry Davis
+2001-03-06,33-262,DEN,HOME,PHO,L (-11),0,8:56,.568,,11.1,56.1,31.0,0.0,0.0,8.2,0.0,4.5,148,89,2.0,-2.5,Terry Davis
+2001-03-09,33-265,DEN,AWAY,SAC,L (-6),0,7:44,.000,.000,13.3,28.6,20.7,0.0,0.0,0.0,0.0,11.1,38,115,-0.1,-13.3,Terry Davis
+2001-03-14,33-270,DEN,HOME,IND,W (+12),0,20:26,.532,.000,20.4,0.0,11.9,6.9,0.0,0.0,0.0,4.3,173,101,4.0,-2.7,Terry Davis
+2001-03-18,33-274,DEN,HOME,NJN,W (+14),0,3:37,.000,.000,0.0,23.5,14.3,0.0,0.0,0.0,0.0,23.6,0,92,-1.5,-33.5,Terry Davis
+2001-03-24,33-280,DEN,AWAY,CLE,L (-12),0,5:16,.615,.500,22.3,0.0,11.3,0.0,0.0,0.0,0.0,21.3,143,131,1.5,-8.7,Terry Davis
+2001-03-26,33-282,DEN,AWAY,CHI,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Terry Davis
+2001-03-28,33-284,DEN,AWAY,NJN,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Terry Davis
+2001-03-31,33-287,DEN,AWAY,ATL,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Terry Davis
+2001-04-03,33-290,DEN,HOME,POR,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Terry Davis
+2001-04-17,33-304,DEN,AWAY,LAL,L (-17),0,26:29,.453,.500,6.7,16.1,11.0,6.6,0.0,0.0,15.3,10.5,93,115,3.1,-5.1,Terry Davis
+2001-04-18,33-305,DEN,HOME,SAC,W (+10),0,6:37,.667,.667,12.2,0.0,6.7,21.2,0.0,0.0,0.0,15.8,160,110,3.3,4.9,Terry Davis

@@ -1,0 +1,394 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+2001-10-30,28-293,MIL,AWAY,UTA,W (+7),1,38:46,.592,.548,6.8,8.5,7.5,9.7,1.4,0.0,4.1,31.0,124,120,20.3,0.9,Glenn Robinson
+2001-11-01,28-295,MIL,AWAY,DEN,W (+1),1,31:33,.495,.474,0.0,27.3,13.2,12.0,6.8,2.5,4.5,35.5,96,104,15.8,0.3,Glenn Robinson
+2001-11-03,28-297,MIL,HOME,BOS,W (+6),1,35:31,.585,.471,3.8,27.2,18.0,11.4,4.6,0.0,0.0,26.8,135,99,22.5,7.0,Glenn Robinson
+2001-11-08,28-302,MIL,HOME,MIA,W (+4),1,37:10,.697,.656,5.8,11.8,8.7,14.4,2.9,0.0,21.2,29.7,109,91,18.2,6.9,Glenn Robinson
+2001-11-10,28-304,MIL,HOME,MIN,L (-16),1,29:59,.380,.389,3.5,11.7,7.4,20.2,3.7,0.0,5.1,31.9,84,111,6.9,-2.9,Glenn Robinson
+2001-11-14,28-308,MIL,AWAY,WAS,W (+9),1,35:24,.509,.409,0.0,7.8,4.2,9.3,3.1,0.0,19.0,22.4,88,111,7.1,-6.3,Glenn Robinson
+2001-11-17,28-311,MIL,HOME,UTA,W (+11),1,40:15,.589,.500,5.9,21.0,13.3,25.4,2.8,1.8,9.4,36.0,124,103,26.3,7.2,Glenn Robinson
+2001-11-21,28-315,MIL,HOME,CHI,W (+4),1,38:25,.612,.500,6.8,18.9,13.1,13.5,4.3,0.0,10.0,26.7,121,99,19.7,3.9,Glenn Robinson
+2001-11-22,28-316,MIL,AWAY,TOR,W (+3),1,40:43,.582,.533,0.0,21.3,13.2,15.4,1.3,1.6,15.5,23.6,101,82,13.9,5.4,Glenn Robinson
+2001-11-24,28-318,MIL,HOME,ATL,W (+7),1,39:42,.391,.325,2.8,16.0,9.5,11.7,2.5,3.9,8.4,25.6,86,90,10.6,-2.6,Glenn Robinson
+2001-11-27,28-321,MIL,AWAY,LAL,L (-19),1,36:46,.336,.294,3.2,2.5,2.8,13.6,0.0,0.0,5.3,25.3,76,130,3.8,-6.9,Glenn Robinson
+2001-11-28,28-322,MIL,AWAY,PHO,L (-20),1,28:48,.533,.533,0.0,3.8,1.8,14.5,0.0,0.0,6.3,25.8,104,122,8.6,-1.6,Glenn Robinson
+2001-11-30,28-324,MIL,AWAY,POR,L (-6),1,37:16,.586,.559,0.0,12.4,6.7,4.9,1.6,0.0,4.8,28.1,120,127,15.0,-0.1,Glenn Robinson
+2001-12-02,28-326,MIL,AWAY,SEA,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+2001-12-04,28-328,MIL,HOME,NYK,L (-14),1,36:40,.611,.559,0.0,21.6,9.4,0.0,4.5,0.0,16.9,28.6,100,90,14.0,8.2,Glenn Robinson
+2001-12-06,28-330,MIL,HOME,TOR,W (+6),1,37:05,.428,.346,0.0,8.8,4.6,12.6,2.9,0.0,16.5,23.2,85,99,7.1,-3.8,Glenn Robinson
+2001-12-08,28-332,MIL,HOME,NJN,W (+16),1,28:15,.488,.417,4.2,11.6,8.6,10.6,1.9,0.0,13.1,24.8,100,89,8.9,-0.1,Glenn Robinson
+2001-12-11,28-335,MIL,AWAY,MIA,L (-2),1,40:54,.375,.375,0.0,12.7,6.2,28.1,5.3,0.0,20.0,23.4,72,106,7.0,-4.7,Glenn Robinson
+2001-12-14,28-338,MIL,AWAY,PHI,W (+16),1,37:35,.702,.682,2.7,23.7,13.4,12.4,2.6,3.4,14.2,33.3,117,80,28.0,13.8,Glenn Robinson
+2001-12-15,28-339,MIL,HOME,IND,W (+20),1,34:49,.640,.667,0.0,22.4,13.0,21.0,5.4,1.7,14.9,23.3,112,83,21.8,12.6,Glenn Robinson
+2001-12-18,28-342,MIL,AWAY,MEM,W (+9),1,39:23,.557,.472,7.2,5.7,6.4,7.9,4.1,6.0,12.7,28.2,116,112,18.7,1.9,Glenn Robinson
+2001-12-20,28-344,MIL,AWAY,DAL,L (-12),1,32:56,.453,.381,4.9,19.8,11.3,21.7,0.0,2.3,7.9,30.7,104,118,12.6,-0.3,Glenn Robinson
+2001-12-22,28-346,MIL,AWAY,HOU,L (-5),1,39:03,.637,.619,0.0,8.6,4.8,3.9,1.4,0.0,4.2,28.3,129,133,19.5,0.6,Glenn Robinson
+2001-12-23,28-347,MIL,AWAY,SAS,W (+10),1,39:16,.567,.577,4.0,7.1,5.9,10.0,1.3,0.0,13.1,39.0,100,105,16.2,-2.4,Glenn Robinson
+2001-12-26,28-350,MIL,HOME,ATL,W (+10),1,35:09,.646,.609,0.0,8.4,4.7,11.2,3.0,6.0,0.0,33.1,133,102,25.5,12.5,Glenn Robinson
+2001-12-28,28-352,MIL,AWAY,CHH,W (+16),1,36:47,.517,.500,0.0,15.9,8.2,12.8,1.4,0.0,16.4,28.9,95,98,11.4,-2.5,Glenn Robinson
+2001-12-29,28-353,MIL,HOME,SAS,W (+3),1,32:43,.640,.618,0.0,9.3,5.2,13.4,1.6,0.0,17.6,32.7,99,101,14.2,1.2,Glenn Robinson
+2001-12-31,28-355,MIL,AWAY,CHI,L (-7),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Glenn Robinson
+2002-01-02,28-357,MIL,AWAY,MIN,L (-18),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Glenn Robinson
+2002-01-05,28-360,MIL,AWAY,LAC,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+2002-01-06,28-361,MIL,AWAY,SAC,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+2002-01-08,28-363,MIL,AWAY,GSW,W (+16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+2002-01-11,29-001,MIL,HOME,WAS,W (+19),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+2002-01-12,29-002,MIL,AWAY,NYK,W (+5),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Glenn Robinson
+2002-01-15,29-005,MIL,AWAY,IND,W (+4),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Glenn Robinson
+2002-01-16,29-006,MIL,HOME,IND,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+2002-01-18,29-008,MIL,HOME,ORL,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+2002-01-19,29-009,MIL,AWAY,ATL,W (+9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+2002-01-21,29-011,MIL,AWAY,DET,W (+18),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+2002-01-22,29-012,MIL,HOME,PHO,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+2002-01-24,29-014,MIL,HOME,SEA,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+2002-01-26,29-016,MIL,HOME,NYK,L (-2),0,40:29,.611,.571,3.0,19.9,11.7,0.0,1.3,2.0,8.8,38.0,114,116,24.7,5.7,Glenn Robinson
+2002-01-29,29-019,MIL,HOME,BOS,W (+19),0,25:32,.594,.594,0.0,10.7,6.7,25.4,6.1,0.0,20.0,37.1,92,89,11.8,0.0,Glenn Robinson
+2002-01-31,29-021,MIL,AWAY,NJN,L (-25),0,26:42,.537,.412,8.5,5.1,6.9,8.3,0.0,2.6,12.3,37.9,105,132,12.0,-1.2,Glenn Robinson
+2002-02-02,29-023,MIL,HOME,PHI,L (-5),1,38:28,.422,.400,8.1,13.2,10.6,20.1,1.5,3.6,22.0,32.1,81,100,6.8,-2.6,Glenn Robinson
+2002-02-07,29-028,MIL,HOME,MEM,W (+4),1,35:48,.455,.455,0.0,15.5,8.3,19.4,5.7,1.8,26.7,19.1,79,101,9.2,-1.6,Glenn Robinson
+2002-02-12,29-033,MIL,AWAY,CHI,L (-4),1,36:29,.409,.368,3.4,22.7,14.0,17.6,1.5,1.8,12.6,32.0,77,102,9.6,-5.0,Glenn Robinson
+2002-02-13,29-034,MIL,HOME,CLE,L (-8),1,36:48,.708,.594,7.6,3.1,5.1,4.6,0.0,5.7,4.2,30.1,147,130,26.3,8.6,Glenn Robinson
+2002-02-15,29-036,MIL,HOME,MIA,L (-2),1,43:23,.436,.423,5.7,20.9,14.1,12.7,2.6,1.6,17.3,39.6,75,91,11.4,-2.9,Glenn Robinson
+2002-02-17,29-038,MIL,AWAY,TOR,W (+5),1,21:47,.269,.214,0.0,14.5,7.9,0.0,2.4,3.1,6.3,35.9,53,93,0.2,-15.3,Glenn Robinson
+2002-02-18,29-039,MIL,HOME,CHH,L (-9),1,35:16,.480,.471,7.4,3.5,5.4,22.8,1.6,0.0,17.6,30.7,95,120,8.4,-6.7,Glenn Robinson
+2002-02-20,29-041,MIL,HOME,HOU,W (+39),1,34:15,.556,.528,5.2,14.4,11.1,24.0,8.5,4.2,5.0,30.1,125,75,23.0,11.9,Glenn Robinson
+2002-02-22,29-043,MIL,HOME,GSW,W (+4),1,25:15,.343,.310,4.5,6.0,5.1,21.0,0.0,0.0,4.4,38.1,97,133,4.4,-14.2,Glenn Robinson
+2002-02-24,29-045,MIL,HOME,DET,W (+7),1,35:19,.650,.650,5.7,11.7,8.7,5.3,1.6,0.0,23.1,16.9,104,99,8.5,0.1,Glenn Robinson
+2002-02-26,29-047,MIL,HOME,LAL,L (-10),1,39:21,.579,.417,3.7,11.7,8.2,9.9,1.5,0.0,5.7,23.2,122,117,13.9,1.9,Glenn Robinson
+2002-02-27,29-048,MIL,AWAY,BOS,W (+3),1,34:18,.619,.563,7.8,8.6,8.3,0.0,1.6,0.0,5.3,27.5,124,108,15.9,0.6,Glenn Robinson
+2002-03-02,29-051,MIL,HOME,POR,L (-1),1,36:13,.538,.524,7.2,21.5,14.9,11.0,1.5,2.1,15.2,35.1,97,105,13.9,-1.3,Glenn Robinson
+2002-03-03,29-052,MIL,AWAY,CLE,W (+10),1,38:43,.595,.525,10.0,19.6,15.2,14.4,2.8,2.0,7.8,33.3,119,98,23.4,6.7,Glenn Robinson
+2002-03-05,29-054,MIL,AWAY,NYK,L (-13),1,31:21,.558,.444,0.0,7.7,3.7,5.0,0.0,0.0,25.6,24.4,89,125,4.0,-11.7,Glenn Robinson
+2002-03-06,29-055,MIL,HOME,LAC,W (+6),1,35:17,.652,.625,7.6,10.5,9.1,5.9,6.1,0.0,15.1,27.6,109,88,17.2,7.1,Glenn Robinson
+2002-03-08,29-057,MIL,HOME,CLE,L (-6),1,41:07,.689,.650,2.9,29.8,15.6,4.8,2.7,0.0,12.1,29.2,122,119,22.3,1.6,Glenn Robinson
+2002-03-10,29-059,MIL,HOME,SAC,L (-25),1,33:25,.500,.500,13.4,16.4,14.9,18.3,0.0,0.0,17.6,24.4,93,112,9.2,-0.5,Glenn Robinson
+2002-03-12,29-061,MIL,HOME,CHI,W (+29),1,35:00,.450,.406,15.2,20.6,17.7,24.4,0.0,2.0,0.0,22.9,123,91,16.2,4.0,Glenn Robinson
+2002-03-16,29-065,MIL,HOME,DET,L (-8),1,38:52,.522,.500,2.9,27.7,14.8,15.2,2.8,0.0,6.1,19.0,115,112,15.0,3.6,Glenn Robinson
+2002-03-18,29-067,MIL,AWAY,CHH,L (-3),1,38:00,.595,.577,0.0,17.0,10.8,19.0,0.0,4.9,13.0,20.0,113,122,13.8,1.8,Glenn Robinson
+2002-03-19,29-068,MIL,AWAY,ORL,L (-10),1,22:33,.547,.500,5.1,29.8,18.6,16.3,0.0,3.4,7.8,24.8,117,103,9.6,5.0,Glenn Robinson
+2002-03-22,29-071,MIL,AWAY,NJN,L (-24),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+2002-03-24,29-073,MIL,HOME,ORL,W (+25),1,35:17,.847,.808,3.4,24.7,15.2,9.1,4.2,0.0,21.3,23.8,126,81,22.9,9.0,Glenn Robinson
+2002-03-26,29-075,MIL,HOME,DAL,L (-6),1,43:04,.386,.341,3.0,22.6,13.7,16.8,0.0,0.0,20.5,32.7,70,116,4.8,-13.6,Glenn Robinson
+2002-03-28,29-077,MIL,HOME,DEN,W (+7),1,36:19,.451,.333,12.7,25.3,20.0,17.4,1.5,0.0,15.9,32.0,94,90,13.2,-3.3,Glenn Robinson
+2002-03-29,29-078,MIL,AWAY,WAS,L (-9),1,30:09,.504,.467,0.0,21.1,10.4,5.4,0.0,1.9,23.9,31.1,79,115,4.6,-10.2,Glenn Robinson
+2002-03-31,29-080,MIL,AWAY,BOS,L (-30),1,35:37,.599,.545,2.8,26.7,14.5,26.1,2.6,0.0,14.2,34.7,101,104,20.7,9.6,Glenn Robinson
+2002-04-02,29-082,MIL,AWAY,ATL,L (-8),1,39:39,.402,.396,2.6,5.5,4.0,13.2,1.3,0.0,13.9,32.6,79,114,5.6,-10.0,Glenn Robinson
+2002-04-03,29-083,MIL,HOME,WAS,W (+15),1,38:45,.659,.604,0.0,10.5,5.4,4.9,1.4,0.0,9.4,39.1,120,106,24.4,4.1,Glenn Robinson
+2002-04-05,29-085,MIL,AWAY,MIA,L (-5),1,37:55,.575,.500,0.0,15.8,8.4,17.8,2.8,0.0,10.8,24.4,110,112,14.2,0.9,Glenn Robinson
+2002-04-07,29-087,MIL,AWAY,PHI,L (-2),1,37:18,.335,.308,0.0,28.8,13.5,27.0,0.0,0.0,13.0,21.3,85,111,5.3,-6.3,Glenn Robinson
+2002-04-09,29-089,MIL,HOME,PHI,L (-2),1,34:46,.507,.469,4.3,21.1,13.5,11.7,0.0,3.9,5.3,27.7,108,111,12.3,2.2,Glenn Robinson
+2002-04-10,29-090,MIL,AWAY,CLE,L (-25),1,31:14,.531,.472,0.0,4.8,2.0,26.4,0.0,2.2,9.2,31.5,100,117,11.9,1.3,Glenn Robinson
+2002-04-12,29-092,MIL,AWAY,IND,L (-5),1,44:31,.316,.316,5.5,33.7,18.1,3.4,2.5,2.1,9.5,23.3,68,114,5.7,-10.6,Glenn Robinson
+2002-04-14,29-094,MIL,HOME,CHH,W (+7),1,32:54,.681,.688,0.0,6.8,3.6,22.4,0.0,0.0,5.6,26.1,135,116,15.9,5.6,Glenn Robinson
+2002-04-16,29-096,MIL,HOME,TOR,W (+16),1,37:59,.527,.500,3.8,15.0,10.1,4.3,4.5,1.7,12.6,30.6,104,100,14.4,-1.8,Glenn Robinson
+2002-04-17,29-097,MIL,AWAY,DET,L (-34),1,31:24,.527,.467,0.0,17.7,7.6,6.2,1.7,0.0,17.4,34.1,89,131,8.8,-5.9,Glenn Robinson
+2000-10-31,27-295,MIL,AWAY,DAL,L (-4),1,43:23,.349,.286,4.6,14.5,9.8,11.7,2.4,5.3,20.2,19.6,73,98,6.9,-1.1,Glenn Robinson
+2000-11-02,27-297,MIL,AWAY,HOU,L (-22),1,37:15,.578,.526,6.8,18.5,12.4,6.2,1.5,5.4,12.6,30.7,110,124,17.3,3.6,Glenn Robinson
+2000-11-04,27-299,MIL,HOME,DET,W (+9),1,32:32,.373,.308,7.9,20.9,14.8,29.0,0.0,0.0,0.0,20.5,104,95,8.9,0.0,Glenn Robinson
+2000-11-07,27-302,MIL,HOME,NYK,L (-14),1,35:28,.661,.633,0.0,19.6,8.8,12.7,1.5,4.4,30.6,32.9,85,111,11.6,-0.8,Glenn Robinson
+2000-11-08,27-303,MIL,AWAY,IND,L (-11),1,40:46,.506,.472,2.4,11.4,6.5,15.8,0.0,1.9,13.2,24.7,102,126,11.8,-1.8,Glenn Robinson
+2000-11-11,27-306,MIL,HOME,MIN,L (-11),1,36:11,.397,.389,0.0,15.9,8.3,10.4,0.0,0.0,5.0,26.2,88,122,5.5,-9.0,Glenn Robinson
+2000-11-15,27-310,MIL,HOME,ATL,W (+10),1,37:19,.573,.559,0.0,15.8,8.1,24.3,1.6,4.8,5.2,27.3,119,88,16.8,8.1,Glenn Robinson
+2000-11-17,27-312,MIL,HOME,CLE,W (+13),1,35:21,.626,.600,5.8,20.6,12.6,36.3,1.5,0.0,15.2,26.6,114,85,17.9,8.3,Glenn Robinson
+2000-11-18,27-313,MIL,AWAY,TOR,L (-9),1,40:34,.473,.481,12.5,24.6,17.9,12.1,0.0,0.0,7.0,30.6,106,123,16.8,1.3,Glenn Robinson
+2000-11-22,27-317,MIL,HOME,POR,L (-9),1,40:30,.479,.450,5.7,3.8,4.9,32.4,2.8,0.0,16.1,30.0,95,112,12.7,2.0,Glenn Robinson
+2000-11-24,27-319,MIL,HOME,CHH,L (-16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+2000-11-25,27-320,MIL,AWAY,WAS,L (-7),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Glenn Robinson
+2000-11-27,27-322,MIL,AWAY,ORL,W (+9),0,33:54,.626,.567,3.5,20.6,12.8,16.5,1.4,9.7,0.0,22.0,135,91,21.6,11.8,Glenn Robinson
+2000-11-28,27-323,MIL,AWAY,MIA,W (+1),1,32:24,.519,.474,0.0,15.0,7.2,26.7,0.0,2.8,4.5,31.3,119,117,14.4,4.3,Glenn Robinson
+2000-11-30,27-325,MIL,HOME,BOS,W (+11),1,35:13,.735,.735,0.0,18.0,9.8,38.4,6.0,2.6,22.7,30.2,117,97,23.1,12.0,Glenn Robinson
+2000-12-02,27-327,MIL,AWAY,ATL,L (-7),1,29:12,.389,.389,3.8,10.8,7.4,28.3,3.4,0.0,18.2,33.4,74,102,4.2,-6.9,Glenn Robinson
+2000-12-03,27-328,MIL,HOME,IND,W (+12),0,35:01,.505,.477,3.0,29.7,14.9,27.9,3.0,0.0,14.4,34.3,97,86,14.5,7.0,Glenn Robinson
+2000-12-06,27-331,MIL,AWAY,NJN,W (+22),1,38:42,.608,.575,7.2,14.3,11.2,17.9,1.4,0.0,18.4,31.1,110,100,18.3,0.7,Glenn Robinson
+2000-12-07,27-332,MIL,HOME,PHO,L (-8),1,39:16,.568,.545,5.7,29.0,16.0,10.2,1.4,2.0,4.2,28.9,125,120,19.7,4.7,Glenn Robinson
+2000-12-09,27-334,MIL,HOME,WAS,W (+8),1,36:27,.536,.412,3.4,33.3,19.3,37.8,4.2,5.4,19.6,32.4,100,82,20.7,9.8,Glenn Robinson
+2000-12-12,27-337,MIL,AWAY,LAL,W (+4),1,38:33,.498,.457,6.0,25.5,17.0,18.4,3.9,1.8,3.7,32.2,110,100,22.5,5.6,Glenn Robinson
+2000-12-13,27-338,MIL,AWAY,UTA,W (+9),1,38:53,.593,.500,10.9,18.5,15.0,20.0,0.0,2.1,10.0,35.3,126,118,23.2,5.2,Glenn Robinson
+2000-12-15,27-340,MIL,HOME,TOR,W (+7),1,36:50,.607,.545,2.9,21.6,11.4,11.6,1.4,1.9,7.3,34.0,122,106,22.4,8.0,Glenn Robinson
+2000-12-17,27-342,MIL,AWAY,NYK,L (-3),1,47:49,.395,.308,8.2,18.0,12.5,21.9,1.2,1.6,6.4,30.6,94,103,14.1,1.3,Glenn Robinson
+2000-12-21,27-346,MIL,HOME,NJN,W (+2),1,40:46,.329,.278,0.0,24.8,13.4,21.1,2.5,1.8,26.2,29.2,56,79,2.2,-7.4,Glenn Robinson
+2000-12-23,27-348,MIL,HOME,BOS,W (+5),1,34:17,.587,.500,4.9,18.4,13.2,19.0,1.5,4.3,14.4,38.3,110,102,18.5,3.3,Glenn Robinson
+2000-12-26,27-351,MIL,HOME,ORL,W (+12),1,35:25,.517,.455,3.5,19.9,13.1,5.5,0.0,3.9,12.1,22.7,95,82,10.5,0.0,Glenn Robinson
+2000-12-28,27-353,MIL,AWAY,CLE,W (+18),1,32:31,.619,.563,6.9,13.9,10.4,15.9,0.0,2.5,5.3,24.9,132,101,17.6,7.0,Glenn Robinson
+2000-12-30,27-355,MIL,AWAY,DEN,L (-7),1,39:47,.529,.458,4.8,22.1,12.3,5.3,1.2,0.0,14.6,34.2,99,120,15.6,-3.6,Glenn Robinson
+2001-01-02,27-358,MIL,AWAY,CHI,W (+34),1,33:29,.503,.475,9.0,11.3,10.2,25.9,3.1,4.3,12.6,31.4,103,77,17.4,7.0,Glenn Robinson
+2001-01-03,27-359,MIL,HOME,CLE,W (+5),1,37:34,.267,.176,5.4,12.3,8.6,32.5,1.4,0.0,13.8,24.0,75,98,3.6,-7.4,Glenn Robinson
+2001-01-05,27-361,MIL,AWAY,POR,L (-4),1,41:29,.604,.556,5.7,22.5,12.2,4.0,1.2,0.0,15.7,28.0,109,126,14.8,-3.0,Glenn Robinson
+2001-01-07,27-363,MIL,AWAY,VAN,L (-3),1,42:58,.488,.450,11.6,8.3,10.4,3.1,2.1,0.0,8.6,30.9,108,118,17.8,-2.4,Glenn Robinson
+2001-01-09,27-365,MIL,HOME,WAS,W (+4),1,37:38,.473,.382,0.0,8.3,4.7,17.2,1.4,3.7,16.6,30.8,88,102,10.4,-3.4,Glenn Robinson
+2001-01-11,28-001,MIL,HOME,DAL,W (+8),1,39:23,.546,.529,3.2,22.0,13.8,23.8,0.0,0.0,21.4,26.4,96,102,11.6,-2.6,Glenn Robinson
+2001-01-13,28-003,MIL,HOME,NJN,W (+34),1,34:37,.830,.778,6.9,3.0,4.8,16.6,1.5,4.1,12.5,32.2,146,90,30.0,15.7,Glenn Robinson
+2001-01-15,28-005,MIL,AWAY,WAS,W (+6),1,36:26,.583,.556,3.3,15.9,9.6,21.6,1.5,0.0,9.6,26.4,119,107,15.8,3.4,Glenn Robinson
+2001-01-16,28-006,MIL,HOME,LAC,W (+21),1,35:16,.634,.636,7.2,28.6,19.1,14.8,1.4,2.1,8.0,33.2,118,92,25.0,7.1,Glenn Robinson
+2001-01-19,28-009,MIL,AWAY,CHH,W (+7),1,36:38,.577,.531,0.0,5.2,2.9,0.0,1.5,5.1,14.8,26.6,98,112,11.9,-2.0,Glenn Robinson
+2001-01-21,28-011,MIL,AWAY,DET,W (+4),1,39:46,.577,.474,2.5,23.3,11.4,15.4,0.0,2.0,0.0,25.1,132,109,21.4,7.5,Glenn Robinson
+2001-01-23,28-013,MIL,HOME,NYK,W (+14),1,40:29,.550,.438,0.0,7.1,3.2,22.8,0.0,0.0,17.3,27.3,106,109,12.2,-3.1,Glenn Robinson
+2001-01-27,28-017,MIL,HOME,DET,L (-5),1,40:39,.605,.560,7.6,8.0,7.8,25.7,2.5,0.0,12.5,32.7,117,116,23.4,6.1,Glenn Robinson
+2001-01-29,28-019,MIL,AWAY,MIN,L (-3),1,44:00,.486,.400,7.1,17.0,12.0,9.0,5.8,0.0,3.7,27.2,108,98,21.4,6.2,Glenn Robinson
+2001-01-31,28-021,MIL,HOME,DEN,W (+5),1,36:16,.578,.526,3.3,7.0,5.1,12.9,1.4,0.0,12.2,31.3,108,123,15.5,-2.0,Glenn Robinson
+2001-02-03,28-024,MIL,HOME,IND,W (+19),1,30:08,.649,.577,3.3,35.0,16.0,5.4,1.8,2.9,10.5,28.7,122,91,18.1,9.5,Glenn Robinson
+2001-02-06,28-027,MIL,HOME,SAC,W (+3),1,37:51,.397,.389,3.2,14.0,9.0,14.4,1.3,1.8,27.0,29.2,67,109,2.5,-12.4,Glenn Robinson
+2001-02-07,28-028,MIL,AWAY,BOS,L (-3),1,37:26,.488,.472,19.2,16.8,18.0,18.0,0.0,4.1,5.1,22.5,116,99,16.8,6.6,Glenn Robinson
+2001-02-13,28-034,MIL,HOME,PHI,L (-3),1,39:32,.517,.500,5.9,9.4,7.8,4.7,2.5,3.2,3.6,30.1,108,111,18.9,1.7,Glenn Robinson
+2001-02-14,28-035,MIL,AWAY,ATL,W (+4),1,35:47,.483,.469,3.1,2.5,2.8,18.0,0.0,1.6,9.7,25.2,100,113,10.5,-0.9,Glenn Robinson
+2001-02-17,28-038,MIL,HOME,CHH,L (-10),1,40:39,.524,.500,8.4,12.7,10.4,17.3,2.7,0.0,14.9,31.0,101,118,16.7,1.1,Glenn Robinson
+2001-02-19,28-040,MIL,HOME,SAS,W (+4),1,40:22,.578,.553,6.0,3.2,4.7,20.0,1.3,0.0,16.8,28.9,108,114,15.1,0.1,Glenn Robinson
+2001-02-20,28-041,MIL,AWAY,CHI,W (+9),1,21:37,.279,.222,0.0,19.8,9.8,13.4,0.0,0.0,27.1,29.0,50,100,-2.5,-18.3,Glenn Robinson
+2001-02-23,28-044,MIL,HOME,VAN,W (+12),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Glenn Robinson
+2001-02-25,28-046,MIL,HOME,GSW,W (+27),1,38:05,.737,.704,8.4,9.7,9.1,9.6,0.0,0.0,8.9,36.3,145,107,34.2,12.8,Glenn Robinson
+2001-02-26,28-047,MIL,AWAY,PHI,W (+7),1,39:26,.396,.396,3.2,8.8,6.2,8.0,0.0,0.0,11.1,35.0,78,113,5.4,-11.1,Glenn Robinson
+2001-02-28,28-049,MIL,AWAY,IND,L (-13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+2001-03-01,28-050,MIL,HOME,HOU,L (-17),1,38:40,.475,.475,0.0,3.3,1.6,9.5,1.4,3.5,16.7,28.2,86,122,7.9,-5.3,Glenn Robinson
+2001-03-03,28-052,MIL,HOME,CHI,W (+4),1,49:33,.461,.452,7.6,17.8,12.3,9.7,2.3,0.0,5.6,33.3,110,119,19.3,-3.0,Glenn Robinson
+2001-03-05,28-054,MIL,AWAY,NJN,W (+7),1,30:34,.414,.400,6.9,21.6,14.1,28.0,3.4,0.0,12.1,35.6,91,106,12.1,-1.5,Glenn Robinson
+2001-03-07,28-056,MIL,AWAY,BOS,W (+7),1,38:07,.294,.294,5.5,22.5,13.9,17.0,0.0,2.5,26.1,26.5,59,99,0.2,-12.0,Glenn Robinson
+2001-03-10,28-059,MIL,AWAY,CHH,L (-10),1,36:53,.492,.450,2.6,25.4,13.7,21.1,0.0,0.0,12.3,30.1,90,104,12.6,-1.0,Glenn Robinson
+2001-03-11,28-060,MIL,AWAY,CLE,L (-14),1,39:45,.699,.682,3.0,16.7,9.5,11.3,0.0,0.0,4.2,27.8,129,133,23.6,2.9,Glenn Robinson
+2001-03-13,28-062,MIL,AWAY,TOR,W (+4),1,34:53,.429,.429,3.2,2.7,2.9,4.6,3.0,0.0,12.5,31.3,81,111,7.2,-4.9,Glenn Robinson
+2001-03-15,28-064,MIL,HOME,SEA,L (-6),1,35:39,.483,.450,0.0,24.2,13.2,17.0,1.5,1.9,4.4,31.4,103,118,13.7,-2.2,Glenn Robinson
+2001-03-17,28-066,MIL,HOME,PHI,W (+9),1,40:14,.625,.625,0.0,14.5,6.8,4.8,5.9,0.0,11.1,23.1,105,89,16.3,6.6,Glenn Robinson
+2001-03-18,28-067,MIL,AWAY,DET,W (+4),1,37:48,.524,.523,3.2,11.9,8.1,10.9,2.7,0.0,11.6,30.8,99,101,14.0,2.0,Glenn Robinson
+2001-03-21,28-070,MIL,HOME,LAL,W (+7),1,37:00,.630,.556,3.3,10.8,7.5,27.8,1.4,6.7,8.8,27.5,124,103,23.5,14.7,Glenn Robinson
+2001-03-23,28-072,MIL,HOME,ORL,W (+12),1,35:46,.568,.545,3.3,5.6,4.5,11.0,0.0,0.0,8.0,30.0,109,113,13.7,-2.0,Glenn Robinson
+2001-03-25,28-074,MIL,HOME,ATL,W (+7),1,33:48,.389,.389,3.4,6.7,5.1,5.2,0.0,0.0,10.0,27.2,81,119,2.6,-15.1,Glenn Robinson
+2001-03-26,28-075,MIL,AWAY,PHI,L (-12),1,27:58,.547,.531,8.6,20.6,15.2,10.5,0.0,0.0,23.3,34.8,88,99,8.9,1.0,Glenn Robinson
+2001-03-29,28-078,MIL,HOME,MIA,W (+8),1,38:49,.679,.658,6.0,13.4,9.9,5.8,0.0,0.0,9.1,26.2,129,114,19.7,2.7,Glenn Robinson
+2001-03-31,28-080,MIL,AWAY,SAS,W (+9),1,34:32,.415,.375,0.0,16.6,8.7,12.5,1.6,0.0,10.6,25.2,83,86,7.0,-0.3,Glenn Robinson
+2001-04-01,28-081,MIL,AWAY,PHO,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+2001-04-03,28-083,MIL,AWAY,SAC,W (+6),1,36:56,.466,.444,10.6,16.2,13.6,12.3,2.6,4.6,13.4,24.9,99,96,15.1,3.5,Glenn Robinson
+2001-04-04,28-084,MIL,AWAY,GSW,W (+30),1,31:34,.568,.545,7.7,29.5,20.5,23.1,4.9,0.0,4.2,34.3,122,68,24.9,12.0,Glenn Robinson
+2001-04-06,28-086,MIL,AWAY,LAC,L (-3),1,42:53,.495,.467,7.0,21.9,13.8,26.8,2.4,1.6,3.1,32.5,112,105,23.3,8.9,Glenn Robinson
+2001-04-08,28-088,MIL,AWAY,SEA,L (-13),1,34:56,.567,.567,7.8,15.2,11.6,23.8,0.0,1.8,11.8,24.4,107,117,13.0,2.1,Glenn Robinson
+2001-04-10,28-090,MIL,HOME,CHI,W (+21),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+2001-04-12,28-092,MIL,HOME,UTA,W (+22),1,32:38,.466,.417,3.4,21.8,12.3,21.6,1.6,0.0,13.4,20.8,105,105,10.6,-1.5,Glenn Robinson
+2001-04-14,28-094,MIL,HOME,TOR,W (+26),1,29:57,.517,.500,10.7,16.0,14.0,28.1,0.0,0.0,23.3,32.4,101,95,9.9,-5.6,Glenn Robinson
+2001-04-16,28-096,MIL,AWAY,ORL,W (+12),1,38:15,.400,.386,11.0,14.4,12.6,13.6,5.4,2.2,14.4,31.3,86,88,11.9,0.4,Glenn Robinson
+2001-04-17,28-097,MIL,AWAY,MIA,L (-2),1,32:36,.545,.472,0.0,11.5,5.1,11.9,1.7,2.2,12.9,32.1,104,106,13.2,4.1,Glenn Robinson
+2002-10-30,29-293,ATL,AWAY,NJN,L (-11),1,41:56,.567,.481,8.4,20.0,14.1,39.3,5.9,2.9,18.9,37.6,106,100,29.0,11.4,Glenn Robinson
+2002-10-31,29-294,ATL,HOME,UTA,W (+7),1,39:43,.635,.571,0.0,14.6,8.0,34.1,2.5,0.0,20.2,32.0,112,102,20.9,4.1,Glenn Robinson
+2002-11-02,29-296,ATL,HOME,CHI,W (+6),1,38:15,.615,.525,2.8,15.5,9.4,17.7,0.0,0.0,7.6,28.9,125,97,21.8,7.0,Glenn Robinson
+2002-11-05,29-299,ATL,AWAY,DEN,W (+16),1,34:43,.595,.556,4.3,14.3,10.3,20.6,1.5,0.0,13.4,27.8,127,100,17.0,3.9,Glenn Robinson
+2002-11-06,29-300,ATL,AWAY,PHO,L (-5),1,34:21,.352,.325,3.1,26.3,14.3,16.0,3.0,0.0,24.7,36.9,64,98,3.2,-12.1,Glenn Robinson
+2002-11-08,29-302,ATL,AWAY,UTA,L (-13),1,35:39,.394,.342,4.0,15.2,9.8,10.3,1.5,1.9,22.8,35.6,69,121,2.9,-14.4,Glenn Robinson
+2002-11-10,29-304,ATL,AWAY,SAC,L (-8),1,36:18,.433,.406,3.0,21.8,12.9,18.4,1.3,1.9,25.7,27.0,74,103,6.6,-4.1,Glenn Robinson
+2002-11-12,29-306,ATL,AWAY,LAL,W (+12),1,36:36,.509,.417,3.4,23.3,15.7,10.0,1.5,0.0,17.9,22.1,96,86,9.8,-0.3,Glenn Robinson
+2002-11-16,29-310,ATL,HOME,NOH,W (+7),1,38:44,.524,.523,3.1,14.6,9.9,13.3,2.7,0.0,8.0,29.4,102,89,16.4,4.0,Glenn Robinson
+2002-11-18,29-312,ATL,HOME,TOR,W (+25),1,27:57,.362,.333,0.0,28.6,14.5,12.2,0.0,0.0,13.9,22.7,85,102,4.1,-10.4,Glenn Robinson
+2002-11-20,29-314,ATL,HOME,MIN,L (-10),1,39:15,.592,.593,8.0,14.0,10.9,7.9,0.0,0.0,6.7,34.0,113,113,20.8,6.4,Glenn Robinson
+2002-11-22,29-316,ATL,AWAY,BOS,L (-7),1,48:15,.481,.481,2.3,23.7,13.3,16.9,1.1,0.0,13.3,30.3,85,97,13.5,-2.3,Glenn Robinson
+2002-11-23,29-317,ATL,HOME,BOS,L (-10),1,41:58,.533,.447,0.0,23.8,13.4,36.1,4.7,0.0,26.2,31.5,89,102,15.5,2.3,Glenn Robinson
+2002-11-26,29-320,ATL,HOME,SEA,W (+3),1,48:01,.772,.725,10.8,19.2,15.2,19.9,3.3,1.3,22.6,27.3,132,108,31.2,12.9,Glenn Robinson
+2002-11-27,29-321,ATL,AWAY,NOH,L (-12),1,37:11,.540,.500,3.7,4.2,3.9,14.3,3.1,0.0,22.4,22.5,98,125,8.2,-3.5,Glenn Robinson
+2002-11-29,29-323,ATL,HOME,MIA,W (+6),1,45:24,.454,.442,2.7,17.1,11.2,13.8,1.2,2.7,7.0,30.6,94,96,13.4,-1.4,Glenn Robinson
+2002-11-30,29-324,ATL,AWAY,ORL,L (-25),1,27:37,.311,.300,3.5,12.4,7.6,13.0,0.0,0.0,22.3,40.6,58,128,-2.8,-21.2,Glenn Robinson
+2002-12-03,29-327,ATL,AWAY,NJN,L (-15),1,28:34,.267,.267,0.0,10.1,5.0,7.4,3.5,0.0,25.0,28.5,48,94,-2.7,-12.7,Glenn Robinson
+2002-12-05,29-329,ATL,HOME,MIL,W (+18),1,41:18,.462,.438,6.3,14.6,10.6,8.6,2.8,0.0,7.4,31.7,100,97,14.1,-4.3,Glenn Robinson
+2002-12-07,29-331,ATL,HOME,DET,W (+2),1,39:29,.613,.559,11.5,27.1,21.0,10.7,1.5,3.7,5.1,26.5,131,103,21.7,8.7,Glenn Robinson
+2002-12-11,29-335,ATL,AWAY,DET,L (-11),1,37:04,.403,.357,0.0,26.5,14.7,0.0,1.5,2.1,28.7,27.0,60,99,1.7,-10.5,Glenn Robinson
+2002-12-12,29-336,ATL,AWAY,MIN,L (-18),1,32:49,.553,.553,7.9,7.1,7.5,17.5,3.4,1.8,17.4,32.4,102,129,12.1,0.5,Glenn Robinson
+2002-12-14,29-338,ATL,HOME,PHO,L (-14),1,39:33,.333,.333,2.7,18.3,10.5,13.3,2.6,1.5,14.3,23.7,69,106,5.6,-4.7,Glenn Robinson
+2002-12-17,29-341,ATL,HOME,WAS,L (-10),1,39:03,.694,.659,9.2,7.2,8.3,29.0,1.4,0.0,14.4,33.8,125,127,23.7,7.8,Glenn Robinson
+2002-12-20,29-344,ATL,AWAY,HOU,L (-19),1,36:56,.778,.778,4.9,18.5,10.3,6.3,0.0,0.0,14.3,25.8,127,119,20.0,9.3,Glenn Robinson
+2002-12-21,29-345,ATL,HOME,PHI,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+2002-12-23,29-347,ATL,AWAY,IND,L (-15),1,36:18,.504,.467,3.5,14.0,8.8,14.3,0.0,4.0,11.2,23.8,97,125,10.5,-1.4,Glenn Robinson
+2002-12-27,29-351,ATL,HOME,SAS,W (+2),1,39:50,.477,.444,9.0,18.2,13.2,14.8,1.5,2.1,17.5,30.4,92,98,10.0,-2.4,Glenn Robinson
+2002-12-28,29-352,ATL,AWAY,WAS,L (-8),1,39:14,.269,.275,2.9,11.7,7.2,5.2,1.5,0.0,8.9,29.0,56,105,-1.0,-11.7,Glenn Robinson
+2002-12-30,29-354,ATL,AWAY,MIA,L (-9),1,38:32,.447,.412,3.0,13.3,7.9,18.6,0.0,0.0,5.3,24.7,99,119,7.5,-3.2,Glenn Robinson
+2003-01-01,29-356,ATL,HOME,MIA,L (-34),1,33:18,.482,.458,3.9,12.5,8.1,8.2,0.0,0.0,36.0,28.0,60,122,-0.7,-13.5,Glenn Robinson
+2003-01-04,29-359,ATL,HOME,DET,L (-4),1,37:36,.585,.529,3.5,17.1,10.4,19.3,2.9,2.4,8.9,28.4,117,102,18.7,8.1,Glenn Robinson
+2003-01-06,29-361,ATL,HOME,NJN,L (-7),1,35:05,.531,.474,3.5,7.6,5.5,30.6,1.4,0.0,8.5,29.0,120,111,13.9,5.3,Glenn Robinson
+2003-01-08,29-363,ATL,HOME,DAL,L (-18),1,34:55,.351,.310,3.0,17.6,9.8,18.4,1.5,0.0,8.1,30.4,82,125,6.9,-7.2,Glenn Robinson
+2003-01-10,30-000,ATL,HOME,HOU,W (+9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+2003-01-11,30-001,ATL,HOME,NOH,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+2003-01-14,30-004,ATL,AWAY,MIL,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+2003-01-15,30-005,ATL,AWAY,BOS,L (-20),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+2003-01-17,30-007,ATL,AWAY,SAS,L (-13),1,37:56,.335,.308,0.0,30.1,15.6,0.0,1.4,0.0,22.9,21.4,53,113,0.7,-12.2,Glenn Robinson
+2003-01-18,30-008,ATL,HOME,NYK,L (-3),1,44:13,.522,.429,0.0,17.8,9.8,12.0,0.0,0.0,7.2,28.7,110,108,16.0,-1.4,Glenn Robinson
+2003-01-20,30-010,ATL,HOME,CHI,L (-13),1,41:14,.524,.438,15.4,8.2,11.6,8.1,1.3,0.0,17.3,26.3,105,131,12.8,-5.0,Glenn Robinson
+2003-01-22,30-012,ATL,HOME,POR,L (-2),1,22:59,.537,.455,0.0,14.5,6.9,0.0,2.4,0.0,5.9,33.1,110,105,9.0,3.0,Glenn Robinson
+2003-01-24,30-014,ATL,HOME,SAC,W (+11),1,40:05,.722,.647,0.0,21.0,10.9,7.2,3.7,0.0,13.0,25.8,125,102,23.8,8.4,Glenn Robinson
+2003-01-25,30-015,ATL,AWAY,CLE,W (+1),1,46:45,.504,.460,4.8,17.2,10.9,20.0,1.1,0.0,7.0,27.6,106,102,17.2,-1.0,Glenn Robinson
+2003-01-28,30-018,ATL,AWAY,NYK,L (-5),1,40:26,.620,.529,5.3,24.0,13.5,18.9,5.5,0.0,16.0,28.7,120,107,22.4,9.4,Glenn Robinson
+2003-01-29,30-019,ATL,AWAY,PHI,W (+14),1,37:31,.739,.714,10.5,13.4,12.2,23.2,0.0,1.7,15.2,34.4,127,101,25.1,8.8,Glenn Robinson
+2003-01-31,30-021,ATL,HOME,CLE,W (+5),1,39:33,.503,.474,3.1,5.7,4.4,25.6,2.6,1.8,16.8,27.0,95,103,12.2,0.3,Glenn Robinson
+2003-02-02,30-023,ATL,HOME,ORL,W (+8),1,37:57,.601,.500,0.0,16.6,10.1,4.6,0.0,0.0,15.3,25.3,105,103,12.3,-2.5,Glenn Robinson
+2003-02-03,30-024,ATL,AWAY,MIA,L (-20),1,39:58,.318,.278,0.0,14.0,7.1,21.4,0.0,0.0,24.1,30.3,61,116,-0.8,-13.4,Glenn Robinson
+2003-02-11,30-032,ATL,HOME,GSW,L (-3),1,35:44,.787,.767,0.0,18.2,9.3,4.1,2.6,0.0,15.9,21.4,131,114,18.4,4.0,Glenn Robinson
+2003-02-12,30-033,ATL,AWAY,TOR,L (-1),1,36:12,.543,.450,8.7,16.7,12.8,15.2,1.5,0.0,17.3,34.8,106,107,16.0,3.0,Glenn Robinson
+2003-02-14,30-035,ATL,AWAY,IND,L (-1),1,45:33,.449,.368,4.6,12.8,8.9,16.9,1.2,0.0,11.4,26.2,92,100,11.7,-1.5,Glenn Robinson
+2003-02-16,30-037,ATL,HOME,IND,W (+13),1,40:15,.609,.500,3.6,16.7,11.1,18.9,2.6,0.0,16.3,27.4,118,94,18.0,5.6,Glenn Robinson
+2003-02-18,30-039,ATL,AWAY,DAL,L (-26),1,25:52,.424,.357,0.0,20.0,8.0,23.4,0.0,0.0,20.7,31.5,77,120,2.6,-9.7,Glenn Robinson
+2003-02-22,30-043,ATL,AWAY,LAC,W (+2),1,32:11,.564,.458,0.0,20.6,11.7,19.1,3.5,2.1,11.7,25.8,111,93,15.1,8.7,Glenn Robinson
+2003-02-23,30-044,ATL,AWAY,GSW,L (-22),1,35:05,.394,.313,6.7,0.0,3.8,6.4,1.4,3.8,3.6,32.0,92,124,9.2,-3.0,Glenn Robinson
+2003-02-25,30-046,ATL,AWAY,POR,L (-3),1,38:36,.485,.457,0.0,9.2,5.1,5.7,4.2,3.6,13.9,36.0,83,98,13.1,-0.1,Glenn Robinson
+2003-02-26,30-047,ATL,AWAY,SEA,L (-17),1,30:50,.444,.406,0.0,25.1,13.3,37.1,1.8,0.0,19.2,33.9,79,107,7.0,-3.1,Glenn Robinson
+2003-02-28,30-049,ATL,AWAY,CHI,W (+22),1,32:44,.652,.633,8.3,13.5,11.2,17.7,1.6,0.0,5.4,27.0,135,101,19.1,4.7,Glenn Robinson
+2003-03-02,30-051,ATL,AWAY,MIL,L (-27),1,39:37,.510,.400,2.9,13.0,8.2,21.2,0.0,0.0,14.5,33.1,99,137,13.0,-5.1,Glenn Robinson
+2003-03-04,30-053,ATL,HOME,DEN,W (+6),1,37:26,.349,.321,0.0,5.8,3.1,12.2,5.7,1.9,11.3,22.6,73,93,7.0,-3.1,Glenn Robinson
+2003-03-05,30-054,ATL,AWAY,CLE,W (+6),1,39:47,.628,.588,15.5,7.5,10.6,17.8,0.0,0.0,14.1,23.9,126,121,17.4,-0.7,Glenn Robinson
+2003-03-08,30-057,ATL,HOME,TOR,L (-9),1,40:41,.561,.452,10.6,11.1,10.9,8.2,0.0,0.0,13.4,33.6,109,122,18.5,-0.8,Glenn Robinson
+2003-03-10,30-059,ATL,HOME,LAC,W (+9),1,39:35,.355,.294,6.2,17.6,12.0,15.0,1.3,1.8,21.4,27.1,72,96,3.5,-10.0,Glenn Robinson
+2003-03-12,30-061,ATL,HOME,MIL,W (+19),1,38:57,.607,.607,0.0,9.3,6.0,25.2,1.4,0.0,17.6,21.5,108,105,13.3,-0.1,Glenn Robinson
+2003-03-14,30-063,ATL,HOME,NYK,W (+3),1,38:10,.630,.500,0.0,26.6,14.2,21.5,2.7,0.0,6.2,20.2,131,107,18.7,5.5,Glenn Robinson
+2003-03-16,30-065,ATL,AWAY,MEM,L (-32),1,34:35,.454,.417,0.0,12.5,4.6,12.9,0.0,0.0,3.8,32.0,94,136,11.1,-4.0,Glenn Robinson
+2003-03-18,30-067,ATL,AWAY,CHI,L (-25),1,36:23,.624,.553,6.8,12.4,9.8,36.4,1.5,0.0,15.6,32.7,111,114,18.5,6.6,Glenn Robinson
+2003-03-19,30-068,ATL,AWAY,TOR,L (-1),1,41:25,.372,.341,0.0,11.7,5.6,10.3,4.0,0.0,4.0,29.8,79,95,7.6,-2.5,Glenn Robinson
+2003-03-21,30-070,ATL,AWAY,PHI,W (+9),1,41:32,.758,.725,6.7,21.9,15.5,19.8,4.7,0.0,19.7,34.3,123,101,30.7,9.7,Glenn Robinson
+2003-03-22,30-071,ATL,HOME,IND,W (+3),1,39:21,.691,.607,3.3,15.4,10.1,10.2,0.0,0.0,26.5,28.2,103,107,13.1,-2.6,Glenn Robinson
+2003-03-25,30-074,ATL,HOME,LAL,L (-17),1,36:59,.530,.500,0.0,6.5,3.3,11.6,2.8,0.0,12.6,29.6,93,116,11.3,-2.5,Glenn Robinson
+2003-03-26,30-075,ATL,AWAY,DET,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+2003-03-29,30-078,ATL,HOME,PHI,L (-21),1,33:47,.388,.278,6.6,18.6,12.2,20.2,1.5,0.0,25.3,35.5,70,116,4.3,-12.4,Glenn Robinson
+2003-04-03,30-083,ATL,HOME,WAS,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+2003-04-05,30-085,ATL,HOME,MEM,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+2003-04-08,30-088,ATL,AWAY,NYK,L (-4),0,30:35,.400,.286,0.0,7.4,3.7,10.4,3.4,2.3,25.5,17.3,71,106,3.4,-5.6,Glenn Robinson
+2003-04-09,30-089,ATL,HOME,NJN,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+2003-04-11,30-091,ATL,HOME,CLE,W (+20),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+2003-04-12,30-092,ATL,AWAY,WAS,W (+1),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Glenn Robinson
+2003-04-14,30-094,ATL,HOME,ORL,W (+16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+2003-04-16,30-096,ATL,AWAY,NOH,L (-15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+2003-10-28,30-291,PHI,HOME,MIA,W (+15),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Glenn Robinson
+2003-10-31,30-294,PHI,AWAY,SAC,L (-11),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Glenn Robinson
+2003-11-01,30-295,PHI,AWAY,GSW,L (-14),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Glenn Robinson
+2003-11-03,30-297,PHI,AWAY,POR,W (+11),1,36:49,.422,.375,4.3,9.7,7.4,26.8,1.4,0.0,10.1,26.1,90,97,8.7,-2.9,Glenn Robinson
+2003-11-05,30-299,PHI,HOME,NOH,L (-7),1,43:16,.533,.471,2.5,11.0,6.5,18.7,1.3,2.0,17.6,24.4,96,112,12.5,-0.1,Glenn Robinson
+2003-11-07,30-301,PHI,AWAY,CHI,W (+21),1,35:39,.711,.692,11.9,22.3,17.0,0.0,1.5,0.0,11.9,21.4,134,96,17.8,5.6,Glenn Robinson
+2003-11-09,30-303,PHI,HOME,IND,L (-11),1,31:42,.300,.300,4.0,17.7,10.5,6.1,0.0,0.0,23.1,21.2,53,104,-1.4,-12.5,Glenn Robinson
+2003-11-11,30-305,PHI,AWAY,WAS,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+2003-11-14,30-308,PHI,HOME,SAS,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+2003-11-17,30-311,PHI,HOME,HOU,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+2003-11-19,30-313,PHI,AWAY,TOR,W (+6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Glenn Robinson
+2003-11-21,30-315,PHI,HOME,BOS,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+2003-11-22,30-316,PHI,AWAY,NYK,L (-11),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Glenn Robinson
+2003-12-12,30-336,PHI,HOME,DEN,L (-9),1,26:40,.273,.273,4.0,4.7,4.3,6.7,2.0,0.0,21.4,24.0,51,102,-1.2,-12.3,Glenn Robinson
+2003-12-14,30-338,PHI,HOME,UTA,L (-8),1,16:34,.167,.167,0.0,9.1,4.2,0.0,0.0,0.0,33.3,27.0,25,122,-5.7,-30.9,Glenn Robinson
+2003-12-17,30-341,PHI,HOME,MIA,W (+11),1,32:34,.620,.571,5.8,11.0,9.0,13.0,1.9,2.7,16.4,31.9,108,99,13.3,1.7,Glenn Robinson
+2003-12-19,30-343,PHI,HOME,CLE,L (-7),1,35:14,.583,.567,4.3,10.8,7.8,6.2,6.4,0.0,31.2,33.8,78,98,8.8,-4.4,Glenn Robinson
+2003-12-21,30-345,PHI,AWAY,BOS,L (-3),1,29:29,.200,.200,11.8,10.7,11.3,12.4,1.9,0.0,16.7,19.7,57,106,0.1,-12.3,Glenn Robinson
+2003-12-22,30-346,PHI,HOME,ORL,W (+22),1,37:53,.538,.525,2.9,11.2,7.2,14.4,1.4,0.0,12.8,29.0,99,86,12.8,-0.3,Glenn Robinson
+2003-12-26,30-350,PHI,AWAY,LAC,L (-3),1,38:30,.585,.464,0.0,10.8,5.1,4.3,1.4,2.0,10.0,24.3,110,112,13.7,-2.1,Glenn Robinson
+2003-12-28,30-352,PHI,AWAY,PHO,L (-8),1,38:10,.513,.444,3.1,24.6,13.9,5.2,0.0,0.0,8.2,29.5,104,112,13.4,-1.0,Glenn Robinson
+2003-12-29,30-353,PHI,AWAY,UTA,L (-9),1,38:23,.497,.368,6.8,12.2,9.3,9.9,1.6,0.0,19.3,40.0,99,136,11.2,-9.4,Glenn Robinson
+2003-12-31,30-355,PHI,AWAY,HOU,L (-8),1,32:04,.291,.200,3.4,3.2,3.3,20.9,1.7,0.0,10.4,28.8,66,98,1.6,-5.9,Glenn Robinson
+2004-01-03,30-358,PHI,AWAY,SAS,W (+6),1,32:27,.504,.467,0.0,17.3,9.0,0.0,6.7,0.0,27.4,31.9,74,78,6.2,-1.6,Glenn Robinson
+2004-01-05,30-360,PHI,HOME,MIL,L (-12),1,27:57,.273,.273,0.0,7.5,3.6,0.0,1.8,0.0,15.4,19.7,52,97,-3.3,-12.1,Glenn Robinson
+2004-01-07,30-362,PHI,HOME,LAC,W (+20),1,32:38,.578,.563,3.8,7.3,5.6,15.8,1.7,0.0,10.8,25.9,115,96,13.0,2.0,Glenn Robinson
+2004-01-09,30-364,PHI,HOME,NJN,W (+16),1,31:00,.813,.813,0.0,16.3,9.6,21.4,3.4,2.5,11.1,28.7,132,86,21.9,15.3,Glenn Robinson
+2004-01-10,31-000,PHI,AWAY,WAS,L (-7),1,37:19,.661,.571,3.1,9.5,6.2,5.7,2.7,0.0,15.3,23.9,113,101,15.5,3.5,Glenn Robinson
+2004-01-12,31-002,PHI,AWAY,ORL,W (+5),1,33:52,.506,.441,6.6,16.2,11.4,6.4,0.0,0.0,9.6,28.9,105,96,11.1,1.4,Glenn Robinson
+2004-01-14,31-004,PHI,AWAY,DAL,L (-3),1,43:47,.766,.750,2.8,12.5,8.3,0.0,0.0,0.0,15.3,28.7,122,117,23.3,5.0,Glenn Robinson
+2004-01-17,31-007,PHI,HOME,MEM,L (-4),1,39:27,.608,.594,2.9,16.4,9.9,5.6,1.3,0.0,10.8,20.7,111,99,13.8,3.4,Glenn Robinson
+2004-01-19,31-009,PHI,HOME,SEA,L (-9),1,35:17,.602,.591,9.1,15.2,12.1,9.8,0.0,0.0,15.1,33.8,105,106,15.9,5.5,Glenn Robinson
+2004-01-21,31-011,PHI,AWAY,NOH,W (+6),1,35:55,.582,.611,7.6,17.8,13.3,6.6,4.6,0.0,13.2,31.3,105,93,17.5,5.9,Glenn Robinson
+2004-01-23,31-013,PHI,HOME,ORL,L (-5),1,36:37,.448,.452,9.8,11.6,10.7,0.0,0.0,2.4,4.3,29.6,93,112,11.1,-2.9,Glenn Robinson
+2004-01-24,31-014,PHI,AWAY,CLE,L (-8),1,28:01,.592,.563,0.0,19.5,11.0,17.8,4.1,0.0,5.6,33.6,110,106,14.3,6.1,Glenn Robinson
+2004-01-27,31-017,PHI,HOME,NJN,L (-18),1,18:30,.421,.286,0.0,23.7,13.7,32.0,0.0,0.0,32.5,33.2,64,109,0.3,-12.4,Glenn Robinson
+2004-01-28,31-018,PHI,AWAY,TOR,L (-10),1,36:39,.457,.357,3.9,12.1,8.0,0.0,0.0,0.0,5.4,25.8,108,125,7.2,-4.2,Glenn Robinson
+2004-01-30,31-020,PHI,HOME,NOH,W (+3),1,37:16,.423,.423,6.0,23.4,15.3,9.8,0.0,0.0,7.1,18.0,101,96,7.6,-4.2,Glenn Robinson
+2004-02-01,31-022,PHI,AWAY,MIN,L (-5),1,37:06,.627,.528,0.0,18.0,8.4,12.5,1.4,0.0,12.2,29.9,118,114,17.7,6.9,Glenn Robinson
+2004-02-03,31-024,PHI,HOME,TOR,L (-13),1,37:41,.411,.381,5.1,5.5,5.3,6.3,3.1,0.0,0.0,26.8,102,112,10.0,0.6,Glenn Robinson
+2004-02-05,31-026,PHI,HOME,LAL,W (+23),1,32:45,.686,.600,11.8,5.7,8.3,19.0,1.7,2.2,9.5,32.1,135,88,22.8,13.8,Glenn Robinson
+2004-02-07,31-028,PHI,HOME,BOS,L (-30),1,28:13,.475,.475,3.7,9.8,6.3,0.0,1.7,0.0,13.0,34.6,83,113,7.1,-2.2,Glenn Robinson
+2004-02-08,31-029,PHI,AWAY,NJN,L (-12),1,30:10,.283,.233,4.0,3.4,3.7,12.2,1.9,0.0,11.2,28.7,62,120,-0.9,-13.2,Glenn Robinson
+2004-02-11,31-032,PHI,HOME,WAS,W (+25),1,27:43,.656,.636,4.3,8.4,6.3,4.8,1.9,3.3,0.0,18.6,144,99,12.6,3.4,Glenn Robinson
+2004-02-17,31-038,PHI,AWAY,DEN,L (-21),1,26:57,.385,.375,4.3,4.0,4.1,7.6,0.0,0.0,15.1,33.7,69,121,0.9,-14.0,Glenn Robinson
+2004-02-19,31-040,PHI,AWAY,SEA,W (+11),1,25:41,.644,.583,0.0,9.1,4.7,0.0,0.0,0.0,0.0,35.9,133,114,16.0,2.2,Glenn Robinson
+2004-02-20,31-041,PHI,AWAY,LAL,L (-28),1,35:43,.575,.500,0.0,16.5,9.2,0.0,2.9,1.7,10.8,24.4,104,118,13.6,0.2,Glenn Robinson
+2004-02-23,31-044,PHI,HOME,DET,L (-10),1,26:41,.442,.417,7.0,0.0,4.0,0.0,0.0,0.0,19.4,25.4,75,96,3.0,-2.8,Glenn Robinson
+2004-02-24,31-045,PHI,AWAY,ATL,L (-11),1,15:54,.276,.200,0.0,7.3,3.7,14.0,3.7,0.0,26.9,24.8,49,100,-0.9,-13.5,Glenn Robinson
+2004-02-28,31-049,PHI,AWAY,IND,L (-7),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Glenn Robinson
+2004-02-29,31-050,PHI,HOME,MIN,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+2004-03-03,31-053,PHI,AWAY,NYK,L (-11),1,29:01,.406,.364,0.0,7.7,3.6,14.8,3.8,2.4,14.0,21.9,80,99,5.8,1.1,Glenn Robinson
+2004-03-04,31-054,PHI,HOME,SAC,L (-9),1,11:40,.400,.400,0.0,0.0,0.0,12.5,0.0,0.0,28.6,25.5,65,127,-0.8,-16.0,Glenn Robinson
+2004-03-06,31-056,PHI,HOME,CHI,W (+9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+2004-03-08,31-058,PHI,HOME,MIL,W (+5),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Glenn Robinson
+2004-03-09,31-059,PHI,AWAY,CHI,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+1999-11-02,26-296,MIL,AWAY,HOU,W (+5),1,33:50,.409,.367,3.8,14.1,9.2,0.0,4.9,0.0,5.9,24.0,87,101,8.4,-2.1,Glenn Robinson
+1999-11-04,26-298,MIL,AWAY,ATL,W (+10),1,35:19,.426,.353,6.7,12.8,9.8,20.9,4.0,8.0,5.1,23.2,105,101,16.6,4.1,Glenn Robinson
+1999-11-06,26-300,MIL,HOME,DET,W (+10),1,31:45,.577,.577,4.1,7.7,5.9,30.4,1.5,2.4,7.1,19.3,124,112,14.4,4.1,Glenn Robinson
+1999-11-08,26-302,MIL,AWAY,NYK,L (-10),1,41:12,.444,.420,10.3,14.4,12.2,0.0,0.0,0.0,7.2,30.4,95,117,10.6,-3.7,Glenn Robinson
+1999-11-10,26-304,MIL,AWAY,CHH,L (-6),1,36:24,.644,.594,11.4,22.9,17.1,0.0,0.0,0.0,9.7,26.5,130,132,17.1,0.6,Glenn Robinson
+1999-11-12,26-306,MIL,HOME,PHO,W (+15),1,37:32,.683,.667,3.4,28.9,17.8,23.3,0.0,1.8,0.0,25.0,142,94,25.4,13.5,Glenn Robinson
+1999-11-13,26-307,MIL,AWAY,CLE,L (-5),1,38:25,.654,.559,3.2,23.0,13.7,28.5,0.0,0.0,24.6,33.6,108,114,21.0,1.5,Glenn Robinson
+1999-11-16,26-310,MIL,HOME,LAC,W (+8),1,35:24,.543,.474,7.4,18.3,14.1,9.8,1.5,3.4,12.0,33.9,102,94,16.9,2.3,Glenn Robinson
+1999-11-18,26-312,MIL,HOME,SAS,W (+11),1,34:59,.604,.531,0.0,17.1,8.2,20.3,0.0,0.0,9.9,26.3,122,100,15.5,6.2,Glenn Robinson
+1999-11-20,26-314,MIL,HOME,UTA,L (-11),1,35:36,.610,.577,0.0,35.6,14.6,14.0,0.0,2.0,16.9,22.7,104,120,12.7,1.3,Glenn Robinson
+1999-11-21,26-315,MIL,AWAY,DET,L (-19),1,28:30,.601,.571,0.0,15.5,7.0,0.0,0.0,0.0,19.4,33.5,93,127,8.3,-8.3,Glenn Robinson
+1999-11-24,26-318,MIL,HOME,CHI,W (+7),1,31:50,.586,.529,3.9,8.8,6.3,0.0,1.7,2.4,9.6,30.5,114,111,13.5,-2.0,Glenn Robinson
+1999-11-26,26-320,MIL,AWAY,BOS,W (+2),1,31:55,.556,.583,7.9,6.7,7.2,5.4,1.6,0.0,9.6,29.9,111,127,13.3,-2.7,Glenn Robinson
+1999-11-27,26-321,MIL,HOME,PHI,L (-3),1,32:45,.310,.250,9.5,8.9,9.2,5.8,3.2,0.0,18.4,28.6,66,91,0.3,-10.7,Glenn Robinson
+1999-12-02,26-326,MIL,HOME,NYK,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Glenn Robinson
+1999-12-04,26-328,MIL,AWAY,CHI,W (+1),1,35:17,.738,.750,0.0,8.8,5.3,10.7,3.0,0.0,23.7,23.7,103,102,13.7,1.1,Glenn Robinson
+1999-12-05,26-329,MIL,HOME,DAL,W (+6),1,29:39,.475,.471,8.2,15.6,12.0,16.4,1.5,2.8,21.9,31.2,81,96,8.1,-4.6,Glenn Robinson
+1999-12-07,26-331,MIL,HOME,DET,L (-4),1,34:58,.625,.625,3.7,8.1,5.8,9.2,0.0,0.0,0.0,28.7,145,127,20.3,6.8,Glenn Robinson
+1999-12-08,26-332,MIL,AWAY,NJN,L (-17),1,38:42,.529,.500,3.1,14.0,8.8,21.7,0.0,2.1,4.1,28.5,118,118,17.8,7.1,Glenn Robinson
+1999-12-10,26-334,MIL,AWAY,TOR,W (+16),1,37:48,.503,.500,10.5,8.8,9.6,19.4,2.8,2.1,8.4,28.7,112,101,16.9,5.4,Glenn Robinson
+1999-12-11,26-335,MIL,HOME,DEN,L (-2),1,35:25,.524,.545,3.3,13.7,9.0,11.5,0.0,0.0,8.0,30.9,100,109,12.2,0.6,Glenn Robinson
+1999-12-15,26-339,MIL,AWAY,ORL,W (+17),1,29:58,.666,.618,3.5,13.6,8.6,10.3,4.9,2.3,17.6,31.0,116,96,18.1,7.5,Glenn Robinson
+1999-12-16,26-340,MIL,AWAY,MIA,W (+1),1,36:14,.470,.364,3.3,13.9,9.1,0.0,1.5,4.1,23.9,21.5,78,103,6.5,-4.7,Glenn Robinson
+1999-12-18,26-342,MIL,HOME,IND,W (+14),1,35:46,.527,.500,15.5,18.0,16.7,4.4,0.0,2.7,11.6,32.3,106,107,15.9,0.5,Glenn Robinson
+1999-12-20,26-344,MIL,AWAY,PHO,L (-7),1,30:48,.539,.467,0.0,9.7,5.5,5.1,0.0,0.0,10.2,28.0,101,116,9.7,-4.7,Glenn Robinson
+1999-12-21,26-345,MIL,AWAY,SAC,L (-13),1,32:33,.563,.531,0.0,19.1,10.1,17.3,0.0,0.0,10.6,26.0,105,113,10.9,-0.3,Glenn Robinson
+1999-12-23,26-347,MIL,AWAY,SAS,W (+3),1,37:24,.671,.625,0.0,21.6,10.4,18.5,0.0,3.8,17.7,27.8,116,105,18.6,9.0,Glenn Robinson
+1999-12-26,26-350,MIL,HOME,MIA,W (+8),1,35:02,.666,.605,2.9,19.0,9.9,13.1,3.0,0.0,11.8,32.0,124,92,21.7,11.6,Glenn Robinson
+1999-12-29,26-353,MIL,AWAY,CHH,L (-4),1,41:57,.670,.654,8.0,15.2,11.0,8.8,3.8,1.9,3.6,28.8,141,117,29.6,13.8,Glenn Robinson
+1999-12-30,26-354,MIL,HOME,CLE,W (+1),1,37:22,.464,.441,0.0,22.1,10.9,0.0,1.4,0.0,5.2,24.0,91,96,8.4,-3.4,Glenn Robinson
+2000-01-03,26-358,MIL,AWAY,PHI,L (-4),1,42:03,.555,.474,2.7,19.9,10.4,7.7,0.0,0.0,11.8,24.8,116,120,13.4,-0.9,Glenn Robinson
+2000-01-04,26-359,MIL,HOME,ATL,W (+3),1,38:54,.727,.739,3.5,18.1,10.7,13.2,0.0,0.0,10.8,33.0,128,128,26.4,3.5,Glenn Robinson
+2000-01-06,26-361,MIL,AWAY,DET,L (-6),1,37:50,.685,.650,0.0,14.7,7.4,19.8,0.0,0.0,0.0,27.9,143,117,22.6,11.2,Glenn Robinson
+2000-01-08,26-363,MIL,HOME,WAS,W (+1),1,50:11,.551,.533,2.6,13.6,8.5,7.6,2.1,3.1,13.9,31.8,100,115,18.9,-2.0,Glenn Robinson
+2000-01-10,27-000,MIL,HOME,CHH,W (+50),1,30:05,.385,.344,0.0,10.7,6.6,10.2,1.8,0.0,10.6,29.2,94,101,5.4,-16.6,Glenn Robinson
+2000-01-12,27-002,MIL,HOME,LAL,L (-9),1,41:01,.506,.450,5.7,15.4,10.4,17.2,1.2,1.7,12.1,27.0,96,108,14.9,2.2,Glenn Robinson
+2000-01-14,27-004,MIL,AWAY,TOR,L (-5),1,41:03,.659,.640,3.2,19.0,11.1,9.3,0.0,3.4,9.7,34.2,124,125,26.6,4.9,Glenn Robinson
+2000-01-15,27-005,MIL,HOME,TOR,W (+21),1,29:53,.552,.409,0.0,13.1,8.6,10.5,1.7,0.0,11.5,26.7,106,101,10.4,-3.5,Glenn Robinson
+2000-01-17,27-007,MIL,AWAY,ATL,W (+6),1,37:03,.444,.406,2.9,0.0,1.6,0.0,1.4,1.8,26.2,27.0,73,117,1.8,-11.1,Glenn Robinson
+2000-01-19,27-009,MIL,AWAY,IND,L (-22),1,36:52,.505,.457,0.0,24.7,11.7,18.5,1.4,2.4,16.8,34.4,89,108,12.9,3.7,Glenn Robinson
+2000-01-20,27-010,MIL,HOME,SEA,L (-8),1,37:25,.459,.455,11.8,12.7,12.2,4.6,2.9,4.4,11.6,32.0,92,113,13.9,2.1,Glenn Robinson
+2000-01-26,27-016,MIL,HOME,SAC,W (+8),1,36:11,.583,.583,2.7,2.3,2.4,4.8,6.5,0.0,10.0,21.9,109,98,14.7,5.8,Glenn Robinson
+2000-01-28,27-018,MIL,AWAY,LAL,L (-28),1,33:17,.316,.316,0.0,26.8,12.3,10.9,1.5,2.1,13.6,27.8,63,116,2.1,-5.7,Glenn Robinson
+2000-01-29,27-019,MIL,AWAY,SEA,W (+2),1,38:14,.588,.500,5.9,18.8,12.6,9.1,1.4,0.0,19.7,29.4,102,105,14.9,-0.4,Glenn Robinson
+2000-01-31,27-021,MIL,AWAY,VAN,W (+5),1,37:10,.590,.526,3.2,14.7,9.2,17.7,2.8,4.3,12.4,30.1,110,94,20.0,6.8,Glenn Robinson
+2000-02-02,27-023,MIL,AWAY,DEN,L (-23),1,30:42,.522,.531,6.6,10.0,7.9,9.8,0.0,0.0,14.2,27.5,102,148,9.4,-6.5,Glenn Robinson
+2000-02-03,27-024,MIL,AWAY,UTA,W (+3),1,38:04,.659,.619,0.0,9.2,4.6,10.9,0.0,0.0,4.2,29.8,129,118,19.8,3.8,Glenn Robinson
+2000-02-05,27-026,MIL,HOME,TOR,L (-3),1,39:06,.670,.605,5.1,13.9,9.7,5.7,1.3,0.0,4.4,24.1,141,103,23.2,11.0,Glenn Robinson
+2000-02-07,27-028,MIL,HOME,POR,L (-4),1,36:14,.800,.781,0.0,7.6,3.9,8.6,1.5,0.0,10.6,24.5,142,129,20.4,7.0,Glenn Robinson
+2000-02-09,27-030,MIL,HOME,NYK,L (-6),1,35:28,.603,.571,0.0,12.5,5.8,8.7,0.0,0.0,20.2,25.9,94,123,8.3,-7.7,Glenn Robinson
+2000-02-15,27-036,MIL,AWAY,DAL,W (+13),1,38:23,.634,.636,5.5,27.1,15.8,9.0,0.0,1.8,8.0,28.1,129,107,21.4,9.8,Glenn Robinson
+2000-02-17,27-038,MIL,HOME,IND,L (-2),1,39:16,.427,.375,5.1,7.7,6.2,20.6,2.9,0.0,13.4,35.0,89,109,10.4,0.0,Glenn Robinson
+2000-02-19,27-040,MIL,HOME,VAN,L (-11),1,32:19,.540,.526,4.3,34.3,19.3,6.3,3.3,0.0,4.9,28.5,111,115,14.9,3.3,Glenn Robinson
+2000-02-22,27-043,MIL,AWAY,WAS,L (-25),1,31:18,.377,.395,0.0,9.4,3.8,20.5,0.0,0.0,9.1,28.9,83,136,3.5,-9.4,Glenn Robinson
+2000-02-23,27-044,MIL,HOME,GSW,L (-5),1,38:14,.503,.478,5.4,16.1,11.1,12.4,2.7,0.0,11.2,33.4,92,94,15.4,3.6,Glenn Robinson
+2000-02-25,27-046,MIL,HOME,PHI,L (-14),1,39:15,.607,.556,9.0,15.4,11.8,10.4,1.4,0.0,13.2,25.0,116,109,16.5,5.8,Glenn Robinson
+2000-02-27,27-048,MIL,HOME,ORL,W (+7),1,38:35,.470,.429,0.0,25.8,12.7,8.6,0.0,1.8,25.2,22.1,79,101,6.0,-6.1,Glenn Robinson
+2000-03-02,27-052,MIL,AWAY,NYK,L (-15),1,36:30,.311,.250,0.0,22.2,8.3,32.0,0.0,2.7,28.0,23.7,63,128,1.5,-10.5,Glenn Robinson
+2000-03-04,27-054,MIL,HOME,MIN,L (-7),1,42:55,.459,.432,13.6,14.7,14.1,18.6,1.4,0.0,4.2,26.5,107,111,16.6,5.9,Glenn Robinson
+2000-03-06,27-056,MIL,HOME,ATL,W (+33),1,25:04,.607,.607,11.0,10.4,10.7,11.8,2.2,0.0,6.7,27.0,139,91,13.4,6.9,Glenn Robinson
+2000-03-08,27-058,MIL,AWAY,BOS,L (-11),1,38:59,.296,.250,2.6,19.8,11.9,18.1,1.2,1.5,15.1,22.2,67,110,4.8,-9.3,Glenn Robinson
+2000-03-10,27-060,MIL,HOME,NJN,L (-28),1,30:20,.400,.400,3.5,3.9,3.7,13.1,0.0,0.0,16.7,26.0,75,123,1.7,-10.4,Glenn Robinson
+2000-03-12,27-062,MIL,HOME,CLE,W (+31),1,29:44,.368,.300,0.0,15.6,7.8,18.7,1.7,0.0,21.6,20.5,75,79,3.0,-5.1,Glenn Robinson
+2000-03-14,27-064,MIL,AWAY,MIA,L (-4),1,39:51,.506,.472,13.0,13.7,13.3,12.2,2.9,0.0,9.2,25.4,119,128,15.1,0.6,Glenn Robinson
+2000-03-16,27-066,MIL,HOME,HOU,W (+10),1,38:32,.598,.600,3.5,6.0,4.9,8.2,1.4,2.4,20.1,23.9,101,110,11.3,-2.2,Glenn Robinson
+2000-03-18,27-068,MIL,AWAY,NJN,L (-2),1,46:39,.402,.368,2.3,14.7,8.4,15.5,1.2,0.0,16.8,23.1,82,98,7.0,-2.5,Glenn Robinson
+2000-03-19,27-069,MIL,AWAY,MIN,L (-27),1,30:04,.524,.438,11.2,15.0,12.8,18.0,1.8,0.0,13.6,34.1,103,123,13.2,2.1,Glenn Robinson
+2000-03-23,27-073,MIL,AWAY,IND,W (+21),1,32:26,.350,.350,7.7,3.4,5.4,9.2,3.3,0.0,13.0,31.5,76,97,3.3,-11.1,Glenn Robinson
+2000-03-24,27-074,MIL,HOME,MIA,L (-12),1,37:47,.528,.528,6.6,12.2,9.2,15.4,4.7,0.0,14.3,27.8,102,118,13.6,2.6,Glenn Robinson
+2000-03-26,27-076,MIL,HOME,BOS,W (+15),1,31:28,.504,.500,4.2,9.4,6.6,10.8,0.0,0.0,19.2,31.3,86,100,6.5,-6.2,Glenn Robinson
+2000-03-30,27-080,MIL,AWAY,LAC,W (+19),1,28:33,.521,.467,4.2,22.9,14.0,16.6,0.0,0.0,5.8,27.7,107,94,12.9,0.8,Glenn Robinson
+2000-04-01,27-082,MIL,AWAY,POR,L (-34),1,31:47,.349,.333,0.0,15.8,7.5,18.0,1.7,0.0,28.0,25.5,57,126,-0.1,-12.0,Glenn Robinson
+2000-04-02,27-083,MIL,AWAY,GSW,W (+4),1,32:18,.454,.400,7.9,19.6,14.3,32.8,1.5,2.1,18.5,28.4,98,113,10.9,-3.2,Glenn Robinson
+2000-04-04,27-085,MIL,HOME,CHI,W (+19),1,31:31,.438,.438,6.8,14.6,10.6,5.7,1.7,0.0,15.8,28.0,81,88,5.7,-6.8,Glenn Robinson
+2000-04-06,27-087,MIL,AWAY,CHI,L (-2),1,38:59,.512,.522,2.4,12.3,6.7,5.8,2.8,0.0,0.0,26.7,115,104,14.5,3.0,Glenn Robinson
+2000-04-08,27-089,MIL,HOME,NJN,W (+8),1,31:04,.526,.526,7.9,16.3,12.1,4.8,3.5,2.4,5.0,28.3,120,111,15.3,3.9,Glenn Robinson
+2000-04-10,27-091,MIL,HOME,ORL,W (+17),1,34:10,.504,.500,0.0,12.3,6.7,9.2,0.0,2.0,6.3,19.7,106,96,7.9,-1.3,Glenn Robinson
+2000-04-12,27-093,MIL,AWAY,CLE,W (+1),1,42:01,.506,.444,5.4,16.7,11.4,12.3,0.0,0.0,20.2,25.9,91,108,9.2,-7.0,Glenn Robinson
+2000-04-14,27-095,MIL,HOME,CHH,L (-3),1,46:26,.574,.533,2.5,5.2,3.8,0.0,0.0,1.6,10.8,37.0,102,116,18.6,-0.4,Glenn Robinson
+2000-04-15,27-096,MIL,AWAY,WAS,W (+4),1,45:52,.602,.583,2.9,22.2,13.8,8.5,1.1,0.0,13.4,29.2,111,112,19.9,0.3,Glenn Robinson
+2000-04-17,27-098,MIL,AWAY,ORL,W (+2),1,42:10,.318,.313,7.8,19.5,13.8,13.6,0.0,0.0,18.8,21.7,68,92,1.6,-8.3,Glenn Robinson
+2000-04-19,27-100,MIL,HOME,WAS,W (+5),1,28:59,.391,.353,0.0,14.1,7.8,10.3,3.7,0.0,0.0,29.6,89,113,8.3,-7.4,Glenn Robinson
+2005-04-06,32-086,SAS,HOME,LAC,W (+9),0,12:26,.717,.750,0.0,0.0,0.0,16.8,4.3,5.6,0.0,18.4,147,96,5.8,9.1,Glenn Robinson
+2005-04-07,32-087,SAS,AWAY,DAL,L (-36),0,20:00,.429,.429,0.0,24.0,11.2,0.0,2.6,0.0,22.2,20.5,67,109,1.3,-7.5,Glenn Robinson
+2005-04-09,32-089,SAS,AWAY,LAC,W (+1),0,5:21,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.0,0,120,-2.5,-35.2,Glenn Robinson
+2005-04-10,32-090,SAS,AWAY,GSW,W (+2),0,20:59,.384,.231,13.8,16.4,15.0,14.4,0.0,0.0,0.0,32.3,113,121,7.7,-4.0,Glenn Robinson
+2005-04-12,32-092,SAS,HOME,POR,W (+6),0,15:23,.458,.458,0.0,15.2,7.2,16.0,0.0,0.0,0.0,35.7,110,106,4.3,-3.4,Glenn Robinson
+2005-04-13,32-093,SAS,AWAY,UTA,L (-2),0,16:26,.387,.222,0.0,13.8,7.2,0.0,0.0,3.9,7.9,35.5,85,112,3.0,-8.3,Glenn Robinson
+2005-04-16,32-096,SAS,HOME,MEM,W (+22),0,17:28,.600,.600,0.0,23.5,14.5,0.0,3.1,4.3,16.7,16.7,90,76,4.4,1.5,Glenn Robinson
+2005-04-18,32-098,SAS,AWAY,MEM,L (-2),0,21:59,.901,.864,0.0,16.4,7.6,14.2,0.0,0.0,13.6,32.2,149,118,18.5,19.9,Glenn Robinson
+2005-04-20,32-100,SAS,AWAY,MIN,L (-22),0,27:57,.526,.462,3.8,7.1,5.5,34.8,2.0,0.0,6.2,29.8,106,111,11.9,5.1,Glenn Robinson

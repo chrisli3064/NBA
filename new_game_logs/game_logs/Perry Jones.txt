@@ -1,0 +1,158 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2014-10-29,23-035,OKC,AWAY,POR,L (-17),1,30:41,1,9,.111,0,3,.000,1,2,.500,1,2,3,0,0,0,0,2,3,-2.8,+2,Perry Jones
+2014-10-30,23-036,OKC,AWAY,LAC,L (-3),1,41:42,10,17,.588,3,6,.500,9,11,.818,1,6,7,3,0,1,5,4,32,22.0,+3,Perry Jones
+2014-11-01,23-038,OKC,HOME,DEN,W (+11),1,40:36,8,17,.471,2,6,.333,2,4,.500,0,4,4,2,2,0,3,3,20,10.9,+13,Perry Jones
+2014-11-03,23-040,OKC,AWAY,BRK,L (-31),1,33:50,6,12,.500,2,5,.400,2,2,1.000,0,4,4,1,0,0,2,1,16,9.5,-22,Perry Jones
+2014-11-04,23-041,OKC,AWAY,TOR,L (-12),1,17:34,2,4,.500,0,1,.000,0,0,,0,1,1,0,0,0,1,3,4,0.1,+6,Perry Jones
+2014-11-07,23-044,OKC,HOME,MEM,L (-2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Perry Jones
+2014-11-09,23-046,OKC,HOME,SAC,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Perry Jones
+2014-11-11,23-048,OKC,AWAY,MIL,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Perry Jones
+2014-11-12,23-049,OKC,AWAY,BOS,W (+15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Perry Jones
+2014-11-14,23-051,OKC,HOME,DET,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Perry Jones
+2014-11-16,23-053,OKC,HOME,HOU,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Perry Jones
+2014-11-18,23-055,OKC,AWAY,UTA,L (-17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Perry Jones
+2014-11-19,23-056,OKC,AWAY,DEN,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Perry Jones
+2014-11-21,23-058,OKC,HOME,BRK,L (-2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Perry Jones
+2014-11-23,23-060,OKC,HOME,GSW,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Perry Jones
+2014-11-26,23-063,OKC,HOME,UTA,W (+15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Perry Jones
+2014-11-28,23-065,OKC,HOME,NYK,W (+27),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Perry Jones
+2014-12-05,23-072,OKC,AWAY,PHI,W (+12),0,6:12,0,1,.000,0,1,.000,0,0,,0,0,0,0,1,0,0,0,0,0.3,-2,Perry Jones
+2014-12-09,23-076,OKC,HOME,MIL,W (+13),0,21:34,2,6,.333,1,3,.333,0,0,,0,2,2,1,0,0,2,4,5,-0.7,+3,Perry Jones
+2014-12-12,23-079,OKC,AWAY,MIN,W (+19),0,6:09,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2,Perry Jones
+2014-12-14,23-081,OKC,HOME,PHO,W (+24),0,22:13,3,5,.600,0,2,.000,1,3,.333,0,2,2,1,0,1,0,2,7,5.1,-3,Perry Jones
+2014-12-16,23-083,OKC,AWAY,SAC,W (+12),0,1:13,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,0,Perry Jones
+2014-12-18,23-085,OKC,AWAY,GSW,L (-5),0,18:30,2,7,.286,0,3,.000,0,0,,0,5,5,0,0,0,0,1,4,1.0,-21,Perry Jones
+2014-12-19,23-086,OKC,AWAY,LAL,W (+1),1,12:09,0,2,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-1.4,-11,Perry Jones
+2014-12-21,23-088,OKC,HOME,NOP,L (-2),1,27:00,5,9,.556,1,2,.500,1,1,1.000,0,4,4,0,0,1,0,1,12,9.2,+6,Perry Jones
+2014-12-23,23-090,OKC,HOME,POR,L (-4),1,25:19,0,5,.000,0,2,.000,0,0,,0,3,3,0,1,0,2,4,0,-5.2,-22,Perry Jones
+2014-12-25,23-092,OKC,AWAY,SAS,W (+8),1,31:14,5,7,.714,2,2,1.000,2,5,.400,0,1,1,0,0,0,0,1,14,9.8,0,Perry Jones
+2014-12-26,23-093,OKC,HOME,CHO,W (+23),1,20:54,2,5,.400,0,1,.000,2,2,1.000,0,2,2,0,0,0,1,3,6,1.7,+7,Perry Jones
+2014-12-28,23-095,OKC,AWAY,DAL,L (-5),1,26:50,5,11,.455,0,2,.000,0,0,,0,2,2,0,0,0,0,1,10,4.5,-1,Perry Jones
+2014-12-31,23-098,OKC,HOME,PHO,W (+3),0,23:42,4,6,.667,0,0,,0,0,,1,3,4,2,2,0,0,4,8,8.8,-5,Perry Jones
+2015-01-02,23-100,OKC,HOME,WAS,W (+7),0,13:34,3,3,1.000,0,0,,1,2,.500,0,1,1,0,1,0,0,0,7,7.0,+3,Perry Jones
+2015-01-05,23-103,OKC,AWAY,GSW,L (-26),0,24:18,0,3,.000,0,2,.000,0,0,,1,2,3,0,1,0,0,2,0,-0.6,-22,Perry Jones
+2015-01-07,23-105,OKC,AWAY,SAC,L (-21),0,16:11,1,3,.333,1,2,.500,0,0,,0,2,2,0,2,0,0,1,3,3.5,-6,Perry Jones
+2015-01-15,23-113,OKC,AWAY,HOU,L (-11),0,2:58,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.1,+6,Perry Jones
+2015-01-16,23-114,OKC,HOME,GSW,W (+12),0,1:15,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-4,Perry Jones
+2015-01-18,23-116,OKC,AWAY,ORL,W (+28),0,6:11,1,3,.333,0,1,.000,0,0,,0,2,2,0,0,0,0,0,2,0.9,0,Perry Jones
+2015-01-23,23-121,OKC,AWAY,ATL,L (-10),0,0:48,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+3,Perry Jones
+2015-01-26,23-124,OKC,HOME,MIN,W (+8),1,24:24,2,6,.333,0,2,.000,2,2,1.000,0,3,3,1,0,2,1,0,6,4.6,-4,Perry Jones
+2015-01-28,23-126,OKC,AWAY,NYK,L (-8),1,24:23,0,5,.000,0,3,.000,0,0,,0,5,5,1,0,0,2,3,0,-4.5,-10,Perry Jones
+2015-01-31,23-129,OKC,AWAY,MEM,L (-11),0,2:10,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+3,Perry Jones
+2015-02-06,23-135,OKC,HOME,NOP,L (-3),0,0:01,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3,Perry Jones
+2015-02-08,23-137,OKC,HOME,LAC,W (+23),0,9:21,1,3,.333,0,1,.000,0,0,,0,2,2,1,1,0,0,1,2,2.2,-6,Perry Jones
+2015-02-11,23-140,OKC,HOME,MEM,W (+16),0,6:49,1,2,.500,0,0,,0,0,,0,0,0,0,1,0,1,0,2,1.0,-11,Perry Jones
+2015-02-19,23-148,OKC,HOME,DAL,W (+15),0,9:58,0,2,.000,0,0,,0,0,,0,1,1,0,0,0,0,2,0,-1.9,+4,Perry Jones
+2015-02-22,23-151,OKC,HOME,DEN,W (+25),0,8:33,1,2,.500,1,1,1.000,0,0,,0,4,4,1,0,1,1,0,3,3.6,-4,Perry Jones
+2015-02-24,23-153,OKC,HOME,IND,W (+13),0,5:02,0,1,.000,0,0,,0,0,,1,1,2,0,1,0,0,0,0,1.3,-10,Perry Jones
+2015-03-05,23-162,OKC,AWAY,CHI,L (-3),0,0:03,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3,Perry Jones
+2015-03-13,23-170,OKC,HOME,MIN,W (+14),0,2:13,0,1,.000,0,0,,0,0,,0,1,1,0,0,1,0,0,0,0.3,-4,Perry Jones
+2015-03-20,23-177,OKC,HOME,ATL,W (+8),0,5:34,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,+5,Perry Jones
+2015-03-22,23-179,OKC,HOME,MIA,W (+18),0,3:12,0,2,.000,0,1,.000,0,0,,0,0,0,0,1,0,0,0,0,-0.4,-4,Perry Jones
+2015-03-25,23-182,OKC,AWAY,SAS,L (-39),0,24:23,3,13,.231,0,3,.000,0,0,,1,3,4,2,1,0,1,4,6,-0.5,-19,Perry Jones
+2015-03-28,23-185,OKC,AWAY,UTA,L (-5),0,10:18,0,1,.000,0,0,,0,0,,0,1,1,0,2,0,1,0,0,0.6,+5,Perry Jones
+2015-04-01,23-189,OKC,HOME,DAL,L (-4),0,6:00,0,1,.000,0,1,.000,0,0,,0,0,0,2,0,0,0,0,0,0.7,-6,Perry Jones
+2015-04-07,23-195,OKC,HOME,SAS,L (-25),0,15:05,4,6,.667,1,2,.500,1,3,.333,0,0,0,0,0,1,0,1,10,6.9,+5,Perry Jones
+2015-04-10,23-198,OKC,HOME,SAC,W (+13),0,1:05,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-3,Perry Jones
+2015-04-13,23-201,OKC,HOME,POR,W (+11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Perry Jones
+2015-04-15,23-203,OKC,AWAY,MIN,W (+25),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Perry Jones
+2012-11-02,21-039,OKC,HOME,POR,W (+14),0,5:19,1,1,1.000,0,0,,0,0,,0,2,2,1,0,0,0,0,2,3.0,+1,Perry Jones
+2012-11-06,21-043,OKC,HOME,TOR,W (+20),0,18:02,0,3,.000,0,0,,0,0,,0,3,3,1,1,0,1,2,0,-1.3,-1,Perry Jones
+2012-11-09,21-046,OKC,HOME,DET,W (+11),0,4:50,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+6,Perry Jones
+2012-11-11,21-048,OKC,HOME,CLE,W (+15),0,5:39,0,3,.000,0,0,,0,0,,0,1,1,0,0,0,2,2,0,-4.6,-3,Perry Jones
+2012-11-16,21-053,OKC,AWAY,NOH,W (+15),0,12:00,2,4,.500,0,0,,0,0,,0,2,2,2,0,0,1,1,4,2.6,-12,Perry Jones
+2012-11-18,21-055,OKC,HOME,GSW,W (+10),0,1:47,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.8,-3,Perry Jones
+2012-11-26,21-063,OKC,HOME,CHA,W (+45),0,18:58,2,4,.500,0,0,,0,0,,0,3,3,0,0,1,3,2,4,-0.2,-9,Perry Jones
+2012-11-28,21-065,OKC,HOME,HOU,W (+22),0,2:34,1,2,.500,0,0,,0,0,,0,1,1,0,0,0,0,0,2,1.3,+3,Perry Jones
+2012-11-30,21-067,OKC,HOME,UTA,W (+12),0,0:33,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3,Perry Jones
+2012-12-01,21-068,OKC,AWAY,NOH,W (+21),0,6:30,0,2,.000,0,0,,0,0,,1,0,1,0,0,1,2,1,0,-2.4,-4,Perry Jones
+2012-12-31,21-098,OKC,HOME,PHO,W (+18),0,1:42,2,2,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,4,3.4,+2,Perry Jones
+2013-01-02,21-100,OKC,HOME,BRK,L (-17),0,1:57,1,1,1.000,0,0,,1,2,.500,1,0,1,0,0,0,0,0,3,3.0,-1,Perry Jones
+2013-01-13,21-111,OKC,AWAY,POR,W (+4),0,7:42,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,1,3,2,-0.2,0,Perry Jones
+2013-01-14,21-112,OKC,AWAY,PHO,W (+12),0,6:48,1,2,.500,0,0,,0,0,,1,2,3,0,0,0,0,0,2,2.3,+2,Perry Jones
+2013-01-16,21-114,OKC,HOME,DEN,W (+20),0,13:32,3,5,.600,0,0,,0,0,,0,3,3,2,0,1,2,1,6,4.3,-6,Perry Jones
+2013-01-23,21-121,OKC,AWAY,GSW,L (-5),0,3:07,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,+5,Perry Jones
+2013-01-25,21-123,OKC,AWAY,SAC,W (+10),0,6:34,0,2,.000,0,0,,0,0,,1,0,1,0,0,0,0,0,0,-0.7,-13,Perry Jones
+2013-01-31,21-129,OKC,HOME,MEM,W (+17),0,3:50,1,2,.500,0,0,,0,0,,0,0,0,2,0,0,0,0,2,2.4,-1,Perry Jones
+2013-02-02,21-131,OKC,AWAY,CLE,L (-5),0,5:06,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Perry Jones
+2013-02-04,21-133,OKC,HOME,DAL,W (+21),0,10:23,0,4,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,2,0,-3.3,-8,Perry Jones
+2013-02-06,21-135,OKC,HOME,GSW,W (+21),0,6:36,0,3,.000,0,1,.000,0,0,,0,3,3,1,0,0,0,0,0,-0.5,0,Perry Jones
+2013-02-08,21-137,OKC,HOME,PHO,W (+31),0,6:48,3,5,.600,0,0,,0,0,,0,1,1,0,0,0,0,1,6,3.6,+2,Perry Jones
+2013-02-10,21-139,OKC,AWAY,PHO,W (+28),0,10:17,1,6,.167,0,0,,0,0,,1,3,4,1,0,1,1,0,2,0.2,-1,Perry Jones
+2013-02-12,21-141,OKC,AWAY,UTA,L (-15),0,5:23,2,3,.667,0,0,,0,0,,0,1,1,0,0,0,0,0,4,3.0,+6,Perry Jones
+2013-02-14,21-143,OKC,HOME,MIA,L (-10),0,0:28,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Perry Jones
+2013-02-20,21-149,OKC,AWAY,HOU,L (-3),0,7:46,0,1,.000,0,0,,2,2,1.000,1,2,3,0,0,1,0,0,2,3.3,+5,Perry Jones
+2013-02-22,21-151,OKC,HOME,MIN,W (+16),0,4:42,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.8,+1,Perry Jones
+2013-02-24,21-153,OKC,HOME,CHI,W (+30),0,9:25,1,4,.250,0,0,,0,0,,0,1,1,0,1,0,0,0,2,0.9,+2,Perry Jones
+2013-02-27,21-156,OKC,HOME,NOH,W (+45),0,14:32,3,5,.600,0,0,,3,4,.750,1,1,2,0,1,0,0,1,9,7.9,+11,Perry Jones
+2013-03-05,21-162,OKC,HOME,LAL,W (+17),0,1:16,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+2,Perry Jones
+2013-03-08,21-165,OKC,AWAY,CHA,W (+22),0,12:27,2,4,.500,0,0,,2,4,.500,1,3,4,0,0,1,0,0,6,5.5,-2,Perry Jones
+2013-03-13,21-170,OKC,HOME,UTA,W (+23),0,4:44,1,2,.500,0,0,,2,2,1.000,0,1,1,0,1,0,0,1,4,3.9,+4,Perry Jones
+2013-03-15,21-172,OKC,HOME,ORL,W (+13),0,11:14,4,5,.800,0,0,,0,0,,1,4,5,0,0,0,1,0,8,7.0,+15,Perry Jones
+2013-03-19,21-176,OKC,HOME,DEN,L (-10),0,0:36,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,0,Perry Jones
+2013-03-24,21-181,OKC,HOME,POR,W (+20),0,1:55,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+2,Perry Jones
+2013-03-27,21-184,OKC,HOME,WAS,W (+23),0,5:16,0,3,.000,0,0,,0,0,,1,1,2,0,0,0,0,0,0,-1.1,+1,Perry Jones
+2013-04-15,21-203,OKC,HOME,SAC,W (+9),0,0:49,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-4,Perry Jones
+2013-04-17,21-205,OKC,HOME,MIL,L (-6),1,38:45,7,15,.467,0,0,,0,1,.000,2,7,9,0,1,0,1,2,14,8.6,+1,Perry Jones
+2013-10-30,22-036,OKC,AWAY,UTA,W (+3),0,7:07,1,2,.500,0,0,,1,2,.500,0,2,2,0,0,1,1,1,3,1.5,+2,Perry Jones
+2013-11-01,22-038,OKC,AWAY,MIN,L (-19),0,25:07,1,7,.143,1,4,.250,0,0,,0,1,1,0,1,1,1,2,3,-1.3,+3,Perry Jones
+2013-11-03,22-040,OKC,HOME,PHO,W (+7),0,10:02,1,1,1.000,0,0,,0,0,,0,2,2,1,0,1,0,0,2,3.7,+6,Perry Jones
+2013-11-06,22-043,OKC,HOME,DAL,W (+14),0,9:41,2,2,1.000,0,0,,0,0,,1,1,2,0,0,0,1,0,4,3.4,+5,Perry Jones
+2013-11-10,22-047,OKC,HOME,WAS,W (+1),0,13:58,2,4,.500,1,2,.500,0,0,,1,4,5,1,0,1,0,0,5,6.3,-1,Perry Jones
+2013-11-13,22-050,OKC,AWAY,LAC,L (-8),0,6:26,2,3,.667,1,1,1.000,0,0,,0,1,1,0,0,1,0,0,5,4.7,+6,Perry Jones
+2013-11-14,22-051,OKC,AWAY,GSW,L (-1),0,7:02,1,1,1.000,0,0,,0,0,,0,0,0,1,0,0,0,0,2,2.4,+3,Perry Jones
+2013-11-18,22-055,OKC,HOME,DEN,W (+2),0,3:33,0,0,,0,0,,0,0,,0,2,2,0,0,0,0,1,0,0.2,+2,Perry Jones
+2013-11-21,22-058,OKC,HOME,LAC,W (+14),0,1:49,0,0,,0,0,,1,2,.500,0,1,1,0,0,0,1,0,1,-0.1,0,Perry Jones
+2013-11-24,22-061,OKC,HOME,UTA,W (+22),0,19:04,5,7,.714,3,3,1.000,0,0,,0,3,3,1,1,0,1,4,13,10.1,-3,Perry Jones
+2013-12-01,22-068,OKC,HOME,MIN,W (+10),0,0:47,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Perry Jones
+2013-12-04,22-071,OKC,AWAY,POR,L (-7),0,5:24,1,1,1.000,0,0,,0,0,,2,0,2,0,0,0,0,0,2,3.1,+3,Perry Jones
+2013-12-08,22-075,OKC,HOME,IND,W (+24),0,3:58,3,3,1.000,0,0,,0,0,,1,1,2,0,0,0,0,0,6,6.1,+4,Perry Jones
+2013-12-11,22-078,OKC,AWAY,MEM,W (+16),0,11:50,2,4,.500,0,0,,1,4,.250,1,1,2,0,0,0,0,0,5,2.8,+7,Perry Jones
+2013-12-13,22-080,OKC,HOME,LAL,W (+25),0,19:19,4,9,.444,0,2,.000,1,2,.500,2,3,5,1,1,1,2,0,9,6.6,+3,Perry Jones
+2013-12-17,22-084,OKC,AWAY,DEN,W (+12),0,6:24,0,1,.000,0,0,,0,0,,0,0,0,0,1,0,0,0,0,0.3,+5,Perry Jones
+2013-12-19,22-086,OKC,HOME,CHI,W (+12),0,3:06,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-7,Perry Jones
+2013-12-22,22-089,OKC,HOME,TOR,L (-6),0,11:37,3,4,.750,0,1,.000,2,2,1.000,2,1,3,0,0,1,0,1,8,8.4,-3,Perry Jones
+2013-12-25,22-092,OKC,AWAY,NYK,W (+29),0,8:44,0,2,.000,0,1,.000,0,0,,1,0,1,0,0,0,0,1,0,-1.1,+1,Perry Jones
+2013-12-27,22-094,OKC,AWAY,CHA,W (+4),0,9:49,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2,Perry Jones
+2013-12-29,22-096,OKC,HOME,HOU,W (+31),0,21:02,4,5,.800,0,0,,0,2,.000,1,2,3,0,0,0,0,5,8,4.6,+6,Perry Jones
+2013-12-31,22-098,OKC,HOME,POR,L (-4),0,7:56,0,0,,0,0,,0,2,.000,0,0,0,0,0,0,0,1,0,-1.2,+4,Perry Jones
+2014-01-02,22-100,OKC,HOME,BRK,L (-2),0,30:10,4,7,.571,3,5,.600,0,0,,0,1,1,2,1,1,1,2,11,9.3,+1,Perry Jones
+2014-01-04,22-102,OKC,AWAY,MIN,W (+4),0,9:55,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.7,+10,Perry Jones
+2014-01-05,22-103,OKC,HOME,BOS,W (+23),0,20:50,2,5,.400,0,1,.000,2,2,1.000,0,2,2,2,2,1,0,3,6,6.8,+9,Perry Jones
+2014-01-07,22-105,OKC,AWAY,UTA,L (-11),1,15:23,0,1,.000,0,1,.000,0,0,,1,2,3,0,0,0,0,3,0,-0.6,-10,Perry Jones
+2014-01-09,22-107,OKC,AWAY,DEN,L (-13),0,23:14,2,7,.286,0,1,.000,0,0,,0,2,2,0,1,3,1,1,4,2.2,-3,Perry Jones
+2014-01-11,22-109,OKC,HOME,MIL,W (+16),0,6:44,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,0,0,-1.7,-3,Perry Jones
+2014-01-16,22-114,OKC,AWAY,HOU,W (+12),0,5:10,0,1,.000,0,0,,0,0,,1,2,3,0,0,1,0,0,0,1.3,-8,Perry Jones
+2014-01-17,22-115,OKC,HOME,GSW,W (+6),0,7:48,0,2,.000,0,1,.000,0,0,,0,2,2,0,0,0,0,2,0,-1.6,-1,Perry Jones
+2014-01-19,22-117,OKC,HOME,SAC,W (+15),0,2:11,0,0,,0,0,,1,2,.500,1,0,1,0,0,0,0,0,1,1.3,-3,Perry Jones
+2014-01-22,22-120,OKC,AWAY,SAS,W (+6),0,8:44,2,3,.667,1,2,.500,0,0,,0,1,1,0,0,0,0,1,5,3.6,-1,Perry Jones
+2014-01-24,22-122,OKC,AWAY,BOS,W (+18),1,31:44,4,6,.667,0,1,.000,2,2,1.000,0,4,4,2,3,0,0,2,10,12.2,+19,Perry Jones
+2014-01-25,22-123,OKC,AWAY,PHI,W (+12),0,6:47,3,3,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,6,5.4,+1,Perry Jones
+2014-01-27,22-125,OKC,HOME,ATL,W (+2),0,6:46,0,0,,0,0,,0,0,,0,1,1,1,0,0,1,2,0,-0.8,-8,Perry Jones
+2014-01-29,22-127,OKC,AWAY,MIA,W (+17),0,30:26,1,4,.250,1,1,1.000,0,0,,0,2,2,2,0,1,0,5,3,1.3,+13,Perry Jones
+2014-01-31,22-129,OKC,AWAY,BRK,W (+25),0,22:08,3,5,.600,1,1,1.000,4,4,1.000,0,5,5,2,0,2,2,1,11,10.6,+12,Perry Jones
+2014-02-01,22-130,OKC,AWAY,WAS,L (-15),0,21:02,1,5,.200,0,2,.000,3,4,.750,0,3,3,1,0,0,0,2,5,2.3,-9,Perry Jones
+2014-02-03,22-132,OKC,HOME,MEM,W (+9),0,12:54,0,4,.000,0,2,.000,2,2,1.000,0,1,1,0,1,0,1,0,2,-0.5,-2,Perry Jones
+2014-02-05,22-134,OKC,HOME,MIN,W (+9),0,22:30,3,7,.429,0,2,.000,0,0,,1,2,3,0,0,1,0,0,6,4.3,+6,Perry Jones
+2014-02-07,22-136,OKC,AWAY,ORL,L (-1),0,10:33,2,4,.500,1,2,.500,0,0,,0,2,2,0,0,0,0,1,5,3.2,-9,Perry Jones
+2014-02-09,22-138,OKC,HOME,NYK,W (+12),0,16:42,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,2,2,0.9,+1,Perry Jones
+2014-02-11,22-140,OKC,AWAY,POR,W (+3),0,4:39,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,+1,Perry Jones
+2014-02-13,22-142,OKC,AWAY,LAL,W (+4),0,5:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3,Perry Jones
+2014-02-20,22-149,OKC,HOME,MIA,L (-22),0,21:25,3,5,.600,1,1,1.000,1,1,1.000,1,4,5,1,0,0,2,3,8,5.1,-6,Perry Jones
+2014-02-23,22-152,OKC,HOME,LAC,L (-8),0,0:31,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,Perry Jones
+2014-02-26,22-155,OKC,HOME,CLE,L (-10),0,6:35,1,2,.500,0,0,,2,2,1.000,1,1,2,0,1,0,0,1,4,4.6,-3,Perry Jones
+2014-02-28,22-157,OKC,HOME,MEM,W (+6),0,15:10,1,1,1.000,1,1,1.000,0,0,,0,2,2,0,1,0,0,0,3,4.3,+1,Perry Jones
+2014-03-02,22-159,OKC,HOME,CHA,W (+17),1,22:21,2,6,.333,0,2,.000,0,0,,0,1,1,2,0,0,0,1,4,1.9,+3,Perry Jones
+2014-03-04,22-161,OKC,HOME,PHI,W (+33),1,28:32,4,6,.667,1,1,1.000,3,3,1.000,2,4,6,3,0,2,0,1,12,15.1,+24,Perry Jones
+2014-03-06,22-163,OKC,AWAY,PHO,L (-6),1,10:30,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,3,0,-2.6,+13,Perry Jones
+2014-03-09,22-166,OKC,AWAY,LAL,L (-4),1,16:58,3,6,.500,1,3,.333,0,0,,1,3,4,0,0,0,0,2,7,4.8,-3,Perry Jones
+2014-03-11,22-168,OKC,HOME,HOU,W (+8),1,22:03,0,4,.000,0,3,.000,0,0,,0,6,6,0,0,0,0,2,0,-1.8,0,Perry Jones
+2014-03-13,22-170,OKC,HOME,LAL,W (+29),0,23:20,2,5,.400,1,2,.500,2,2,1.000,2,3,5,0,0,0,2,1,7,4.2,+22,Perry Jones
+2014-03-16,22-173,OKC,HOME,DAL,L (-23),0,18:53,2,5,.400,2,5,.400,0,2,.000,0,0,0,1,0,0,2,3,6,0.0,-8,Perry Jones
+2014-03-20,22-177,OKC,AWAY,CLE,W (+7),0,2:44,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-1.4,-11,Perry Jones
+2014-03-24,22-181,OKC,HOME,DEN,W (+21),0,6:20,2,2,1.000,1,1,1.000,0,0,,0,1,1,1,0,0,1,1,5,4.0,-8,Perry Jones
+2014-03-28,22-185,OKC,HOME,SAC,W (+13),0,8:17,0,3,.000,0,1,.000,0,0,,2,2,4,1,0,0,0,0,0,0.6,-15,Perry Jones
+2014-03-30,22-187,OKC,HOME,UTA,W (+20),0,4:10,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,+1,Perry Jones
+2014-04-03,22-191,OKC,HOME,SAS,W (+12),0,0:53,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Perry Jones
+2014-04-08,22-196,OKC,AWAY,SAC,W (+15),0,6:10,0,3,.000,0,0,,0,0,,1,0,1,0,0,0,0,0,0,-1.4,-9,Perry Jones
+2014-04-11,22-199,OKC,HOME,NOP,W (+22),0,14:32,2,6,.333,1,2,.500,0,0,,1,1,2,0,0,0,0,0,5,2.6,-4,Perry Jones

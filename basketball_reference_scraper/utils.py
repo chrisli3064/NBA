@@ -17,7 +17,7 @@ class RetriableRequest:
     def __init__session__():
         if RetriableRequest.__session is not None:
             return
-        print("Initializing HTTPS Session\n")
+        # print("Initializing HTTPS Session\n")
         RetriableRequest.__session = HttpSession()
         
         retries = Retry(total=0,
@@ -40,13 +40,13 @@ class RetriableRequest:
             elapsed_time = current_time - RetriableRequest.first_request_time
             remaining_seconds = 70 - elapsed_time
             if remaining_seconds > 0:
-                print(f"Request limit reached. Waiting a minute...")
+                # print(f"Request limit reached. Waiting a minute...")
                 time.sleep(60)
             # Reset the request count and update the last request time after the wait
             RetriableRequest.request_count = 0
         # Make the request
         x = time.localtime(current_time)
-        print(f"Request # {RetriableRequest.request_count} @ {x.tm_hour % 12}:{x.tm_min}:{x.tm_sec}")
+        # print(f"Request # {RetriableRequest.request_count} @ {x.tm_hour % 12}:{x.tm_min}:{x.tm_sec}")
         # Update the first request time if it is the first request of the last 60 seconds
         if RetriableRequest.request_count == 0:
             RetriableRequest.first_request_time = current_time
@@ -177,7 +177,7 @@ def get_player_suffix(name,birthdate = None):
             suffix = '/players/w/willima02.html'
     player_r = RetriableRequest.get(f'https://www.basketball-reference.com{suffix}')
     while player_r.status_code == 404:
-        print(other_names_search)
+        # print(other_names_search)
         other_names_search.pop(0)
         last_name_part = create_last_name_part_of_suffix(other_names_search)
         initial = last_name_part[0].lower()
@@ -186,7 +186,6 @@ def get_player_suffix(name,birthdate = None):
     while player_r.status_code==200:
         player_soup = BeautifulSoup(player_r.content, 'html.parser')
         h1 = player_soup.find('h1')
-
         if h1:
             page_name = h1.find('span').text
             """
@@ -195,8 +194,6 @@ def get_player_suffix(name,birthdate = None):
                 return suffix, if not add 1 to the numbering
                 and recheck.
             """
-
-            
             currentBirthday = None
             if birthdate:
                 currentBirthday = player_soup.find(attrs={'id': 'necro-birth','data-birth':birthdate})
@@ -205,14 +202,12 @@ def get_player_suffix(name,birthdate = None):
             else:
                 page_names = unidecode.unidecode(page_name).lower().split(' ')
                 page_first_name = page_names[0]
-                print(page_first_name,page_names,page_name,normalized_name)
+                
                 if (first_name.lower() == page_first_name.lower()) and (currentBirthday is not None if birthdate else True):
-                    print("A")
                     return suffix
                 # if players have same first two letters of last name then just
                 # increment suffix
                 elif first_name.lower()[:2] == page_first_name.lower()[:2]:
-                    print("B")
                     player_number = int(''.join(c for c in suffix if c.isdigit())) + 1
                     if player_number < 10:
                         player_number = f"0{str(player_number)}"

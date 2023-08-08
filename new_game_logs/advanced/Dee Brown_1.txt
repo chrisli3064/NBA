@@ -1,0 +1,62 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+1999-11-16,30-352,TOR,HOME,DET,W (+4),0,11:52,.000,.000,0.0,25.0,14.5,38.7,0.0,0.0,20.0,18.3,33,90,-1.6,-14.9,Dee Brown
+1999-11-18,30-354,TOR,AWAY,WAS,L (-11),0,19:04,.500,.500,0.0,5.9,2.5,0.0,2.6,0.0,8.3,26.5,87,98,3.6,0.8,Dee Brown
+1999-11-19,30-355,TOR,HOME,LAC,W (+6),0,7:48,1.000,1.000,0.0,0.0,0.0,0.0,6.4,0.0,0.0,17.1,175,104,4.9,16.0,Dee Brown
+1999-11-21,30-357,TOR,AWAY,LAL,W (+9),1,30:44,.540,.538,0.0,8.6,4.6,20.5,0.0,0.0,0.0,19.6,126,113,11.2,3.6,Dee Brown
+1999-11-23,30-359,TOR,AWAY,PHO,L (-1),1,23:27,.750,.750,0.0,10.7,5.1,35.2,2.2,0.0,11.1,16.7,138,98,10.5,12.4,Dee Brown
+1999-11-24,30-360,TOR,AWAY,DEN,L (-25),1,18:25,.571,.571,0.0,0.0,0.0,23.2,2.7,0.0,12.5,20.4,97,114,4.9,0.7,Dee Brown
+1999-11-26,30-362,TOR,AWAY,UTA,W (+13),1,23:58,.500,.500,0.0,0.0,0.0,20.7,0.0,0.0,0.0,9.8,132,107,3.2,-1.4,Dee Brown
+1999-11-27,30-363,TOR,AWAY,GSW,W (+18),1,20:37,.667,.667,0.0,21.6,11.8,22.2,0.0,0.0,18.2,24.0,112,96,8.1,2.0,Dee Brown
+1999-11-30,31-001,TOR,HOME,ATL,L (-18),1,27:32,.463,.455,6.2,9.0,7.4,29.4,0.0,0.0,14.4,21.4,99,128,7.2,-4.7,Dee Brown
+1999-12-03,31-004,TOR,HOME,WAS,W (+2),1,16:36,.667,.667,0.0,0.0,0.0,44.4,3.4,0.0,0.0,17.9,145,108,8.8,12.6,Dee Brown
+1999-12-05,31-006,TOR,HOME,SAS,W (+6),1,20:06,.417,.417,0.0,11.4,5.6,14.9,5.1,3.5,25.0,18.2,71,92,3.5,-1.4,Dee Brown
+1999-12-07,31-008,TOR,HOME,CLE,W (+3),1,24:06,.708,.708,17.8,14.0,15.9,7.7,3.9,0.0,33.3,30.1,88,95,11.0,6.5,Dee Brown
+1999-12-10,31-011,TOR,HOME,MIL,L (-16),1,25:37,.600,.600,0.0,0.0,0.0,27.7,6.2,2.6,9.1,17.8,135,114,10.9,11.7,Dee Brown
+1999-12-12,31-013,TOR,HOME,UTA,L (-15),1,25:09,.375,.375,0.0,5.3,2.3,23.0,0.0,0.0,20.0,8.6,87,122,1.6,-5.3,Dee Brown
+1999-12-14,31-015,TOR,HOME,IND,W (+8),0,26:05,.500,.500,0.0,9.7,4.3,15.6,0.0,2.9,0.0,12.7,129,108,5.4,-1.4,Dee Brown
+1999-12-15,31-016,TOR,AWAY,PHI,L (-2),0,25:27,.436,.375,4.0,6.9,5.5,40.8,0.0,0.0,6.8,24.9,113,106,6.5,0.8,Dee Brown
+1999-12-17,31-018,TOR,AWAY,ORL,L (-14),0,24:49,.417,.417,3.9,0.0,2.0,11.9,0.0,0.0,0.0,9.7,108,122,3.3,-4.8,Dee Brown
+1999-12-19,31-020,TOR,HOME,LAL,L (-6),1,29:00,.417,.417,0.0,7.5,3.5,26.1,0.0,0.0,25.0,11.8,85,107,1.7,-6.9,Dee Brown
+1999-12-21,31-022,TOR,HOME,NJN,W (+29),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Dee Brown
+1999-12-22,31-023,TOR,AWAY,NYK,L (-1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Dee Brown
+1999-12-28,31-029,TOR,AWAY,HOU,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Dee Brown
+1999-12-30,31-031,TOR,AWAY,DAL,W (+5),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Dee Brown
+2000-01-04,31-036,TOR,HOME,POR,L (-24),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Dee Brown
+2000-01-06,31-038,TOR,HOME,SAC,W (+12),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Dee Brown
+2000-01-07,31-039,TOR,AWAY,ATL,L (-8),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Dee Brown
+2000-01-09,31-041,TOR,HOME,VAN,L (-10),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Dee Brown
+2000-01-12,31-044,TOR,HOME,ORL,W (+6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Dee Brown
+2000-02-25,31-088,TOR,HOME,MIN,L (-22),0,8:46,.375,.375,0.0,14.8,7.3,0.0,0.0,0.0,20.0,28.4,57,127,-0.1,-15.1,Dee Brown
+2000-02-27,31-090,TOR,HOME,PHO,W (+1),0,8:36,.000,.000,14.8,0.0,7.3,17.8,0.0,0.0,0.0,23.8,29,119,-2.1,-23.5,Dee Brown
+2000-02-29,31-092,TOR,HOME,CHI,W (+7),0,3:27,.000,.000,0.0,40.0,18.6,0.0,0.0,0.0,50.0,59.0,0,93,-3.1,-61.4,Dee Brown
+2000-03-05,31-097,TOR,AWAY,VAN,W (+2),0,3:19,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.8,0,116,-0.7,-21.6,Dee Brown
+2000-03-08,31-100,TOR,AWAY,LAC,W (+1),0,6:48,.500,.500,0.0,39.2,18.5,70.6,0.0,0.0,25.0,26.6,107,106,2.6,2.4,Dee Brown
+2000-03-10,31-102,TOR,AWAY,SAC,L (-15),0,9:45,.500,.500,0.0,0.0,0.0,32.9,0.0,0.0,0.0,8.8,129,117,1.2,-4.9,Dee Brown
+2000-03-12,31-104,TOR,AWAY,SEA,W (+2),0,7:13,.375,.375,0.0,13.2,7.1,0.0,0.0,0.0,20.0,32.1,58,106,-0.1,-12.4,Dee Brown
+2000-03-26,31-118,TOR,AWAY,MIN,L (-5),0,23:21,.444,.444,0.0,5.6,2.6,23.0,4.6,3.0,25.0,24.2,70,102,3.8,-1.3,Dee Brown
+2000-03-28,31-120,TOR,AWAY,CLE,W (+3),0,26:22,.678,.611,0.0,5.1,2.4,20.8,0.0,2.6,16.2,21.1,118,104,10.0,3.3,Dee Brown
+2000-03-30,31-122,TOR,AWAY,NJN,L (-4),0,19:23,.563,.563,0.0,6.6,2.9,0.0,2.9,0.0,0.0,18.0,122,123,5.1,0.5,Dee Brown
+2000-03-31,31-123,TOR,AWAY,CHH,L (-9),0,14:33,.667,.667,0.0,0.0,0.0,12.4,0.0,0.0,0.0,18.7,137,120,4.9,3.4,Dee Brown
+2000-04-02,31-125,TOR,HOME,IND,L (-21),0,12:22,.000,.000,0.0,10.3,4.7,12.9,4.6,0.0,20.0,20.0,10,114,-1.8,-17.8,Dee Brown
+2000-04-07,31-130,TOR,AWAY,ATL,W (+20),0,6:53,.000,.000,0.0,0.0,0.0,33.4,0.0,0.0,25.0,28.3,32,108,-2.1,-28.1,Dee Brown
+2000-04-08,31-131,TOR,AWAY,CHI,W (+19),0,22:28,.731,.731,0.0,11.8,5.7,27.6,5.1,0.0,13.3,34.8,114,90,15.0,15.2,Dee Brown
+2000-04-10,31-133,TOR,HOME,CLE,W (+9),0,24:38,.643,.650,0.0,9.1,5.1,6.3,4.2,0.0,15.5,24.0,104,111,9.1,-1.3,Dee Brown
+2000-04-12,31-135,TOR,AWAY,IND,L (-4),0,14:03,.510,.500,0.0,0.0,0.0,51.1,0.0,0.0,0.0,20.2,121,98,5.0,7.9,Dee Brown
+2000-04-14,31-137,TOR,HOME,NYK,W (+15),0,13:16,.000,.000,0.0,0.0,0.0,31.6,0.0,0.0,0.0,33.5,19,94,-4.2,-25.1,Dee Brown
+2000-04-16,31-139,TOR,HOME,CHI,W (+1),0,12:41,.625,.625,0.0,19.4,9.6,0.0,4.4,0.0,0.0,14.8,131,94,4.2,5.6,Dee Brown
+2000-04-18,31-141,TOR,AWAY,MIA,L (-24),0,15:33,.592,.563,0.0,13.6,6.7,25.0,6.7,0.0,0.0,25.6,119,99,9.3,17.7,Dee Brown
+2000-04-19,31-142,TOR,AWAY,ORL,L (-6),0,20:19,.313,.313,0.0,0.0,0.0,26.5,2.3,0.0,20.0,19.4,71,106,1.6,-8.2,Dee Brown
+2002-03-13,33-104,ORL,HOME,PHO,W (+5),0,3:20,,,0.0,36.1,19.0,0.0,0.0,19.4,100.0,14.6,0,91,0.0,-2.7,Dee Brown
+2002-03-15,33-106,ORL,HOME,DEN,W (+22),0,16:23,.357,.357,0.0,8.1,4.3,7.5,5.8,0.0,12.5,22.2,66,97,2.5,-8.2,Dee Brown
+2002-03-17,33-108,ORL,AWAY,PHI,W (+2),0,9:54,,,0.0,11.2,6.4,0.0,0.0,0.0,,0.0,0,121,-0.1,-7.5,Dee Brown
+2002-03-19,33-110,ORL,HOME,MIL,W (+10),0,1:42,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,108,-0.4,-17.4,Dee Brown
+2002-03-22,33-113,ORL,HOME,CHH,L (-14),0,14:00,.000,.000,0.0,8.4,4.0,0.0,0.0,0.0,0.0,12.9,0,118,-2.9,-18.9,Dee Brown
+2002-03-24,33-115,ORL,AWAY,MIL,L (-25),0,19:27,.111,.111,0.0,31.6,14.0,9.5,2.6,0.0,10.0,23.6,26,109,-1.7,-15.4,Dee Brown
+2002-03-26,33-117,ORL,HOME,CHI,W (+14),0,1:03,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,46.2,0,102,-1.0,-53.8,Dee Brown
+2001-04-06,32-128,ORL,HOME,TOR,L (-8),0,16:20,1.0,1.0,0.0,20.9,10.8,26.5,0.0,0.0,0.0,8.3,213,122,6.9,8.0,Dee Brown
+2001-04-10,32-132,ORL,AWAY,CLE,L (-23),0,24:12,0.611,0.611,0.0,20.5,8.2,27.3,2.2,0.0,25.0,19.9,97,108,6.8,2.4,Dee Brown
+2001-04-12,32-134,ORL,HOME,PHI,W (+24),0,26:08,0.773,0.773,0.0,4.4,2.5,7.7,4.1,0.0,8.3,22.3,132,85,13.7,15.3,Dee Brown
+2001-04-13,32-135,ORL,AWAY,WAS,L (-3),0,18:49,0.0,0.0,0.0,7.2,3.4,12.3,0.0,0.0,0.0,4.6,57,122,-0.5,-11.3,Dee Brown
+2001-04-15,32-137,ORL,AWAY,MIA,W (+17),0,23:03,0.355,0.313,0.0,0.0,0.0,14.0,0.0,0.0,19.2,22.2,69,96,0.2,-11.1,Dee Brown
+2001-04-16,32-138,ORL,HOME,MIL,L (-12),0,19:20,0.466,0.417,0.0,0.0,0.0,0.0,0.0,0.0,13.4,17.3,85,120,1.2,-8.5,Dee Brown
+2001-04-18,32-140,ORL,HOME,MIA,L (-12),0,28:04,0.158,0.0,0.0,7.6,3.9,4.9,1.9,0.0,0.0,10.4,47,116,-0.4,-12.0,Dee Brown

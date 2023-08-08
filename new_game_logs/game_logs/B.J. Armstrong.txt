@@ -1,0 +1,30 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+1999-12-08,32-090,CHI,AWAY,CLE,L (-14),0,11:37,4,6,.667,1,1,1.000,0,0,,0,2,2,3,1,0,0,1,9,9.7,+3,B.J. Armstrong
+1999-12-10,32-092,CHI,HOME,NJN,W (+2),1,14:00,0,5,.000,0,0,,1,2,.500,0,2,2,1,0,0,0,0,1,-1.6,-6,B.J. Armstrong
+1999-12-11,32-093,CHI,AWAY,ORL,L (-21),1,21:57,4,8,.500,0,1,.000,2,2,1.000,0,2,2,3,0,0,2,3,10,5.5,-13,B.J. Armstrong
+1999-12-15,32-097,CHI,AWAY,IND,L (-11),1,29:13,5,11,.455,0,0,,0,0,,0,2,2,2,0,0,2,2,10,3.5,-19,B.J. Armstrong
+1999-12-17,32-099,CHI,AWAY,PHI,L (-3),1,35:10,6,14,.429,0,0,,1,2,.500,0,2,2,7,2,0,2,1,13,10.3,+4,B.J. Armstrong
+1999-12-18,32-100,CHI,HOME,ORL,L (-9),1,26:35,5,9,.556,1,2,.500,0,0,,0,3,3,4,0,0,3,2,11,6.6,-5,B.J. Armstrong
+1999-12-20,32-102,CHI,HOME,SEA,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,B.J. Armstrong
+1999-12-22,32-104,CHI,HOME,MIN,L (-20),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,B.J. Armstrong
+1999-12-26,32-108,CHI,AWAY,NJN,L (-27),1,21:32,0,4,.000,0,0,,2,2,1.000,0,4,4,1,1,0,0,3,2,0.9,-16,B.J. Armstrong
+1999-12-27,32-109,CHI,HOME,IND,L (-12),1,31:33,9,15,.600,3,4,.750,0,0,,1,1,2,7,0,0,2,3,21,16.8,-10,B.J. Armstrong
+1999-12-29,32-111,CHI,HOME,DET,L (-14),1,38:30,8,16,.500,2,2,1.000,4,4,1.000,0,0,0,3,1,0,2,3,22,13.9,-17,B.J. Armstrong
+1999-12-30,32-112,CHI,AWAY,MIN,L (-18),1,20:31,2,8,.250,0,2,.000,2,2,1.000,0,1,1,1,0,0,0,0,6,2.2,-26,B.J. Armstrong
+2000-01-03,32-116,CHI,HOME,POR,L (-25),1,24:53,4,7,.571,1,1,1.000,1,2,.500,1,1,2,5,1,0,2,0,10,9.8,-12,B.J. Armstrong
+2000-01-05,32-118,CHI,HOME,WAS,W (+11),1,38:00,3,10,.300,1,1,1.000,2,2,1.000,0,4,4,5,0,0,1,2,9,6.1,+3,B.J. Armstrong
+2000-01-07,32-120,CHI,AWAY,WAS,W (+7),1,32:36,5,6,.833,2,2,1.000,2,2,1.000,0,1,1,4,0,0,4,1,14,10.5,+17,B.J. Armstrong
+2000-01-08,32-121,CHI,HOME,BOS,W (+17),1,6:52,1,3,.333,0,1,.000,0,0,,0,1,1,1,0,0,0,1,2,0.9,-1,B.J. Armstrong
+2000-03-15,32-188,CHI,AWAY,CHH,L (-3),0,17:00,2,8,.250,0,3,.000,0,0,,0,1,1,0,0,0,0,1,4,-0.9,-7,B.J. Armstrong
+2000-03-17,32-190,CHI,HOME,GSW,L (-3),0,5:52,0,1,.000,0,0,,0,0,,0,1,1,1,0,0,0,0,0,0.3,-5,B.J. Armstrong
+2000-03-18,32-191,CHI,AWAY,WAS,L (-13),0,16:27,2,3,.667,0,0,,0,0,,0,1,1,4,1,0,2,0,4,4.8,+3,B.J. Armstrong
+2000-03-20,32-193,CHI,HOME,ORL,L (-2),0,21:48,1,5,.200,1,2,.500,0,0,,0,1,1,1,0,0,4,2,3,-3.9,-4,B.J. Armstrong
+2000-03-22,32-195,CHI,AWAY,NYK,L (-11),0,13:15,2,6,.333,0,3,.000,1,1,1.000,0,0,0,0,0,0,1,0,5,0.6,-14,B.J. Armstrong
+2000-03-26,32-199,CHI,AWAY,HOU,L (-45),0,10:14,1,2,.500,0,0,,0,0,,0,2,2,3,0,0,0,1,2,3.3,+4,B.J. Armstrong
+2000-04-08,32-212,CHI,HOME,TOR,L (-19),0,21:45,3,5,.600,0,0,,2,2,1.000,0,2,2,5,0,0,2,0,8,7.8,-6,B.J. Armstrong
+2000-04-11,32-215,CHI,HOME,NJN,W (+7),1,22:21,3,5,.600,0,0,,0,0,,0,4,4,5,0,0,2,2,6,5.6,-7,B.J. Armstrong
+2000-04-13,32-217,CHI,HOME,WAS,L (-6),1,30:08,4,8,.500,1,3,.333,2,2,1.000,0,1,1,5,0,0,2,3,11,7.6,-7,B.J. Armstrong
+2000-04-14,32-218,CHI,AWAY,BOS,L (-15),1,16:54,1,4,.250,0,0,,0,0,,0,1,1,1,0,0,2,1,2,-1.8,-6,B.J. Armstrong
+2000-04-16,32-220,CHI,AWAY,TOR,L (-1),0,23:52,7,11,.636,0,1,.000,0,0,,0,2,2,2,0,1,3,1,14,8.4,+8,B.J. Armstrong
+2000-04-18,32-222,CHI,HOME,PHI,L (-4),1,15:25,0,2,.000,0,0,,0,0,,0,2,2,2,0,0,2,1,0,-1.8,-4,B.J. Armstrong
+2000-04-19,32-223,CHI,AWAY,DET,L (-21),1,14:53,1,4,.250,0,0,,0,0,,0,1,1,2,0,0,0,0,2,1.3,-5,B.J. Armstrong

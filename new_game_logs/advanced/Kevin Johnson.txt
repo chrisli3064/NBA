@@ -1,0 +1,15 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+2000-03-26,34-022,PHO,HOME,GSW,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Kevin Johnson
+2000-03-28,34-024,PHO,AWAY,MIA,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Kevin Johnson
+2000-03-30,34-026,PHO,AWAY,ATL,W (+44),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Kevin Johnson
+2000-03-31,34-027,PHO,AWAY,DET,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Kevin Johnson
+2000-04-02,34-029,PHO,AWAY,MIN,W (+1),0,18:11,.667,.667,0.0,11.6,6.1,18.0,0.0,0.0,0.0,7.7,140,101,4.3,-1.8,Kevin Johnson
+2000-04-04,34-031,PHO,HOME,LAL,L (-1),0,26:13,.799,.714,0.0,11.3,6.0,31.1,2.0,0.0,18.6,18.9,133,91,13.4,10.0,Kevin Johnson
+2000-04-06,34-033,PHO,AWAY,UTA,L (-20),0,19:18,.676,.625,0.0,21.5,11.9,65.2,0.0,0.0,25.3,29.9,110,115,9.7,6.6,Kevin Johnson
+2000-04-09,34-036,PHO,AWAY,SAC,W (+5),0,26:29,.202,.143,0.0,3.2,1.8,43.0,1.9,0.0,21.2,15.7,78,108,2.9,-6.0,Kevin Johnson
+2000-04-11,34-038,PHO,AWAY,LAC,W (+7),0,14:31,1.000,1.000,0.0,27.8,14.7,43.0,0.0,0.0,0.0,3.0,208,94,5.7,6.9,Kevin Johnson
+2000-04-12,34-039,PHO,HOME,VAN,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Kevin Johnson
+2000-04-14,34-041,PHO,HOME,LAC,W (+24),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Kevin Johnson
+2000-04-16,34-043,PHO,HOME,UTA,L (-14),0,7:51,1.250,1.250,0.0,28.6,15.0,0.0,0.0,0.0,0.0,12.2,250,107,5.0,17.1,Kevin Johnson
+2000-04-18,34-045,PHO,HOME,HOU,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Kevin Johnson
+2000-04-19,34-046,PHO,AWAY,GSW,W (+11),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Kevin Johnson

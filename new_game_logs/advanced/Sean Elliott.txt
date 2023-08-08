@@ -1,0 +1,80 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+2000-10-31,32-272,SAS,HOME,IND,W (+13),1,25:39,.635,.571,0.0,0.0,0.0,13.4,0.0,0.0,0.0,14.9,135,101,6.1,4.0,Sean Elliott
+2000-11-02,32-274,SAS,HOME,MIN,W (+12),1,28:37,1.000,1.000,0.0,7.4,4.2,10.1,1.8,4.0,25.0,6.2,147,98,7.3,10.4,Sean Elliott
+2000-11-04,32-276,SAS,AWAY,GSW,W (+12),1,31:10,.827,.850,0.0,13.1,7.8,15.4,0.0,3.5,21.6,18.7,127,108,14.6,9.0,Sean Elliott
+2000-11-07,32-279,SAS,AWAY,PHO,L (-19),1,26:00,.500,.500,0.0,20.5,9.6,16.3,0.0,0.0,10.0,16.6,97,109,5.1,1.3,Sean Elliott
+2000-11-08,32-280,SAS,HOME,LAL,W (+10),1,32:38,.510,.400,0.0,7.7,3.9,9.4,0.0,4.8,0.0,8.5,124,99,6.3,2.6,Sean Elliott
+2000-11-10,32-282,SAS,AWAY,DAL,L (-2),1,36:02,.458,.458,0.0,17.6,9.1,5.5,0.0,1.8,7.7,16.2,93,89,6.3,3.0,Sean Elliott
+2000-11-11,32-283,SAS,HOME,VAN,W (+13),1,28:36,.461,.375,0.0,18.7,11.2,0.0,0.0,0.0,23.5,21.3,69,87,2.2,-7.7,Sean Elliott
+2000-11-14,32-286,SAS,HOME,UTA,W (+7),1,21:46,.511,.500,0.0,10.9,5.0,8.6,2.5,0.0,0.0,23.6,108,94,6.6,1.8,Sean Elliott
+2000-11-16,32-288,SAS,AWAY,WAS,W (+4),1,33:51,.553,.450,0.0,13.8,6.8,4.5,3.1,0.0,7.8,17.6,109,103,10.1,0.7,Sean Elliott
+2000-11-17,32-289,SAS,AWAY,MIN,L (-5),1,37:39,.309,.300,0.0,23.9,10.2,11.7,1.4,0.0,15.0,16.5,65,100,2.5,-5.6,Sean Elliott
+2000-11-22,32-294,SAS,HOME,SEA,W (+27),1,18:23,.644,.688,5.4,5.4,5.4,43.2,0.0,0.0,9.7,24.7,126,97,9.2,8.4,Sean Elliott
+2000-11-24,32-296,SAS,AWAY,DEN,L (-10),1,25:26,.556,.556,0.0,13.2,5.3,7.6,4.5,0.0,0.0,16.6,118,117,8.2,3.0,Sean Elliott
+2000-11-25,32-297,SAS,HOME,PHI,W (+20),1,22:43,.676,.625,0.0,0.0,0.0,30.2,2.2,3.1,0.0,18.2,142,88,12.5,16.3,Sean Elliott
+2000-11-29,32-301,SAS,HOME,SAC,W (+3),1,36:41,.512,.500,0.0,13.2,6.6,35.0,1.5,1.6,17.0,21.8,97,90,11.4,6.2,Sean Elliott
+2000-12-01,32-303,SAS,AWAY,LAL,L (-9),1,39:07,.709,.611,0.0,12.3,5.9,7.7,1.3,0.0,13.0,18.4,129,122,13.9,2.1,Sean Elliott
+2000-12-03,32-305,SAS,AWAY,VAN,W (+18),1,29:07,.792,.792,0.0,17.2,10.1,11.3,0.0,2.2,7.7,22.9,138,95,15.6,13.1,Sean Elliott
+2000-12-05,32-307,SAS,AWAY,SAC,L (-6),1,35:51,.460,.450,2.8,7.5,5.3,5.3,0.0,1.9,21.6,16.6,80,91,3.8,1.8,Sean Elliott
+2000-12-07,32-309,SAS,HOME,NYK,L (-3),1,36:08,.922,.875,3.7,17.1,10.7,0.0,1.6,0.0,29.1,9.9,128,104,7.4,0.2,Sean Elliott
+2000-12-09,32-311,SAS,HOME,CHI,W (+24),1,24:38,1.031,1.083,0.0,21.3,11.9,14.0,0.0,2.7,11.4,16.5,172,92,16.0,16.5,Sean Elliott
+2000-12-11,32-313,SAS,AWAY,UTA,W (+8),1,33:08,.615,.500,0.0,14.8,9.1,6.7,0.0,2.2,21.5,13.6,105,98,6.1,1.1,Sean Elliott
+2000-12-13,32-315,SAS,AWAY,PHO,L (-10),1,30:10,.507,.438,3.7,21.1,11.9,14.4,1.8,0.0,10.1,14.9,109,114,7.8,2.2,Sean Elliott
+2000-12-14,32-316,SAS,HOME,DEN,L (-6),1,25:02,.182,.182,0.0,24.5,12.5,0.0,0.0,0.0,21.4,25.2,30,109,-4.5,-20.0,Sean Elliott
+2000-12-16,32-318,SAS,HOME,PHO,W (+8),1,30:01,.521,.333,4.2,18.8,12.6,0.0,0.0,2.2,18.8,16.7,92,88,6.0,-0.1,Sean Elliott
+2000-12-19,32-321,SAS,AWAY,HOU,W (+7),1,32:30,.770,.813,6.7,9.8,8.2,11.5,1.8,0.0,0.0,12.7,165,97,13.7,9.9,Sean Elliott
+2000-12-20,32-322,SAS,HOME,CLE,W (+17),1,19:40,.500,.500,4.9,5.2,5.1,0.0,5.4,0.0,12.5,17.8,95,85,5.3,2.9,Sean Elliott
+2000-12-22,32-324,SAS,HOME,GSW,W (+18),1,18:37,.654,.583,0.0,35.5,20.4,23.4,0.0,3.0,12.7,18.3,128,81,10.2,11.0,Sean Elliott
+2000-12-23,32-325,SAS,AWAY,CHH,L (-4),1,32:26,.507,.438,3.6,8.1,5.7,6.6,1.8,0.0,0.0,14.3,112,98,6.8,2.6,Sean Elliott
+2000-12-26,32-328,SAS,HOME,HOU,W (+8),1,28:17,.571,.500,0.0,10.7,5.7,0.0,0.0,0.0,27.6,18.5,83,111,2.0,-9.4,Sean Elliott
+2000-12-28,32-330,SAS,AWAY,CHI,L (-1),1,21:04,.833,.833,0.0,7.1,3.7,21.8,0.0,0.0,40.0,11.7,98,120,2.1,-4.9,Sean Elliott
+2000-12-30,32-332,SAS,AWAY,IND,W (+12),1,29:06,.291,.333,0.0,13.2,7.1,5.3,1.9,2.3,36.8,8.9,44,86,0.7,-3.0,Sean Elliott
+2001-01-02,32-335,SAS,HOME,MIA,W (+8),1,32:31,.461,.313,0.0,6.5,3.8,26.8,0.0,0.0,9.3,18.9,103,100,6.1,1.1,Sean Elliott
+2001-01-06,32-339,SAS,HOME,DET,W (+7),1,22:18,.364,.364,0.0,16.5,9.1,20.2,0.0,0.0,8.3,22.5,89,108,2.2,-7.2,Sean Elliott
+2001-02-21,33-019,SAS,HOME,LAL,L (-2),0,8:55,,,0.0,0.0,0.0,13.3,6.0,0.0,100.0,5.5,43,108,0.7,-1.1,Sean Elliott
+2001-02-23,33-021,SAS,HOME,BOS,W (+18),0,9:02,1.333,1.333,0.0,23.7,12.9,28.1,0.0,0.0,25.0,21.8,149,96,6.6,23.5,Sean Elliott
+2001-02-24,33-022,SAS,AWAY,DAL,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Sean Elliott
+2001-02-27,33-025,SAS,HOME,POR,L (-8),1,17:10,.000,.000,0.0,7.1,3.5,8.3,0.0,0.0,0.0,8.7,19,123,-1.9,-15.0,Sean Elliott
+2001-03-01,33-027,SAS,HOME,PHO,W (+20),1,23:12,.394,.438,11.0,11.4,11.2,0.0,0.0,5.6,0.0,18.0,94,84,5.5,3.7,Sean Elliott
+2001-03-05,33-031,SAS,AWAY,VAN,W (+14),0,7:28,.266,.000,0.0,0.0,0.0,0.0,15.3,0.0,0.0,12.3,61,64,1.5,5.0,Sean Elliott
+2001-03-06,33-032,SAS,AWAY,SEA,W (+28),0,5:14,.333,.333,29.1,19.2,23.1,0.0,0.0,0.0,0.0,29.9,97,89,0.9,-12.2,Sean Elliott
+2001-03-08,33-034,SAS,AWAY,POR,W (+14),0,11:51,.500,.500,9.3,9.8,9.5,14.3,0.0,0.0,25.0,15.7,100,106,1.2,-4.0,Sean Elliott
+2001-03-09,33-035,SAS,AWAY,LAL,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Sean Elliott
+2001-03-12,33-038,SAS,HOME,LAC,W (+18),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Sean Elliott
+2001-03-14,33-040,SAS,HOME,MIN,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Sean Elliott
+2001-03-16,33-042,SAS,HOME,NJN,W (+9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Sean Elliott
+2001-03-17,33-043,SAS,AWAY,HOU,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Sean Elliott
+2001-03-19,33-045,SAS,HOME,POR,W (+13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Sean Elliott
+2001-03-21,33-047,SAS,AWAY,BOS,W (+20),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Sean Elliott
+2001-03-25,33-051,SAS,AWAY,MIA,L (-5),0,16:54,.368,.400,7.8,32.3,19.9,0.0,0.0,5.2,0.0,16.9,91,113,3.1,-4.0,Sean Elliott
+2001-03-27,33-053,SAS,HOME,CHH,W (+14),0,16:12,.579,.333,0.0,6.4,3.8,11.5,0.0,8.6,18.8,16.2,107,88,4.3,6.5,Sean Elliott
+2001-03-29,33-055,SAS,HOME,UTA,W (+18),0,18:58,.750,.750,0.0,11.8,6.7,0.0,0.0,0.0,0.0,11.2,130,111,4.2,-1.1,Sean Elliott
+2001-03-31,33-057,SAS,HOME,MIL,L (-9),0,16:26,.357,.357,5.9,19.6,12.4,15.8,3.3,0.0,0.0,19.4,84,91,3.8,4.6,Sean Elliott
+2001-04-03,33-060,SAS,HOME,SEA,W (+18),0,8:12,.333,.333,0.0,30.8,16.9,0.0,0.0,0.0,25.0,24.3,49,100,-0.5,-18.8,Sean Elliott
+2001-04-05,33-062,SAS,AWAY,DEN,W (+21),0,23:59,.571,.571,0.0,11.8,6.7,6.9,0.0,2.5,11.3,17.8,97,92,5.4,-1.0,Sean Elliott
+2001-04-07,33-064,SAS,AWAY,LAC,W (+10),0,19:55,.551,.600,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.2,112,107,2.9,-3.2,Sean Elliott
+2001-04-08,33-065,SAS,AWAY,GSW,W (+8),0,15:29,.250,.250,8.4,11.6,10.3,12.4,0.0,4.1,20.0,16.7,61,92,0.9,-4.9,Sean Elliott
+2001-04-10,33-067,SAS,HOME,DAL,W (+12),0,18:41,.500,.500,5.7,0.0,2.7,28.7,0.0,0.0,0.0,19.2,116,100,6.0,6.4,Sean Elliott
+2001-04-12,33-069,SAS,HOME,SAC,L (-2),0,7:03,.000,.000,0.0,16.8,8.1,19.9,0.0,0.0,0.0,6.4,46,103,0.3,-2.8,Sean Elliott
+2001-04-14,33-071,SAS,HOME,DEN,W (+16),0,21:02,1.200,1.200,0.0,23.8,13.8,35.9,0.0,3.0,0.0,10.7,222,99,15.8,24.1,Sean Elliott
+2001-04-17,33-074,SAS,AWAY,POR,W (+6),0,26:42,.167,.167,0.0,15.8,7.6,15.1,2.1,2.6,0.0,15.0,64,106,2.1,-4.4,Sean Elliott
+2001-04-18,33-075,SAS,AWAY,SEA,L (-38),0,12:28,.250,.250,0.0,0.0,0.0,15.8,4.3,0.0,0.0,14.9,64,120,0.5,-8.1,Sean Elliott
+2000-03-14,32-041,SAS,HOME,ATL,W (+15),1,12:02,0.333,0.333,0.0,9.1,4.9,11.1,0.0,0.0,0.0,12.0,85,99,1.3,-5.6,Sean Elliott
+2000-03-16,32-043,SAS,HOME,DAL,L (-22),1,7:57,0.5,0.5,15.4,50.0,32.0,0.0,0.0,0.0,33.3,18.0,76,123,1.2,-9.6,Sean Elliott
+2000-03-18,32-045,SAS,HOME,DEN,W (+20),1,14:05,0.363,0.25,0.0,7.1,3.7,12.4,3.6,0.0,12.7,24.2,79,86,1.0,-5.0,Sean Elliott
+2000-03-21,32-048,SAS,AWAY,DAL,L (-1),1,18:03,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,33.3,8.3,62,120,0.0,-7.5,Sean Elliott
+2000-03-22,32-049,SAS,HOME,LAC,W (+25),1,20:02,0.381,0.286,5.3,5.5,5.4,6.5,0.0,0.0,0.0,18.5,102,100,2.8,-6.7,Sean Elliott
+2000-03-25,32-052,SAS,HOME,CLE,W (+20),1,19:05,0.0,0.0,6.5,11.8,9.2,6.8,0.0,0.0,0.0,17.4,22,88,-3.3,-18.2,Sean Elliott
+2000-03-27,32-054,SAS,AWAY,SEA,W (+8),1,26:18,0.644,0.5,0.0,15.4,8.3,10.8,0.0,0.0,27.9,19.2,104,98,6.2,0.0,Sean Elliott
+2000-03-28,32-055,SAS,AWAY,POR,W (+4),1,25:59,0.425,0.3,0.0,8.4,4.9,23.7,0.0,0.0,0.0,11.4,117,105,4.9,3.0,Sean Elliott
+2000-03-30,32-057,SAS,HOME,GSW,W (+12),1,19:26,0.322,0.167,6.5,17.6,12.3,14.7,2.8,0.0,11.4,22.0,82,100,2.6,-9.3,Sean Elliott
+2000-04-02,32-060,SAS,AWAY,MIA,L (-4),1,21:24,0.9,0.9,0.0,18.5,9.5,0.0,0.0,4.3,16.7,15.1,122,110,5.7,4.5,Sean Elliott
+2000-04-04,32-062,SAS,AWAY,ORL,L (-10),1,16:08,0.0,0.0,0.0,8.6,4.3,24.3,3.5,0.0,14.3,22.3,30,123,-2.2,-17.3,Sean Elliott
+2000-04-05,32-063,SAS,HOME,SAC,L (-10),1,20:41,0.667,0.667,0.0,28.6,12.4,7.0,5.1,0.0,0.0,6.7,140,113,6.2,2.8,Sean Elliott
+2000-04-08,32-066,SAS,AWAY,LAL,W (+18),1,24:43,0.47,0.25,0.0,12.6,7.7,11.6,0.0,0.0,15.8,12.4,95,94,3.0,-3.6,Sean Elliott
+2000-04-09,32-067,SAS,AWAY,VAN,W (+8),1,26:14,0.595,0.5,0.0,14.2,7.8,19.8,0.0,2.9,14.5,13.4,119,116,7.7,1.2,Sean Elliott
+2000-04-11,32-069,SAS,AWAY,SAC,W (+6),1,32:17,0.509,0.5,0.0,3.9,1.7,0.0,4.8,0.0,23.9,22.8,75,87,3.8,-2.7,Sean Elliott
+2000-04-13,32-071,SAS,HOME,POR,L (-16),1,16:43,0.475,0.4,0.0,0.0,0.0,23.2,0.0,0.0,13.7,21.5,97,124,2.9,-4.5,Sean Elliott
+2000-04-15,32-073,SAS,HOME,UTA,W (+23),1,24:37,0.638,0.65,5.3,13.4,9.7,15.1,4.4,0.0,7.8,24.1,125,94,12.4,6.3,Sean Elliott
+2000-04-17,32-075,SAS,HOME,VAN,W (+7),1,21:31,0.436,0.417,0.0,13.1,6.2,15.0,5.6,0.0,22.5,20.7,80,106,3.4,-2.1,Sean Elliott
+2000-04-19,32-077,SAS,HOME,LAL,W (+5),1,25:18,0.857,0.857,4.5,10.3,7.8,0.0,0.0,0.0,0.0,13.4,163,104,9.5,6.4,Sean Elliott

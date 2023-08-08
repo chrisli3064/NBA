@@ -1,0 +1,9 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2021-05-24,24-123,MIL,HOME,MIA,W (+34),0,6:55,0,1,.000,0,0,,0,0,,1,1,2,0,0,1,0,2,0,0.2,+3,Mamadi Diakite
+2021-05-27,24-126,MIL,AWAY,MIA,W (+29),0,4:13,0,2,.000,0,0,,2,2,1.000,0,0,0,0,2,0,0,0,2,2.6,-1,Mamadi Diakite
+2021-05-29,24-128,MIL,AWAY,MIA,W (+17),0,1:08,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,Mamadi Diakite
+2021-06-07,24-137,MIL,AWAY,BRK,L (-39),0,5:12,0,1,.000,0,0,,0,0,,0,2,2,0,0,0,0,2,0,-0.9,+2,Mamadi Diakite
+2021-06-17,24-147,MIL,HOME,BRK,W (+15),0,3:50,0,0,,0,0,,0,0,,0,2,2,0,0,0,0,1,0,0.2,-4,Mamadi Diakite
+2021-06-25,24-155,MIL,HOME,ATL,W (+34),0,9:25,2,3,.667,1,1,1.000,0,0,,0,1,1,0,0,0,1,1,5,2.6,-2,Mamadi Diakite
+2021-06-29,24-159,MIL,AWAY,ATL,L (-22),0,4:19,0,3,.000,0,1,.000,0,0,,0,0,0,0,1,0,0,1,0,-1.5,+2,Mamadi Diakite
+2023-04-15,26-084,CLE,HOME,NYK,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mamadi Diakite

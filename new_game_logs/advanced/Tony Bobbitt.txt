@@ -1,0 +1,5 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+2005-01-25,25-095,LAL,HOME,SEA,L (-11),0,5:39,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.4,0,136,-1.1,-20.4,Tony Bobbitt
+2005-01-26,25-096,LAL,AWAY,LAC,L (-16),0,6:17,.625,.625,0.0,50.0,26.7,0.0,0.0,0.0,0.0,30.2,117,96,3.9,10.6,Tony Bobbitt
+2005-02-06,25-107,LAL,AWAY,HOU,L (-1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tony Bobbitt
+2005-02-07,25-108,LAL,AWAY,ATL,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tony Bobbitt

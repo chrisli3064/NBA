@@ -1,0 +1,15 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2021-06-02,26-302,UTA,HOME,MEM,W (+16),0,2:17,0,2,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-1.4,-4,Matt Thomas
+2021-06-12,26-312,UTA,AWAY,LAC,L (-26),0,3:26,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,-4,Matt Thomas
+2021-06-14,26-314,UTA,AWAY,LAC,L (-14),0,1:09,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1,Matt Thomas
+2020-08-17,26-013,TOR,HOME,BRK,W (+24),0,7:24,0,1,.000,0,1,.000,0,0,,0,0,0,3,1,0,0,1,0,2.0,+11,Matt Thomas
+2020-08-19,26-015,TOR,HOME,BRK,W (+5),0,5:23,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,2,2.0,+6,Matt Thomas
+2020-08-21,26-017,TOR,AWAY,BRK,W (+25),0,5:19,1,2,.500,0,0,,0,0,,0,1,1,1,0,1,0,0,2,2.7,-4,Matt Thomas
+2020-08-23,26-019,TOR,AWAY,BRK,W (+28),0,24:34,5,6,.833,2,3,.667,0,0,,0,2,2,1,0,0,0,1,12,10.7,+6,Matt Thomas
+2020-08-30,26-026,TOR,HOME,BOS,L (-18),0,2:56,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+1,Matt Thomas
+2020-09-03,26-030,TOR,AWAY,BOS,W (+1),0,5:57,0,1,.000,0,1,.000,0,0,,0,2,2,0,0,0,0,0,0,-0.1,+2,Matt Thomas
+2020-09-05,26-032,TOR,AWAY,BOS,W (+7),0,3:11,0,1,.000,0,1,.000,0,0,,1,0,1,0,0,0,0,1,0,-0.4,-3,Matt Thomas
+2020-09-07,26-034,TOR,HOME,BOS,L (-22),0,18:30,4,6,.667,2,4,.500,0,0,,0,4,4,2,0,0,1,2,10,8.2,+5,Matt Thomas
+2020-09-09,26-036,TOR,AWAY,BOS,W (+3),0,6:23,1,2,.500,0,1,.000,0,0,,0,1,1,0,0,0,0,1,2,0.9,+8,Matt Thomas
+2020-09-11,26-038,TOR,HOME,BOS,L (-5),0,4:35,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,0,0,3,3.0,+6,Matt Thomas
+2022-04-27,27-266,CHI,AWAY,MIL,L (-16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Matt Thomas

@@ -1,0 +1,633 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2008-10-29,32-043,MEM,AWAY,HOU,L (-11),0,7:40,0,0,,0,0,,0,0,,1,1,2,0,0,0,2,2,0,-1.8,+3,Greg Buckner
+2008-11-03,32-048,MEM,HOME,GSW,W (+11),0,4:33,0,0,,0,0,,0,0,,0,0,0,1,1,0,0,1,0,1.3,-2,Greg Buckner
+2008-11-05,32-050,MEM,AWAY,SAC,L (-5),0,15:23,1,4,.250,1,2,.500,0,0,,0,0,0,2,1,0,0,1,3,2.6,-7,Greg Buckner
+2008-11-07,32-052,MEM,AWAY,GSW,W (+5),0,4:07,0,1,.000,0,1,.000,0,2,.000,0,1,1,0,0,0,0,2,0,-2.0,+3,Greg Buckner
+2008-11-09,32-054,MEM,AWAY,DEN,L (-10),0,2:03,0,0,,0,0,,0,0,,0,1,1,0,0,0,2,0,0,-1.7,+3,Greg Buckner
+2008-11-14,32-059,MEM,HOME,MIL,L (-5),0,4:23,0,2,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-1.1,+1,Greg Buckner
+2008-11-24,32-069,MEM,HOME,SAS,L (-13),0,7:36,1,2,.500,0,0,,1,2,.500,0,1,1,0,0,0,0,0,3,1.9,-13,Greg Buckner
+2008-11-29,32-074,MEM,HOME,OKC,L (-8),0,24:00,3,6,.500,0,2,.000,0,0,,2,3,5,1,1,0,0,4,6,5.4,-6,Greg Buckner
+2008-12-03,32-078,MEM,AWAY,ATL,L (-10),0,14:58,1,1,1.000,0,0,,2,2,1.000,0,0,0,0,0,0,0,1,4,3.3,-4,Greg Buckner
+2008-12-05,32-080,MEM,HOME,LAC,W (+12),0,4:03,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+4,Greg Buckner
+2008-12-06,32-081,MEM,AWAY,NOH,L (-19),0,16:37,2,5,.400,0,2,.000,0,0,,0,3,3,1,0,0,0,3,4,1.7,-2,Greg Buckner
+2008-12-08,32-083,MEM,HOME,HOU,W (+12),0,15:44,2,3,.667,0,1,.000,4,4,1.000,0,0,0,0,1,0,0,0,8,7.7,+20,Greg Buckner
+2008-12-10,32-085,MEM,AWAY,OKC,W (+6),0,18:45,3,5,.600,0,0,,0,0,,0,1,1,1,2,0,0,3,6,5.5,+9,Greg Buckner
+2008-12-12,32-087,MEM,HOME,CHI,W (+7),0,2:52,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.8,0,Greg Buckner
+2008-12-14,32-089,MEM,HOME,MIA,W (+16),0,5:26,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1,Greg Buckner
+2008-12-16,32-091,MEM,HOME,NOH,L (-7),0,4:02,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,-1,Greg Buckner
+2008-12-19,32-094,MEM,HOME,CHA,L (-29),0,21:05,3,6,.500,0,1,.000,0,0,,1,1,2,3,2,0,0,2,6,7.3,+2,Greg Buckner
+2008-12-22,32-097,MEM,HOME,LAL,L (-9),0,12:03,0,1,.000,0,0,,0,0,,0,1,1,1,3,0,0,2,0,2.5,+4,Greg Buckner
+2008-12-23,32-098,MEM,AWAY,DAL,L (-18),0,20:23,3,6,.500,1,1,1.000,1,1,1.000,2,1,3,0,0,0,0,3,8,5.5,-8,Greg Buckner
+2008-12-26,32-101,MEM,HOME,IND,W (+3),0,13:16,1,1,1.000,0,0,,0,0,,2,0,2,1,1,0,0,3,2,3.6,+4,Greg Buckner
+2008-12-27,32-102,MEM,AWAY,SAS,L (-3),0,11:54,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-3,Greg Buckner
+2008-12-29,32-104,MEM,AWAY,MIN,L (-10),0,9:13,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,2,0,-0.5,-1,Greg Buckner
+2008-12-30,32-105,MEM,HOME,PHO,L (-12),0,3:51,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,+2,Greg Buckner
+2009-01-02,32-108,MEM,HOME,SAS,L (-11),0,11:56,0,2,.000,0,0,,0,0,,1,2,3,1,0,0,0,0,0,0.6,-6,Greg Buckner
+2009-01-04,32-110,MEM,HOME,DAL,W (+20),0,12:28,2,3,.667,0,0,,0,0,,2,2,4,0,1,1,0,1,4,6.0,+1,Greg Buckner
+2009-01-06,32-112,MEM,HOME,MIN,L (-7),0,3:40,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-2,Greg Buckner
+2009-01-07,32-113,MEM,AWAY,NJN,L (-11),0,21:48,1,1,1.000,0,0,,0,0,,0,2,2,3,0,0,1,3,2,2.2,-5,Greg Buckner
+2009-01-09,32-115,MEM,AWAY,TOR,L (-21),0,14:04,1,2,.500,0,1,.000,0,0,,0,2,2,0,0,1,0,1,2,1.9,0,Greg Buckner
+2009-01-13,32-119,MEM,HOME,CLE,L (-15),0,17:43,1,4,.250,0,1,.000,2,2,1.000,0,2,2,0,0,1,1,1,4,1.5,-4,Greg Buckner
+2009-01-16,32-122,MEM,HOME,UTA,L (-10),0,22:42,0,4,.000,0,0,,0,0,,0,3,3,1,0,0,3,4,0,-5.8,-7,Greg Buckner
+2009-01-19,32-125,MEM,HOME,DET,L (-8),0,2:16,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2,Greg Buckner
+2009-01-21,32-127,MEM,AWAY,CHA,L (-15),0,3:12,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,-3,Greg Buckner
+2009-01-27,32-133,MEM,HOME,DEN,L (-15),0,2:17,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,-6,Greg Buckner
+2009-01-28,32-134,MEM,AWAY,OKC,L (-12),0,1:06,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-6,Greg Buckner
+2009-02-02,32-139,MEM,AWAY,WAS,W (+16),0,26:09,3,5,.600,2,4,.500,1,2,.500,2,5,7,3,2,0,1,3,9,11.1,+17,Greg Buckner
+2009-02-04,32-141,MEM,HOME,HOU,W (+11),0,16:21,0,1,.000,0,0,,2,2,1.000,0,4,4,0,1,0,0,3,2,2.3,+9,Greg Buckner
+2009-02-06,32-143,MEM,HOME,LAC,L (-21),0,23:02,4,8,.500,3,5,.600,2,2,1.000,0,2,2,2,0,1,1,1,13,10.3,-10,Greg Buckner
+2009-02-07,32-144,MEM,HOME,TOR,W (+8),0,31:11,1,5,.200,0,2,.000,0,0,,1,7,8,1,0,0,2,1,2,0.0,-6,Greg Buckner
+2009-02-09,32-146,MEM,HOME,NOH,W (+5),0,31:19,1,7,.143,0,3,.000,2,2,1.000,2,3,5,1,0,0,0,4,4,0.9,-4,Greg Buckner
+2009-02-11,32-148,MEM,AWAY,PHI,L (-4),0,31:44,3,5,.600,1,2,.500,0,0,,1,6,7,3,1,0,3,5,7,5.3,-8,Greg Buckner
+2009-02-17,32-154,MEM,AWAY,UTA,L (-18),0,17:45,1,4,.250,0,2,.000,0,0,,0,1,1,1,0,0,0,3,2,-0.6,-6,Greg Buckner
+2009-02-18,32-155,MEM,AWAY,POR,L (-4),0,10:58,0,1,.000,0,0,,0,0,,2,1,3,0,0,0,0,2,0,0.2,-3,Greg Buckner
+2009-02-20,32-157,MEM,HOME,SAC,L (-9),0,25:47,3,5,.600,0,1,.000,0,0,,1,3,4,4,0,1,1,4,6,6.2,-2,Greg Buckner
+2009-02-24,32-161,MEM,AWAY,CLE,L (-15),0,18:39,1,4,.250,0,1,.000,0,0,,2,1,3,1,1,1,0,4,2,2.1,-5,Greg Buckner
+2009-02-25,32-162,MEM,AWAY,IND,L (-5),0,12:03,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,1,0,0,1,3,3.3,-2,Greg Buckner
+2009-02-28,32-165,MEM,HOME,OKC,L (-7),0,20:43,2,3,.667,0,0,,2,2,1.000,0,3,3,3,0,0,3,3,6,3.5,+6,Greg Buckner
+2009-03-03,32-168,MEM,AWAY,LAL,L (-10),0,6:48,0,1,.000,0,1,.000,0,0,,0,0,0,0,1,1,0,1,0,0.6,+5,Greg Buckner
+2009-03-04,32-169,MEM,AWAY,LAC,W (+23),0,24:20,4,8,.500,2,3,.667,0,0,,1,4,5,1,1,0,0,2,10,8.8,+23,Greg Buckner
+2009-03-07,32-172,MEM,HOME,PHI,L (-5),0,15:32,0,0,,0,0,,0,0,,0,2,2,1,0,0,2,3,0,-1.9,+1,Greg Buckner
+2009-03-08,32-173,MEM,AWAY,HOU,L (-10),0,22:50,1,3,.333,0,1,.000,0,0,,0,4,4,3,1,0,1,1,2,3.2,-5,Greg Buckner
+2009-03-11,32-176,MEM,AWAY,MIN,L (-25),0,10:52,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,1,1,0,-1.4,-17,Greg Buckner
+2009-03-13,32-178,MEM,AWAY,BOS,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2009-03-15,32-180,MEM,AWAY,DET,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2009-03-16,32-181,MEM,HOME,POR,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2009-03-20,32-185,MEM,AWAY,NOH,L (-12),0,12:33,0,2,.000,0,2,.000,0,0,,0,2,2,2,0,0,1,1,0,-0.8,-8,Greg Buckner
+2009-03-21,32-186,MEM,HOME,BOS,L (-18),0,21:46,2,8,.250,1,2,.500,0,0,,3,4,7,1,3,0,0,5,5,5.2,-11,Greg Buckner
+2009-03-23,32-188,MEM,AWAY,MIA,L (-12),0,18:46,2,3,.667,0,0,,0,0,,0,2,2,1,0,0,1,2,4,2.2,+7,Greg Buckner
+2009-03-27,32-192,MEM,AWAY,SAC,W (+18),0,20:03,0,3,.000,0,1,.000,0,0,,1,2,3,1,1,0,1,2,0,-0.9,+12,Greg Buckner
+2009-03-28,32-193,MEM,AWAY,POR,L (-20),0,9:46,1,3,.333,0,0,,0,0,,0,1,1,0,2,0,1,1,2,1.2,+3,Greg Buckner
+2009-03-30,32-195,MEM,AWAY,GSW,W (+5),0,10:24,0,1,.000,0,0,,1,2,.500,0,2,2,0,0,0,1,1,1,-0.9,+1,Greg Buckner
+2009-04-01,32-197,MEM,HOME,WAS,W (+5),0,7:43,1,1,1.000,0,0,,0,0,,0,1,1,2,0,0,1,4,2,0.8,-3,Greg Buckner
+2009-04-03,32-199,MEM,HOME,DAL,W (+5),0,14:25,1,2,.500,0,0,,0,0,,1,2,3,1,0,1,1,2,2,1.9,+6,Greg Buckner
+2009-04-04,32-200,MEM,AWAY,MIL,W (+5),0,23:42,3,5,.600,1,2,.500,0,0,,1,3,4,3,1,0,3,4,7,4.8,-8,Greg Buckner
+2009-04-07,32-203,MEM,HOME,POR,L (-3),0,15:32,0,3,.000,0,0,,0,0,,1,1,2,1,0,0,1,0,0,-1.4,-7,Greg Buckner
+2009-04-08,32-204,MEM,AWAY,ORL,L (-3),0,7:23,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,-4,Greg Buckner
+2009-04-10,32-206,MEM,HOME,PHO,W (+17),0,12:49,0,3,.000,0,2,.000,0,0,,2,1,3,4,0,0,1,0,0,1.4,+3,Greg Buckner
+2009-04-12,32-208,MEM,AWAY,LAL,L (-17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2009-04-13,32-209,MEM,AWAY,PHO,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2009-04-15,32-211,MEM,HOME,ATL,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2001-10-30,25-044,DAL,HOME,DET,W (+7),1,9:57,1,4,.250,0,0,,0,0,,1,1,2,0,0,0,0,1,2,0.2,-4,Greg Buckner
+2001-11-01,25-046,DAL,AWAY,PHI,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2001-11-02,25-047,DAL,AWAY,TOR,L (-17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2001-11-04,25-049,DAL,AWAY,MEM,W (+9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2001-11-06,25-051,DAL,HOME,CHH,W (+18),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2001-11-08,25-053,DAL,HOME,DEN,W (+14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2001-11-10,25-055,DAL,HOME,PHI,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2001-11-14,25-059,DAL,AWAY,CLE,W (+13),0,23:35,4,5,.800,0,0,,0,0,,0,2,2,2,0,0,1,4,8,5.5,-1,Greg Buckner
+2001-11-15,25-060,DAL,AWAY,DET,L (-26),1,20:02,3,4,.750,1,1,1.000,0,0,,1,1,2,0,0,0,0,1,7,6.0,-17,Greg Buckner
+2001-11-17,25-062,DAL,AWAY,HOU,L (-37),1,31:00,5,9,.556,0,1,.000,0,0,,5,5,10,2,0,0,2,5,10,8.1,-30,Greg Buckner
+2001-11-20,25-065,DAL,HOME,SEA,L (-8),0,22:47,0,2,.000,0,2,.000,0,0,,2,3,5,2,1,0,0,5,0,1.3,-13,Greg Buckner
+2001-11-21,25-066,DAL,AWAY,CHH,W (+11),1,17:09,0,2,.000,0,0,,0,0,,1,2,3,1,1,0,1,2,0,-0.2,-1,Greg Buckner
+2001-11-23,25-068,DAL,AWAY,MIA,W (+10),1,14:30,0,2,.000,0,0,,0,0,,0,1,1,1,1,1,1,2,0,-0.5,+1,Greg Buckner
+2001-11-24,25-069,DAL,HOME,PHO,W (+15),1,18:32,2,2,1.000,0,0,,1,2,.500,1,2,3,0,0,0,0,2,5,4.5,+7,Greg Buckner
+2001-12-29,25-104,DAL,HOME,ATL,W (+16),0,26:07,2,9,.222,0,1,.000,1,2,.500,2,4,6,2,3,0,2,4,5,2.5,-4,Greg Buckner
+2002-01-02,25-108,DAL,AWAY,CHI,W (+10),1,35:08,9,12,.750,0,0,,0,1,.000,2,4,6,0,1,1,0,4,18,15.5,+19,Greg Buckner
+2002-01-03,25-109,DAL,AWAY,NYK,L (-7),1,36:32,7,12,.583,0,1,.000,3,5,.600,2,2,4,0,2,0,1,5,17,11.6,-9,Greg Buckner
+2002-01-05,25-111,DAL,HOME,SAS,L (-2),1,14:40,2,4,.500,0,0,,2,2,1.000,0,1,1,0,1,0,0,2,6,4.5,-1,Greg Buckner
+2002-01-08,25-114,DAL,HOME,DEN,W (+1),1,27:00,4,4,1.000,0,0,,0,0,,2,4,6,2,0,0,3,2,8,7.0,-3,Greg Buckner
+2002-01-10,25-116,DAL,HOME,NYK,W (+22),0,28:22,1,4,.250,0,0,,2,2,1.000,3,4,7,1,0,1,1,0,4,5.3,+9,Greg Buckner
+2002-01-12,25-118,DAL,HOME,IND,W (+9),0,17:31,1,6,.167,0,0,,3,4,.750,3,5,8,0,2,0,0,2,5,5.6,-7,Greg Buckner
+2002-01-14,25-120,DAL,AWAY,ORL,L (-26),0,18:55,5,7,.714,1,1,1.000,2,2,1.000,1,2,3,1,2,0,0,3,13,12.9,-23,Greg Buckner
+2002-01-15,25-121,DAL,AWAY,ATL,W (+9),1,13:36,2,4,.500,0,0,,0,0,,0,0,0,0,0,2,2,4,4,-0.2,+1,Greg Buckner
+2002-01-17,25-123,DAL,AWAY,MEM,W (+11),0,27:18,3,9,.333,0,2,.000,1,2,.500,4,5,9,2,1,1,0,3,7,7.7,+17,Greg Buckner
+2002-01-19,25-125,DAL,HOME,UTA,W (+3),1,34:02,3,5,.600,0,0,,2,4,.500,5,4,9,0,0,0,2,4,8,6.0,+4,Greg Buckner
+2002-01-21,25-127,DAL,HOME,NJN,W (+8),1,5:27,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,2,2.0,+5,Greg Buckner
+2002-02-05,25-142,DAL,AWAY,IND,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2002-02-06,25-143,DAL,AWAY,NJN,W (+12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2002-02-12,25-149,DAL,AWAY,SEA,W (+6),0,5:45,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,2,0,-0.5,-6,Greg Buckner
+2002-02-13,25-150,DAL,AWAY,POR,L (-11),0,6:46,1,1,1.000,0,0,,0,0,,0,0,0,1,0,0,0,2,2,1.6,-6,Greg Buckner
+2002-03-07,25-172,DAL,HOME,TOR,W (+19),0,16:47,0,0,,0,0,,2,2,1.000,0,4,4,2,1,0,0,5,2,3.6,+1,Greg Buckner
+2002-03-09,25-174,DAL,HOME,GSW,W (+2),0,13:47,2,5,.400,0,0,,0,0,,3,2,5,0,0,1,1,2,4,2.9,0,Greg Buckner
+2002-03-11,25-176,DAL,HOME,SEA,W (+11),0,10:08,4,4,1.000,0,0,,3,4,.750,1,1,2,0,1,0,1,1,11,10.0,0,Greg Buckner
+2002-03-14,25-179,DAL,AWAY,POR,L (-26),0,24:26,2,6,.333,0,0,,0,0,,1,3,4,6,0,0,1,3,4,4.2,-6,Greg Buckner
+2002-03-16,25-181,DAL,AWAY,GSW,W (+17),0,24:01,2,4,.500,0,0,,3,4,.750,4,5,9,2,0,1,0,4,7,9.4,+5,Greg Buckner
+2002-03-17,25-182,DAL,AWAY,LAL,L (-2),0,12:16,2,3,.667,0,0,,2,2,1.000,1,1,2,0,0,0,0,3,6,4.5,+6,Greg Buckner
+2002-03-19,25-184,DAL,HOME,LAL,W (+16),0,22:10,1,5,.200,0,1,.000,2,2,1.000,2,5,7,1,2,1,0,5,4,5.2,+12,Greg Buckner
+2002-03-21,25-186,DAL,HOME,SAS,L (-3),0,14:11,1,1,1.000,0,0,,3,4,.750,1,3,4,1,0,0,0,6,5,4.2,-6,Greg Buckner
+2002-03-23,25-188,DAL,HOME,MEM,W (+11),0,25:32,4,8,.500,1,2,.500,0,0,,2,0,2,3,1,0,1,2,9,7.7,+7,Greg Buckner
+2002-03-26,25-191,DAL,AWAY,MIL,W (+6),0,13:06,1,1,1.000,0,0,,0,0,,0,0,0,1,1,0,0,4,2,1.8,-5,Greg Buckner
+2002-03-28,25-193,DAL,AWAY,MIN,L (-2),0,13:51,0,0,,0,0,,0,0,,0,4,4,2,0,0,0,3,0,1.4,+7,Greg Buckner
+2002-03-29,25-194,DAL,AWAY,BOS,W (+26),1,26:44,5,7,.714,1,1,1.000,0,0,,0,1,1,2,1,0,1,3,11,8.6,+29,Greg Buckner
+2002-03-31,25-196,DAL,AWAY,WAS,W (+7),0,11:01,1,3,.333,0,0,,0,0,,1,1,2,0,0,0,0,2,2,0.5,-3,Greg Buckner
+2002-04-04,25-200,DAL,HOME,LAC,W (+25),0,32:01,6,7,.857,0,0,,1,2,.500,1,4,5,1,1,3,2,2,13,13.0,+21,Greg Buckner
+2002-04-06,25-202,DAL,AWAY,SAS,L (-2),1,17:37,0,0,,0,0,,0,2,.000,1,2,3,0,1,0,0,2,0,0.7,-11,Greg Buckner
+2002-04-08,25-204,DAL,AWAY,UTA,W (+9),0,21:19,3,7,.429,0,0,,0,0,,3,1,4,1,1,1,0,2,6,6.3,+8,Greg Buckner
+2002-04-09,25-205,DAL,HOME,POR,W (+12),1,15:56,1,1,1.000,0,0,,3,4,.750,1,3,4,0,1,0,1,1,5,5.5,-6,Greg Buckner
+2002-04-11,25-207,DAL,HOME,HOU,L (-3),0,22:17,2,5,.400,0,0,,0,0,,2,3,5,1,0,1,0,5,4,3.0,-17,Greg Buckner
+2002-04-13,25-209,DAL,AWAY,SEA,W (+17),0,31:07,7,10,.700,1,2,.500,2,4,.500,4,2,6,3,2,1,1,5,17,17.2,+9,Greg Buckner
+2002-04-14,25-210,DAL,AWAY,SAC,W (+13),0,18:52,1,3,.333,0,0,,0,0,,2,2,4,1,1,2,1,1,2,4.0,+9,Greg Buckner
+2002-04-16,25-212,DAL,HOME,UTA,W (+9),0,15:12,1,4,.250,0,0,,0,0,,1,1,2,2,1,1,0,2,2,2.9,+1,Greg Buckner
+2002-04-17,25-213,DAL,AWAY,PHO,L (-13),0,27:48,2,6,.333,0,1,.000,2,2,1.000,1,4,5,2,1,1,1,2,6,5.8,+8,Greg Buckner
+2000-10-31,24-045,DAL,HOME,MIL,W (+4),0,27:15,2,7,.286,0,0,,3,6,.500,8,3,11,0,1,0,0,4,7,7.6,-10,Greg Buckner
+2000-11-02,24-047,DAL,HOME,IND,W (+6),0,29:39,5,7,.714,0,0,,3,3,1.000,0,6,6,3,1,0,0,4,13,13.4,-1,Greg Buckner
+2000-11-04,24-049,DAL,HOME,UTA,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2000-11-06,24-051,DAL,AWAY,DEN,W (+12),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Greg Buckner
+2000-11-08,24-053,DAL,HOME,VAN,L (-27),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2000-11-10,24-055,DAL,HOME,SAS,W (+2),0,15:56,1,5,.200,0,0,,1,2,.500,3,6,9,0,0,0,0,3,3,2.2,-1,Greg Buckner
+2000-11-12,24-057,DAL,AWAY,SAC,L (-25),0,20:04,5,9,.556,0,0,,0,0,,2,1,3,1,1,1,1,1,10,8.4,-1,Greg Buckner
+2000-11-13,24-058,DAL,AWAY,LAC,W (+14),1,32:32,3,7,.429,0,0,,2,2,1.000,3,2,5,1,0,0,1,6,8,4.3,+25,Greg Buckner
+2000-11-15,24-060,DAL,AWAY,PHO,L (-21),1,34:12,2,8,.250,0,1,.000,2,2,1.000,3,7,10,2,3,0,1,2,6,8.0,-5,Greg Buckner
+2000-11-17,24-062,DAL,AWAY,SEA,W (+4),1,31:26,3,7,.429,0,0,,2,4,.500,2,4,6,2,2,1,3,5,8,5.2,-2,Greg Buckner
+2000-11-18,24-063,DAL,AWAY,VAN,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2000-11-21,24-066,DAL,HOME,SEA,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2000-11-25,24-070,DAL,HOME,DEN,W (+24),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2000-11-28,24-073,DAL,HOME,TOR,W (+14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2000-11-30,24-075,DAL,AWAY,POR,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2000-12-02,24-077,DAL,AWAY,GSW,W (+19),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2000-12-03,24-078,DAL,AWAY,LAL,L (-2),0,24:13,3,6,.500,0,0,,2,2,1.000,2,0,2,1,0,0,2,6,8,2.7,-11,Greg Buckner
+2000-12-05,24-080,DAL,AWAY,HOU,L (-7),0,28:58,3,8,.375,0,0,,0,0,,3,1,4,0,0,0,0,4,6,2.4,+9,Greg Buckner
+2000-12-06,24-081,DAL,HOME,NYK,W (+9),0,16:44,0,1,.000,0,0,,3,4,.750,0,1,1,0,0,0,1,5,3,-0.8,-6,Greg Buckner
+2001-01-25,24-131,DAL,HOME,VAN,W (+37),0,13:05,0,4,.000,0,0,,3,4,.750,1,2,3,0,2,0,0,2,3,2.3,+16,Greg Buckner
+2001-01-27,24-133,DAL,AWAY,DEN,L (-2),0,12:03,1,4,.250,0,0,,2,2,1.000,1,2,3,0,0,0,1,0,4,1.9,-1,Greg Buckner
+2001-02-01,24-138,DAL,HOME,MIA,W (+4),0,25:22,1,4,.250,0,0,,2,2,1.000,2,4,6,3,0,1,1,5,4,4.0,-2,Greg Buckner
+2001-02-03,24-140,DAL,HOME,GSW,W (+6),0,19:29,2,5,.400,0,0,,2,3,.667,2,3,5,2,1,0,3,4,6,3.0,+13,Greg Buckner
+2001-02-05,24-142,DAL,AWAY,ATL,W (+10),0,16:46,4,6,.667,1,1,1.000,2,4,.500,1,3,4,0,1,1,1,2,11,9.1,+22,Greg Buckner
+2001-02-07,24-144,DAL,AWAY,NYK,L (-3),1,46:07,3,10,.300,0,1,.000,6,6,1.000,2,4,6,3,6,1,3,4,12,13.0,+4,Greg Buckner
+2001-02-13,24-150,DAL,AWAY,SAS,L (-12),0,27:11,0,3,.000,0,1,.000,1,2,.500,4,0,4,3,1,0,1,5,1,1.4,-1,Greg Buckner
+2001-02-15,24-152,DAL,HOME,CLE,W (+21),0,21:35,5,8,.625,0,0,,1,2,.500,4,4,8,2,0,0,0,3,11,11.2,+14,Greg Buckner
+2001-02-17,24-154,DAL,HOME,WAS,W (+7),0,27:03,3,4,.750,0,0,,5,7,.714,2,5,7,2,1,0,0,3,11,12.7,-1,Greg Buckner
+2001-02-20,24-157,DAL,HOME,LAL,L (-10),0,20:39,0,1,.000,0,0,,1,2,.500,0,3,3,3,1,1,0,5,1,2.6,-1,Greg Buckner
+2001-02-22,24-159,DAL,HOME,BOS,W (+7),1,31:55,6,10,.600,0,1,.000,3,5,.600,2,5,7,2,3,0,1,4,15,14.3,+8,Greg Buckner
+2001-02-24,24-161,DAL,HOME,SAS,L (-3),1,18:41,2,5,.400,0,0,,0,0,,1,3,4,0,0,1,0,2,4,2.8,-5,Greg Buckner
+2001-02-26,24-163,DAL,AWAY,LAC,W (+11),1,32:51,4,8,.500,0,1,.000,4,5,.800,0,7,7,1,2,0,1,2,12,10.6,+1,Greg Buckner
+2001-02-27,24-164,DAL,AWAY,VAN,W (+4),1,26:54,5,8,.625,0,0,,0,0,,0,1,1,1,1,0,0,3,10,7.2,0,Greg Buckner
+2001-03-03,24-168,DAL,HOME,HOU,W (+5),1,17:26,0,4,.000,0,0,,0,0,,2,1,3,2,0,0,1,0,0,-0.7,+5,Greg Buckner
+2001-03-05,24-170,DAL,AWAY,ORL,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2001-03-07,24-172,DAL,AWAY,MIA,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2001-03-09,24-174,DAL,HOME,GSW,W (+29),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2001-03-11,24-176,DAL,HOME,LAC,W (+18),0,23:46,5,9,.556,0,0,,0,0,,1,2,3,1,0,0,0,2,10,6.9,+6,Greg Buckner
+2001-03-13,24-178,DAL,HOME,NJN,W (+24),0,20:05,1,5,.200,0,0,,0,0,,2,2,4,0,1,0,1,2,2,0.1,+10,Greg Buckner
+2001-03-15,24-180,DAL,HOME,MIN,W (+20),0,17:04,1,3,.333,0,0,,2,2,1.000,1,0,1,0,0,0,0,3,4,1.8,-9,Greg Buckner
+2001-03-17,24-182,DAL,HOME,PHO,W (+10),0,19:16,2,3,.667,1,1,1.000,1,2,.500,2,2,4,2,0,1,0,5,6,6.4,+10,Greg Buckner
+2001-03-20,24-185,DAL,HOME,POR,L (-8),0,22:18,4,6,.667,0,0,,3,4,.750,1,0,1,1,0,0,0,2,11,8.6,-11,Greg Buckner
+2001-03-21,24-186,DAL,AWAY,MIN,L (-12),0,12:59,0,2,.000,0,0,,1,2,.500,0,0,0,0,2,0,2,3,1,-2.0,-3,Greg Buckner
+2001-03-24,24-189,DAL,HOME,CHH,W (+3),0,16:47,0,0,,0,0,,0,0,,0,1,1,4,0,1,0,4,0,2.2,-9,Greg Buckner
+2001-03-26,24-191,DAL,AWAY,UTA,W (+8),0,12:17,1,3,.333,0,0,,1,1,1.000,0,2,2,2,1,0,0,4,3,2.7,+6,Greg Buckner
+2001-03-28,24-193,DAL,AWAY,POR,W (+10),0,18:18,4,6,.667,0,0,,1,1,1.000,1,4,5,4,2,0,0,3,9,11.9,+7,Greg Buckner
+2001-03-30,24-195,DAL,AWAY,LAL,L (-9),0,17:54,1,1,1.000,0,0,,0,0,,0,2,2,0,0,0,2,4,2,-1.3,-5,Greg Buckner
+2001-04-01,24-197,DAL,AWAY,SAC,W (+12),0,14:34,1,2,.500,0,0,,0,0,,2,2,4,1,0,0,0,1,2,3.3,-1,Greg Buckner
+2001-04-03,24-199,DAL,AWAY,HOU,W (+12),0,6:59,1,3,.333,0,0,,0,0,,0,2,2,0,0,0,0,1,2,0.5,+4,Greg Buckner
+2001-04-05,24-201,DAL,HOME,ATL,W (+14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2005-11-01,29-046,DEN,AWAY,SAS,L (-11),0,7:38,0,1,.000,0,1,.000,0,0,,0,3,3,0,0,0,0,0,0,0.2,+1,Greg Buckner
+2005-11-02,29-047,DEN,HOME,LAL,L (-2),0,29:38,2,4,.500,1,2,.500,0,0,,1,4,5,3,3,0,1,3,5,7.8,-2,Greg Buckner
+2005-11-04,29-049,DEN,HOME,POR,W (+39),0,20:10,2,4,.500,0,1,.000,1,1,1.000,0,5,5,3,2,0,0,1,5,8.2,+8,Greg Buckner
+2005-11-06,29-051,DEN,AWAY,LAL,L (-20),0,18:39,1,4,.250,0,2,.000,0,0,,1,0,1,4,0,1,0,2,2,3.0,-7,Greg Buckner
+2005-11-09,29-054,DEN,HOME,SAC,W (+16),0,12:11,1,4,.250,0,1,.000,0,0,,0,4,4,1,0,1,0,3,2,1.0,+13,Greg Buckner
+2005-11-11,29-056,DEN,AWAY,SAC,L (-16),0,7:07,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,1,2,1.3,-8,Greg Buckner
+2005-11-13,29-058,DEN,HOME,MIN,W (+11),0,24:37,3,6,.500,0,1,.000,0,0,,3,1,4,0,1,0,1,4,6,3.8,+2,Greg Buckner
+2005-11-15,29-060,DEN,AWAY,DAL,L (-3),0,13:24,2,3,.667,0,0,,0,0,,0,0,0,0,2,0,0,2,4,3.9,-15,Greg Buckner
+2005-11-16,29-061,DEN,AWAY,NOK,W (+10),0,8:44,0,2,.000,0,2,.000,0,0,,0,1,1,0,0,0,0,3,0,-2.3,-3,Greg Buckner
+2005-11-18,29-063,DEN,HOME,NYK,W (+9),0,19:49,1,3,.333,0,1,.000,1,1,1.000,1,4,5,1,0,0,0,4,3,2.3,-4,Greg Buckner
+2005-11-20,29-065,DEN,HOME,MEM,W (+16),0,15:14,3,7,.429,1,3,.333,0,0,,0,2,2,2,0,0,1,1,7,3.9,-1,Greg Buckner
+2005-11-22,29-067,DEN,AWAY,WAS,W (+3),0,29:06,4,6,.667,2,3,.667,0,0,,0,1,1,3,1,1,2,1,10,9.1,+7,Greg Buckner
+2005-11-23,29-068,DEN,AWAY,DET,L (-25),0,17:09,3,3,1.000,1,1,1.000,1,2,.500,1,4,5,2,1,0,0,3,8,9.8,-5,Greg Buckner
+2005-11-25,29-070,DEN,HOME,LAC,W (+10),0,29:17,1,6,.167,1,2,.500,0,0,,1,2,3,5,1,0,1,2,3,3.2,+4,Greg Buckner
+2005-11-28,29-073,DEN,HOME,NJN,L (-9),0,30:21,1,3,.333,0,2,.000,0,0,,0,6,6,1,0,0,1,4,2,0.2,-11,Greg Buckner
+2005-11-30,29-075,DEN,HOME,NOK,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2005-12-02,29-077,DEN,AWAY,PHO,L (-5),0,27:27,1,4,.250,0,1,.000,0,0,,1,2,3,0,0,0,1,3,2,-1.3,+1,Greg Buckner
+2005-12-03,29-078,DEN,HOME,MIA,W (+2),1,29:13,2,4,.500,2,3,.667,0,0,,0,7,7,6,2,0,0,3,6,11.1,-2,Greg Buckner
+2005-12-06,29-081,DEN,HOME,ATL,W (+9),1,32:42,3,7,.429,1,3,.333,1,1,1.000,0,3,3,1,4,0,0,3,8,8.7,+13,Greg Buckner
+2005-12-09,29-084,DEN,AWAY,MIA,W (+8),1,35:57,5,10,.500,2,6,.333,2,2,1.000,0,7,7,2,1,0,2,2,14,10.7,+9,Greg Buckner
+2005-12-10,29-085,DEN,AWAY,ORL,L (-11),1,19:02,0,3,.000,0,1,.000,0,0,,0,2,2,1,3,0,1,3,0,0.0,-18,Greg Buckner
+2005-12-13,29-088,DEN,AWAY,CHA,W (+16),1,22:45,0,2,.000,0,1,.000,0,0,,0,1,1,3,1,0,0,1,0,1.6,+5,Greg Buckner
+2005-12-15,29-090,DEN,AWAY,CLE,L (-9),1,35:52,5,9,.556,3,6,.500,2,2,1.000,0,3,3,0,3,0,0,4,15,13.0,-3,Greg Buckner
+2005-12-16,29-091,DEN,AWAY,NJN,L (-9),1,11:22,2,2,1.000,0,0,,0,0,,0,1,1,1,3,0,1,0,4,6.4,-15,Greg Buckner
+2005-12-18,29-093,DEN,AWAY,ATL,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2005-12-21,29-096,DEN,HOME,WAS,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2005-12-23,29-098,DEN,HOME,HOU,W (+22),0,19:05,2,7,.286,1,4,.250,2,2,1.000,0,1,1,4,2,0,2,2,7,5.2,+7,Greg Buckner
+2005-12-26,29-101,DEN,AWAY,GSW,W (+6),0,24:46,2,2,1.000,1,1,1.000,0,0,,1,1,2,1,1,0,1,4,5,4.5,-13,Greg Buckner
+2005-12-27,29-102,DEN,HOME,PHI,L (-2),0,19:36,2,4,.500,0,1,.000,1,1,1.000,0,3,3,2,3,0,0,2,5,7.5,+3,Greg Buckner
+2005-12-29,29-104,DEN,HOME,SEA,L (-7),1,33:03,2,9,.222,2,7,.286,1,2,.500,1,1,2,1,3,0,1,3,7,3.6,-10,Greg Buckner
+2005-12-31,29-106,DEN,HOME,SAS,L (-10),1,19:32,1,3,.333,1,2,.500,0,0,,1,4,5,2,0,1,1,1,3,3.9,-5,Greg Buckner
+2006-01-02,29-108,DEN,HOME,BOS,W (+10),1,29:04,5,8,.625,2,4,.500,3,3,1.000,1,3,4,3,1,0,0,3,15,14.9,+7,Greg Buckner
+2006-01-04,29-110,DEN,HOME,IND,W (+20),1,32:52,4,5,.800,2,3,.667,1,1,1.000,1,3,4,2,0,0,2,2,11,9.3,+13,Greg Buckner
+2006-01-06,29-112,DEN,HOME,DAL,L (-2),1,28:28,5,10,.500,2,6,.333,0,0,,0,4,4,2,0,0,0,3,12,8.4,-3,Greg Buckner
+2006-01-08,29-114,DEN,AWAY,HOU,W (+2),1,30:51,3,9,.333,2,6,.333,2,3,.667,0,5,5,0,1,0,1,3,10,4.8,+8,Greg Buckner
+2006-01-10,29-116,DEN,HOME,PHO,W (+2),1,22:31,2,3,.667,0,1,.000,0,0,,0,3,3,4,0,0,0,2,4,5.6,-3,Greg Buckner
+2006-01-13,29-119,DEN,AWAY,MIN,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2006-01-14,29-120,DEN,AWAY,MIL,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2006-01-16,29-122,DEN,AWAY,CHI,W (+3),0,13:23,0,2,.000,0,0,,0,0,,0,2,2,0,1,0,0,3,0,-1.0,-8,Greg Buckner
+2006-01-18,29-124,DEN,HOME,CLE,W (+1),0,12:46,1,2,.500,0,1,.000,0,0,,0,1,1,0,0,0,0,0,2,1.3,-8,Greg Buckner
+2006-01-20,29-126,DEN,HOME,UTA,W (+30),0,25:33,3,5,.600,1,3,.333,4,4,1.000,1,5,6,1,0,1,1,2,11,10.5,+17,Greg Buckner
+2006-01-22,29-128,DEN,AWAY,SAS,W (+4),0,18:12,0,2,.000,0,2,.000,0,0,,0,2,2,2,1,1,0,1,0,1.9,+6,Greg Buckner
+2006-01-23,29-129,DEN,HOME,TOR,W (+6),0,18:42,0,2,.000,0,2,.000,0,0,,2,1,3,3,0,0,0,3,0,1.2,0,Greg Buckner
+2006-01-25,29-131,DEN,AWAY,POR,W (+3),0,24:03,4,6,.667,1,2,.500,0,0,,1,2,3,0,1,1,0,1,9,9.0,+10,Greg Buckner
+2006-01-27,29-133,DEN,HOME,LAC,L (-18),0,17:34,3,5,.600,3,5,.600,1,2,.500,1,0,1,0,0,1,0,2,10,7.9,-4,Greg Buckner
+2006-01-28,29-134,DEN,AWAY,LAC,L (-33),0,19:16,1,5,.200,0,4,.000,0,0,,0,1,1,0,1,1,1,1,2,-0.5,-17,Greg Buckner
+2006-01-31,29-137,DEN,AWAY,SAC,L (-7),0,29:13,4,9,.444,1,5,.200,2,2,1.000,2,2,4,0,1,1,0,2,11,9.2,-16,Greg Buckner
+2006-02-01,29-138,DEN,AWAY,UTA,L (-13),1,27:11,2,4,.500,2,3,.667,2,2,1.000,0,0,0,2,1,0,0,3,8,7.2,-21,Greg Buckner
+2006-02-04,29-141,DEN,HOME,POR,W (+1),1,19:47,2,4,.500,2,3,.667,2,4,.500,0,1,1,1,3,0,0,1,8,8.8,+5,Greg Buckner
+2006-02-06,29-143,DEN,AWAY,GSW,L (-8),1,25:11,3,6,.500,2,5,.400,0,0,,0,3,3,5,0,0,0,5,8,7.4,0,Greg Buckner
+2006-02-08,29-145,DEN,HOME,CHI,L (-3),1,19:14,0,1,.000,0,1,.000,0,0,,0,1,1,1,2,1,1,2,0,1.2,-13,Greg Buckner
+2006-02-10,29-147,DEN,HOME,DAL,W (+9),1,37:18,3,9,.333,0,3,.000,2,5,.400,0,1,1,2,7,1,1,3,8,8.9,+22,Greg Buckner
+2006-02-12,29-149,DEN,AWAY,SEA,W (+8),1,36:24,3,10,.300,1,5,.200,1,2,.500,1,2,3,2,1,1,1,5,8,3.2,+21,Greg Buckner
+2006-02-15,29-152,DEN,HOME,PHO,L (-15),1,29:49,4,9,.444,0,4,.000,1,2,.500,0,4,4,1,5,2,1,1,9,10.8,-18,Greg Buckner
+2006-02-21,29-158,DEN,HOME,CHA,W (+16),1,33:46,8,12,.667,3,6,.500,0,0,,0,7,7,2,2,0,4,2,19,14.5,+22,Greg Buckner
+2006-02-27,29-164,DEN,HOME,MIL,L (-21),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2006-03-01,29-166,DEN,HOME,DET,W (+11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2006-03-03,29-168,DEN,AWAY,HOU,L (-11),0,18:23,1,6,.167,0,4,.000,0,0,,0,1,1,7,1,1,1,3,2,2.9,+7,Greg Buckner
+2006-03-04,29-169,DEN,HOME,ORL,W (+16),0,20:18,1,2,.500,1,2,.500,0,0,,1,2,3,2,1,1,0,2,3,5.6,+12,Greg Buckner
+2006-03-06,29-171,DEN,HOME,MEM,W (+14),0,22:25,2,4,.500,2,2,1.000,0,0,,1,2,3,0,0,1,1,2,6,4.2,+11,Greg Buckner
+2006-03-09,29-174,DEN,AWAY,PHI,W (+4),0,23:13,3,6,.500,1,4,.250,0,0,,1,1,2,2,1,0,0,1,7,7.0,+5,Greg Buckner
+2006-03-10,29-175,DEN,AWAY,TOR,W (+11),0,29:27,6,11,.545,5,8,.625,0,0,,0,2,2,0,0,0,0,5,17,10.3,+9,Greg Buckner
+2006-03-12,29-177,DEN,AWAY,BOS,L (-5),0,23:08,4,10,.400,4,9,.444,1,2,.500,0,3,3,0,0,0,2,3,13,4.9,-6,Greg Buckner
+2006-03-13,29-178,DEN,AWAY,NYK,W (+12),0,28:12,3,8,.375,3,6,.500,0,0,,0,2,2,0,3,0,1,3,9,6.0,+19,Greg Buckner
+2006-03-15,29-180,DEN,AWAY,IND,W (+2),0,26:58,1,2,.500,1,2,.500,0,0,,0,4,4,1,0,0,0,4,3,2.3,-11,Greg Buckner
+2006-03-17,29-182,DEN,AWAY,MEM,L (-14),0,22:40,2,6,.333,1,5,.200,0,0,,0,0,0,2,0,0,1,2,5,1.2,-13,Greg Buckner
+2006-03-18,29-183,DEN,AWAY,NOK,W (+15),0,32:13,7,15,.467,5,12,.417,0,0,,1,4,5,2,3,1,2,2,19,15.5,+6,Greg Buckner
+2006-03-22,29-187,DEN,HOME,SAS,W (+12),0,29:54,5,12,.417,3,7,.429,0,0,,0,4,4,0,1,0,1,3,13,6.6,+10,Greg Buckner
+2006-03-24,29-189,DEN,HOME,SEA,W (+13),0,20:52,2,4,.500,2,3,.667,0,0,,0,3,3,2,0,0,0,4,6,4.7,+1,Greg Buckner
+2006-03-25,29-190,DEN,AWAY,PHO,L (-11),0,19:15,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,1,0,2,2,3,0.9,-26,Greg Buckner
+2006-03-29,29-194,DEN,HOME,UTA,L (-11),0,26:04,3,9,.333,2,8,.250,0,0,,0,1,1,5,1,0,0,4,8,6.1,-6,Greg Buckner
+2006-03-31,29-196,DEN,HOME,MIN,W (+12),0,30:01,3,9,.333,2,4,.500,0,0,,2,4,6,2,1,0,0,3,8,6.7,+12,Greg Buckner
+2006-04-02,29-198,DEN,AWAY,DAL,L (-24),0,31:25,2,8,.250,1,6,.167,0,0,,1,2,3,2,1,0,0,4,5,2.3,-22,Greg Buckner
+2006-04-04,29-200,DEN,AWAY,LAC,L (-2),1,20:43,4,7,.571,1,3,.333,4,4,1.000,0,0,0,3,0,0,2,2,13,9.0,+10,Greg Buckner
+2006-04-06,29-202,DEN,HOME,LAL,W (+2),1,41:13,4,8,.500,3,5,.600,1,1,1.000,1,2,3,3,2,0,2,3,12,10.2,+2,Greg Buckner
+2006-04-08,29-204,DEN,HOME,GSW,W (+3),1,34:45,4,11,.364,3,8,.375,0,0,,0,3,3,8,0,0,2,4,11,7.8,+9,Greg Buckner
+2006-04-10,29-206,DEN,AWAY,POR,W (+12),0,28:28,4,10,.400,1,4,.250,0,0,,0,5,5,1,5,0,2,2,9,8.0,+4,Greg Buckner
+2006-04-12,29-208,DEN,AWAY,UTA,L (-21),1,27:21,5,10,.500,1,4,.250,2,2,1.000,1,4,5,1,0,0,0,1,13,10.2,+4,Greg Buckner
+2006-04-15,29-211,DEN,HOME,SAC,L (-18),0,26:15,1,5,.200,0,3,.000,0,0,,0,1,1,2,0,1,2,5,2,-2.7,-10,Greg Buckner
+2006-04-17,29-213,DEN,HOME,HOU,L (-3),1,10:22,1,2,.500,0,1,.000,2,2,1.000,0,2,2,0,1,0,1,1,4,3.2,+16,Greg Buckner
+2006-04-19,29-215,DEN,AWAY,SEA,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2002-10-29,26-043,PHI,AWAY,ORL,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2002-10-30,26-044,PHI,HOME,MIL,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2002-11-01,26-046,PHI,HOME,NYK,W (+12),0,22:47,1,6,.167,0,1,.000,2,2,1.000,1,1,2,2,2,0,0,5,4,2.6,+13,Greg Buckner
+2002-11-06,26-051,PHI,HOME,LAC,W (+2),0,27:26,3,9,.333,1,2,.500,3,4,.750,1,3,4,3,1,0,1,4,10,6.6,+8,Greg Buckner
+2002-11-08,26-053,PHI,HOME,CLE,W (+24),0,29:13,3,8,.375,1,2,.500,4,4,1.000,2,6,8,4,5,0,0,2,11,16.8,+15,Greg Buckner
+2002-11-09,26-054,PHI,AWAY,MIL,L (-5),0,35:05,4,9,.444,1,2,.500,1,2,.500,2,4,6,2,1,0,1,4,10,7.3,-1,Greg Buckner
+2002-11-13,26-058,PHI,AWAY,BOS,L (-10),0,20:11,2,8,.250,2,5,.400,0,0,,0,1,1,2,0,0,2,3,6,-0.3,-4,Greg Buckner
+2002-11-14,26-059,PHI,HOME,SAS,W (+5),0,22:40,1,1,1.000,0,0,,0,0,,0,6,6,1,1,2,0,3,2,5.4,+5,Greg Buckner
+2002-11-16,26-061,PHI,AWAY,NYK,W (+1),0,23:54,5,8,.625,0,1,.000,0,0,,0,4,4,0,2,1,1,3,10,8.1,-18,Greg Buckner
+2002-11-17,26-062,PHI,HOME,WAS,W (+16),0,28:16,6,8,.750,1,2,.500,3,4,.750,4,1,5,0,2,0,1,3,16,15.3,+12,Greg Buckner
+2002-11-19,26-064,PHI,AWAY,NOH,L (-1),0,18:04,2,9,.222,0,0,,0,0,,2,0,2,1,0,0,0,3,4,-0.6,-2,Greg Buckner
+2002-11-20,26-065,PHI,AWAY,MEM,W (+7),0,18:09,1,3,.333,0,1,.000,0,0,,1,5,6,1,2,0,2,2,2,2.4,+6,Greg Buckner
+2002-11-22,26-067,PHI,HOME,TOR,W (+10),0,28:00,2,2,1.000,0,0,,0,0,,1,3,4,6,1,1,3,2,4,7.1,+12,Greg Buckner
+2002-11-24,26-069,PHI,AWAY,TOR,W (+10),0,21:14,2,7,.286,1,2,.500,0,0,,2,1,3,1,0,0,0,3,5,2.1,+8,Greg Buckner
+2002-11-25,26-070,PHI,HOME,NOH,W (+21),0,22:34,0,5,.000,0,1,.000,1,2,.500,3,1,4,3,0,0,1,5,1,-1.4,-2,Greg Buckner
+2002-11-27,26-072,PHI,HOME,MIA,W (+9),0,23:48,0,2,.000,0,0,,0,0,,1,2,3,0,2,3,0,3,0,2.8,-2,Greg Buckner
+2002-11-29,26-074,PHI,AWAY,CLE,W (+7),0,20:18,1,4,.250,0,0,,0,0,,0,1,1,2,0,0,0,2,2,0.5,-4,Greg Buckner
+2002-11-30,26-075,PHI,AWAY,WAS,W (+1),0,25:17,3,4,.750,0,0,,2,3,.667,1,1,2,2,4,0,0,4,8,10.8,-8,Greg Buckner
+2002-12-04,26-079,PHI,HOME,BOS,W (+6),0,18:36,2,6,.333,0,1,.000,2,2,1.000,1,2,3,3,1,0,0,2,6,6.2,-1,Greg Buckner
+2002-12-06,26-081,PHI,AWAY,SAS,L (-5),0,22:35,1,3,.333,0,1,.000,0,0,,1,2,3,1,2,0,1,5,2,1.3,+8,Greg Buckner
+2002-12-07,26-082,PHI,AWAY,HOU,L (-25),0,18:08,1,3,.333,0,0,,0,0,,3,1,4,0,2,0,2,4,2,1.1,-13,Greg Buckner
+2002-12-11,26-086,PHI,HOME,SEA,L (-4),0,28:43,2,7,.286,1,3,.333,0,0,,1,0,1,1,1,1,1,5,5,1.0,-13,Greg Buckner
+2002-12-13,26-088,PHI,HOME,PHO,L (-8),0,32:49,7,10,.700,0,1,.000,0,0,,1,1,2,2,0,1,1,5,14,9.9,+3,Greg Buckner
+2002-12-15,26-090,PHI,AWAY,IND,L (-10),0,20:21,1,1,1.000,0,0,,3,3,1.000,1,4,5,0,1,0,1,4,5,5.0,-4,Greg Buckner
+2002-12-16,26-091,PHI,HOME,DEN,W (+22),0,29:22,5,7,.714,0,0,,0,0,,0,5,5,2,1,0,2,3,10,7.8,+8,Greg Buckner
+2002-12-18,26-093,PHI,HOME,MIN,W (+5),0,31:03,5,9,.556,0,1,.000,1,2,.500,1,2,3,3,5,0,1,5,11,11.7,+3,Greg Buckner
+2002-12-20,26-095,PHI,HOME,LAL,W (+3),0,4:40,1,3,.333,0,2,.000,0,0,,0,1,1,1,0,0,0,1,2,0.9,+2,Greg Buckner
+2002-12-21,26-096,PHI,AWAY,ATL,L (-2),0,18:57,0,1,.000,0,0,,0,0,,1,3,4,1,0,0,2,2,0,-1.2,+2,Greg Buckner
+2002-12-28,26-103,PHI,AWAY,UTA,L (-29),0,20:55,2,7,.286,1,2,.500,2,2,1.000,0,2,2,2,0,0,1,4,7,2.3,-10,Greg Buckner
+2002-12-30,26-105,PHI,AWAY,GSW,L (-6),0,14:29,2,5,.400,0,1,.000,0,0,,1,2,3,0,2,0,0,3,4,3.4,+6,Greg Buckner
+2002-12-31,26-106,PHI,AWAY,LAC,W (+8),0,16:09,1,2,.500,0,0,,0,0,,1,1,2,2,0,1,0,3,2,2.9,+8,Greg Buckner
+2003-01-02,26-108,PHI,AWAY,PHO,L (-18),0,26:39,6,9,.667,0,0,,0,0,,1,1,2,4,1,1,2,3,12,10.4,-11,Greg Buckner
+2003-01-04,26-110,PHI,AWAY,DAL,L (-19),0,35:04,7,11,.636,0,1,.000,0,0,,0,3,3,1,1,0,0,3,14,10.5,-6,Greg Buckner
+2003-01-06,26-112,PHI,HOME,IND,L (-1),0,29:44,4,8,.500,0,1,.000,4,4,1.000,0,1,1,0,4,0,1,4,12,9.7,+8,Greg Buckner
+2003-01-08,26-114,PHI,HOME,DET,L (-9),0,19:29,1,3,.333,0,1,.000,0,0,,0,1,1,1,1,0,1,2,2,0.5,-9,Greg Buckner
+2003-01-10,26-116,PHI,HOME,NYK,L (-2),0,18:47,1,2,.500,0,0,,2,2,1.000,2,0,2,0,3,1,1,2,4,6.3,-1,Greg Buckner
+2003-01-12,26-118,PHI,HOME,ORL,L (-2),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Greg Buckner
+2003-01-15,26-121,PHI,HOME,NJN,W (+1),0,21:47,4,7,.571,0,0,,0,0,,2,1,3,0,0,0,1,4,8,3.8,-3,Greg Buckner
+2003-01-17,26-123,PHI,HOME,MIL,L (-4),0,13:42,1,2,.500,0,0,,0,0,,0,3,3,2,0,0,2,3,2,0.1,-10,Greg Buckner
+2003-01-18,26-124,PHI,AWAY,WAS,W (+8),0,23:10,1,4,.250,0,0,,0,0,,4,2,6,3,1,0,0,2,2,5.3,-1,Greg Buckner
+2003-01-20,26-126,PHI,HOME,BOS,L (-1),0,23:01,2,3,.667,0,0,,5,5,1.000,1,2,3,0,1,0,1,3,9,7.8,0,Greg Buckner
+2003-01-22,26-128,PHI,AWAY,DET,W (+9),0,22:09,4,7,.571,1,3,.333,0,1,.000,1,3,4,0,0,0,0,2,9,6.1,0,Greg Buckner
+2003-01-23,26-129,PHI,HOME,DAL,L (-13),0,25:30,4,8,.500,0,0,,0,0,,2,5,7,1,3,1,2,4,8,7.7,-4,Greg Buckner
+2003-01-25,26-131,PHI,AWAY,MIA,W (+6),0,13:53,0,0,,0,0,,1,2,.500,0,5,5,1,0,0,2,3,1,-0.4,-2,Greg Buckner
+2003-01-28,26-134,PHI,AWAY,MIL,W (+27),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2003-01-29,26-135,PHI,HOME,ATL,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2003-01-31,26-137,PHI,HOME,MIA,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2003-02-02,26-139,PHI,AWAY,MIN,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2003-02-05,26-142,PHI,HOME,NJN,L (-26),0,14:18,1,3,.333,0,0,,0,0,,0,1,1,0,0,0,1,3,2,-1.6,-12,Greg Buckner
+2003-02-12,26-149,PHI,HOME,CHI,W (+8),0,12:16,3,6,.500,0,0,,1,2,.500,1,0,1,2,0,0,0,3,7,4.5,+11,Greg Buckner
+2003-02-14,26-151,PHI,HOME,ORL,W (+1),0,12:17,1,3,.333,0,0,,2,4,.500,0,1,1,1,0,0,1,2,4,0.7,+10,Greg Buckner
+2003-02-16,26-153,PHI,AWAY,NJN,W (+7),0,20:02,1,5,.200,1,1,1.000,2,2,1.000,2,3,5,1,0,1,2,3,5,2.4,0,Greg Buckner
+2003-02-19,26-156,PHI,AWAY,CHI,W (+28),0,15:37,3,8,.375,0,1,.000,2,3,.667,1,0,1,2,0,0,1,1,8,3.9,+10,Greg Buckner
+2003-02-21,26-158,PHI,AWAY,CLE,W (+20),0,12:00,2,5,.400,0,1,.000,0,0,,0,2,2,1,0,0,0,1,4,2.2,+7,Greg Buckner
+2003-02-23,26-160,PHI,HOME,CLE,W (+13),0,12:38,4,7,.571,0,1,.000,0,0,,1,1,2,0,2,0,0,0,8,7.7,+8,Greg Buckner
+2003-02-26,26-163,PHI,HOME,MEM,W (+4),0,19:55,3,6,.500,0,1,.000,2,2,1.000,1,0,1,2,2,0,3,3,8,4.9,-6,Greg Buckner
+2003-02-28,26-165,PHI,HOME,UTA,W (+21),0,11:58,3,4,.750,0,0,,0,0,,0,0,0,1,0,0,0,3,6,3.9,+13,Greg Buckner
+2003-03-02,26-167,PHI,AWAY,DEN,W (+6),0,22:41,5,10,.500,0,1,.000,3,3,1.000,2,0,2,1,1,0,1,3,13,8.9,+14,Greg Buckner
+2003-03-03,26-168,PHI,AWAY,SAC,L (-8),0,18:25,0,3,.000,0,1,.000,0,0,,0,1,1,1,0,0,0,3,0,-2.3,+2,Greg Buckner
+2003-03-06,26-171,PHI,AWAY,POR,W (+28),0,10:18,1,1,1.000,0,0,,0,0,,0,1,1,1,1,0,0,2,2,2.9,+2,Greg Buckner
+2003-03-07,26-172,PHI,AWAY,SEA,W (+9),0,17:52,1,2,.500,0,0,,0,0,,2,2,4,2,0,1,0,2,2,4.3,+6,Greg Buckner
+2003-03-09,26-174,PHI,AWAY,LAL,L (-14),0,18:58,1,2,.500,0,0,,2,2,1.000,1,1,2,1,0,0,0,4,4,3.1,-7,Greg Buckner
+2003-03-12,26-177,PHI,HOME,IND,W (+3),0,12:40,1,4,.250,0,0,,0,0,,1,0,1,2,0,0,0,1,2,1.3,+6,Greg Buckner
+2003-03-14,26-179,PHI,HOME,POR,W (+11),0,13:23,3,3,1.000,0,0,,0,0,,2,3,5,3,2,0,1,1,6,10.1,+3,Greg Buckner
+2003-03-16,26-181,PHI,AWAY,NJN,W (+5),0,12:23,1,2,.500,0,0,,1,1,1.000,0,2,2,0,0,0,1,0,3,1.6,+1,Greg Buckner
+2003-03-18,26-183,PHI,AWAY,MIA,W (+20),0,17:10,3,3,1.000,0,0,,0,0,,0,3,3,1,1,0,2,2,6,4.9,+9,Greg Buckner
+2003-03-20,26-185,PHI,AWAY,DET,L (-28),0,19:21,3,7,.429,1,1,1.000,3,4,.750,0,3,3,1,0,0,1,1,10,6.1,+1,Greg Buckner
+2003-03-21,26-186,PHI,HOME,ATL,L (-9),0,11:08,1,3,.333,0,0,,0,0,,0,0,0,2,0,0,0,2,2,0.9,-10,Greg Buckner
+2003-03-23,26-188,PHI,AWAY,TOR,W (+17),0,23:09,5,7,.714,0,1,.000,1,2,.500,1,2,3,1,0,0,1,2,11,7.9,+4,Greg Buckner
+2003-03-26,26-191,PHI,AWAY,IND,W (+6),0,3:57,1,2,.500,0,1,.000,0,0,,0,0,0,2,0,0,0,1,2,2.0,+2,Greg Buckner
+2003-03-28,26-193,PHI,HOME,GSW,L (-4),0,20:33,6,11,.545,0,1,.000,0,0,,1,1,2,0,1,0,0,2,12,7.9,+6,Greg Buckner
+2003-03-29,26-194,PHI,AWAY,ATL,W (+21),0,19:51,4,6,.667,0,0,,2,2,1.000,1,2,3,0,0,0,0,3,10,7.5,-5,Greg Buckner
+2003-03-31,26-196,PHI,AWAY,ORL,W (+5),0,13:29,1,4,.250,0,0,,3,4,.750,1,1,2,0,1,0,2,1,5,1.8,-13,Greg Buckner
+2003-04-02,26-198,PHI,HOME,CHI,W (+7),0,13:29,2,3,.667,0,0,,1,2,.500,0,2,2,0,0,1,0,1,5,4.2,+6,Greg Buckner
+2003-04-04,26-200,PHI,HOME,HOU,L (-9),0,20:04,3,6,.500,1,2,.500,0,0,,0,2,2,1,1,0,0,2,7,5.5,+1,Greg Buckner
+2003-04-06,26-202,PHI,HOME,SAC,L (-16),0,16:43,1,5,.200,0,0,,0,0,,2,1,3,2,0,0,0,2,2,1.2,-4,Greg Buckner
+2003-04-08,26-204,PHI,HOME,DET,W (+17),1,22:17,4,8,.500,0,0,,0,0,,2,2,4,1,0,0,2,2,8,3.9,+6,Greg Buckner
+2003-04-10,26-206,PHI,AWAY,BOS,W (+21),1,29:14,4,10,.400,1,2,.500,0,0,,1,5,6,1,2,0,1,3,9,6.3,+1,Greg Buckner
+2003-04-11,26-207,PHI,AWAY,NYK,L (-5),1,25:20,4,9,.444,0,0,,2,2,1.000,1,0,1,1,1,0,3,4,10,3.1,+1,Greg Buckner
+2003-04-13,26-209,PHI,HOME,NOH,L (-5),1,24:18,5,10,.500,1,1,1.000,2,2,1.000,0,2,2,0,1,0,0,2,13,8.8,+1,Greg Buckner
+2003-04-15,26-211,PHI,AWAY,CHI,L (-9),1,16:50,2,5,.400,0,1,.000,0,0,,0,2,2,0,1,0,2,4,4,-0.7,+5,Greg Buckner
+2003-04-16,26-212,PHI,HOME,WAS,W (+20),0,25:08,1,4,.250,0,1,.000,0,0,,2,5,7,1,2,0,0,2,2,4.4,+9,Greg Buckner
+2003-11-25,27-070,PHI,AWAY,MIL,L (-4),0,7:00,1,2,.500,0,1,.000,0,0,,0,0,0,1,0,0,0,1,2,1.3,-7,Greg Buckner
+2003-11-26,27-071,PHI,HOME,DET,W (+4),0,0:09,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3,Greg Buckner
+2003-11-28,27-073,PHI,AWAY,IND,L (-13),0,16:46,1,3,.333,0,1,.000,0,0,,0,1,1,3,1,0,0,3,2,2.5,-3,Greg Buckner
+2003-11-29,27-074,PHI,HOME,ATL,W (+12),0,11:41,0,4,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,1,0,-2.9,-4,Greg Buckner
+2003-12-02,27-077,PHI,HOME,TOR,L (-7),0,5:15,0,2,.000,0,1,.000,0,0,,0,2,2,0,0,0,1,0,0,-1.8,-8,Greg Buckner
+2003-12-04,27-079,PHI,HOME,CHI,W (+1),0,2:04,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,1,0,0.3,+1,Greg Buckner
+2003-12-05,27-080,PHI,AWAY,MIA,W (+3),0,11:58,1,3,.333,0,0,,0,0,,0,1,1,1,1,1,1,1,2,1.6,-4,Greg Buckner
+2003-12-09,27-084,PHI,AWAY,DET,W (+2),0,17:17,1,2,.500,0,1,.000,0,0,,0,2,2,0,0,1,0,1,2,1.9,-3,Greg Buckner
+2003-12-12,27-087,PHI,HOME,DEN,L (-9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Greg Buckner
+2003-12-14,27-089,PHI,HOME,UTA,L (-8),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Greg Buckner
+2003-12-17,27-092,PHI,HOME,MIA,W (+11),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Greg Buckner
+2003-12-19,27-094,PHI,HOME,CLE,L (-7),0,5:56,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,-4,Greg Buckner
+2003-12-21,27-096,PHI,AWAY,BOS,L (-3),0,8:54,1,2,.500,0,1,.000,0,0,,0,0,0,0,1,0,1,1,2,0.6,+1,Greg Buckner
+2003-12-22,27-097,PHI,HOME,ORL,W (+22),0,6:31,1,3,.333,0,0,,0,0,,0,0,0,1,1,0,0,1,2,1.6,+1,Greg Buckner
+2003-12-26,27-101,PHI,AWAY,LAC,L (-3),0,3:22,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,+5,Greg Buckner
+2003-12-28,27-103,PHI,AWAY,PHO,L (-8),0,11:54,2,6,.333,0,0,,2,2,1.000,1,3,4,0,1,0,0,1,6,4.8,+1,Greg Buckner
+2003-12-29,27-104,PHI,AWAY,UTA,L (-9),1,34:37,4,10,.400,0,1,.000,1,1,1.000,4,0,4,2,2,0,1,5,9,6.8,-5,Greg Buckner
+2003-12-31,27-106,PHI,AWAY,HOU,L (-8),1,37:21,5,10,.500,2,4,.500,1,2,.500,1,10,11,4,1,0,3,1,13,11.7,+1,Greg Buckner
+2004-01-03,27-109,PHI,AWAY,SAS,W (+6),1,35:14,5,11,.455,1,2,.500,2,2,1.000,3,3,6,3,0,0,1,5,13,9.4,+5,Greg Buckner
+2004-01-05,27-111,PHI,HOME,MIL,L (-12),0,22:34,3,6,.500,0,2,.000,0,0,,1,1,2,1,0,0,1,1,6,3.3,0,Greg Buckner
+2004-01-07,27-113,PHI,HOME,LAC,W (+20),0,18:59,3,4,.750,0,0,,0,0,,2,4,6,1,0,0,2,2,6,4.9,+4,Greg Buckner
+2004-01-09,27-115,PHI,HOME,NJN,W (+16),0,12:25,1,5,.200,0,1,.000,0,0,,0,2,2,0,0,0,0,0,2,-0.5,+2,Greg Buckner
+2004-01-10,27-116,PHI,AWAY,WAS,L (-7),0,5:07,2,4,.500,0,0,,0,0,,0,2,2,0,0,0,0,2,4,1.8,-5,Greg Buckner
+2004-01-12,27-118,PHI,AWAY,ORL,W (+5),0,1:57,0,0,,0,0,,1,2,.500,0,1,1,0,0,0,0,1,1,0.5,-1,Greg Buckner
+2004-01-14,27-120,PHI,AWAY,DAL,L (-3),0,7:28,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,1,0,0.3,-5,Greg Buckner
+2004-01-23,27-129,PHI,HOME,ORL,L (-5),0,8:41,0,0,,0,0,,0,0,,2,0,2,1,1,0,0,0,0,3.1,-12,Greg Buckner
+2004-01-24,27-130,PHI,AWAY,CLE,L (-8),0,4:40,0,0,,0,0,,0,0,,0,2,2,0,0,0,1,1,0,-0.8,+5,Greg Buckner
+2004-01-27,27-133,PHI,HOME,NJN,L (-18),0,16:24,0,1,.000,0,0,,0,0,,1,4,5,0,0,0,0,1,0,0.8,+6,Greg Buckner
+2004-02-01,27-138,PHI,AWAY,MIN,L (-5),0,4:09,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1,Greg Buckner
+2004-02-05,27-142,PHI,HOME,LAL,W (+23),0,18:39,1,3,.333,0,1,.000,1,2,.500,1,5,6,0,0,0,0,1,3,2.7,+10,Greg Buckner
+2004-02-07,27-144,PHI,HOME,BOS,L (-30),0,20:51,1,2,.500,0,1,.000,3,4,.750,0,4,4,1,2,0,1,2,5,5.7,-3,Greg Buckner
+2004-02-08,27-145,PHI,AWAY,NJN,L (-12),0,22:08,5,10,.500,0,1,.000,0,0,,1,1,2,2,2,0,1,3,10,7.2,+1,Greg Buckner
+2004-02-11,27-148,PHI,HOME,WAS,W (+25),0,10:14,1,5,.200,0,0,,2,2,1.000,0,1,1,0,0,0,1,1,4,-0.2,+2,Greg Buckner
+2004-02-17,27-154,PHI,AWAY,DEN,L (-21),0,2:33,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,-2,Greg Buckner
+2004-02-19,27-156,PHI,AWAY,SEA,W (+11),0,15:54,2,5,.400,0,1,.000,0,0,,0,2,2,1,0,0,0,1,4,2.2,-10,Greg Buckner
+2004-02-20,27-157,PHI,AWAY,LAL,L (-28),0,16:42,0,2,.000,0,0,,0,0,,1,0,1,1,1,0,0,2,0,0.2,-24,Greg Buckner
+2004-02-23,27-160,PHI,HOME,DET,L (-10),0,21:03,3,6,.500,1,1,1.000,1,2,.500,2,1,3,2,0,0,1,4,8,5.1,+3,Greg Buckner
+2004-02-24,27-161,PHI,AWAY,ATL,L (-11),0,23:03,0,4,.000,0,0,,0,0,,1,5,6,0,1,0,2,4,0,-3.2,+3,Greg Buckner
+2004-02-28,27-165,PHI,AWAY,IND,L (-7),0,6:21,0,1,.000,0,0,,0,0,,0,2,2,0,0,0,3,0,0,-3.1,-1,Greg Buckner
+2004-03-08,27-174,PHI,HOME,MIL,W (+5),0,25:13,8,12,.667,4,5,.800,0,0,,1,1,2,2,0,0,2,4,20,13.6,+15,Greg Buckner
+2004-03-09,27-175,PHI,AWAY,CHI,W (+8),0,10:35,0,2,.000,0,1,.000,0,0,,0,2,2,1,0,1,1,1,0,-0.8,0,Greg Buckner
+2004-03-12,27-178,PHI,HOME,NYK,W (+5),0,5:20,0,0,,0,0,,0,0,,0,0,0,1,0,0,1,1,0,-0.7,-8,Greg Buckner
+2004-03-14,27-180,PHI,AWAY,DET,L (-16),0,12:31,0,0,,0,0,,0,0,,0,1,1,0,1,0,2,3,0,-1.9,-2,Greg Buckner
+2004-03-20,27-186,PHI,AWAY,MIA,L (-32),0,10:15,0,5,.000,0,3,.000,0,0,,0,1,1,0,0,1,0,0,0,-2.5,-19,Greg Buckner
+2004-03-22,27-188,PHI,HOME,DAL,W (+9),0,9:35,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,+2,Greg Buckner
+2004-03-24,27-190,PHI,HOME,PHO,W (+5),0,14:59,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.8,+1,Greg Buckner
+2004-03-26,27-192,PHI,HOME,CLE,W (+15),0,4:17,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,-4,Greg Buckner
+2004-03-28,27-194,PHI,AWAY,BOS,L (-24),0,16:11,0,5,.000,0,2,.000,2,4,.500,2,1,3,5,0,0,1,1,2,1.5,-5,Greg Buckner
+2004-03-30,27-196,PHI,HOME,GSW,W (+24),0,24:12,5,9,.556,2,3,.667,2,2,1.000,2,3,5,3,0,0,0,2,14,13.3,+11,Greg Buckner
+2004-04-01,27-198,PHI,HOME,POR,L (-6),0,8:01,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.7,0,Greg Buckner
+2004-04-03,27-200,PHI,HOME,NYK,L (-11),0,15:09,2,5,.400,0,1,.000,0,0,,1,1,2,2,0,0,1,2,4,1.9,-6,Greg Buckner
+2004-04-06,27-203,PHI,AWAY,ATL,W (+3),0,9:37,0,0,,0,0,,0,0,,0,2,2,1,1,0,1,1,0,0.9,+4,Greg Buckner
+2004-04-09,27-206,PHI,HOME,WAS,L (-3),0,17:30,1,3,.333,0,0,,0,0,,1,0,1,1,2,0,0,1,2,3.3,+1,Greg Buckner
+2004-04-11,27-208,PHI,AWAY,NJN,L (-14),0,17:53,3,7,.429,1,3,.333,2,2,1.000,0,1,1,1,0,0,0,4,9,4.7,+2,Greg Buckner
+2004-04-12,27-209,PHI,HOME,IND,L (-14),0,12:49,2,5,.400,1,3,.333,0,0,,0,0,0,0,1,0,1,3,5,1.1,-1,Greg Buckner
+2004-04-14,27-211,PHI,AWAY,ORL,L (-6),0,7:19,0,1,.000,0,0,,0,0,,0,0,0,0,1,0,1,2,0,-1.5,-3,Greg Buckner
+2006-11-02,30-047,DAL,HOME,SAS,L (-6),1,18:04,0,5,.000,0,1,.000,0,0,,0,2,2,0,1,0,0,1,0,-2.3,+1,Greg Buckner
+2006-11-04,30-049,DAL,AWAY,HOU,L (-31),1,22:13,1,5,.200,0,1,.000,1,1,1.000,0,3,3,2,0,0,1,2,3,0.4,-20,Greg Buckner
+2006-11-06,30-051,DAL,HOME,GSW,L (-3),0,22:44,5,7,.714,2,4,.500,1,2,.500,0,3,3,1,0,1,0,3,13,10.8,-3,Greg Buckner
+2006-11-08,30-053,DAL,AWAY,LAC,L (-18),0,21:42,2,4,.500,1,2,.500,0,0,,0,2,2,1,0,0,0,5,5,2.3,-2,Greg Buckner
+2006-11-09,30-054,DAL,AWAY,PHO,W (+7),0,15:37,0,0,,0,0,,0,0,,0,0,0,0,1,0,1,1,0,-0.4,+13,Greg Buckner
+2006-11-12,30-057,DAL,AWAY,POR,W (+7),0,23:50,4,6,.667,1,2,.500,0,0,,2,1,3,0,0,0,0,2,9,7.3,-13,Greg Buckner
+2006-11-14,30-059,DAL,HOME,CHI,W (+12),0,26:59,3,7,.429,0,2,.000,2,2,1.000,1,8,9,1,1,1,0,1,8,9.4,+20,Greg Buckner
+2006-11-17,30-062,DAL,AWAY,MEM,W (+12),0,19:08,1,4,.250,0,2,.000,3,5,.600,0,0,0,1,0,0,1,1,5,1.1,-9,Greg Buckner
+2006-11-18,30-063,DAL,HOME,MEM,W (+5),0,19:12,2,5,.400,1,2,.500,0,0,,0,3,3,1,1,0,2,2,5,2.1,+7,Greg Buckner
+2006-11-20,30-065,DAL,AWAY,CHA,W (+8),0,25:43,3,4,.750,1,2,.500,0,0,,2,3,5,1,2,0,1,3,7,8.2,+10,Greg Buckner
+2006-11-21,30-066,DAL,HOME,WAS,W (+27),0,27:47,4,8,.500,3,5,.600,0,0,,0,4,4,2,0,0,0,4,11,8.0,+8,Greg Buckner
+2006-11-24,30-069,DAL,AWAY,SAS,W (+3),0,9:42,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.0,0,Greg Buckner
+2006-11-25,30-070,DAL,HOME,NOK,W (+12),0,15:36,0,3,.000,0,3,.000,0,0,,0,0,0,0,1,0,0,2,0,-1.9,-3,Greg Buckner
+2006-11-27,30-072,DAL,HOME,MIN,W (+6),0,8:15,2,4,.500,0,1,.000,0,0,,0,1,1,0,0,0,0,0,4,2.3,+6,Greg Buckner
+2006-11-29,30-074,DAL,HOME,TOR,W (+19),0,16:41,2,5,.400,1,2,.500,0,0,,0,2,2,0,0,0,0,1,5,2.5,+6,Greg Buckner
+2006-12-01,30-076,DAL,HOME,SAC,W (+19),0,7:30,1,2,.500,1,2,.500,0,0,,0,2,2,0,0,0,1,1,3,1.2,-7,Greg Buckner
+2006-12-04,30-079,DAL,AWAY,WAS,L (-9),0,5:21,1,2,.500,0,0,,0,0,,0,0,0,0,1,0,1,0,2,1.0,-5,Greg Buckner
+2006-12-05,30-080,DAL,AWAY,NJN,W (+17),0,1:03,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Greg Buckner
+2006-12-07,30-082,DAL,HOME,DET,L (-10),0,7:39,0,1,.000,0,1,.000,0,0,,0,3,3,1,1,0,0,2,0,1.1,+2,Greg Buckner
+2006-12-09,30-084,DAL,HOME,DEN,W (+15),0,16:42,1,4,.250,0,0,,0,0,,0,2,2,3,0,0,1,2,2,0.5,+8,Greg Buckner
+2006-12-11,30-086,DAL,AWAY,UTA,L (-22),0,21:25,1,6,.167,1,4,.250,0,0,,0,2,2,1,2,0,0,3,3,1.3,+1,Greg Buckner
+2006-12-13,30-088,DAL,HOME,LAL,W (+9),0,18:34,0,1,.000,0,0,,2,2,1.000,0,1,1,0,0,0,1,4,2,-1.0,-15,Greg Buckner
+2006-12-15,30-090,DAL,HOME,PHI,W (+14),0,30:35,5,9,.556,2,5,.400,1,1,1.000,0,0,0,2,0,0,1,0,13,9.1,+6,Greg Buckner
+2006-12-16,30-091,DAL,AWAY,NOK,W (+11),0,8:23,2,3,.667,0,0,,0,0,,0,0,0,0,0,0,0,0,4,2.7,-10,Greg Buckner
+2006-12-18,30-093,DAL,AWAY,SAC,W (+18),0,20:28,5,9,.556,1,3,.333,3,4,.750,0,2,2,1,0,0,2,3,14,7.4,+4,Greg Buckner
+2006-12-20,30-095,DAL,AWAY,SEA,W (+8),0,13:32,1,3,.333,1,1,1.000,0,0,,1,0,1,1,1,1,0,0,3,4.4,-7,Greg Buckner
+2006-12-22,30-097,DAL,HOME,LAC,W (+32),0,23:10,1,4,.250,0,3,.000,0,0,,0,2,2,3,1,0,1,1,2,1.9,+9,Greg Buckner
+2006-12-26,30-101,DAL,HOME,CHA,W (+13),0,21:50,2,5,.400,0,0,,2,2,1.000,1,3,4,1,0,0,1,4,6,3.0,0,Greg Buckner
+2006-12-28,30-103,DAL,HOME,PHO,W (+2),0,13:41,1,5,.200,1,3,.333,2,2,1.000,0,1,1,1,1,0,1,2,5,2.1,-14,Greg Buckner
+2006-12-30,30-105,DAL,HOME,NOK,W (+14),0,19:48,0,3,.000,0,0,,0,0,,0,2,2,2,0,0,0,1,0,-0.5,-16,Greg Buckner
+2006-12-31,30-106,DAL,AWAY,DEN,W (+4),0,24:02,4,10,.400,1,3,.333,2,2,1.000,1,1,2,2,3,0,1,2,11,9.2,+1,Greg Buckner
+2007-01-02,30-108,DAL,HOME,SEA,W (+24),0,24:00,2,7,.286,1,4,.250,0,0,,1,2,3,3,1,0,0,5,5,3.3,+13,Greg Buckner
+2007-01-04,30-110,DAL,HOME,IND,W (+9),0,13:57,2,5,.400,1,1,1.000,0,0,,1,0,1,1,1,0,1,0,5,3.7,-7,Greg Buckner
+2007-01-05,30-111,DAL,AWAY,SAS,W (+5),0,14:55,2,3,.667,1,2,.500,0,0,,0,0,0,0,0,0,0,1,5,3.3,+4,Greg Buckner
+2007-01-07,30-113,DAL,AWAY,LAL,L (-3),0,8:37,0,2,.000,0,1,.000,0,0,,1,2,3,1,0,0,0,2,0,-0.2,+8,Greg Buckner
+2007-01-09,30-115,DAL,AWAY,UTA,W (+3),0,11:02,0,2,.000,0,0,,0,0,,1,0,1,0,1,0,1,2,0,-1.5,-11,Greg Buckner
+2007-01-10,30-116,DAL,HOME,POR,W (+25),0,16:58,4,9,.444,2,3,.667,0,0,,1,2,3,1,0,0,0,1,10,6.9,+4,Greg Buckner
+2007-01-12,30-118,DAL,AWAY,IND,W (+2),0,18:22,1,4,.250,0,2,.000,0,0,,1,3,4,2,1,0,0,3,2,2.4,+3,Greg Buckner
+2007-01-14,30-120,DAL,AWAY,TOR,W (+1),0,7:48,0,1,.000,0,0,,2,2,1.000,1,0,1,0,1,0,0,1,2,2.6,0,Greg Buckner
+2007-01-16,30-122,DAL,HOME,HOU,W (+13),0,24:31,2,4,.500,1,3,.333,0,0,,1,0,1,0,0,0,0,0,5,3.7,+14,Greg Buckner
+2007-01-18,30-124,DAL,HOME,LAL,W (+19),0,23:05,2,4,.500,0,1,.000,0,0,,1,0,1,0,1,0,0,4,4,2.1,+12,Greg Buckner
+2007-01-21,30-127,DAL,AWAY,MIA,W (+6),0,12:36,1,1,1.000,0,0,,0,0,,0,3,3,2,1,0,1,1,2,3.6,+3,Greg Buckner
+2007-01-23,30-129,DAL,AWAY,ORL,W (+16),0,7:51,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,2,2,0.9,+4,Greg Buckner
+2007-01-25,30-131,DAL,AWAY,CHI,L (-11),0,23:04,3,4,.750,0,1,.000,0,0,,2,3,5,1,2,1,0,1,6,9.7,+9,Greg Buckner
+2007-01-27,30-133,DAL,HOME,SAC,W (+2),0,3:49,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,2,0,-1.5,-2,Greg Buckner
+2007-01-30,30-136,DAL,HOME,SEA,W (+20),0,33:24,8,11,.727,1,2,.500,0,0,,0,1,1,3,3,0,2,4,17,14.3,+25,Greg Buckner
+2007-01-31,30-137,DAL,AWAY,MEM,W (+1),0,26:09,1,2,.500,1,2,.500,0,0,,2,2,4,1,1,0,0,1,3,5.3,-15,Greg Buckner
+2007-02-03,30-140,DAL,HOME,MIN,W (+1),0,9:59,0,2,.000,0,1,.000,0,0,,0,1,1,1,1,0,2,0,0,-1.4,+5,Greg Buckner
+2007-02-07,30-144,DAL,HOME,MEM,W (+16),0,19:56,1,4,.250,0,1,.000,0,0,,0,2,2,3,0,0,1,1,2,0.9,-8,Greg Buckner
+2007-02-09,30-146,DAL,HOME,HOU,W (+21),0,19:13,2,6,.333,1,2,.500,0,0,,1,1,2,0,0,0,1,3,5,0.4,+7,Greg Buckner
+2007-02-11,30-148,DAL,AWAY,PHI,W (+17),0,14:19,3,5,.600,1,2,.500,1,2,.500,0,3,3,1,0,0,1,2,8,5.1,+9,Greg Buckner
+2007-02-13,30-150,DAL,AWAY,MIL,W (+6),0,16:53,2,2,1.000,1,1,1.000,0,0,,0,5,5,3,1,0,0,2,5,8.2,+5,Greg Buckner
+2007-02-15,30-152,DAL,AWAY,HOU,W (+3),1,26:17,1,4,.250,0,1,.000,0,0,,1,2,3,1,2,0,0,3,2,2.4,+2,Greg Buckner
+2007-02-22,30-159,DAL,HOME,MIA,W (+12),1,23:01,2,4,.500,0,1,.000,0,0,,1,2,3,1,0,0,1,2,4,2.2,-16,Greg Buckner
+2007-02-24,30-161,DAL,HOME,DEN,W (+20),1,21:54,2,5,.400,0,1,.000,1,2,.500,1,0,1,0,3,0,0,2,5,4.8,+16,Greg Buckner
+2007-02-26,30-163,DAL,HOME,ATL,W (+23),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2007-03-01,30-166,DAL,HOME,CLE,W (+3),1,13:53,0,2,.000,0,1,.000,0,0,,0,0,0,0,1,1,0,3,0,-0.9,+12,Greg Buckner
+2007-03-03,30-168,DAL,HOME,ORL,W (+5),1,13:24,0,3,.000,0,0,,0,0,,0,4,4,1,0,0,0,1,0,-0.6,+2,Greg Buckner
+2007-03-06,30-171,DAL,HOME,NJN,W (+13),1,27:41,4,7,.571,2,2,1.000,0,0,,0,2,2,1,1,0,1,5,10,6.0,+16,Greg Buckner
+2007-03-11,30-176,DAL,AWAY,LAL,W (+36),1,19:07,1,5,.200,0,2,.000,0,0,,0,0,0,1,0,0,0,4,2,-2.0,-6,Greg Buckner
+2007-03-12,30-177,DAL,AWAY,GSW,L (-17),1,35:18,4,7,.571,0,1,.000,3,4,.750,3,0,3,2,1,0,0,3,11,10.6,-14,Greg Buckner
+2007-03-14,30-179,DAL,HOME,PHO,L (-2),0,26:10,1,2,.500,0,0,,1,1,1.000,1,0,1,0,0,0,2,4,3,-0.9,-7,Greg Buckner
+2007-03-16,30-181,DAL,HOME,BOS,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2007-03-18,30-183,DAL,AWAY,DET,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2007-03-20,30-185,DAL,AWAY,NYK,W (+15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2007-03-21,30-186,DAL,AWAY,CLE,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2007-03-23,30-188,DAL,AWAY,BOS,W (+14),0,13:51,1,1,1.000,0,0,,0,0,,0,0,0,1,1,1,0,2,2,3.3,-7,Greg Buckner
+2007-03-25,30-190,DAL,AWAY,ATL,W (+7),0,10:12,0,3,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,3,0,-3.0,-7,Greg Buckner
+2007-03-27,30-192,DAL,AWAY,NOK,W (+16),0,9:15,0,1,.000,0,0,,0,0,,0,3,3,0,0,0,0,1,0,-0.2,-13,Greg Buckner
+2007-03-28,30-193,DAL,HOME,MIL,W (+2),0,19:05,2,5,.400,0,0,,0,0,,0,3,3,2,3,0,0,2,4,5.8,-3,Greg Buckner
+2007-03-30,30-195,DAL,HOME,NYK,W (+2),0,9:18,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,1,2,0,-2.5,+7,Greg Buckner
+2007-04-01,30-197,DAL,AWAY,PHO,L (-22),0,19:02,2,2,1.000,0,0,,0,0,,0,2,2,1,1,0,0,2,4,4.9,-13,Greg Buckner
+2007-04-03,30-199,DAL,AWAY,SAC,W (+4),0,21:57,2,4,.500,0,1,.000,0,0,,1,2,3,1,1,0,1,4,4,2.4,+10,Greg Buckner
+2007-04-06,30-202,DAL,AWAY,DEN,L (-4),0,19:54,0,2,.000,0,0,,0,0,,1,1,2,0,0,0,2,2,0,-3.2,-8,Greg Buckner
+2007-04-07,30-203,DAL,HOME,POR,W (+12),0,25:45,2,5,.400,0,1,.000,0,0,,1,1,2,0,0,0,1,2,4,0.5,+2,Greg Buckner
+2007-04-09,30-205,DAL,HOME,LAC,W (+10),0,13:52,0,1,.000,0,0,,0,0,,0,3,3,0,0,0,0,2,0,-0.6,-3,Greg Buckner
+2007-04-11,30-207,DAL,AWAY,MIN,W (+17),0,27:36,2,5,.400,0,1,.000,0,0,,0,3,3,0,0,0,1,2,4,0.4,+3,Greg Buckner
+2007-04-13,30-209,DAL,HOME,UTA,L (-15),0,20:10,0,4,.000,0,3,.000,0,0,,2,1,3,2,0,0,0,2,0,-0.5,-12,Greg Buckner
+2007-04-15,30-211,DAL,HOME,SAS,W (+5),0,12:18,2,4,.500,0,0,,0,0,,0,2,2,0,0,0,0,3,4,1.4,+3,Greg Buckner
+2007-04-17,30-213,DAL,AWAY,GSW,L (-29),1,34:04,3,7,.429,0,3,.000,0,0,,1,6,7,3,0,1,2,4,6,4.0,-22,Greg Buckner
+2007-04-18,30-214,DAL,AWAY,SEA,W (+31),0,11:16,1,1,1.000,1,1,1.000,0,0,,0,1,1,1,1,0,0,1,3,4.3,+18,Greg Buckner
+2007-11-02,31-047,MIN,HOME,DEN,L (-8),0,25:10,4,10,.400,2,5,.400,0,0,,1,1,2,4,4,0,1,2,10,10.6,-3,Greg Buckner
+2007-11-04,31-049,MIN,AWAY,NYK,L (-4),0,27:45,5,9,.556,2,5,.400,1,1,1.000,1,5,6,0,1,0,2,4,13,8.3,-11,Greg Buckner
+2007-11-06,31-051,MIN,HOME,ORL,L (-8),1,39:17,7,13,.538,2,6,.333,2,2,1.000,0,3,3,3,0,0,2,5,18,10.7,-4,Greg Buckner
+2007-11-09,31-054,MIN,AWAY,LAL,L (-14),1,36:55,3,12,.250,1,4,.250,2,2,1.000,1,1,2,3,1,0,1,4,9,3.3,-12,Greg Buckner
+2007-11-10,31-055,MIN,AWAY,SAC,L (-7),1,22:19,4,7,.571,0,1,.000,0,0,,0,4,4,5,0,0,0,1,8,9.0,+1,Greg Buckner
+2007-11-14,31-059,MIN,HOME,SAC,W (+5),0,14:03,1,2,.500,1,1,1.000,0,0,,0,3,3,1,0,0,2,0,3,1.6,-9,Greg Buckner
+2007-11-16,31-061,MIN,HOME,WAS,L (-16),0,14:24,0,1,.000,0,0,,6,8,.750,2,2,4,1,0,0,1,1,6,5.8,+6,Greg Buckner
+2007-11-17,31-062,MIN,HOME,NOH,L (-18),0,20:56,2,6,.333,1,2,.500,0,0,,0,2,2,2,0,0,1,2,5,1.8,-10,Greg Buckner
+2007-11-21,31-066,MIN,HOME,CLE,L (-11),0,27:12,0,2,.000,0,1,.000,0,0,,0,2,2,4,0,0,1,3,0,-0.2,-6,Greg Buckner
+2007-11-23,31-068,MIN,AWAY,DEN,L (-6),0,26:05,0,3,.000,0,3,.000,4,4,1.000,0,6,6,2,1,0,2,3,4,2.9,+3,Greg Buckner
+2007-11-24,31-069,MIN,HOME,ATL,L (-7),0,24:36,0,3,.000,0,1,.000,0,0,,1,3,4,1,2,0,2,2,0,-0.6,-14,Greg Buckner
+2007-11-26,31-071,MIN,AWAY,NOH,W (+9),0,29:25,2,4,.500,1,2,.500,2,2,1.000,0,9,9,6,2,0,2,3,7,10.7,+18,Greg Buckner
+2007-11-28,31-073,MIN,AWAY,DAL,L (-6),0,15:23,0,2,.000,0,1,.000,0,0,,0,2,2,0,0,1,1,2,0,-1.9,-10,Greg Buckner
+2007-11-30,31-075,MIN,HOME,SAS,L (-15),0,16:42,3,5,.600,1,3,.333,0,0,,0,0,0,0,2,0,2,5,7,2.7,-11,Greg Buckner
+2007-12-01,31-076,MIN,AWAY,MEM,L (-29),0,17:23,0,2,.000,0,2,.000,0,0,,0,0,0,0,1,0,0,1,0,-0.8,-16,Greg Buckner
+2007-12-04,31-079,MIN,HOME,LAL,L (-21),0,18:38,2,6,.333,0,3,.000,0,1,.000,0,0,0,0,2,0,2,4,4,-1.4,-18,Greg Buckner
+2007-12-06,31-081,MIN,AWAY,ATL,L (-1),1,10:26,1,4,.250,0,1,.000,0,0,,0,0,0,0,0,0,2,2,2,-3.2,-19,Greg Buckner
+2007-12-26,31-101,MIN,AWAY,GSW,L (-4),0,11:46,1,2,.500,0,0,,0,0,,0,0,0,1,1,0,0,1,2,2.3,+6,Greg Buckner
+2007-12-29,31-104,MIN,AWAY,SEA,L (-19),0,10:04,1,1,1.000,0,0,,0,0,,1,0,1,0,0,0,0,2,2,1.6,-2,Greg Buckner
+2008-01-04,31-110,MIN,HOME,DEN,L (-11),0,3:39,1,2,.500,0,0,,0,0,,0,0,0,0,1,0,1,0,2,1.0,-4,Greg Buckner
+2008-01-08,31-114,MIN,HOME,MIA,W (+10),0,1:45,1,2,.500,0,1,.000,0,0,,0,0,0,0,0,0,0,0,2,1.0,0,Greg Buckner
+2008-01-11,31-117,MIN,AWAY,HOU,L (-31),0,9:57,0,2,.000,0,2,.000,0,0,,0,1,1,0,0,0,0,1,0,-1.5,-1,Greg Buckner
+2008-01-15,31-121,MIN,HOME,GSW,L (-7),0,15:25,1,3,.333,0,1,.000,2,2,1.000,1,1,2,1,0,0,0,3,4,2.8,-4,Greg Buckner
+2008-01-18,31-124,MIN,AWAY,PHO,L (-20),0,7:51,0,0,,0,0,,0,0,,0,2,2,0,0,0,0,2,0,-0.2,+2,Greg Buckner
+2008-01-19,31-125,MIN,AWAY,DEN,L (-3),0,10:43,0,1,.000,0,0,,0,0,,1,0,1,0,0,1,0,2,0,-0.1,-10,Greg Buckner
+2008-01-27,31-133,MIN,HOME,NJN,W (+3),0,5:21,0,0,,0,0,,0,0,,0,2,2,0,0,0,0,1,0,0.2,0,Greg Buckner
+2008-02-10,31-147,MIN,HOME,TOR,L (-23),0,2:45,0,0,,0,0,,0,0,,0,1,1,1,0,0,1,0,0,0.0,-5,Greg Buckner
+2008-02-13,31-150,MIN,HOME,LAL,L (-25),0,2:39,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,-1,Greg Buckner
+2008-03-04,31-170,MIN,HOME,CHA,L (-20),0,16:00,1,3,.333,1,1,1.000,0,0,,0,2,2,1,1,0,2,1,3,1.2,-13,Greg Buckner
+2008-04-08,31-205,MIN,AWAY,CHA,L (-2),0,31:05,5,9,.556,3,4,.750,0,0,,1,3,4,3,2,0,1,3,13,12.2,+17,Greg Buckner
+2008-04-16,31-213,MIN,HOME,MIL,W (+9),0,3:54,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-8,Greg Buckner
+2000-01-06,23-112,DAL,HOME,UTA,L (-13),0,5:51,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,3,0,-2.2,-1,Greg Buckner
+2000-01-08,23-114,DAL,HOME,ATL,W (+10),0,20:54,0,2,.000,0,1,.000,0,0,,1,2,3,1,1,3,0,3,0,2.5,+22,Greg Buckner
+2000-01-10,23-116,DAL,AWAY,POR,L (-13),0,16:49,1,2,.500,0,0,,0,2,.000,1,0,1,1,2,1,0,4,2,2.7,+2,Greg Buckner
+2000-01-11,23-117,DAL,AWAY,GSW,W (+7),0,17:58,2,4,.500,1,2,.500,0,0,,1,4,5,2,2,1,1,6,5,5.6,-14,Greg Buckner
+2000-01-15,23-121,DAL,HOME,POR,W (+8),0,19:27,2,7,.286,0,1,.000,1,2,.500,4,2,6,3,2,1,0,5,5,6.7,-3,Greg Buckner
+2000-01-17,23-123,DAL,HOME,HOU,L (-10),0,18:20,2,6,.333,0,0,,1,1,1.000,3,2,5,1,0,1,0,5,5,3.7,-10,Greg Buckner
+2000-01-19,23-125,DAL,AWAY,WAS,W (+18),0,26:20,2,3,.667,0,0,,0,0,,2,0,2,4,2,0,0,4,4,7.3,+14,Greg Buckner
+2000-01-22,23-128,DAL,AWAY,NJN,L (-3),0,23:47,1,2,.500,0,0,,0,0,,0,2,2,0,0,0,0,5,2,-0.4,+4,Greg Buckner
+2000-01-23,23-129,DAL,AWAY,DET,W (+8),0,19:40,3,4,.750,0,0,,2,6,.333,0,6,6,1,3,0,1,3,8,8.1,+1,Greg Buckner
+2000-01-25,23-131,DAL,HOME,GSW,W (+14),0,23:22,1,3,.333,0,1,.000,0,1,.000,0,4,4,2,2,2,0,5,2,3.9,-1,Greg Buckner
+2000-01-27,23-133,DAL,HOME,LAC,W (+9),0,23:33,3,4,.750,0,0,,0,0,,1,2,3,1,0,0,1,3,6,4.2,+13,Greg Buckner
+2000-01-29,23-135,DAL,HOME,DEN,W (+11),0,16:18,3,5,.600,0,0,,0,0,,0,4,4,0,1,0,1,4,6,3.3,+4,Greg Buckner
+2000-02-01,23-138,DAL,HOME,PHI,L (-1),0,23:47,2,4,.500,0,0,,0,1,.000,3,3,6,5,2,0,2,4,4,6.5,-2,Greg Buckner
+2000-02-03,23-140,DAL,HOME,CHH,W (+10),0,23:13,3,5,.600,0,0,,1,2,.500,0,2,2,1,0,0,0,4,7,4.0,+8,Greg Buckner
+2000-02-05,23-142,DAL,AWAY,LAC,W (+13),0,21:29,2,5,.400,0,0,,2,2,1.000,0,0,0,2,1,0,0,2,6,4.9,-7,Greg Buckner
+2000-02-06,23-143,DAL,AWAY,VAN,W (+4),0,24:04,0,2,.000,0,0,,0,0,,1,2,3,0,1,0,0,3,0,-0.3,-18,Greg Buckner
+2000-02-09,23-146,DAL,HOME,SEA,L (-11),0,4:44,0,0,,0,0,,0,0,,0,1,1,1,1,0,1,1,0,0.6,-3,Greg Buckner
+2000-02-17,23-154,DAL,HOME,DET,W (+9),0,9:38,1,2,.500,0,0,,0,0,,1,0,1,0,0,0,0,3,2,0.5,-6,Greg Buckner
+2000-02-20,23-157,DAL,AWAY,TOR,W (+4),0,13:56,3,3,1.000,0,0,,0,0,,0,1,1,1,0,0,0,3,6,4.9,+2,Greg Buckner
+2000-02-21,23-158,DAL,AWAY,IND,L (-1),0,17:40,2,4,.500,0,0,,0,0,,1,3,4,1,0,0,0,2,4,3.5,+6,Greg Buckner
+2000-02-26,23-163,DAL,HOME,DEN,W (+2),0,0:07,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Greg Buckner
+2000-02-28,23-165,DAL,AWAY,BOS,W (+8),0,8:46,0,1,.000,0,0,,2,2,1.000,2,0,2,0,0,0,1,1,2,1.3,+15,Greg Buckner
+2000-02-29,23-166,DAL,AWAY,PHI,L (-19),0,19:27,4,7,.571,2,2,1.000,1,1,1.000,0,1,1,0,1,0,0,2,11,8.2,0,Greg Buckner
+2000-03-02,23-168,DAL,HOME,NJN,L (-1),0,0:57,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3,Greg Buckner
+2000-03-04,23-170,DAL,AWAY,PHO,L (-14),0,13:29,1,2,.500,1,1,1.000,0,0,,0,2,2,0,1,0,1,1,3,2.2,+16,Greg Buckner
+2000-03-06,23-172,DAL,AWAY,SAC,L (-21),0,22:26,1,4,.250,0,1,.000,0,0,,0,5,5,1,3,0,2,2,2,2.0,-2,Greg Buckner
+2000-03-07,23-173,DAL,AWAY,SEA,L (-15),0,6:22,0,1,.000,0,0,,0,0,,0,1,1,1,0,0,1,3,0,-1.9,-12,Greg Buckner
+2000-03-09,23-175,DAL,HOME,MIN,L (-21),0,23:57,2,3,.667,1,1,1.000,2,3,.667,0,3,3,0,1,0,0,3,7,6.0,-11,Greg Buckner
+2000-03-11,23-177,DAL,HOME,PHO,W (+5),0,8:28,0,0,,0,0,,0,0,,0,2,2,0,0,2,1,3,0,-0.2,0,Greg Buckner
+2000-03-14,23-180,DAL,HOME,IND,W (+21),0,23:32,4,8,.500,0,1,.000,2,2,1.000,5,6,11,0,0,0,2,1,10,8.9,-8,Greg Buckner
+2000-03-16,23-182,DAL,AWAY,SAS,W (+22),0,20:43,1,3,.333,0,1,.000,0,0,,2,4,6,2,0,0,1,5,2,1.3,-5,Greg Buckner
+2000-03-18,23-184,DAL,HOME,BOS,L (-5),1,32:33,9,12,.750,5,6,.833,2,2,1.000,1,3,4,2,1,0,1,3,25,22.0,0,Greg Buckner
+2000-03-19,23-185,DAL,AWAY,ATL,W (+4),0,28:03,1,4,.250,0,1,.000,1,2,.500,1,4,5,2,0,0,1,3,3,1.3,0,Greg Buckner
+2000-03-21,23-187,DAL,HOME,SAS,W (+1),0,20:47,5,13,.385,0,1,.000,2,2,1.000,1,2,3,3,0,0,2,3,12,5.1,0,Greg Buckner
+2000-03-23,23-189,DAL,HOME,CLE,L (-6),0,26:24,2,6,.333,0,0,,0,2,.000,2,2,4,5,0,0,3,4,4,0.7,+6,Greg Buckner
+2000-03-25,23-191,DAL,HOME,WAS,L (-7),0,30:17,2,10,.200,0,2,.000,2,2,1.000,3,1,4,2,0,1,1,5,6,1.3,-6,Greg Buckner
+2000-03-27,23-193,DAL,AWAY,UTA,W (+8),0,14:10,1,6,.167,0,0,,2,2,1.000,1,1,2,0,1,0,1,2,4,0.4,-2,Greg Buckner
+2000-03-28,23-194,DAL,AWAY,LAC,W (+10),0,25:46,5,9,.556,0,0,,7,8,.875,3,6,9,2,1,0,1,4,17,16.0,+22,Greg Buckner
+2000-03-30,23-196,DAL,AWAY,POR,L (-11),0,21:05,6,11,.545,0,1,.000,0,0,,2,1,3,0,1,1,0,1,12,9.7,-2,Greg Buckner
+2000-04-02,23-199,DAL,AWAY,VAN,W (+14),0,28:50,5,9,.556,0,1,.000,0,0,,0,6,6,4,2,0,4,5,10,6.3,+2,Greg Buckner
+2000-04-04,23-201,DAL,HOME,SAC,W (+3),0,15:38,2,7,.286,0,0,,0,0,,0,4,4,0,0,1,2,4,4,-1.8,0,Greg Buckner
+2000-04-06,23-203,DAL,AWAY,DEN,W (+1),0,11:37,0,3,.000,0,1,.000,1,2,.500,1,1,2,1,0,0,1,1,1,-1.2,-9,Greg Buckner
+2000-04-08,23-205,DAL,HOME,LAC,W (+2),0,33:20,7,13,.538,0,0,,1,2,.500,3,4,7,1,3,1,1,5,15,13.0,-5,Greg Buckner
+2000-04-11,23-208,DAL,HOME,POR,W (+11),0,11:38,1,3,.333,0,0,,0,0,,1,0,1,0,0,0,0,2,2,0.2,-4,Greg Buckner
+2000-04-13,23-210,DAL,AWAY,HOU,L (-9),0,27:37,2,7,.286,0,1,.000,2,2,1.000,3,6,9,1,0,1,1,4,6,4.6,-7,Greg Buckner
+2000-04-14,23-211,DAL,HOME,SEA,W (+14),0,27:59,6,11,.545,0,0,,5,6,.833,1,8,9,1,0,1,0,4,17,14.2,+8,Greg Buckner
+2000-04-16,23-213,DAL,HOME,VAN,W (+8),0,20:54,4,5,.800,0,0,,4,6,.667,4,1,5,0,2,2,0,3,12,14.6,-1,Greg Buckner
+2000-04-19,23-216,DAL,AWAY,MIN,W (+6),0,26:54,7,8,.875,0,0,,0,0,,1,4,5,0,1,1,0,2,14,14.0,+9,Greg Buckner
+2004-11-02,28-047,DEN,AWAY,LAL,L (-11),0,15:14,0,5,.000,0,1,.000,2,2,1.000,3,0,3,1,0,0,1,4,2,-1.3,-6,Greg Buckner
+2004-11-04,28-049,DEN,HOME,MIN,W (+2),0,11:53,0,1,.000,0,1,.000,0,0,,0,1,1,1,0,0,0,3,0,-0.9,-6,Greg Buckner
+2004-11-06,28-051,DEN,HOME,UTA,L (-24),1,16:15,1,2,.500,0,0,,2,2,1.000,3,2,5,1,0,0,1,2,4,4.6,-2,Greg Buckner
+2004-11-08,28-053,DEN,AWAY,UTA,L (-11),1,23:44,3,4,.750,2,2,1.000,3,3,1.000,0,1,1,2,0,0,0,2,11,10.3,-12,Greg Buckner
+2004-11-09,28-054,DEN,HOME,SEA,L (-20),0,11:41,1,3,.333,1,1,1.000,0,0,,0,1,1,0,0,0,0,2,3,0.8,-9,Greg Buckner
+2004-11-11,28-056,DEN,HOME,DET,W (+8),1,19:14,0,2,.000,0,1,.000,2,2,1.000,0,2,2,2,1,0,0,3,2,2.4,+14,Greg Buckner
+2004-11-14,28-059,DEN,AWAY,SAC,L (-12),1,15:36,2,3,.667,0,0,,0,0,,1,1,2,3,2,0,1,4,4,5.2,-5,Greg Buckner
+2004-11-17,28-062,DEN,HOME,TOR,W (+6),1,29:28,4,6,.667,1,2,.500,0,0,,2,4,6,4,1,0,0,2,9,12.0,+11,Greg Buckner
+2004-11-19,28-064,DEN,HOME,CHI,W (+18),1,22:55,0,2,.000,0,2,.000,2,2,1.000,0,3,3,0,0,0,1,3,2,-0.7,-2,Greg Buckner
+2004-11-21,28-066,DEN,HOME,DAL,W (+28),1,32:22,10,13,.769,2,4,.500,6,8,.750,2,7,9,2,4,0,1,3,28,28.8,+36,Greg Buckner
+2004-11-23,28-068,DEN,HOME,NJN,W (+2),1,32:57,4,8,.500,0,1,.000,0,0,,1,4,5,3,1,1,0,3,8,8.5,+3,Greg Buckner
+2004-11-26,28-071,DEN,HOME,SAS,L (-14),1,18:18,1,2,.500,0,0,,2,3,.667,1,1,2,2,2,0,0,3,4,5.8,-18,Greg Buckner
+2004-11-27,28-072,DEN,AWAY,HOU,W (+6),1,38:35,3,5,.600,2,3,.667,5,6,.833,1,2,3,3,1,0,2,3,13,11.5,+13,Greg Buckner
+2004-11-29,28-074,DEN,HOME,NOH,W (+9),1,24:11,0,4,.000,0,1,.000,3,4,.750,0,1,1,1,3,0,1,1,3,2.4,0,Greg Buckner
+2004-12-02,28-077,DEN,HOME,CLE,L (-19),1,21:57,3,4,.750,1,1,1.000,1,1,1.000,1,1,2,1,1,1,1,2,8,8.0,-5,Greg Buckner
+2004-12-04,28-079,DEN,HOME,MIA,W (+9),1,29:28,3,7,.429,3,5,.600,1,4,.250,1,0,1,2,1,0,0,2,10,7.4,+14,Greg Buckner
+2004-12-06,28-081,DEN,HOME,ORL,W (+13),1,14:21,1,3,.333,0,1,.000,0,0,,1,4,5,2,0,0,1,2,2,1.8,-3,Greg Buckner
+2004-12-08,28-083,DEN,AWAY,WAS,W (+6),1,23:28,3,4,.750,0,1,.000,0,0,,1,1,2,1,0,0,1,4,6,3.5,+12,Greg Buckner
+2004-12-10,28-085,DEN,AWAY,TOR,W (+14),1,23:34,2,3,.667,0,0,,0,0,,2,1,3,3,0,0,1,4,4,3.9,+14,Greg Buckner
+2004-12-12,28-087,DEN,AWAY,NYK,L (-11),1,22:59,2,3,.667,0,1,.000,0,0,,0,2,2,0,1,0,1,2,4,2.5,-8,Greg Buckner
+2004-12-14,28-089,DEN,AWAY,PHI,L (-8),1,38:33,3,6,.500,2,4,.500,0,0,,1,3,4,5,2,0,2,5,8,8.1,+9,Greg Buckner
+2004-12-15,28-090,DEN,AWAY,BOS,W (+1),1,17:02,1,1,1.000,1,1,1.000,0,0,,0,0,0,3,1,0,1,4,3,3.2,+1,Greg Buckner
+2004-12-17,28-092,DEN,AWAY,MIA,L (-7),1,32:32,3,3,1.000,1,1,1.000,0,0,,1,1,2,1,2,1,1,3,7,8.3,-14,Greg Buckner
+2004-12-18,28-093,DEN,AWAY,ORL,L (-22),1,25:24,2,5,.400,1,3,.333,0,0,,3,1,4,1,0,0,0,1,5,5.0,-28,Greg Buckner
+2004-12-20,28-095,DEN,HOME,PHO,L (-2),1,42:50,6,11,.545,0,1,.000,0,0,,2,2,4,3,0,0,2,2,12,8.0,-5,Greg Buckner
+2004-12-22,28-097,DEN,AWAY,SEA,L (-15),1,6:38,0,0,,0,0,,0,0,,0,1,1,1,0,0,1,1,0,-0.4,-4,Greg Buckner
+2004-12-26,28-101,DEN,HOME,DAL,L (-14),1,37:28,6,12,.500,1,4,.250,2,2,1.000,1,1,2,5,1,0,1,4,15,11.9,+3,Greg Buckner
+2004-12-27,28-102,DEN,AWAY,GSW,L (-3),1,26:48,3,6,.500,0,2,.000,1,1,1.000,2,5,7,5,1,0,1,2,7,9.6,+4,Greg Buckner
+2004-12-31,28-106,DEN,HOME,PHI,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2005-01-02,28-108,DEN,AWAY,LAL,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2005-01-03,28-109,DEN,HOME,LAC,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2005-01-08,28-114,DEN,AWAY,SAS,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2005-01-09,28-115,DEN,HOME,HOU,L (-18),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2005-01-11,28-117,DEN,AWAY,SAC,L (-9),0,19:19,6,8,.750,1,2,.500,1,1,1.000,0,2,2,1,0,0,2,4,14,8.5,-10,Greg Buckner
+2005-01-12,28-118,DEN,HOME,LAL,W (+12),1,32:38,2,8,.250,0,3,.000,0,0,,2,1,3,3,3,0,1,4,4,3.4,+3,Greg Buckner
+2005-01-14,28-120,DEN,HOME,MIN,L (-10),1,29:06,4,5,.800,2,2,1.000,1,2,.500,0,2,2,1,2,0,0,2,11,11.2,-2,Greg Buckner
+2005-01-17,28-123,DEN,AWAY,GSW,L (-10),1,20:02,1,1,1.000,0,0,,0,0,,0,2,2,3,1,0,3,2,2,1.6,-10,Greg Buckner
+2005-01-18,28-124,DEN,AWAY,SEA,W (+6),1,25:15,4,5,.800,0,1,.000,0,0,,0,2,2,3,1,0,1,3,8,7.6,+10,Greg Buckner
+2005-01-21,28-127,DEN,HOME,MEM,W (+10),1,19:58,1,3,.333,0,2,.000,2,2,1.000,0,5,5,1,0,0,1,1,4,3.1,-11,Greg Buckner
+2005-01-23,28-129,DEN,AWAY,DAL,L (-2),1,17:47,3,5,.600,0,2,.000,0,0,,0,2,2,1,0,0,0,4,6,3.4,-3,Greg Buckner
+2005-01-25,28-131,DEN,AWAY,CHI,L (-4),1,22:09,2,6,.333,1,1,1.000,0,0,,4,1,5,2,0,0,0,1,5,5.7,-11,Greg Buckner
+2005-01-26,28-132,DEN,AWAY,DET,L (-17),1,14:11,1,4,.250,0,2,.000,2,2,1.000,2,4,6,1,2,0,1,3,4,4.7,-14,Greg Buckner
+2005-01-28,28-134,DEN,AWAY,MIL,W (+6),1,22:11,2,3,.667,0,0,,0,0,,0,1,1,0,0,0,1,2,4,1.2,-24,Greg Buckner
+2005-01-29,28-135,DEN,AWAY,IND,W (+7),1,14:01,1,1,1.000,0,0,,0,0,,0,0,0,3,0,0,2,0,2,1.8,-12,Greg Buckner
+2005-02-01,28-138,DEN,HOME,NYK,W (+20),1,21:24,1,3,.333,0,0,,0,0,,1,1,2,4,0,0,1,2,2,2.3,+3,Greg Buckner
+2005-02-02,28-139,DEN,AWAY,POR,L (-3),1,16:21,2,3,.667,1,2,.500,2,2,1.000,0,3,3,0,0,0,0,0,7,6.6,+7,Greg Buckner
+2005-02-05,28-142,DEN,HOME,GSW,W (+16),1,19:00,4,6,.667,2,4,.500,0,0,,0,1,1,3,1,0,2,2,10,8.0,+8,Greg Buckner
+2005-02-08,28-145,DEN,HOME,UTA,W (+10),1,23:11,3,6,.500,0,2,.000,2,3,.667,1,0,1,3,1,1,0,2,8,8.3,+22,Greg Buckner
+2005-02-09,28-146,DEN,AWAY,MIN,L (-6),1,32:08,2,5,.400,1,3,.333,2,2,1.000,0,4,4,4,1,0,2,1,7,6.9,+9,Greg Buckner
+2005-02-11,28-148,DEN,AWAY,CLE,W (+5),0,21:11,3,7,.429,1,3,.333,1,2,.500,1,2,3,5,4,1,0,2,8,12.6,+3,Greg Buckner
+2005-02-13,28-150,DEN,AWAY,NJN,L (-15),0,23:54,3,5,.600,1,2,.500,1,2,.500,3,1,4,1,1,0,1,2,8,7.6,+1,Greg Buckner
+2005-02-15,28-152,DEN,AWAY,ATL,W (+4),0,9:25,0,0,,0,0,,0,0,,1,1,2,1,0,0,1,0,0,0.7,-8,Greg Buckner
+2005-02-16,28-153,DEN,AWAY,CHA,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2005-02-23,28-160,DEN,HOME,BOS,W (+21),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2005-02-25,28-162,DEN,AWAY,MEM,W (+3),0,0:23,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Greg Buckner
+2005-02-27,28-164,DEN,AWAY,NOH,W (+1),0,4:43,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,2,0,-1.5,-7,Greg Buckner
+2005-03-01,28-166,DEN,HOME,ATL,W (+23),0,21:20,1,4,.250,0,2,.000,0,0,,1,4,5,6,4,0,1,3,2,7.5,+5,Greg Buckner
+2005-03-03,28-168,DEN,HOME,IND,W (+9),0,12:08,0,1,.000,0,0,,0,0,,0,1,1,3,1,0,0,4,0,1.1,-2,Greg Buckner
+2005-03-05,28-170,DEN,AWAY,LAC,W (+16),0,18:51,1,1,1.000,0,0,,0,0,,2,0,2,1,0,0,0,2,2,3.0,+9,Greg Buckner
+2005-03-07,28-172,DEN,HOME,POR,W (+13),0,21:50,4,5,.800,4,4,1.000,4,4,1.000,0,3,3,1,2,0,0,1,16,17.3,+6,Greg Buckner
+2005-03-12,28-177,DEN,AWAY,SAS,W (+3),0,24:18,1,4,.250,1,3,.333,0,0,,1,5,6,0,1,0,1,3,3,1.6,+4,Greg Buckner
+2005-03-13,28-178,DEN,HOME,PHO,L (-5),1,19:16,6,8,.750,2,4,.500,0,0,,0,2,2,1,1,0,0,1,14,12.7,-1,Greg Buckner
+2005-03-16,28-181,DEN,HOME,CHA,W (+19),0,25:03,1,6,.167,1,5,.200,4,6,.667,2,0,2,2,3,0,1,3,7,6.0,+12,Greg Buckner
+2005-03-18,28-183,DEN,HOME,LAC,W (+19),0,16:34,5,5,1.000,1,1,1.000,0,2,.000,0,1,1,0,1,0,0,3,11,8.8,0,Greg Buckner
+2005-03-20,28-185,DEN,HOME,MIL,W (+11),0,19:34,2,6,.333,1,1,1.000,1,2,.500,2,2,4,2,2,0,0,4,6,6.0,+5,Greg Buckner
+2005-03-22,28-187,DEN,HOME,WAS,W (+29),0,26:43,3,7,.429,1,4,.250,0,1,.000,2,3,5,3,2,0,0,5,7,7.3,+23,Greg Buckner
+2005-03-24,28-189,DEN,HOME,LAL,W (+21),0,19:19,3,6,.500,1,3,.333,2,2,1.000,1,5,6,3,1,0,0,1,9,10.9,+17,Greg Buckner
+2005-03-26,28-191,DEN,HOME,SAC,W (+14),0,28:49,4,6,.667,2,3,.667,1,1,1.000,0,3,3,1,4,0,0,2,11,13.2,+2,Greg Buckner
+2005-03-28,28-193,DEN,AWAY,PHO,L (-9),0,23:20,4,6,.667,2,3,.667,0,0,,2,3,5,2,3,0,1,2,10,12.3,-5,Greg Buckner
+2005-03-30,28-195,DEN,AWAY,UTA,W (+11),0,17:30,2,3,.667,1,1,1.000,2,2,1.000,1,1,2,1,0,0,0,3,7,6.2,+1,Greg Buckner
+2005-04-01,28-197,DEN,HOME,SAS,W (+18),0,12:57,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,1,1,0,-1.4,+1,Greg Buckner
+2005-04-02,28-198,DEN,AWAY,POR,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2005-04-05,28-201,DEN,AWAY,MEM,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2005-04-06,28-202,DEN,AWAY,NOH,W (+11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2005-04-08,28-204,DEN,AWAY,MIN,W (+3),0,25:38,0,3,.000,0,2,.000,0,0,,2,5,7,1,1,0,0,3,0,1.3,-4,Greg Buckner
+2005-04-09,28-205,DEN,HOME,SEA,W (+16),0,20:32,0,0,,0,0,,0,0,,0,4,4,2,0,0,0,2,0,1.8,+6,Greg Buckner
+2005-04-11,28-207,DEN,HOME,GSW,W (+16),0,10:58,1,1,1.000,0,0,,2,2,1.000,0,0,0,0,0,0,0,2,4,2.9,-2,Greg Buckner
+2005-04-13,28-209,DEN,HOME,NOH,W (+14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2005-04-15,28-211,DEN,HOME,MEM,W (+9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Greg Buckner
+2005-04-16,28-212,DEN,AWAY,HOU,L (-28),0,19:16,2,5,.400,1,2,.500,1,1,1.000,2,3,5,1,1,0,1,3,6,5.1,-9,Greg Buckner
+2005-04-18,28-214,DEN,AWAY,PHO,L (-14),0,20:32,3,5,.600,2,3,.667,0,0,,0,5,5,2,4,0,1,1,8,11.2,+7,Greg Buckner
+2005-04-19,28-215,DEN,HOME,POR,W (+4),0,30:59,5,7,.714,1,3,.333,0,0,,3,4,7,2,2,1,1,5,11,12.5,+2,Greg Buckner

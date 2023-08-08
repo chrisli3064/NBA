@@ -1,0 +1,19 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2007-11-02,20-339,POR,AWAY,NOH,L (-20),0,2:26,1,1,1.000,1,1,1.000,0,0,,0,1,1,1,0,0,0,0,3,3.7,+9,Taurean Green
+2007-11-03,20-340,POR,AWAY,HOU,L (-9),0,2:57,0,1,.000,0,0,,0,0,,0,0,0,0,1,0,0,0,0,0.3,-9,Taurean Green
+2007-11-14,20-351,POR,AWAY,DEN,L (-17),0,7:11,0,2,.000,0,2,.000,6,6,1.000,0,1,1,2,0,0,2,0,6,4.3,+3,Taurean Green
+2007-11-17,20-354,POR,AWAY,WAS,L (-19),0,11:36,0,3,.000,0,2,.000,0,0,,0,0,0,2,0,0,1,3,0,-2.9,-13,Taurean Green
+2008-01-09,21-042,POR,HOME,GSW,W (+18),0,5:31,0,4,.000,0,2,.000,0,0,,0,0,0,1,0,0,0,0,0,-2.1,-3,Taurean Green
+2008-01-14,21-047,POR,AWAY,NJN,W (+26),0,2:31,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,-1,Taurean Green
+2008-02-08,21-072,POR,AWAY,DET,L (-9),0,8:15,2,4,.500,0,1,.000,2,2,1.000,0,1,1,2,0,0,2,0,6,3.7,+13,Taurean Green
+2008-02-13,21-077,POR,AWAY,DAL,L (-20),0,3:22,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,1,0,2,0.7,0,Taurean Green
+2008-02-21,21-085,POR,HOME,SEA,W (+4),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Taurean Green
+2008-02-27,21-091,DEN,AWAY,SEA,W (+42),0,6:16,1,2,.500,0,0,,2,2,1.000,0,3,3,1,0,0,0,1,4,4.2,+6,Taurean Green
+2008-03-02,21-095,DEN,AWAY,HOU,L (-14),0,1:14,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+3,Taurean Green
+2008-03-08,21-101,DEN,AWAY,UTA,L (-27),0,4:28,0,1,.000,0,1,.000,0,0,,0,0,0,0,1,0,1,0,0,-0.7,0,Taurean Green
+2008-03-12,21-105,DEN,HOME,MEM,W (+22),0,4:15,0,3,.000,0,1,.000,0,0,,0,1,1,1,0,0,0,1,0,-1.5,-3,Taurean Green
+2008-03-14,21-107,DEN,HOME,TOR,W (+32),0,5:05,0,1,.000,0,0,,1,2,.500,0,0,0,0,0,0,0,0,1,-0.1,0,Taurean Green
+2008-03-16,21-109,DEN,HOME,SEA,W (+52),0,5:31,2,2,1.000,1,1,1.000,0,0,,0,1,1,1,0,0,1,0,5,4.4,+5,Taurean Green
+2008-03-18,21-111,DEN,AWAY,DET,L (-16),0,0:19,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Taurean Green
+2008-03-21,21-114,DEN,AWAY,NJN,W (+11),0,0:42,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,Taurean Green
+2008-03-24,21-117,DEN,AWAY,MEM,W (+14),0,2:08,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-5,Taurean Green

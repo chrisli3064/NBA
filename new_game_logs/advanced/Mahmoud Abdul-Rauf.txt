@@ -1,0 +1,48 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+2000-11-06,31-242,VAN,HOME,ATL,W (+10),0,5:48,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0,100,-0.7,-16.1,Mahmoud Abdul-Rauf
+2000-11-18,31-254,VAN,HOME,DAL,L (-3),0,5:24,1.000,1.000,0.0,0.0,0.0,0.0,10.7,0.0,0.0,9.5,200,87,1.5,0.8,Mahmoud Abdul-Rauf
+2000-11-24,31-260,VAN,AWAY,DET,L (-22),0,15:03,.000,.000,7.3,10.0,8.4,37.6,0.0,0.0,0.0,13.5,56,125,0.3,-11.0,Mahmoud Abdul-Rauf
+2000-11-26,31-262,VAN,AWAY,BOS,W (+11),0,2:54,,,0.0,0.0,0.0,42.1,0.0,0.0,100.0,13.9,37,93,-0.7,-19.8,Mahmoud Abdul-Rauf
+2000-11-27,31-263,VAN,AWAY,NYK,L (-25),0,13:58,.333,.333,6.7,0.0,3.9,32.4,0.0,0.0,0.0,20.4,85,120,2.7,-2.2,Mahmoud Abdul-Rauf
+2000-12-11,31-277,VAN,HOME,HOU,L (-7),0,7:47,.200,.200,12.5,0.0,6.7,0.0,0.0,0.0,0.0,31.7,53,106,-0.8,-14.9,Mahmoud Abdul-Rauf
+2000-12-30,31-296,VAN,HOME,GSW,L (-1),0,15:48,.676,.625,0.0,7.1,3.8,46.2,0.0,0.0,0.0,23.4,149,109,9.9,7.8,Mahmoud Abdul-Rauf
+2001-01-05,31-302,VAN,AWAY,PHO,L (-32),0,14:50,.300,.300,0.0,8.9,3.7,39.0,0.0,0.0,0.0,29.0,72,118,0.7,-9.4,Mahmoud Abdul-Rauf
+2001-01-07,31-304,VAN,HOME,MIL,W (+3),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Mahmoud Abdul-Rauf
+2001-01-17,31-314,VAN,AWAY,DEN,L (-24),0,3:24,.333,.333,0.0,0.0,0.0,48.0,0.0,0.0,25.0,41.3,59,133,-0.8,-27.9,Mahmoud Abdul-Rauf
+2001-01-19,31-316,VAN,HOME,MIA,L (-11),0,6:06,.694,.500,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.6,151,117,2.2,-1.3,Mahmoud Abdul-Rauf
+2001-01-23,31-320,VAN,AWAY,SAS,L (-33),0,5:57,.500,.500,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,100,127,0.6,-7.9,Mahmoud Abdul-Rauf
+2001-01-25,31-322,VAN,AWAY,DAL,L (-37),0,17:14,.658,.667,0.0,0.0,0.0,51.1,3.2,0.0,0.0,27.1,136,137,11.1,12.8,Mahmoud Abdul-Rauf
+2001-01-26,31-323,VAN,AWAY,HOU,L (-17),0,6:05,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.9,0,125,-1.1,-19.8,Mahmoud Abdul-Rauf
+2001-02-02,31-330,VAN,AWAY,SAC,L (-10),0,14:44,.700,.700,0.0,0.0,0.0,100.0,3.4,0.0,9.1,30.7,127,113,11.8,17.5,Mahmoud Abdul-Rauf
+2001-02-03,31-331,VAN,HOME,CHI,W (+7),0,11:22,.400,.400,0.0,0.0,0.0,32.0,0.0,0.0,28.6,31.1,69,107,0.3,-15.3,Mahmoud Abdul-Rauf
+2001-02-05,31-333,VAN,AWAY,SEA,L (-13),0,4:50,1.136,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,250,116,1.2,-6.8,Mahmoud Abdul-Rauf
+2001-02-07,31-335,VAN,HOME,UTA,L (-10),0,9:58,.765,.800,0.0,0.0,0.0,98.0,0.0,0.0,14.5,33.0,122,110,7.1,13.3,Mahmoud Abdul-Rauf
+2001-02-13,31-341,VAN,HOME,BOS,W (+1),0,4:39,.500,.500,0.0,19.6,12.2,0.0,0.0,0.0,50.0,35.3,43,106,-0.7,-25.6,Mahmoud Abdul-Rauf
+2001-02-15,31-343,VAN,HOME,GSW,W (+10),0,10:07,.515,.333,0.0,0.0,0.0,29.8,0.0,0.0,0.0,19.0,128,105,3.7,-2.3,Mahmoud Abdul-Rauf
+2001-02-16,31-344,VAN,AWAY,GSW,W (+13),0,11:35,.429,.429,0.0,0.0,0.0,17.5,0.0,0.0,0.0,31.8,92,104,2.6,-7.8,Mahmoud Abdul-Rauf
+2001-02-18,31-346,VAN,AWAY,MIN,W (+8),0,10:48,.500,.500,9.7,0.0,4.6,31.3,0.0,0.0,0.0,23.5,128,120,5.1,2.4,Mahmoud Abdul-Rauf
+2001-02-20,31-348,VAN,AWAY,WAS,W (+12),0,19:35,.883,.833,0.0,0.0,0.0,44.1,0.0,3.9,8.5,24.7,169,113,18.7,19.2,Mahmoud Abdul-Rauf
+2001-02-21,31-349,VAN,AWAY,PHI,L (-16),0,7:20,.145,.000,0.0,0.0,0.0,26.4,0.0,0.0,36.8,33.8,29,121,-3.6,-34.3,Mahmoud Abdul-Rauf
+2001-02-24,31-352,VAN,AWAY,CHI,L (-15),0,4:45,.000,.000,0.0,0.0,0.0,29.1,0.0,0.0,25.0,36.8,13,108,-2.8,-36.2,Mahmoud Abdul-Rauf
+2001-02-27,31-355,VAN,HOME,DAL,L (-4),0,11:46,.667,.667,0.0,12.9,6.8,40.0,0.0,0.0,14.3,25.8,126,125,6.8,3.7,Mahmoud Abdul-Rauf
+2001-02-28,31-356,VAN,AWAY,UTA,L (-18),0,15:06,.571,.571,0.0,12.3,4.8,15.1,0.0,0.0,12.5,26.1,101,130,4.3,-5.4,Mahmoud Abdul-Rauf
+2001-03-03,31-359,VAN,HOME,LAL,L (-10),0,15:05,.500,.500,0.0,0.0,0.0,19.0,0.0,0.0,0.0,36.5,98,114,6.3,1.7,Mahmoud Abdul-Rauf
+2001-03-05,31-361,VAN,HOME,SAS,L (-14),0,9:47,.436,.333,0.0,0.0,0.0,64.3,0.0,0.0,12.7,38.9,91,111,3.3,-0.3,Mahmoud Abdul-Rauf
+2001-03-06,31-362,VAN,AWAY,POR,W (+8),0,13:38,.307,.250,0.0,15.6,9.0,28.9,0.0,0.0,17.0,20.7,76,110,1.9,-9.6,Mahmoud Abdul-Rauf
+2001-03-09,32-000,VAN,HOME,POR,W (+10),0,13:42,.515,.500,0.0,15.6,8.2,25.7,4.1,0.0,0.0,27.5,118,96,6.8,6.2,Mahmoud Abdul-Rauf
+2001-03-11,32-002,VAN,HOME,TOR,L (-17),0,19:29,.167,.167,0.0,6.0,3.2,17.1,0.0,0.0,14.3,18.5,42,120,-1.5,-16.0,Mahmoud Abdul-Rauf
+2001-03-13,32-004,VAN,AWAY,ATL,L (-10),0,20:15,.700,.700,6.3,0.0,2.8,59.5,0.0,0.0,16.7,29.1,131,129,11.5,4.8,Mahmoud Abdul-Rauf
+2001-03-14,32-005,VAN,AWAY,CHH,L (-5),0,9:42,.500,.500,0.0,0.0,0.0,32.7,0.0,0.0,20.0,22.4,93,116,2.0,-6.0,Mahmoud Abdul-Rauf
+2001-03-16,32-007,VAN,AWAY,ORL,L (-4),0,14:34,.444,.429,0.0,25.7,13.5,45.3,0.0,0.0,0.0,27.5,105,117,5.5,-4.9,Mahmoud Abdul-Rauf
+2001-03-17,32-008,VAN,AWAY,MIA,L (-14),0,18:12,.500,.500,0.0,25.0,10.3,28.6,0.0,0.0,0.0,31.7,114,113,7.5,7.0,Mahmoud Abdul-Rauf
+2001-03-20,32-011,VAN,AWAY,NJN,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mahmoud Abdul-Rauf
+2001-03-23,32-014,VAN,AWAY,IND,L (-20),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mahmoud Abdul-Rauf
+2001-03-29,32-020,VAN,HOME,NYK,W (+21),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mahmoud Abdul-Rauf
+2001-04-01,32-023,VAN,HOME,UTA,L (-19),0,8:05,.833,.833,0.0,0.0,0.0,0.0,0.0,0.0,25.0,24.4,98,120,2.7,3.7,Mahmoud Abdul-Rauf
+2001-04-06,32-028,VAN,HOME,SAC,L (-28),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mahmoud Abdul-Rauf
+2001-04-07,32-029,VAN,AWAY,DEN,L (-1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mahmoud Abdul-Rauf
+2001-04-10,32-032,VAN,HOME,MIN,L (-13),0,8:57,.571,.571,0.0,13.7,6.1,32.0,11.6,0.0,0.0,35.2,114,94,7.3,20.8,Mahmoud Abdul-Rauf
+2001-04-12,32-034,VAN,HOME,POR,L (-13),0,15:51,.333,.333,0.0,0.0,0.0,40.0,3.4,0.0,10.0,32.3,74,116,2.5,-9.2,Mahmoud Abdul-Rauf
+2001-04-14,32-036,VAN,HOME,HOU,L (-5),0,23:15,.629,.632,0.0,0.0,0.0,34.9,2.4,0.0,9.1,40.0,118,118,15.6,11.6,Mahmoud Abdul-Rauf
+2001-04-16,32-038,VAN,AWAY,SAC,L (-10),0,16:34,.500,.500,0.0,12.3,6.3,24.7,0.0,0.0,9.1,27.8,95,116,5.2,-4.3,Mahmoud Abdul-Rauf
+2001-04-18,32-040,VAN,AWAY,GSW,W (+14),0,21:12,.583,.583,0.0,0.0,0.0,21.8,2.7,0.0,7.7,26.0,126,104,9.4,4.6,Mahmoud Abdul-Rauf

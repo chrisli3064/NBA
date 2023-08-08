@@ -1,0 +1,24 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2019-03-20,21-120,DAL,AWAY,POR,L (-8),0,5:53,0,2,.000,0,0,,1,2,.500,0,1,1,0,2,0,1,0,1,0.5,+8,Kostas Antetokounmpo
+2019-03-23,21-123,DAL,AWAY,GSW,W (+35),0,4:41,0,1,.000,0,0,,1,2,.500,0,0,0,0,0,0,0,0,1,-0.1,-5,Kostas Antetokounmpo
+2019-04-05,21-136,DAL,HOME,MEM,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Kostas Antetokounmpo
+2020-12-27,23-037,LAL,HOME,MIN,W (+36),0,7:40,0,2,.000,0,0,,0,0,,0,4,4,0,0,2,2,1,0,-1.2,0,Kostas Antetokounmpo
+2021-02-24,23-096,LAL,AWAY,UTA,L (-25),0,5:07,0,0,,0,0,,1,2,.500,0,1,1,0,0,0,1,0,1,-0.1,+1,Kostas Antetokounmpo
+2021-02-28,23-100,LAL,HOME,GSW,W (+26),0,6:22,1,1,1.000,0,0,,0,0,,2,1,3,0,1,0,2,2,2,1.6,-4,Kostas Antetokounmpo
+2021-03-21,23-121,LAL,AWAY,PHO,L (-17),0,1:47,0,0,,0,0,,1,2,.500,0,1,1,0,0,0,0,0,1,0.9,-1,Kostas Antetokounmpo
+2021-03-23,23-123,LAL,AWAY,NOP,L (-17),0,3:16,1,1,1.000,0,0,,0,0,,0,0,0,0,1,1,1,0,2,2.4,+10,Kostas Antetokounmpo
+2021-03-26,23-126,LAL,HOME,CLE,W (+14),0,1:56,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-1,Kostas Antetokounmpo
+2021-03-31,23-131,LAL,HOME,MIL,L (-15),0,2:18,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+3,Kostas Antetokounmpo
+2021-04-02,23-133,LAL,AWAY,SAC,W (+21),0,3:11,0,0,,0,0,,0,2,.000,0,1,1,0,0,0,0,0,0,-0.5,-2,Kostas Antetokounmpo
+2021-04-04,23-135,LAL,AWAY,LAC,L (-18),0,3:21,0,0,,0,0,,0,0,,0,1,1,0,0,0,2,0,0,-1.7,+3,Kostas Antetokounmpo
+2021-04-06,23-137,LAL,AWAY,TOR,W (+9),0,1:13,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,-5,Kostas Antetokounmpo
+2021-04-10,23-141,LAL,AWAY,BRK,W (+25),0,2:36,1,2,.500,0,0,,1,1,1.000,1,0,1,1,0,0,0,0,3,3.4,+2,Kostas Antetokounmpo
+2021-04-12,23-143,LAL,AWAY,NYK,L (-15),0,2:32,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,0,Kostas Antetokounmpo
+2021-04-15,23-146,LAL,HOME,BOS,L (-8),0,7:01,0,1,.000,0,0,,2,4,.500,1,3,4,0,0,1,1,1,2,1.4,+19,Kostas Antetokounmpo
+2021-04-19,23-150,LAL,HOME,UTA,L (-14),0,4:50,0,2,.000,0,0,,1,2,.500,0,2,2,0,0,0,0,0,1,-0.2,+8,Kostas Antetokounmpo
+2021-05-06,23-167,LAL,AWAY,LAC,L (-24),0,2:39,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,-6,Kostas Antetokounmpo
+2019-10-25,21-339,LAL,HOME,UTA,W (+9),0,0:28,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Kostas Antetokounmpo
+2019-10-27,21-341,LAL,HOME,CHO,W (+19),0,2:20,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+2,Kostas Antetokounmpo
+2020-01-10,22-051,LAL,AWAY,DAL,W (+15),0,2:18,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,-4,Kostas Antetokounmpo
+2020-08-05,22-259,LAL,HOME,OKC,L (-19),0,3:36,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-5,Kostas Antetokounmpo
+2020-08-13,22-267,LAL,HOME,SAC,L (-14),0,11:24,3,3,1.000,0,0,,1,2,.500,2,0,2,1,0,0,1,1,7,6.4,+14,Kostas Antetokounmpo

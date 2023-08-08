@@ -1,0 +1,607 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+2008-11-29,29-008,NJN,AWAY,UTA,W (+17),0,9:25,.387,.333,38.2,23.7,30.7,0.0,0.0,8.0,20.5,24.1,96,91,2.1,-9.0,Stromile Swift
+2008-11-30,29-009,NJN,AWAY,PHO,W (+8),0,3:15,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,120,-1.2,-22.7,Stromile Swift
+2008-12-02,29-011,NJN,HOME,WAS,L (-20),0,5:31,.568,,0.0,21.8,10.7,0.0,0.0,0.0,69.4,25.3,34,126,-1.5,-28.2,Stromile Swift
+2008-12-05,29-014,NJN,HOME,MIN,W (+29),0,16:16,.926,1.000,0.0,22.7,12.3,9.8,0.0,0.0,18.8,16.1,148,97,5.7,2.5,Stromile Swift
+2008-12-06,29-015,NJN,AWAY,PHI,W (+11),0,17:25,.595,.600,8.1,5.9,6.8,0.0,0.0,0.0,14.5,20.2,105,109,3.9,-6.5,Stromile Swift
+2008-12-10,29-019,NJN,HOME,NYK,L (-12),0,12:03,.410,.500,11.1,11.1,11.1,0.0,0.0,7.5,29.1,25.7,64,124,-0.3,-18.2,Stromile Swift
+2009-03-06,29-105,PHO,AWAY,HOU,L (-4),0,10:32,.000,.000,0.0,44.5,21.0,0.0,4.5,0.0,33.3,12.0,0,104,-1.4,-13.0,Stromile Swift
+2009-03-08,29-107,PHO,AWAY,SAS,L (-5),0,4:23,.000,.000,0.0,60.8,27.7,0.0,0.0,0.0,0.0,10.6,0,110,-0.1,-10.6,Stromile Swift
+2009-03-12,29-111,PHO,HOME,CLE,L (-8),0,5:02,.694,1.000,0.0,0.0,0.0,0.0,0.0,0.0,58.1,30.0,43,135,-1.5,-26.0,Stromile Swift
+2009-03-15,29-114,PHO,AWAY,GSW,W (+24),0,5:45,.000,.000,0.0,38.8,21.1,0.0,0.0,12.6,0.0,13.5,0,113,-0.5,-18.1,Stromile Swift
+2009-03-21,29-120,PHO,HOME,WAS,W (+32),0,21:27,.417,.417,21.3,32.0,27.4,11.2,2.3,2.8,0.0,24.7,114,87,9.9,-5.0,Stromile Swift
+2009-03-23,29-122,PHO,HOME,DEN,W (+3),0,4:48,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,8.6,0,128,-2.2,-24.8,Stromile Swift
+2009-03-25,29-124,PHO,HOME,UTA,W (+4),0,8:09,.694,.500,15.9,10.9,12.9,0.0,0.0,8.1,0.0,15.7,159,115,4.7,4.4,Stromile Swift
+2009-03-26,29-125,PHO,AWAY,POR,L (-20),0,15:55,.694,.750,13.4,35.5,22.9,0.0,3.1,0.0,0.0,22.5,150,126,11.0,9.0,Stromile Swift
+2009-03-28,29-127,PHO,AWAY,UTA,L (-5),0,13:35,.500,.500,12.6,8.7,10.9,0.0,0.0,11.0,33.3,17.8,74,95,1.9,-5.4,Stromile Swift
+2009-03-29,29-128,PHO,AWAY,SAC,L (-8),0,10:56,.387,.333,0.0,0.0,0.0,0.0,4.3,0.0,20.5,17.7,67,124,0.1,-13.9,Stromile Swift
+2009-04-01,29-131,PHO,HOME,HOU,W (+5),0,4:46,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,33.3,27.6,0,123,-2.8,-38.7,Stromile Swift
+2009-04-10,29-140,PHO,AWAY,MEM,L (-17),0,8:46,.200,.200,13.4,0.0,6.7,0.0,0.0,0.0,0.0,25.0,57,122,-0.4,-18.7,Stromile Swift
+2009-04-11,29-141,PHO,AWAY,MIN,W (+13),0,6:27,.362,.000,18.2,0.0,8.5,0.0,0.0,10.8,26.6,24.0,71,100,-0.3,-18.1,Stromile Swift
+2001-11-01,21-345,MEM,HOME,DET,L (-10),1,30:40,.760,.714,16.1,18.9,17.4,7.6,3.3,0.0,16.0,16.7,137,92,17.6,11.3,Stromile Swift
+2001-11-02,21-346,MEM,AWAY,MIN,L (-9),1,24:00,.928,1.000,14.8,15.4,15.1,6.9,2.0,0.0,0.0,13.9,195,109,15.7,8.8,Stromile Swift
+2001-11-04,21-348,MEM,HOME,DAL,L (-9),1,30:47,.319,.111,6.2,17.6,11.5,0.0,3.1,0.0,0.0,17.3,82,94,4.6,-5.4,Stromile Swift
+2001-11-06,21-350,MEM,AWAY,PHO,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2001-11-07,21-351,MEM,AWAY,LAC,L (-16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2001-11-09,21-353,MEM,AWAY,LAL,L (-24),0,28:56,.756,.769,9.2,24.2,15.7,17.0,5.0,2.3,12.6,21.7,131,102,20.9,13.3,Stromile Swift
+2001-11-12,21-356,MEM,HOME,GSW,L (-7),0,17:57,.530,.500,12.1,0.0,6.1,0.0,2.9,7.6,8.1,30.7,101,93,9.0,6.5,Stromile Swift
+2001-11-15,21-359,MEM,HOME,POR,L (-16),0,27:19,.333,.333,36.5,3.6,18.2,6.4,2.2,0.0,14.3,24.4,92,129,5.2,-11.9,Stromile Swift
+2001-11-17,21-361,MEM,HOME,CLE,W (+5),0,28:49,.543,.538,7.7,17.0,12.1,0.0,0.0,4.8,6.0,27.4,107,107,11.7,-2.0,Stromile Swift
+2001-11-21,22-000,MEM,AWAY,CLE,L (-7),0,27:31,.773,.667,9.3,14.7,11.9,8.5,0.0,5.7,6.1,27.5,152,117,20.6,8.5,Stromile Swift
+2001-11-23,22-002,MEM,HOME,PHO,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2001-11-26,22-005,MEM,HOME,SAC,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2001-11-29,22-008,MEM,AWAY,TOR,L (-3),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Stromile Swift
+2001-11-30,22-009,MEM,HOME,HOU,W (+17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2001-12-02,22-011,MEM,AWAY,PHI,W (+6),0,20:11,.359,.250,18.0,13.6,15.5,7.7,0.0,3.0,17.0,27.3,83,103,3.8,-9.2,Stromile Swift
+2001-12-03,22-012,MEM,AWAY,ORL,L (-42),0,26:32,.477,.455,13.4,6.2,10.9,11.0,2.0,0.0,22.7,30.5,79,128,5.3,-9.4,Stromile Swift
+2001-12-06,22-015,MEM,HOME,MIN,L (-25),0,25:22,.690,.333,12.0,12.0,12.0,0.0,2.0,8.5,31.5,16.7,107,105,9.9,2.0,Stromile Swift
+2001-12-08,22-017,MEM,HOME,PHI,W (+9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2001-12-11,22-020,MEM,HOME,WAS,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2001-12-13,22-022,MEM,AWAY,DEN,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2001-12-15,22-024,MEM,AWAY,GSW,L (-9),0,35:11,.800,.800,9.1,24.6,16.3,6.0,0.0,2.1,23.1,17.1,121,100,13.2,1.8,Stromile Swift
+2001-12-16,22-025,MEM,AWAY,SAC,L (-17),0,29:41,.262,.200,8.6,16.7,12.3,0.0,4.8,3.9,10.4,25.4,59,94,3.3,-6.0,Stromile Swift
+2001-12-18,22-027,MEM,HOME,MIL,L (-9),1,40:39,.645,.538,5.4,10.3,7.6,0.0,3.9,2.2,8.7,24.7,126,124,21.1,1.3,Stromile Swift
+2001-12-20,22-029,MEM,AWAY,NYK,W (+2),1,38:33,.436,.333,3.1,17.6,10.5,0.0,0.0,1.8,0.0,20.8,101,104,9.7,-5.2,Stromile Swift
+2001-12-21,22-030,MEM,HOME,LAL,W (+6),0,22:54,.434,.364,11.0,14.9,13.0,12.4,2.3,0.0,0.0,30.5,106,117,8.8,-6.0,Stromile Swift
+2001-12-23,22-032,MEM,AWAY,BOS,L (-5),1,30:25,.380,.286,3.3,0.0,1.6,0.0,1.7,10.3,16.0,18.4,69,100,3.6,-6.1,Stromile Swift
+2001-12-26,22-035,MEM,HOME,CHI,W (+22),1,37:51,.470,.400,11.8,19.8,16.1,8.0,0.0,4.7,5.2,22.1,112,90,15.4,-0.5,Stromile Swift
+2001-12-28,22-037,MEM,AWAY,MIA,W (+5),1,36:02,.443,.167,12.1,16.3,14.3,0.0,1.4,1.7,15.1,16.6,95,88,8.1,-2.9,Stromile Swift
+2001-12-30,22-039,MEM,HOME,SAS,L (-4),1,30:04,.231,.231,10.4,25.6,18.3,0.0,1.9,4.6,7.1,20.9,60,88,2.8,-8.1,Stromile Swift
+2002-01-02,22-042,MEM,AWAY,NJN,L (-18),1,27:34,.558,.538,8.6,30.4,17.3,0.0,0.0,2.3,27.1,26.0,83,97,6.2,-4.1,Stromile Swift
+2002-01-04,22-044,MEM,HOME,ATL,L (-4),1,34:54,.690,.667,13.7,9.8,11.7,0.0,1.4,4.2,17.9,21.3,117,118,14.1,-4.7,Stromile Swift
+2002-01-06,22-046,MEM,HOME,SEA,L (-12),0,25:52,.680,.800,9.5,27.0,18.5,0.0,0.0,2.9,33.8,17.2,83,102,5.8,-3.8,Stromile Swift
+2002-01-08,22-048,MEM,HOME,TOR,W (+3),0,32:42,.573,.588,17.7,15.8,16.7,0.0,1.7,3.8,14.7,28.8,103,93,14.1,1.1,Stromile Swift
+2002-01-10,22-050,MEM,AWAY,PHO,W (+6),0,28:36,.484,.385,20.1,18.4,19.0,0.0,1.8,0.0,5.7,28.4,111,103,11.1,-4.2,Stromile Swift
+2002-01-12,22-052,MEM,AWAY,UTA,W (+2),0,29:48,.507,.500,4.2,22.3,13.8,0.0,0.0,4.8,44.1,27.6,55,95,-0.1,-15.6,Stromile Swift
+2002-01-14,22-054,MEM,AWAY,LAL,L (-39),0,30:12,.608,.533,20.9,20.4,20.6,8.8,1.7,4.3,10.0,28.4,124,119,21.4,11.9,Stromile Swift
+2002-01-17,22-057,MEM,HOME,DAL,L (-11),0,29:12,.558,.556,4.7,16.6,11.0,5.6,3.8,7.5,15.7,21.1,101,114,10.8,0.8,Stromile Swift
+2002-01-19,22-059,MEM,HOME,ORL,L (-16),0,10:49,.258,.333,8.9,21.3,14.5,0.0,0.0,0.0,20.5,18.5,52,123,-0.6,-16.5,Stromile Swift
+2002-01-21,22-061,MEM,AWAY,SAC,L (-14),0,30:24,.470,.364,13.7,25.1,20.5,18.5,3.2,0.0,19.0,24.1,96,106,10.6,-1.5,Stromile Swift
+2002-01-23,22-063,MEM,AWAY,GSW,L (-12),0,34:07,.921,1.000,8.1,22.0,15.9,0.0,1.6,0.0,8.1,18.2,169,115,20.8,6.3,Stromile Swift
+2002-01-24,22-064,MEM,AWAY,POR,L (-38),0,31:07,.465,.333,13.8,24.2,18.1,15.3,1.7,2.0,21.8,20.2,93,130,9.2,-4.2,Stromile Swift
+2002-01-26,22-066,MEM,AWAY,CHI,L (-3),0,32:48,.446,.286,3.8,20.3,12.6,4.4,0.0,6.4,9.0,15.9,98,108,7.2,-6.1,Stromile Swift
+2002-01-28,22-068,MEM,HOME,LAC,W (+4),0,24:35,.679,.643,5.2,8.3,6.9,8.5,2.1,7.3,5.8,31.8,131,112,18.3,8.6,Stromile Swift
+2002-01-30,22-070,MEM,AWAY,IND,L (-1),0,16:13,.444,.429,6.5,7.3,6.9,0.0,0.0,9.8,0.0,23.1,96,89,4.1,-0.7,Stromile Swift
+2002-02-01,22-072,MEM,HOME,LAL,L (-15),0,18:32,.635,.571,14.4,31.6,22.6,0.0,3.1,4.6,20.2,27.5,105,115,9.0,1.7,Stromile Swift
+2002-02-03,22-074,MEM,HOME,CHH,L (-18),0,38:45,.580,.444,8.5,19.4,14.7,0.0,0.0,0.0,26.3,20.3,91,119,6.3,-7.3,Stromile Swift
+2002-02-05,22-076,MEM,HOME,UTA,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2002-02-07,22-078,MEM,AWAY,MIL,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2002-02-12,22-083,MEM,AWAY,HOU,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2002-02-14,22-085,MEM,HOME,DEN,L (-15),0,16:12,.205,.000,15.8,15.4,15.6,0.0,0.0,9.4,45.0,26.6,37,113,-1.8,-24.1,Stromile Swift
+2002-02-17,22-088,MEM,AWAY,CHH,W (+14),0,25:42,.883,.889,4.7,11.3,8.4,0.0,2.1,5.1,0.0,19.7,177,86,18.3,16.3,Stromile Swift
+2002-02-19,22-090,MEM,AWAY,SAS,L (-6),1,31:41,.643,.600,3.5,9.0,5.9,9.7,1.7,2.8,26.9,10.9,100,101,6.3,0.2,Stromile Swift
+2002-02-21,22-092,MEM,HOME,PHO,L (-6),0,22:12,.455,.444,11.5,5.3,8.3,0.0,2.6,9.9,9.2,24.2,92,90,7.7,3.5,Stromile Swift
+2002-02-25,22-096,MEM,HOME,LAC,L (-13),0,13:14,.000,.000,8.0,9.0,8.5,0.0,0.0,5.8,0.0,14.3,16,100,-1.5,-15.3,Stromile Swift
+2002-02-26,22-097,MEM,AWAY,DAL,L (-13),0,24:00,.190,.143,0.0,24.4,11.0,6.3,0.0,3.1,11.3,16.5,47,115,-0.4,-13.2,Stromile Swift
+2002-02-28,22-099,MEM,AWAY,UTA,L (-44),0,22:15,.621,.333,13.1,18.2,15.2,0.0,2.5,6.3,15.1,12.8,127,123,8.9,3.3,Stromile Swift
+2002-03-01,22-100,MEM,AWAY,DEN,L (-13),0,20:42,.667,.667,0.0,13.1,6.7,10.2,2.7,7.7,40.0,11.7,75,107,3.2,-3.2,Stromile Swift
+2002-03-03,22-102,MEM,HOME,SEA,L (-25),0,22:04,.581,.556,21.0,22.4,21.6,27.1,0.0,3.2,16.2,25.9,107,110,11.3,7.7,Stromile Swift
+2002-03-04,22-103,MEM,AWAY,ATL,L (-19),0,22:37,.680,.600,5.5,13.9,9.2,9.6,2.4,7.3,0.0,12.7,149,104,8.5,4.9,Stromile Swift
+2002-03-07,22-106,MEM,HOME,IND,W (+11),1,21:35,.854,.833,13.2,16.2,15.0,5.4,0.0,2.8,13.4,14.7,153,112,9.8,1.1,Stromile Swift
+2002-03-09,22-108,MEM,HOME,MIA,L (-5),0,11:32,.568,,0.0,9.8,4.4,0.0,0.0,5.7,69.4,10.5,33,108,-0.4,-11.7,Stromile Swift
+2002-03-11,22-110,MEM,HOME,UTA,W (+1),0,11:14,.568,,0.0,9.9,5.0,27.3,0.0,0.0,53.2,8.0,85,100,0.5,-5.5,Stromile Swift
+2002-03-12,22-111,MEM,AWAY,SAS,L (-14),0,9:59,.633,.600,0.0,13.0,6.7,0.0,5.3,14.8,13.7,35.1,106,90,6.2,11.2,Stromile Swift
+2002-03-15,22-114,MEM,HOME,BOS,L (-6),0,19:56,.250,.250,0.0,8.4,5.3,0.0,2.5,11.3,20.0,11.6,40,104,1.1,-6.2,Stromile Swift
+2002-03-17,22-116,MEM,HOME,NJN,L (-11),0,19:38,.581,.500,0.0,21.5,10.8,11.8,0.0,7.9,22.5,21.3,92,94,6.3,3.3,Stromile Swift
+2002-03-19,22-118,MEM,HOME,NYK,L (-9),0,18:46,.600,.600,0.0,5.2,2.8,8.0,0.0,4.2,0.0,12.4,125,114,4.2,-2.0,Stromile Swift
+2002-03-21,22-120,MEM,HOME,MIN,L (-2),0,17:19,.210,.333,0.0,38.5,20.7,0.0,6.3,7.8,38.7,22.0,24,83,-1.1,-13.7,Stromile Swift
+2002-03-23,22-122,MEM,AWAY,DAL,L (-11),1,28:47,.597,.533,3.5,16.0,8.5,0.0,0.0,8.0,5.6,26.9,124,123,14.2,1.0,Stromile Swift
+2002-03-25,22-124,MEM,AWAY,POR,W (+3),0,31:15,.441,.400,15.5,7.4,11.3,4.7,0.0,10.8,0.0,22.2,116,112,12.7,1.4,Stromile Swift
+2002-03-27,22-126,MEM,AWAY,SEA,L (-14),0,27:32,.298,.267,7.5,17.6,12.1,0.0,3.8,2.4,10.7,31.4,62,101,2.8,-10.0,Stromile Swift
+2002-03-30,22-129,MEM,HOME,GSW,W (+6),0,21:31,.604,.556,18.7,8.3,13.2,0.0,2.4,0.0,27.1,28.4,95,104,8.3,-5.8,Stromile Swift
+2002-04-02,22-132,MEM,HOME,SAC,L (-24),0,30:32,.487,.412,8.4,19.0,13.4,14.6,1.6,2.0,8.9,31.4,99,107,13.9,1.9,Stromile Swift
+2002-04-03,22-133,MEM,AWAY,MIN,L (-11),0,29:40,.501,.417,16.3,9.1,12.5,7.0,1.8,6.8,5.9,26.3,112,105,15.2,7.1,Stromile Swift
+2002-04-05,22-135,MEM,HOME,HOU,W (+18),0,30:44,.205,.125,15.5,14.6,15.0,8.1,0.0,6.4,23.5,18.0,63,93,1.5,-13.2,Stromile Swift
+2002-04-06,22-136,MEM,AWAY,WAS,L (-3),0,29:42,.525,.500,6.6,8.9,7.8,6.4,1.8,9.6,9.5,16.7,105,94,10.3,3.0,Stromile Swift
+2002-04-09,22-139,MEM,HOME,DEN,W (+11),0,32:35,.674,.600,3.8,23.3,14.9,10.7,0.0,7.7,11.9,23.7,126,91,17.9,3.6,Stromile Swift
+2002-04-11,22-141,MEM,HOME,POR,W (+3),0,21:41,.672,.600,19.8,31.2,26.2,8.8,0.0,13.0,0.0,26.7,160,105,17.8,13.0,Stromile Swift
+2002-04-13,22-143,MEM,HOME,SAS,L (-21),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2002-04-14,22-144,MEM,AWAY,HOU,W (+3),0,34:40,.519,.429,8.3,16.8,13.4,0.0,3.0,1.7,29.3,18.3,81,101,7.0,-7.8,Stromile Swift
+2002-04-16,22-146,MEM,AWAY,LAC,L (-8),0,27:03,.563,.500,13.7,26.0,20.0,11.9,0.0,5.8,0.0,15.9,134,103,12.3,7.0,Stromile Swift
+2002-04-17,22-147,MEM,AWAY,SEA,L (-15),0,39:32,.735,.667,14.5,18.9,16.9,11.6,1.4,3.4,19.2,30.4,125,118,25.0,5.7,Stromile Swift
+2000-10-31,20-345,VAN,HOME,SEA,W (+6),0,8:54,.000,.000,10.3,0.0,5.2,0.0,0.0,0.0,0.0,4.7,56,104,0.0,-12.0,Stromile Swift
+2000-11-02,20-347,VAN,AWAY,LAC,W (+8),0,9:42,.608,.500,30.6,13.0,22.9,0.0,0.0,7.5,0.0,24.7,148,103,6.9,6.7,Stromile Swift
+2000-11-04,20-349,VAN,HOME,LAL,L (-9),0,7:22,.521,.500,0.0,15.9,8.6,0.0,0.0,0.0,0.0,18.6,104,104,1.9,-0.3,Stromile Swift
+2000-11-06,20-351,VAN,HOME,ATL,W (+10),0,10:23,.436,.500,10.4,42.7,26.4,0.0,0.0,6.8,0.0,29.0,92,81,4.8,2.1,Stromile Swift
+2000-11-08,20-353,VAN,AWAY,DAL,W (+27),0,6:23,.717,.750,21.6,15.4,18.0,0.0,0.0,0.0,0.0,35.9,146,81,4.8,7.8,Stromile Swift
+2000-11-09,20-354,VAN,AWAY,HOU,L (-7),0,3:38,.000,.000,0.0,34.3,17.9,38.7,0.0,0.0,0.0,13.0,50,95,-0.9,-13.6,Stromile Swift
+2000-11-11,20-356,VAN,AWAY,SAS,L (-13),0,21:47,.574,.500,4.1,18.2,9.8,0.0,4.7,7.8,0.0,25.4,119,87,12.8,12.0,Stromile Swift
+2000-11-16,20-361,VAN,HOME,LAC,L (-4),0,3:08,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.3,0,111,-0.7,-20.8,Stromile Swift
+2000-11-18,20-363,VAN,HOME,DAL,L (-3),0,2:47,.000,.000,0.0,44.4,20.0,0.0,0.0,0.0,0.0,15.9,0,98,-1.2,-33.5,Stromile Swift
+2000-11-20,20-365,VAN,HOME,DEN,L (-3),0,13:15,.633,.600,0.0,8.2,4.1,0.0,0.0,0.0,0.0,21.0,133,105,4.0,-2.4,Stromile Swift
+2000-11-22,21-001,VAN,AWAY,MIN,L (-1),0,21:35,.592,.625,6.6,9.3,8.2,7.3,0.0,0.0,0.0,18.1,119,114,7.2,-0.6,Stromile Swift
+2000-11-24,21-003,VAN,AWAY,DET,L (-22),0,11:24,.399,.500,0.0,0.0,0.0,0.0,4.4,0.0,34.7,21.2,49,117,-1.0,-14.9,Stromile Swift
+2000-11-26,21-005,VAN,AWAY,BOS,W (+11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2000-11-27,21-006,VAN,AWAY,NYK,L (-25),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2000-11-29,21-008,VAN,HOME,PHO,W (+3),0,6:39,.500,.500,0.0,0.0,0.0,0.0,0.0,10.2,33.3,19.4,61,95,0.3,-6.0,Stromile Swift
+2000-12-01,21-010,VAN,HOME,IND,L (-10),0,19:13,.333,.333,5.1,14.3,8.9,0.0,0.0,11.0,25.0,10.4,60,93,1.5,-5.1,Stromile Swift
+2000-12-03,21-012,VAN,HOME,SAS,L (-18),0,20:29,.317,.286,25.0,7.1,17.6,8.5,2.8,0.0,11.3,20.6,86,114,4.2,-5.5,Stromile Swift
+2000-12-05,21-014,VAN,HOME,DET,W (+8),0,6:54,.333,.333,0.0,0.0,0.0,0.0,8.0,10.9,0.0,21.3,69,80,1.6,-0.5,Stromile Swift
+2000-12-07,21-016,VAN,AWAY,UTA,L (-11),0,19:17,.105,.000,7.2,21.7,14.4,0.0,2.7,3.5,17.4,14.2,30,102,-0.4,-9.0,Stromile Swift
+2000-12-09,21-018,VAN,HOME,PHI,L (-4),0,15:09,.658,.500,0.0,22.3,11.6,0.0,0.0,0.0,0.0,16.6,141,94,5.1,2.3,Stromile Swift
+2000-12-11,21-020,VAN,HOME,HOU,L (-7),0,9:24,.143,.143,11.1,26.0,18.0,0.0,6.3,0.0,22.2,50.7,29,83,-2.6,-27.5,Stromile Swift
+2000-12-13,21-022,VAN,HOME,SEA,L (-1),0,14:02,.543,.500,22.4,9.5,16.7,0.0,3.8,0.0,0.0,20.7,127,101,6.6,2.6,Stromile Swift
+2000-12-15,21-024,VAN,AWAY,LAL,L (-22),0,17:06,.000,.000,0.0,12.0,6.0,0.0,0.0,0.0,0.0,8.3,0,112,-1.9,-13.9,Stromile Swift
+2000-12-17,21-026,VAN,HOME,ORL,L (-10),0,12:04,.549,.500,42.6,10.8,28.6,21.1,4.8,10.5,10.9,36.5,122,108,10.7,15.2,Stromile Swift
+2000-12-20,21-029,VAN,HOME,WAS,W (+14),0,18:34,.347,.500,15.8,19.9,18.0,0.0,5.2,0.0,41.0,11.2,62,99,1.7,-5.4,Stromile Swift
+2000-12-22,21-031,VAN,HOME,SAC,L (-2),0,8:10,1.000,1.000,0.0,13.6,6.5,0.0,0.0,0.0,0.0,5.5,200,111,2.0,2.0,Stromile Swift
+2000-12-23,21-032,VAN,AWAY,LAC,L (-2),0,11:36,.333,.333,9.1,0.0,4.6,12.9,8.4,27.0,0.0,10.9,99,65,7.2,21.3,Stromile Swift
+2000-12-26,21-035,VAN,HOME,PHO,L (-2),0,6:36,.333,.333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.4,72,108,-0.5,-15.6,Stromile Swift
+2000-12-29,21-038,VAN,AWAY,POR,L (-23),0,19:39,.683,.667,6.7,6.3,6.5,0.0,5.0,6.5,12.0,20.0,114,103,10.4,6.6,Stromile Swift
+2000-12-30,21-039,VAN,HOME,GSW,L (-1),0,6:04,1.000,1.000,21.1,0.0,10.0,24.2,0.0,0.0,50.0,14.1,107,112,1.3,-1.3,Stromile Swift
+2001-01-03,21-043,VAN,HOME,CHH,W (+10),0,13:08,.000,.000,0.0,0.0,0.0,0.0,4.1,4.8,51.5,14.2,0,97,-2.2,-12.5,Stromile Swift
+2001-01-05,21-045,VAN,AWAY,PHO,L (-32),0,21:12,.000,.000,13.7,19.0,15.9,8.8,4.7,0.0,20.0,10.3,33,107,0.7,-9.1,Stromile Swift
+2001-01-07,21-047,VAN,HOME,MIL,W (+3),0,9:42,1.064,1.000,17.8,10.0,12.8,0.0,0.0,5.7,34.7,11.9,140,114,4.0,4.0,Stromile Swift
+2001-01-09,21-049,VAN,HOME,DEN,L (-7),0,10:12,.758,,13.0,8.1,10.0,0.0,0.0,5.4,27.5,16.1,124,117,2.3,-6.2,Stromile Swift
+2001-01-12,21-052,VAN,AWAY,SEA,L (-13),0,12:12,.266,.000,26.1,0.0,14.8,0.0,0.0,0.0,0.0,6.7,119,122,2.0,-7.9,Stromile Swift
+2001-01-13,21-053,VAN,HOME,CLE,W (+12),1,20:14,.714,.714,7.7,10.0,9.1,0.0,0.0,11.7,12.5,18.8,120,106,9.0,1.4,Stromile Swift
+2001-01-15,21-055,VAN,AWAY,LAL,L (-1),1,10:31,,,0.0,67.7,33.8,0.0,0.0,0.0,100.0,8.6,0,96,-1.8,-15.0,Stromile Swift
+2001-01-17,21-057,VAN,AWAY,DEN,L (-24),1,26:03,.631,.636,14.8,4.0,9.6,0.0,1.9,0.0,20.2,23.6,99,127,9.2,-4.7,Stromile Swift
+2001-01-19,21-059,VAN,HOME,MIA,L (-11),1,7:44,.515,.333,0.0,14.6,7.4,20.7,6.8,9.8,0.0,22.8,123,91,4.2,13.9,Stromile Swift
+2001-01-21,21-061,VAN,HOME,MIN,L (-2),0,6:36,1.000,1.000,0.0,30.5,17.1,0.0,0.0,0.0,0.0,7.1,200,109,1.9,0.8,Stromile Swift
+2001-01-23,21-063,VAN,AWAY,SAS,L (-33),0,19:13,.500,.500,0.0,25.3,12.0,0.0,0.0,6.6,33.3,14.3,62,114,1.8,-5.2,Stromile Swift
+2001-01-25,21-065,VAN,AWAY,DAL,L (-37),0,22:10,.500,.500,9.7,16.4,12.8,10.2,0.0,0.0,14.3,14.9,99,138,4.2,-6.0,Stromile Swift
+2001-01-26,21-066,VAN,AWAY,HOU,L (-17),0,10:42,.333,.333,0.0,0.0,0.0,0.0,4.8,6.5,25.0,17.3,49,112,1.0,-5.0,Stromile Swift
+2001-01-29,21-069,VAN,HOME,NJN,W (+11),0,7:26,,,20.8,32.7,27.4,0.0,0.0,10.7,100.0,13.3,32,85,-0.4,-11.0,Stromile Swift
+2001-01-31,21-071,VAN,AWAY,PHO,L (-9),0,20:09,.666,.600,17.1,31.6,24.0,0.0,2.6,6.3,0.0,14.9,150,98,10.7,7.1,Stromile Swift
+2001-02-02,21-073,VAN,AWAY,SAC,L (-10),0,17:40,.500,.500,10.7,7.0,9.1,0.0,5.6,0.0,50.0,9.3,64,106,1.1,-8.3,Stromile Swift
+2001-02-03,21-074,VAN,HOME,CHI,W (+7),0,3:15,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,106,-0.4,-12.8,Stromile Swift
+2001-02-05,21-076,VAN,AWAY,SEA,L (-13),0,24:28,.400,.400,5.7,18.6,12.8,7.1,4.6,6.1,16.7,12.8,80,99,5.9,1.2,Stromile Swift
+2001-02-07,21-078,VAN,HOME,UTA,L (-10),0,31:16,.820,.750,7.6,19.9,13.5,6.4,1.7,6.5,17.0,9.1,141,96,11.3,6.5,Stromile Swift
+2001-02-13,21-084,VAN,HOME,BOS,W (+1),0,16:56,.000,.000,0.0,11.5,7.1,0.0,5.8,0.0,0.0,10.4,0,95,-2.2,-13.3,Stromile Swift
+2001-02-15,21-086,VAN,HOME,GSW,W (+10),0,14:16,.000,.000,0.0,19.0,11.8,0.0,0.0,4.3,0.0,7.0,0,94,-0.2,-9.3,Stromile Swift
+2001-02-16,21-087,VAN,AWAY,GSW,W (+13),0,15:28,.667,.667,18.8,0.0,8.8,10.1,7.4,0.0,25.0,13.3,118,88,5.8,7.5,Stromile Swift
+2001-02-18,21-089,VAN,AWAY,MIN,W (+8),0,20:51,.618,.571,15.2,14.0,14.6,14.3,2.5,2.9,0.0,21.6,147,107,13.8,9.6,Stromile Swift
+2001-02-20,21-091,VAN,AWAY,WAS,W (+12),0,17:27,.403,.250,7.4,5.7,6.4,0.0,2.7,4.4,13.9,16.8,85,104,2.3,-8.6,Stromile Swift
+2001-02-21,21-092,VAN,AWAY,PHI,L (-16),0,17:39,.571,.571,31.7,20.9,25.8,0.0,5.7,3.5,12.5,19.3,115,99,9.9,7.7,Stromile Swift
+2001-02-23,21-094,VAN,AWAY,MIL,L (-12),0,16:06,,,6.3,12.2,9.3,0.0,0.0,4.5,,0.0,223,104,1.2,-4.5,Stromile Swift
+2001-02-24,21-095,VAN,AWAY,CHI,L (-15),0,7:59,.000,.000,15.4,0.0,7.3,0.0,0.0,0.0,0.0,17.3,18,109,-1.8,-20.6,Stromile Swift
+2001-02-27,21-098,VAN,HOME,DAL,L (-4),0,17:11,.615,.500,0.0,36.4,19.1,0.0,2.9,0.0,17.0,15.3,106,117,4.4,-2.6,Stromile Swift
+2001-02-28,21-099,VAN,AWAY,UTA,L (-18),0,18:20,.143,.143,13.3,0.0,8.1,0.0,6.5,0.0,12.5,21.8,44,119,-0.5,-16.3,Stromile Swift
+2001-03-03,21-102,VAN,HOME,LAL,L (-10),0,16:45,.563,.500,0.0,19.7,9.0,9.3,3.0,11.8,0.0,11.9,120,93,7.3,8.9,Stromile Swift
+2001-03-05,21-104,VAN,HOME,SAS,L (-14),0,19:13,.429,.429,19.4,19.8,19.6,0.0,5.6,11.3,22.2,23.4,76,83,6.9,3.4,Stromile Swift
+2001-03-06,21-105,VAN,AWAY,POR,W (+8),0,14:32,.773,.667,0.0,7.3,4.2,0.0,3.5,4.0,11.4,28.8,134,102,8.8,4.6,Stromile Swift
+2001-03-09,21-108,VAN,HOME,POR,W (+10),0,25:37,.604,.667,18.5,12.6,15.4,0.0,4.4,2.7,0.0,20.5,130,95,12.7,5.0,Stromile Swift
+2001-03-11,21-110,VAN,HOME,TOR,L (-17),0,28:53,.387,.222,8.7,11.8,10.3,11.5,1.9,4.2,14.7,23.6,82,111,6.0,-3.4,Stromile Swift
+2001-03-13,21-112,VAN,AWAY,ATL,L (-10),0,20:17,.800,.800,6.3,5.0,5.6,0.0,0.0,6.4,16.7,14.6,130,123,6.3,-0.4,Stromile Swift
+2001-03-14,21-113,VAN,AWAY,CHH,L (-5),0,22:40,.424,.444,11.6,19.0,15.7,0.0,0.0,0.0,9.6,20.4,86,110,2.9,-9.9,Stromile Swift
+2001-03-16,21-115,VAN,AWAY,ORL,L (-4),0,18:36,.717,.750,7.4,33.3,21.1,32.0,0.0,12.1,17.0,16.0,132,105,9.2,8.9,Stromile Swift
+2001-03-17,21-116,VAN,AWAY,MIA,L (-14),0,19:59,.000,.000,10.4,7.5,9.2,0.0,2.8,4.4,0.0,14.0,20,109,-1.7,-13.0,Stromile Swift
+2001-03-20,21-119,VAN,AWAY,NJN,L (-14),0,17:36,1.042,1.000,17.0,16.2,16.7,0.0,5.8,3.5,0.0,7.2,220,102,10.0,10.4,Stromile Swift
+2001-03-22,21-121,VAN,AWAY,CLE,L (-14),1,33:42,.593,.500,7.6,32.6,20.4,17.7,6.5,1.9,7.3,19.7,127,107,17.5,6.7,Stromile Swift
+2001-03-23,21-122,VAN,AWAY,IND,L (-20),1,34:57,.344,.222,10.2,24.0,16.0,6.5,2.9,7.8,7.9,15.7,83,93,9.9,-0.2,Stromile Swift
+2001-03-25,21-124,VAN,AWAY,TOR,L (-10),0,33:42,.723,.700,13.1,12.3,12.7,5.6,3.1,6.3,14.5,19.1,127,106,18.4,8.2,Stromile Swift
+2001-03-29,21-128,VAN,HOME,NYK,W (+21),0,22:25,.452,.250,0.0,19.4,10.8,0.0,0.0,6.4,0.0,15.6,95,74,5.0,0.6,Stromile Swift
+2001-04-01,21-131,VAN,HOME,UTA,L (-19),0,18:15,.615,.750,5.8,14.0,9.5,12.7,3.2,7.7,29.1,18.7,80,103,5.2,3.2,Stromile Swift
+2001-04-04,21-134,VAN,HOME,LAC,W (+8),0,13:29,.387,.333,0.0,44.0,23.4,12.6,0.0,0.0,0.0,14.6,95,88,2.7,1.3,Stromile Swift
+2001-04-06,21-136,VAN,HOME,SAC,L (-28),0,20:49,.167,.167,0.0,17.1,7.5,0.0,0.0,3.2,14.3,14.7,31,127,-2.0,-16.5,Stromile Swift
+2001-04-07,21-137,VAN,AWAY,DEN,L (-1),0,15:32,.000,.000,13.0,13.3,13.2,0.0,3.2,5.6,16.7,16.3,23,97,-1.2,-15.9,Stromile Swift
+2001-04-10,21-140,VAN,HOME,MIN,L (-13),0,31:50,.633,.600,9.4,15.4,12.1,0.0,0.0,0.0,13.7,10.4,119,118,6.4,-6.8,Stromile Swift
+2001-04-12,21-142,VAN,HOME,POR,L (-13),0,24:30,.563,.625,4.9,17.0,11.4,0.0,0.0,2.7,18.4,23.4,83,113,5.0,-8.2,Stromile Swift
+2001-04-14,21-144,VAN,HOME,HOU,L (-5),0,26:35,.644,.667,12.5,27.8,18.0,0.0,2.0,6.8,34.0,9.2,97,108,6.8,-3.9,Stromile Swift
+2001-04-16,21-146,VAN,AWAY,SAC,L (-10),0,25:06,.291,.333,8.9,8.3,8.6,5.8,3.9,5.2,12.7,13.5,70,106,3.3,-3.7,Stromile Swift
+2001-04-18,21-148,VAN,AWAY,GSW,W (+14),0,20:55,.665,.500,0.0,7.1,3.8,0.0,2.7,7.5,44.4,13.5,75,95,3.9,-3.0,Stromile Swift
+2005-11-02,25-346,HOU,HOME,SAC,W (+9),0,21:58,.410,.333,4.6,5.0,4.8,0.0,0.0,0.0,12.0,17.2,84,105,0.2,-12.3,Stromile Swift
+2005-11-05,25-349,HOU,HOME,NOK,L (-7),0,19:12,.359,.250,6.1,25.5,16.7,0.0,0.0,0.0,0.0,23.6,87,101,2.0,-10.0,Stromile Swift
+2005-11-08,25-352,HOU,HOME,ORL,L (-2),0,22:48,.405,.333,5.5,21.6,13.7,10.7,5.1,6.9,0.0,23.0,92,81,8.5,5.7,Stromile Swift
+2005-11-10,25-354,HOU,AWAY,MIA,L (-4),0,19:21,.450,.417,16.9,11.0,13.9,0.0,2.9,4.4,7.0,35.4,97,99,6.6,-3.3,Stromile Swift
+2005-11-12,25-356,HOU,AWAY,NJN,W (+8),0,21:14,.333,.333,6.6,27.6,18.1,0.0,0.0,3.9,50.0,14.4,43,105,-1.0,-13.4,Stromile Swift
+2005-11-13,25-357,HOU,AWAY,BOS,L (-20),0,25:46,.629,.700,8.3,8.9,8.6,0.0,6.2,9.3,18.2,28.9,102,101,13.7,8.9,Stromile Swift
+2005-11-15,25-359,HOU,AWAY,MIN,W (+5),0,17:10,.683,.667,8.7,7.0,7.8,0.0,0.0,5.5,0.0,21.1,147,109,7.1,3.9,Stromile Swift
+2005-11-17,25-361,HOU,AWAY,SAS,L (-6),0,24:52,1.042,1.000,0.0,4.8,2.6,8.0,0.0,0.0,0.0,5.7,218,107,5.2,3.6,Stromile Swift
+2005-11-18,25-362,HOU,HOME,DET,L (-8),0,27:30,.644,.625,17.9,17.1,17.5,0.0,0.0,2.5,17.7,20.5,113,95,9.4,2.9,Stromile Swift
+2005-11-20,25-364,HOU,AWAY,IND,L (-11),0,15:36,.460,.400,0.0,0.0,0.0,0.0,0.0,0.0,26.9,23.9,66,107,-0.9,-11.8,Stromile Swift
+2005-11-22,26-001,HOU,AWAY,DAL,L (-9),0,18:34,.441,.375,0.0,12.0,6.5,0.0,0.0,0.0,0.0,28.8,95,126,2.0,-13.5,Stromile Swift
+2005-11-23,26-002,HOU,HOME,PHO,L (-12),0,24:32,.619,.625,24.0,26.1,25.0,8.4,0.0,0.0,25.3,22.4,107,111,9.1,-1.3,Stromile Swift
+2005-11-25,26-004,HOU,AWAY,MEM,L (-5),0,18:27,.601,.571,0.0,25.4,13.7,0.0,3.1,0.0,37.5,37.8,65,97,1.9,-13.9,Stromile Swift
+2005-11-26,26-005,HOU,HOME,CHI,L (-5),1,21:37,.515,.333,10.3,27.1,18.5,0.0,2.5,7.4,20.5,31.7,92,94,7.2,-3.6,Stromile Swift
+2005-11-29,26-008,HOU,HOME,ATL,W (+15),0,12:21,.644,.667,0.0,8.3,4.6,0.0,0.0,0.0,0.0,13.8,132,93,2.0,-3.1,Stromile Swift
+2005-12-03,26-012,HOU,HOME,MEM,L (-15),0,20:26,.470,.500,20.7,21.4,21.0,8.9,2.9,5.9,48.4,25.2,59,107,2.2,-9.8,Stromile Swift
+2005-12-06,26-015,HOU,HOME,BOS,W (+18),0,21:21,.473,.444,19.3,15.3,17.1,0.0,0.0,7.8,0.0,25.7,116,88,9.1,3.2,Stromile Swift
+2005-12-08,26-017,HOU,AWAY,SAC,W (+11),0,27:01,.557,.556,9.4,11.8,10.5,6.6,5.8,9.4,9.2,19.0,112,90,11.1,5.1,Stromile Swift
+2005-12-11,26-020,HOU,AWAY,POR,W (+14),0,27:06,.564,.500,8.4,11.3,10.0,6.1,4.2,3.1,0.0,17.3,132,97,10.3,1.4,Stromile Swift
+2005-12-14,26-023,HOU,AWAY,GSW,W (+6),0,18:01,1.000,1.000,0.0,11.1,6.3,9.7,3.0,5.7,40.0,12.9,103,100,4.5,1.7,Stromile Swift
+2005-12-15,26-024,HOU,AWAY,SEA,W (+6),0,22:58,.685,.571,7.0,13.9,11.1,15.7,2.6,3.3,10.2,22.3,136,115,11.6,6.5,Stromile Swift
+2005-12-17,26-026,HOU,AWAY,LAC,L (-8),0,16:24,.525,.333,0.0,15.4,7.2,0.0,0.0,0.0,0.0,14.5,115,110,2.7,-5.7,Stromile Swift
+2005-12-18,26-027,HOU,AWAY,LAL,W (+2),0,19:37,.333,.333,0.0,0.0,0.0,0.0,0.0,4.8,0.0,15.8,72,103,0.9,-7.8,Stromile Swift
+2005-12-21,26-030,HOU,HOME,TOR,L (-13),1,14:24,.333,.333,0.0,32.3,14.3,0.0,0.0,0.0,40.0,17.1,38,112,-0.8,-14.6,Stromile Swift
+2005-12-23,26-032,HOU,AWAY,DEN,L (-22),1,20:27,.473,.333,12.1,9.6,11.0,11.8,2.4,0.0,14.7,27.9,95,109,6.3,-3.8,Stromile Swift
+2005-12-27,26-036,HOU,HOME,UTA,L (-8),0,22:36,.255,.200,17.3,14.8,16.2,0.0,0.0,0.0,20.3,30.0,56,101,-2.3,-19.1,Stromile Swift
+2005-12-28,26-037,HOU,AWAY,NOK,L (-2),0,34:18,.655,.600,17.9,24.5,20.9,0.0,0.0,0.0,13.1,31.0,123,105,19.2,4.2,Stromile Swift
+2005-12-31,26-040,HOU,HOME,GSW,L (-5),0,34:50,.638,.583,13.1,28.8,21.1,6.2,0.0,0.0,13.1,21.6,125,107,14.0,2.9,Stromile Swift
+2006-01-03,26-043,HOU,AWAY,WAS,W (+12),0,28:08,.587,.500,5.2,25.4,17.1,18.9,3.8,2.7,21.3,23.0,111,112,11.1,-0.9,Stromile Swift
+2006-01-05,26-045,HOU,AWAY,CLE,W (+9),0,23:16,.342,.286,15.1,10.6,12.9,0.0,0.0,4.4,18.6,23.4,74,102,1.7,-13.8,Stromile Swift
+2006-01-06,26-046,HOU,AWAY,TOR,L (-20),0,25:21,.507,.429,9.5,17.6,13.7,0.0,2.2,0.0,14.5,26.7,96,124,6.3,-8.6,Stromile Swift
+2006-01-08,26-048,HOU,HOME,DEN,L (-2),1,37:09,.479,.438,6.5,15.7,10.6,4.8,1.5,0.0,5.3,24.0,101,106,10.3,-4.2,Stromile Swift
+2006-01-10,26-050,HOU,AWAY,CHA,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2006-01-11,26-051,HOU,HOME,SAC,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2006-01-14,26-054,HOU,HOME,NOK,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2006-01-16,26-056,HOU,AWAY,ATL,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2006-01-18,26-058,HOU,HOME,DAL,L (-27),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2006-01-20,26-060,HOU,AWAY,CHI,W (+1),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Stromile Swift
+2006-01-22,26-062,HOU,AWAY,DET,L (-2),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Stromile Swift
+2006-01-23,26-063,HOU,AWAY,MIL,W (+17),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Stromile Swift
+2006-01-25,26-065,HOU,HOME,CHA,W (+24),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2006-01-27,26-067,HOU,HOME,MIN,L (-4),1,27:45,.591,.538,11.3,5.6,9.0,8.3,2.0,5.4,0.0,26.8,131,112,16.2,9.4,Stromile Swift
+2006-01-29,26-069,HOU,HOME,MIA,L (-6),0,8:27,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,66.7,16.1,0,126,-3.1,-27.2,Stromile Swift
+2006-01-30,26-070,HOU,AWAY,MEM,L (-9),0,13:34,.543,1.000,7.9,38.2,21.6,0.0,0.0,0.0,42.0,17.1,59,101,1.0,-8.0,Stromile Swift
+2006-02-03,26-074,HOU,HOME,SEA,W (+23),0,19:10,.667,.667,11.1,22.3,16.7,0.0,10.6,4.3,14.3,16.0,118,61,10.9,10.4,Stromile Swift
+2006-02-05,26-076,HOU,AWAY,NYK,W (+4),0,18:14,.785,.600,6.1,25.7,15.7,0.0,0.0,4.9,11.6,22.7,145,99,10.9,6.3,Stromile Swift
+2006-02-06,26-077,HOU,AWAY,PHI,W (+6),0,19:07,.434,.500,0.0,22.3,11.2,0.0,2.7,0.0,34.2,22.2,49,84,-1.0,-15.0,Stromile Swift
+2006-02-08,26-079,HOU,HOME,LAL,L (-11),0,18:15,1.000,1.000,6.1,11.7,9.0,0.0,0.0,0.0,40.0,13.9,99,114,4.4,-2.7,Stromile Swift
+2006-02-12,26-083,HOU,HOME,NYK,W (+7),0,17:36,.580,.500,13.3,6.5,9.9,0.0,3.1,0.0,0.0,22.7,128,96,6.3,-1.3,Stromile Swift
+2006-02-14,26-085,HOU,AWAY,LAC,W (+31),0,19:43,.475,.400,24.3,17.0,20.0,0.0,2.5,3.5,7.3,30.3,109,95,8.3,-8.0,Stromile Swift
+2006-02-16,26-087,HOU,AWAY,PHO,L (-34),0,27:48,.454,.385,3.3,16.8,9.3,8.1,1.8,11.1,17.3,28.7,80,106,8.9,1.9,Stromile Swift
+2006-03-03,26-102,HOU,HOME,DEN,W (+11),0,20:36,.768,.750,17.0,12.9,14.7,0.0,5.1,6.4,9.3,23.8,140,77,15.6,15.2,Stromile Swift
+2006-03-05,26-104,HOU,HOME,POR,W (+18),0,18:20,.436,.333,11.9,19.6,15.6,0.0,3.0,4.7,22.5,21.8,85,92,3.4,-9.6,Stromile Swift
+2006-03-07,26-106,HOU,AWAY,MIN,W (+6),0,26:39,.571,.571,16.4,17.0,16.7,0.0,0.0,2.3,0.0,16.4,128,93,10.7,2.1,Stromile Swift
+2006-03-08,26-107,HOU,HOME,IND,W (+4),0,17:40,.750,.750,17.0,11.8,13.9,0.0,3.1,8.2,0.0,11.2,158,108,7.6,4.4,Stromile Swift
+2006-03-12,26-111,HOU,AWAY,SAS,L (-7),0,21:50,.260,.250,6.1,30.7,19.5,0.0,0.0,0.0,14.8,17.1,55,107,0.1,-14.1,Stromile Swift
+2006-03-13,26-112,HOU,HOME,NJN,L (-13),0,14:29,.200,.200,7.9,8.1,8.0,0.0,0.0,6.5,0.0,16.9,56,107,0.6,-8.3,Stromile Swift
+2006-03-15,26-114,HOU,HOME,DAL,L (-14),0,5:47,.500,.500,0.0,23.7,11.5,0.0,0.0,0.0,33.3,27.4,61,119,-0.5,-20.3,Stromile Swift
+2006-03-18,26-117,HOU,HOME,SAS,L (-15),0,13:19,.322,.333,0.0,0.0,0.0,0.0,0.0,6.0,0.0,29.3,69,110,0.3,-9.3,Stromile Swift
+2006-03-20,26-119,HOU,HOME,LAC,L (-8),0,17:02,.625,.625,6.0,22.8,13.4,12.9,0.0,0.0,0.0,21.5,128,112,7.5,4.5,Stromile Swift
+2006-03-21,26-120,HOU,AWAY,DAL,L (-16),0,17:28,.625,.625,24.2,12.5,17.6,0.0,0.0,0.0,11.1,27.9,114,113,7.3,2.4,Stromile Swift
+2006-03-23,26-122,HOU,AWAY,NOK,W (+1),0,23:14,.694,.667,0.0,7.2,4.6,0.0,4.6,8.2,31.6,13.7,93,96,5.0,1.1,Stromile Swift
+2006-03-26,26-125,HOU,HOME,CLE,L (-2),0,24:46,.667,.667,6.3,8.4,7.6,8.1,0.0,5.8,14.3,14.9,117,109,6.2,0.3,Stromile Swift
+2006-03-29,26-128,HOU,HOME,SEA,W (+28),0,18:30,.727,.727,15.7,17.3,16.6,24.4,0.0,0.0,15.4,31.9,126,99,10.8,1.0,Stromile Swift
+2006-03-31,26-130,HOU,HOME,WAS,W (+2),0,23:04,.538,.571,0.0,14.2,8.3,0.0,0.0,0.0,11.8,17.6,90,114,2.6,-8.2,Stromile Swift
+2006-04-02,26-132,HOU,AWAY,LAL,L (-16),0,22:17,.500,.500,16.2,13.9,15.2,0.0,0.0,0.0,0.0,21.0,117,125,6.1,-5.2,Stromile Swift
+2006-04-04,26-134,HOU,AWAY,SEA,L (-17),0,14:39,.470,.429,6.8,21.8,14.1,13.6,0.0,0.0,11.8,26.4,91,112,3.4,-5.8,Stromile Swift
+2006-04-05,26-135,HOU,AWAY,POR,L (-1),0,10:19,.255,.200,12.9,0.0,6.6,0.0,0.0,9.1,0.0,29.5,65,98,0.1,-15.4,Stromile Swift
+2006-04-07,26-137,HOU,AWAY,GSW,W (+7),0,12:11,.602,.500,0.0,8.8,4.6,0.0,0.0,7.2,31.1,37.0,81,104,2.8,-10.9,Stromile Swift
+2006-04-09,26-139,HOU,AWAY,SAC,L (-9),0,13:20,.500,.500,0.0,18.0,8.8,0.0,0.0,0.0,0.0,29.7,99,106,3.4,-3.7,Stromile Swift
+2006-04-10,26-140,HOU,AWAY,UTA,L (-2),0,13:21,.255,.200,17.5,34.8,25.0,11.4,0.0,0.0,33.8,32.9,52,105,-2.1,-23.0,Stromile Swift
+2006-04-12,26-142,HOU,HOME,MIN,L (-3),0,22:57,.485,.333,16.1,10.2,13.1,0.0,2.6,3.3,6.9,28.4,114,104,9.3,2.9,Stromile Swift
+2006-04-15,26-145,HOU,HOME,MEM,L (-12),0,19:57,.571,.571,0.0,19.0,9.6,0.0,0.0,0.0,10.2,26.2,102,119,5.8,-1.3,Stromile Swift
+2006-04-17,26-147,HOU,AWAY,DEN,W (+3),0,15:04,.340,.200,0.0,21.2,10.7,11.5,0.0,5.1,0.0,18.7,79,89,2.4,-2.1,Stromile Swift
+2006-04-19,26-149,HOU,HOME,SAS,L (-2),0,23:18,.705,.727,6.1,14.4,10.7,0.0,2.3,4.0,19.0,31.1,108,101,12.6,7.8,Stromile Swift
+2002-10-30,22-343,MEM,HOME,DAL,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2002-11-02,22-346,MEM,HOME,SAC,L (-17),0,26:10,.505,.455,4.5,26.4,15.6,0.0,1.8,5.2,20.2,24.5,81,109,6.6,-5.6,Stromile Swift
+2002-11-04,22-348,MEM,HOME,SAS,L (-2),1,28:47,.481,.300,14.9,24.4,19.4,6.2,5.4,0.0,6.9,22.1,114,95,11.7,1.3,Stromile Swift
+2002-11-06,22-350,MEM,AWAY,POR,L (-6),1,31:48,.571,.571,23.7,11.5,17.5,0.0,0.0,2.1,17.6,25.0,103,115,11.8,-2.3,Stromile Swift
+2002-11-08,22-352,MEM,AWAY,SAC,L (-8),1,33:16,.463,.333,12.4,18.2,15.3,0.0,4.3,7.8,23.6,21.4,83,92,12.1,-0.4,Stromile Swift
+2002-11-09,22-353,MEM,AWAY,DEN,L (-11),1,20:20,.301,.000,10.2,4.8,7.4,10.4,5.2,16.6,0.0,15.0,86,85,7.8,8.6,Stromile Swift
+2002-11-11,22-355,MEM,HOME,GSW,L (-7),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Stromile Swift
+2002-11-15,22-359,MEM,HOME,MIN,L (-4),1,30:46,.510,.400,9.1,25.1,15.8,10.8,0.0,0.0,20.3,19.3,100,107,8.1,-1.4,Stromile Swift
+2002-11-16,22-360,MEM,AWAY,CHI,L (-18),1,19:44,.887,1.000,0.0,6.0,3.1,0.0,0.0,0.0,24.4,18.4,119,127,6.1,-4.0,Stromile Swift
+2002-11-19,22-363,MEM,AWAY,MIN,L (-4),1,29:50,.423,.250,7.2,21.6,14.4,5.3,0.0,4.5,22.0,20.8,81,111,4.9,-7.1,Stromile Swift
+2002-11-20,22-364,MEM,HOME,PHI,L (-7),1,31:21,.407,.385,21.0,28.7,24.7,5.9,3.4,17.9,6.3,21.0,103,88,18.2,9.4,Stromile Swift
+2002-11-22,23-001,MEM,AWAY,SAS,L (-9),1,18:49,.363,.333,7.0,17.6,12.8,0.0,2.9,7.7,12.7,20.8,73,102,2.6,-6.7,Stromile Swift
+2002-11-23,23-002,MEM,HOME,WAS,W (+11),1,21:04,.714,.714,7.9,9.5,8.9,11.1,2.8,6.5,12.5,20.5,119,88,9.7,7.8,Stromile Swift
+2002-11-27,23-006,MEM,HOME,SEA,W (+18),0,15:26,.500,.500,0.0,8.2,4.6,0.0,7.2,4.8,20.0,15.8,80,100,3.2,-5.2,Stromile Swift
+2002-11-29,23-008,MEM,HOME,LAL,L (-6),0,14:13,.820,1.000,8.2,7.7,8.0,0.0,3.6,4.3,0.0,15.5,149,102,8.7,12.3,Stromile Swift
+2002-12-01,23-010,MEM,HOME,TOR,L (-5),0,20:14,.518,.400,0.0,26.7,13.3,7.7,2.7,12.5,12.9,18.2,101,89,8.9,9.6,Stromile Swift
+2002-12-03,23-012,MEM,AWAY,LAL,L (-10),0,20:38,.665,.500,4.5,30.9,15.6,21.6,2.4,3.6,21.0,9.8,127,101,7.8,4.9,Stromile Swift
+2002-12-04,23-013,MEM,AWAY,PHO,L (-13),0,16:10,.338,.375,13.0,6.3,9.6,24.0,6.5,3.8,10.1,27.6,78,96,4.4,0.3,Stromile Swift
+2002-12-06,23-015,MEM,AWAY,UTA,L (-33),0,23:46,.597,.444,17.8,12.9,15.8,0.0,2.2,0.0,13.0,28.3,119,116,12.5,5.0,Stromile Swift
+2002-12-08,23-017,MEM,HOME,PHO,W (+8),0,11:19,1.000,1.000,0.0,16.5,10.9,0.0,0.0,5.3,75.0,15.7,32,95,-0.8,-11.9,Stromile Swift
+2002-12-10,23-019,MEM,AWAY,MIA,W (+11),0,14:43,.420,.000,11.0,22.3,17.8,8.0,0.0,0.0,0.0,16.9,113,113,4.2,-5.7,Stromile Swift
+2002-12-11,23-020,MEM,HOME,DEN,W (+3),0,20:46,1.050,1.000,12.7,19.0,16.3,9.1,5.0,8.8,29.6,15.5,152,86,13.7,14.4,Stromile Swift
+2002-12-13,23-022,MEM,HOME,HOU,W (+5),0,21:25,.637,.500,5.9,10.1,8.1,0.0,2.6,8.1,10.4,21.5,125,106,9.5,3.3,Stromile Swift
+2002-12-14,23-023,MEM,AWAY,DAL,L (-17),0,27:07,.388,.333,0.0,24.9,13.7,7.4,2.0,5.1,18.9,28.6,65,105,5.0,-6.8,Stromile Swift
+2002-12-16,23-025,MEM,HOME,GSW,W (+13),0,20:07,.676,.625,5.1,30.5,18.8,0.0,0.0,3.3,18.4,24.0,107,92,9.1,-0.3,Stromile Swift
+2002-12-18,23-027,MEM,AWAY,WAS,L (-18),0,14:25,.667,.667,0.0,13.7,5.5,0.0,0.0,5.4,0.0,21.4,127,136,5.2,-3.4,Stromile Swift
+2002-12-20,23-029,MEM,HOME,MIL,W (+11),0,22:00,.533,.444,5.9,16.8,12.3,24.0,2.4,3.3,22.5,28.9,93,87,8.2,0.9,Stromile Swift
+2002-12-22,23-031,MEM,HOME,UTA,L (-29),0,23:12,.380,.286,24.3,5.8,15.9,0.0,2.4,0.0,8.7,23.4,90,119,5.7,-5.0,Stromile Swift
+2002-12-27,23-036,MEM,HOME,ORL,W (+13),0,21:37,.558,.444,10.1,26.0,18.0,7.7,0.0,0.0,7.9,26.2,120,101,9.3,-2.5,Stromile Swift
+2002-12-31,23-040,MEM,AWAY,BOS,L (-7),0,10:10,.000,.000,0.0,10.0,5.5,0.0,0.0,0.0,0.0,4.5,0,111,-1.2,-12.6,Stromile Swift
+2003-01-03,23-043,MEM,HOME,LAC,W (+5),0,10:30,.340,.400,24.6,10.4,16.9,13.6,0.0,0.0,0.0,25.4,100,122,1.3,-13.9,Stromile Swift
+2003-01-06,23-046,MEM,HOME,NOH,W (+4),0,10:41,.000,.000,0.0,9.5,5.3,0.0,0.0,5.9,0.0,4.0,0,108,-0.1,-8.8,Stromile Swift
+2003-01-08,23-048,MEM,AWAY,LAC,L (-8),0,18:30,.466,.500,5.4,26.6,14.9,8.6,0.0,0.0,0.0,14.9,116,116,5.2,0.6,Stromile Swift
+2003-01-10,23-050,MEM,AWAY,PHO,L (-6),0,7:56,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,6.0,0,124,-1.0,-16.0,Stromile Swift
+2003-01-12,23-052,MEM,AWAY,SAC,L (-8),0,32:08,.440,.462,9.0,18.4,13.6,0.0,2.9,4.9,11.9,21.3,88,98,10.3,-0.5,Stromile Swift
+2003-01-13,23-053,MEM,AWAY,GSW,W (+2),0,13:56,.667,.667,15.6,17.4,16.6,0.0,0.0,9.5,25.0,11.9,114,107,4.6,0.3,Stromile Swift
+2003-01-15,23-055,MEM,AWAY,POR,L (-8),0,12:53,1.000,1.000,7.7,22.4,13.7,11.8,0.0,0.0,0.0,3.6,205,118,3.3,0.0,Stromile Swift
+2003-01-17,23-057,MEM,AWAY,SEA,L (-6),0,7:35,.387,.333,14.1,15.1,14.6,0.0,0.0,0.0,0.0,24.5,93,113,1.9,-5.9,Stromile Swift
+2003-01-20,23-060,MEM,HOME,POR,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2003-01-22,23-062,MEM,AWAY,SAS,W (+5),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Stromile Swift
+2003-01-23,23-063,MEM,HOME,SAC,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2003-01-25,23-065,MEM,HOME,SEA,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2003-01-27,23-067,MEM,HOME,HOU,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2003-01-31,23-071,MEM,HOME,NYK,L (-6),0,7:50,.000,.000,0.0,46.2,24.3,0.0,0.0,10.2,0.0,6.1,0,110,0.9,-7.2,Stromile Swift
+2003-02-02,23-073,MEM,AWAY,DEN,L (-15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2003-02-03,23-074,MEM,AWAY,GSW,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2003-02-12,23-083,MEM,HOME,NJN,W (+7),0,18:55,.469,.200,23.0,16.1,19.4,8.6,0.0,4.1,10.5,22.4,114,100,5.8,-5.5,Stromile Swift
+2003-02-14,23-085,MEM,HOME,DAL,L (-7),0,20:32,.363,.333,5.2,5.6,5.4,0.0,0.0,0.0,12.7,17.9,72,130,0.8,-14.8,Stromile Swift
+2003-02-16,23-087,MEM,AWAY,MIL,W (+6),0,20:50,1.042,1.000,0.0,30.1,15.4,0.0,0.0,0.0,51.0,13.3,89,106,3.9,-2.7,Stromile Swift
+2003-02-18,23-089,MEM,HOME,IND,W (+5),0,10:35,.500,.500,9.1,11.5,10.1,0.0,4.9,6.6,50.0,16.3,57,95,1.3,-6.1,Stromile Swift
+2003-02-21,23-092,MEM,AWAY,NOH,L (-2),0,21:05,.686,.750,0.0,7.6,3.9,0.0,7.5,0.0,16.4,27.6,104,114,10.5,2.2,Stromile Swift
+2003-02-22,23-093,MEM,AWAY,HOU,L (-11),0,23:49,.491,.333,4.4,17.0,10.9,8.0,4.4,0.0,0.0,21.5,112,97,10.1,6.2,Stromile Swift
+2003-02-24,23-095,MEM,HOME,UTA,W (+11),0,21:08,.521,.333,6.9,19.9,14.5,7.0,2.6,6.5,10.4,22.2,111,97,7.6,-1.4,Stromile Swift
+2003-02-26,23-097,MEM,AWAY,PHI,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2003-02-28,23-099,MEM,HOME,MIA,W (+10),0,14:09,.615,.500,0.0,30.9,18.2,0.0,3.6,4.7,0.0,31.9,125,99,10.5,4.7,Stromile Swift
+2003-03-01,23-100,MEM,AWAY,DAL,L (-27),1,30:58,.602,.375,10.3,20.2,15.3,0.0,1.6,6.4,7.0,21.2,126,115,15.6,4.3,Stromile Swift
+2003-03-03,23-102,MEM,HOME,BOS,L (-1),0,19:52,.564,.500,5.0,27.3,15.7,0.0,0.0,8.1,0.0,21.7,130,118,9.0,-1.4,Stromile Swift
+2003-03-05,23-104,MEM,HOME,DEN,W (+10),1,40:41,.539,.471,15.3,10.4,12.9,0.0,1.2,9.4,15.2,28.1,101,91,18.7,-0.1,Stromile Swift
+2003-03-08,23-107,MEM,AWAY,CLE,W (+26),1,29:00,.678,.692,10.0,34.8,23.3,5.2,5.0,15.6,11.9,24.4,120,73,20.7,9.7,Stromile Swift
+2003-03-09,23-108,MEM,AWAY,TOR,W (+13),1,40:43,.705,.667,13.0,26.3,20.0,11.6,2.6,4.9,10.9,20.0,143,108,25.3,8.4,Stromile Swift
+2003-03-11,23-110,MEM,AWAY,NYK,W (+2),1,35:48,.518,.500,5.3,34.0,19.2,0.0,2.8,4.0,20.6,29.1,84,78,12.4,1.8,Stromile Swift
+2003-03-12,23-111,MEM,HOME,CHI,W (+29),1,31:16,.955,1.000,4.8,32.4,20.6,13.0,1.6,6.9,14.8,19.5,162,89,24.2,12.7,Stromile Swift
+2003-03-16,23-115,MEM,HOME,ATL,W (+32),1,24:30,.667,.667,5.8,51.4,34.5,10.0,0.0,0.0,10.0,17.4,131,86,12.9,3.8,Stromile Swift
+2003-03-18,23-117,MEM,AWAY,MIN,L (-16),1,34:53,.526,.462,5.4,9.1,7.1,5.8,0.0,3.6,16.5,23.6,91,108,9.5,-3.3,Stromile Swift
+2003-03-19,23-118,MEM,HOME,CLE,W (+27),1,20:56,.678,.750,7.6,23.8,17.6,0.0,0.0,5.9,0.0,14.2,141,95,7.8,-2.4,Stromile Swift
+2003-03-21,23-120,MEM,AWAY,IND,L (-9),1,30:47,.372,.333,8.1,22.1,16.0,5.3,1.6,6.2,27.1,22.4,63,99,3.8,-7.9,Stromile Swift
+2003-03-22,23-121,MEM,AWAY,NJN,L (-8),1,11:55,.605,.571,8.7,25.0,15.4,0.0,0.0,0.0,0.0,28.4,123,114,5.4,-0.7,Stromile Swift
+2003-03-24,23-123,MEM,AWAY,ORL,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2003-03-26,23-125,MEM,HOME,PHO,L (-2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2003-03-28,23-127,MEM,AWAY,SEA,L (-24),0,22:14,.347,.167,4.7,15.9,10.8,9.6,0.0,0.0,10.4,20.4,73,107,2.6,-8.4,Stromile Swift
+2003-03-30,23-129,MEM,AWAY,LAC,L (-2),0,15:38,.322,.300,11.1,7.0,9.3,9.7,0.0,3.8,8.4,30.7,76,109,2.5,-8.1,Stromile Swift
+2003-03-31,23-130,MEM,AWAY,LAL,L (-16),0,11:42,.338,.250,10.5,28.6,20.0,0.0,0.0,5.2,47.4,31.2,42,110,-1.5,-23.2,Stromile Swift
+2003-04-02,23-132,MEM,HOME,SAS,L (-18),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2003-04-04,23-134,MEM,HOME,LAL,L (-1),0,25:30,.457,.286,9.2,15.4,12.6,10.8,2.1,13.8,10.2,17.0,113,108,10.6,5.1,Stromile Swift
+2003-04-05,23-135,MEM,AWAY,ATL,L (-6),0,19:55,.646,.400,5.3,16.0,10.7,0.0,2.7,6.4,10.5,21.2,133,103,10.5,6.9,Stromile Swift
+2003-04-08,23-138,MEM,HOME,LAC,W (+3),1,17:41,.311,.333,12.3,22.9,17.0,8.7,2.9,0.0,13.4,18.1,77,109,1.2,-13.0,Stromile Swift
+2003-04-11,23-141,MEM,HOME,POR,W (+3),1,35:38,.625,.538,9.8,19.8,15.4,0.0,3.0,5.0,6.2,21.3,127,95,18.7,4.8,Stromile Swift
+2003-04-13,23-143,MEM,HOME,DET,L (-3),1,23:49,.795,.818,10.7,17.9,14.6,12.6,2.4,2.9,18.5,33.8,121,103,15.7,8.1,Stromile Swift
+2003-04-15,23-145,MEM,AWAY,HOU,L (-11),1,31:12,.372,.385,10.3,16.3,13.1,5.5,0.0,2.9,6.9,21.0,85,112,5.0,-6.9,Stromile Swift
+2003-04-16,23-146,MEM,HOME,MIN,L (-8),1,37:14,.575,.538,2.6,15.6,9.1,0.0,1.4,1.6,16.1,23.4,95,103,11.3,-0.7,Stromile Swift
+2003-10-31,23-344,MEM,HOME,BOS,L (-2),1,30:04,.660,.636,6.2,27.3,15.5,0.0,3.4,8.1,0.0,19.7,135,88,18.3,11.7,Stromile Swift
+2003-11-01,23-345,MEM,AWAY,HOU,W (+8),1,15:49,.635,.571,13.3,32.4,22.0,13.0,7.3,0.0,11.3,26.4,124,68,9.8,15.3,Stromile Swift
+2003-11-03,23-347,MEM,HOME,SAS,W (+8),1,27:51,.451,.333,6.6,25.7,14.9,0.0,1.7,7.8,11.4,26.5,89,78,9.5,0.4,Stromile Swift
+2003-11-05,23-349,MEM,AWAY,POR,L (-6),1,26:52,.820,.750,7.9,16.9,12.3,12.9,2.1,2.4,0.0,8.7,179,106,11.3,6.4,Stromile Swift
+2003-11-07,23-351,MEM,AWAY,PHO,L (-8),1,14:06,1.000,1.000,0.0,0.0,0.0,12.0,0.0,5.1,50.0,6.9,95,113,0.9,-5.0,Stromile Swift
+2003-11-08,23-352,MEM,AWAY,UTA,L (-7),1,23:37,.644,.500,11.1,10.0,10.5,7.4,0.0,7.8,0.0,14.8,157,113,9.4,3.8,Stromile Swift
+2003-11-15,23-359,MEM,HOME,DAL,W (+7),0,5:57,.000,.000,0.0,15.0,8.1,0.0,0.0,0.0,50.0,15.4,0,103,-1.8,-24.8,Stromile Swift
+2003-11-21,24-000,MEM,AWAY,SEA,W (+1),0,6:27,.500,.500,18.2,0.0,9.3,0.0,0.0,0.0,33.3,21.3,77,115,-0.1,-17.4,Stromile Swift
+2003-11-23,24-002,MEM,AWAY,LAL,L (-32),0,17:44,.709,.667,7.8,19.5,13.0,0.0,0.0,8.2,0.0,15.4,151,121,7.4,3.8,Stromile Swift
+2003-11-25,24-004,MEM,AWAY,SAC,L (-20),0,16:18,.500,.500,19.1,15.0,17.2,0.0,0.0,13.8,25.0,21.9,85,107,3.8,-6.0,Stromile Swift
+2003-11-28,24-007,MEM,HOME,MIN,L (-4),0,22:01,.506,.500,8.7,18.2,12.7,8.1,2.3,0.0,0.0,21.4,113,106,9.2,4.8,Stromile Swift
+2003-11-29,24-008,MEM,AWAY,CLE,W (+7),0,42:36,.617,.636,4.8,14.2,9.5,7.6,1.3,1.5,6.1,17.7,124,108,15.4,-1.0,Stromile Swift
+2003-12-01,24-010,MEM,AWAY,BOS,W (+7),0,16:50,.761,.714,11.6,6.3,9.1,11.8,0.0,4.3,0.0,19.0,162,102,10.6,9.2,Stromile Swift
+2003-12-03,24-012,MEM,AWAY,NJN,W (+3),0,12:32,.269,.286,10.9,51.3,29.5,0.0,4.9,0.0,11.8,37.0,55,90,-0.2,-18.8,Stromile Swift
+2003-12-05,24-014,MEM,HOME,WAS,W (+15),0,19:19,.483,.500,13.1,14.1,13.6,8.2,7.7,11.3,17.7,23.0,92,68,10.6,9.5,Stromile Swift
+2003-12-07,24-016,MEM,HOME,POR,W (+14),0,28:40,.512,.385,17.4,14.2,16.2,0.0,0.0,2.9,6.0,23.5,128,99,12.1,-0.2,Stromile Swift
+2003-12-10,24-019,MEM,HOME,ATL,W (+13),0,18:10,.415,.286,20.5,29.0,24.5,0.0,0.0,14.6,0.0,23.1,115,91,9.0,1.2,Stromile Swift
+2003-12-12,24-021,MEM,AWAY,MIA,L (-3),0,23:30,.475,.286,0.0,14.2,7.6,7.5,0.0,16.3,8.7,24.0,97,99,8.4,1.6,Stromile Swift
+2003-12-13,24-022,MEM,HOME,NJN,W (+47),0,21:25,.773,.778,8.2,30.5,21.9,8.2,2.4,7.4,7.9,29.7,140,61,18.3,12.4,Stromile Swift
+2003-12-15,24-024,MEM,AWAY,SAS,L (-11),0,22:59,.421,.364,4.7,18.1,11.6,0.0,0.0,3.5,14.4,29.3,73,89,3.7,-4.2,Stromile Swift
+2003-12-16,24-025,MEM,HOME,SAC,W (+5),0,21:05,.435,.400,14.6,36.4,25.1,0.0,0.0,0.0,0.0,25.8,105,104,6.2,-8.4,Stromile Swift
+2003-12-19,24-028,MEM,HOME,MIA,W (+14),0,24:35,.661,.667,5.6,29.8,19.3,6.7,4.6,9.0,9.9,19.8,125,79,14.0,11.3,Stromile Swift
+2003-12-20,24-029,MEM,AWAY,NOH,L (-5),0,32:14,.444,.250,14.6,24.4,19.6,0.0,1.8,2.7,18.2,24.4,90,105,7.0,-7.7,Stromile Swift
+2003-12-22,24-031,MEM,AWAY,DEN,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2003-12-23,24-032,MEM,AWAY,SAC,L (-17),0,13:35,.255,.200,8.4,26.4,17.2,0.0,0.0,13.7,14.5,22.5,57,112,-0.1,-14.7,Stromile Swift
+2003-12-26,24-035,MEM,HOME,NYK,L (-4),0,15:10,.904,1.000,0.0,9.4,3.4,0.0,0.0,9.0,23.1,10.7,125,105,5.7,3.5,Stromile Swift
+2003-12-27,24-036,MEM,AWAY,DAL,L (-6),0,15:49,.296,.200,12.0,34.9,22.6,7.9,3.3,4.5,0.0,18.4,91,103,5.4,-0.5,Stromile Swift
+2003-12-29,24-038,MEM,AWAY,IND,L (-8),0,22:11,.663,.600,5.0,32.1,16.8,0.0,5.0,9.9,15.0,27.6,114,92,13.5,11.6,Stromile Swift
+2003-12-30,24-039,MEM,HOME,SEA,L (-6),0,22:20,.455,.444,18.1,10.4,14.6,0.0,2.2,17.4,9.2,19.9,102,106,9.2,1.7,Stromile Swift
+2004-01-02,24-042,MEM,HOME,UTA,W (+12),0,16:20,.709,.667,14.5,8.4,11.7,24.4,0.0,5.2,11.4,25.9,140,109,10.4,11.1,Stromile Swift
+2004-01-03,24-043,MEM,HOME,ORL,W (+9),0,28:52,.643,.600,21.8,38.5,30.7,0.0,0.0,5.4,21.6,20.8,112,108,13.5,-0.5,Stromile Swift
+2004-01-09,24-049,MEM,AWAY,SEA,L (-6),0,13:52,.500,.500,18.9,12.7,16.3,0.0,0.0,0.0,11.1,28.6,108,138,2.3,-17.1,Stromile Swift
+2004-01-11,24-051,MEM,AWAY,LAC,W (+1),0,22:42,.758,.727,19.8,6.2,12.8,19.6,2.5,9.2,5.9,36.2,153,114,24.2,22.8,Stromile Swift
+2004-01-12,24-052,MEM,AWAY,GSW,W (+2),0,21:23,.530,.545,4.9,17.6,11.6,0.0,0.0,6.0,7.0,31.2,102,106,9.4,0.6,Stromile Swift
+2004-01-15,24-055,MEM,HOME,CHI,W (+15),0,12:36,.451,.333,17.8,9.3,13.6,0.0,0.0,5.8,0.0,27.0,115,104,4.4,-7.2,Stromile Swift
+2004-01-17,24-057,MEM,AWAY,PHI,W (+4),0,18:05,.370,.200,5.9,6.3,6.1,8.2,2.8,0.0,22.8,21.6,72,96,1.8,-8.8,Stromile Swift
+2004-01-19,24-059,MEM,HOME,HOU,W (+5),0,14:20,.258,.000,7.3,15.6,11.3,0.0,0.0,11.2,34.0,18.2,50,99,-0.6,-14.5,Stromile Swift
+2004-01-21,24-061,MEM,HOME,LAL,W (+6),0,17:40,.387,.333,0.0,32.0,17.5,8.5,3.1,4.2,0.0,11.2,89,78,4.7,3.5,Stromile Swift
+2004-01-23,24-063,MEM,HOME,SAC,W (+14),0,13:23,.000,.000,9.0,7.0,7.9,0.0,0.0,19.7,25.0,14.5,23,101,-1.3,-14.8,Stromile Swift
+2004-01-25,24-065,MEM,HOME,DEN,W (+18),0,16:08,.901,.857,16.2,23.1,19.7,13.0,3.3,4.0,26.5,32.6,126,89,13.8,14.8,Stromile Swift
+2004-01-28,24-068,MEM,HOME,POR,L (-12),0,16:40,.410,.375,10.9,20.9,15.3,0.0,0.0,4.5,9.3,29.4,85,101,4.4,-2.8,Stromile Swift
+2004-01-30,24-070,MEM,HOME,UTA,L (-6),0,22:39,.635,.714,19.0,28.2,23.9,0.0,2.6,10.8,20.2,23.3,100,93,10.2,8.0,Stromile Swift
+2004-01-31,24-071,MEM,AWAY,DET,L (-2),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Stromile Swift
+2004-02-02,24-073,MEM,HOME,GSW,W (+5),0,15:40,.580,.500,17.1,26.7,22.5,0.0,0.0,4.2,20.5,27.4,104,106,5.7,-5.2,Stromile Swift
+2004-02-04,24-075,MEM,AWAY,WAS,W (+2),0,15:25,.460,.400,15.0,0.0,6.9,9.1,3.2,8.7,15.5,17.8,101,106,4.2,-3.8,Stromile Swift
+2004-02-06,24-077,MEM,HOME,MIL,W (+20),0,15:41,.256,.125,15.8,17.0,16.5,0.0,0.0,0.0,0.0,27.1,77,93,0.9,-16.1,Stromile Swift
+2004-02-08,24-079,MEM,AWAY,MIN,W (+1),0,16:23,.474,.462,8.1,24.2,16.1,0.0,0.0,4.0,0.0,41.8,95,107,8.0,-3.6,Stromile Swift
+2004-02-09,24-080,MEM,AWAY,DEN,L (-3),0,16:22,.444,.429,14.6,12.5,13.5,10.7,0.0,8.0,11.3,25.3,93,94,5.2,1.9,Stromile Swift
+2004-02-11,24-082,MEM,HOME,LAC,W (+8),0,14:23,1.020,1.000,0.0,39.0,21.2,16.4,3.8,9.1,0.0,19.8,213,92,13.5,21.9,Stromile Swift
+2004-02-17,24-088,MEM,HOME,DAL,W (+17),0,23:22,.682,.636,9.3,19.0,14.6,17.8,2.2,4.9,13.2,28.3,126,91,16.6,11.7,Stromile Swift
+2004-02-20,24-091,MEM,HOME,PHO,W (+5),0,25:02,.604,.455,20.4,7.7,13.9,0.0,0.0,2.5,6.6,24.6,133,101,14.3,2.9,Stromile Swift
+2004-02-21,24-092,MEM,AWAY,CHI,W (+7),0,5:59,.694,.500,19.0,0.0,9.3,0.0,0.0,0.0,0.0,21.3,157,111,3.3,1.7,Stromile Swift
+2004-02-23,24-094,MEM,HOME,DEN,W (+3),0,20:05,.571,.571,6.2,17.5,12.8,0.0,0.0,0.0,12.5,17.9,104,113,5.2,-4.2,Stromile Swift
+2004-02-25,24-096,MEM,HOME,GSW,L (-7),0,15:27,.167,.167,0.0,7.1,3.5,11.1,0.0,5.1,0.0,17.2,46,115,-0.5,-10.9,Stromile Swift
+2004-02-27,24-098,MEM,AWAY,MIL,L (-2),0,17:16,.460,.400,17.1,7.1,11.6,0.0,0.0,11.6,15.5,17.6,100,111,3.5,-5.1,Stromile Swift
+2004-02-28,24-099,MEM,HOME,NOH,W (+5),0,14:32,.250,.250,0.0,17.1,10.1,0.0,0.0,8.4,0.0,12.4,55,98,1.9,-5.0,Stromile Swift
+2004-03-01,24-101,MEM,AWAY,SAS,W (+1),0,17:15,.460,.400,0.0,24.2,10.1,11.1,0.0,0.0,15.5,17.9,85,95,2.1,-4.2,Stromile Swift
+2004-03-03,24-103,MEM,AWAY,POR,W (+9),0,18:42,.276,.200,0.0,10.3,6.0,0.0,2.8,9.7,15.5,16.7,48,93,1.4,-7.7,Stromile Swift
+2004-03-06,24-106,MEM,AWAY,LAC,W (+6),0,15:50,.846,.750,7.0,7.7,7.3,25.0,3.2,4.5,27.3,20.3,128,96,8.3,9.5,Stromile Swift
+2004-03-07,24-107,MEM,AWAY,GSW,W (+10),0,19:51,.500,.500,13.0,15.3,14.3,0.0,5.5,3.6,0.0,14.4,120,88,7.2,4.6,Stromile Swift
+2004-03-09,24-109,MEM,HOME,SAS,W (+6),0,24:18,.510,.500,15.1,16.7,15.7,0.0,6.6,14.8,20.3,27.0,91,83,12.3,5.6,Stromile Swift
+2004-03-12,24-112,MEM,HOME,LAC,W (+9),0,25:33,.415,.286,4.3,11.5,8.1,6.2,2.1,0.0,29.3,24.1,69,99,0.0,-15.1,Stromile Swift
+2004-03-13,24-113,MEM,AWAY,HOU,L (-8),0,29:35,.625,.538,10.4,5.0,8.2,0.0,0.0,0.0,6.2,25.3,129,114,12.1,2.6,Stromile Swift
+2004-03-16,24-116,MEM,HOME,PHI,W (+3),0,15:40,.425,.400,14.3,7.7,11.1,0.0,9.6,13.8,25.4,21.5,73,66,6.3,6.4,Stromile Swift
+2004-03-18,24-118,MEM,HOME,SEA,L (-3),0,17:37,.505,.455,11.9,8.6,10.5,12.3,3.0,10.5,7.8,31.3,111,104,9.3,4.4,Stromile Swift
+2004-03-20,24-120,MEM,HOME,IND,W (+4),0,23:04,.679,.556,6.0,25.5,16.5,7.6,9.5,6.2,7.4,29.1,135,86,18.4,16.4,Stromile Swift
+2004-03-23,24-123,MEM,HOME,TOR,W (+9),0,32:08,.615,.571,20.9,18.4,19.5,0.0,1.7,2.4,5.5,26.4,133,95,20.2,8.7,Stromile Swift
+2004-03-24,24-124,MEM,AWAY,NYK,W (+14),0,31:33,.526,.500,0.0,15.4,7.2,0.0,4.7,9.7,0.0,17.7,110,92,14.2,5.8,Stromile Swift
+2004-03-26,24-126,MEM,HOME,HOU,W (+23),0,29:54,.535,.500,11.4,31.1,20.5,6.1,1.8,5.4,10.1,30.0,109,93,15.1,0.3,Stromile Swift
+2004-03-28,24-128,MEM,AWAY,TOR,W (+6),0,24:40,.694,.667,11.8,4.8,7.9,0.0,4.5,0.0,23.6,34.9,105,98,12.6,2.5,Stromile Swift
+2004-03-29,24-129,MEM,AWAY,ATL,W (+3),0,17:29,.329,.125,0.0,0.0,0.0,0.0,0.0,0.0,8.6,29.8,71,130,-0.8,-21.5,Stromile Swift
+2004-04-02,24-133,MEM,HOME,PHO,W (+10),0,17:13,.533,.556,26.3,34.4,30.3,0.0,2.9,3.9,16.2,32.8,98,95,8.3,-5.4,Stromile Swift
+2004-04-04,24-135,MEM,AWAY,MIN,L (-8),0,6:10,.000,.000,0.0,17.0,8.5,0.0,0.0,0.0,20.0,40.9,0,110,-3.5,-38.9,Stromile Swift
+2004-04-05,24-136,MEM,AWAY,UTA,L (-11),1,26:18,.654,.667,0.0,11.5,6.5,8.5,2.2,5.4,30.4,20.0,81,109,6.6,-0.7,Stromile Swift
+2004-04-07,24-138,MEM,HOME,CLE,W (+18),1,21:37,.429,.429,9.3,10.1,9.7,9.3,2.5,0.0,12.5,16.6,91,87,4.6,-2.9,Stromile Swift
+2004-04-09,24-140,MEM,AWAY,LAL,L (-8),1,26:06,.317,.286,12.6,6.2,10.0,5.2,1.9,0.0,11.3,14.8,81,111,2.4,-6.1,Stromile Swift
+2004-04-11,24-142,MEM,AWAY,PHO,L (-6),1,28:47,.346,.294,19.5,18.4,19.0,0.0,1.8,5.4,9.6,30.2,80,92,6.9,-4.0,Stromile Swift
+2004-04-13,24-144,MEM,AWAY,DAL,L (-7),0,15:06,.532,.000,0.0,16.2,7.5,8.1,0.0,4.6,21.0,12.6,104,115,3.2,-2.7,Stromile Swift
+2004-04-14,24-145,MEM,HOME,MIN,L (-17),0,15:34,.508,.429,7.6,22.9,13.7,0.0,0.0,0.0,0.0,25.0,112,130,4.8,-5.2,Stromile Swift
+2006-11-07,26-351,MEM,HOME,HOU,L (-6),0,22:49,.524,.462,0.0,11.7,5.4,0.0,2.5,0.0,12.3,33.8,96,99,6.3,-1.2,Stromile Swift
+2006-11-11,26-355,MEM,AWAY,PHO,L (-9),1,19:37,.379,.364,0.0,9.6,5.2,0.0,0.0,5.1,0.0,27.0,78,102,2.2,-5.7,Stromile Swift
+2006-11-12,26-356,MEM,AWAY,LAL,L (-10),1,31:42,.302,.286,10.3,15.5,12.8,13.8,0.0,7.1,16.8,26.2,66,98,3.4,-8.2,Stromile Swift
+2006-11-15,26-359,MEM,AWAY,SAC,L (-4),1,31:21,.727,.667,9.0,7.3,8.1,5.1,0.0,0.0,22.5,19.7,120,126,10.0,-3.8,Stromile Swift
+2006-11-17,26-361,MEM,HOME,DAL,L (-12),1,31:50,.671,.615,8.9,17.1,13.5,0.0,0.0,4.8,16.1,27.6,117,127,14.8,0.5,Stromile Swift
+2006-11-18,26-362,MEM,AWAY,DAL,L (-5),1,16:47,.347,.333,0.0,20.4,7.2,11.8,0.0,5.7,31.6,17.8,53,103,-0.7,-8.7,Stromile Swift
+2006-11-20,26-364,MEM,HOME,ORL,W (+9),1,13:59,.363,.333,7.5,16.7,11.8,0.0,0.0,0.0,22.5,30.4,63,101,0.1,-17.3,Stromile Swift
+2006-11-21,27-000,MEM,AWAY,CLE,L (-3),1,24:10,.425,.400,20.9,13.2,17.5,7.6,0.0,3.7,0.0,23.7,115,119,6.6,-7.3,Stromile Swift
+2006-11-24,27-003,MEM,HOME,WAS,W (+15),1,29:33,.352,.308,15.5,19.5,17.7,0.0,5.4,2.3,6.0,27.6,82,77,8.8,-2.4,Stromile Swift
+2006-11-25,27-004,MEM,AWAY,HOU,L (-9),1,20:49,.255,.200,15.0,5.6,10.6,0.0,0.0,4.8,20.3,34.5,53,103,-2.5,-20.1,Stromile Swift
+2006-11-28,27-007,MEM,AWAY,DEN,W (+12),1,22:05,.470,.429,24.7,33.4,28.8,0.0,0.0,0.0,11.8,16.7,112,101,6.8,-5.1,Stromile Swift
+2006-11-29,27-008,MEM,AWAY,LAC,L (-15),1,24:31,.592,.600,14.3,28.8,20.9,0.0,4.6,3.1,30.7,18.9,92,113,6.6,-3.3,Stromile Swift
+2006-12-02,27-011,MEM,HOME,MIA,L (-1),1,23:34,.466,.500,5.1,17.0,10.7,0.0,0.0,14.8,13.4,15.2,88,105,4.0,-4.0,Stromile Swift
+2006-12-04,27-013,MEM,AWAY,NYK,L (-8),1,27:04,.651,.556,0.0,11.1,4.7,0.0,4.0,0.0,15.7,22.6,106,105,8.7,-0.6,Stromile Swift
+2006-12-06,27-015,MEM,AWAY,BOS,W (+2),1,13:28,.615,.500,0.0,23.0,10.8,0.0,0.0,14.3,0.0,17.7,132,107,4.8,0.7,Stromile Swift
+2006-12-09,27-018,MEM,HOME,LAC,L (-7),0,15:27,.824,1.000,0.0,15.9,7.9,12.5,3.4,0.0,35.5,17.7,109,95,4.0,0.7,Stromile Swift
+2006-12-11,27-020,MEM,AWAY,NJN,L (-13),0,22:51,.635,.571,0.0,26.3,12.8,0.0,2.3,3.9,11.3,18.1,109,107,7.7,-2.1,Stromile Swift
+2006-12-13,27-022,MEM,HOME,POR,L (-6),1,30:40,.354,.333,8.0,9.5,8.7,11.5,1.9,3.0,9.2,17.9,84,102,4.8,-2.3,Stromile Swift
+2006-12-18,27-027,MEM,HOME,SEA,W (+8),0,13:58,.595,.600,0.0,9.4,4.9,0.0,0.0,5.7,0.0,19.9,118,115,4.9,-2.4,Stromile Swift
+2006-12-20,27-029,MEM,AWAY,SAS,L (-7),0,22:15,.429,.429,0.0,14.4,7.0,0.0,7.6,5.3,12.5,18.2,79,109,5.2,-0.4,Stromile Swift
+2006-12-22,27-031,MEM,AWAY,NOK,L (-3),0,14:55,.363,.333,7.9,14.5,11.3,0.0,0.0,0.0,12.7,28.0,72,112,1.1,-14.7,Stromile Swift
+2006-12-30,27-039,MEM,HOME,TOR,W (+6),0,34:05,.615,.500,14.1,34.3,24.3,0.0,1.4,5.5,24.7,20.5,104,98,13.4,-0.3,Stromile Swift
+2006-12-31,27-040,MEM,AWAY,HOU,L (-2),0,30:04,.604,.556,23.5,11.6,16.1,4.8,0.0,0.0,8.5,17.7,134,122,11.1,-2.0,Stromile Swift
+2007-01-03,27-043,MEM,HOME,GSW,W (+9),0,34:36,.647,.647,12.9,14.2,13.6,7.4,4.0,10.1,13.0,26.6,123,120,24.6,1.3,Stromile Swift
+2007-01-05,27-045,MEM,HOME,BOS,L (-9),0,25:14,.670,.667,0.0,31.7,17.6,0.0,0.0,2.9,21.1,24.2,98,124,7.4,-9.0,Stromile Swift
+2007-01-07,27-047,MEM,HOME,SAS,L (-14),0,26:07,.508,.429,0.0,11.9,4.9,0.0,1.9,7.8,11.3,15.8,93,113,5.1,-4.0,Stromile Swift
+2007-01-09,27-049,MEM,HOME,LAL,W (+10),0,18:43,.339,.333,12.2,16.4,14.4,0.0,0.0,8.7,8.8,22.8,79,110,3.0,-11.2,Stromile Swift
+2007-01-20,27-060,MEM,AWAY,LAC,L (-21),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2007-02-03,27-074,MEM,HOME,IND,L (-6),0,17:33,.333,.333,12.7,26.0,19.3,0.0,2.8,3.6,40.0,13.1,65,112,2.2,-8.4,Stromile Swift
+2007-02-06,27-077,MEM,HOME,HOU,L (-8),0,6:54,1.000,1.000,0.0,17.8,8.2,0.0,0.0,0.0,0.0,13.3,200,115,3.7,9.2,Stromile Swift
+2007-02-07,27-078,MEM,AWAY,DAL,L (-16),0,1:34,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27.5,0,131,-0.7,-32.3,Stromile Swift
+2007-02-10,27-081,MEM,AWAY,NOK,L (-15),0,3:38,.000,.000,0.0,71.4,33.0,0.0,0.0,0.0,0.0,12.9,0,115,-0.1,-13.6,Stromile Swift
+2007-02-20,27-091,MEM,AWAY,SEA,L (-16),1,11:32,.333,.333,0.0,38.5,21.0,0.0,0.0,0.0,40.0,17.4,37,106,-1.0,-15.2,Stromile Swift
+2007-02-21,27-092,MEM,AWAY,GSW,L (-3),1,4:38,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.9,0,110,-1.1,-16.2,Stromile Swift
+2007-03-02,27-101,MEM,AWAY,PHI,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2007-03-07,27-106,MEM,AWAY,TOR,L (-7),0,4:43,.000,.000,47.3,29.9,39.6,0.0,0.0,0.0,66.7,28.3,31,105,-1.0,-27.8,Stromile Swift
+2007-03-09,27-108,MEM,AWAY,ATL,L (-1),0,31:31,.638,.600,15.2,31.2,23.6,0.0,4.8,8.1,0.0,16.3,147,94,19.7,9.4,Stromile Swift
+2007-03-10,27-109,MEM,AWAY,CHA,W (+8),0,17:29,.846,.750,0.0,11.7,7.0,0.0,0.0,12.7,0.0,13.5,178,103,8.1,6.2,Stromile Swift
+2007-03-12,27-111,MEM,HOME,NJN,L (-11),0,17:31,.460,.400,34.3,31.9,33.0,0.0,2.9,4.1,8.4,30.8,107,109,9.1,-2.9,Stromile Swift
+2007-03-14,27-113,MEM,HOME,CLE,L (-22),0,24:44,.698,.714,4.0,5.2,4.6,7.1,0.0,6.0,11.3,15.8,127,130,9.0,1.3,Stromile Swift
+2007-03-17,27-116,MEM,HOME,CHI,W (+1),0,6:32,,,0.0,0.0,0.0,0.0,0.0,11.0,100.0,6.5,0,105,-2.3,-19.1,Stromile Swift
+2007-03-20,27-119,MEM,HOME,NOK,L (-11),0,13:00,.667,.667,23.1,0.0,12.3,0.0,0.0,6.6,25.0,14.4,116,131,2.6,-7.6,Stromile Swift
+2007-03-22,27-121,MEM,HOME,LAL,L (-2),0,5:34,1.064,1.000,26.1,20.5,23.0,24.4,0.0,0.0,34.7,22.3,152,121,2.0,-4.0,Stromile Swift
+2007-03-24,27-123,MEM,AWAY,UTA,L (-10),0,15:04,.347,.250,8.2,35.4,22.8,0.0,3.3,20.2,14.8,20.2,72,95,5.3,1.5,Stromile Swift
+2007-03-26,27-125,MEM,AWAY,PHO,L (-18),0,9:41,.000,.000,11.5,34.2,20.7,0.0,0.0,0.0,0.0,4.8,56,119,-0.6,-13.3,Stromile Swift
+2007-03-27,27-126,MEM,AWAY,LAL,W (+2),0,21:35,.200,.200,5.4,22.6,15.6,6.4,0.0,14.8,0.0,10.5,63,83,4.9,0.0,Stromile Swift
+2007-03-29,27-128,MEM,AWAY,POR,W (+4),0,15:04,.840,.667,25.2,42.5,34.5,0.0,0.0,0.0,29.6,20.9,131,98,7.4,0.0,Stromile Swift
+2007-03-30,27-129,MEM,AWAY,SEA,L (-27),0,24:01,.222,.222,15.4,23.5,19.2,0.0,2.2,0.0,30.8,24.1,46,131,-2.4,-23.2,Stromile Swift
+2007-04-01,27-131,MEM,AWAY,GSW,L (-5),0,12:29,.840,.667,9.2,36.6,22.9,0.0,0.0,0.0,17.4,19.3,146,123,7.2,2.1,Stromile Swift
+2007-04-03,27-133,MEM,HOME,PHO,L (-5),0,15:54,.735,.667,7.2,21.6,14.4,0.0,0.0,0.0,0.0,12.6,162,120,6.1,0.4,Stromile Swift
+2007-04-06,27-136,MEM,HOME,GSW,L (-12),0,10:40,.500,.500,13.2,12.2,12.7,15.3,4.3,0.0,60.0,20.2,57,107,-0.1,-9.2,Stromile Swift
+2007-04-07,27-137,MEM,AWAY,ORL,L (-27),1,18:01,.222,.000,12.1,32.3,20.8,0.0,0.0,0.0,12.9,19.4,59,125,-1.3,-17.8,Stromile Swift
+2007-04-10,27-140,MEM,HOME,SAC,L (-12),0,25:10,.583,.583,8.7,9.5,9.1,0.0,4.1,5.8,0.0,22.3,118,114,12.6,4.0,Stromile Swift
+2007-04-14,27-144,MEM,HOME,DEN,W (+15),0,17:52,.615,.500,21.8,22.4,22.1,7.2,2.6,13.9,0.0,22.2,153,108,13.2,5.2,Stromile Swift
+2007-04-16,27-146,MEM,HOME,SAS,W (+10),0,19:12,.587,.400,0.0,11.1,6.4,0.0,0.0,3.6,10.5,24.7,112,107,5.6,-5.9,Stromile Swift
+2007-04-18,27-148,MEM,AWAY,MIN,W (+22),0,15:24,.643,.600,26.7,11.1,17.1,11.4,0.0,7.8,0.0,31.0,149,101,13.0,7.0,Stromile Swift
+2007-10-31,27-344,MEM,HOME,SAS,L (-3),0,13:03,.420,.333,17.9,8.6,13.1,0.0,0.0,5.7,17.4,20.6,90,109,2.1,-9.8,Stromile Swift
+2007-11-03,27-347,MEM,HOME,IND,L (-10),0,11:07,.769,.667,0.0,21.1,11.2,18.5,0.0,0.0,27.8,26.9,114,115,4.0,-3.8,Stromile Swift
+2007-11-09,27-353,MEM,AWAY,POR,L (-12),0,14:24,.500,.500,13.3,45.0,26.8,0.0,0.0,4.8,25.0,23.9,83,109,4.2,-5.2,Stromile Swift
+2007-11-10,27-354,MEM,AWAY,UTA,L (-24),0,12:23,.773,.667,0.0,36.9,19.1,0.0,0.0,4.7,0.0,14.0,160,112,6.2,6.3,Stromile Swift
+2007-11-13,27-357,MEM,HOME,HOU,W (+6),0,14:06,.820,.750,9.5,15.5,12.8,0.0,0.0,5.3,17.0,19.1,137,105,6.2,3.2,Stromile Swift
+2007-11-14,27-358,MEM,AWAY,MIL,L (-3),0,14:55,.515,.333,0.0,13.7,7.3,0.0,0.0,0.0,0.0,12.2,121,117,1.7,-11.1,Stromile Swift
+2007-11-16,27-360,MEM,HOME,NOH,L (-2),0,24:57,.694,.600,5.2,9.2,7.3,5.4,2.1,5.9,0.0,13.8,154,114,10.9,5.9,Stromile Swift
+2007-11-17,27-361,MEM,AWAY,DAL,L (-3),0,17:42,.514,.429,18.9,18.9,18.9,8.8,0.0,7.3,18.6,26.0,102,108,7.6,0.1,Stromile Swift
+2007-11-19,27-363,MEM,HOME,SEA,W (+17),1,24:28,.685,.714,14.7,9.1,11.8,27.6,2.0,2.5,5.4,32.6,139,112,20.8,7.3,Stromile Swift
+2007-11-21,28-000,MEM,HOME,TOR,L (-6),1,26:28,.455,.455,16.1,13.7,14.8,0.0,0.0,2.6,15.4,22.9,88,105,5.4,-7.5,Stromile Swift
+2007-11-23,28-002,MEM,AWAY,SAS,L (-13),0,21:02,.370,.200,10.1,21.7,15.7,0.0,0.0,3.0,22.8,19.6,71,104,2.8,-7.2,Stromile Swift
+2007-11-24,28-003,MEM,HOME,WAS,W (+6),0,11:38,.902,1.000,11.8,0.0,5.2,0.0,4.1,0.0,34.0,21.8,107,117,5.0,-1.0,Stromile Swift
+2007-11-27,28-006,MEM,AWAY,NJN,W (+7),0,13:22,.615,.500,0.0,25.1,12.8,0.0,0.0,18.0,17.0,21.1,96,94,4.8,-2.0,Stromile Swift
+2007-11-28,28-007,MEM,AWAY,TOR,L (-12),0,13:42,.857,.857,15.2,9.2,12.5,0.0,0.0,10.6,12.5,28.3,142,112,11.6,16.2,Stromile Swift
+2007-12-01,28-010,MEM,HOME,MIN,W (+29),0,22:57,.573,.500,19.0,25.1,22.3,13.3,0.0,13.1,0.0,27.4,136,77,17.8,8.4,Stromile Swift
+2007-12-03,28-012,MEM,HOME,POR,L (-1),0,18:13,.667,.667,6.6,6.6,6.6,15.2,0.0,4.2,50.0,14.9,81,121,1.6,-8.1,Stromile Swift
+2007-12-05,28-014,MEM,AWAY,HOU,L (-13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2007-12-11,28-020,MEM,HOME,DET,L (-10),0,11:22,.258,.333,20.6,10.8,15.8,12.9,0.0,6.4,0.0,15.5,91,120,1.8,-4.3,Stromile Swift
+2007-12-14,28-023,MEM,HOME,LAC,L (-7),0,22:30,.291,.167,5.1,36.3,21.6,7.1,2.2,5.9,12.7,14.8,71,88,4.2,-2.0,Stromile Swift
+2007-12-15,28-024,MEM,AWAY,ORL,W (+4),0,10:12,.798,1.000,0.0,11.5,6.0,11.7,9.6,0.0,34.7,12.7,108,105,3.1,1.8,Stromile Swift
+2007-12-17,28-026,MEM,HOME,GSW,L (-8),0,20:38,.658,.667,0.0,45.4,21.4,7.7,0.0,0.0,9.2,22.2,116,117,10.0,1.3,Stromile Swift
+2007-12-19,28-028,MEM,HOME,SAS,W (+3),0,23:04,.525,.333,0.0,0.0,0.0,0.0,2.4,7.1,38.7,16.4,65,98,1.1,-8.5,Stromile Swift
+2007-12-21,28-030,MEM,AWAY,DET,L (-27),0,12:06,.714,1.000,9.0,8.8,8.9,24.7,4.5,0.0,19.2,20.0,117,102,5.5,11.9,Stromile Swift
+2007-12-22,28-031,MEM,HOME,PHI,L (-2),1,17:21,.425,.400,7.5,20.7,14.4,17.6,0.0,0.0,33.8,23.7,74,111,0.3,-11.6,Stromile Swift
+2007-12-26,28-035,MEM,HOME,NOH,L (-18),1,18:05,.507,.500,7.0,22.1,14.3,0.0,2.9,4.8,0.0,22.5,114,121,7.1,-0.5,Stromile Swift
+2007-12-28,28-037,MEM,HOME,HOU,L (-20),0,21:00,.388,.333,18.7,16.3,17.6,0.0,0.0,10.1,7.2,29.6,86,105,6.4,-3.2,Stromile Swift
+2007-12-30,28-039,MEM,AWAY,SAS,L (-24),0,7:11,.174,.000,15.5,0.0,8.6,0.0,0.0,0.0,0.0,19.5,60,132,-0.1,-16.8,Stromile Swift
+2008-01-02,28-042,MEM,AWAY,IND,W (+18),0,24:10,.322,.333,5.2,9.8,8.0,18.6,2.1,3.2,34.0,22.6,57,79,0.2,-8.8,Stromile Swift
+2008-01-04,28-044,MEM,AWAY,BOS,L (-4),0,9:36,.291,.167,22.2,0.0,12.2,0.0,0.0,0.0,0.0,33.0,81,115,1.2,-14.9,Stromile Swift
+2008-01-06,28-046,MEM,HOME,MIA,W (+7),0,15:47,.667,.667,0.0,6.6,3.8,0.0,0.0,4.4,25.0,11.8,92,105,2.3,-5.0,Stromile Swift
+2008-01-08,28-048,MEM,HOME,LAL,L (-16),0,13:35,.750,.750,6.9,9.1,7.9,0.0,0.0,4.5,20.0,14.7,119,116,5.1,0.9,Stromile Swift
+2008-01-18,28-058,MEM,HOME,SEA,W (+24),0,14:55,.600,.600,0.0,24.3,12.9,7.6,0.0,4.0,16.7,16.3,104,97,4.5,-4.0,Stromile Swift
+2008-01-19,28-059,MEM,AWAY,CHA,L (-18),0,7:45,,,0.0,0.0,0.0,0.0,0.0,9.1,,0.0,0,114,0.7,-3.7,Stromile Swift
+2008-01-21,28-061,MEM,HOME,CHI,W (+14),0,8:10,1.000,1.000,17.8,20.6,19.6,0.0,0.0,7.9,0.0,17.9,204,95,6.3,14.2,Stromile Swift
+2008-01-23,28-063,MEM,HOME,ORL,L (-27),0,15:36,.538,.571,30.8,18.6,25.3,0.0,0.0,0.0,0.0,23.7,127,137,6.1,-3.2,Stromile Swift
+2008-01-28,28-068,MEM,HOME,DAL,L (-19),0,1:45,1.000,1.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,59.0,65,122,0.3,-18.1,Stromile Swift
+2008-01-30,28-070,MEM,HOME,DEN,L (-4),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Stromile Swift
+2008-02-08,28-079,NJN,AWAY,CHA,W (+14),0,2:39,1.000,1.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.2,200,107,1.7,9.2,Stromile Swift
+2008-02-10,28-081,NJN,HOME,DAL,W (+19),0,1:46,1.000,1.000,0.0,52.2,30.9,0.0,0.0,40.6,0.0,27.3,200,53,2.7,50.2,Stromile Swift
+2008-02-12,28-083,NJN,HOME,MIN,W (+4),0,9:04,.500,.500,0.0,10.4,5.3,0.0,0.0,0.0,20.0,25.0,74,104,0.9,-13.1,Stromile Swift
+2008-02-13,28-084,NJN,AWAY,TOR,L (-18),0,19:29,.667,.667,14.1,29.0,21.4,11.6,0.0,0.0,0.0,23.8,133,124,10.2,1.4,Stromile Swift
+2008-02-23,28-094,NJN,HOME,IND,W (+11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2008-02-28,28-099,NJN,HOME,MIL,W (+14),0,19:17,.286,.286,11.1,32.8,21.0,6.4,0.0,3.6,12.5,18.3,82,113,1.2,-15.3,Stromile Swift
+2008-03-02,28-102,NJN,HOME,SAS,L (-10),0,8:49,.500,.500,0.0,24.7,11.7,0.0,0.0,7.7,33.3,15.9,64,100,0.5,-7.0,Stromile Swift
+2008-03-04,28-104,NJN,AWAY,SAS,L (-11),0,11:12,.000,.000,9.7,8.6,9.1,0.0,0.0,0.0,0.0,4.6,52,102,0.3,-7.3,Stromile Swift
+2008-03-05,28-105,NJN,AWAY,MEM,L (-7),0,5:09,.000,.000,22.7,45.5,34.1,50.4,0.0,0.0,50.0,17.9,63,103,0.6,-2.3,Stromile Swift
+2008-03-07,28-107,NJN,AWAY,NOH,L (-11),0,5:11,.500,.500,0.0,81.7,37.0,0.0,0.0,15.4,0.0,18.0,100,98,2.6,6.4,Stromile Swift
+2008-03-10,28-110,NJN,AWAY,HOU,L (-18),0,13:14,.481,.333,6.4,30.2,15.6,0.0,4.1,13.4,0.0,17.7,112,86,6.1,9.1,Stromile Swift
+2008-03-15,28-115,NJN,HOME,UTA,W (+2),0,16:48,.133,.000,16.8,13.3,14.8,0.0,3.2,0.0,21.0,12.0,49,124,-0.4,-12.1,Stromile Swift
+2008-03-18,28-118,NJN,AWAY,CHI,L (-16),0,14:50,.800,.800,0.0,23.7,11.7,0.0,0.0,4.5,0.0,15.6,153,119,7.7,5.7,Stromile Swift
+2008-03-19,28-119,NJN,HOME,ATL,W (+8),0,8:00,.000,.000,0.0,0.0,0.0,0.0,0.0,9.7,0.0,6.0,0,130,-0.8,-13.0,Stromile Swift
+2008-03-21,28-121,NJN,HOME,DEN,L (-11),0,7:29,.694,.500,35.6,0.0,16.0,0.0,0.0,0.0,25.8,21.7,124,127,3.0,-6.3,Stromile Swift
+2008-04-04,28-135,NJN,AWAY,DET,L (-19),0,27:12,.511,.444,8.6,4.6,6.7,0.0,0.0,5.6,8.5,21.0,104,126,7.2,-4.9,Stromile Swift
+2008-04-05,28-136,NJN,HOME,TOR,W (+9),0,27:10,.714,.714,4.9,20.1,13.3,0.0,2.1,0.0,12.5,14.4,122,102,7.7,-1.7,Stromile Swift
+2008-04-09,28-140,NJN,AWAY,CLE,L (-21),0,20:18,.286,.286,0.0,11.5,5.5,0.0,0.0,3.8,12.5,18.6,52,118,-1.0,-13.7,Stromile Swift
+2008-04-11,28-142,NJN,AWAY,TOR,L (-28),0,13:12,.717,.750,17.3,33.1,25.4,0.0,0.0,11.7,29.1,24.6,101,115,5.4,-1.1,Stromile Swift
+2008-04-12,28-143,NJN,AWAY,MIL,W (+13),0,23:58,.444,.444,6.9,30.3,19.4,0.0,0.0,3.5,10.0,20.3,83,107,4.0,-13.5,Stromile Swift
+2008-04-15,28-146,NJN,HOME,CHA,W (+4),0,22:28,.539,.375,5.1,20.5,12.8,0.0,0.0,9.6,0.0,21.2,116,101,10.2,-0.6,Stromile Swift
+2008-04-16,28-147,NJN,AWAY,BOS,L (-11),0,18:10,.709,.333,0.0,24.0,13.2,0.0,5.7,3.9,0.0,15.2,152,98,8.6,3.7,Stromile Swift
+2004-11-03,24-348,MEM,HOME,WAS,L (-12),1,32:58,.472,.467,9.1,16.9,12.8,11.7,1.6,9.0,11.2,22.5,99,106,12.5,2.2,Stromile Swift
+2004-11-05,24-350,MEM,HOME,HOU,L (-8),0,21:24,.398,.300,19.4,23.0,21.0,0.0,2.5,4.1,8.1,25.7,94,99,7.9,0.6,Stromile Swift
+2004-11-06,24-351,MEM,AWAY,DAL,L (-24),0,23:05,.454,.400,16.4,38.4,25.8,10.7,0.0,10.8,10.2,36.1,93,108,11.2,2.2,Stromile Swift
+2004-11-09,24-354,MEM,AWAY,HOU,L (-3),0,22:45,.611,.333,6.0,12.6,9.2,10.1,2.3,3.5,6.4,34.2,124,98,14.4,7.5,Stromile Swift
+2004-11-10,24-355,MEM,HOME,LAL,W (+23),0,25:22,.398,.300,8.0,32.0,20.0,11.6,4.3,9.8,20.9,25.2,83,81,8.3,-2.5,Stromile Swift
+2004-11-12,24-357,MEM,HOME,GSW,W (+29),0,24:24,.317,.250,21.3,18.3,19.6,0.0,0.0,7.1,12.3,27.4,77,67,4.4,-7.9,Stromile Swift
+2004-11-14,24-359,MEM,AWAY,SEA,L (-5),0,21:36,.685,.571,6.3,38.6,20.9,6.6,0.0,0.0,10.2,20.6,130,133,8.6,-3.5,Stromile Swift
+2004-11-17,24-362,MEM,AWAY,POR,W (+19),0,16:56,.486,.400,30.3,35.3,33.2,16.9,0.0,0.0,21.7,25.8,103,89,4.5,-6.3,Stromile Swift
+2004-11-19,24-364,MEM,AWAY,SAC,L (-2),0,30:39,.843,.818,4.7,11.4,8.4,6.8,0.0,2.7,12.8,23.5,149,117,17.9,9.2,Stromile Swift
+2004-11-20,24-365,MEM,AWAY,GSW,W (+13),1,31:04,.467,.353,19.2,21.9,20.7,7.1,3.1,5.0,12.3,33.4,100,84,15.2,0.5,Stromile Swift
+2004-11-22,25-001,MEM,HOME,SAS,W (+3),1,13:25,.429,.429,0.0,0.0,0.0,11.9,0.0,5.3,12.5,26.6,88,114,1.5,-7.8,Stromile Swift
+2004-11-24,25-003,MEM,HOME,SEA,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2004-11-26,25-005,MEM,AWAY,MIN,L (-25),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2004-11-27,25-006,MEM,HOME,DAL,L (-13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2004-11-30,25-009,MEM,HOME,SAC,L (-5),0,17:45,.250,.250,0.0,8.1,3.3,7.9,0.0,11.9,11.1,22.1,60,110,0.1,-11.1,Stromile Swift
+2004-12-01,25-010,MEM,AWAY,NYK,L (-8),0,18:04,.381,.286,23.7,23.2,23.4,10.0,0.0,0.0,20.2,26.9,85,104,3.4,-7.3,Stromile Swift
+2004-12-03,25-012,MEM,HOME,PHI,W (+8),0,20:52,.333,.333,0.0,14.7,8.4,0.0,0.0,6.5,0.0,14.0,72,95,2.9,-4.3,Stromile Swift
+2004-12-04,25-013,MEM,AWAY,ORL,L (-5),0,29:01,.702,.714,8.5,11.3,10.0,0.0,3.5,4.9,30.5,24.8,94,97,10.6,0.8,Stromile Swift
+2004-12-07,25-016,MEM,HOME,NYK,W (+8),0,19:28,.000,.000,7.0,22.2,15.5,0.0,0.0,23.5,60.0,13.7,15,88,0.1,-8.9,Stromile Swift
+2004-12-08,25-017,MEM,AWAY,ATL,W (+8),0,26:15,.888,.833,4.9,21.7,13.9,7.7,0.0,13.9,12.0,14.7,157,95,14.6,11.7,Stromile Swift
+2004-12-10,25-019,MEM,AWAY,MIA,L (-8),0,16:27,.436,.333,10.5,25.7,16.2,0.0,3.4,0.0,12.7,20.4,97,107,3.3,-4.7,Stromile Swift
+2004-12-11,25-020,MEM,HOME,DET,W (+4),0,18:41,.405,.333,13.0,6.8,10.0,26.0,0.0,0.0,0.0,25.7,105,91,4.4,1.5,Stromile Swift
+2004-12-13,25-022,MEM,HOME,CLE,L (-6),0,25:42,.514,.400,5.3,5.1,5.2,6.9,2.1,2.8,13.7,27.9,96,109,7.4,-3.3,Stromile Swift
+2004-12-15,25-024,MEM,HOME,CHI,L (-8),0,19:30,.250,.250,7.7,0.0,3.8,0.0,0.0,8.7,11.1,23.7,53,115,-0.9,-15.9,Stromile Swift
+2004-12-17,25-026,MEM,HOME,NJN,W (+5),0,4:44,.000,.000,0.0,22.3,11.7,0.0,0.0,0.0,50.0,19.0,0,100,-1.4,-23.9,Stromile Swift
+2004-12-19,25-028,MEM,AWAY,LAC,W (+10),0,17:09,.218,.167,5.8,34.2,17.2,0.0,3.2,4.8,22.5,23.8,44,85,-0.4,-13.3,Stromile Swift
+2004-12-20,25-029,MEM,AWAY,LAL,W (+10),0,17:12,.375,.375,17.6,32.8,24.8,0.0,0.0,12.8,0.0,22.3,100,80,4.6,-2.8,Stromile Swift
+2004-12-22,25-031,MEM,AWAY,GSW,L (-10),0,26:26,.634,.583,12.0,28.1,21.0,8.5,0.0,16.6,6.6,28.0,128,108,16.8,8.7,Stromile Swift
+2004-12-23,25-032,MEM,AWAY,PHO,L (-7),0,18:38,.307,.250,0.0,17.8,10.5,6.8,2.8,4.5,0.0,12.8,75,110,3.1,-2.5,Stromile Swift
+2004-12-27,25-036,MEM,HOME,LAC,W (+20),0,22:17,.500,.500,0.0,5.2,2.7,19.5,2.5,6.6,0.0,8.4,127,87,6.4,8.7,Stromile Swift
+2004-12-29,25-038,MEM,HOME,BOS,W (+8),0,20:21,.530,.556,17.6,7.1,12.8,0.0,2.6,17.8,9.6,23.0,108,111,10.1,1.8,Stromile Swift
+2005-01-01,25-041,MEM,AWAY,MIN,W (+9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2005-01-03,25-043,MEM,HOME,UTA,W (+10),0,14:29,.400,.400,18.0,8.4,13.0,0.0,0.0,0.0,16.7,20.6,82,101,0.8,-14.8,Stromile Swift
+2005-01-06,25-046,MEM,AWAY,DET,W (+22),0,22:32,.468,.500,6.1,20.8,14.0,7.5,0.0,4.2,14.5,29.4,84,93,4.1,-10.6,Stromile Swift
+2005-01-07,25-047,MEM,HOME,NOH,W (+8),0,14:33,.868,1.000,0.0,6.3,3.7,0.0,0.0,4.9,0.0,10.5,170,105,4.2,3.5,Stromile Swift
+2005-01-11,25-051,MEM,HOME,IND,L (-1),0,15:47,.307,.250,9.4,8.9,9.1,0.0,0.0,5.2,17.0,20.1,65,112,-0.7,-14.7,Stromile Swift
+2005-01-14,25-054,MEM,AWAY,CHA,W (+20),0,19:59,.833,.833,7.1,11.4,9.5,0.0,2.8,3.7,14.3,16.4,138,100,7.8,1.8,Stromile Swift
+2005-01-15,25-055,MEM,HOME,MIL,W (+19),0,18:47,.628,.571,11.9,15.2,13.3,10.1,0.0,4.2,10.2,26.3,124,100,8.5,-0.8,Stromile Swift
+2005-01-17,25-057,MEM,HOME,HOU,W (+19),0,25:06,.719,.667,17.5,15.2,16.2,8.5,2.3,3.6,13.8,29.7,133,94,14.7,6.1,Stromile Swift
+2005-01-19,25-059,MEM,AWAY,PHO,W (+9),0,25:28,.601,.556,4.0,10.9,7.6,9.0,2.2,8.9,14.7,24.8,109,88,11.5,7.5,Stromile Swift
+2005-01-21,25-061,MEM,AWAY,DEN,L (-10),0,17:35,.512,.375,0.0,31.4,14.6,0.0,0.0,4.0,23.5,38.5,76,110,3.3,-11.6,Stromile Swift
+2005-01-22,25-062,MEM,AWAY,UTA,W (+16),0,17:23,.533,.500,10.1,25.1,19.3,0.0,0.0,9.3,19.2,31.8,91,100,4.7,-10.0,Stromile Swift
+2005-01-25,25-065,MEM,HOME,ORL,W (+12),1,38:33,.520,.500,2.6,26.6,13.2,0.0,2.9,6.1,5.5,22.4,103,87,14.6,3.5,Stromile Swift
+2005-01-26,25-066,MEM,AWAY,CLE,L (-3),1,23:16,.556,.556,12.6,19.6,16.1,0.0,0.0,6.1,10.0,20.9,109,126,6.8,-6.7,Stromile Swift
+2005-01-29,25-069,MEM,HOME,ATL,W (+1),1,28:56,.250,.250,12.4,12.4,12.4,9.8,2.1,0.0,11.1,15.3,79,106,3.2,-6.7,Stromile Swift
+2005-01-31,25-071,MEM,AWAY,NOH,W (+7),1,35:24,.794,.625,4.8,14.0,10.1,5.5,1.6,0.0,14.3,20.0,142,109,15.8,1.6,Stromile Swift
+2005-02-01,25-072,MEM,HOME,PHO,W (+11),1,24:58,.508,.500,8.2,17.5,12.7,13.9,2.1,8.3,0.0,28.6,118,102,14.2,6.4,Stromile Swift
+2005-02-03,25-074,MEM,HOME,LAC,L (-3),1,36:53,.399,.182,10.0,8.9,9.5,11.3,1.5,9.6,5.8,22.6,104,119,10.5,-3.3,Stromile Swift
+2005-02-08,25-079,MEM,HOME,MIN,W (+12),1,23:53,.567,.600,4.5,13.3,8.1,0.0,9.3,10.9,15.9,36.3,93,93,13.9,5.9,Stromile Swift
+2005-02-09,25-080,MEM,AWAY,PHI,W (+3),1,22:52,.564,.417,4.9,16.9,10.4,8.5,2.4,3.9,16.6,36.4,105,106,10.0,-2.1,Stromile Swift
+2005-02-11,25-082,MEM,HOME,POR,W (+6),1,36:21,.593,.467,7.2,14.7,10.6,6.2,0.0,6.5,17.1,28.4,107,93,16.9,2.6,Stromile Swift
+2005-02-13,25-084,MEM,AWAY,IND,L (-3),1,26:51,.383,.300,3.6,19.5,11.2,8.2,2.2,0.0,20.3,26.3,72,92,3.3,-6.3,Stromile Swift
+2005-02-16,25-087,MEM,AWAY,BOS,L (-2),1,24:14,.660,.500,0.0,19.7,9.6,10.4,4.0,10.7,17.2,30.9,111,85,15.8,11.7,Stromile Swift
+2005-02-23,25-094,MEM,AWAY,WAS,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2005-02-25,25-096,MEM,HOME,DEN,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2005-02-26,25-097,MEM,AWAY,SAS,W (+2),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Stromile Swift
+2005-03-01,25-100,MEM,HOME,GSW,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2005-03-04,25-103,MEM,HOME,TOR,W (+11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2005-03-07,25-106,MEM,AWAY,LAC,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2005-03-08,25-107,MEM,AWAY,SAC,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2005-03-12,25-111,MEM,AWAY,POR,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2005-03-14,25-113,MEM,HOME,POR,W (+21),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2005-03-16,25-115,MEM,AWAY,NOH,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2005-03-18,25-117,MEM,HOME,MIN,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Stromile Swift
+2005-03-24,25-123,MEM,AWAY,NJN,W (+9),0,2:06,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,26.0,0,115,-1.8,-47.1,Stromile Swift
+2005-03-26,25-125,MEM,HOME,NOH,L (-11),0,7:38,.387,.333,0.0,0.0,0.0,0.0,0.0,0.0,34.0,35.3,53,119,-2.3,-30.5,Stromile Swift
+2005-03-28,25-127,MEM,AWAY,CHI,L (-8),0,15:36,.400,.400,7.5,7.3,7.4,0.0,3.4,0.0,16.7,18.1,73,106,1.5,-7.8,Stromile Swift
+2005-03-29,25-128,MEM,HOME,SEA,L (-3),0,22:41,.759,.778,6.8,10.6,9.0,0.0,0.0,7.4,9.2,25.3,138,129,11.2,2.8,Stromile Swift
+2005-04-01,25-131,MEM,AWAY,MIL,W (+11),0,15:01,.525,.333,0.0,21.4,12.5,11.6,3.8,0.0,17.4,19.7,97,82,3.3,0.3,Stromile Swift
+2005-04-11,25-141,MEM,AWAY,DAL,L (-21),0,12:21,.415,.286,0.0,0.0,0.0,15.4,4.7,0.0,9.4,40.3,89,128,2.2,-8.4,Stromile Swift
+2005-04-13,25-143,MEM,AWAY,HOU,L (-8),0,4:48,.500,.500,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.2,105,129,0.2,-14.6,Stromile Swift
+2005-04-15,25-145,MEM,AWAY,DEN,L (-9),0,12:00,.258,.333,0.0,28.6,14.0,0.0,4.0,0.0,20.5,18.1,38,103,-1.2,-16.5,Stromile Swift
+2005-04-16,25-146,MEM,AWAY,SAS,L (-22),0,21:00,.593,.500,14.3,7.6,11.7,0.0,5.1,0.0,13.7,32.3,111,106,10.8,5.9,Stromile Swift
+2005-04-18,25-148,MEM,HOME,SAS,W (+2),0,23:01,.702,.714,10.4,18.1,14.6,8.9,5.0,3.0,0.0,24.9,150,100,15.9,14.9,Stromile Swift
+2005-04-20,25-150,MEM,HOME,DAL,L (-20),0,27:48,.413,.333,13.5,5.5,9.9,7.1,2.1,2.8,13.1,27.6,88,130,5.0,-9.5,Stromile Swift

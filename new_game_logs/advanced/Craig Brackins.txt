@@ -1,0 +1,20 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+2010-11-24,23-046,PHI,AWAY,TOR,L (-16),0,10:11,.429,.429,11.5,0.0,5.9,0.0,5.2,0.0,0.0,32.2,95,113,3.2,-4.4,Craig Brackins
+2010-12-27,23-079,PHI,AWAY,GSW,L (-15),0,10:39,.250,.250,8.7,9.8,9.2,0.0,0.0,0.0,0.0,15.8,72,122,0.6,-11.1,Craig Brackins
+2011-03-12,23-154,PHI,AWAY,MIL,L (-28),0,12:00,.000,.000,0.0,11.8,5.1,12.9,0.0,0.0,0.0,19.7,13,125,-2.9,-20.7,Craig Brackins
+2011-12-28,24-080,PHI,AWAY,PHO,W (+20),0,3:06,.500,.500,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29.8,102,102,1.0,-4.5,Craig Brackins
+2011-12-31,24-083,PHI,AWAY,GSW,W (+28),0,3:11,1.500,1.500,0.0,0.0,0.0,63.0,0.0,0.0,50.0,28.8,120,99,2.0,20.8,Craig Brackins
+2012-01-06,24-089,PHI,HOME,DET,W (+23),0,2:23,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,95,0.0,-5.9,Craig Brackins
+2012-01-07,24-090,PHI,HOME,TOR,W (+35),0,2:17,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.4,0,85,-0.7,-23.8,Craig Brackins
+2012-01-10,24-093,PHI,HOME,SAC,W (+27),0,5:33,.000,.000,0.0,15.7,9.7,0.0,0.0,0.0,0.0,17.1,0,94,-1.1,-21.8,Craig Brackins
+2012-01-23,24-106,PHI,HOME,WAS,W (+20),0,1:32,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,106,0.0,-7.4,Craig Brackins
+2012-01-27,24-110,PHI,HOME,CHA,W (+17),0,6:30,.000,.000,0.0,17.6,9.0,0.0,0.0,13.4,50.0,14.9,0,80,-1.1,-15.1,Craig Brackins
+2012-01-28,24-111,PHI,HOME,DET,W (+21),0,2:51,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.6,0,98,-0.7,-24.1,Craig Brackins
+2012-03-07,24-150,PHI,HOME,BOS,W (+32),0,3:34,.333,.333,31.3,0.0,15.1,45.6,0.0,0.0,0.0,39.0,109,91,1.3,-3.3,Craig Brackins
+2012-03-27,24-170,PHI,HOME,CLE,W (+18),0,1:27,.500,.500,75.2,0.0,38.0,100.0,0.0,0.0,0.0,62.9,138,100,2.0,25.2,Craig Brackins
+2012-04-08,24-182,PHI,AWAY,BOS,L (-24),0,2:28,.174,.000,42.3,64.9,51.2,0.0,0.0,0.0,0.0,55.7,58,119,0.2,-20.5,Craig Brackins
+2012-04-17,24-191,PHI,HOME,IND,L (-5),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Craig Brackins
+2012-04-18,24-192,PHI,AWAY,CLE,W (+16),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Craig Brackins
+2012-04-23,24-197,PHI,AWAY,NJN,W (+18),0,1:01,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,113,0.0,-6.2,Craig Brackins
+2012-04-25,24-199,PHI,AWAY,MIL,W (+5),0,18:59,.167,.167,0.0,17.2,7.4,15.1,0.0,0.0,0.0,12.7,53,94,-0.3,-11.6,Craig Brackins
+2012-04-26,24-200,PHI,AWAY,DET,L (-22),1,33:08,.417,.417,5.7,15.2,9.8,15.4,0.0,0.0,14.3,19.5,90,128,5.9,-6.6,Craig Brackins

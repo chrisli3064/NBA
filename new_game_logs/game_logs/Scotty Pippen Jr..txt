@@ -1,0 +1,8 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2022-10-18,21-342,LAL,AWAY,GSW,L (-14),0,1:52,0,0,,0,0,,2,2,1.000,0,0,0,0,0,0,0,0,2,2.0,+3,Scotty Pippen Jr.
+2022-11-07,21-362,LAL,AWAY,UTA,L (-23),0,6:29,0,2,.000,0,0,,1,2,.500,1,1,2,0,0,0,1,2,1,-1.6,0,Scotty Pippen Jr.
+2022-12-19,22-039,LAL,AWAY,PHO,L (-26),0,14:30,1,5,.200,1,2,.500,1,2,.500,1,1,2,1,1,1,1,1,4,2.5,-7,Scotty Pippen Jr.
+2023-01-06,22-057,LAL,HOME,ATL,W (+16),0,1:17,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+1,Scotty Pippen Jr.
+2023-01-09,22-060,LAL,AWAY,DEN,L (-13),0,2:16,2,2,1.000,0,0,,0,1,.000,0,0,0,0,1,0,0,0,4,4.0,+2,Scotty Pippen Jr.
+2023-01-24,22-075,LAL,HOME,LAC,L (-18),0,5:07,1,2,.500,0,0,,1,2,.500,0,0,0,1,0,0,0,0,3,2.3,0,Scotty Pippen Jr.
+2023-02-09,22-091,LAL,HOME,MIL,L (-9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Scotty Pippen Jr.

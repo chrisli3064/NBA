@@ -1,0 +1,7 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2006-01-05,19-299,CLE,HOME,HOU,L (-9),0,0:32,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Martynas Andriuskevicius
+2006-02-02,19-327,CLE,AWAY,MIA,L (-28),0,2:59,0,1,.000,0,0,,0,0,,1,0,1,0,1,0,0,0,0,1.0,0,Martynas Andriuskevicius
+2006-02-10,19-335,CLE,AWAY,WAS,L (-12),0,1:23,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,+1,Martynas Andriuskevicius
+2006-02-13,19-338,CLE,HOME,SAS,W (+14),0,1:38,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1,Martynas Andriuskevicius
+2006-02-22,19-347,CLE,AWAY,PHI,L (-9),0,0:47,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2,Martynas Andriuskevicius
+2006-02-26,19-351,CLE,AWAY,DET,L (-12),0,2:04,0,0,,0,0,,0,0,,0,2,2,0,1,0,0,0,0,1.6,+9,Martynas Andriuskevicius

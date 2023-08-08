@@ -1,0 +1,6 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2000-11-10,27-094,TOR,HOME,CLE,W (+27),0,3:11,1,1,1.000,0,0,,0,0,,1,0,1,1,0,0,1,1,2,1.7,-4,Garth Joseph
+2000-12-05,27-119,TOR,AWAY,UTA,L (-14),0,5:00,0,1,.000,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.0,-4,Garth Joseph
+2001-01-12,27-157,DEN,HOME,SAC,W (+13),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Garth Joseph
+2001-01-15,27-160,DEN,HOME,SEA,W (+11),0,1:28,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-4,Garth Joseph
+2001-01-17,27-162,DEN,HOME,VAN,W (+24),0,6:04,0,2,.000,0,0,,0,2,.000,0,0,0,0,0,1,1,0,0,-2.5,+2,Garth Joseph

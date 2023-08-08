@@ -1,0 +1,6 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2002-04-20,26-241,SAS,HOME,SEA,W (+21),0,6:02,2,2,1.000,0,0,,1,2,.500,0,0,0,1,2,0,0,1,5,6.3,-9,Charles Smith
+2002-04-27,26-248,SAS,AWAY,SEA,W (+27),0,4:06,0,0,,0,0,,0,0,,0,0,0,0,0,0,2,0,0,-2.0,-2,Charles Smith
+2002-05-01,26-252,SAS,AWAY,SEA,L (-12),0,8:15,0,1,.000,0,0,,0,0,,1,1,2,1,0,1,1,4,0,-0.9,-1,Charles Smith
+2002-05-03,26-254,SAS,HOME,SEA,W (+23),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Charles Smith
+2002-05-12,26-263,SAS,HOME,LAL,L (-2),0,0:03,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.7,0,Charles Smith

@@ -1,0 +1,96 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2017-11-17,26-186,UTA,AWAY,BRK,L (-11),0,3:07,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,+5,Nate Wolters
+2017-11-18,26-187,UTA,AWAY,ORL,W (+40),0,3:36,0,1,.000,0,0,,0,0,,0,1,1,1,0,0,0,0,0,0.3,-6,Nate Wolters
+2017-11-28,26-197,UTA,HOME,DEN,W (+29),0,2:39,0,1,.000,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.0,+5,Nate Wolters
+2017-11-30,26-199,UTA,AWAY,LAC,W (+19),0,1:23,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-1,Nate Wolters
+2017-12-20,26-219,UTA,AWAY,OKC,L (-28),0,8:02,1,3,.333,0,0,,0,0,,0,0,0,0,0,0,0,0,2,0.3,0,Nate Wolters
+2014-10-31,23-169,MIL,HOME,PHI,W (+12),0,10:16,0,1,.000,0,1,.000,0,0,,0,1,1,1,0,0,0,0,0,0.3,+5,Nate Wolters
+2014-11-11,23-180,MIL,HOME,OKC,W (+7),0,17:57,3,7,.429,0,1,.000,0,0,,0,2,2,1,0,0,1,0,6,2.6,+16,Nate Wolters
+2014-11-14,23-183,MIL,AWAY,ORL,L (-16),0,17:26,2,4,.500,0,0,,0,0,,0,1,1,2,1,0,0,1,4,4.3,-8,Nate Wolters
+2014-11-16,23-185,MIL,AWAY,MIA,W (+7),0,14:46,1,2,.500,0,0,,1,3,.333,0,3,3,0,1,0,0,2,3,2.3,-2,Nate Wolters
+2014-11-21,23-190,MIL,AWAY,TOR,L (-42),0,26:57,1,7,.143,0,2,.000,0,0,,0,3,3,1,0,0,1,3,2,-3.1,-16,Nate Wolters
+2014-11-25,23-194,MIL,HOME,DET,W (+12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nate Wolters
+2014-11-26,23-195,MIL,AWAY,MIN,W (+17),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Nate Wolters
+2014-11-28,23-197,MIL,AWAY,DET,W (+16),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Nate Wolters
+2014-12-05,23-204,MIL,HOME,MIA,W (+24),0,5:23,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-1,Nate Wolters
+2014-12-07,23-206,MIL,AWAY,DAL,L (-23),0,5:42,2,2,1.000,0,0,,0,1,.000,0,0,0,0,0,0,0,0,4,3.0,-4,Nate Wolters
+2014-12-17,23-216,MIL,AWAY,POR,L (-7),0,1:55,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2,Nate Wolters
+2014-12-26,23-225,MIL,AWAY,ATL,W (+30),0,4:14,0,0,,0,0,,0,0,,0,2,2,2,0,0,0,0,0,2.0,0,Nate Wolters
+2014-12-31,23-230,MIL,AWAY,CLE,W (+16),0,16:00,2,3,.667,0,0,,0,0,,1,2,3,1,1,0,0,0,4,5.7,-6,Nate Wolters
+2015-01-07,23-237,MIL,AWAY,PHI,W (+20),0,21:03,1,5,.200,0,1,.000,0,0,,1,0,1,2,2,0,1,4,2,0.4,-7,Nate Wolters
+2015-01-16,23-246,NOP,AWAY,PHI,L (-15),0,5:46,0,0,,0,0,,0,0,,0,2,2,1,0,0,0,1,0,0.9,+4,Nate Wolters
+2015-01-18,23-248,NOP,AWAY,TOR,W (+2),0,6:59,1,3,.333,0,0,,0,0,,1,0,1,1,1,0,2,1,2,0.3,-1,Nate Wolters
+2015-01-19,23-249,NOP,AWAY,NYK,L (-7),0,7:40,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+4,Nate Wolters
+2015-01-21,23-251,NOP,HOME,LAL,W (+16),0,22:03,3,8,.375,0,1,.000,0,0,,3,3,6,1,2,0,3,2,6,3.5,+9,Nate Wolters
+2015-01-23,23-253,NOP,AWAY,MIN,W (+8),0,14:06,2,4,.500,0,0,,1,2,.500,1,1,2,1,0,0,2,0,5,2.3,+4,Nate Wolters
+2015-01-25,23-255,NOP,HOME,DAL,W (+3),0,17:56,2,4,.500,0,1,.000,0,0,,0,2,2,1,0,1,2,3,4,0.8,-5,Nate Wolters
+2015-01-26,23-256,NOP,HOME,PHI,W (+25),0,19:47,0,3,.000,0,0,,0,0,,1,3,4,3,0,1,1,0,0,1.3,+3,Nate Wolters
+2015-01-28,23-258,NOP,HOME,DEN,L (-8),0,2:45,0,2,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-1.1,-2,Nate Wolters
+2015-01-30,23-260,NOP,HOME,LAC,W (+5),0,6:54,0,1,.000,0,0,,0,0,,0,0,0,3,0,0,0,0,0,1.4,-4,Nate Wolters
+2015-02-02,23-263,NOP,HOME,ATL,W (+15),0,1:06,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,Nate Wolters
+2013-10-30,22-168,MIL,AWAY,NYK,L (-7),0,29:41,3,12,.250,1,4,.250,2,2,1.000,1,0,1,4,1,1,2,2,9,4.2,-3,Nate Wolters
+2013-11-01,22-170,MIL,AWAY,BOS,W (+7),0,29:17,5,10,.500,1,2,.500,3,3,1.000,1,1,2,6,0,0,1,1,14,12.8,+23,Nate Wolters
+2013-11-02,22-171,MIL,HOME,TOR,L (-7),1,36:28,3,8,.375,0,3,.000,1,2,.500,0,4,4,10,0,0,1,4,7,7.8,-1,Nate Wolters
+2013-11-06,22-175,MIL,HOME,CLE,W (+5),1,32:51,2,5,.400,0,1,.000,5,5,1.000,2,6,8,6,0,0,0,3,9,12.5,+7,Nate Wolters
+2013-11-09,22-178,MIL,HOME,DAL,L (-8),1,35:45,2,6,.333,0,1,.000,1,2,.500,1,2,3,5,2,1,1,2,5,6.9,-9,Nate Wolters
+2013-11-12,22-181,MIL,AWAY,MIA,L (-23),1,24:24,4,8,.500,0,2,.000,1,2,.500,1,2,3,3,3,0,0,0,9,11.0,-10,Nate Wolters
+2013-11-13,22-182,MIL,AWAY,ORL,L (-3),1,39:48,3,8,.375,0,1,.000,3,4,.750,1,2,3,3,1,0,1,2,9,6.8,+2,Nate Wolters
+2013-11-15,22-184,MIL,AWAY,IND,L (-27),1,33:36,4,11,.364,0,2,.000,0,0,,0,2,2,5,2,2,2,1,8,7.0,-1,Nate Wolters
+2013-11-16,22-185,MIL,HOME,OKC,L (-13),1,27:49,3,10,.300,0,2,.000,1,1,1.000,2,4,6,4,0,0,2,2,7,3.8,-10,Nate Wolters
+2013-11-20,22-189,MIL,HOME,POR,L (-9),0,18:13,3,5,.600,0,0,,0,2,.000,0,1,1,4,0,1,3,0,6,3.7,+1,Nate Wolters
+2013-11-22,22-191,MIL,AWAY,PHI,L (-8),0,17:37,3,5,.600,0,1,.000,1,2,.500,0,1,1,4,0,0,2,0,7,5.4,-3,Nate Wolters
+2013-11-23,22-192,MIL,HOME,CHA,L (-24),0,9:02,0,2,.000,0,0,,0,0,,0,1,1,2,0,0,1,1,0,-1.1,-3,Nate Wolters
+2013-11-25,22-194,MIL,AWAY,DET,L (-19),0,16:37,4,6,.667,0,1,.000,0,0,,0,1,1,3,0,0,0,0,8,7.8,+11,Nate Wolters
+2013-11-29,22-198,MIL,AWAY,CHA,L (-16),0,19:46,2,5,.400,0,1,.000,2,2,1.000,1,1,2,2,1,0,1,1,6,5.3,+4,Nate Wolters
+2013-12-06,22-205,MIL,AWAY,WAS,W (+4),0,17:02,2,8,.250,0,0,,0,0,,0,3,3,5,0,0,1,2,4,1.8,+4,Nate Wolters
+2013-12-07,22-206,MIL,HOME,BRK,L (-8),0,10:54,1,3,.333,0,0,,0,0,,0,1,1,2,0,0,1,0,2,1.0,+4,Nate Wolters
+2013-12-10,22-209,MIL,AWAY,CHI,W (+4),0,13:15,1,4,.250,0,0,,2,2,1.000,0,4,4,2,0,0,1,0,4,3.2,+2,Nate Wolters
+2013-12-11,22-210,MIL,HOME,SAS,L (-32),0,30:11,7,15,.467,0,2,.000,4,5,.800,0,1,1,7,2,1,2,2,18,15.0,-7,Nate Wolters
+2013-12-13,22-212,MIL,HOME,CHI,L (-1),0,18:57,2,7,.286,0,0,,1,2,.500,2,0,2,3,2,0,1,0,5,5.0,+10,Nate Wolters
+2013-12-14,22-213,MIL,AWAY,DAL,L (-13),0,27:34,3,6,.500,0,0,,0,0,,1,4,5,2,0,1,2,1,6,4.6,+14,Nate Wolters
+2013-12-18,22-217,MIL,HOME,NYK,L (-6),0,13:58,1,3,.333,0,1,.000,0,0,,0,2,2,1,0,0,0,0,2,1.6,-3,Nate Wolters
+2013-12-20,22-219,MIL,AWAY,CLE,L (-3),0,18:20,3,7,.429,0,0,,2,2,1.000,0,0,0,3,2,0,1,0,8,7.4,+2,Nate Wolters
+2013-12-21,22-220,MIL,HOME,PHI,W (+10),0,15:24,3,6,.500,0,1,.000,0,0,,0,2,2,0,3,0,0,1,6,6.2,+12,Nate Wolters
+2013-12-23,22-222,MIL,AWAY,CHA,L (-1),0,15:19,2,5,.400,0,0,,0,0,,0,0,0,1,1,0,0,1,4,2.6,-8,Nate Wolters
+2013-12-27,22-226,MIL,AWAY,BRK,L (-11),0,11:29,2,5,.400,1,2,.500,0,0,,0,0,0,2,1,0,2,1,5,2.3,-11,Nate Wolters
+2013-12-28,22-227,MIL,HOME,MIN,L (-22),0,14:22,1,2,.500,0,0,,0,2,.000,0,1,1,3,0,1,1,0,2,2.3,-11,Nate Wolters
+2014-01-04,22-234,MIL,AWAY,PHO,L (-16),0,3:11,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+4,Nate Wolters
+2014-01-07,22-237,MIL,HOME,GSW,L (-21),0,2:18,0,0,,0,0,,1,2,.500,0,0,0,2,0,0,1,0,1,1.0,-1,Nate Wolters
+2014-01-13,22-243,MIL,AWAY,TOR,L (-22),0,4:14,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,+7,Nate Wolters
+2014-01-19,22-249,MIL,AWAY,SAS,L (-28),0,12:00,3,7,.429,0,1,.000,3,5,.600,1,0,1,3,0,1,0,0,9,8.0,-4,Nate Wolters
+2014-01-24,22-254,MIL,AWAY,CLE,L (-15),0,8:30,2,4,.500,0,0,,2,2,1.000,0,1,1,1,0,0,1,0,6,4.0,+5,Nate Wolters
+2014-01-25,22-255,MIL,HOME,ATL,L (-25),0,16:21,3,5,.600,0,0,,2,4,.500,1,0,1,5,1,1,0,1,8,10.4,+7,Nate Wolters
+2014-01-27,22-257,MIL,HOME,LAC,L (-28),0,17:55,1,6,.167,0,1,.000,2,4,.500,0,0,0,3,2,0,0,0,4,3.5,-9,Nate Wolters
+2014-01-29,22-259,MIL,HOME,PHO,L (-9),0,19:23,3,8,.375,0,0,,5,5,1.000,0,3,3,4,0,0,1,0,11,9.3,+2,Nate Wolters
+2014-01-31,22-261,MIL,AWAY,ORL,L (-11),1,40:58,4,11,.364,0,0,,0,3,.000,1,6,7,9,0,0,0,3,8,8.3,-13,Nate Wolters
+2014-02-01,22-262,MIL,AWAY,MEM,L (-9),1,23:54,4,9,.444,0,0,,1,2,.500,1,2,3,2,0,0,1,2,9,4.8,-11,Nate Wolters
+2014-02-03,22-264,MIL,HOME,NYK,W (+3),1,23:18,3,7,.429,0,0,,0,0,,1,1,2,2,0,0,1,1,6,3.3,-3,Nate Wolters
+2014-02-05,22-266,MIL,AWAY,DEN,L (-10),1,27:58,2,7,.286,0,0,,0,0,,1,1,2,4,1,1,0,0,4,5.4,-6,Nate Wolters
+2014-02-08,22-269,MIL,HOME,HOU,L (-6),1,38:47,9,15,.600,1,3,.333,0,1,.000,2,5,7,3,1,0,2,1,19,15.3,-4,Nate Wolters
+2014-02-10,22-271,MIL,HOME,BOS,L (-16),1,36:29,2,9,.222,1,3,.333,2,4,.500,2,4,6,3,2,1,0,2,7,7.3,-5,Nate Wolters
+2014-02-12,22-273,MIL,HOME,NOP,L (-4),1,32:58,6,11,.545,2,3,.667,0,0,,2,4,6,7,1,2,1,3,14,16.4,+4,Nate Wolters
+2014-02-18,22-279,MIL,HOME,ORL,W (+4),1,39:49,6,13,.462,1,2,.500,2,2,1.000,2,5,7,8,2,0,1,2,15,17.0,-1,Nate Wolters
+2014-02-20,22-281,MIL,HOME,DEN,L (-11),1,39:34,6,14,.429,0,2,.000,0,0,,1,1,2,5,0,0,1,2,12,7.3,-15,Nate Wolters
+2014-02-22,22-283,MIL,HOME,IND,L (-10),1,19:03,0,2,.000,0,0,,0,0,,0,4,4,0,0,0,0,1,0,-0.6,-2,Nate Wolters
+2014-02-24,22-285,MIL,AWAY,PHI,W (+20),1,14:38,3,5,.600,0,2,.000,0,0,,0,1,1,2,1,0,3,1,6,3.0,+9,Nate Wolters
+2014-02-27,22-288,MIL,AWAY,IND,L (-5),1,17:17,2,4,.500,0,0,,0,0,,1,0,1,0,0,1,1,1,4,2.0,+1,Nate Wolters
+2014-03-01,22-290,MIL,HOME,BRK,L (-9),1,19:14,3,6,.500,1,2,.500,0,0,,0,1,1,1,0,0,1,2,7,3.2,-6,Nate Wolters
+2014-03-03,22-292,MIL,HOME,UTA,W (+26),1,21:57,4,6,.667,2,2,1.000,0,0,,0,6,6,5,1,0,2,1,10,11.3,+27,Nate Wolters
+2014-03-05,22-294,MIL,HOME,SAC,L (-14),1,23:33,4,6,.667,0,0,,0,0,,0,2,2,2,0,0,1,0,8,6.4,-4,Nate Wolters
+2014-03-07,22-296,MIL,AWAY,NOP,L (-8),1,19:06,4,9,.444,0,2,.000,0,0,,1,3,4,2,0,0,0,2,8,5.5,+2,Nate Wolters
+2014-03-08,22-297,MIL,HOME,WAS,L (-7),1,29:00,4,10,.400,1,2,.500,1,2,.500,2,3,5,4,0,0,0,1,10,8.9,+7,Nate Wolters
+2014-03-10,22-299,MIL,HOME,ORL,W (+7),1,20:02,4,8,.500,0,1,.000,0,0,,0,2,2,1,0,0,0,1,8,4.9,+4,Nate Wolters
+2014-03-11,22-300,MIL,AWAY,MIN,L (-11),1,31:14,5,6,.833,2,2,1.000,2,4,.500,0,3,3,3,0,0,2,3,14,10.8,-10,Nate Wolters
+2014-03-13,22-302,MIL,AWAY,ATL,L (-5),1,22:46,2,7,.286,1,3,.333,2,2,1.000,0,1,1,1,1,0,1,3,7,2.7,-6,Nate Wolters
+2014-03-15,22-304,MIL,AWAY,NYK,L (-21),1,29:19,5,7,.714,2,2,1.000,3,4,.750,0,3,3,2,0,0,1,0,15,13.0,-14,Nate Wolters
+2014-03-16,22-305,MIL,HOME,CHA,L (-9),1,28:19,5,7,.714,1,1,1.000,0,0,,0,3,3,3,1,0,1,4,11,9.5,-1,Nate Wolters
+2014-03-18,22-307,MIL,AWAY,POR,L (-5),1,38:09,1,5,.200,0,0,,2,4,.500,0,4,4,6,0,0,5,3,4,-0.7,+4,Nate Wolters
+2014-03-20,22-309,MIL,AWAY,GSW,L (-5),1,10:27,1,3,.333,0,1,.000,0,0,,1,0,1,1,0,0,0,0,2,1.7,-9,Nate Wolters
+2014-03-23,22-312,MIL,AWAY,SAC,L (-17),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Nate Wolters
+2014-03-24,22-313,MIL,AWAY,LAC,L (-8),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Nate Wolters
+2014-03-27,22-316,MIL,HOME,LAL,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nate Wolters
+2014-03-29,22-318,MIL,HOME,MIA,L (-21),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nate Wolters
+2014-03-31,22-320,MIL,AWAY,DET,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nate Wolters
+2014-04-02,22-322,MIL,AWAY,MIA,L (-19),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nate Wolters
+2014-04-04,22-324,MIL,AWAY,CHI,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nate Wolters
+2014-04-05,22-325,MIL,HOME,TOR,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nate Wolters

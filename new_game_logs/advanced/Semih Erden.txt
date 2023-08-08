@@ -1,0 +1,78 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+2012-01-08,25-164,CLE,AWAY,POR,L (-20),0,4:49,.568,,0.0,22.1,11.3,0.0,0.0,0.0,0.0,7.7,123,101,0.5,-4.6,Semih Erden
+2012-01-10,25-166,CLE,AWAY,UTA,L (-8),0,16:38,.266,.000,0.0,8.7,3.7,0.0,6.3,0.0,34.7,15.1,39,116,-1.5,-13.9,Semih Erden
+2012-01-12,25-168,CLE,AWAY,PHO,W (+11),0,12:07,.000,,0.0,19.3,9.2,10.2,0.0,0.0,53.2,6.8,25,103,-2.9,-18.4,Semih Erden
+2012-01-13,25-169,CLE,AWAY,LAL,L (-5),0,18:36,.399,.000,0.0,27.2,12.9,0.0,2.7,0.0,34.7,13.0,58,97,-0.2,-9.3,Semih Erden
+2012-01-16,25-172,CLE,AWAY,CHA,W (+8),0,9:35,.512,.500,13.9,54.4,36.6,0.0,0.0,7.3,17.0,27.1,91,82,2.9,-7.2,Semih Erden
+2012-01-17,25-173,CLE,HOME,GSW,L (-10),0,15:33,.788,.750,12.3,6.6,9.5,0.0,0.0,0.0,0.0,23.4,168,114,11.7,11.3,Semih Erden
+2012-01-20,25-176,CLE,HOME,CHI,L (-39),0,5:18,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,16.3,0,131,-2.1,-28.9,Semih Erden
+2012-01-21,25-177,CLE,AWAY,ATL,L (-27),0,12:12,.500,.500,0.0,0.0,0.0,0.0,4.2,0.0,0.0,7.9,99,127,1.6,-4.6,Semih Erden
+2012-02-03,25-190,CLE,AWAY,ORL,L (-8),0,13:06,.000,.000,6.9,22.4,14.4,0.0,4.1,0.0,50.0,6.5,25,105,0.1,-9.9,Semih Erden
+2012-02-04,25-191,CLE,HOME,DAL,W (+3),0,5:56,,,0.0,24.5,9.5,0.0,0.0,0.0,,0.0,0,102,0.3,-8.3,Semih Erden
+2012-02-07,25-194,CLE,AWAY,MIA,L (-16),0,1:27,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,122,0.0,-6.5,Semih Erden
+2012-02-08,25-195,CLE,HOME,LAC,W (+7),0,6:35,,,0.0,0.0,0.0,0.0,8.6,0.0,,0.0,0,100,0.6,0.3,Semih Erden
+2012-02-11,25-198,CLE,HOME,PHI,L (-15),1,13:49,.000,.000,7.4,15.4,11.3,0.0,0.0,0.0,33.3,9.8,18,113,-2.7,-20.9,Semih Erden
+2012-02-15,25-202,CLE,HOME,IND,W (+11),1,31:59,.812,.875,8.1,17.0,13.3,5.9,1.8,0.0,0.0,16.9,168,101,17.3,8.1,Semih Erden
+2012-02-17,25-204,CLE,HOME,MIA,L (-24),1,15:16,.773,1.000,14.6,17.5,15.9,30.6,3.7,0.0,0.0,12.1,162,125,8.3,11.2,Semih Erden
+2012-02-19,25-206,CLE,HOME,SAC,W (+1),1,16:06,.000,.000,5.5,10.8,8.2,28.0,0.0,4.0,0.0,2.6,121,101,1.8,-1.2,Semih Erden
+2012-02-21,25-208,CLE,HOME,DET,W (+1),1,15:56,.425,.400,0.0,18.1,9.7,0.0,0.0,0.0,14.5,19.0,77,110,1.0,-13.6,Semih Erden
+2012-02-22,25-209,CLE,HOME,NOH,L (-5),1,7:55,.500,.500,0.0,39.5,17.5,0.0,0.0,7.7,0.0,21.6,107,87,3.2,5.7,Semih Erden
+2012-02-28,25-215,CLE,HOME,BOS,L (-3),1,20:07,.694,1.000,5.3,34.1,17.9,18.2,0.0,4.2,25.8,9.0,107,97,5.5,2.4,Semih Erden
+2012-02-29,25-216,CLE,AWAY,NYK,L (-17),1,8:47,.340,.400,25.4,26.0,25.7,0.0,0.0,0.0,0.0,29.0,89,123,0.9,-16.6,Semih Erden
+2012-03-02,25-218,CLE,HOME,CHI,L (-21),1,14:28,.500,.500,8.7,18.4,13.5,0.0,0.0,0.0,20.0,16.4,86,130,1.1,-14.4,Semih Erden
+2012-03-21,25-237,CLE,AWAY,ATL,L (-1),0,2:24,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,114,-0.4,-13.6,Semih Erden
+2012-03-23,25-239,CLE,AWAY,ORL,L (-13),0,8:35,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.3,0,117,-0.7,-11.7,Semih Erden
+2012-03-25,25-241,CLE,HOME,PHO,L (-25),0,8:00,.667,.667,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.1,133,127,1.9,-2.5,Semih Erden
+2012-03-31,25-247,CLE,AWAY,NYK,L (-16),0,14:32,.463,.333,8.1,0.0,3.9,0.0,0.0,0.0,10.4,30.9,94,113,1.9,-8.1,Semih Erden
+2012-04-03,25-250,CLE,HOME,SAS,L (-35),0,12:00,.628,.571,27.3,0.0,16.4,0.0,4.5,0.0,10.2,38.4,121,138,9.0,5.0,Semih Erden
+2012-04-10,25-257,CLE,HOME,CHA,W (+13),0,16:04,.500,.500,15.3,39.3,27.2,0.0,0.0,4.4,33.3,8.9,94,102,3.2,-7.9,Semih Erden
+2012-04-11,25-258,CLE,HOME,IND,L (-6),0,4:46,1.000,1.000,0.0,58.5,26.2,0.0,11.2,0.0,50.0,19.6,68,74,1.9,5.6,Semih Erden
+2012-04-13,25-260,CLE,AWAY,IND,L (-19),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Semih Erden
+2010-11-02,24-097,BOS,AWAY,DET,W (+23),0,15:25,1.000,1.000,8.4,16.8,12.6,8.0,0.0,9.0,50.0,6.4,114,97,2.9,-1.0,Semih Erden
+2010-11-03,24-098,BOS,HOME,MIL,W (+3),0,5:53,,,0.0,39.2,21.2,0.0,0.0,0.0,,0.0,0,101,0.2,-4.6,Semih Erden
+2010-11-05,24-100,BOS,HOME,CHI,W (+5),0,10:18,1.136,,13.2,29.4,20.9,0.0,0.0,0.0,53.2,9.0,130,107,0.7,-8.5,Semih Erden
+2010-11-07,24-102,BOS,AWAY,OKC,W (+9),0,13:57,.726,.500,8.8,25.2,17.2,11.8,0.0,0.0,0.0,22.3,162,97,8.9,11.6,Semih Erden
+2010-11-08,24-103,BOS,AWAY,DAL,L (-2),0,12:04,.615,.500,0.0,12.4,5.0,13.2,4.5,0.0,17.0,22.0,110,98,3.8,2.6,Semih Erden
+2010-11-11,24-106,BOS,AWAY,MIA,W (+5),0,8:18,.452,.500,0.0,0.0,0.0,15.5,0.0,0.0,23.1,25.0,80,123,-0.7,-14.8,Semih Erden
+2010-11-13,24-108,BOS,AWAY,MEM,W (+6),0,6:59,,,0.0,39.9,21.7,0.0,0.0,0.0,,0.0,0,113,0.2,-5.2,Semih Erden
+2010-11-17,24-112,BOS,HOME,WAS,W (+31),0,21:13,.615,.500,15.6,4.8,8.9,10.5,2.7,0.0,29.1,24.4,109,101,5.5,-6.0,Semih Erden
+2010-11-19,24-114,BOS,HOME,OKC,L (-5),0,13:35,.258,.333,10.4,0.0,5.2,12.0,0.0,0.0,20.5,18.4,59,108,-0.9,-10.1,Semih Erden
+2010-11-21,24-116,BOS,AWAY,TOR,L (-1),0,10:42,.000,.000,12.1,11.2,11.7,13.2,0.0,0.0,50.0,9.0,56,116,-1.6,-14.3,Semih Erden
+2010-11-22,24-117,BOS,AWAY,ATL,W (+23),0,19:12,.694,1.000,7.8,15.6,12.5,0.0,0.0,0.0,41.0,12.5,70,91,0.6,-10.2,Semih Erden
+2010-11-24,24-119,BOS,HOME,NJN,W (+6),0,2:29,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,78.8,0,107,-2.8,-73.9,Semih Erden
+2010-11-26,24-121,BOS,HOME,TOR,W (+9),0,10:44,1.000,1.000,0.0,0.0,0.0,19.3,0.0,0.0,20.0,22.3,138,121,5.7,4.5,Semih Erden
+2010-11-30,24-125,BOS,AWAY,CLE,W (+19),0,10:28,.000,.000,10.7,18.0,14.6,0.0,0.0,13.7,50.0,8.3,36,82,0.6,-6.3,Semih Erden
+2010-12-01,24-126,BOS,HOME,POR,W (+4),0,5:09,1.000,1.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.2,200,117,1.3,2.4,Semih Erden
+2010-12-03,24-128,BOS,HOME,CHI,W (+12),0,19:39,.902,1.000,14.8,10.9,12.5,0.0,0.0,0.0,20.5,12.0,140,108,5.5,-0.5,Semih Erden
+2010-12-05,24-130,BOS,AWAY,NJN,W (+25),0,18:47,.301,.250,6.6,27.8,18.0,7.0,0.0,4.5,31.1,24.0,54,78,-0.6,-13.8,Semih Erden
+2010-12-08,24-133,BOS,HOME,DEN,W (+16),0,13:24,.820,1.000,0.0,16.7,9.4,0.0,3.6,12.1,0.0,8.5,148,77,4.8,8.4,Semih Erden
+2010-12-09,24-134,BOS,AWAY,PHI,W (+1),1,17:40,.862,1.000,0.0,19.0,11.3,0.0,0.0,4.4,17.7,16.6,139,118,5.6,-0.4,Semih Erden
+2010-12-11,24-136,BOS,AWAY,CHA,W (+31),1,40:42,.644,.500,6.2,12.3,9.6,0.0,1.3,7.9,20.5,11.4,113,72,9.7,0.3,Semih Erden
+2010-12-15,24-140,BOS,AWAY,NYK,W (+2),1,15:46,.750,.750,8.2,16.5,12.3,8.5,3.2,5.2,0.0,11.3,163,114,6.9,5.9,Semih Erden
+2010-12-16,24-141,BOS,HOME,ATL,W (+12),1,23:51,.727,.833,0.0,0.0,0.0,0.0,0.0,3.5,0.0,13.9,135,111,6.5,-2.1,Semih Erden
+2010-12-19,24-144,BOS,HOME,IND,W (+11),0,6:38,,,0.0,12.7,8.2,0.0,0.0,0.0,,0.0,0,97,0.3,-2.3,Semih Erden
+2010-12-22,24-147,BOS,HOME,PHI,W (+4),0,11:40,.000,.000,26.8,22.2,24.8,0.0,0.0,0.0,0.0,4.1,112,99,1.6,-6.2,Semih Erden
+2010-12-29,24-154,BOS,AWAY,DET,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Semih Erden
+2011-01-07,24-163,BOS,HOME,TOR,W (+20),0,6:14,1.000,1.000,0.0,19.3,10.4,20.1,0.0,0.0,0.0,7.1,208,115,2.7,10.6,Semih Erden
+2011-01-08,24-164,BOS,AWAY,CHI,L (-11),0,5:33,,,0.0,25.4,11.5,0.0,10.0,16.0,,0.0,0,78,2.0,13.4,Semih Erden
+2011-01-12,24-168,BOS,HOME,SAC,W (+24),0,33:29,.484,.444,6.7,31.4,17.2,3.2,2.9,0.0,22.5,16.6,88,96,5.7,-8.4,Semih Erden
+2011-01-14,24-170,BOS,HOME,CHA,W (+5),0,8:24,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.3,0,119,-2.7,-23.1,Semih Erden
+2011-01-19,24-175,BOS,HOME,DET,W (+4),0,16:55,.750,.750,6.6,22.4,14.0,11.1,0.0,4.8,33.3,16.4,96,91,4.6,2.4,Semih Erden
+2011-01-21,24-177,BOS,HOME,UTA,W (+24),0,29:48,.972,1.000,11.1,20.7,16.6,0.0,5.4,2.8,21.7,15.3,146,89,14.7,5.6,Semih Erden
+2011-01-22,24-178,BOS,AWAY,WAS,L (-2),1,25:14,.500,.500,18.6,31.0,24.9,0.0,0.0,0.0,25.0,15.7,91,97,4.3,-7.1,Semih Erden
+2011-01-25,24-181,BOS,HOME,CLE,W (+17),1,16:57,.500,.500,13.2,37.8,25.7,0.0,3.0,8.2,33.3,8.2,97,86,4.0,-3.0,Semih Erden
+2011-01-27,24-183,BOS,AWAY,POR,W (+10),1,17:10,.824,1.000,7.4,15.8,12.3,0.0,0.0,0.0,21.6,13.0,134,90,5.1,2.4,Semih Erden
+2011-01-28,24-184,BOS,AWAY,PHO,L (-17),0,8:14,1.000,1.000,0.0,15.3,6.9,0.0,0.0,10.2,0.0,5.5,200,91,2.3,4.0,Semih Erden
+2011-02-04,24-191,BOS,HOME,DAL,L (-4),0,7:15,.500,.500,20.1,0.0,9.9,24.7,7.6,0.0,0.0,26.5,125,108,4.4,12.5,Semih Erden
+2011-02-06,24-193,BOS,HOME,ORL,W (+11),0,3:57,1.000,1.000,0.0,0.0,0.0,0.0,0.0,17.6,0.0,13.1,200,92,2.4,19.8,Semih Erden
+2011-02-07,24-194,BOS,AWAY,CHA,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Semih Erden
+2011-02-10,24-197,BOS,HOME,LAL,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Semih Erden
+2011-02-13,24-200,BOS,HOME,MIA,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Semih Erden
+2011-02-16,24-203,BOS,HOME,NJN,W (+14),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Semih Erden
+2011-02-22,24-209,BOS,AWAY,GSW,W (+22),0,17:10,.000,.000,0.0,5.4,3.2,22.4,0.0,0.0,50.0,5.0,86,104,-0.2,-2.0,Semih Erden
+2011-03-04,24-219,CLE,AWAY,NYK,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Semih Erden
+2011-03-06,24-221,CLE,HOME,NOH,L (-15),0,10:42,.000,.000,49.8,0.0,29.1,0.0,0.0,6.9,25.0,17.1,55,109,0.3,-17.1,Semih Erden
+2011-04-08,24-254,CLE,HOME,CHI,L (-11),0,11:41,.500,.500,9.6,22.2,15.4,0.0,4.5,0.0,0.0,8.0,118,95,1.7,-2.1,Semih Erden
+2011-04-09,24-255,CLE,AWAY,MIL,L (-7),0,22:54,.615,.500,0.0,17.5,8.6,0.0,2.3,7.2,0.0,10.2,131,111,6.5,-0.1,Semih Erden
+2011-04-11,24-257,CLE,AWAY,DET,W (+9),1,18:45,.370,.200,0.0,0.0,0.0,7.0,0.0,0.0,12.9,18.9,75,120,-0.4,-16.8,Semih Erden
+2011-04-13,24-259,CLE,HOME,WAS,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Semih Erden

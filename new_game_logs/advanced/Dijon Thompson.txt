@@ -1,0 +1,22 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+2007-01-09,23-320,ATL,AWAY,IND,L (-19),0,5:56,.810,.667,0.0,0.0,0.0,0.0,0.0,0.0,0.0,33.7,175,119,5.7,24.9,Dijon Thompson
+2007-01-10,23-321,ATL,HOME,NOK,L (-19),0,18:12,.500,.500,10.3,40.0,22.0,23.9,0.0,0.0,0.0,14.7,119,109,7.3,3.3,Dijon Thompson
+2007-01-17,23-328,ATL,AWAY,MIN,W (+17),0,2:28,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,40.3,0,116,-1.7,-52.1,Dijon Thompson
+2007-01-19,23-330,ATL,HOME,CHA,L (-21),0,6:00,.266,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.3,60,124,-0.1,-13.2,Dijon Thompson
+2007-01-20,23-331,ATL,AWAY,CHA,L (-19),0,7:55,1.042,1.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.7,218,136,2.7,3.2,Dijon Thompson
+2007-01-23,23-334,ATL,AWAY,CHI,L (-8),0,9:40,.000,.000,12.4,0.0,6.4,0.0,0.0,0.0,0.0,14.1,23,110,-2.2,-19.9,Dijon Thompson
+2005-11-30,22-280,PHO,HOME,IND,W (+18),0,2:07,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.6,0,95,-1.1,-30.3,Dijon Thompson
+2005-12-04,22-284,PHO,HOME,ATL,W (+18),0,7:09,.145,.000,0.0,0.0,0.0,0.0,0.0,0.0,22.5,25.7,26,101,-2.9,-29.5,Dijon Thompson
+2005-12-06,22-286,PHO,HOME,POR,W (+45),0,7:38,.833,.833,33.1,24.7,28.3,0.0,0.0,0.0,14.3,40.5,141,92,7.2,8.9,Dijon Thompson
+2005-12-12,22-292,PHO,HOME,NOK,L (-4),0,0:12,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,106,0.0,-5.9,Dijon Thompson
+2005-12-20,22-300,PHO,HOME,SEA,W (+28),0,3:42,.500,.500,0.0,49.9,28.5,43.2,14.2,0.0,0.0,24.9,125,39,3.3,25.9,Dijon Thompson
+2006-01-04,22-315,PHO,HOME,PHI,W (+20),0,5:02,.500,.500,0.0,0.0,0.0,0.0,9.7,12.4,0.0,46.5,87,69,4.0,21.3,Dijon Thompson
+2006-01-06,22-317,PHO,HOME,MIA,W (+18),0,2:20,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,104,0.0,-5.9,Dijon Thompson
+2006-01-10,22-321,PHO,AWAY,DEN,L (-2),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Dijon Thompson
+2006-01-17,22-328,PHO,AWAY,SAC,L (-29),0,8:34,.460,.400,10.4,13.0,11.6,0.0,5.6,0.0,0.0,27.4,100,111,4.3,5.1,Dijon Thompson
+2006-01-31,22-342,PHO,AWAY,PHI,W (+24),0,3:01,1.000,1.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.9,200,118,1.7,6.5,Dijon Thompson
+2006-02-04,22-346,PHO,HOME,CHI,W (+17),0,2:47,.750,.750,38.3,73.4,56.2,0.0,0.0,0.0,0.0,30.7,153,91,3.3,28.2,Dijon Thompson
+2006-03-12,23-017,PHO,AWAY,POR,L (-10),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Dijon Thompson
+2006-03-14,23-019,PHO,AWAY,SEA,W (+9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Dijon Thompson
+2006-03-15,23-020,PHO,HOME,LAC,W (+31),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Dijon Thompson
+2006-03-17,23-022,PHO,AWAY,SAS,L (-6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Dijon Thompson

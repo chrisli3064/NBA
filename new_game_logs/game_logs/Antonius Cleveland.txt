@@ -1,0 +1,30 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2017-11-17,23-288,DAL,HOME,MIN,L (-24),0,6:56,1,2,.500,0,0,,0,0,,0,2,2,0,0,0,0,2,2,0.8,-7,Antonius Cleveland
+2017-11-18,23-289,DAL,HOME,MIL,W (+32),0,3:10,0,0,,0,0,,0,0,,0,0,0,1,1,0,0,0,0,1.7,0,Antonius Cleveland
+2017-11-22,23-293,DAL,AWAY,MEM,W (+1),0,5:09,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,+9,Antonius Cleveland
+2017-11-25,23-296,DAL,HOME,OKC,W (+16),0,1:50,0,0,,0,0,,1,2,.500,0,0,0,0,0,0,0,0,1,0.6,+1,Antonius Cleveland
+2017-11-27,23-298,DAL,AWAY,SAS,L (-7),0,0:08,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Antonius Cleveland
+2017-12-02,23-303,DAL,HOME,LAC,W (+26),0,7:53,1,3,.333,0,0,,1,2,.500,2,1,3,0,0,0,1,2,3,0.8,-2,Antonius Cleveland
+2017-12-06,23-307,DAL,AWAY,BOS,L (-7),0,0:04,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Antonius Cleveland
+2017-12-08,23-309,DAL,AWAY,MIL,L (-7),0,7:34,1,1,1.000,0,0,,0,0,,0,2,2,0,0,1,0,2,2,2.2,0,Antonius Cleveland
+2017-12-10,23-311,DAL,AWAY,MIN,L (-5),0,17:51,1,4,.250,0,0,,0,0,,0,2,2,0,3,2,0,2,2,3.8,-11,Antonius Cleveland
+2017-12-12,23-313,DAL,HOME,SAS,W (+6),0,7:05,0,2,.000,0,1,.000,0,0,,0,0,0,0,1,1,1,0,0,-0.7,-1,Antonius Cleveland
+2017-12-14,23-315,DAL,AWAY,GSW,L (-15),0,20:40,0,2,.000,0,0,,0,0,,0,1,1,0,1,0,0,2,0,-0.9,-6,Antonius Cleveland
+2017-12-16,23-317,DAL,AWAY,SAS,L (-2),0,1:19,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-4,Antonius Cleveland
+2017-12-18,23-319,DAL,HOME,PHO,L (-6),0,1:21,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-8,Antonius Cleveland
+2018-03-30,24-056,ATL,HOME,PHI,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Antonius Cleveland
+2018-04-04,24-061,ATL,HOME,MIA,L (-29),0,12:15,1,2,.500,1,1,1.000,2,2,1.000,0,2,2,0,0,1,2,3,5,2.1,-2,Antonius Cleveland
+2018-04-06,24-063,ATL,AWAY,WAS,W (+6),0,9:20,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,1,2,3,0.9,+5,Antonius Cleveland
+2018-04-08,24-065,ATL,AWAY,BOS,W (+6),0,7:15,0,2,.000,0,0,,0,0,,1,1,2,0,1,0,2,1,0,-1.8,+1,Antonius Cleveland
+2018-04-10,24-067,ATL,HOME,PHI,L (-8),0,12:42,2,2,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,6,5,2.0,-20,Antonius Cleveland
+2020-01-10,25-342,DAL,HOME,LAL,L (-15),0,3:53,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,2,2.0,+3,Antonius Cleveland
+2020-01-11,25-343,DAL,HOME,PHI,W (+18),0,1:56,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,-2,Antonius Cleveland
+2020-01-14,25-346,DAL,AWAY,GSW,W (+27),0,8:01,1,2,.500,0,1,.000,0,0,,0,1,1,0,0,0,0,0,2,1.3,-2,Antonius Cleveland
+2020-02-01,25-364,DAL,HOME,ATL,W (+23),0,2:01,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+1,Antonius Cleveland
+2020-02-05,26-003,DAL,HOME,MEM,L (-14),0,4:06,0,1,.000,0,0,,1,2,.500,0,0,0,0,1,1,0,2,1,0.8,-6,Antonius Cleveland
+2020-02-08,26-006,DAL,AWAY,CHO,W (+16),0,2:24,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-5,Antonius Cleveland
+2020-07-31,26-180,DAL,HOME,HOU,L (-4),0,0:01,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Antonius Cleveland
+2020-08-02,26-182,DAL,AWAY,PHO,L (-2),0,3:15,0,1,.000,0,0,,2,2,1.000,0,0,0,0,0,0,0,2,2,0.5,+6,Antonius Cleveland
+2020-08-04,26-184,DAL,AWAY,SAC,W (+4),0,3:33,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-2,Antonius Cleveland
+2020-08-10,26-190,DAL,AWAY,UTA,W (+8),0,3:22,0,3,.000,0,0,,0,0,,2,1,3,0,0,0,0,2,0,-1.2,-6,Antonius Cleveland
+2020-08-13,26-193,DAL,AWAY,PHO,L (-26),0,13:12,2,3,.667,0,1,.000,0,1,.000,0,1,1,1,0,2,1,2,4,2.9,+1,Antonius Cleveland

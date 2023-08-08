@@ -1,0 +1,7 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2019-04-13,21-192,ORL,AWAY,TOR,W (+3),1,39:57,5,10,0.5,1,4,0.25,0,0,,3,5,8,0,0,3,0,1,11,11.3,-10,Jonathan Isaac
+2019-04-16,21-195,ORL,AWAY,TOR,L (-29),1,22:56,1,8,0.125,0,6,0.0,3,4,0.75,0,4,4,0,0,0,1,2,5,-1.2,-26,Jonathan Isaac
+2019-04-19,21-198,ORL,HOME,TOR,L (-5),1,29:21,4,11,0.364,2,7,0.286,4,4,1.0,2,5,7,1,2,2,0,2,14,14.1,-3,Jonathan Isaac
+2019-04-21,21-200,ORL,HOME,TOR,L (-22),1,16:07,0,4,0.0,0,0,,0,0,,2,4,6,1,0,0,2,3,0,-2.7,2,Jonathan Isaac
+2019-04-23,21-202,ORL,AWAY,TOR,L (-19),1,28:13,1,7,0.143,1,3,0.333,0,0,,3,3,6,0,0,0,2,1,3,-0.9,-22,Jonathan Isaac
+2020-08-24,22-326,ORL,HOME,MIL,L (-15),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jonathan Isaac

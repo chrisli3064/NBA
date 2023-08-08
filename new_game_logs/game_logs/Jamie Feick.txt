@@ -1,0 +1,104 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2001-02-08,26-220,NJN,HOME,SAS,W (+2),0,22:00,1,5,.200,0,0,,0,2,.000,2,7,9,2,2,1,2,3,2,2.5,-6,Jamie Feick
+2001-02-13,26-225,NJN,HOME,LAL,L (-3),0,29:56,2,6,.333,0,0,,0,0,,2,11,13,0,0,0,0,5,4,3.3,+13,Jamie Feick
+2001-02-14,26-226,NJN,AWAY,DET,L (-19),0,30:55,4,7,.571,0,0,,1,2,.500,4,10,14,1,2,2,1,1,9,13.8,-18,Jamie Feick
+2001-02-16,26-228,NJN,AWAY,NYK,L (-10),0,30:17,1,2,.500,0,0,,4,6,.667,2,7,9,2,2,0,1,3,6,8.9,+6,Jamie Feick
+2001-02-18,26-230,NJN,HOME,LAC,W (+6),0,23:25,0,2,.000,0,0,,1,2,.500,0,5,5,0,1,0,2,2,1,-1.1,-7,Jamie Feick
+2001-02-21,26-233,NJN,HOME,TOR,W (+2),0,12:18,0,1,.000,0,0,,0,0,,2,4,6,0,1,0,1,1,0,1.5,+4,Jamie Feick
+2001-02-24,26-236,NJN,AWAY,MIA,L (-5),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jamie Feick
+2001-02-25,26-237,NJN,HOME,WAS,W (+10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jamie Feick
+2001-02-28,26-240,NJN,AWAY,CHH,L (-3),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jamie Feick
+2001-03-02,26-242,NJN,AWAY,TOR,L (-17),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jamie Feick
+2001-03-04,26-244,NJN,AWAY,IND,W (+24),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jamie Feick
+2001-03-05,26-245,NJN,HOME,MIL,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jamie Feick
+2001-03-07,26-247,NJN,AWAY,PHI,L (-8),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jamie Feick
+2001-03-09,26-249,NJN,HOME,NYK,W (+13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jamie Feick
+2001-03-10,26-250,NJN,AWAY,WAS,L (-6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jamie Feick
+2001-03-13,26-253,NJN,AWAY,DAL,L (-24),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jamie Feick
+2001-03-15,26-255,NJN,AWAY,HOU,L (-2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jamie Feick
+2001-03-16,26-256,NJN,AWAY,SAS,L (-9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jamie Feick
+2001-03-18,26-258,NJN,AWAY,DEN,L (-14),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jamie Feick
+2001-03-20,26-260,NJN,HOME,VAN,W (+14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jamie Feick
+2001-03-30,26-270,NJN,AWAY,TOR,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jamie Feick
+1999-11-02,25-122,NJN,HOME,IND,L (-7),0,35:40,2,4,.500,0,0,,5,8,.625,6,11,17,0,0,0,0,3,9,12.1,-10,Jamie Feick
+1999-11-03,25-123,NJN,AWAY,CLE,L (-7),1,40:17,2,11,.182,0,0,,2,3,.667,7,6,13,0,1,1,3,3,6,2.9,+1,Jamie Feick
+1999-11-05,25-125,NJN,HOME,TOR,L (-20),1,34:51,2,7,.286,0,0,,5,5,1.000,4,5,9,1,0,0,0,3,9,8.7,-23,Jamie Feick
+1999-11-07,25-127,NJN,HOME,WAS,W (+25),1,29:42,1,3,.333,0,0,,1,2,.500,5,11,16,2,2,0,1,5,3,8.1,+18,Jamie Feick
+1999-11-10,25-130,NJN,HOME,PHO,L (-15),1,32:25,3,6,.500,0,0,,2,2,1.000,6,7,13,1,2,1,2,3,8,11.5,-8,Jamie Feick
+1999-11-12,25-132,NJN,AWAY,CHH,L (-4),1,29:52,1,2,.500,0,0,,1,2,.500,0,8,8,1,1,0,1,4,3,3.1,-4,Jamie Feick
+1999-11-15,25-135,NJN,HOME,SEA,L (-8),1,37:53,4,9,.444,0,0,,2,2,1.000,9,3,12,3,0,1,0,3,10,14.1,-2,Jamie Feick
+1999-11-17,25-137,NJN,AWAY,DET,L (-2),0,34:14,0,2,.000,0,0,,3,3,1.000,2,9,11,0,0,0,1,2,3,3.9,-3,Jamie Feick
+1999-11-19,25-139,NJN,AWAY,BOS,L (-13),0,33:30,3,5,.600,0,0,,3,6,.500,3,4,7,0,0,1,1,1,9,8.1,+2,Jamie Feick
+1999-11-20,25-140,NJN,HOME,PHI,L (-4),0,28:28,2,3,.667,0,0,,0,0,,3,4,7,1,0,0,0,6,4,4.3,-12,Jamie Feick
+1999-11-23,25-143,NJN,AWAY,SAC,L (-13),0,31:16,2,6,.333,0,0,,1,2,.500,0,6,6,2,2,0,2,3,5,3.2,-4,Jamie Feick
+1999-11-24,25-144,NJN,AWAY,GSW,W (+8),1,38:42,3,5,.600,0,0,,1,2,.500,1,9,10,0,0,0,0,2,7,6.9,+10,Jamie Feick
+1999-11-26,25-146,NJN,AWAY,LAL,L (-23),1,40:15,2,7,.286,0,0,,0,0,,4,10,14,3,0,1,1,3,4,6.3,-22,Jamie Feick
+1999-11-27,25-147,NJN,AWAY,PHO,L (-39),0,37:17,5,11,.455,0,0,,1,2,.500,4,6,10,1,0,1,1,1,11,9.5,-36,Jamie Feick
+1999-11-30,25-150,NJN,HOME,WAS,L (-7),0,35:33,7,9,.778,0,0,,1,4,.250,6,10,16,1,1,1,6,3,15,12.7,-6,Jamie Feick
+1999-12-02,25-152,NJN,HOME,SAS,L (-2),0,38:42,3,9,.333,0,0,,3,3,1.000,6,7,13,0,0,1,2,4,9,7.3,+7,Jamie Feick
+1999-12-04,25-154,NJN,HOME,NYK,L (-10),0,38:56,5,12,.417,0,0,,3,4,.750,9,14,23,0,1,1,1,1,13,17.0,-5,Jamie Feick
+1999-12-06,25-156,NJN,HOME,SAC,W (+14),0,35:56,3,11,.273,0,0,,2,2,1.000,7,9,16,3,1,2,1,4,8,11.0,+18,Jamie Feick
+1999-12-08,25-158,NJN,HOME,MIL,W (+17),0,30:13,0,1,.000,0,0,,4,4,1.000,2,8,10,2,1,0,1,5,4,6.5,+14,Jamie Feick
+1999-12-10,25-160,NJN,AWAY,CHI,L (-2),0,26:25,0,1,.000,0,0,,0,0,,1,9,10,0,2,0,1,5,0,1.7,-5,Jamie Feick
+1999-12-11,25-161,NJN,HOME,HOU,W (+12),0,33:15,7,11,.636,0,0,,0,0,,5,9,14,1,1,1,0,2,14,16.9,-3,Jamie Feick
+1999-12-15,25-165,NJN,HOME,CLE,W (+10),0,36:05,3,5,.600,0,0,,2,2,1.000,5,3,8,0,0,0,0,3,8,8.9,0,Jamie Feick
+1999-12-16,25-166,NJN,AWAY,WAS,L (-4),0,32:12,2,8,.250,0,0,,0,2,.000,3,6,9,0,1,0,4,4,4,-2.3,+4,Jamie Feick
+1999-12-18,25-168,NJN,AWAY,CLE,W (+24),0,30:43,2,5,.400,0,0,,2,2,1.000,3,10,13,3,3,1,2,2,6,11.4,+16,Jamie Feick
+1999-12-19,25-169,NJN,HOME,ATL,W (+8),0,32:37,8,13,.615,0,0,,0,0,,4,9,13,1,0,0,0,2,16,15.5,+6,Jamie Feick
+1999-12-21,25-171,NJN,AWAY,TOR,L (-29),0,32:51,5,11,.455,0,0,,2,3,.667,6,6,12,1,0,1,0,3,12,12.1,-9,Jamie Feick
+1999-12-23,25-173,NJN,HOME,PHI,W (+5),0,22:51,3,7,.429,0,0,,0,0,,5,6,11,1,0,3,2,4,6,6.8,+2,Jamie Feick
+1999-12-26,25-176,NJN,HOME,CHI,W (+27),0,34:57,4,12,.333,0,0,,2,2,1.000,7,7,14,2,0,1,1,2,10,10.5,+34,Jamie Feick
+1999-12-28,25-178,NJN,HOME,NYK,W (+6),0,31:16,1,6,.167,0,0,,3,4,.750,4,13,17,0,0,1,1,4,5,5.6,+4,Jamie Feick
+1999-12-30,25-180,NJN,HOME,ORL,W (+10),0,31:59,8,14,.571,0,0,,0,0,,6,9,15,1,0,2,0,2,16,17.6,+4,Jamie Feick
+2000-01-04,25-185,NJN,AWAY,IND,L (-5),0,27:38,2,7,.286,0,0,,0,0,,3,5,8,0,2,0,0,3,4,4.3,-10,Jamie Feick
+2000-01-07,25-188,NJN,HOME,VAN,L (-10),0,16:02,0,0,,0,0,,0,0,,0,1,1,0,0,1,0,1,0,0.6,-6,Jamie Feick
+2000-01-08,25-189,NJN,AWAY,MIA,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jamie Feick
+2000-01-10,25-191,NJN,AWAY,ORL,W (+6),0,28:49,1,6,.167,0,0,,0,0,,4,9,13,1,0,1,2,5,2,1.1,-9,Jamie Feick
+2000-01-13,25-194,NJN,HOME,LAC,W (+5),0,33:18,3,6,.500,0,0,,3,4,.750,6,8,14,1,0,0,0,4,9,11.3,+2,Jamie Feick
+2000-01-15,25-196,NJN,HOME,BOS,L (-3),0,27:37,4,7,.571,0,0,,2,4,.500,5,6,11,0,1,0,0,4,10,10.6,+6,Jamie Feick
+2000-01-17,25-198,NJN,AWAY,PHI,L (-5),0,23:21,0,3,.000,0,0,,1,2,.500,3,1,4,0,0,2,0,3,1,1.1,-2,Jamie Feick
+2000-01-19,25-200,NJN,AWAY,NYK,L (-1),0,8:22,0,2,.000,0,0,,0,0,,1,0,1,0,0,0,0,0,0,-0.7,-8,Jamie Feick
+2000-01-20,25-201,NJN,HOME,DET,W (+2),1,39:48,4,11,.364,0,0,,4,4,1.000,9,16,25,1,0,1,1,5,12,15.4,+7,Jamie Feick
+2000-01-22,25-203,NJN,HOME,DAL,W (+3),1,38:19,2,8,.250,0,0,,2,2,1.000,4,8,12,3,0,0,1,0,6,7.5,-8,Jamie Feick
+2000-01-24,25-205,NJN,AWAY,POR,L (-14),0,27:06,3,5,.600,0,0,,0,0,,1,5,6,2,1,0,0,2,6,7.5,-7,Jamie Feick
+2000-01-26,25-207,NJN,AWAY,SEA,L (-3),1,26:30,2,2,1.000,0,0,,2,2,1.000,1,6,7,1,2,0,2,2,6,7.8,-1,Jamie Feick
+2000-01-27,25-208,NJN,AWAY,VAN,L (-2),1,32:11,1,1,1.000,0,0,,3,4,.750,3,5,8,1,0,0,2,0,5,6.6,+2,Jamie Feick
+2000-01-29,25-210,NJN,AWAY,LAC,L (-5),1,37:30,4,9,.444,0,0,,2,2,1.000,5,2,7,3,1,0,2,4,10,8.9,-3,Jamie Feick
+2000-02-02,25-214,NJN,HOME,ATL,L (-8),0,36:56,1,6,.167,0,0,,0,0,,5,11,16,1,0,0,1,3,2,3.5,-7,Jamie Feick
+2000-02-04,25-216,NJN,AWAY,BOS,L (-5),0,23:10,2,3,.667,0,0,,0,0,,2,4,6,2,0,0,0,2,4,5.9,+6,Jamie Feick
+2000-02-06,25-218,NJN,HOME,GSW,W (+20),0,9:38,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,3,0,-0.5,-8,Jamie Feick
+2000-02-08,25-220,NJN,HOME,BOS,W (+18),0,30:28,4,6,.667,0,0,,1,1,1.000,3,5,8,1,0,0,1,2,9,8.9,+11,Jamie Feick
+2000-02-09,25-221,NJN,AWAY,PHI,L (-2),0,15:08,1,2,.500,0,0,,0,0,,1,2,3,0,1,0,1,3,2,1.1,+8,Jamie Feick
+2000-02-15,25-227,NJN,AWAY,ATL,L (-17),0,24:38,1,3,.333,0,0,,2,2,1.000,2,4,6,0,1,0,0,0,4,5.9,-15,Jamie Feick
+2000-02-18,25-230,NJN,HOME,MIA,W (+7),0,9:26,0,2,.000,0,0,,0,0,,1,0,1,0,1,0,0,1,0,-0.1,+7,Jamie Feick
+2000-02-20,25-232,NJN,AWAY,MIN,W (+2),0,5:20,0,2,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.8,-3,Jamie Feick
+2000-02-22,25-234,NJN,HOME,LAL,L (-8),0,3:21,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,-2,Jamie Feick
+2000-02-23,25-235,NJN,AWAY,MIA,L (-14),0,18:34,2,5,.400,0,0,,0,0,,2,4,6,0,0,1,0,1,4,4.2,-5,Jamie Feick
+2000-02-26,25-238,NJN,HOME,CHH,W (+11),0,17:18,3,3,1.000,0,0,,3,3,1.000,2,4,6,0,0,1,0,0,9,11.4,+6,Jamie Feick
+2000-02-28,25-240,NJN,AWAY,UTA,L (-5),0,7:35,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,3,0,-1.9,-4,Jamie Feick
+2000-03-01,25-242,NJN,AWAY,DEN,W (+13),0,26:18,4,6,.667,0,0,,0,0,,3,8,11,0,0,2,0,1,8,10.9,+6,Jamie Feick
+2000-03-02,25-243,NJN,AWAY,DAL,W (+1),0,14:25,2,3,.667,0,0,,0,0,,0,6,6,1,0,1,0,2,4,5.1,+14,Jamie Feick
+2000-03-04,25-245,NJN,AWAY,HOU,L (-7),0,12:42,0,2,.000,0,0,,0,0,,0,1,1,1,0,0,0,1,0,-0.8,+1,Jamie Feick
+2000-03-06,25-247,NJN,AWAY,SAS,L (-2),0,31:02,2,4,.500,0,0,,2,2,1.000,2,9,11,2,2,0,2,4,6,7.9,-2,Jamie Feick
+2000-03-08,25-249,NJN,HOME,POR,W (+12),0,25:35,6,11,.545,2,2,1.000,2,4,.500,3,5,8,2,1,0,0,3,16,14.7,-3,Jamie Feick
+2000-03-10,25-251,NJN,AWAY,MIL,W (+28),0,31:17,2,4,.500,0,0,,1,2,.500,2,9,11,1,1,0,1,2,5,6.6,+17,Jamie Feick
+2000-03-12,25-253,NJN,HOME,ORL,W (+38),0,26:02,2,5,.400,0,0,,2,3,.667,6,4,10,0,0,1,1,3,6,6.8,+21,Jamie Feick
+2000-03-18,25-259,NJN,HOME,MIL,W (+2),0,31:36,1,2,.500,0,0,,1,2,.500,4,6,10,0,0,1,1,3,3,4.7,-3,Jamie Feick
+2000-03-19,25-260,NJN,HOME,UTA,L (-4),0,25:58,4,7,.571,0,0,,1,1,1.000,3,8,11,0,0,0,1,4,9,7.6,+2,Jamie Feick
+2000-03-21,25-262,NJN,AWAY,TOR,W (+7),0,21:53,2,3,.667,0,0,,2,2,1.000,0,5,5,1,1,2,0,3,6,8.1,+12,Jamie Feick
+2000-03-22,25-263,NJN,AWAY,CHH,L (-16),0,22:20,0,0,,0,0,,2,2,1.000,1,2,3,0,0,0,1,2,2,1.5,-21,Jamie Feick
+2000-03-24,25-265,NJN,HOME,MIN,L (-1),0,26:24,3,8,.375,0,0,,0,0,,3,5,8,0,1,0,2,2,6,3.4,-3,Jamie Feick
+2000-03-26,25-267,NJN,HOME,DEN,L (-2),1,28:41,2,3,.667,0,0,,0,1,.000,1,7,8,1,0,0,0,1,4,5.4,+4,Jamie Feick
+2000-03-28,25-269,NJN,HOME,IND,W (+5),0,26:11,1,6,.167,0,0,,0,0,,3,4,7,0,1,0,0,4,2,0.9,-10,Jamie Feick
+2000-03-30,25-271,NJN,HOME,TOR,W (+4),0,18:04,2,3,.667,0,0,,0,0,,3,6,9,1,0,1,0,2,4,7.2,+10,Jamie Feick
+2000-03-31,25-272,NJN,AWAY,ORL,L (-6),0,23:43,0,2,.000,0,0,,0,2,.000,3,7,10,0,1,0,0,2,0,2.2,-2,Jamie Feick
+2000-04-02,25-274,NJN,HOME,DET,L (-21),0,18:01,2,4,.500,0,0,,2,3,.667,4,3,7,0,0,0,0,1,6,6.9,-8,Jamie Feick
+2000-04-04,25-276,NJN,AWAY,WAS,L (-9),0,8:30,1,2,.500,0,0,,0,0,,2,5,7,0,0,0,0,0,2,3.9,+5,Jamie Feick
+2000-04-05,25-277,NJN,AWAY,IND,L (-4),0,25:05,1,2,.500,0,0,,0,0,,0,7,7,1,0,0,0,0,2,3.8,-5,Jamie Feick
+2000-04-07,25-279,NJN,HOME,MIA,L (-18),1,41:13,2,7,.286,1,1,1.000,0,0,,4,11,15,4,1,1,0,2,5,10.7,-8,Jamie Feick
+2000-04-08,25-280,NJN,AWAY,MIL,L (-8),1,27:39,1,2,.500,0,0,,0,0,,3,4,7,0,1,0,0,2,2,4.5,-10,Jamie Feick
+2000-04-11,25-283,NJN,AWAY,CHI,L (-7),1,34:43,2,6,.333,0,0,,0,0,,4,8,12,2,2,0,1,0,4,8.2,-10,Jamie Feick
+2000-04-12,25-284,NJN,AWAY,NYK,L (-2),0,26:13,2,4,.500,0,0,,0,0,,4,6,10,0,0,0,0,4,4,5.0,+5,Jamie Feick
+2000-04-14,25-286,NJN,HOME,ORL,L (-8),0,32:10,0,1,.000,0,0,,1,2,.500,1,5,6,0,0,0,1,6,1,-1.3,-6,Jamie Feick
+2000-04-18,25-290,NJN,AWAY,ATL,L (-2),0,21:39,1,2,.500,0,0,,0,0,,0,6,6,0,0,0,0,4,2,1.2,+2,Jamie Feick
+2000-04-19,25-291,NJN,HOME,CLE,L (-3),0,35:54,3,8,.375,0,0,,2,6,.333,8,4,12,2,2,1,0,4,8,11.3,-2,Jamie Feick

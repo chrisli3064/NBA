@@ -1,0 +1,30 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+2013-10-30,23-006,DET,HOME,WAS,W (+11),0,0:19,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,117,0.0,-6.3,Peyton Siva
+2013-11-17,23-024,DET,AWAY,LAL,L (-15),0,0:28,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,127,0.0,-11.3,Peyton Siva
+2013-11-19,23-026,DET,HOME,NYK,W (+6),0,11:22,.000,.000,0.0,22.8,11.7,0.0,0.0,0.0,50.0,9.0,0,105,-1.9,-17.9,Peyton Siva
+2013-11-20,23-027,DET,AWAY,ATL,L (-8),0,6:28,,,0.0,22.5,9.2,21.2,16.0,0.0,,0.0,217,73,2.2,11.5,Peyton Siva
+2013-11-22,23-029,DET,HOME,ATL,L (-7),0,4:24,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,30.1,0,110,-3.0,-41.8,Peyton Siva
+2013-11-24,23-031,DET,AWAY,BRK,W (+12),0,0:35,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,116,0.0,-8.4,Peyton Siva
+2013-11-29,23-036,DET,HOME,LAL,L (-4),0,6:49,.500,.500,12.8,0.0,7.1,0.0,0.0,0.0,50.0,22.7,55,119,-0.3,-17.1,Peyton Siva
+2013-12-01,23-038,DET,HOME,PHI,W (+15),0,7:19,.000,.000,0.0,14.0,6.7,16.0,6.0,0.0,66.7,15.2,19,85,-1.1,-14.0,Peyton Siva
+2013-12-04,23-041,DET,AWAY,MIL,W (+7),0,3:38,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,11.1,0,111,-2.2,-38.8,Peyton Siva
+2013-12-07,23-044,DET,AWAY,CHI,W (+17),0,6:05,.000,.000,0.0,0.0,0.0,0.0,0.0,11.0,50.0,15.1,0,85,-1.4,-13.5,Peyton Siva
+2013-12-08,23-045,DET,HOME,MIA,L (-15),0,14:22,.333,.333,0.0,20.9,8.7,40.9,0.0,0.0,40.0,15.0,74,125,1.3,-8.5,Peyton Siva
+2013-12-10,23-047,DET,HOME,MIN,L (-27),0,7:01,,,0.0,16.3,8.0,35.1,0.0,0.0,100.0,6.2,72,129,0.7,-6.2,Peyton Siva
+2013-12-11,23-048,DET,AWAY,NOP,L (-5),0,6:41,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,125,-0.4,-13.6,Peyton Siva
+2014-02-26,23-125,DET,AWAY,SAS,L (-10),0,0:46,1.500,1.500,0.0,0.0,0.0,0.0,0.0,0.0,0.0,56.7,300,129,2.7,128.6,Peyton Siva
+2014-03-05,23-132,DET,HOME,CHI,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peyton Siva
+2014-03-07,23-134,DET,AWAY,MIN,L (-13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peyton Siva
+2014-03-09,23-136,DET,AWAY,BOS,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peyton Siva
+2014-03-11,23-138,DET,HOME,SAC,W (+10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peyton Siva
+2014-03-12,23-139,DET,AWAY,TOR,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peyton Siva
+2014-03-24,23-151,DET,AWAY,UTA,W (+20),0,1:47,,,0.0,0.0,0.0,58.5,0.0,0.0,,0.0,220,117,0.7,12.4,Peyton Siva
+2014-03-28,23-155,DET,HOME,MIA,L (-32),0,4:44,.000,.000,0.0,29.8,12.2,33.8,11.9,0.0,33.3,30.7,15,105,-0.4,-12.9,Peyton Siva
+2014-03-29,23-156,DET,AWAY,PHI,L (-25),0,13:25,.250,.250,0.0,0.0,0.0,48.6,3.6,0.0,0.0,12.2,96,125,3.0,-3.6,Peyton Siva
+2014-04-04,23-162,DET,AWAY,BRK,L (-12),0,21:21,.200,.200,5.2,0.0,3.1,17.4,0.0,0.0,0.0,10.6,98,139,1.3,-12.6,Peyton Siva
+2014-04-05,23-163,DET,HOME,BOS,W (+4),0,14:36,.315,.000,0.0,7.3,4.1,43.3,7.3,0.0,0.0,14.5,123,113,5.5,4.9,Peyton Siva
+2014-04-08,23-166,DET,AWAY,ATL,W (+7),0,14:55,.727,.750,0.0,11.9,6.4,23.5,3.4,0.0,0.0,19.2,165,99,8.4,14.4,Peyton Siva
+2014-04-09,23-167,DET,AWAY,CLE,L (-22),0,21:50,.313,.313,0.0,5.8,2.4,29.7,2.2,0.0,11.1,15.8,85,127,3.3,-6.4,Peyton Siva
+2014-04-11,23-169,DET,AWAY,CHI,L (-8),0,17:11,.761,.714,0.0,0.0,0.0,0.0,0.0,0.0,11.3,23.2,142,124,6.1,1.7,Peyton Siva
+2014-04-13,23-171,DET,HOME,TOR,L (-9),0,19:53,.373,.222,0.0,0.0,0.0,32.0,0.0,0.0,7.6,26.5,96,128,3.3,-10.5,Peyton Siva
+2014-04-16,23-174,DET,AWAY,OKC,L (-1),0,18:22,.500,.500,0.0,0.0,0.0,14.2,0.0,0.0,20.0,11.5,101,128,1.6,-6.2,Peyton Siva

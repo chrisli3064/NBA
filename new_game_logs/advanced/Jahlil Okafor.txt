@@ -1,0 +1,281 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+2018-10-17,22-306,NOP,AWAY,HOU,W (+19),0,1:35,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,50.7,0,118,-2.0,-63.2,Jahlil Okafor
+2018-10-19,22-308,NOP,HOME,SAC,W (+20),0,7:32,.694,.500,15.2,26.0,21.0,12.8,0.0,0.0,25.8,19.7,128,117,3.2,-4.2,Jahlil Okafor
+2018-10-27,22-316,NOP,HOME,UTA,L (-21),0,14:21,.533,.444,20.9,28.7,24.2,0.0,0.0,0.0,0.0,27.9,123,124,8.5,-0.1,Jahlil Okafor
+2018-10-29,22-318,NOP,AWAY,DEN,L (-5),1,17:47,.477,.444,13.8,5.9,9.5,0.0,0.0,0.0,17.5,27.4,85,118,3.2,-13.4,Jahlil Okafor
+2018-11-01,22-321,NOP,AWAY,POR,L (-13),1,14:04,.500,.500,26.2,9.0,19.0,0.0,0.0,0.0,14.3,19.5,109,132,3.5,-11.6,Jahlil Okafor
+2018-11-03,22-323,NOP,AWAY,SAS,L (-14),0,0:54,,,0.0,100.0,58.6,0.0,0.0,0.0,,0.0,0,95,0.3,2.5,Jahlil Okafor
+2018-11-10,22-330,NOP,HOME,PHO,W (+20),0,1:47,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,112,0.0,-7.4,Jahlil Okafor
+2018-11-19,22-339,NOP,HOME,SAS,W (+14),0,0:47,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,136,0.0,-9.5,Jahlil Okafor
+2018-11-21,22-341,NOP,AWAY,PHI,L (-1),0,0:02,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,122,0.0,-7.9,Jahlil Okafor
+2018-11-28,22-348,NOP,HOME,WAS,W (+21),0,1:38,,,0.0,49.8,28.8,0.0,0.0,0.0,,0.0,0,89,-0.1,-11.0,Jahlil Okafor
+2018-12-02,22-352,NOP,AWAY,CHO,W (+10),0,3:44,1.000,1.000,0.0,24.7,14.1,0.0,0.0,0.0,0.0,22.6,200,109,3.7,16.9,Jahlil Okafor
+2018-12-05,22-355,NOP,HOME,DAL,W (+26),0,3:33,.500,.500,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.2,92,110,0.6,-15.7,Jahlil Okafor
+2018-12-10,22-360,NOP,AWAY,BOS,L (-13),0,2:30,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.7,0,126,-0.7,-24.3,Jahlil Okafor
+2018-12-19,23-004,NOP,AWAY,MIL,L (-8),0,13:03,.767,.750,16.0,8.6,12.4,0.0,0.0,14.1,0.0,35.9,158,115,15.3,14.9,Jahlil Okafor
+2018-12-21,23-006,NOP,AWAY,LAL,L (-8),0,13:09,.508,.571,20.3,15.5,18.1,12.4,3.5,0.0,11.3,26.8,101,104,6.1,-0.5,Jahlil Okafor
+2018-12-23,23-008,NOP,AWAY,SAC,L (-5),0,17:43,.600,.600,10.8,37.4,25.1,0.0,0.0,3.9,0.0,11.4,134,108,7.4,-0.8,Jahlil Okafor
+2018-12-26,23-011,NOP,AWAY,DAL,L (-3),0,16:48,.615,.500,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.5,126,126,4.8,-5.4,Jahlil Okafor
+2018-12-28,23-013,NOP,HOME,DAL,W (+2),0,6:43,1.000,1.000,14.9,0.0,8.1,0.0,7.5,0.0,50.0,12.0,95,106,0.4,-12.7,Jahlil Okafor
+2018-12-29,23-014,NOP,HOME,HOU,L (-4),0,9:03,.500,.500,0.0,11.8,6.3,14.9,0.0,0.0,0.0,9.3,117,117,2.0,0.7,Jahlil Okafor
+2018-12-31,23-016,NOP,HOME,MIN,W (+9),1,13:46,.470,.429,45.9,15.5,29.4,0.0,0.0,5.4,0.0,23.3,132,117,6.9,-6.0,Jahlil Okafor
+2019-01-05,23-021,NOP,AWAY,CLE,W (+35),0,19:25,.740,.600,7.3,16.9,12.7,6.2,0.0,9.0,0.0,15.5,169,102,10.2,1.4,Jahlil Okafor
+2019-01-07,23-023,NOP,HOME,MEM,W (+19),0,23:36,.549,.500,11.6,24.8,18.7,10.7,2.1,0.0,19.6,19.6,105,99,7.7,-2.0,Jahlil Okafor
+2019-01-09,23-025,NOP,HOME,CLE,W (+16),0,11:36,.500,.500,12.5,9.9,11.0,12.3,4.0,7.1,0.0,21.2,123,113,6.0,-0.3,Jahlil Okafor
+2019-01-12,23-028,NOP,AWAY,MIN,L (-4),0,3:55,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,121,0.0,-7.8,Jahlil Okafor
+2019-01-14,23-030,NOP,AWAY,LAC,W (+4),0,9:44,.500,.500,8.7,58.7,29.9,15.8,0.0,0.0,0.0,24.0,115,110,5.5,1.6,Jahlil Okafor
+2019-01-16,23-032,NOP,AWAY,GSW,L (-7),0,4:28,,,0.0,82.7,40.6,45.7,0.0,0.0,100.0,8.8,85,117,0.8,1.1,Jahlil Okafor
+2019-01-18,23-034,NOP,AWAY,POR,L (-16),0,6:54,.000,.000,16.6,93.6,59.2,17.0,0.0,0.0,0.0,19.3,46,97,1.4,-7.6,Jahlil Okafor
+2019-01-21,23-037,NOP,AWAY,MEM,W (+20),1,35:24,.812,.818,12.7,17.9,16.0,0.0,1.4,5.1,0.0,16.0,168,88,20.9,8.7,Jahlil Okafor
+2019-01-23,23-039,NOP,HOME,DET,L (-4),1,30:59,.559,.615,9.7,21.7,15.8,0.0,0.0,18.6,24.8,29.3,84,91,11.7,-0.6,Jahlil Okafor
+2019-01-24,23-040,NOP,AWAY,OKC,L (-6),1,25:16,.723,.750,14.9,15.8,15.4,0.0,0.0,0.0,7.4,21.6,132,119,15.8,1.2,Jahlil Okafor
+2019-01-26,23-042,NOP,HOME,SAS,L (-12),1,36:23,.845,.833,10.1,36.3,21.5,0.0,1.3,5.9,0.0,16.4,174,117,26.8,7.7,Jahlil Okafor
+2019-01-29,23-045,NOP,AWAY,HOU,W (+5),1,36:51,.785,.733,12.1,18.3,15.6,8.2,0.0,5.8,18.9,23.4,133,113,23.7,2.7,Jahlil Okafor
+2019-01-30,23-046,NOP,HOME,DEN,L (-6),1,30:51,.467,.467,10.4,16.9,13.7,0.0,1.6,2.6,16.7,25.8,80,103,6.6,-8.9,Jahlil Okafor
+2019-02-02,23-049,NOP,AWAY,SAS,L (-5),1,24:37,.375,.375,4.3,24.9,14.8,21.0,1.9,8.5,11.1,16.1,88,102,7.8,0.7,Jahlil Okafor
+2019-02-04,23-051,NOP,HOME,IND,L (-2),1,33:08,.722,.688,6.0,31.9,19.2,6.3,1.4,2.3,5.5,22.8,139,103,22.3,7.3,Jahlil Okafor
+2019-02-06,23-053,NOP,AWAY,CHI,W (+5),1,24:50,.697,.750,0.0,23.6,11.8,0.0,0.0,0.0,0.0,16.5,139,127,10.1,-3.5,Jahlil Okafor
+2019-02-12,23-059,NOP,HOME,ORL,L (-30),1,29:04,.444,.444,15.3,7.2,11.6,5.6,3.3,0.0,18.2,16.3,91,117,7.7,-5.2,Jahlil Okafor
+2019-02-14,23-061,NOP,HOME,OKC,W (+9),0,22:48,.820,.833,19.1,15.3,17.0,10.7,0.0,0.0,21.5,16.8,141,121,12.4,0.2,Jahlil Okafor
+2019-02-22,23-069,NOP,AWAY,IND,L (-15),0,16:34,.500,.500,5.9,23.2,14.6,16.9,0.0,0.0,0.0,14.1,122,121,6.3,1.7,Jahlil Okafor
+2019-02-23,23-070,NOP,HOME,LAL,W (+13),1,13:20,.635,.571,17.1,9.5,13.5,10.1,0.0,6.9,11.3,26.6,126,108,8.4,0.1,Jahlil Okafor
+2019-02-25,23-072,NOP,HOME,PHI,L (-1),0,17:06,.444,.400,0.0,20.4,10.0,7.3,0.0,0.0,0.0,14.9,99,106,4.4,-4.1,Jahlil Okafor
+2019-02-27,23-074,NOP,AWAY,LAL,L (-6),0,3:25,,,0.0,63.9,30.9,0.0,0.0,0.0,,0.0,0,109,-0.6,-18.1,Jahlil Okafor
+2019-03-01,23-076,NOP,AWAY,PHO,W (+14),0,8:01,.667,.667,0.0,11.5,6.7,15.7,0.0,0.0,0.0,15.0,146,113,3.3,-0.5,Jahlil Okafor
+2019-03-02,23-077,NOP,AWAY,DEN,W (+8),1,23:16,.530,.556,4.5,4.6,4.5,5.9,0.0,3.4,24.1,20.6,83,110,3.9,-7.8,Jahlil Okafor
+2019-03-06,23-081,NOP,HOME,UTA,L (-10),0,5:13,.387,.333,21.4,42.8,32.1,28.9,8.6,15.9,0.0,31.1,103,76,4.2,17.3,Jahlil Okafor
+2019-03-08,23-083,NOP,HOME,TOR,L (-23),1,17:06,.333,.333,0.0,19.1,8.3,0.0,0.0,0.0,25.0,8.8,50,119,0.2,-13.0,Jahlil Okafor
+2019-03-10,23-085,NOP,AWAY,ATL,L (-12),0,8:16,.333,.333,0.0,37.1,17.8,0.0,0.0,0.0,0.0,31.0,63,123,1.5,-17.1,Jahlil Okafor
+2019-03-15,23-090,NOP,HOME,POR,L (-12),1,12:02,.635,.714,7.8,24.9,16.1,0.0,0.0,0.0,0.0,27.1,121,118,6.3,-3.2,Jahlil Okafor
+2019-03-16,23-091,NOP,HOME,PHO,L (-2),0,18:25,.684,.714,10.5,5.8,8.2,0.0,0.0,4.1,21.5,28.3,106,115,9.1,-5.3,Jahlil Okafor
+2019-03-18,23-093,NOP,AWAY,DAL,W (+4),0,6:47,.333,.333,0.0,28.4,14.9,0.0,0.0,11.2,25.0,23.9,50,101,-0.2,-17.6,Jahlil Okafor
+2019-03-20,23-095,NOP,AWAY,ORL,L (-23),1,28:33,.349,.333,2.8,21.4,11.8,16.1,1.7,5.3,7.2,19.3,80,110,7.7,-3.2,Jahlil Okafor
+2019-03-24,23-099,NOP,HOME,HOU,L (-23),0,12:00,.500,.500,0.0,38.1,17.0,11.8,0.0,21.6,0.0,7.2,119,109,3.9,1.7,Jahlil Okafor
+2019-03-26,23-101,NOP,HOME,ATL,L (-10),0,7:43,.000,.000,0.0,40.6,21.7,0.0,0.0,0.0,33.3,15.0,0,116,-2.3,-24.4,Jahlil Okafor
+2019-03-28,23-103,NOP,HOME,SAC,W (+3),1,21:24,.750,.750,0.0,44.9,22.7,0.0,0.0,6.2,0.0,15.6,144,106,12.9,5.2,Jahlil Okafor
+2019-03-31,23-106,NOP,HOME,LAL,L (-28),1,25:31,.845,.875,4.7,11.1,8.3,7.6,0.0,0.0,10.1,16.0,148,124,12.7,2.9,Jahlil Okafor
+2019-04-03,23-109,NOP,HOME,CHO,L (-6),1,22:55,.820,.750,4.8,24.2,15.3,0.0,0.0,7.5,38.1,14.8,98,108,6.1,-5.5,Jahlil Okafor
+2019-04-05,23-111,NOP,AWAY,PHO,L (-7),1,23:58,.446,.364,9.2,17.3,13.4,16.5,0.0,0.0,19.6,26.5,92,127,6.2,-9.7,Jahlil Okafor
+2019-04-07,23-113,NOP,AWAY,SAC,W (+4),1,35:15,.773,.750,18.2,19.1,18.7,10.6,0.0,3.9,6.3,17.8,163,123,25.9,5.7,Jahlil Okafor
+2019-04-09,23-115,NOP,HOME,GSW,L (-9),1,37:43,.603,.625,2.4,16.6,8.9,5.1,2.5,0.0,10.8,31.3,99,108,19.8,-0.6,Jahlil Okafor
+2020-12-23,25-008,DET,AWAY,MIN,L (-10),0,15:18,.571,.571,29.2,19.2,23.9,9.7,0.0,0.0,22.2,26.0,104,114,5.5,-6.8,Jahlil Okafor
+2020-12-26,25-011,DET,HOME,CLE,L (-9),0,18:27,.750,.750,5.8,17.5,11.6,0.0,0.0,0.0,0.0,9.4,151,109,4.8,-3.6,Jahlil Okafor
+2021-01-03,25-019,DET,HOME,BOS,L (-2),0,8:17,1.000,1.000,31.3,0.0,15.7,24.5,0.0,10.7,0.0,16.4,215,130,7.9,18.4,Jahlil Okafor
+2021-01-04,25-020,DET,AWAY,MIL,L (-10),0,3:56,.500,.500,25.4,0.0,15.3,0.0,0.0,0.0,0.0,21.9,120,129,1.3,-9.9,Jahlil Okafor
+2021-01-06,25-022,DET,AWAY,MIL,L (-15),0,11:07,.600,.600,16.3,10.5,13.8,0.0,0.0,0.0,0.0,18.1,136,133,5.4,-0.1,Jahlil Okafor
+2021-01-08,25-024,DET,HOME,PHO,W (+5),0,10:13,.500,.500,10.4,11.3,10.8,0.0,9.8,0.0,0.0,17.8,108,85,5.0,7.6,Jahlil Okafor
+2021-01-10,25-026,DET,HOME,UTA,L (-10),0,7:51,1.000,1.000,0.0,13.9,6.0,0.0,0.0,0.0,40.0,29.6,83,116,3.4,0.0,Jahlil Okafor
+2021-01-13,25-029,DET,HOME,MIL,L (-9),0,9:04,,,0.0,36.1,16.7,0.0,0.0,0.0,,0.0,0,113,0.9,-6.1,Jahlil Okafor
+2021-01-20,25-036,DET,AWAY,ATL,L (-8),0,9:12,.333,.333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.6,68,126,0.3,-10.9,Jahlil Okafor
+2021-01-23,25-039,DET,HOME,PHI,L (-4),0,9:10,.500,.500,0.0,0.0,0.0,24.6,0.0,0.0,0.0,27.5,102,121,2.9,-4.5,Jahlil Okafor
+2021-01-27,25-043,DET,AWAY,CLE,L (-15),0,5:02,.521,.500,22.7,0.0,12.4,0.0,0.0,14.4,0.0,23.5,122,115,3.0,4.1,Jahlil Okafor
+2021-01-30,25-046,DET,AWAY,GSW,L (-27),0,12:00,.333,.333,8.7,20.5,14.1,0.0,0.0,0.0,0.0,11.4,84,126,1.6,-9.1,Jahlil Okafor
+2021-03-04,25-079,DET,AWAY,NYK,L (-10),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jahlil Okafor
+2021-04-08,25-114,DET,AWAY,SAC,W (+12),0,15:11,.709,.583,0.0,22.6,11.7,27.5,0.0,0.0,11.4,25.5,138,103,8.8,7.6,Jahlil Okafor
+2021-04-10,25-116,DET,AWAY,POR,L (-15),0,9:18,1.042,1.000,0.0,24.0,11.9,19.3,0.0,0.0,0.0,14.0,220,123,5.9,7.8,Jahlil Okafor
+2021-04-14,25-120,DET,HOME,LAC,L (-2),0,5:25,1.000,1.000,0.0,35.4,19.1,0.0,0.0,0.0,50.0,16.0,79,99,1.3,-2.7,Jahlil Okafor
+2021-04-16,25-122,DET,HOME,OKC,W (+6),0,16:17,.500,.500,0.0,0.0,0.0,16.8,2.7,5.1,0.0,7.2,129,101,3.6,0.2,Jahlil Okafor
+2021-04-17,25-123,DET,AWAY,WAS,L (-21),0,7:17,.000,.000,0.0,0.0,0.0,17.8,0.0,0.0,66.7,17.6,17,125,-2.0,-19.9,Jahlil Okafor
+2021-04-19,25-125,DET,HOME,CLE,W (+4),0,16:30,.667,.667,0.0,6.8,3.5,8.0,0.0,0.0,40.0,13.0,79,111,0.5,-10.6,Jahlil Okafor
+2021-04-22,25-128,DET,AWAY,SAS,L (-15),0,19:58,.717,.750,0.0,21.4,11.2,0.0,0.0,0.0,0.0,11.3,144,117,5.4,-1.8,Jahlil Okafor
+2021-04-29,25-135,DET,HOME,DAL,L (-10),0,18:45,.694,1.000,0.0,11.6,6.9,8.3,2.6,4.3,41.0,12.0,71,112,2.8,-4.8,Jahlil Okafor
+2021-05-04,25-140,DET,HOME,CHO,L (-3),0,21:39,1.020,1.000,9.9,8.5,9.1,0.0,0.0,0.0,14.5,14.3,172,114,10.7,3.7,Jahlil Okafor
+2021-05-06,25-142,DET,HOME,MEM,W (+14),0,17:09,.658,.667,8.0,24.3,17.3,10.3,2.9,0.0,9.2,30.4,120,98,10.9,4.0,Jahlil Okafor
+2021-05-08,25-144,DET,AWAY,PHI,L (-14),0,3:16,1.000,1.000,0.0,34.2,16.7,0.0,0.0,0.0,33.3,41.2,98,122,1.5,-9.8,Jahlil Okafor
+2021-05-09,25-145,DET,HOME,CHI,L (-12),0,15:31,.333,.333,14.4,16.7,15.5,0.0,3.3,0.0,14.3,21.3,72,112,2.2,-11.0,Jahlil Okafor
+2021-05-11,25-147,DET,HOME,MIN,L (-19),0,15:25,.602,.500,0.0,12.2,6.9,0.0,0.0,0.0,47.5,17.2,61,115,-1.0,-16.2,Jahlil Okafor
+2021-05-14,25-150,DET,HOME,DEN,L (-13),1,21:39,.604,.556,18.1,0.0,9.9,0.0,0.0,0.0,8.5,25.5,120,122,9.3,-4.5,Jahlil Okafor
+2021-05-16,25-152,DET,HOME,MIA,L (-13),1,24:17,.643,.600,4.9,24.7,13.7,0.0,0.0,4.0,15.5,11.4,110,122,5.1,-7.2,Jahlil Okafor
+2017-10-21,21-310,PHI,AWAY,TOR,L (-34),0,22:09,.571,.571,17.0,26.4,21.2,0.0,0.0,9.6,18.6,19.8,102,115,8.0,-1.5,Jahlil Okafor
+2017-11-07,21-327,PHI,AWAY,UTA,W (+7),0,3:08,.000,.000,0.0,0.0,0.0,45.1,0.0,0.0,33.3,39.6,20,101,-2.9,-40.2,Jahlil Okafor
+2017-12-15,22-000,BRK,AWAY,TOR,L (-33),0,22:30,.455,.455,5.3,15.2,10.4,0.0,2.2,0.0,15.4,26.1,77,120,4.1,-7.1,Jahlil Okafor
+2018-01-03,22-019,BRK,HOME,MIN,W (+1),0,11:10,.333,.333,0.0,21.0,12.3,0.0,0.0,0.0,25.0,17.9,48,108,-0.9,-15.6,Jahlil Okafor
+2018-01-06,22-022,BRK,HOME,BOS,L (-2),0,12:39,.466,.417,8.6,27.6,19.2,0.0,0.0,9.5,7.2,45.1,93,81,7.5,10.1,Jahlil Okafor
+2018-01-08,22-024,BRK,HOME,TOR,L (-1),0,9:31,.333,.333,0.0,10.7,5.3,0.0,0.0,0.0,0.0,13.0,70,104,0.2,-8.6,Jahlil Okafor
+2018-01-10,22-026,BRK,HOME,DET,L (-34),0,16:56,.000,.000,0.0,25.8,12.7,0.0,0.0,0.0,0.0,8.7,0,120,-1.7,-17.5,Jahlil Okafor
+2018-01-12,22-028,BRK,AWAY,ATL,W (+5),0,12:11,.799,.750,0.0,0.0,0.0,24.1,0.0,0.0,8.6,40.8,145,114,11.9,12.4,Jahlil Okafor
+2018-01-13,22-029,BRK,AWAY,WAS,L (-6),0,7:43,.500,.500,0.0,0.0,0.0,19.6,0.0,0.0,33.3,16.8,76,115,0.7,-6.4,Jahlil Okafor
+2018-01-15,22-031,BRK,HOME,NYK,L (-15),0,6:58,.000,.000,0.0,0.0,0.0,0.0,0.0,10.4,0.0,6.1,0,116,-0.4,-11.5,Jahlil Okafor
+2018-01-17,22-033,BRK,HOME,SAS,L (-5),0,12:57,.667,.667,0.0,30.9,16.7,26.9,0.0,0.0,0.0,10.6,147,102,3.7,4.0,Jahlil Okafor
+2018-01-19,22-035,BRK,HOME,MIA,W (+6),0,7:32,1.000,1.000,0.0,27.7,14.6,0.0,0.0,10.3,33.3,18.8,104,96,2.5,-1.3,Jahlil Okafor
+2018-01-21,22-037,BRK,AWAY,DET,W (+1),0,6:35,.333,.333,0.0,15.9,8.2,24.5,0.0,0.0,25.0,28.1,62,108,0.3,-9.8,Jahlil Okafor
+2018-01-23,22-039,BRK,AWAY,OKC,L (-1),0,9:41,.694,.500,0.0,9.4,5.2,15.5,0.0,7.2,0.0,14.0,158,116,4.3,6.5,Jahlil Okafor
+2018-01-26,22-042,BRK,AWAY,MIL,L (-25),0,9:11,.333,.333,0.0,14.1,5.9,18.8,0.0,0.0,0.0,14.0,83,123,0.9,-5.8,Jahlil Okafor
+2018-01-27,22-043,BRK,AWAY,MIN,L (-14),0,23:30,.685,.643,4.6,21.3,13.3,0.0,0.0,2.7,0.0,30.2,140,119,16.9,7.9,Jahlil Okafor
+2018-01-30,22-046,BRK,AWAY,NYK,L (-16),0,24:48,.336,.286,12.6,38.7,26.2,6.0,2.0,3.1,21.2,16.5,75,102,4.4,-7.1,Jahlil Okafor
+2018-01-31,22-047,BRK,HOME,PHI,W (+8),0,14:20,.800,.800,18.6,9.3,14.0,0.0,0.0,5.8,16.7,20.0,138,120,5.9,-2.9,Jahlil Okafor
+2018-02-02,22-049,BRK,HOME,LAL,L (-3),0,15:24,.434,.250,0.0,12.2,6.6,0.0,0.0,14.2,14.8,20.4,77,104,3.5,-5.1,Jahlil Okafor
+2018-02-04,22-051,BRK,HOME,MIL,L (-15),0,10:33,.595,.600,26.8,11.7,20.2,19.5,5.1,0.0,14.5,29.8,116,113,7.0,7.5,Jahlil Okafor
+2018-02-06,22-053,BRK,HOME,HOU,L (-10),0,24:41,.727,.778,4.6,27.8,15.2,0.0,0.0,4.1,8.8,21.3,127,134,12.2,-0.5,Jahlil Okafor
+2018-02-07,22-054,BRK,AWAY,DET,L (-9),0,8:47,.500,.500,0.0,10.9,5.7,16.3,0.0,0.0,0.0,9.6,116,115,0.4,-9.4,Jahlil Okafor
+2018-02-10,22-057,BRK,HOME,NOP,L (-10),0,5:08,.750,.750,0.0,20.2,9.5,0.0,0.0,0.0,0.0,32.6,143,118,4.7,13.2,Jahlil Okafor
+2018-02-12,22-059,BRK,HOME,LAC,L (-13),0,12:50,.902,1.000,16.6,21.4,18.7,12.6,0.0,5.4,34.0,20.9,118,120,6.3,-0.5,Jahlil Okafor
+2018-02-26,22-073,BRK,HOME,CHI,W (+17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jahlil Okafor
+2018-02-27,22-074,BRK,AWAY,CLE,L (-6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jahlil Okafor
+2018-03-11,22-086,BRK,HOME,PHI,L (-23),0,5:48,.667,.667,16.9,0.0,9.2,0.0,0.0,0.0,25.0,29.2,95,130,2.0,-6.2,Jahlil Okafor
+2018-03-16,22-091,BRK,AWAY,PHI,L (-4),0,13:25,.625,.625,8.9,14.6,12.1,0.0,0.0,10.5,0.0,25.4,128,119,8.3,4.4,Jahlil Okafor
+2018-03-17,22-092,BRK,HOME,DAL,W (+8),0,6:20,,,0.0,33.0,17.2,0.0,0.0,0.0,100.0,7.4,0,112,-0.4,-13.9,Jahlil Okafor
+2018-04-03,22-109,BRK,AWAY,PHI,L (-26),0,16:25,.833,.833,5.7,29.2,16.1,0.0,0.0,4.2,0.0,24.1,154,116,14.1,15.2,Jahlil Okafor
+2015-10-28,19-317,PHI,AWAY,BOS,L (-17),1,38:05,.697,.625,11.2,9.0,10.1,5.9,1.3,4.1,30.0,29.2,103,115,16.0,-1.6,Jahlil Okafor
+2015-10-30,19-319,PHI,HOME,UTA,L (-28),1,36:04,.363,.333,2.9,15.1,8.9,9.7,1.5,0.0,12.7,21.6,68,112,3.1,-8.1,Jahlil Okafor
+2015-11-02,19-322,PHI,HOME,CLE,L (-7),1,26:54,.538,.524,7.9,5.1,6.7,0.0,0.0,0.0,4.3,38.5,104,117,12.4,-3.5,Jahlil Okafor
+2015-11-04,19-324,PHI,AWAY,MIL,L (-4),1,34:43,.733,.692,3.5,14.7,9.5,0.0,0.0,4.4,12.3,21.4,127,100,15.9,3.5,Jahlil Okafor
+2015-11-06,19-326,PHI,AWAY,CLE,L (-6),1,37:04,.491,.471,3.2,15.4,9.4,12.7,0.0,0.0,9.8,25.9,97,117,10.0,-7.6,Jahlil Okafor
+2015-11-07,19-327,PHI,HOME,ORL,L (-8),1,32:52,.516,.500,7.1,11.5,9.2,17.0,0.0,6.3,14.0,29.1,99,113,12.7,-2.0,Jahlil Okafor
+2015-11-09,19-329,PHI,HOME,CHI,L (-23),1,31:24,.368,.360,15.3,27.5,20.8,7.2,0.0,4.3,3.4,36.7,83,104,12.3,-0.8,Jahlil Okafor
+2015-11-11,19-331,PHI,HOME,TOR,L (-16),1,32:39,.568,.591,5.9,17.1,11.1,7.0,0.0,8.3,14.9,37.5,93,125,15.4,-2.8,Jahlil Okafor
+2015-11-13,19-333,PHI,AWAY,OKC,L (-17),1,29:39,.167,.167,9.5,10.3,9.9,12.9,0.0,6.7,18.2,30.9,40,108,-4.1,-17.4,Jahlil Okafor
+2015-11-14,19-334,PHI,AWAY,SAS,L (-9),1,39:01,.573,.529,7.7,23.6,15.5,11.2,0.0,3.6,9.8,24.5,110,96,17.1,5.0,Jahlil Okafor
+2015-11-16,19-336,PHI,HOME,DAL,L (-6),1,32:33,.582,.533,7.2,30.2,19.1,6.6,1.5,5.7,19.7,26.8,97,86,12.9,2.6,Jahlil Okafor
+2015-11-18,19-338,PHI,HOME,IND,L (-27),1,31:22,.549,.545,3.9,14.7,10.1,0.0,1.5,0.0,19.0,21.5,90,111,7.7,-4.8,Jahlil Okafor
+2015-11-20,19-340,PHI,AWAY,CHO,L (-25),1,29:53,.375,.333,7.1,21.1,13.5,12.6,0.0,0.0,18.4,24.8,73,123,4.1,-10.3,Jahlil Okafor
+2015-11-21,19-341,PHI,AWAY,MIA,L (-5),1,34:18,.400,.400,6.1,30.0,17.5,7.1,0.0,8.2,13.0,29.6,76,98,8.3,-4.3,Jahlil Okafor
+2015-11-23,19-343,PHI,AWAY,MIN,L (-5),1,32:57,.691,.667,16.6,26.8,21.3,8.4,0.0,4.4,18.1,29.5,120,104,20.2,4.7,Jahlil Okafor
+2015-11-25,19-345,PHI,AWAY,BOS,L (-4),1,35:54,.495,.412,0.0,22.3,11.6,6.2,0.0,8.6,13.5,27.6,88,84,11.5,0.0,Jahlil Okafor
+2015-11-27,19-347,PHI,AWAY,HOU,L (-2),1,26:43,.400,.333,15.3,10.3,13.1,11.0,1.8,0.0,6.8,24.9,100,124,7.8,-11.2,Jahlil Okafor
+2015-11-29,19-349,PHI,AWAY,MEM,L (-8),1,31:59,.353,.273,7.1,34.4,21.7,5.9,1.5,0.0,19.0,21.7,68,89,3.9,-10.9,Jahlil Okafor
+2015-12-01,19-351,PHI,HOME,LAL,W (+12),1,29:51,.416,.429,11.0,6.6,8.6,11.8,0.0,2.9,12.2,25.4,87,104,6.6,-10.0,Jahlil Okafor
+2015-12-02,19-352,PHI,AWAY,NYK,L (-12),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Jahlil Okafor
+2015-12-05,19-355,PHI,HOME,DEN,L (-3),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Jahlil Okafor
+2015-12-07,19-357,PHI,HOME,SAS,L (-51),0,28:54,.300,.214,0.0,20.8,8.5,7.9,0.0,0.0,10.7,31.8,58,137,-0.3,-12.4,Jahlil Okafor
+2015-12-10,19-360,PHI,AWAY,BRK,L (-9),1,31:16,.594,.467,13.1,27.1,19.0,13.2,0.0,5.1,13.9,31.0,116,111,17.9,2.5,Jahlil Okafor
+2015-12-11,19-361,PHI,HOME,DET,L (-12),1,30:04,.569,.556,10.9,10.0,10.4,0.0,0.0,2.4,9.4,30.5,108,115,13.9,-0.8,Jahlil Okafor
+2015-12-13,19-363,PHI,AWAY,TOR,L (-20),1,35:21,.437,.400,14.1,27.2,20.4,9.4,0.0,2.4,3.7,33.1,99,103,15.3,3.6,Jahlil Okafor
+2015-12-14,19-364,PHI,AWAY,CHI,L (-19),1,33:57,.586,.529,8.2,19.1,12.7,5.6,1.5,2.2,9.6,27.0,112,118,16.9,-0.5,Jahlil Okafor
+2015-12-16,20-001,PHI,AWAY,ATL,L (-21),1,30:11,.649,.583,5.3,35.3,19.5,0.0,0.0,0.0,6.4,23.1,128,133,13.3,-3.6,Jahlil Okafor
+2015-12-18,20-003,PHI,HOME,NYK,L (-10),1,30:01,.546,.529,0.0,17.4,9.4,14.1,0.0,0.0,0.0,27.8,112,112,13.8,1.7,Jahlil Okafor
+2015-12-20,20-005,PHI,AWAY,CLE,L (-22),1,25:19,.353,.273,15.2,19.4,17.0,0.0,0.0,0.0,7.3,22.1,86,115,4.3,-7.7,Jahlil Okafor
+2015-12-22,20-007,PHI,HOME,MEM,L (-14),1,32:37,.676,.667,8.0,10.8,9.4,15.3,0.0,0.0,23.1,24.0,106,114,10.5,-2.6,Jahlil Okafor
+2015-12-23,20-008,PHI,AWAY,MIL,L (-13),1,31:48,.435,.313,10.8,22.9,16.1,10.2,1.5,4.1,4.9,26.8,105,113,13.4,-3.2,Jahlil Okafor
+2015-12-26,20-011,PHI,AWAY,PHO,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jahlil Okafor
+2015-12-28,20-013,PHI,AWAY,UTA,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jahlil Okafor
+2015-12-30,20-015,PHI,AWAY,SAC,W (+5),0,19:51,.379,.364,22.0,27.5,24.4,8.0,2.3,0.0,13.2,30.1,87,99,5.8,-8.8,Jahlil Okafor
+2016-01-01,20-017,PHI,AWAY,LAL,L (-9),0,23:15,.600,.600,4.1,12.4,8.3,0.0,0.0,2.9,9.1,20.5,105,103,8.3,-0.5,Jahlil Okafor
+2016-01-02,20-018,PHI,AWAY,LAC,L (-31),0,17:53,.691,.714,10.7,17.9,13.4,19.0,0.0,0.0,5.7,43.6,126,137,17.7,11.9,Jahlil Okafor
+2016-01-04,20-020,PHI,HOME,MIN,W (+10),1,20:42,.592,.625,14.1,7.5,10.9,12.7,5.0,3.4,19.2,22.2,107,102,8.6,0.2,Jahlil Okafor
+2016-01-07,20-023,PHI,HOME,ATL,L (-28),1,26:31,.591,.563,11.3,16.8,13.9,0.0,1.8,3.0,14.5,31.6,105,122,14.2,-0.1,Jahlil Okafor
+2016-01-09,20-025,PHI,HOME,TOR,L (-13),1,33:40,.598,.600,14.3,8.9,11.9,21.8,3.2,2.5,0.0,22.8,137,117,19.4,6.3,Jahlil Okafor
+2016-01-10,20-026,PHI,HOME,CLE,L (-10),1,32:29,.610,.600,6.6,13.7,10.4,0.0,0.0,0.0,10.4,27.2,107,104,13.4,0.2,Jahlil Okafor
+2016-01-14,20-030,PHI,HOME,CHI,L (-4),1,33:24,.487,.455,3.4,11.9,7.3,9.3,1.6,2.2,7.5,18.6,103,116,9.2,-4.4,Jahlil Okafor
+2016-01-16,20-032,PHI,HOME,POR,W (+25),1,29:09,.704,.750,0.0,32.3,19.8,7.4,0.0,0.0,14.5,33.4,108,92,16.5,-0.9,Jahlil Okafor
+2016-01-18,20-034,PHI,AWAY,NYK,L (-6),1,25:39,.559,.588,0.0,29.3,15.2,0.0,4.0,5.9,5.3,33.9,96,92,15.0,6.6,Jahlil Okafor
+2016-01-20,20-036,PHI,AWAY,ORL,W (+9),1,37:46,.559,.529,3.3,10.2,7.2,5.2,1.4,1.9,14.4,27.3,95,97,13.0,-2.5,Jahlil Okafor
+2016-01-24,20-040,PHI,HOME,BOS,L (-20),1,29:32,.500,.500,10.0,10.0,10.0,6.0,0.0,4.5,9.1,14.8,105,113,7.9,-3.3,Jahlil Okafor
+2016-01-30,20-046,PHI,HOME,GSW,L (-3),0,20:51,.707,.857,0.0,5.2,2.4,0.0,0.0,0.0,17.9,23.2,100,115,6.4,-6.8,Jahlil Okafor
+2016-02-03,20-050,PHI,HOME,ATL,L (-38),1,24:39,.500,.500,12.4,9.1,10.8,23.1,1.8,2.7,33.3,25.8,74,116,5.3,-7.2,Jahlil Okafor
+2016-02-05,20-052,PHI,AWAY,WAS,L (-12),1,21:06,.393,.364,10.6,11.1,10.8,0.0,0.0,0.0,8.0,26.2,79,114,1.9,-15.3,Jahlil Okafor
+2016-02-06,20-053,PHI,HOME,BRK,W (+5),1,32:39,.619,.563,25.7,38.7,32.0,0.0,1.6,7.2,5.3,26.3,138,99,23.6,5.9,Jahlil Okafor
+2016-02-08,20-055,PHI,HOME,LAC,L (-6),1,29:50,.389,.389,10.9,18.7,15.1,8.2,1.7,7.3,14.3,31.3,74,88,7.7,-0.8,Jahlil Okafor
+2016-02-10,20-057,PHI,HOME,SAC,L (-4),1,38:41,.644,.611,7.9,21.2,14.1,21.9,0.0,3.5,22.9,27.7,111,120,18.5,-1.9,Jahlil Okafor
+2016-02-19,20-066,PHI,AWAY,NOP,L (-7),1,19:21,.651,.556,0.0,31.0,16.8,0.0,0.0,3.9,8.5,27.4,117,118,8.5,-6.7,Jahlil Okafor
+2016-02-21,20-068,PHI,AWAY,DAL,L (-26),1,31:42,.662,.632,14.4,14.8,14.6,8.0,1.6,3.0,17.6,41.4,113,137,21.1,-0.3,Jahlil Okafor
+2016-02-23,20-070,PHI,HOME,ORL,L (-9),1,25:53,.612,.615,5.2,4.3,4.7,0.0,0.0,5.2,22.4,29.5,90,126,7.5,-9.3,Jahlil Okafor
+2016-02-24,20-071,PHI,AWAY,DET,L (-20),1,23:42,.650,.650,0.0,10.1,4.5,9.7,0.0,0.0,0.0,18.7,128,118,8.9,1.8,Jahlil Okafor
+2016-02-26,20-073,PHI,HOME,WAS,L (-9),1,30:53,.711,.692,6.9,12.2,9.7,14.8,0.0,2.2,6.3,24.0,136,116,18.4,6.4,Jahlil Okafor
+2016-02-28,20-075,PHI,AWAY,ORL,L (-14),1,28:02,.658,.667,11.4,4.6,7.7,25.1,0.0,0.0,13.2,35.3,116,132,17.0,-0.1,Jahlil Okafor
+2016-02-29,20-076,PHI,AWAY,WAS,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jahlil Okafor
+2016-03-02,20-078,PHI,HOME,CHO,L (-20),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jahlil Okafor
+2016-03-04,20-080,PHI,HOME,MIA,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jahlil Okafor
+2016-03-06,20-082,PHI,AWAY,MIA,L (-5),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jahlil Okafor
+2016-10-26,20-316,PHI,HOME,OKC,L (-6),0,15:42,.400,.400,6.8,12.0,9.6,0.0,0.0,4.2,23.1,36.8,61,105,0.8,-15.2,Jahlil Okafor
+2016-10-29,20-319,PHI,HOME,ATL,L (-32),0,15:16,.457,.286,7.0,23.0,14.6,14.5,3.1,0.0,0.0,25.8,101,102,6.8,4.7,Jahlil Okafor
+2016-11-02,20-323,PHI,AWAY,CHO,L (-16),0,24:10,.588,.500,4.6,20.9,12.3,7.6,2.1,0.0,8.9,20.3,115,112,9.0,-0.4,Jahlil Okafor
+2016-11-05,20-326,PHI,HOME,CLE,L (-1),0,22:45,.589,.636,0.0,20.7,11.2,0.0,2.1,11.9,7.8,24.9,99,92,11.5,5.2,Jahlil Okafor
+2016-11-07,20-328,PHI,HOME,UTA,L (-25),0,22:29,.504,.500,9.7,9.9,9.8,13.3,0.0,3.2,11.8,34.4,93,118,7.4,-2.5,Jahlil Okafor
+2016-11-09,20-330,PHI,AWAY,IND,L (-7),1,23:55,.568,.636,4.8,11.1,7.7,7.3,2.1,6.2,13.2,28.0,99,110,10.9,0.9,Jahlil Okafor
+2016-11-11,20-332,PHI,HOME,IND,W (+4),0,2:49,.000,.000,0.0,41.8,20.0,52.3,0.0,0.0,0.0,31.7,32,103,-0.8,-20.7,Jahlil Okafor
+2016-11-12,20-333,PHI,AWAY,ATL,L (-21),1,23:38,.545,.538,13.0,13.8,13.4,18.6,0.0,3.2,10.8,33.9,106,122,11.6,-2.4,Jahlil Okafor
+2016-11-14,20-335,PHI,AWAY,HOU,L (-27),0,21:30,.182,.182,9.1,5.0,7.1,7.6,0.0,8.8,0.0,22.4,54,124,0.5,-12.4,Jahlil Okafor
+2016-11-16,20-337,PHI,HOME,WAS,W (+7),1,20:22,.745,.727,0.0,25.1,14.5,20.4,0.0,0.0,13.6,33.6,123,104,12.6,2.4,Jahlil Okafor
+2016-11-17,20-338,PHI,AWAY,MIN,L (-24),0,22:16,.518,.400,0.0,10.5,4.9,0.0,0.0,0.0,12.9,15.7,97,128,2.7,-9.2,Jahlil Okafor
+2016-11-19,20-340,PHI,HOME,PHO,W (+15),0,19:10,.750,.750,6.6,0.0,2.8,13.4,0.0,10.6,20.0,11.1,132,102,6.8,1.1,Jahlil Okafor
+2016-11-21,20-342,PHI,HOME,MIA,W (+7),0,24:42,.524,.538,5.4,7.2,6.5,8.3,0.0,3.4,0.0,27.6,110,110,9.4,-1.8,Jahlil Okafor
+2016-11-23,20-344,PHI,HOME,MEM,L (-5),0,26:10,.155,.167,4.9,0.0,2.2,0.0,1.9,9.5,31.8,16.2,27,88,-3.0,-12.2,Jahlil Okafor
+2016-11-25,20-346,PHI,HOME,CHI,L (-16),1,26:45,.421,.455,3.7,17.6,10.9,8.1,1.8,2.6,7.8,21.7,81,104,5.9,-4.9,Jahlil Okafor
+2016-11-27,20-348,PHI,HOME,CLE,L (-4),0,22:49,.636,.636,9.3,28.9,19.7,7.4,0.0,0.0,15.4,24.3,110,113,9.7,-3.2,Jahlil Okafor
+2016-11-28,20-349,PHI,AWAY,TOR,L (-27),1,24:38,.504,.500,12.7,11.5,12.2,0.0,0.0,3.4,0.0,27.4,110,136,10.6,-4.6,Jahlil Okafor
+2016-12-02,20-353,PHI,HOME,ORL,L (-17),0,27:54,.766,.800,18.8,31.7,24.0,0.0,0.0,6.6,22.3,21.1,115,111,16.1,4.0,Jahlil Okafor
+2016-12-03,20-354,PHI,HOME,BOS,L (-1),1,32:52,.697,.667,0.0,16.2,7.8,16.7,1.6,2.9,15.7,18.2,124,115,11.7,1.2,Jahlil Okafor
+2016-12-05,20-356,PHI,HOME,DEN,L (-8),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jahlil Okafor
+2016-12-06,20-357,PHI,AWAY,MEM,L (-5),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jahlil Okafor
+2016-12-08,20-359,PHI,AWAY,NOP,W (+11),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jahlil Okafor
+2016-12-11,20-362,PHI,AWAY,DET,W (+18),1,26:32,.651,.667,6.2,30.8,21.4,6.7,2.0,5.7,31.7,29.9,86,80,8.9,-3.8,Jahlil Okafor
+2016-12-14,20-365,PHI,HOME,TOR,L (-9),1,30:04,.730,.667,12.6,3.6,7.8,14.3,0.0,5.5,0.0,16.7,168,136,18.6,8.9,Jahlil Okafor
+2016-12-16,21-001,PHI,HOME,LAL,L (-11),1,23:56,.726,.571,7.4,30.1,17.1,0.0,2.1,0.0,0.0,16.7,161,99,14.5,8.4,Jahlil Okafor
+2016-12-18,21-003,PHI,HOME,BRK,W (+1),1,28:08,.139,.000,17.4,20.8,19.0,9.0,0.0,3.6,21.8,20.4,55,107,-0.8,-16.2,Jahlil Okafor
+2016-12-20,21-005,PHI,HOME,NOP,L (-15),1,25:25,.619,.625,4.1,21.4,13.4,8.0,0.0,5.0,10.1,17.9,113,109,10.2,1.3,Jahlil Okafor
+2016-12-23,21-008,PHI,AWAY,PHO,L (-7),1,20:11,.750,.750,5.9,23.0,13.4,6.8,0.0,4.5,20.0,10.6,127,122,4.4,-4.0,Jahlil Okafor
+2016-12-26,21-011,PHI,AWAY,SAC,L (-2),1,19:33,.600,.600,6.6,5.7,6.1,15.5,2.5,0.0,37.5,18.0,86,107,2.5,-6.2,Jahlil Okafor
+2016-12-29,21-014,PHI,AWAY,UTA,L (-17),1,24:01,.421,.400,8.5,10.8,9.5,17.4,0.0,0.0,0.0,29.2,102,117,7.5,0.4,Jahlil Okafor
+2017-01-03,21-019,PHI,HOME,MIN,W (+2),0,10:10,.258,.333,18.9,21.0,19.9,0.0,0.0,8.1,20.5,20.6,60,93,0.4,-12.0,Jahlil Okafor
+2017-01-14,21-030,PHI,AWAY,WAS,L (-16),1,35:28,.624,.625,12.8,11.8,12.3,0.0,1.4,1.8,12.6,28.7,114,113,19.4,3.3,Jahlil Okafor
+2017-01-16,21-032,PHI,AWAY,MIL,W (+9),0,20:09,.850,.800,0.0,9.9,5.4,9.4,2.4,0.0,14.5,14.7,144,108,9.0,2.9,Jahlil Okafor
+2017-01-21,21-037,PHI,AWAY,ATL,L (-17),1,29:43,.676,.625,0.0,15.0,7.5,6.5,1.6,6.8,25.3,17.8,93,106,9.2,-1.5,Jahlil Okafor
+2017-01-24,21-040,PHI,HOME,LAC,W (+11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jahlil Okafor
+2017-01-25,21-041,PHI,AWAY,MIL,W (+5),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jahlil Okafor
+2017-01-30,21-046,PHI,HOME,SAC,W (+3),1,21:38,.550,.455,20.2,7.7,14.3,13.1,0.0,0.0,6.8,30.0,124,133,10.9,-7.0,Jahlil Okafor
+2017-02-01,21-048,PHI,AWAY,DAL,L (-18),1,24:29,.440,.438,0.0,4.0,2.2,9.2,0.0,0.0,5.2,37.1,82,127,5.2,-10.3,Jahlil Okafor
+2017-02-02,21-049,PHI,AWAY,SAS,L (-16),1,25:08,.362,.333,10.1,23.9,16.4,25.6,0.0,0.0,7.4,21.5,85,100,6.0,-2.4,Jahlil Okafor
+2017-02-06,21-053,PHI,AWAY,DET,L (-17),1,25:46,.568,.636,7.2,7.6,7.4,0.0,1.9,0.0,6.6,25.5,106,119,10.3,-0.8,Jahlil Okafor
+2017-02-08,21-055,PHI,HOME,SAS,L (-8),1,24:39,.674,.500,15.9,22.9,18.8,0.0,0.0,7.5,0.0,28.4,149,117,19.6,9.1,Jahlil Okafor
+2017-02-09,21-056,PHI,AWAY,ORL,W (+1),1,22:28,.394,.375,0.0,11.0,4.6,0.0,0.0,3.4,25.3,20.8,58,109,0.1,-15.2,Jahlil Okafor
+2017-02-13,21-060,PHI,AWAY,CHO,W (+6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jahlil Okafor
+2017-02-15,21-062,PHI,AWAY,BOS,L (-8),0,17:07,.340,.400,6.2,20.5,13.0,14.6,0.0,16.2,14.5,15.7,79,102,4.2,-0.9,Jahlil Okafor
+2017-02-24,21-071,PHI,HOME,WAS,W (+8),1,21:31,.578,.500,0.0,8.6,4.9,12.3,0.0,0.0,24.0,24.2,94,111,4.2,-8.8,Jahlil Okafor
+2017-02-25,21-072,PHI,AWAY,NYK,L (-1),1,28:45,.647,.579,20.0,15.2,17.8,7.7,0.0,0.0,0.0,30.6,148,115,24.4,10.3,Jahlil Okafor
+2017-02-27,21-074,PHI,HOME,GSW,L (-11),1,17:23,.667,.667,0.0,18.0,9.5,8.8,0.0,0.0,70.0,23.8,37,122,-4.7,-23.7,Jahlil Okafor
+2017-03-01,21-076,PHI,AWAY,MIA,L (-27),1,22:28,.273,.273,9.7,28.1,18.2,14.0,0.0,3.6,31.3,30.1,51,122,-1.3,-17.3,Jahlil Okafor
+2017-03-03,21-078,PHI,HOME,NYK,W (+3),1,19:51,.551,.500,22.0,20.6,21.3,10.1,0.0,3.8,15.5,27.9,110,106,8.4,-4.2,Jahlil Okafor
+2017-03-04,21-079,PHI,HOME,DET,L (-30),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jahlil Okafor
+2017-03-06,21-081,PHI,HOME,MIL,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jahlil Okafor
+2017-03-09,21-084,PHI,AWAY,POR,L (-6),1,28:43,.538,.500,10.9,19.2,14.9,6.6,1.8,0.0,6.3,24.7,114,108,11.7,0.2,Jahlil Okafor
+2017-03-11,21-086,PHI,AWAY,LAC,L (-12),1,20:59,.643,.600,0.0,21.8,11.2,34.8,7.1,0.0,26.9,32.1,98,104,12.4,8.8,Jahlil Okafor
+2017-03-12,21-087,PHI,AWAY,LAL,W (+2),1,26:42,.741,.667,4.9,14.6,9.7,13.5,1.7,2.6,20.5,32.2,118,110,16.9,0.9,Jahlil Okafor
+2017-03-14,21-089,PHI,AWAY,GSW,L (-2),1,23:27,.577,.500,9.5,15.7,12.9,9.0,2.0,14.6,13.6,37.1,107,95,16.9,8.2,Jahlil Okafor
+2017-03-17,21-092,PHI,HOME,DAL,W (+42),0,21:28,.563,.500,0.0,13.2,7.5,6.8,0.0,3.5,40.3,31.4,65,78,0.7,-15.9,Jahlil Okafor
+2017-03-19,21-094,PHI,HOME,BOS,W (+6),1,11:32,.500,.500,10.2,0.0,5.0,0.0,0.0,0.0,20.0,19.0,84,108,0.9,-13.2,Jahlil Okafor
+2017-03-20,21-095,PHI,AWAY,ORL,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jahlil Okafor
+2017-03-22,21-097,PHI,AWAY,OKC,L (-25),1,16:43,.500,.500,0.0,15.5,7.3,20.2,0.0,0.0,0.0,16.6,109,131,5.0,-1.5,Jahlil Okafor
+2017-03-24,21-099,PHI,AWAY,CHI,W (+10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jahlil Okafor
+2017-03-26,21-101,PHI,AWAY,IND,L (-13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jahlil Okafor
+2017-03-28,21-103,PHI,AWAY,BRK,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jahlil Okafor
+2017-03-29,21-104,PHI,HOME,ATL,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jahlil Okafor
+2017-03-31,21-106,PHI,AWAY,CLE,L (-17),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jahlil Okafor
+2017-04-02,21-108,PHI,AWAY,TOR,L (-8),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jahlil Okafor
+2017-04-04,21-110,PHI,HOME,BRK,L (-23),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jahlil Okafor
+2017-04-06,21-112,PHI,HOME,CHI,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jahlil Okafor
+2017-04-08,21-114,PHI,HOME,MIL,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jahlil Okafor
+2017-04-10,21-116,PHI,HOME,IND,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jahlil Okafor
+2017-04-12,21-118,PHI,AWAY,NYK,L (-1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jahlil Okafor
+2019-10-22,23-311,NOP,AWAY,TOR,L (-8),0,12:29,.926,1.000,14.9,0.0,7.7,0.0,0.0,6.7,18.8,17.4,146,121,6.6,2.0,Jahlil Okafor
+2019-10-25,23-314,NOP,HOME,DAL,L (-7),0,7:08,.667,.667,13.7,28.0,20.8,0.0,0.0,0.0,0.0,17.0,140,119,3.6,-0.4,Jahlil Okafor
+2019-10-26,23-315,NOP,AWAY,HOU,L (-3),0,11:35,.750,.750,9.2,39.5,23.8,24.7,0.0,8.5,0.0,13.4,168,107,6.0,4.6,Jahlil Okafor
+2019-10-28,23-317,NOP,HOME,GSW,L (-11),1,12:18,.750,.750,7.4,31.9,19.1,10.8,3.5,5.7,50.0,24.5,70,108,3.5,-10.6,Jahlil Okafor
+2019-10-31,23-320,NOP,HOME,DEN,W (+15),1,33:50,.694,.615,0.0,17.7,9.9,4.8,2.8,2.3,13.8,29.0,117,100,19.6,0.6,Jahlil Okafor
+2019-11-02,23-322,NOP,AWAY,OKC,L (-11),1,29:12,.490,.500,18.6,21.0,19.7,17.3,0.0,6.2,20.7,26.5,95,112,10.7,-3.7,Jahlil Okafor
+2019-11-04,23-324,NOP,AWAY,BRK,L (-10),1,21:27,.463,.333,10.4,10.9,10.7,4.9,0.0,4.4,18.8,9.4,105,125,3.1,-7.4,Jahlil Okafor
+2019-11-08,23-328,NOP,HOME,TOR,L (-18),1,14:40,1.000,1.000,0.0,20.0,9.3,21.7,0.0,19.6,40.0,13.0,113,103,7.1,8.4,Jahlil Okafor
+2019-11-11,23-331,NOP,HOME,HOU,L (-6),0,16:16,.726,.714,17.0,14.4,15.9,11.2,2.7,0.0,0.0,23.1,158,112,14.7,12.8,Jahlil Okafor
+2019-11-14,23-334,NOP,HOME,LAC,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jahlil Okafor
+2019-11-24,23-344,NOP,AWAY,LAC,L (-25),0,19:11,.727,.833,14.4,15.3,14.9,16.4,0.0,13.6,0.0,15.0,156,128,12.3,9.3,Jahlil Okafor
+2019-11-27,23-347,NOP,HOME,LAL,L (-4),0,15:03,.615,.500,14.8,0.0,8.1,0.0,0.0,0.0,29.1,18.9,100,120,1.8,-11.8,Jahlil Okafor
+2019-11-29,23-349,NOP,AWAY,OKC,L (-5),0,27:03,.799,.786,0.0,28.9,14.4,17.7,0.0,0.0,10.2,15.9,148,111,12.7,6.0,Jahlil Okafor
+2019-12-01,23-351,NOP,HOME,OKC,L (-3),1,9:03,.500,.500,0.0,24.7,12.1,18.7,0.0,0.0,33.3,31.1,69,114,0.5,-13.8,Jahlil Okafor
+2019-12-07,23-357,NOP,AWAY,DAL,L (-46),0,22:42,.375,.375,7.7,6.2,7.1,24.7,2.1,4.4,33.3,22.6,63,125,1.5,-8.4,Jahlil Okafor
+2019-12-09,23-359,NOP,HOME,DET,L (-2),1,21:51,.846,.750,9.6,19.5,14.5,6.6,0.0,4.4,15.8,12.3,152,103,8.8,1.4,Jahlil Okafor
+2019-12-11,23-361,NOP,AWAY,MIL,L (-15),1,20:14,.333,.333,10.5,5.9,8.4,38.9,0.0,0.0,25.0,8.0,122,126,4.0,-1.1,Jahlil Okafor
+2019-12-13,23-363,NOP,AWAY,PHI,L (-7),0,14:39,.483,.500,13.1,23.4,17.8,26.3,0.0,0.0,0.0,27.2,114,118,7.1,2.2,Jahlil Okafor
+2019-12-18,24-003,NOP,AWAY,MIN,W (+8),0,12:50,.551,.600,8.9,33.4,22.9,0.0,0.0,0.0,15.5,21.5,93,96,4.1,-5.5,Jahlil Okafor
+2019-12-25,24-010,NOP,AWAY,DEN,W (+12),0,10:19,.000,.000,22.7,9.1,15.2,0.0,0.0,0.0,75.0,16.4,28,112,-2.8,-27.3,Jahlil Okafor
+2019-12-29,24-014,NOP,HOME,HOU,W (+15),0,5:20,.750,.750,19.1,22.5,20.7,0.0,0.0,0.0,0.0,30.8,154,118,5.4,9.5,Jahlil Okafor
+2020-01-04,24-020,NOP,AWAY,SAC,W (+2),0,6:50,.568,,15.3,43.0,29.6,0.0,0.0,0.0,36.2,16.6,93,104,1.0,-13.0,Jahlil Okafor
+2020-01-10,24-026,NOP,AWAY,NYK,W (+12),0,7:21,.840,1.000,0.0,0.0,0.0,0.0,0.0,0.0,29.6,39.2,97,113,3.1,-12.8,Jahlil Okafor
+2020-01-11,24-027,NOP,AWAY,BOS,L (-35),0,13:53,.752,.750,17.9,9.1,14.4,11.7,0.0,4.9,15.8,17.6,137,133,8.4,2.6,Jahlil Okafor
+2020-01-13,24-029,NOP,AWAY,DET,W (+7),1,33:47,.560,.524,17.1,25.6,21.1,30.5,0.0,7.0,4.3,27.3,129,94,25.1,11.9,Jahlil Okafor
+2020-01-18,24-034,NOP,HOME,LAC,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jahlil Okafor
+2020-01-24,24-040,NOP,HOME,DEN,L (-7),0,3:29,1.000,1.000,31.3,24.2,27.3,0.0,0.0,0.0,0.0,24.6,205,113,4.4,23.4,Jahlil Okafor
+2020-02-06,24-053,NOP,AWAY,CHI,W (+6),0,7:03,.500,.500,0.0,0.0,0.0,0.0,0.0,0.0,33.3,17.6,59,122,-0.4,-19.9,Jahlil Okafor
+2020-02-08,24-055,NOP,AWAY,IND,W (+7),0,10:12,.450,.500,18.5,24.1,20.9,13.6,9.0,0.0,0.0,17.3,122,97,6.3,8.5,Jahlil Okafor
+2020-02-25,24-072,NOP,AWAY,LAL,L (-9),0,4:26,,,0.0,40.9,22.6,0.0,0.0,0.0,,0.0,0,102,0.2,-7.1,Jahlil Okafor
+2020-08-11,24-240,NOP,AWAY,SAC,L (-6),0,25:43,.823,.818,5.2,13.0,9.5,7.4,0.0,6.0,7.3,23.5,149,113,18.4,7.9,Jahlil Okafor
+2020-08-13,24-242,NOP,AWAY,ORL,L (-6),0,17:02,.571,.571,7.8,22.8,15.4,0.0,0.0,5.0,12.5,20.2,106,130,5.2,-9.9,Jahlil Okafor

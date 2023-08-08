@@ -1,0 +1,21 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+2021-01-08,22-147,TOR,AWAY,SAC,W (+21),0,2:17,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,127,-0.4,-17.7,Jalen Harris
+2021-01-22,22-161,TOR,HOME,MIA,W (+20),0,2:05,,,57.6,0.0,29.9,0.0,0.0,0.0,100.0,21.1,45,94,-0.7,-27.1,Jalen Harris
+2021-03-13,22-211,TOR,AWAY,CHO,L (-10),0,5:04,.750,.750,0.0,22.6,9.7,34.4,9.0,0.0,0.0,15.8,159,91,4.0,21.2,Jalen Harris
+2021-03-14,22-212,TOR,AWAY,CHI,L (-23),0,4:42,.000,.000,0.0,22.7,10.4,30.0,0.0,0.0,0.0,18.4,26,118,-0.4,-16.5,Jalen Harris
+2021-03-28,22-226,TOR,HOME,POR,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jalen Harris
+2021-04-05,22-234,TOR,HOME,WAS,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jalen Harris
+2021-04-06,22-235,TOR,HOME,LAL,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jalen Harris
+2021-04-08,22-237,TOR,HOME,CHI,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jalen Harris
+2021-04-16,22-245,TOR,HOME,ORL,W (+11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jalen Harris
+2021-04-18,22-247,TOR,HOME,OKC,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jalen Harris
+2021-04-29,22-258,TOR,AWAY,DEN,L (-10),0,5:00,.000,.000,24.0,22.3,23.1,24.0,0.0,0.0,50.0,18.1,61,128,0.0,-16.6,Jalen Harris
+2021-05-01,22-260,TOR,AWAY,UTA,L (-4),0,3:45,1.500,1.500,0.0,0.0,0.0,0.0,13.5,0.0,0.0,11.9,300,89,2.5,21.1,Jalen Harris
+2021-05-02,22-261,TOR,AWAY,LAL,W (+7),0,9:04,.300,.300,0.0,0.0,0.0,14.4,5.1,0.0,0.0,22.1,79,108,1.6,-4.0,Jalen Harris
+2021-05-04,22-263,TOR,AWAY,LAC,L (-5),0,13:18,1.375,1.375,0.0,10.6,4.6,14.1,0.0,0.0,20.0,17.2,186,118,9.8,18.9,Jalen Harris
+2021-05-06,22-265,TOR,HOME,WAS,L (-2),0,8:28,.333,.333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.6,78,130,-0.1,-15.5,Jalen Harris
+2021-05-08,22-267,TOR,HOME,MEM,L (-10),0,29:27,.581,.500,3.0,17.3,9.6,23.4,1.7,0.0,6.8,20.8,124,111,13.4,3.8,Jalen Harris
+2021-05-11,22-270,TOR,HOME,LAC,L (-19),0,25:20,.506,.500,0.0,16.2,6.8,27.6,4.0,0.0,33.6,26.3,74,119,4.8,-6.9,Jalen Harris
+2021-05-13,22-272,TOR,AWAY,CHI,L (-12),1,27:08,.708,.708,0.0,5.4,2.1,0.0,1.8,0.0,20.0,24.8,97,124,8.5,-5.2,Jalen Harris
+2021-05-14,22-273,TOR,AWAY,DAL,L (-4),1,36:29,.694,.690,0.0,5.2,3.1,20.1,1.4,0.0,8.2,30.9,128,124,22.7,6.6,Jalen Harris
+2021-05-16,22-275,TOR,HOME,IND,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jalen Harris

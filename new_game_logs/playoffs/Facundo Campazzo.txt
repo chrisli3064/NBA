@@ -1,0 +1,16 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2021-05-22,30-060,DEN,HOME,POR,L (-14),1,31:32,3,4,0.75,2,3,0.667,0,0,,2,1,3,5,2,1,1,3,8,12.1,-13,Facundo Campazzo
+2021-05-24,30-062,DEN,HOME,POR,W (+19),1,30:20,4,10,0.4,2,4,0.5,2,2,1.0,1,2,3,6,3,1,3,2,12,12.0,11,Facundo Campazzo
+2021-05-27,30-065,DEN,AWAY,POR,W (+5),1,32:06,3,9,0.333,2,6,0.333,3,4,0.75,1,7,8,8,2,1,3,1,11,13.2,8,Facundo Campazzo
+2021-05-29,30-067,DEN,AWAY,POR,L (-20),1,26:53,3,10,0.3,2,7,0.286,4,5,0.8,0,2,2,7,2,0,0,4,12,11.7,-20,Facundo Campazzo
+2021-06-01,30-070,DEN,HOME,POR,W (+7),1,21:23,1,5,0.2,0,2,0.0,1,2,0.5,1,1,2,2,0,0,2,3,3,-1.3,5,Facundo Campazzo
+2021-06-03,30-072,DEN,AWAY,POR,W (+11),1,23:09,2,5,0.4,1,4,0.25,5,5,1.0,1,1,2,3,1,1,1,5,10,9.1,-2,Facundo Campazzo
+2021-06-07,30-076,DEN,AWAY,PHO,L (-17),1,36:05,5,9,0.556,3,6,0.5,1,1,1.0,0,4,4,6,2,0,3,4,14,12.5,-14,Facundo Campazzo
+2021-06-09,30-078,DEN,AWAY,PHO,L (-25),1,29:03,1,7,0.143,1,5,0.2,0,0,,0,4,4,2,1,0,1,4,3,-0.5,-13,Facundo Campazzo
+2021-06-11,30-080,DEN,HOME,PHO,L (-14),1,17:50,2,5,0.4,2,4,0.5,0,0,,1,1,2,0,1,0,1,4,6,2.7,-12,Facundo Campazzo
+2021-06-13,30-082,DEN,HOME,PHO,L (-7),0,21:37,5,10,0.5,4,7,0.571,0,0,,0,0,0,2,0,0,0,5,14,8.4,1,Facundo Campazzo
+2022-04-16,31-024,DEN,AWAY,GSW,L (-16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Facundo Campazzo
+2022-04-18,31-026,DEN,AWAY,GSW,L (-20),0,5:53,0,2,.000,0,2,.000,0,0,,0,2,2,1,0,0,1,2,0,-1.9,+2,Facundo Campazzo
+2022-04-21,31-029,DEN,HOME,GSW,L (-5),0,3:59,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,-10,Facundo Campazzo
+2022-04-24,31-032,DEN,HOME,GSW,W (+5),0,0:23,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Facundo Campazzo
+2022-04-27,31-035,DEN,AWAY,GSW,L (-4),0,3:09,0,0,,0,0,,0,0,,0,1,1,1,0,0,0,1,0,0.6,-3,Facundo Campazzo

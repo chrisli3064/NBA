@@ -1,0 +1,32 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2001-04-24,23-173,PHI,HOME,IND,W (+18),0,2:06,1,2,.500,0,0,,0,0,,0,0,0,0,2,0,0,0,2,3.0,+1,Rodney Buford
+2001-05-06,23-185,PHI,HOME,TOR,L (-3),0,0:07,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,0,Rodney Buford
+2001-05-11,23-190,PHI,AWAY,TOR,L (-24),0,4:12,0,3,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-2.1,-6,Rodney Buford
+2001-05-13,23-192,PHI,AWAY,TOR,W (+5),0,0:17,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Rodney Buford
+2001-05-16,23-195,PHI,HOME,TOR,W (+33),0,13:16,2,3,.667,1,1,1.000,0,0,,0,1,1,0,1,0,0,3,5,3.8,+6,Rodney Buford
+2001-05-18,23-197,PHI,AWAY,TOR,L (-12),0,15:16,1,4,.250,1,1,1.000,2,2,1.000,2,0,2,0,0,1,1,4,5,2.1,+8,Rodney Buford
+2001-05-20,23-199,PHI,HOME,TOR,W (+1),0,3:05,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,2,0,-0.5,+5,Rodney Buford
+2001-05-22,23-201,PHI,HOME,MIL,W (+8),0,5:43,0,1,.000,0,1,.000,0,0,,0,0,0,1,1,0,1,2,0,-0.8,+4,Rodney Buford
+2001-05-24,23-203,PHI,HOME,MIL,L (-14),0,6:49,1,1,1.000,0,0,,0,0,,1,1,2,1,0,0,0,1,2,3.0,-1,Rodney Buford
+2001-05-26,23-205,PHI,AWAY,MIL,L (-6),0,4:50,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.0,+4,Rodney Buford
+2001-06-01,23-211,PHI,AWAY,MIL,L (-10),0,1:28,2,2,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,5,4.4,+4,Rodney Buford
+2001-06-03,23-213,PHI,HOME,MIL,W (+17),0,0:59,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+1,Rodney Buford
+2001-06-08,23-218,PHI,AWAY,LAL,L (-9),0,0:20,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2,Rodney Buford
+2001-06-13,23-223,PHI,HOME,LAL,L (-14),0,4:38,1,3,.333,0,0,,0,0,,1,2,3,0,0,0,0,0,2,1.6,-1,Rodney Buford
+2001-06-15,23-225,PHI,HOME,LAL,L (-12),0,7:26,0,3,.000,0,1,.000,0,0,,1,2,3,0,0,0,1,2,0,-2.6,-6,Rodney Buford
+2004-04-18,26-168,SAC,HOME,DAL,W (+11),0,0:48,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4,Rodney Buford
+2004-05-10,26-190,SAC,HOME,MIN,L (-1),0,0:06,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Rodney Buford
+2004-05-14,26-194,SAC,AWAY,MIN,L (-12),0,1:33,1,1,1.000,0,0,,1,2,.500,0,1,1,0,0,0,0,0,3,2.6,+1,Rodney Buford
+2004-05-16,26-196,SAC,HOME,MIN,W (+17),0,12:00,3,5,.600,1,1,1.000,0,0,,0,1,1,1,0,0,0,0,7,5.7,+2,Rodney Buford
+2004-05-19,26-199,SAC,AWAY,MIN,L (-3),0,16:11,1,6,.167,0,2,.000,0,0,,0,3,3,2,2,0,0,2,2,1.7,-7,Rodney Buford
+2000-04-29,22-179,MIA,AWAY,DET,W (+19),0,16:15,4,8,.500,1,2,.500,2,2,1.000,0,1,1,1,0,0,0,3,11,6.8,+8,Rodney Buford
+2000-05-07,22-187,MIA,HOME,NYK,W (+4),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Rodney Buford
+2000-05-09,22-189,MIA,HOME,NYK,L (-6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Rodney Buford
+2000-05-12,22-192,MIA,AWAY,NYK,W (+1),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Rodney Buford
+2000-05-14,22-194,MIA,AWAY,NYK,L (-8),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Rodney Buford
+2000-05-17,22-197,MIA,HOME,NYK,W (+6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Rodney Buford
+2000-05-19,22-199,MIA,AWAY,NYK,L (-2),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Rodney Buford
+2000-05-21,22-201,MIA,HOME,NYK,L (-1),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Rodney Buford
+2005-04-24,27-173,NJN,AWAY,MIA,L (-18),0,0:32,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,Rodney Buford
+2005-04-26,27-175,NJN,AWAY,MIA,L (-17),0,1:24,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1,Rodney Buford
+2005-05-01,27-180,NJN,HOME,MIA,L (-13),0,0:44,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3,Rodney Buford

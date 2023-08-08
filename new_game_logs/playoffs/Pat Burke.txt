@@ -1,0 +1,14 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2003-04-20,29-127,ORL,AWAY,DET,W (+5),0,8:53,1,3,.333,0,0,,0,0,,0,3,3,0,0,0,1,1,2,-0.2,-2,Pat Burke
+2003-04-23,29-130,ORL,AWAY,DET,L (-12),0,3:34,1,1,1.000,0,0,,0,0,,0,2,2,1,0,0,0,1,2,2.6,-2,Pat Burke
+2003-04-25,29-132,ORL,HOME,DET,W (+9),0,13:49,2,3,.667,0,0,,1,2,.500,0,3,3,0,1,0,0,2,5,4.4,+10,Pat Burke
+2003-04-30,29-137,ORL,AWAY,DET,L (-31),0,10:34,0,1,.000,0,0,,4,4,1.000,1,2,3,0,0,0,2,1,4,2.2,-15,Pat Burke
+2003-05-02,29-139,ORL,HOME,DET,L (-15),0,0:58,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,1,2,1.3,-5,Pat Burke
+2003-05-04,29-141,ORL,AWAY,DET,L (-15),0,3:33,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,1,3,2,-0.5,-8,Pat Burke
+2006-05-02,32-139,PHO,HOME,LAL,W (+17),0,1:57,1,1,1.000,0,0,,0,1,.000,1,0,1,0,0,0,0,0,2,2.0,-6,Pat Burke
+2006-05-06,32-143,PHO,HOME,LAL,W (+31),0,1:52,1,1,1.000,1,1,1.000,0,0,,0,2,2,0,0,1,0,0,3,4.0,+6,Pat Burke
+2006-05-30,32-167,PHO,HOME,DAL,W (+20),0,2:53,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-1.4,-3,Pat Burke
+2006-06-03,32-171,PHO,HOME,DAL,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Pat Burke
+2007-04-24,33-131,PHO,HOME,LAL,W (+28),0,2:57,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,1,2,1.6,+1,Pat Burke
+2007-05-08,33-145,PHO,HOME,SAS,W (+20),0,1:07,0,1,.000,0,0,,0,0,,0,0,0,0,0,1,0,1,0,-0.4,-2,Pat Burke
+2007-05-16,33-153,PHO,HOME,SAS,L (-3),0,3:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,0,Pat Burke

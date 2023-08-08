@@ -1,0 +1,94 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2002-11-01,22-249,NYK,AWAY,PHI,L (-12),0,2:08,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-8,Frank Williams
+2002-11-10,22-258,NYK,HOME,NOH,L (-6),0,3:07,0,0,,0,0,,0,0,,0,0,0,0,1,0,1,1,0,-0.4,+1,Frank Williams
+2002-11-12,22-260,NYK,HOME,UTA,L (-21),0,17:38,0,4,.000,0,2,.000,0,0,,0,1,1,2,2,1,0,3,0,0.4,-19,Frank Williams
+2002-11-16,22-264,NYK,HOME,PHI,L (-1),0,3:31,0,0,,0,0,,1,2,.500,0,0,0,0,0,0,0,0,1,0.6,-3,Frank Williams
+2002-11-22,22-270,NYK,AWAY,NOH,L (-8),0,2:15,0,0,,0,0,,0,0,,0,0,0,1,0,0,1,1,0,-0.7,-5,Frank Williams
+2002-11-24,22-272,NYK,HOME,MIN,L (-18),0,1:54,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3,Frank Williams
+2003-02-21,22-361,NYK,AWAY,GSW,L (-4),0,13:38,2,3,.667,0,0,,0,0,,0,2,2,3,1,0,3,2,4,2.6,-4,Frank Williams
+2003-02-23,22-363,NYK,AWAY,SAC,L (-7),0,12:00,0,2,.000,0,1,.000,0,0,,0,1,1,3,0,0,0,1,0,0.6,0,Frank Williams
+2003-02-25,23-000,NYK,HOME,HOU,W (+7),0,8:21,1,1,1.000,1,1,1.000,0,0,,0,0,0,3,0,0,1,3,3,2.6,-1,Frank Williams
+2003-02-26,23-001,NYK,AWAY,NJN,L (-29),0,19:30,4,7,.571,3,5,.600,0,0,,0,5,5,3,1,0,3,3,11,8.1,-14,Frank Williams
+2003-02-28,23-003,NYK,HOME,ORL,W (+8),0,4:00,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,1,0,-0.4,-2,Frank Williams
+2003-03-02,23-005,NYK,AWAY,MIN,L (-9),0,12:35,0,3,.000,0,0,,0,0,,0,0,0,3,0,0,0,1,0,-0.4,+1,Frank Williams
+2003-03-04,23-007,NYK,HOME,CLE,W (+9),0,6:28,0,0,,0,0,,0,0,,0,1,1,1,0,0,0,0,0,1.0,+4,Frank Williams
+2003-03-05,23-008,NYK,AWAY,BOS,L (-2),0,10:04,0,1,.000,0,0,,0,0,,0,1,1,2,1,0,0,0,0,2.0,-3,Frank Williams
+2003-03-07,23-010,NYK,AWAY,ORL,W (+9),0,7:18,0,1,.000,0,1,.000,1,2,.500,1,1,2,1,0,0,1,0,1,0.6,-12,Frank Williams
+2003-03-26,23-029,NYK,AWAY,NJN,L (-6),0,0:15,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+2,Frank Williams
+2003-03-28,23-031,NYK,HOME,NJN,L (-21),0,3:18,1,3,.333,1,1,1.000,0,0,,0,0,0,2,1,0,0,1,3,3.3,+1,Frank Williams
+2003-04-11,23-045,NYK,HOME,PHI,W (+5),0,5:19,0,1,.000,0,0,,2,2,1.000,0,1,1,2,0,0,2,2,2,0.2,0,Frank Williams
+2003-04-12,23-046,NYK,AWAY,CLE,L (-5),0,10:02,0,1,.000,0,0,,0,0,,1,0,1,0,0,1,1,0,0,-0.3,-16,Frank Williams
+2003-04-14,23-048,NYK,AWAY,WAS,W (+14),0,11:48,1,3,.333,1,2,.500,0,0,,1,2,3,5,0,0,2,0,3,4.1,-1,Frank Williams
+2003-04-15,23-049,NYK,HOME,IND,L (-16),0,12:17,0,0,,0,0,,0,0,,0,0,0,2,0,0,2,1,0,-1.0,+1,Frank Williams
+2003-10-29,23-246,NYK,HOME,ORL,L (-2),0,8:49,1,5,.200,0,1,.000,0,0,,0,1,1,0,0,0,0,0,2,-0.8,0,Frank Williams
+2003-11-01,23-249,NYK,AWAY,SAS,L (-12),0,1:20,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+2,Frank Williams
+2003-11-03,23-251,NYK,AWAY,ORL,W (+7),0,14:26,1,2,.500,0,1,.000,0,0,,0,2,2,4,1,0,1,1,2,4.0,+5,Frank Williams
+2003-11-05,23-253,NYK,HOME,MIL,L (-16),0,4:00,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-1.4,-5,Frank Williams
+2003-11-07,23-255,NYK,HOME,SAC,W (+3),0,3:19,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,0,0,0.0,-1,Frank Williams
+2003-11-08,23-256,NYK,AWAY,MIL,L (-3),0,12:00,0,2,.000,0,1,.000,0,0,,0,0,0,3,3,0,0,1,0,3.3,+10,Frank Williams
+2003-11-10,23-258,NYK,AWAY,CLE,L (-14),0,16:25,2,6,.333,0,0,,0,0,,0,1,1,2,0,0,2,1,4,-0.1,-4,Frank Williams
+2003-11-14,23-262,NYK,AWAY,NJN,L (-5),0,8:55,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,0,0,-1.7,-4,Frank Williams
+2003-11-15,23-263,NYK,HOME,IND,L (-1),0,3:08,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,1,0,0.3,0,Frank Williams
+2003-11-17,23-265,NYK,HOME,BOS,W (+3),0,9:36,2,4,.500,0,0,,0,0,,1,0,1,2,0,0,1,0,4,3.1,+7,Frank Williams
+2003-11-19,23-267,NYK,HOME,LAL,L (-21),0,25:42,5,10,.500,2,5,.400,2,2,1.000,1,0,1,2,0,0,4,3,14,5.9,-7,Frank Williams
+2003-11-21,23-269,NYK,AWAY,DET,L (-9),0,10:19,1,4,.250,0,1,.000,1,2,.500,0,1,1,1,0,0,1,3,3,-1.0,-3,Frank Williams
+2003-11-22,23-270,NYK,HOME,PHI,W (+11),0,15:54,1,5,.200,0,1,.000,0,0,,1,0,1,0,0,0,1,0,2,-1.4,+5,Frank Williams
+2003-11-24,23-272,NYK,AWAY,BOS,W (+6),0,19:44,1,4,.250,0,1,.000,0,0,,1,0,1,4,0,0,1,4,2,0.5,+1,Frank Williams
+2003-11-26,23-274,NYK,AWAY,MIN,W (+5),0,22:56,6,12,.500,2,3,.667,3,4,.750,0,5,5,4,0,0,1,0,17,13.9,+10,Frank Williams
+2003-11-27,23-275,NYK,AWAY,IND,L (-23),0,31:27,2,7,.286,1,4,.250,6,6,1.000,0,2,2,3,2,1,3,0,11,9.3,-7,Frank Williams
+2003-11-29,23-277,NYK,HOME,NOH,W (+5),0,7:43,1,4,.250,0,2,.000,0,0,,0,2,2,1,1,0,1,1,2,0.5,+8,Frank Williams
+2003-12-01,23-279,NYK,HOME,DET,L (-1),0,10:25,2,3,.667,0,0,,3,4,.750,0,1,1,1,0,0,1,0,7,5.3,0,Frank Williams
+2003-12-03,23-281,NYK,AWAY,SEA,L (-8),0,4:13,0,2,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.8,-9,Frank Williams
+2003-12-05,23-283,NYK,AWAY,POR,L (-7),0,8:57,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,3,0,2,-2.0,-6,Frank Williams
+2003-12-06,23-284,NYK,AWAY,GSW,L (-12),0,9:26,0,2,.000,0,1,.000,0,0,,0,0,0,3,0,0,1,1,0,-0.7,-5,Frank Williams
+2003-12-09,23-287,NYK,AWAY,LAL,L (-8),0,1:42,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-6,Frank Williams
+2003-12-10,23-288,NYK,AWAY,UTA,L (-22),0,12:16,0,3,.000,0,2,.000,0,2,.000,0,1,1,2,1,1,1,0,0,-0.5,-9,Frank Williams
+2003-12-13,23-291,NYK,HOME,DEN,W (+7),0,18:23,1,3,.333,0,0,,6,6,1.000,1,3,4,7,1,1,1,0,8,13.5,+19,Frank Williams
+2003-12-14,23-292,NYK,HOME,WAS,W (+2),0,5:52,0,3,.000,0,1,.000,0,0,,0,1,1,1,0,0,0,0,0,-1.1,-4,Frank Williams
+2003-12-16,23-294,NYK,HOME,GSW,L (-18),0,16:18,2,8,.250,1,2,.500,0,0,,1,1,2,2,0,0,6,2,5,-4.2,-12,Frank Williams
+2003-12-19,23-297,NYK,AWAY,TOR,L (-6),0,10:42,2,4,.500,1,2,.500,1,2,.500,0,1,1,1,0,0,1,2,6,2.8,-1,Frank Williams
+2003-12-20,23-298,NYK,HOME,ATL,W (+11),0,23:09,4,9,.444,0,1,.000,2,2,1.000,0,2,2,9,2,0,1,1,10,12.8,+7,Frank Williams
+2003-12-23,23-301,NYK,HOME,MIN,L (-6),0,15:08,2,4,.500,0,0,,2,2,1.000,0,1,1,3,0,1,1,1,6,5.7,0,Frank Williams
+2003-12-26,23-304,NYK,AWAY,MEM,W (+4),0,24:49,8,15,.533,0,2,.000,2,2,1.000,0,3,3,6,0,0,5,5,18,8.8,+15,Frank Williams
+2003-12-27,23-305,NYK,AWAY,MIA,W (+20),1,28:23,5,8,.625,2,4,.500,2,2,1.000,0,2,2,4,2,0,3,3,14,11.6,+21,Frank Williams
+2003-12-29,23-307,NYK,AWAY,ORL,W (+28),1,22:46,7,9,.778,4,6,.667,0,0,,1,1,2,5,2,1,2,3,18,18.5,+18,Frank Williams
+2003-12-30,23-308,NYK,HOME,MIA,W (+29),1,25:40,3,9,.333,0,1,.000,0,0,,0,2,2,7,2,0,2,1,6,6.0,+17,Frank Williams
+2004-01-02,23-311,NYK,HOME,CHI,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Frank Williams
+2004-01-04,23-313,NYK,HOME,NJN,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Frank Williams
+2004-01-10,23-319,NYK,HOME,MIL,W (+6),0,7:31,0,0,,0,0,,0,0,,0,0,0,3,1,0,1,0,0,2.1,+2,Frank Williams
+2004-01-12,23-321,NYK,HOME,DAL,L (-6),0,7:23,3,4,.750,1,1,1.000,0,0,,0,0,0,2,0,0,0,0,7,6.8,+2,Frank Williams
+2004-01-14,23-323,NYK,HOME,ORL,W (+10),0,7:58,2,2,1.000,0,0,,0,0,,0,0,0,1,0,0,2,0,4,2.1,-6,Frank Williams
+2004-01-16,23-325,NYK,HOME,SEA,W (+20),0,7:00,0,3,.000,0,1,.000,0,0,,0,1,1,2,0,1,0,1,0,-0.1,-3,Frank Williams
+2004-01-21,23-330,NYK,AWAY,HOU,L (-15),0,2:51,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,+2,Frank Williams
+2004-01-23,23-332,NYK,AWAY,ATL,W (+2),0,11:42,2,4,.500,2,2,1.000,0,0,,0,1,1,1,0,0,1,0,6,4.0,-2,Frank Williams
+2004-01-24,23-333,NYK,HOME,MIA,L (-8),0,22:01,2,5,.400,0,1,.000,0,0,,0,0,0,3,1,0,0,2,4,3.6,+2,Frank Williams
+2004-01-27,23-336,NYK,HOME,SAS,L (-10),0,11:39,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,+4,Frank Williams
+2004-01-30,23-339,NYK,AWAY,BOS,W (+18),0,5:23,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-8,Frank Williams
+2004-02-03,23-343,NYK,HOME,IND,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Frank Williams
+2004-02-07,23-347,NYK,AWAY,MIA,W (+12),0,10:39,1,3,.333,1,2,.500,0,0,,0,1,1,0,0,0,1,0,3,0.6,-1,Frank Williams
+2004-02-08,23-348,NYK,HOME,LAC,W (+6),0,19:36,1,4,.250,0,2,.000,0,0,,0,0,0,4,0,0,0,4,2,0.8,+12,Frank Williams
+2004-02-10,23-350,NYK,AWAY,DAL,L (-15),0,4:55,0,3,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-2.1,-6,Frank Williams
+2004-02-11,23-351,NYK,AWAY,NOH,L (-8),0,16:59,1,2,.500,0,1,.000,5,6,.833,0,1,1,2,1,0,2,1,7,5.9,-3,Frank Williams
+2004-02-17,23-357,NYK,HOME,DET,W (+4),0,14:11,1,4,.250,1,2,.500,0,0,,0,1,1,4,0,0,2,1,3,1.3,+1,Frank Williams
+2004-02-20,23-360,NYK,HOME,UTA,L (-14),0,9:07,1,3,.333,0,0,,0,0,,0,0,0,1,1,0,1,2,2,0.2,+3,Frank Williams
+2004-02-22,23-362,NYK,HOME,CLE,L (-6),0,5:16,1,2,.500,0,1,.000,0,0,,0,0,0,1,0,0,0,1,2,1.3,+4,Frank Williams
+2004-02-29,24-004,NYK,AWAY,DEN,L (-11),0,15:43,2,3,.667,0,1,.000,0,0,,0,1,1,5,1,0,2,3,4,4.3,+1,Frank Williams
+2004-03-03,24-007,NYK,HOME,PHI,W (+11),0,6:18,0,0,,0,0,,2,2,1.000,0,1,1,1,1,0,1,0,2,3.0,-1,Frank Williams
+2004-03-05,24-009,NYK,AWAY,TOR,W (+6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Frank Williams
+2004-03-07,24-011,NYK,AWAY,WAS,W (+13),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Frank Williams
+2004-03-09,24-013,NYK,HOME,BOS,L (-3),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Frank Williams
+2004-04-02,24-037,NYK,AWAY,NJN,L (-25),0,6:00,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,0,0,1.0,-1,Frank Williams
+2004-04-06,24-041,NYK,AWAY,IND,L (-21),0,7:51,0,2,.000,0,0,,0,0,,0,0,0,1,1,0,1,0,0,-0.7,0,Frank Williams
+2004-04-07,24-042,NYK,HOME,CHI,W (+14),0,4:04,0,0,,0,0,,0,0,,0,0,0,1,0,0,1,2,0,-1.1,-7,Frank Williams
+2004-04-10,24-045,NYK,AWAY,WAS,W (+4),0,32:21,2,3,.667,0,1,.000,2,2,1.000,1,1,2,4,0,0,3,2,6,4.7,+8,Frank Williams
+2004-04-12,24-047,NYK,AWAY,NOH,W (+4),0,22:23,1,7,.143,0,0,,2,2,1.000,0,2,2,5,0,0,0,3,4,2.4,-3,Frank Williams
+2004-12-01,24-280,CHI,HOME,LAL,W (+8),0,6:04,0,2,.000,0,0,,0,0,,0,1,1,2,1,0,0,1,0,0.9,-3,Frank Williams
+2004-12-03,24-282,CHI,HOME,MIA,L (-24),0,9:12,1,4,.250,0,0,,0,0,,1,0,1,0,0,0,0,0,2,0.3,-6,Frank Williams
+2004-12-04,24-283,CHI,AWAY,WAS,L (-7),0,8:18,0,0,,0,0,,0,0,,0,0,0,1,0,0,1,1,0,-0.7,-8,Frank Williams
+2004-12-06,24-285,CHI,HOME,SAS,L (-16),0,22:55,2,9,.222,0,2,.000,0,0,,1,2,3,3,0,2,1,3,4,1.1,+7,Frank Williams
+2004-12-08,24-287,CHI,HOME,CLE,W (+28),0,4:54,0,0,,0,0,,0,0,,0,0,0,2,1,1,1,1,0,1.7,-4,Frank Williams
+2005-01-01,24-311,CHI,HOME,ORL,W (+15),0,4:52,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,0,1,0,-0.4,-9,Frank Williams
+2005-01-05,24-315,CHI,AWAY,NOH,W (+6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Frank Williams
+2005-01-07,24-317,CHI,HOME,UTA,W (+6),0,4:28,0,2,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,1,0,-1.1,+2,Frank Williams
+2005-01-12,24-322,CHI,HOME,PHI,W (+32),0,3:21,0,0,,0,0,,0,0,,0,1,1,1,0,0,0,0,0,1.0,-1,Frank Williams
+2005-03-09,25-012,CHI,AWAY,POR,W (+13),0,5:51,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.8,-4,Frank Williams

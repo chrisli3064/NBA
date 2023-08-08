@@ -1,0 +1,14 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2006-11-10,25-081,SEA,AWAY,CHA,W (+14),0,2:28,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4,Andreas Glyniadakis
+2006-11-22,25-093,SEA,AWAY,LAC,W (+10),0,15:52,1,2,.500,0,0,,0,0,,1,2,3,0,0,0,0,4,2,0.7,-5,Andreas Glyniadakis
+2006-11-24,25-095,SEA,HOME,SAC,L (-9),0,4:32,0,0,,0,0,,0,0,,0,0,0,1,0,0,1,2,0,-1.1,+2,Andreas Glyniadakis
+2006-11-26,25-097,SEA,HOME,SAS,L (-20),0,6:26,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,0,2,2,0.2,-4,Andreas Glyniadakis
+2006-11-29,25-100,SEA,HOME,ORL,L (-10),0,2:06,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1,Andreas Glyniadakis
+2006-12-05,25-106,SEA,HOME,ATL,W (+15),0,0:43,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1,Andreas Glyniadakis
+2006-12-12,25-113,SEA,AWAY,MIL,L (-1),0,2:16,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-2,Andreas Glyniadakis
+2006-12-15,25-116,SEA,AWAY,CLE,L (-22),1,10:11,2,3,.667,0,0,,0,0,,0,1,1,0,0,0,1,1,4,1.6,-6,Andreas Glyniadakis
+2006-12-17,25-118,SEA,AWAY,DET,L (-4),0,10:35,0,3,.000,0,0,,1,2,.500,0,1,1,0,0,0,1,1,1,-2.6,0,Andreas Glyniadakis
+2006-12-18,25-119,SEA,AWAY,MEM,L (-8),1,12:14,4,5,.800,0,0,,0,0,,0,1,1,0,0,0,4,3,8,1.2,+6,Andreas Glyniadakis
+2006-12-20,25-121,SEA,HOME,DAL,L (-8),1,4:27,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,4,0,-1.3,-3,Andreas Glyniadakis
+2006-12-28,25-129,SEA,AWAY,DEN,L (-14),1,7:52,0,1,.000,0,0,,0,0,,1,0,1,0,0,0,2,1,0,-2.4,-10,Andreas Glyniadakis
+2007-01-02,25-134,SEA,AWAY,DAL,L (-24),0,0:52,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-3,Andreas Glyniadakis

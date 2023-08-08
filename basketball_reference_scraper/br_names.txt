@@ -4941,7 +4941,6 @@ Jim Zoet
 Bill Zopf
 Ivica Zubac
 Matt Zunic
-Omer Ask
 Gigi Datome
 Otto Porter
 Glen Rice
@@ -4949,7 +4948,6 @@ James Ennis III
 Glenn Robinson III
 Larry Drew II
 Larry Nance
-Tibor Plei
 Kelly Oubre
 Juancho Hernangomez
 Gary Payton II

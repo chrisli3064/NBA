@@ -1,0 +1,55 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2012-01-27,21-174,ORL,AWAY,NOH,L (-26),0,3:09,0,0,,0,0,,2,2,1.000,0,0,0,0,0,0,0,0,2,2.0,-2,Daniel Orton
+2012-02-22,21-200,ORL,AWAY,NJN,W (+17),0,2:27,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-5,Daniel Orton
+2012-03-03,21-210,ORL,HOME,MIL,W (+16),0,1:29,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,0,Daniel Orton
+2012-03-11,21-218,ORL,HOME,IND,W (+13),0,3:33,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,0,1,2,0.6,-9,Daniel Orton
+2012-03-23,21-230,ORL,HOME,CLE,W (+13),0,1:59,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,0,0,-1.7,-4,Daniel Orton
+2012-04-03,21-241,ORL,AWAY,DET,L (-7),0,8:13,0,0,,0,0,,2,2,1.000,1,1,2,0,0,0,0,2,2,2.2,-12,Daniel Orton
+2012-04-09,21-247,ORL,HOME,DET,W (+30),0,12:34,0,3,.000,0,0,,0,0,,2,1,3,0,1,1,0,4,0,-0.3,+2,Daniel Orton
+2012-04-10,21-248,ORL,AWAY,WAS,L (-8),0,5:42,0,1,.000,0,0,,0,0,,1,2,3,0,0,0,0,0,0,0.6,+4,Daniel Orton
+2012-04-13,21-251,ORL,HOME,ATL,L (-28),0,5:27,0,1,.000,0,0,,0,0,,1,0,1,0,1,0,0,0,0,1.0,+2,Daniel Orton
+2012-04-15,21-253,ORL,AWAY,CLE,W (+16),0,28:57,3,4,.750,0,0,,5,8,.625,0,4,4,1,5,3,0,2,11,16.4,+3,Daniel Orton
+2012-04-16,21-254,ORL,HOME,PHI,W (+13),1,23:35,3,3,1.000,0,0,,0,0,,3,3,6,0,0,1,1,4,6,6.2,+2,Daniel Orton
+2012-04-18,21-256,ORL,AWAY,BOS,L (-4),0,10:57,1,1,1.000,0,0,,1,4,.250,3,1,4,0,0,0,1,2,3,2.1,-11,Daniel Orton
+2012-04-21,21-259,ORL,AWAY,UTA,L (-10),0,11:09,1,3,.333,0,0,,0,2,.000,2,1,3,0,0,2,0,5,2,0.6,+4,Daniel Orton
+2012-04-22,21-260,ORL,AWAY,DEN,L (-27),0,19:42,1,3,.333,0,0,,0,2,.000,3,2,5,0,0,0,0,2,2,1.4,-16,Daniel Orton
+2012-04-25,21-263,ORL,HOME,CHA,W (+7),0,22:07,4,5,.800,0,0,,0,3,.000,3,2,5,1,0,0,2,4,8,4.7,-5,Daniel Orton
+2012-04-26,21-264,ORL,AWAY,MEM,L (-12),1,25:35,3,3,1.000,0,0,,1,2,.500,0,2,2,3,1,2,2,4,7,7.2,+4,Daniel Orton
+2012-11-11,22-097,OKC,HOME,CLE,W (+15),0,2:02,1,1,1.000,0,0,,0,0,,0,0,0,0,0,1,0,0,2,2.4,-4,Daniel Orton
+2013-02-04,22-182,OKC,HOME,DAL,W (+21),0,7:36,0,1,.000,0,0,,0,0,,2,1,3,1,0,0,0,1,0,1.3,-8,Daniel Orton
+2013-02-08,22-186,OKC,HOME,PHO,W (+31),0,5:22,2,4,.500,0,0,,0,0,,2,1,3,0,0,0,0,1,4,3.3,+2,Daniel Orton
+2013-02-10,22-188,OKC,AWAY,PHO,W (+28),0,7:50,1,2,.500,0,0,,3,4,.750,0,1,1,0,0,0,0,0,5,3.9,-5,Daniel Orton
+2013-02-12,22-190,OKC,AWAY,UTA,L (-15),0,5:23,0,0,,0,0,,1,4,.250,1,1,2,1,0,1,0,0,1,2.2,+6,Daniel Orton
+2013-02-14,22-192,OKC,HOME,MIA,L (-10),0,0:28,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,0,Daniel Orton
+2013-02-22,22-200,OKC,HOME,MIN,W (+16),0,1:11,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+3,Daniel Orton
+2013-02-24,22-202,OKC,HOME,CHI,W (+30),0,8:54,1,3,.333,0,0,,2,4,.500,2,2,4,1,0,1,0,1,4,4.5,+2,Daniel Orton
+2013-04-05,22-242,OKC,AWAY,IND,W (+22),0,2:14,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.7,+2,Daniel Orton
+2013-04-11,22-248,OKC,AWAY,GSW,W (+19),0,5:17,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,1,0,0,-1.0,0,Daniel Orton
+2013-04-12,22-249,OKC,AWAY,POR,W (+16),0,14:48,1,4,.250,0,0,,0,0,,0,1,1,0,0,0,1,2,2,-1.9,0,Daniel Orton
+2013-04-15,22-252,OKC,HOME,SAC,W (+9),0,21:30,4,6,.667,0,0,,2,4,.500,5,2,7,0,3,0,2,3,10,10.5,+4,Daniel Orton
+2013-04-17,22-254,OKC,HOME,MIL,L (-6),0,21:18,2,3,.667,0,0,,1,1,1.000,0,3,3,0,1,0,0,5,5,3.6,-17,Daniel Orton
+2013-10-30,23-085,PHI,HOME,MIA,W (+4),0,14:52,1,1,1.000,0,0,,2,2,1.000,0,1,1,0,1,1,1,4,4,3.1,-6,Daniel Orton
+2013-11-01,23-087,PHI,AWAY,WAS,W (+7),0,11:25,0,0,,0,0,,0,0,,0,3,3,0,0,3,1,0,0,2.0,-4,Daniel Orton
+2013-11-02,23-088,PHI,HOME,CHI,W (+3),0,16:54,2,2,1.000,0,0,,0,0,,0,1,1,1,0,0,1,2,4,2.6,-6,Daniel Orton
+2013-11-04,23-090,PHI,HOME,GSW,L (-20),0,17:04,0,2,.000,0,0,,1,3,.333,2,4,6,1,0,0,2,2,1,-0.7,+15,Daniel Orton
+2013-11-06,23-092,PHI,HOME,WAS,L (-14),0,6:33,1,2,.500,0,0,,3,3,1.000,0,3,3,0,0,0,1,2,5,3.1,+2,Daniel Orton
+2013-11-08,23-094,PHI,HOME,CLE,W (+15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Daniel Orton
+2013-11-09,23-095,PHI,AWAY,CLE,L (-2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Daniel Orton
+2013-11-13,23-099,PHI,HOME,HOU,W (+6),0,0:01,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Daniel Orton
+2013-11-15,23-101,PHI,AWAY,ATL,L (-10),0,4:56,0,0,,0,0,,0,0,,0,2,2,0,0,0,1,2,0,-1.2,+3,Daniel Orton
+2013-11-16,23-102,PHI,AWAY,NOP,L (-37),0,15:47,1,2,.500,0,0,,1,3,.333,1,1,2,1,1,1,1,1,3,3.2,0,Daniel Orton
+2013-11-20,23-106,PHI,HOME,TOR,L (-10),1,17:05,2,4,.500,0,0,,2,2,1.000,1,5,6,0,0,1,3,0,6,3.9,0,Daniel Orton
+2013-11-22,23-108,PHI,HOME,MIL,W (+8),1,18:48,1,3,.333,0,0,,2,3,.667,1,5,6,3,1,1,2,4,4,4.3,+3,Daniel Orton
+2013-11-23,23-109,PHI,AWAY,IND,L (-8),1,35:36,3,11,.273,0,0,,4,5,.800,4,6,10,1,0,2,0,3,10,8.6,-21,Daniel Orton
+2013-11-27,23-113,PHI,AWAY,ORL,L (-11),1,19:20,4,6,.667,0,0,,0,0,,0,2,2,0,0,1,2,2,8,3.9,-13,Daniel Orton
+2013-12-01,23-117,PHI,AWAY,DET,L (-15),0,5:52,1,3,.333,0,0,,0,0,,0,1,1,1,0,1,2,5,2,-2.0,-2,Daniel Orton
+2013-12-03,23-119,PHI,HOME,ORL,W (+1),0,3:06,0,0,,0,0,,0,0,,1,1,2,0,0,0,0,1,0,0.6,+2,Daniel Orton
+2013-12-06,23-122,PHI,AWAY,CHA,L (-17),0,4:15,0,0,,0,0,,0,0,,0,2,2,1,0,0,0,0,0,1.3,+1,Daniel Orton
+2013-12-07,23-123,PHI,HOME,DEN,L (-11),0,6:56,1,2,.500,0,0,,2,2,1.000,0,1,1,1,0,0,0,1,4,3.6,+1,Daniel Orton
+2013-12-09,23-125,PHI,HOME,LAC,L (-11),0,3:17,0,1,.000,0,0,,0,0,,1,1,2,0,0,0,0,1,0,-0.1,-5,Daniel Orton
+2013-12-13,23-129,PHI,AWAY,TOR,L (-8),0,0:52,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.7,-3,Daniel Orton
+2013-12-14,23-130,PHI,HOME,POR,L (-34),0,4:41,1,1,1.000,0,0,,2,2,1.000,0,0,0,3,2,0,0,1,4,7.4,-2,Daniel Orton
+2013-12-16,23-132,PHI,AWAY,BRK,L (-36),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Daniel Orton
+2013-12-28,23-144,PHI,AWAY,PHO,L (-14),0,6:02,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,1,0,-1.1,-1,Daniel Orton
+2014-01-02,23-149,PHI,AWAY,SAC,W (+9),0,18:35,1,3,.333,0,0,,3,4,.750,2,2,4,2,1,3,0,2,5,8.6,+10,Daniel Orton
+2014-01-06,23-153,PHI,HOME,MIN,L (-31),0,18:51,2,4,.500,0,0,,1,1,1.000,2,3,5,0,0,2,0,4,5,5.1,-8,Daniel Orton

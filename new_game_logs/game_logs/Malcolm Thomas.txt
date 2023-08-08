@@ -1,0 +1,47 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2012-01-13,23-066,SAS,HOME,POR,W (+16),0,2:16,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.7,-1,Malcolm Thomas
+2012-01-15,23-068,SAS,HOME,PHO,W (+11),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Malcolm Thomas
+2012-01-17,23-070,SAS,AWAY,MIA,L (-22),0,8:23,0,1,.000,0,0,,1,2,.500,0,1,1,1,0,1,0,0,1,1.6,-4,Malcolm Thomas
+2012-01-25,23-078,SAS,HOME,ATL,W (+22),0,4:26,0,2,.000,0,0,,0,0,,0,1,1,0,1,0,0,0,0,-0.1,+1,Malcolm Thomas
+2012-03-27,23-140,HOU,AWAY,DAL,L (-9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Malcolm Thomas
+2014-10-29,25-355,PHI,AWAY,IND,L (-12),0,16:15,1,2,.500,0,0,,2,2,1.000,2,3,5,0,0,1,2,3,4,2.8,-12,Malcolm Thomas
+2014-10-31,25-357,PHI,AWAY,MIL,L (-12),0,14:48,3,5,.600,0,0,,0,0,,2,3,5,3,1,0,0,1,6,8.7,-6,Malcolm Thomas
+2014-11-01,25-358,PHI,HOME,MIA,L (-18),0,19:05,4,4,1.000,0,0,,0,0,,0,9,9,0,0,0,0,2,8,8.7,-6,Malcolm Thomas
+2014-11-03,25-360,PHI,HOME,HOU,L (-11),0,11:15,1,1,1.000,0,0,,0,0,,0,1,1,1,0,0,1,1,2,1.3,-1,Malcolm Thomas
+2014-11-05,25-362,PHI,HOME,ORL,L (-2),0,10:02,1,2,.500,0,0,,0,0,,0,3,3,0,0,0,1,1,2,0.5,-3,Malcolm Thomas
+2014-11-07,25-364,PHI,HOME,CHI,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Malcolm Thomas
+2014-11-09,26-001,PHI,AWAY,TOR,L (-32),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Malcolm Thomas
+2014-12-23,26-045,PHI,AWAY,MIA,W (+4),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Malcolm Thomas
+2014-12-26,26-048,PHI,AWAY,POR,L (-21),0,3:03,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3,Malcolm Thomas
+2014-12-30,26-052,PHI,AWAY,GSW,L (-40),0,16:57,4,6,.667,0,0,,2,2,1.000,4,4,8,0,0,0,2,1,10,9.0,-16,Malcolm Thomas
+2015-01-02,26-055,PHI,AWAY,PHO,L (-16),0,11:11,0,2,.000,0,1,.000,1,2,.500,0,2,2,2,1,0,0,0,1,2.2,-1,Malcolm Thomas
+2015-01-03,26-056,PHI,AWAY,LAC,L (-36),0,17:20,0,2,.000,0,1,.000,0,0,,1,4,5,1,0,0,1,2,0,-0.6,-17,Malcolm Thomas
+2015-01-05,26-058,PHI,HOME,CLE,W (+3),0,10:44,1,3,.333,0,1,.000,0,0,,1,1,2,0,1,0,0,0,2,2.3,-12,Malcolm Thomas
+2015-01-07,26-060,PHI,HOME,MIL,L (-20),0,10:05,0,1,.000,0,0,,0,0,,2,0,2,0,0,0,0,1,0,0.3,-12,Malcolm Thomas
+2015-01-09,26-062,PHI,AWAY,BRK,W (+2),0,7:41,0,1,.000,0,0,,0,0,,0,3,3,0,0,0,2,2,0,-2.6,-5,Malcolm Thomas
+2015-01-13,26-066,PHI,HOME,ATL,L (-18),0,4:27,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+4,Malcolm Thomas
+2015-01-17,26-070,PHI,AWAY,DET,L (-18),0,6:33,1,2,.500,0,1,.000,0,0,,0,1,1,0,0,0,0,0,2,1.3,+3,Malcolm Thomas
+2015-01-19,26-072,PHI,AWAY,WAS,L (-35),0,12:12,1,4,.250,0,1,.000,0,0,,1,0,1,0,0,0,1,0,2,-0.7,-11,Malcolm Thomas
+2015-01-21,26-074,PHI,HOME,NYK,L (-7),0,17:43,1,4,.250,0,2,.000,4,7,.571,2,5,7,0,0,0,1,2,6,3.5,-10,Malcolm Thomas
+2015-01-24,26-077,PHI,AWAY,MEM,L (-18),0,4:56,0,0,,0,0,,0,0,,1,1,2,0,0,0,2,1,0,-1.4,-1,Malcolm Thomas
+2015-02-22,26-106,PHI,AWAY,ORL,L (-5),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Malcolm Thomas
+2013-03-09,24-121,GSW,HOME,MIL,L (-10),0,3:06,0,0,,0,0,,0,0,,0,2,2,0,0,0,0,0,0,0.6,+7,Malcolm Thomas
+2013-03-11,24-123,GSW,HOME,NYK,W (+29),0,5:25,0,1,.000,0,0,,1,2,.500,0,0,0,0,0,0,0,1,1,-0.5,+5,Malcolm Thomas
+2013-03-13,24-125,GSW,HOME,DET,W (+8),0,0:30,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Malcolm Thomas
+2013-03-15,24-127,GSW,HOME,CHI,L (-18),0,9:44,0,0,,0,0,,2,2,1.000,0,2,2,1,0,1,1,0,2,3.0,+15,Malcolm Thomas
+2013-03-17,24-129,GSW,AWAY,HOU,W (+30),0,2:15,0,0,,0,0,,0,0,,0,1,1,1,0,0,0,0,0,1.0,+8,Malcolm Thomas
+2013-03-27,24-139,CHI,HOME,MIA,W (+4),0,0:21,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Malcolm Thomas
+2013-04-07,24-150,CHI,AWAY,DET,L (-14),0,1:11,1,1,1.000,0,0,,2,2,1.000,0,0,0,0,0,0,0,0,4,3.7,+1,Malcolm Thomas
+2013-04-09,24-152,CHI,HOME,TOR,L (-3),0,26:21,3,6,.500,0,0,,0,2,.000,3,5,8,2,1,1,0,4,6,7.3,+9,Malcolm Thomas
+2013-04-11,24-154,CHI,HOME,NYK,W (+7),0,0:25,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Malcolm Thomas
+2013-04-12,24-155,CHI,AWAY,TOR,L (-9),0,2:46,0,1,.000,0,0,,0,0,,1,0,1,0,0,0,1,1,0,-1.4,-2,Malcolm Thomas
+2013-04-14,24-157,CHI,AWAY,MIA,L (-12),0,2:43,0,0,,0,0,,0,0,,1,1,2,0,1,0,1,2,0,0.2,-3,Malcolm Thomas
+2013-04-15,24-158,CHI,AWAY,ORL,W (+18),0,2:00,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,-3,Malcolm Thomas
+2014-01-19,25-072,SAS,HOME,MIL,W (+28),0,14:40,1,4,.250,0,0,,0,2,.000,1,8,9,0,0,2,1,0,2,2.3,+7,Malcolm Thomas
+2014-01-31,25-084,UTA,HOME,GSW,L (-5),0,10:30,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,1,0,0,-1.4,-5,Malcolm Thomas
+2014-02-01,25-085,UTA,AWAY,LAC,L (-15),0,1:45,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+1,Malcolm Thomas
+2014-02-22,25-106,UTA,HOME,MIN,L (-17),0,5:11,2,3,.667,0,1,.000,0,0,,1,2,3,2,0,1,0,1,4,5.7,+2,Malcolm Thomas
+2014-03-07,25-119,UTA,AWAY,NYK,L (-27),0,5:13,0,1,.000,0,1,.000,0,0,,2,1,3,0,0,0,2,0,0,-1.0,-9,Malcolm Thomas
+2014-03-24,25-136,UTA,HOME,DET,L (-20),0,2:14,0,0,,0,0,,0,0,,0,1,1,0,0,0,2,1,0,-2.1,-2,Malcolm Thomas
+2014-04-14,25-157,UTA,HOME,LAL,L (-15),0,2:25,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+5,Malcolm Thomas
+2014-04-16,25-159,UTA,AWAY,MIN,W (+6),0,20:45,4,6,.667,1,2,.500,0,0,,1,3,4,0,0,0,3,3,9,3.8,+6,Malcolm Thomas

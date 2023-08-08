@@ -1,0 +1,4 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+2020-02-07,23-109,MIA,AWAY,SAC,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Kyle Alexander
+2020-08-06,23-290,MIA,AWAY,MIL,L (-14),0,1:22,.000,.000,78.0,0.0,42.3,0.0,0.0,0.0,0.0,30.8,71,130,0.0,-30.4,Kyle Alexander
+2020-08-14,23-298,MIA,AWAY,IND,L (-17),0,12:00,1.000,1.000,7.5,8.7,8.1,0.0,0.0,0.0,50.0,6.8,97,115,1.3,-7.8,Kyle Alexander

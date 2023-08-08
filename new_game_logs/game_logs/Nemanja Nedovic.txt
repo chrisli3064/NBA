@@ -1,0 +1,29 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2013-10-30,22-136,GSW,HOME,LAL,W (+31),0,7:36,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+2,Nemanja Nedovic
+2013-10-31,22-137,GSW,AWAY,LAC,L (-11),0,0:49,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Nemanja Nedovic
+2013-11-02,22-139,GSW,HOME,SAC,W (+11),0,3:33,0,2,.000,0,0,,0,0,,0,1,1,1,0,0,1,0,0,-1.4,-8,Nemanja Nedovic
+2013-11-04,22-141,GSW,AWAY,PHI,W (+20),0,11:40,1,3,.333,0,2,.000,0,0,,0,1,1,0,0,0,2,0,2,-1.4,-14,Nemanja Nedovic
+2013-11-06,22-143,GSW,AWAY,MIN,W (+13),0,1:27,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3,Nemanja Nedovic
+2013-11-09,22-146,GSW,AWAY,MEM,L (-18),0,4:51,0,1,.000,0,1,.000,1,2,.500,1,0,1,1,0,0,0,0,1,1.3,+4,Nemanja Nedovic
+2013-11-12,22-149,GSW,HOME,DET,W (+18),0,6:17,1,2,.500,0,1,.000,2,2,1.000,0,0,0,0,0,0,1,0,4,2.0,0,Nemanja Nedovic
+2013-11-16,22-153,GSW,HOME,UTA,W (+14),0,2:59,0,1,.000,0,0,,0,0,,0,0,0,2,0,0,0,0,0,0.7,-4,Nemanja Nedovic
+2013-11-18,22-155,GSW,AWAY,UTA,W (+11),0,2:46,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-12,Nemanja Nedovic
+2013-11-22,22-159,GSW,AWAY,LAL,L (-7),0,5:18,0,2,.000,0,2,.000,0,0,,0,1,1,0,0,0,0,2,0,-1.9,-5,Nemanja Nedovic
+2013-11-23,22-160,GSW,HOME,POR,L (-12),0,13:03,2,4,.500,1,1,1.000,0,0,,1,1,2,1,0,0,2,3,5,1.5,-5,Nemanja Nedovic
+2013-11-26,22-163,GSW,AWAY,NOP,W (+1),0,12:39,0,2,.000,0,1,.000,0,0,,0,2,2,1,0,0,0,2,0,-0.9,+8,Nemanja Nedovic
+2013-11-27,22-164,GSW,AWAY,DAL,L (-4),0,12:13,1,2,.500,0,0,,2,2,1.000,0,0,0,1,0,0,1,1,4,2.3,-8,Nemanja Nedovic
+2013-11-29,22-166,GSW,AWAY,OKC,L (-1),0,11:25,0,1,.000,0,1,.000,0,0,,0,3,3,3,0,1,0,1,0,2.6,-2,Nemanja Nedovic
+2013-12-01,22-168,GSW,AWAY,SAC,W (+2),0,7:54,1,5,.200,0,2,.000,0,0,,0,1,1,1,0,0,2,1,2,-2.5,+1,Nemanja Nedovic
+2013-12-03,22-170,GSW,HOME,TOR,W (+9),0,4:52,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,-7,Nemanja Nedovic
+2013-12-06,22-173,GSW,AWAY,HOU,L (-22),0,11:26,0,2,.000,0,1,.000,0,0,,0,1,1,0,0,0,2,1,0,-3.5,-12,Nemanja Nedovic
+2013-12-07,22-174,GSW,AWAY,MEM,W (+26),0,3:22,1,1,1.000,1,1,1.000,0,0,,0,0,0,1,0,0,0,0,3,3.4,+2,Nemanja Nedovic
+2013-12-17,22-184,GSW,HOME,NOP,W (+11),0,3:30,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.8,-8,Nemanja Nedovic
+2013-12-23,22-190,GSW,AWAY,DEN,W (+8),0,0:07,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Nemanja Nedovic
+2013-12-27,22-194,GSW,HOME,PHO,W (+29),0,6:11,1,3,.333,1,1,1.000,0,0,,1,1,2,0,0,0,0,0,3,2.3,+5,Nemanja Nedovic
+2014-01-24,22-222,GSW,HOME,MIN,L (-1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nemanja Nedovic
+2014-02-08,22-237,GSW,AWAY,PHO,L (-13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nemanja Nedovic
+2014-02-10,22-239,GSW,HOME,PHI,W (+43),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nemanja Nedovic
+2014-02-28,22-257,GSW,AWAY,NYK,W (+23),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Nemanja Nedovic
+2014-03-11,22-268,GSW,HOME,DAL,W (+23),0,4:35,0,1,.000,0,0,,2,2,1.000,0,0,0,1,0,0,1,0,2,1.0,+2,Nemanja Nedovic
+2014-03-18,22-275,GSW,HOME,ORL,W (+14),0,3:27,0,3,.000,0,2,.000,0,0,,0,0,0,0,0,0,0,0,0,-2.1,-3,Nemanja Nedovic
+2014-04-14,22-302,GSW,HOME,MIN,W (+10),0,0:21,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,Nemanja Nedovic

@@ -1,0 +1,12 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2023-04-15,22-342,NYK,AWAY,CLE,W (+4),1,26:57,1,4,.250,1,4,.250,2,2,1.000,1,4,5,1,0,1,0,3,5,4.7,+10,Quentin Grimes
+2023-04-18,22-345,NYK,AWAY,CLE,L (-17),1,21:55,0,2,.000,0,2,.000,4,5,.800,0,3,3,2,3,0,2,1,4,5.1,-8,Quentin Grimes
+2023-04-21,22-348,NYK,HOME,CLE,W (+20),1,13:26,1,5,.200,0,3,.000,0,0,,1,1,2,0,0,1,0,1,2,0.2,+9,Quentin Grimes
+2023-04-23,22-350,NYK,HOME,CLE,W (+9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Quentin Grimes
+2023-04-26,22-353,NYK,AWAY,CLE,W (+11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Quentin Grimes
+2023-04-30,22-357,NYK,HOME,MIA,L (-7),0,10:28,1,3,.333,1,3,.333,1,2,.500,0,0,0,0,1,0,0,2,4,2.1,+1,Quentin Grimes
+2023-05-02,22-359,NYK,HOME,MIA,W (+6),0,25:51,1,3,.333,0,2,.000,1,1,1.000,0,3,3,0,0,1,0,2,3,2.1,+3,Quentin Grimes
+2023-05-06,22-363,NYK,AWAY,MIA,L (-19),0,21:38,3,7,.429,1,4,.250,1,1,1.000,1,0,1,0,1,0,1,2,8,4.2,-5,Quentin Grimes
+2023-05-08,23-000,NYK,AWAY,MIA,L (-8),1,41:49,3,8,.375,3,7,.429,0,0,,0,5,5,2,2,0,2,2,9,6.7,-4,Quentin Grimes
+2023-05-10,23-002,NYK,HOME,MIA,W (+9),1,48:00,3,8,.375,2,6,.333,0,0,,0,4,4,5,2,2,4,3,8,6.5,+9,Quentin Grimes
+2023-05-12,23-004,NYK,AWAY,MIA,L (-4),1,31:42,1,6,.167,1,6,.167,0,0,,0,2,2,3,0,0,1,1,3,0.5,+3,Quentin Grimes

@@ -1,0 +1,599 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2001-10-30,27-104,POR,AWAY,LAL,L (-11),1,25:04,5,10,.500,3,4,.750,4,4,1.000,0,0,0,2,1,0,4,1,17,10.0,-1,Derek Anderson
+2001-10-31,27-105,POR,HOME,GSW,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2001-11-03,27-108,POR,HOME,SAS,L (-16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2001-11-04,27-109,POR,AWAY,GSW,L (-10),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2001-11-06,27-111,POR,HOME,UTA,W (+18),1,37:46,5,11,.455,2,4,.500,3,4,.750,0,2,2,10,2,0,3,1,15,15.1,+22,Derek Anderson
+2001-11-08,27-113,POR,HOME,LAC,W (+18),1,38:45,9,15,.600,4,7,.571,4,4,1.000,0,2,2,5,2,0,3,3,26,21.0,+24,Derek Anderson
+2001-11-10,27-115,POR,AWAY,IND,L (-9),1,39:43,7,14,.500,2,7,.286,2,3,.667,0,4,4,7,0,0,0,1,18,16.3,+4,Derek Anderson
+2001-11-11,27-116,POR,AWAY,DET,W (+2),1,34:56,5,10,.500,1,3,.333,2,2,1.000,2,4,6,4,1,0,2,4,13,10.8,+4,Derek Anderson
+2001-11-13,27-118,POR,AWAY,NYK,L (-7),1,36:36,5,18,.278,0,7,.000,7,8,.875,2,6,8,1,2,0,3,3,17,7.7,-9,Derek Anderson
+2001-11-15,27-120,POR,AWAY,MEM,W (+16),1,36:38,6,16,.375,2,5,.400,4,4,1.000,1,5,6,5,1,0,2,1,18,13.5,+16,Derek Anderson
+2001-11-17,27-122,POR,AWAY,CHH,W (+10),1,35:39,5,14,.357,2,5,.400,8,9,.889,0,2,2,5,2,1,2,2,20,15.8,+16,Derek Anderson
+2001-11-20,27-125,POR,HOME,HOU,L (-7),1,41:41,4,11,.364,0,4,.000,4,5,.800,1,2,3,3,0,0,2,1,12,6.5,+4,Derek Anderson
+2001-11-21,27-126,POR,AWAY,SAC,L (-12),1,41:04,4,9,.444,1,3,.333,1,1,1.000,0,0,0,1,2,0,1,1,10,6.6,-10,Derek Anderson
+2001-11-23,27-128,POR,HOME,DEN,W (+7),1,40:49,3,13,.231,1,4,.250,5,8,.625,0,5,5,3,1,0,1,2,12,5.7,-4,Derek Anderson
+2001-11-27,27-132,POR,HOME,IND,W (+6),1,20:56,1,2,.500,1,1,1.000,3,4,.750,0,2,2,3,0,0,2,0,6,5.3,-3,Derek Anderson
+2001-11-30,27-135,POR,HOME,MIL,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2001-12-01,27-136,POR,HOME,PHO,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2001-12-06,27-141,POR,HOME,CHH,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2001-12-08,27-143,POR,HOME,SEA,W (+21),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2001-12-11,27-146,POR,AWAY,DAL,L (-2),1,37:37,4,12,.333,2,4,.500,3,6,.500,0,6,6,3,3,0,2,5,13,7.9,+4,Derek Anderson
+2001-12-14,27-149,POR,AWAY,UTA,L (-8),1,32:27,3,7,.429,0,2,.000,4,4,1.000,0,1,1,4,3,1,1,1,10,11.7,+9,Derek Anderson
+2001-12-15,27-150,POR,HOME,ORL,W (+11),1,34:57,4,10,.400,2,2,1.000,8,8,1.000,0,1,1,4,0,0,1,3,18,13.5,+8,Derek Anderson
+2001-12-18,27-153,POR,AWAY,HOU,W (+9),1,36:27,7,9,.778,2,3,.667,4,5,.800,0,0,0,5,3,1,1,2,20,21.5,+4,Derek Anderson
+2001-12-19,27-154,POR,AWAY,SAS,L (-18),1,26:35,3,8,.375,0,0,,2,2,1.000,1,3,4,2,1,0,2,0,8,5.6,-17,Derek Anderson
+2001-12-21,27-156,POR,HOME,DET,W (+2),1,36:17,1,7,.143,0,2,.000,4,4,1.000,1,2,3,5,4,0,3,3,6,6.1,+2,Derek Anderson
+2001-12-22,27-157,POR,AWAY,PHO,L (-12),1,33:48,5,10,.500,3,6,.500,0,0,,1,2,3,5,1,1,1,1,13,13.1,-7,Derek Anderson
+2001-12-26,27-161,POR,AWAY,SAC,L (-15),1,27:11,0,12,.000,0,5,.000,0,0,,0,2,2,1,1,0,1,0,0,-7.1,+7,Derek Anderson
+2001-12-27,27-162,POR,HOME,UTA,L (-12),1,38:44,2,7,.286,1,2,.500,10,12,.833,0,6,6,5,0,0,1,5,15,12.4,+6,Derek Anderson
+2001-12-30,27-165,POR,HOME,MIN,L (-2),1,31:42,6,12,.500,2,4,.500,2,4,.500,0,1,1,5,1,0,1,2,16,12.2,-7,Derek Anderson
+2002-01-01,27-167,POR,AWAY,LAC,L (-15),1,15:12,0,2,.000,0,1,.000,2,2,1.000,0,1,1,2,0,1,1,0,2,2.0,-10,Derek Anderson
+2002-01-02,27-168,POR,HOME,TOR,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2002-01-05,27-171,POR,HOME,PHI,W (+8),0,22:45,3,10,.300,0,3,.000,0,0,,0,5,5,2,1,0,0,0,6,4.1,+10,Derek Anderson
+2002-01-07,27-173,POR,AWAY,CLE,W (+26),0,24:58,3,6,.500,0,1,.000,1,1,1.000,0,4,4,5,0,0,0,1,7,8.3,+21,Derek Anderson
+2002-01-08,27-174,POR,AWAY,ATL,L (-9),0,29:08,4,7,.571,1,3,.333,2,2,1.000,0,4,4,2,0,0,2,4,11,6.7,+6,Derek Anderson
+2002-01-10,27-176,POR,AWAY,MIA,W (+7),0,30:12,1,6,.167,1,3,.333,6,6,1.000,2,3,5,4,2,0,1,0,9,11.3,+18,Derek Anderson
+2002-01-11,27-177,POR,AWAY,ORL,W (+8),0,29:23,4,11,.364,1,4,.250,0,0,,0,1,1,1,2,0,3,4,9,1.3,+6,Derek Anderson
+2002-01-13,27-179,POR,HOME,CLE,W (+32),0,18:31,4,5,.800,1,2,.500,2,2,1.000,0,2,2,3,1,0,0,2,11,12.0,+11,Derek Anderson
+2002-01-16,27-182,POR,AWAY,PHO,W (+9),0,23:22,6,10,.600,2,4,.500,3,4,.750,1,2,3,2,0,0,2,2,17,11.9,+4,Derek Anderson
+2002-01-17,27-183,POR,HOME,MIA,L (-2),0,31:51,6,14,.429,2,5,.400,5,6,.833,3,1,4,3,2,0,0,2,19,16.9,+2,Derek Anderson
+2002-01-19,27-185,POR,HOME,LAC,W (+20),0,15:33,3,6,.500,0,1,.000,0,0,,0,0,0,5,1,0,2,1,6,5.1,+2,Derek Anderson
+2002-01-22,27-188,POR,HOME,SAC,W (+6),0,18:41,1,5,.200,1,3,.333,0,0,,0,1,1,3,0,0,3,0,3,-0.7,+3,Derek Anderson
+2002-01-24,27-190,POR,HOME,MEM,W (+38),0,19:39,6,8,.750,2,2,1.000,5,6,.833,1,2,3,2,4,0,1,0,19,21.1,+28,Derek Anderson
+2002-01-29,27-195,POR,AWAY,SEA,W (+6),0,30:04,4,10,.400,1,3,.333,1,2,.500,1,1,2,3,0,0,2,2,10,4.5,+2,Derek Anderson
+2002-01-31,27-197,POR,HOME,PHO,W (+8),0,12:02,1,2,.500,1,2,.500,0,0,,1,1,2,1,0,0,0,0,3,3.7,-1,Derek Anderson
+2002-02-03,27-200,POR,HOME,CHI,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2002-02-05,27-202,POR,AWAY,DEN,L (-1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2002-02-06,27-203,POR,AWAY,MIN,L (-10),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2002-02-13,27-210,POR,HOME,DAL,W (+11),0,16:40,2,6,.333,1,2,.500,0,0,,0,0,0,2,1,0,0,1,5,3.6,-6,Derek Anderson
+2002-02-15,27-212,POR,HOME,BOS,L (-3),0,19:31,3,5,.600,0,1,.000,2,2,1.000,1,2,3,3,1,0,1,4,8,7.5,-5,Derek Anderson
+2002-02-17,27-214,POR,HOME,LAL,W (+6),0,15:22,1,2,.500,1,1,1.000,0,0,,0,1,1,1,0,0,2,0,3,1.0,-4,Derek Anderson
+2002-02-18,27-215,POR,AWAY,LAC,W (+1),0,17:44,2,8,.250,1,3,.333,2,3,.667,3,1,4,4,1,1,0,0,7,8.7,+2,Derek Anderson
+2002-02-20,27-217,POR,AWAY,SEA,W (+6),0,21:55,2,4,.500,1,3,.333,0,0,,1,0,1,2,0,0,0,1,5,4.7,+4,Derek Anderson
+2002-02-21,27-218,POR,HOME,ATL,W (+15),1,34:36,1,5,.200,1,3,.333,3,4,.750,0,3,3,6,0,0,2,3,6,4.4,+16,Derek Anderson
+2002-02-23,27-220,POR,HOME,DEN,W (+11),1,36:40,5,10,.500,1,2,.500,6,6,1.000,1,7,8,4,1,0,2,1,17,16.2,+25,Derek Anderson
+2002-02-25,27-222,POR,AWAY,PHI,W (+5),0,18:48,0,5,.000,0,4,.000,0,0,,0,2,2,1,0,0,1,2,0,-4.0,-2,Derek Anderson
+2002-02-27,27-224,POR,AWAY,WAS,W (+4),0,19:16,2,6,.333,1,3,.333,2,2,1.000,1,2,3,1,0,1,0,1,7,5.9,+7,Derek Anderson
+2002-03-01,27-226,POR,AWAY,TOR,W (+10),0,25:34,3,10,.300,2,5,.400,0,0,,2,1,3,1,1,0,0,1,8,5.2,+11,Derek Anderson
+2002-03-02,27-227,POR,AWAY,MIL,W (+1),0,28:04,4,11,.364,0,3,.000,1,1,1.000,1,2,3,2,0,0,0,1,9,5.2,-3,Derek Anderson
+2002-03-04,27-229,POR,HOME,SAC,W (+12),0,17:10,2,5,.400,1,2,.500,2,2,1.000,1,1,2,2,0,0,0,1,7,6.3,-8,Derek Anderson
+2002-03-06,27-231,POR,HOME,MIN,W (+7),0,19:51,2,8,.250,0,3,.000,1,1,1.000,0,0,0,6,0,0,2,2,5,1.6,+12,Derek Anderson
+2002-03-08,27-233,POR,HOME,NJN,W (+9),0,20:14,3,8,.375,3,3,1.000,0,0,,1,2,3,1,1,0,1,0,9,6.6,+3,Derek Anderson
+2002-03-09,27-234,POR,AWAY,DEN,L (-3),0,26:23,3,8,.375,1,2,.500,1,1,1.000,2,2,4,1,1,0,2,3,8,4.1,-27,Derek Anderson
+2002-03-14,27-239,POR,HOME,DAL,W (+26),0,24:41,7,10,.700,5,8,.625,1,1,1.000,0,1,1,4,2,0,3,2,20,17.1,-14,Derek Anderson
+2002-03-16,27-241,POR,HOME,WAS,W (+15),0,22:56,3,3,1.000,1,1,1.000,0,0,,0,2,2,2,1,1,1,2,7,8.0,+11,Derek Anderson
+2002-03-18,27-243,POR,AWAY,BOS,W (+9),0,15:37,3,10,.300,3,8,.375,4,6,.667,0,2,2,2,3,0,1,0,13,10.4,+11,Derek Anderson
+2002-03-20,27-245,POR,AWAY,NJN,L (-15),0,22:43,3,8,.375,0,3,.000,4,4,1.000,1,0,1,1,1,0,1,1,10,6.6,-4,Derek Anderson
+2002-03-22,27-247,POR,AWAY,CHI,W (+16),0,18:27,6,12,.500,3,4,.750,1,2,.500,1,5,6,4,2,0,1,1,16,15.2,+5,Derek Anderson
+2002-03-23,27-248,POR,AWAY,MIN,W (+9),0,22:54,4,8,.500,1,2,.500,1,1,1.000,1,0,1,2,0,0,0,0,10,8.1,+4,Derek Anderson
+2002-03-25,27-250,POR,HOME,MEM,L (-3),0,17:11,1,5,.200,0,1,.000,0,0,,0,3,3,3,0,0,1,1,2,0.5,-18,Derek Anderson
+2002-03-27,27-252,POR,HOME,SAS,W (+5),0,21:43,5,11,.455,0,2,.000,3,3,1.000,2,0,2,3,1,0,1,1,13,10.4,-4,Derek Anderson
+2002-03-29,27-254,POR,AWAY,LAL,L (-12),0,21:46,2,7,.286,1,2,.500,0,0,,1,1,2,0,2,0,0,0,5,3.9,-3,Derek Anderson
+2002-03-30,27-255,POR,HOME,SEA,L (-5),0,28:55,8,17,.471,4,11,.364,4,4,1.000,0,3,3,1,1,0,0,6,24,15.5,+4,Derek Anderson
+2002-04-02,27-258,POR,AWAY,GSW,L (-16),0,26:54,3,9,.333,1,3,.333,5,8,.625,2,3,5,6,0,0,0,1,12,11.8,-7,Derek Anderson
+2002-04-04,27-260,POR,HOME,NYK,W (+8),0,24:02,5,15,.333,1,6,.167,5,6,.833,2,1,3,3,0,0,1,1,16,9.5,-2,Derek Anderson
+2002-04-06,27-262,POR,HOME,GSW,W (+27),1,32:27,6,13,.462,1,2,.500,6,6,1.000,1,2,3,5,1,0,1,1,19,16.7,+18,Derek Anderson
+2002-04-08,27-264,POR,AWAY,SAS,L (-12),0,18:39,3,7,.429,3,4,.750,3,3,1.000,1,1,2,1,1,0,1,2,12,9.2,-5,Derek Anderson
+2002-04-09,27-265,POR,AWAY,DAL,L (-12),0,18:05,0,3,.000,0,2,.000,0,0,,0,2,2,3,0,0,0,4,0,-1.0,-18,Derek Anderson
+2002-04-11,27-267,POR,AWAY,MEM,L (-3),1,33:38,6,10,.600,1,1,1.000,6,6,1.000,2,1,3,3,1,0,1,1,19,17.8,-2,Derek Anderson
+2002-04-12,27-268,POR,AWAY,HOU,W (+1),0,16:42,0,7,.000,0,2,.000,2,2,1.000,0,1,1,1,0,0,1,2,2,-3.7,-2,Derek Anderson
+2002-04-14,27-270,POR,HOME,LAL,W (+8),0,20:08,2,7,.286,0,3,.000,2,2,1.000,1,0,1,3,1,0,1,4,6,3.1,-7,Derek Anderson
+2002-04-17,27-273,POR,HOME,HOU,W (+13),0,23:58,5,10,.500,2,2,1.000,0,0,,0,2,2,6,0,0,3,2,12,8.0,+7,Derek Anderson
+2000-10-31,26-105,SAS,HOME,IND,W (+13),1,27:34,2,7,.286,1,1,1.000,4,4,1.000,0,2,2,3,0,0,4,4,9,2.0,+5,Derek Anderson
+2000-11-02,26-107,SAS,HOME,MIN,W (+12),1,36:22,9,18,.500,2,3,.667,9,9,1.000,3,3,6,5,1,0,2,2,29,24.7,+21,Derek Anderson
+2000-11-04,26-109,SAS,AWAY,GSW,W (+12),1,22:33,1,9,.111,1,3,.333,10,12,.833,1,2,3,1,0,0,3,4,13,3.7,+6,Derek Anderson
+2000-11-07,26-112,SAS,AWAY,PHO,L (-19),1,30:08,2,6,.333,0,1,.000,5,5,1.000,0,4,4,3,0,0,1,1,9,7.5,-4,Derek Anderson
+2000-11-08,26-113,SAS,HOME,LAL,W (+10),1,36:50,5,14,.357,1,6,.167,5,6,.833,1,2,3,1,3,0,5,3,16,6.6,-4,Derek Anderson
+2000-11-10,26-115,SAS,AWAY,DAL,L (-2),1,41:52,7,16,.438,0,1,.000,3,3,1.000,1,6,7,2,0,0,1,4,17,9.9,-2,Derek Anderson
+2000-11-11,26-116,SAS,HOME,VAN,W (+13),1,23:07,1,7,.143,1,1,1.000,2,2,1.000,0,0,0,1,1,0,1,1,5,0.8,-13,Derek Anderson
+2000-11-14,26-119,SAS,HOME,UTA,W (+7),1,30:14,6,15,.400,1,4,.250,2,3,.667,1,3,4,4,1,0,2,1,15,9.5,+13,Derek Anderson
+2000-11-16,26-121,SAS,AWAY,WAS,W (+4),1,33:43,7,12,.583,1,2,.500,4,4,1.000,0,3,3,1,0,0,1,4,19,12.4,+18,Derek Anderson
+2000-11-17,26-122,SAS,AWAY,MIN,L (-5),1,31:21,5,9,.556,0,0,,2,3,.667,1,1,2,3,1,0,4,2,12,6.6,-20,Derek Anderson
+2000-11-22,26-127,SAS,HOME,SEA,W (+27),1,25:54,6,10,.600,2,3,.667,4,5,.800,1,2,3,4,1,1,0,1,18,18.4,+20,Derek Anderson
+2000-11-24,26-129,SAS,AWAY,DEN,L (-10),1,29:37,5,10,.500,1,2,.500,4,4,1.000,1,1,2,1,2,1,3,3,15,10.2,-25,Derek Anderson
+2000-11-25,26-130,SAS,HOME,PHI,W (+20),1,30:20,7,13,.538,2,4,.500,0,0,,1,3,4,2,3,0,1,3,16,13.5,+21,Derek Anderson
+2000-11-29,26-134,SAS,HOME,SAC,W (+3),1,36:57,3,8,.375,2,4,.500,6,9,.667,1,1,2,1,3,1,1,1,14,12.4,+2,Derek Anderson
+2000-12-01,26-136,SAS,AWAY,LAL,L (-9),1,34:49,1,4,.250,0,2,.000,3,4,.750,0,5,5,5,1,0,0,4,5,6.6,+12,Derek Anderson
+2000-12-03,26-138,SAS,AWAY,VAN,W (+18),1,36:18,4,11,.364,1,4,.250,0,0,,1,5,6,7,0,0,3,3,9,5.8,+23,Derek Anderson
+2000-12-05,26-140,SAS,AWAY,SAC,L (-6),1,34:02,3,11,.273,0,2,.000,0,0,,0,5,5,1,4,0,0,1,6,5.3,-5,Derek Anderson
+2000-12-07,26-142,SAS,HOME,NYK,L (-3),1,37:08,4,11,.364,2,6,.333,5,6,.833,1,4,5,2,5,0,2,0,15,14.8,+1,Derek Anderson
+2000-12-09,26-144,SAS,HOME,CHI,W (+24),1,26:13,6,11,.545,1,2,.500,3,4,.750,0,1,1,4,1,0,3,1,16,11.0,+18,Derek Anderson
+2000-12-11,26-146,SAS,AWAY,UTA,W (+8),1,25:23,4,8,.500,2,3,.667,8,8,1.000,0,2,2,0,2,0,4,3,18,11.4,+2,Derek Anderson
+2000-12-13,26-148,SAS,AWAY,PHO,L (-10),1,44:37,5,14,.357,2,4,.500,14,16,.875,1,2,3,3,3,0,1,2,26,22.0,-11,Derek Anderson
+2000-12-14,26-149,SAS,HOME,DEN,L (-6),1,30:51,2,6,.333,0,1,.000,7,8,.875,0,2,2,3,0,0,0,3,11,8.7,-11,Derek Anderson
+2000-12-16,26-151,SAS,HOME,PHO,W (+8),1,29:26,2,3,.667,0,0,,11,13,.846,0,4,4,3,2,0,3,2,15,14.4,+14,Derek Anderson
+2000-12-19,26-154,SAS,AWAY,HOU,W (+7),1,38:19,6,16,.375,1,3,.333,2,4,.500,0,2,2,4,1,0,2,4,15,6.2,+8,Derek Anderson
+2000-12-20,26-155,SAS,HOME,CLE,W (+17),1,30:14,5,11,.455,0,0,,3,3,1.000,2,0,2,4,2,0,1,0,13,12.5,+9,Derek Anderson
+2000-12-22,26-157,SAS,HOME,GSW,W (+18),1,25:25,4,12,.333,1,5,.200,3,4,.750,1,3,4,4,0,0,3,3,12,5.0,+21,Derek Anderson
+2000-12-23,26-158,SAS,AWAY,CHH,L (-4),1,32:55,4,12,.333,1,3,.333,3,3,1.000,3,2,5,2,0,0,1,1,12,7.9,-7,Derek Anderson
+2000-12-26,26-161,SAS,HOME,HOU,W (+8),1,39:55,5,14,.357,1,3,.333,0,2,.000,0,4,4,4,1,0,3,0,11,4.4,+12,Derek Anderson
+2000-12-28,26-163,SAS,AWAY,CHI,L (-1),1,38:21,4,10,.400,1,2,.500,6,6,1.000,0,5,5,7,1,0,2,3,15,13.8,+2,Derek Anderson
+2000-12-30,26-165,SAS,AWAY,IND,W (+12),1,41:56,5,17,.294,0,1,.000,1,1,1.000,3,7,10,7,1,0,0,2,11,10.4,+11,Derek Anderson
+2001-01-02,26-168,SAS,HOME,MIA,W (+8),1,43:58,5,12,.417,1,3,.333,4,4,1.000,3,5,8,4,0,0,2,2,15,12.2,+12,Derek Anderson
+2001-01-06,26-172,SAS,HOME,DET,W (+7),1,38:00,6,16,.375,1,4,.250,4,8,.500,1,2,3,6,2,0,4,4,17,8.5,+12,Derek Anderson
+2001-01-09,26-175,SAS,AWAY,ORL,W (+17),1,42:24,8,14,.571,1,3,.333,7,8,.875,2,4,6,7,1,0,2,3,24,22.3,+11,Derek Anderson
+2001-01-12,26-178,SAS,AWAY,DET,W (+21),1,28:14,7,11,.636,2,2,1.000,9,9,1.000,0,2,2,1,4,0,2,4,25,21.8,+21,Derek Anderson
+2001-01-13,26-179,SAS,AWAY,PHI,L (-17),1,43:05,9,16,.563,2,4,.500,3,3,1.000,2,4,6,5,2,0,1,2,23,21.7,-11,Derek Anderson
+2001-01-15,26-181,SAS,AWAY,NYK,L (-22),1,35:48,5,15,.333,1,5,.200,2,2,1.000,0,2,2,4,2,0,2,3,13,6.7,-22,Derek Anderson
+2001-01-17,26-183,SAS,HOME,TOR,L (-7),1,46:39,7,12,.583,1,3,.333,5,5,1.000,4,6,10,4,1,0,3,2,20,19.0,-12,Derek Anderson
+2001-01-20,26-186,SAS,HOME,ORL,L (-3),1,39:09,1,8,.125,1,1,1.000,1,2,.500,0,3,3,5,1,0,2,5,4,-0.2,-7,Derek Anderson
+2001-01-23,26-189,SAS,HOME,VAN,W (+33),1,25:33,3,5,.600,1,2,.500,0,0,,0,2,2,1,1,0,2,2,7,4.2,+25,Derek Anderson
+2001-01-25,26-191,SAS,AWAY,SAC,W (+6),1,40:49,8,14,.571,1,1,1.000,3,5,.600,0,6,6,5,0,0,2,3,20,14.7,+6,Derek Anderson
+2001-01-27,26-193,SAS,AWAY,UTA,W (+13),1,41:50,6,11,.545,2,4,.500,8,8,1.000,0,5,5,4,1,0,2,2,22,19.2,+20,Derek Anderson
+2001-01-29,26-195,SAS,AWAY,LAC,W (+29),1,28:24,3,12,.250,1,3,.333,2,2,1.000,3,5,8,7,0,0,1,2,9,8.5,+28,Derek Anderson
+2001-01-31,26-197,SAS,HOME,LAC,W (+22),1,28:57,4,7,.571,1,3,.333,4,4,1.000,1,3,4,5,0,0,2,1,13,12.4,+21,Derek Anderson
+2001-02-03,26-200,SAS,HOME,HOU,W (+2),1,42:23,5,12,.417,2,4,.500,3,6,.500,3,6,9,9,2,0,1,2,15,17.8,+2,Derek Anderson
+2001-02-05,26-202,SAS,HOME,GSW,W (+24),1,30:16,5,8,.625,0,2,.000,4,4,1.000,0,4,4,3,3,0,2,3,14,13.5,+30,Derek Anderson
+2001-02-07,26-204,SAS,AWAY,CLE,W (+18),1,35:04,7,12,.583,3,5,.600,0,1,.000,0,2,2,3,1,0,2,2,17,11.9,+23,Derek Anderson
+2001-02-08,26-205,SAS,AWAY,NJN,L (-2),1,42:01,5,15,.333,2,7,.286,0,0,,3,4,7,4,3,0,1,2,12,10.8,+6,Derek Anderson
+2001-02-13,26-210,SAS,HOME,DAL,W (+12),1,41:20,3,12,.250,1,4,.250,3,3,1.000,1,3,4,6,3,0,1,3,10,9.4,+15,Derek Anderson
+2001-02-15,26-212,SAS,HOME,WAS,W (+24),1,24:13,4,9,.444,1,2,.500,1,1,1.000,1,1,2,4,1,0,0,0,10,10.1,+17,Derek Anderson
+2001-02-16,26-213,SAS,AWAY,MIN,W (+6),1,35:37,5,18,.278,2,6,.333,9,11,.818,0,5,5,1,1,1,1,2,21,11.7,+5,Derek Anderson
+2001-02-18,26-215,SAS,AWAY,TOR,W (+18),1,35:11,6,15,.400,0,3,.000,4,4,1.000,0,6,6,4,0,0,0,1,16,12.1,+23,Derek Anderson
+2001-02-19,26-216,SAS,AWAY,MIL,L (-4),1,40:26,10,20,.500,4,7,.571,1,1,1.000,0,5,5,6,3,0,2,3,25,20.5,+5,Derek Anderson
+2001-02-21,26-218,SAS,HOME,LAL,L (-2),1,42:38,9,19,.474,0,1,.000,5,7,.714,2,6,8,4,3,0,0,3,23,20.3,+6,Derek Anderson
+2001-02-23,26-220,SAS,HOME,BOS,W (+18),1,28:50,7,13,.538,2,4,.500,4,4,1.000,1,6,7,1,1,0,2,3,20,14.7,+16,Derek Anderson
+2001-02-24,26-221,SAS,AWAY,DAL,W (+3),1,43:32,6,11,.545,1,4,.250,11,12,.917,0,4,4,6,1,0,0,2,24,23.9,+1,Derek Anderson
+2001-02-27,26-224,SAS,HOME,POR,L (-8),1,43:58,7,19,.368,1,3,.333,5,5,1.000,1,0,1,5,1,1,5,3,20,9.2,-6,Derek Anderson
+2001-03-01,26-226,SAS,HOME,PHO,W (+20),1,26:37,3,8,.375,0,1,.000,0,0,,0,8,8,0,0,0,2,4,6,0.4,+5,Derek Anderson
+2001-03-03,26-228,SAS,HOME,ATL,W (+29),1,24:06,5,11,.455,0,0,,2,3,.667,1,6,7,3,1,0,1,1,12,10.1,+20,Derek Anderson
+2001-03-05,26-230,SAS,AWAY,VAN,W (+14),1,43:28,10,23,.435,1,4,.250,4,4,1.000,2,5,7,0,2,1,2,2,25,15.7,+14,Derek Anderson
+2001-03-06,26-231,SAS,AWAY,SEA,W (+28),1,38:03,5,10,.500,1,3,.333,5,6,.833,1,3,4,5,1,0,2,1,16,14.3,+30,Derek Anderson
+2001-03-08,26-233,SAS,AWAY,POR,W (+14),1,37:14,9,16,.563,5,7,.714,6,9,.667,0,6,6,3,4,0,2,0,29,26.1,+17,Derek Anderson
+2001-03-09,26-234,SAS,AWAY,LAL,W (+4),1,47:52,6,17,.353,2,3,.667,7,8,.875,4,4,8,1,3,1,6,3,21,12.3,+3,Derek Anderson
+2001-03-12,26-237,SAS,HOME,LAC,W (+18),1,27:51,3,11,.273,1,3,.333,4,5,.800,2,2,4,0,1,1,3,3,11,3.6,+16,Derek Anderson
+2001-03-14,26-239,SAS,HOME,MIN,W (+6),1,44:50,10,22,.455,1,3,.333,9,11,.818,1,7,8,3,0,2,7,4,30,15.5,+9,Derek Anderson
+2001-03-16,26-241,SAS,HOME,NJN,W (+9),1,31:10,4,8,.500,1,1,1.000,8,11,.727,0,2,2,4,3,0,2,2,17,15.4,+23,Derek Anderson
+2001-03-17,26-242,SAS,AWAY,HOU,L (-4),1,30:34,4,10,.400,1,1,1.000,4,4,1.000,0,5,5,5,0,0,2,6,13,8.2,+1,Derek Anderson
+2001-03-19,26-244,SAS,HOME,POR,W (+13),1,42:41,8,14,.571,3,4,.750,9,12,.750,2,8,10,4,2,0,2,1,28,26.4,+16,Derek Anderson
+2001-03-21,26-246,SAS,AWAY,BOS,W (+20),1,42:27,7,18,.389,4,9,.444,8,8,1.000,1,7,8,6,2,0,0,3,26,24.0,+19,Derek Anderson
+2001-03-22,26-247,SAS,AWAY,ATL,W (+14),1,31:46,6,13,.462,5,6,.833,6,6,1.000,0,4,4,7,0,0,2,3,23,19.2,+21,Derek Anderson
+2001-03-25,26-250,SAS,AWAY,MIA,L (-5),1,38:29,3,8,.375,0,2,.000,1,2,.500,1,0,1,4,3,0,3,3,7,4.5,-2,Derek Anderson
+2001-03-27,26-252,SAS,HOME,CHH,W (+14),1,35:28,6,11,.545,2,4,.500,2,2,1.000,1,3,4,1,2,0,1,0,16,14.0,+18,Derek Anderson
+2001-03-29,26-254,SAS,HOME,UTA,W (+18),1,36:18,7,17,.412,2,4,.500,7,10,.700,1,3,4,6,1,0,3,3,23,15.3,+30,Derek Anderson
+2001-03-31,26-256,SAS,HOME,MIL,L (-9),1,36:57,3,17,.176,0,4,.000,4,4,1.000,2,5,7,4,2,0,0,2,10,6.2,-14,Derek Anderson
+2001-04-03,26-259,SAS,HOME,SEA,W (+18),1,36:34,7,15,.467,1,4,.250,1,1,1.000,0,2,2,8,1,1,3,2,16,12.4,+15,Derek Anderson
+2001-04-05,26-261,SAS,AWAY,DEN,W (+21),1,40:17,6,13,.462,2,5,.400,3,4,.750,0,1,1,3,4,0,3,0,17,13.3,+12,Derek Anderson
+2001-04-07,26-263,SAS,AWAY,LAC,W (+10),1,39:13,3,6,.500,1,2,.500,6,6,1.000,0,3,3,2,1,0,2,3,13,10.1,+7,Derek Anderson
+2001-04-08,26-264,SAS,AWAY,GSW,W (+8),1,25:47,1,9,.111,0,1,.000,2,2,1.000,1,3,4,3,4,0,4,2,4,1.0,-5,Derek Anderson
+2001-04-10,26-266,SAS,HOME,DAL,W (+12),1,37:12,2,15,.133,2,4,.500,0,0,,0,5,5,4,2,0,3,2,6,-1.2,+14,Derek Anderson
+2001-04-12,26-268,SAS,HOME,SAC,L (-2),1,44:54,4,15,.267,0,3,.000,6,6,1.000,2,4,6,4,1,1,5,4,14,5.6,-1,Derek Anderson
+2001-04-14,26-270,SAS,HOME,DEN,W (+16),1,37:02,6,13,.462,2,5,.400,6,7,.857,0,2,2,7,1,0,3,3,20,15.2,+21,Derek Anderson
+2001-04-17,26-273,SAS,AWAY,POR,W (+6),1,19:01,3,7,.429,0,2,.000,1,1,1.000,1,2,3,3,1,1,1,0,7,7.4,+5,Derek Anderson
+2001-04-18,26-274,SAS,AWAY,SEA,L (-38),1,13:01,1,5,.200,1,2,.500,0,0,,0,1,1,5,0,1,0,1,3,4.0,0,Derek Anderson
+2005-11-02,31-107,HOU,HOME,SAC,W (+9),1,21:34,2,6,.333,2,4,.500,0,0,,0,2,2,2,1,0,1,2,6,3.8,+1,Derek Anderson
+2005-11-05,31-110,HOU,HOME,NOK,L (-7),1,39:34,4,14,.286,3,7,.429,6,6,1.000,1,5,6,5,1,1,3,2,17,12.4,-2,Derek Anderson
+2005-11-08,31-113,HOU,HOME,ORL,L (-2),1,31:38,2,7,.286,0,2,.000,3,3,1.000,1,2,3,2,1,0,2,3,7,3.4,-7,Derek Anderson
+2005-11-10,31-115,HOU,AWAY,MIA,L (-4),1,32:18,6,17,.353,2,8,.250,6,8,.750,1,5,6,5,1,0,5,4,20,9.8,-2,Derek Anderson
+2005-11-12,31-117,HOU,AWAY,NJN,W (+8),1,21:22,2,3,.667,2,2,1.000,0,0,,0,4,4,1,0,0,2,5,6,2.6,+8,Derek Anderson
+2005-11-13,31-118,HOU,AWAY,BOS,L (-20),1,17:18,1,5,.200,0,1,.000,1,2,.500,1,3,4,1,1,0,0,2,3,2.0,-20,Derek Anderson
+2005-11-15,31-120,HOU,AWAY,MIN,W (+5),1,27:22,5,10,.500,0,3,.000,1,2,.500,1,3,4,1,0,0,3,3,11,3.7,+5,Derek Anderson
+2005-11-17,31-122,HOU,AWAY,SAS,L (-6),1,22:42,1,4,.250,0,0,,0,0,,1,2,3,1,0,0,1,2,2,-0.2,-14,Derek Anderson
+2005-11-18,31-123,HOU,HOME,DET,L (-8),0,26:12,0,7,.000,0,1,.000,4,4,1.000,0,1,1,1,2,0,0,1,4,1.7,-1,Derek Anderson
+2005-11-20,31-125,HOU,AWAY,IND,L (-11),0,35:23,6,14,.429,1,4,.250,0,0,,0,1,1,1,0,0,4,3,13,1.4,-10,Derek Anderson
+2005-11-22,31-127,HOU,AWAY,DAL,L (-9),0,31:14,7,10,.700,2,3,.667,3,4,.750,1,4,5,4,1,2,0,4,19,19.9,-8,Derek Anderson
+2005-11-23,31-128,HOU,HOME,PHO,L (-12),0,36:12,9,16,.563,1,4,.250,4,4,1.000,0,9,9,4,1,0,3,2,23,18.1,+4,Derek Anderson
+2005-11-25,31-130,HOU,AWAY,MEM,L (-5),0,28:17,3,9,.333,1,2,.500,9,11,.818,0,3,3,2,2,0,3,2,16,10.6,-6,Derek Anderson
+2005-11-26,31-131,HOU,HOME,CHI,L (-5),0,38:18,4,10,.400,0,2,.000,4,4,1.000,1,4,5,5,0,1,0,2,12,11.9,-1,Derek Anderson
+2005-11-29,31-134,HOU,HOME,ATL,W (+15),0,31:56,4,11,.364,1,5,.200,1,2,.500,0,1,1,1,0,0,2,2,10,1.7,+2,Derek Anderson
+2005-12-03,31-138,HOU,HOME,MEM,L (-15),0,25:44,1,4,.250,0,3,.000,1,2,.500,1,5,6,6,0,0,1,1,3,5.2,-9,Derek Anderson
+2005-12-06,31-141,HOU,HOME,BOS,W (+18),0,30:57,2,9,.222,0,4,.000,6,6,1.000,0,5,5,3,3,0,3,3,10,6.9,+13,Derek Anderson
+2005-12-08,31-143,HOU,AWAY,SAC,W (+11),0,30:52,3,7,.429,1,5,.200,10,11,.909,0,5,5,2,0,0,4,3,17,10.6,+13,Derek Anderson
+2005-12-11,31-146,HOU,AWAY,POR,W (+14),0,34:43,3,5,.600,1,3,.333,2,4,.500,3,4,7,5,1,0,0,2,9,12.9,+20,Derek Anderson
+2005-12-14,31-149,HOU,AWAY,GSW,W (+6),0,18:38,3,5,.600,2,4,.500,0,0,,0,3,3,1,0,0,0,1,8,6.9,+2,Derek Anderson
+2005-12-15,31-150,HOU,AWAY,SEA,W (+6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2005-12-17,31-152,HOU,AWAY,LAC,L (-8),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2005-12-18,31-153,HOU,AWAY,LAL,W (+2),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2005-12-21,31-156,HOU,HOME,TOR,L (-13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2005-12-23,31-158,HOU,AWAY,DEN,L (-22),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2006-01-05,31-171,HOU,AWAY,CLE,W (+9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2006-01-06,31-172,HOU,AWAY,TOR,L (-20),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2006-03-04,31-229,MIA,HOME,ATL,W (+2),0,22:59,4,10,.400,2,5,.400,4,4,1.000,2,2,4,3,1,0,1,3,14,11.5,-1,Derek Anderson
+2006-03-06,31-231,MIA,AWAY,CHA,W (+1),1,24:58,2,9,.222,0,3,.000,1,2,.500,2,4,6,1,0,0,0,4,5,0.8,-10,Derek Anderson
+2006-03-08,31-233,MIA,HOME,WAS,W (+6),0,4:28,0,2,.000,0,1,.000,0,0,,0,1,1,1,0,0,2,3,0,-3.6,-3,Derek Anderson
+2006-03-10,31-235,MIA,HOME,GSW,L (-5),0,14:54,1,6,.167,1,4,.250,0,0,,0,2,2,2,0,0,1,3,3,-1.0,-8,Derek Anderson
+2006-03-12,31-237,MIA,HOME,CLE,W (+6),0,22:45,1,2,.500,0,0,,0,0,,0,3,3,5,0,0,1,3,2,3.2,+18,Derek Anderson
+2006-03-14,31-239,MIA,HOME,UTA,W (+38),0,23:30,0,4,.000,0,3,.000,6,6,1.000,0,2,2,2,0,1,1,1,6,4.5,-1,Derek Anderson
+2006-03-16,31-241,MIA,HOME,BOS,W (+3),0,16:47,1,2,.500,1,1,1.000,0,0,,0,2,2,2,0,0,0,1,3,3.6,+4,Derek Anderson
+2006-03-18,31-243,MIA,AWAY,CHI,W (+1),0,17:42,1,3,.333,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,1.3,-8,Derek Anderson
+2006-03-19,31-244,MIA,AWAY,NYK,W (+11),0,14:37,1,3,.333,1,2,.500,2,2,1.000,0,1,1,0,1,0,0,2,5,3.8,+4,Derek Anderson
+2006-03-21,31-246,MIA,AWAY,MIN,L (-4),0,5:15,0,3,.000,0,2,.000,0,0,,0,1,1,0,0,0,0,1,0,-2.2,0,Derek Anderson
+2006-03-24,31-249,MIA,HOME,CHA,W (+21),0,12:00,2,7,.286,0,1,.000,0,0,,1,1,2,2,0,0,0,0,4,2.3,-3,Derek Anderson
+2006-03-29,31-254,MIA,AWAY,TOR,W (+4),0,11:48,1,3,.333,1,3,.333,0,0,,0,1,1,0,0,0,0,1,3,1.2,-4,Derek Anderson
+2006-04-01,31-257,MIA,AWAY,CLE,L (-7),1,24:07,0,3,.000,0,2,.000,2,2,1.000,0,2,2,2,1,0,2,2,2,0.1,+2,Derek Anderson
+2006-04-02,31-258,MIA,AWAY,NJN,L (-12),1,16:20,1,3,.333,1,3,.333,0,0,,0,2,2,0,1,0,1,1,3,1.5,-2,Derek Anderson
+2006-04-04,31-260,MIA,HOME,MIL,W (+26),0,31:24,5,9,.556,2,4,.500,2,2,1.000,1,4,5,6,0,0,1,6,14,12.4,+2,Derek Anderson
+2006-04-06,31-262,MIA,HOME,DET,L (-13),0,18:53,1,4,.250,0,2,.000,0,0,,1,4,5,3,0,0,0,3,2,2.4,-4,Derek Anderson
+2006-04-08,31-264,MIA,AWAY,WAS,W (+13),0,37:50,6,17,.353,5,10,.500,3,4,.750,0,4,4,4,2,0,1,3,20,13.9,+15,Derek Anderson
+2006-04-09,31-265,MIA,HOME,ORL,L (-9),0,31:35,3,7,.429,2,5,.400,0,0,,0,4,4,0,1,0,2,4,8,2.9,+6,Derek Anderson
+2006-04-11,31-267,MIA,HOME,TOR,W (+9),0,30:39,5,11,.455,4,7,.571,3,4,.750,2,1,3,2,0,0,0,3,17,12.8,-1,Derek Anderson
+2006-04-14,31-270,MIA,HOME,PHI,W (+19),0,19:42,0,3,.000,0,3,.000,2,2,1.000,0,0,0,2,0,0,1,3,2,-0.9,+1,Derek Anderson
+2006-04-16,31-272,MIA,HOME,CHI,L (-24),0,20:11,3,6,.500,0,1,.000,4,4,1.000,0,2,2,3,0,0,2,1,10,7.3,-16,Derek Anderson
+2006-04-18,31-274,MIA,AWAY,ATL,L (-3),0,22:57,2,9,.222,0,2,.000,1,2,.500,0,6,6,4,1,1,1,0,5,4.4,-8,Derek Anderson
+2006-04-19,31-275,MIA,AWAY,BOS,L (-7),0,19:14,0,4,.000,0,2,.000,2,4,.500,0,2,2,4,0,0,0,1,2,1.4,-9,Derek Anderson
+2002-10-30,28-104,POR,HOME,LAL,W (+12),1,28:08,3,9,.333,0,1,.000,0,0,,0,2,2,4,3,0,3,2,6,3.5,+1,Derek Anderson
+2002-10-31,28-105,POR,AWAY,SAC,L (-28),1,27:26,5,11,.455,0,3,.000,0,0,,0,3,3,4,0,0,1,4,10,5.4,-20,Derek Anderson
+2002-11-02,28-107,POR,HOME,DEN,L (-17),1,36:54,6,16,.375,3,8,.375,1,2,.500,2,1,3,4,2,0,2,2,16,10.5,-8,Derek Anderson
+2002-11-03,28-108,POR,AWAY,LAL,L (-3),1,37:41,9,15,.600,1,3,.333,5,5,1.000,0,4,4,4,0,0,2,2,24,18.3,+4,Derek Anderson
+2002-11-06,28-111,POR,HOME,MEM,W (+6),1,2:00,1,1,1.000,0,0,,0,0,,0,1,1,2,1,0,0,0,2,4.4,+6,Derek Anderson
+2002-11-08,28-113,POR,AWAY,PHO,L (-11),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2002-11-09,28-114,POR,AWAY,SAS,W (+19),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2002-11-11,28-116,POR,AWAY,DAL,L (-9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2002-11-15,28-120,POR,HOME,LAC,W (+24),1,31:08,9,15,.600,1,1,1.000,9,10,.900,3,6,9,1,2,0,5,2,28,21.5,+32,Derek Anderson
+2002-11-20,28-125,POR,HOME,ORL,W (+14),1,39:24,8,19,.421,3,10,.300,7,8,.875,0,2,2,6,1,0,4,3,26,16.1,+13,Derek Anderson
+2002-11-21,28-126,POR,AWAY,SEA,W (+4),1,35:22,2,12,.167,1,4,.250,4,4,1.000,2,4,6,3,0,0,0,3,9,4.9,-5,Derek Anderson
+2002-11-23,28-128,POR,HOME,SAC,L (-1),1,30:40,4,11,.364,2,2,1.000,1,1,1.000,1,2,3,5,0,0,0,4,11,8.1,+9,Derek Anderson
+2002-11-26,28-131,POR,HOME,HOU,W (+6),1,43:17,4,15,.267,0,7,.000,4,5,.800,0,5,5,9,1,1,2,0,12,10.2,+2,Derek Anderson
+2002-11-30,28-135,POR,HOME,NJN,L (-7),1,27:28,2,5,.400,0,0,,3,3,1.000,1,2,3,3,0,0,5,3,7,1.5,-10,Derek Anderson
+2002-12-04,28-139,POR,HOME,DAL,L (-15),1,39:00,5,10,.500,1,4,.250,2,2,1.000,0,3,3,8,3,0,2,3,13,14.3,-11,Derek Anderson
+2002-12-06,28-141,POR,HOME,MIA,W (+19),1,33:10,7,15,.467,1,3,.333,1,1,1.000,2,4,6,2,1,0,1,1,16,11.9,+24,Derek Anderson
+2002-12-08,28-143,POR,AWAY,TOR,W (+13),1,37:14,7,10,.700,3,4,.750,1,1,1.000,0,3,3,5,1,0,0,2,18,18.4,+10,Derek Anderson
+2002-12-10,28-145,POR,AWAY,WAS,W (+19),1,32:46,6,16,.375,2,7,.286,0,0,,1,3,4,5,1,0,1,2,14,9.5,+16,Derek Anderson
+2002-12-11,28-146,POR,AWAY,NJN,L (-1),1,38:50,4,13,.308,1,4,.250,3,3,1.000,1,3,4,6,2,0,2,1,12,9.9,-7,Derek Anderson
+2002-12-13,28-148,POR,AWAY,MIL,L (-22),1,27:34,5,10,.500,2,6,.333,2,5,.400,0,1,1,3,0,1,2,0,14,8.9,-14,Derek Anderson
+2002-12-14,28-149,POR,AWAY,MIN,W (+6),1,37:46,9,20,.450,4,8,.500,2,3,.667,2,5,7,4,2,1,2,3,24,18.4,+14,Derek Anderson
+2002-12-17,28-152,POR,HOME,NOH,W (+9),1,33:42,6,14,.429,1,4,.250,2,2,1.000,2,2,4,2,1,0,0,1,15,11.6,+11,Derek Anderson
+2002-12-18,28-153,POR,AWAY,LAC,W (+4),1,40:43,3,8,.375,1,2,.500,3,5,.600,1,1,2,10,2,0,2,2,10,12.0,+11,Derek Anderson
+2002-12-20,28-155,POR,AWAY,GSW,W (+2),1,33:43,5,7,.714,2,4,.500,3,3,1.000,1,4,5,7,1,0,1,1,15,18.5,+6,Derek Anderson
+2002-12-21,28-156,POR,HOME,SEA,W (+1),1,41:11,10,21,.476,5,13,.385,2,2,1.000,0,4,4,3,2,0,2,4,27,18.0,-5,Derek Anderson
+2002-12-27,28-162,POR,HOME,UTA,W (+5),1,39:59,2,11,.182,1,5,.200,2,2,1.000,1,2,3,10,2,0,2,2,7,7.6,+1,Derek Anderson
+2002-12-28,28-163,POR,AWAY,SAC,W (+6),1,38:34,4,12,.333,0,3,.000,4,4,1.000,3,4,7,7,0,0,1,6,12,10.0,+18,Derek Anderson
+2002-12-30,28-165,POR,AWAY,DET,W (+11),1,38:03,3,9,.333,0,5,.000,8,9,.889,0,5,5,3,1,0,0,2,14,12.3,+20,Derek Anderson
+2002-12-31,28-166,POR,AWAY,CHI,L (-15),1,31:36,2,8,.250,0,3,.000,6,8,.750,1,0,1,5,2,0,2,3,10,7.4,-13,Derek Anderson
+2003-01-03,28-169,POR,AWAY,BOS,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2003-01-05,28-171,POR,AWAY,NYK,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2003-01-07,28-173,POR,HOME,PHO,L (-7),1,36:33,3,8,.375,0,2,.000,6,6,1.000,0,5,5,5,1,1,1,0,12,13.3,+11,Derek Anderson
+2003-01-09,28-175,POR,HOME,SAS,W (+3),1,36:11,6,11,.545,0,0,,7,8,.875,2,2,4,2,0,0,2,2,19,13.9,-5,Derek Anderson
+2003-01-10,28-176,POR,AWAY,DEN,L (-1),1,29:21,5,13,.385,0,2,.000,7,8,.875,2,1,3,1,0,1,1,2,17,10.8,+3,Derek Anderson
+2003-01-13,28-179,POR,HOME,CLE,W (+24),1,26:13,4,12,.333,1,4,.250,4,4,1.000,1,0,1,3,2,0,1,1,13,9.6,+14,Derek Anderson
+2003-01-15,28-181,POR,HOME,MEM,W (+8),1,28:45,2,7,.286,0,2,.000,1,2,.500,0,3,3,3,0,0,1,3,5,1.3,+1,Derek Anderson
+2003-01-18,28-184,POR,HOME,MIN,L (-6),1,40:53,6,17,.353,1,5,.200,6,7,.857,0,2,2,6,0,1,2,1,19,12.2,-4,Derek Anderson
+2003-01-20,28-186,POR,AWAY,MEM,W (+12),1,31:37,4,11,.364,1,4,.250,0,0,,1,2,3,4,2,0,0,3,9,7.8,-4,Derek Anderson
+2003-01-22,28-188,POR,AWAY,ATL,W (+2),1,39:27,7,15,.467,1,5,.200,6,10,.600,1,2,3,5,0,0,3,4,21,11.9,+4,Derek Anderson
+2003-01-24,28-190,POR,AWAY,NOH,W (+1),1,41:29,10,19,.526,3,6,.500,4,4,1.000,0,2,2,5,0,1,1,2,27,20.7,+4,Derek Anderson
+2003-01-26,28-192,POR,AWAY,DAL,W (+7),1,31:44,5,9,.556,4,5,.800,3,5,.600,1,1,2,2,0,0,2,2,17,11.5,+7,Derek Anderson
+2003-01-28,28-194,POR,HOME,DEN,W (+6),1,40:05,6,12,.500,1,4,.250,11,11,1.000,0,1,1,5,2,0,1,1,24,22.4,+5,Derek Anderson
+2003-01-29,28-195,POR,AWAY,UTA,L (-24),1,28:20,3,12,.250,2,6,.333,1,1,1.000,0,3,3,2,0,1,2,1,9,2.4,-13,Derek Anderson
+2003-01-31,28-197,POR,HOME,CHI,W (+13),1,30:07,4,10,.400,1,3,.333,5,7,.714,2,2,4,6,0,0,1,1,14,12.6,+7,Derek Anderson
+2003-02-02,28-199,POR,AWAY,CLE,W (+19),1,29:48,4,12,.333,1,4,.250,4,4,1.000,0,3,3,2,2,0,1,0,13,9.5,+27,Derek Anderson
+2003-02-04,28-201,POR,AWAY,ORL,W (+7),1,32:11,3,6,.500,1,3,.333,1,2,.500,0,4,4,4,0,0,2,1,8,6.2,-5,Derek Anderson
+2003-02-05,28-202,POR,AWAY,MIA,W (+14),1,37:36,5,12,.417,2,6,.333,4,4,1.000,0,3,3,5,1,1,3,0,16,12.7,+17,Derek Anderson
+2003-02-11,28-208,POR,HOME,SAS,L (-5),1,41:49,6,12,.500,1,4,.250,3,4,.750,0,2,2,4,3,0,2,3,16,12.8,-9,Derek Anderson
+2003-02-13,28-210,POR,HOME,BOS,L (-8),1,42:20,3,7,.429,1,4,.250,9,10,.900,1,1,2,4,1,0,3,3,16,12.5,-20,Derek Anderson
+2003-02-15,28-212,POR,HOME,SEA,W (+5),1,37:24,5,11,.455,5,9,.556,5,6,.833,0,2,2,4,3,0,3,3,20,16.1,+5,Derek Anderson
+2003-02-17,28-214,POR,HOME,NYK,W (+8),1,29:19,4,8,.500,2,3,.667,4,5,.800,0,4,4,5,2,0,2,2,14,13.5,-1,Derek Anderson
+2003-02-19,28-216,POR,HOME,GSW,W (+27),1,24:10,4,7,.571,2,4,.500,2,2,1.000,0,2,2,2,1,0,1,2,12,9.9,+24,Derek Anderson
+2003-02-21,28-218,POR,AWAY,LAL,L (-8),1,41:28,2,10,.200,1,5,.200,1,1,1.000,0,5,5,4,1,0,3,2,6,1.3,-12,Derek Anderson
+2003-02-22,28-219,POR,HOME,MIL,L (-3),1,38:50,9,14,.643,5,8,.625,0,0,,1,5,6,5,1,0,1,5,23,20.5,0,Derek Anderson
+2003-02-25,28-222,POR,HOME,ATL,W (+3),1,32:27,5,10,.500,2,5,.400,0,0,,0,1,1,5,3,0,4,2,12,9.0,+5,Derek Anderson
+2003-02-26,28-223,POR,AWAY,DEN,W (+10),1,19:51,0,6,.000,0,3,.000,2,4,.500,0,1,1,3,0,0,0,2,2,-1.4,-12,Derek Anderson
+2003-02-28,28-225,POR,HOME,LAC,W (+6),1,32:02,6,10,.600,2,5,.400,4,5,.800,1,0,1,4,1,0,1,4,18,14.9,-3,Derek Anderson
+2003-03-02,28-227,POR,HOME,DET,W (+17),1,29:48,2,8,.250,1,4,.250,2,2,1.000,2,0,2,2,1,0,1,2,7,4.2,+12,Derek Anderson
+2003-03-05,28-230,POR,AWAY,PHO,L (-6),1,31:56,5,15,.333,2,8,.250,4,4,1.000,1,0,1,2,2,0,1,2,16,9.8,-15,Derek Anderson
+2003-03-06,28-231,POR,HOME,PHI,L (-28),1,28:18,6,10,.600,0,0,,0,0,,2,6,8,4,1,1,1,1,12,13.7,-8,Derek Anderson
+2003-03-08,28-233,POR,HOME,IND,W (+14),1,32:52,5,14,.357,1,7,.143,7,7,1.000,1,1,2,4,1,0,1,0,18,14.0,+11,Derek Anderson
+2003-03-11,28-236,POR,AWAY,SEA,W (+15),1,29:57,6,12,.500,4,6,.667,2,2,1.000,0,0,0,3,1,0,2,0,18,13.1,+18,Derek Anderson
+2003-03-12,28-237,POR,HOME,TOR,W (+22),1,26:13,7,13,.538,4,6,.667,0,0,,0,0,0,7,0,0,1,0,18,15.6,+30,Derek Anderson
+2003-03-14,28-239,POR,AWAY,PHI,L (-11),1,39:53,3,10,.300,1,5,.200,2,2,1.000,0,4,4,7,0,0,6,3,9,2.1,-11,Derek Anderson
+2003-03-16,28-241,POR,AWAY,MIN,L (-16),1,27:03,1,4,.250,1,1,1.000,2,2,1.000,0,3,3,2,0,0,1,0,5,3.9,-7,Derek Anderson
+2003-03-17,28-242,POR,AWAY,IND,W (+7),1,26:53,2,6,.333,0,2,.000,0,0,,0,2,2,4,1,0,1,1,4,3.6,0,Derek Anderson
+2003-03-19,28-244,POR,HOME,HOU,W (+11),1,40:48,7,13,.538,4,7,.571,3,5,.600,2,3,5,7,1,1,3,2,21,19.0,+16,Derek Anderson
+2003-03-22,28-247,POR,HOME,SAC,L (-9),1,32:05,5,10,.500,3,5,.600,3,3,1.000,0,5,5,7,3,0,1,1,16,19.0,+7,Derek Anderson
+2003-03-25,28-250,POR,HOME,WAS,L (-4),1,27:55,2,9,.222,0,3,.000,0,0,,1,1,2,6,0,0,0,1,4,3.3,-8,Derek Anderson
+2003-03-26,28-251,POR,AWAY,UTA,L (-9),1,22:39,0,3,.000,0,1,.000,0,0,,0,2,2,0,0,0,0,2,0,-2.3,-15,Derek Anderson
+2003-03-28,28-253,POR,HOME,DAL,W (+17),1,34:50,6,11,.545,3,6,.500,1,1,1.000,0,7,7,6,0,1,1,1,16,16.3,+22,Derek Anderson
+2003-04-01,28-257,POR,HOME,GSW,W (+14),1,43:27,7,13,.538,1,1,1.000,6,7,.857,1,5,6,7,4,1,3,2,21,22.3,+20,Derek Anderson
+2003-04-03,28-259,POR,HOME,UTA,L (-5),1,31:11,0,4,.000,0,2,.000,2,2,1.000,0,1,1,3,1,0,4,1,2,-1.8,-4,Derek Anderson
+2003-04-04,28-260,POR,AWAY,GSW,W (+22),1,44:30,10,16,.625,6,11,.545,5,5,1.000,2,12,14,3,3,2,0,2,31,34.5,+21,Derek Anderson
+2003-04-06,28-262,POR,HOME,MIN,L (-19),1,37:59,4,9,.444,3,7,.429,1,1,1.000,0,4,4,1,2,0,2,0,12,9.2,-12,Derek Anderson
+2003-04-08,28-264,POR,AWAY,HOU,W (+15),1,26:31,4,9,.444,0,1,.000,2,2,1.000,0,1,1,2,2,0,2,1,10,6.6,-1,Derek Anderson
+2003-04-09,28-265,POR,AWAY,SAS,L (-5),1,39:58,7,14,.500,4,6,.667,2,2,1.000,2,6,8,4,2,1,3,5,20,16.7,0,Derek Anderson
+2003-04-11,28-267,POR,AWAY,MEM,L (-3),1,35:30,2,10,.200,0,6,.000,1,1,1.000,0,2,2,5,5,0,1,0,5,6.9,-10,Derek Anderson
+2003-04-13,28-269,POR,HOME,LAL,W (+2),1,40:42,5,9,.556,1,3,.333,7,8,.875,0,5,5,8,1,0,2,2,18,18.6,-4,Derek Anderson
+2003-04-15,28-271,POR,HOME,PHO,W (+18),1,29:40,4,9,.444,2,5,.400,3,4,.750,1,6,7,5,1,0,0,1,13,14.5,+22,Derek Anderson
+2003-04-16,28-272,POR,AWAY,LAC,L (-14),1,29:12,3,7,.429,0,3,.000,1,1,1.000,1,0,1,1,1,0,3,1,7,2.3,-11,Derek Anderson
+2003-11-01,29-106,POR,HOME,CLE,W (+19),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2003-11-03,29-108,POR,HOME,PHI,L (-11),0,3:25,0,3,.000,0,1,.000,1,2,.500,0,0,0,0,0,0,0,1,1,-1.9,-3,Derek Anderson
+2003-11-05,29-110,POR,HOME,MEM,W (+6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2004-01-08,29-174,POR,AWAY,MIN,L (-21),0,21:49,2,10,.200,1,4,.250,0,0,,2,2,4,4,0,0,1,0,5,2.6,-6,Derek Anderson
+2004-01-09,29-175,POR,AWAY,CHI,W (+9),0,17:49,4,10,.400,1,4,.250,10,13,.769,0,1,1,4,1,0,1,2,19,14.7,+13,Derek Anderson
+2004-01-11,29-177,POR,AWAY,TOR,L (-11),0,17:11,0,10,.000,0,2,.000,2,2,1.000,0,2,2,0,2,0,0,0,2,-2.4,-14,Derek Anderson
+2004-01-13,29-179,POR,AWAY,LAC,L (-7),0,35:15,8,16,.500,4,8,.500,2,2,1.000,1,3,4,4,0,0,3,4,22,13.8,+6,Derek Anderson
+2004-01-15,29-181,POR,HOME,PHO,L (-9),1,37:33,3,7,.429,2,4,.500,6,9,.667,0,1,1,8,1,0,3,3,14,11.8,-15,Derek Anderson
+2004-01-17,29-183,POR,HOME,DAL,L (-4),1,28:41,1,7,.143,0,3,.000,0,0,,0,4,4,3,0,0,1,3,2,-1.4,-5,Derek Anderson
+2004-01-18,29-184,POR,AWAY,PHO,L (-4),1,23:15,2,7,.286,1,5,.200,0,0,,0,2,2,1,0,0,4,0,5,-1.8,-4,Derek Anderson
+2004-01-20,29-186,POR,AWAY,SAC,W (+5),1,39:26,9,18,.500,2,6,.333,9,13,.692,2,4,6,3,2,1,2,1,29,23.4,-2,Derek Anderson
+2004-01-24,29-190,POR,HOME,GSW,L (-18),1,27:10,4,10,.400,3,7,.429,0,0,,1,3,4,3,1,0,4,3,11,5.1,-13,Derek Anderson
+2004-01-26,29-192,POR,AWAY,WAS,W (+11),1,29:49,2,10,.200,2,6,.333,4,4,1.000,0,4,4,4,1,0,0,3,10,7.6,+13,Derek Anderson
+2004-01-28,29-194,POR,AWAY,MEM,W (+12),1,32:59,4,12,.333,2,3,.667,2,2,1.000,3,1,4,5,1,0,2,1,12,9.7,+5,Derek Anderson
+2004-01-29,29-195,POR,AWAY,ATL,W (+8),1,36:02,5,10,.500,3,8,.375,2,2,1.000,1,3,4,1,1,0,0,1,15,12.9,+11,Derek Anderson
+2004-01-31,29-197,POR,HOME,CHI,W (+7),1,40:26,3,17,.176,0,6,.000,6,6,1.000,0,3,3,6,1,0,0,1,12,7.0,+10,Derek Anderson
+2004-02-02,29-199,POR,AWAY,DEN,L (-19),1,26:55,1,3,.333,1,2,.500,2,2,1.000,1,1,2,4,0,0,3,3,5,2.9,-14,Derek Anderson
+2004-02-04,29-201,POR,AWAY,PHO,W (+4),1,29:20,6,11,.545,1,3,.333,0,0,,0,1,1,3,0,0,2,1,13,7.7,+9,Derek Anderson
+2004-02-06,29-203,POR,AWAY,UTA,W (+14),1,33:38,5,9,.556,1,4,.250,0,0,,0,1,1,3,2,0,3,2,11,7.3,+14,Derek Anderson
+2004-02-08,29-205,POR,HOME,SEA,W (+10),1,36:26,2,11,.182,0,4,.000,2,3,.667,1,5,6,9,5,0,1,0,6,11.2,+17,Derek Anderson
+2004-02-10,29-207,POR,HOME,UTA,L (-5),1,40:07,5,13,.385,1,5,.200,10,11,.909,0,3,3,4,1,0,3,2,21,14.4,+3,Derek Anderson
+2004-02-12,29-209,POR,HOME,DEN,L (-9),1,40:44,6,17,.353,3,11,.273,2,2,1.000,1,0,1,5,1,0,3,3,17,8.5,-9,Derek Anderson
+2004-02-17,29-214,POR,AWAY,LAL,L (-3),1,40:27,6,11,.545,3,6,.500,0,0,,0,3,3,2,3,0,1,1,15,13.6,-3,Derek Anderson
+2004-02-18,29-215,POR,HOME,LAC,W (+15),1,40:29,9,20,.450,6,13,.462,3,3,1.000,0,5,5,3,1,0,2,1,27,18.8,+17,Derek Anderson
+2004-02-20,29-217,POR,AWAY,GSW,W (+1),1,42:59,4,13,.308,1,6,.167,7,8,.875,0,1,1,3,1,1,0,0,16,12.2,+3,Derek Anderson
+2004-02-21,29-218,POR,HOME,BOS,W (+21),1,25:28,2,9,.222,1,6,.167,5,5,1.000,1,5,6,6,1,0,1,2,10,10.1,+30,Derek Anderson
+2004-02-23,29-220,POR,AWAY,MIA,W (+8),1,41:34,7,12,.583,1,2,.500,5,7,.714,0,4,4,4,2,0,2,1,20,17.2,+8,Derek Anderson
+2004-02-24,29-221,POR,AWAY,ORL,W (+3),1,46:20,7,16,.438,3,8,.375,1,3,.333,0,1,1,2,0,0,1,1,18,9.1,-5,Derek Anderson
+2004-02-27,29-224,POR,AWAY,HOU,L (-4),1,41:49,7,14,.500,3,4,.750,5,6,.833,0,2,2,9,1,0,1,1,22,21.1,0,Derek Anderson
+2004-02-28,29-225,POR,AWAY,DAL,L (-20),1,39:08,5,12,.417,2,7,.286,2,2,1.000,0,5,5,4,0,0,0,1,14,11.5,-11,Derek Anderson
+2004-03-03,29-229,POR,HOME,MEM,L (-9),1,34:37,2,12,.167,0,4,.000,2,2,1.000,1,1,2,6,2,0,2,2,6,2.8,-13,Derek Anderson
+2004-03-04,29-230,POR,HOME,DET,L (-15),1,24:03,3,8,.375,2,4,.500,0,0,,0,0,0,0,1,0,3,0,8,1.6,-12,Derek Anderson
+2004-03-06,29-232,POR,HOME,UTA,W (+21),1,37:21,5,9,.556,1,3,.333,2,2,1.000,0,5,5,7,0,0,3,1,13,11.7,+21,Derek Anderson
+2004-03-07,29-233,POR,AWAY,LAC,L (-20),1,34:25,9,17,.529,4,8,.500,0,0,,1,2,3,3,0,0,1,1,22,15.7,-19,Derek Anderson
+2004-03-10,29-236,POR,HOME,MIN,W (+13),1,37:58,5,15,.333,1,5,.200,2,3,.667,2,4,6,7,3,0,5,1,13,9.2,-3,Derek Anderson
+2004-03-12,29-238,POR,HOME,SAC,W (+2),1,40:52,2,10,.200,0,4,.000,2,2,1.000,0,6,6,7,2,0,0,3,6,7.3,+11,Derek Anderson
+2004-03-14,29-240,POR,AWAY,MIN,W (+9),1,38:00,7,16,.438,3,6,.500,4,5,.800,1,5,6,3,1,0,1,3,21,15.3,+24,Derek Anderson
+2004-03-16,29-242,POR,AWAY,MIL,W (+1),1,35:03,9,15,.600,2,6,.333,0,0,,1,1,2,8,1,0,0,3,20,19.5,+14,Derek Anderson
+2004-03-17,29-243,POR,AWAY,IND,L (-9),1,40:40,1,11,.091,0,5,.000,4,7,.571,0,4,4,6,3,1,3,3,6,2.4,-8,Derek Anderson
+2004-03-20,29-246,POR,HOME,ORL,W (+19),1,42:01,8,17,.471,3,8,.375,5,6,.833,0,4,4,5,2,0,4,1,24,17.2,+24,Derek Anderson
+2004-03-22,29-248,POR,HOME,HOU,L (-8),1,49:25,3,12,.250,0,5,.000,3,4,.750,0,8,8,5,1,0,1,1,9,6.9,-2,Derek Anderson
+2004-03-24,29-250,POR,HOME,LAC,W (+6),1,45:21,3,11,.273,1,9,.111,3,4,.750,0,4,4,6,0,0,1,2,10,6.7,+12,Derek Anderson
+2004-03-27,29-253,POR,HOME,SEA,W (+7),1,45:20,6,14,.429,2,2,1.000,8,10,.800,0,3,3,7,4,0,0,1,22,23.2,+1,Derek Anderson
+2004-03-29,29-255,POR,AWAY,NYK,L (-1),1,45:33,6,14,.429,1,4,.250,3,3,1.000,0,4,4,7,1,0,3,2,16,11.9,0,Derek Anderson
+2004-03-31,29-257,POR,AWAY,BOS,W (+7),1,35:48,3,9,.333,0,3,.000,4,5,.800,1,5,6,6,3,0,3,2,10,10.1,+12,Derek Anderson
+2004-04-01,29-258,POR,AWAY,PHI,W (+6),1,43:01,3,11,.273,1,3,.333,5,6,.833,0,4,4,6,0,0,2,2,12,7.7,+6,Derek Anderson
+2004-04-03,29-260,POR,HOME,NOH,L (-13),1,31:48,2,16,.125,0,7,.000,5,7,.714,1,7,8,4,1,0,1,0,9,3.4,-13,Derek Anderson
+2004-04-06,29-263,POR,AWAY,LAL,W (+11),1,42:34,6,13,.462,1,4,.250,4,4,1.000,1,8,9,8,2,0,3,3,17,16.8,+18,Derek Anderson
+2004-04-07,29-264,POR,HOME,GSW,W (+6),1,33:12,5,13,.385,1,4,.250,4,4,1.000,0,2,2,6,2,0,0,0,15,14.7,-5,Derek Anderson
+2004-04-09,29-266,POR,AWAY,SAS,L (-10),1,36:39,5,11,.455,3,4,.750,0,0,,1,1,2,4,4,0,4,1,13,10.7,-25,Derek Anderson
+2004-04-10,29-267,POR,AWAY,DEN,L (-10),1,46:04,8,16,.500,4,6,.667,1,1,1.000,0,3,3,4,2,0,3,1,21,15.3,-5,Derek Anderson
+2004-04-12,29-269,POR,HOME,SAS,L (-12),1,32:50,3,12,.250,0,4,.000,4,4,1.000,1,2,3,3,1,0,2,2,10,4.4,-15,Derek Anderson
+2004-04-14,29-271,POR,HOME,LAL,L (-1),1,44:02,7,12,.583,1,3,.333,2,2,1.000,1,3,4,3,1,0,1,2,17,14.3,+1,Derek Anderson
+2006-11-29,32-134,CHA,AWAY,ATL,L (-9),0,20:17,1,7,.143,0,4,.000,2,2,1.000,3,0,3,2,1,0,0,2,4,3.2,+13,Derek Anderson
+2006-12-01,32-136,CHA,AWAY,WAS,L (-12),0,13:40,4,7,.571,2,5,.400,0,0,,0,0,0,1,0,0,0,1,10,7.0,+2,Derek Anderson
+2006-12-03,32-138,CHA,HOME,DET,W (+8),0,18:28,3,5,.600,2,3,.667,3,3,1.000,0,2,2,1,0,0,0,4,11,8.4,+8,Derek Anderson
+2006-12-06,32-141,CHA,HOME,SAS,L (-20),0,19:54,1,4,.250,0,1,.000,0,0,,0,0,0,1,3,0,2,1,2,0.9,-20,Derek Anderson
+2006-12-08,32-143,CHA,HOME,HOU,L (-30),0,21:32,1,6,.167,1,4,.250,0,0,,0,4,4,1,1,2,4,1,3,-0.9,-8,Derek Anderson
+2006-12-10,32-145,CHA,HOME,PHO,L (-30),0,16:19,0,4,.000,0,3,.000,0,0,,0,1,1,0,0,0,2,1,0,-4.9,-13,Derek Anderson
+2006-12-16,32-151,CHA,HOME,BOS,L (-6),1,35:00,1,7,.143,1,6,.167,0,0,,1,3,4,5,1,1,0,4,3,3.7,-7,Derek Anderson
+2006-12-20,32-155,CHA,AWAY,NYK,L (-2),1,29:26,2,6,.333,1,3,.333,0,0,,2,1,3,3,0,0,2,3,5,2.2,-16,Derek Anderson
+2006-12-23,32-158,CHA,AWAY,CHI,L (-39),1,21:14,1,7,.143,1,2,.500,0,0,,2,2,4,2,1,0,1,2,3,1.1,-12,Derek Anderson
+2006-12-26,32-161,CHA,AWAY,DAL,L (-13),0,12:46,0,3,.000,0,1,.000,4,4,1.000,0,1,1,2,0,0,1,1,4,2.2,-4,Derek Anderson
+2006-12-27,32-162,CHA,HOME,WAS,L (-7),0,17:37,0,4,.000,0,3,.000,0,0,,0,4,4,3,0,0,0,3,0,-0.7,+8,Derek Anderson
+2006-12-29,32-164,CHA,HOME,LAL,W (+9),0,30:15,0,1,.000,0,0,,5,5,1.000,0,0,0,3,0,0,0,1,5,6.0,+7,Derek Anderson
+2006-12-30,32-165,CHA,AWAY,IND,W (+11),0,16:07,1,2,.500,1,2,.500,4,4,1.000,0,0,0,1,0,1,2,2,7,4.6,-6,Derek Anderson
+2007-01-01,32-167,CHA,HOME,MIN,L (-6),1,25:42,2,4,.500,1,2,.500,0,0,,0,1,1,2,0,1,1,1,5,4.0,-12,Derek Anderson
+2007-01-05,32-171,CHA,AWAY,ORL,L (-32),1,22:26,3,8,.375,2,7,.286,2,2,1.000,1,1,2,3,2,0,0,1,10,10.3,-4,Derek Anderson
+2007-01-10,32-176,CHA,AWAY,DET,W (+7),1,35:18,4,10,.400,1,5,.200,2,3,.667,0,3,3,1,2,0,2,4,11,5.2,-9,Derek Anderson
+2007-01-12,32-178,CHA,AWAY,NYK,W (+16),1,35:05,9,11,.818,6,8,.750,5,5,1.000,0,2,2,2,3,0,1,3,29,27.7,+17,Derek Anderson
+2007-01-13,32-179,CHA,HOME,PHI,W (+6),1,38:31,4,7,.571,4,7,.571,3,4,.750,2,3,5,3,3,1,0,3,15,18.2,+7,Derek Anderson
+2007-01-15,32-181,CHA,HOME,MIL,L (-8),1,25:29,1,6,.167,0,5,.000,4,4,1.000,4,1,5,2,1,0,1,3,6,5.5,-13,Derek Anderson
+2007-01-17,32-183,CHA,HOME,NJN,L (-7),1,21:16,1,4,.250,0,0,,1,1,1.000,0,4,4,1,0,0,0,0,3,2.5,-3,Derek Anderson
+2007-01-19,32-185,CHA,AWAY,ATL,W (+21),1,28:44,2,8,.250,0,3,.000,5,6,.833,0,3,3,5,1,0,2,2,9,6.4,+14,Derek Anderson
+2007-01-20,32-186,CHA,HOME,ATL,W (+19),1,29:18,2,6,.333,1,3,.333,2,2,1.000,1,1,2,5,1,0,3,3,7,4.9,+14,Derek Anderson
+2007-01-22,32-188,CHA,AWAY,TOR,L (-21),1,15:32,1,4,.250,0,3,.000,0,0,,0,1,1,3,1,0,1,1,2,1.6,-12,Derek Anderson
+2007-01-24,32-190,CHA,HOME,DET,L (-11),1,21:56,1,4,.250,0,3,.000,1,2,.500,0,2,2,2,2,0,3,1,3,0.8,-7,Derek Anderson
+2007-01-26,32-192,CHA,AWAY,LAL,W (+9),1,19:04,2,3,.667,0,1,.000,1,1,1.000,1,2,3,2,1,0,2,5,5,3.4,-2,Derek Anderson
+2007-01-27,32-193,CHA,AWAY,GSW,L (-26),1,13:55,2,4,.500,1,3,.333,0,0,,1,1,2,1,0,0,3,3,5,0.5,-18,Derek Anderson
+2007-01-29,32-195,CHA,AWAY,DEN,W (+4),1,13:26,2,4,.500,1,3,.333,1,2,.500,0,1,1,3,0,0,1,1,6,4.6,+3,Derek Anderson
+2007-01-31,32-197,CHA,HOME,NYK,W (+17),1,33:55,2,6,.333,1,3,.333,5,6,.833,0,5,5,4,1,0,1,5,10,8.5,+25,Derek Anderson
+2007-02-02,32-199,CHA,AWAY,CLE,L (-20),1,21:13,2,2,1.000,1,1,1.000,4,4,1.000,0,3,3,3,0,0,0,1,9,11.0,-6,Derek Anderson
+2007-02-03,32-200,CHA,HOME,GSW,W (+8),1,5:48,2,4,.500,1,3,.333,0,0,,0,0,0,0,0,0,2,1,5,0.6,-2,Derek Anderson
+2007-02-05,32-202,CHA,AWAY,MIA,L (-20),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2007-02-07,32-204,CHA,AWAY,PHI,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2007-02-20,32-217,CHA,HOME,NOK,W (+4),0,31:38,3,8,.375,1,4,.250,5,5,1.000,0,3,3,5,3,0,1,1,12,13.6,+16,Derek Anderson
+2007-02-21,32-218,CHA,AWAY,MIN,W (+5),0,28:39,1,5,.200,0,2,.000,3,5,.600,2,1,3,5,1,0,2,3,5,4.1,-6,Derek Anderson
+2007-02-23,32-220,CHA,HOME,PHI,W (+15),1,30:19,4,6,.667,1,2,.500,2,2,1.000,1,2,3,5,2,0,0,4,11,13.6,+24,Derek Anderson
+2007-02-24,32-221,CHA,HOME,TOR,L (-17),0,16:59,0,1,.000,0,0,,2,2,1.000,0,1,1,4,1,0,0,1,2,5.0,-4,Derek Anderson
+2007-02-26,32-223,CHA,AWAY,LAC,L (-7),1,25:23,1,4,.250,0,2,.000,1,2,.500,0,4,4,2,1,0,1,4,3,1.2,-4,Derek Anderson
+2007-02-28,32-225,CHA,AWAY,SAC,L (-15),1,27:08,5,7,.714,0,1,.000,2,2,1.000,0,3,3,5,1,0,1,6,12,11.1,+6,Derek Anderson
+2007-03-01,32-226,CHA,AWAY,POR,L (-37),1,7:42,0,1,.000,0,0,,0,0,,0,1,1,1,0,0,0,1,0,-0.1,-13,Derek Anderson
+2007-03-04,32-229,CHA,AWAY,SEA,L (-7),1,25:52,3,6,.500,1,2,.500,2,2,1.000,1,0,1,1,0,0,0,2,9,6.6,-4,Derek Anderson
+2007-03-05,32-230,CHA,AWAY,UTA,L (-25),1,21:47,2,5,.400,0,2,.000,0,1,.000,1,3,4,1,1,0,2,1,4,1.8,-6,Derek Anderson
+2007-03-07,32-232,CHA,AWAY,PHO,L (-9),1,12:04,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-3,Derek Anderson
+2007-03-10,32-235,CHA,HOME,MEM,L (-8),1,34:52,4,8,.500,3,4,.750,5,5,1.000,1,1,2,6,4,0,0,5,16,19.2,+16,Derek Anderson
+2007-03-12,32-237,CHA,HOME,ORL,W (+11),0,34:13,9,15,.600,4,7,.571,2,2,1.000,1,4,5,10,1,1,2,2,24,24.9,+10,Derek Anderson
+2007-03-14,32-239,CHA,HOME,SAC,W (+3),0,25:46,4,8,.500,2,4,.500,2,2,1.000,2,0,2,3,1,0,0,3,12,11.3,+8,Derek Anderson
+2007-03-16,32-241,CHA,HOME,LAC,L (-9),1,31:00,2,6,.333,1,2,.500,2,2,1.000,0,1,1,3,2,0,2,1,7,5.6,-12,Derek Anderson
+2007-03-17,32-242,CHA,AWAY,MIL,L (-6),1,39:52,5,10,.500,2,4,.500,3,4,.750,0,2,2,0,1,0,2,3,15,8.0,-4,Derek Anderson
+2007-03-20,32-245,CHA,HOME,CLE,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2007-03-30,32-255,CHA,HOME,MIL,W (+16),0,14:11,3,5,.600,2,3,.667,0,0,,1,2,3,1,0,0,1,1,8,6.3,+11,Derek Anderson
+2007-04-10,32-266,CHA,HOME,MIA,W (+10),0,12:55,6,9,.667,3,5,.600,2,2,1.000,0,1,1,1,0,0,1,0,17,13.1,+9,Derek Anderson
+2007-04-13,32-269,CHA,AWAY,CHI,L (-19),0,26:03,3,9,.333,1,4,.250,3,3,1.000,1,1,2,3,2,0,1,4,10,7.4,-2,Derek Anderson
+2007-04-14,32-270,CHA,AWAY,MIL,W (+21),1,29:31,9,13,.692,2,4,.500,1,2,.500,0,0,0,4,5,0,1,4,21,20.3,+19,Derek Anderson
+2007-04-18,32-274,CHA,HOME,NYK,L (-1),1,35:16,5,10,.500,2,3,.667,2,3,.667,0,1,1,6,1,0,2,5,14,10.1,+12,Derek Anderson
+2007-11-06,33-111,CHA,HOME,PHO,L (-32),0,12:25,1,3,.333,0,2,.000,0,0,,0,2,2,0,1,0,2,3,2,-1.3,-15,Derek Anderson
+2007-11-07,33-112,CHA,AWAY,PHI,L (-31),0,25:14,0,5,.000,0,3,.000,3,4,.750,0,2,2,8,0,0,2,4,3,1.7,-7,Derek Anderson
+2007-11-27,33-132,CHA,AWAY,MIA,L (-20),0,4:53,1,3,.333,0,1,.000,0,0,,0,1,1,1,0,0,0,0,2,1.3,+7,Derek Anderson
+2007-12-01,33-136,CHA,AWAY,CHI,L (-16),0,14:42,2,2,1.000,1,1,1.000,2,4,.500,0,0,0,2,2,0,1,1,7,7.6,+5,Derek Anderson
+2007-12-03,33-138,CHA,AWAY,TOR,L (-19),0,15:20,0,5,.000,0,3,.000,2,2,1.000,0,1,1,2,2,0,0,1,2,1.8,0,Derek Anderson
+2007-12-05,33-140,CHA,HOME,CHI,L (-9),0,7:19,0,4,.000,0,2,.000,0,0,,1,0,1,0,0,1,0,0,0,-1.4,0,Derek Anderson
+2007-12-08,33-143,CHA,HOME,CLE,W (+3),0,10:18,0,3,.000,0,1,.000,2,2,1.000,0,0,0,2,0,0,0,1,2,0.9,+2,Derek Anderson
+2007-12-09,33-144,CHA,AWAY,DET,L (-19),0,26:01,2,11,.182,0,2,.000,0,0,,1,4,5,7,1,0,2,4,4,1.3,+1,Derek Anderson
+2007-12-14,33-149,CHA,HOME,ORL,L (-16),0,12:01,3,4,.750,0,0,,0,0,,0,2,2,2,0,0,2,3,6,3.2,-8,Derek Anderson
+2007-12-15,33-150,CHA,AWAY,ATL,L (-9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2007-12-22,33-157,CHA,AWAY,MIL,L (-4),0,3:59,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-1.4,-9,Derek Anderson
+2007-12-26,33-161,CHA,HOME,WAS,L (-4),0,20:25,3,5,.600,2,3,.667,1,2,.500,0,4,4,3,0,0,0,0,9,9.6,+8,Derek Anderson
+2007-12-28,33-163,CHA,HOME,NOH,L (-14),0,13:09,3,4,.750,1,1,1.000,1,3,.333,0,1,1,1,0,0,2,2,8,3.8,-4,Derek Anderson
+2007-12-29,33-164,CHA,AWAY,ORL,L (-9),0,13:16,2,4,.500,0,0,,0,0,,0,2,2,4,0,0,1,0,4,4.4,-2,Derek Anderson
+2007-12-31,33-166,CHA,HOME,IND,W (+4),0,10:23,2,4,.500,2,2,1.000,0,0,,0,0,0,0,0,0,0,1,6,3.6,+2,Derek Anderson
+2008-01-02,33-168,CHA,HOME,CHI,L (-12),0,14:22,0,1,.000,0,0,,7,8,.875,3,5,8,1,2,0,1,2,7,10.4,0,Derek Anderson
+2008-01-04,33-170,CHA,AWAY,NJN,L (-6),0,8:10,1,2,.500,0,1,.000,0,0,,0,2,2,0,0,0,0,0,2,1.6,-6,Derek Anderson
+2008-01-06,33-172,CHA,HOME,MIL,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2008-01-08,33-174,CHA,HOME,NJN,W (+16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2008-01-09,33-175,CHA,AWAY,BOS,W (+12),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2008-01-11,33-177,CHA,AWAY,CLE,L (-7),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2008-01-12,33-178,CHA,HOME,DET,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2008-01-18,33-184,CHA,AWAY,NOH,L (-28),0,8:43,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-1.4,-5,Derek Anderson
+2008-01-25,33-191,CHA,AWAY,CHI,W (+13),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2008-01-26,33-192,CHA,HOME,PHI,L (-7),0,12:59,2,6,.333,1,1,1.000,0,0,,0,0,0,1,0,0,2,2,5,-0.5,-10,Derek Anderson
+2008-01-28,33-194,CHA,AWAY,LAC,W (+7),0,15:10,3,6,.500,2,3,.667,4,4,1.000,1,1,2,1,1,0,3,2,12,7.9,+12,Derek Anderson
+2008-01-30,33-196,CHA,AWAY,SAC,L (-14),0,14:40,2,4,.500,1,2,.500,0,1,.000,2,2,4,0,0,0,1,3,5,2.4,-2,Derek Anderson
+2008-02-01,33-198,CHA,AWAY,GSW,L (-31),0,22:30,2,7,.286,0,3,.000,1,2,.500,1,2,3,0,0,0,2,4,5,-1.8,-27,Derek Anderson
+2008-02-02,33-199,CHA,AWAY,DEN,L (-16),0,17:23,2,4,.500,2,3,.667,0,0,,0,1,1,4,0,0,1,3,6,4.9,-19,Derek Anderson
+2008-02-04,33-201,CHA,AWAY,PHO,L (-14),0,14:19,2,7,.286,1,5,.200,0,0,,0,0,0,0,0,0,0,3,5,-0.3,-13,Derek Anderson
+2008-02-22,33-219,CHA,HOME,SAC,L (-1),0,27:17,4,8,.500,2,3,.667,5,6,.833,0,4,4,0,2,0,0,4,15,12.2,-5,Derek Anderson
+2008-02-23,33-220,CHA,AWAY,WAS,L (-15),0,13:19,2,4,.500,1,1,1.000,0,0,,0,2,2,1,1,0,1,0,5,4.3,-11,Derek Anderson
+2008-02-27,33-224,CHA,AWAY,NYK,L (-24),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2008-02-29,33-226,CHA,AWAY,BOS,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2008-03-02,33-228,CHA,HOME,TOR,W (+12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2008-03-04,33-230,CHA,AWAY,MIN,W (+20),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2008-03-05,33-231,CHA,HOME,GSW,W (+9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2008-03-07,33-233,CHA,HOME,ATL,W (+15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2008-03-08,33-234,CHA,AWAY,WAS,W (+3),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2008-03-16,33-242,CHA,AWAY,CLE,L (-7),0,8:05,1,1,1.000,0,0,,0,0,,0,1,1,1,0,0,0,1,2,2.3,+6,Derek Anderson
+2008-03-17,33-243,CHA,AWAY,MEM,L (-18),0,24:10,7,10,.700,3,5,.600,0,0,,0,3,3,3,0,0,2,5,17,11.8,-4,Derek Anderson
+2008-03-26,33-252,CHA,AWAY,LAL,W (+13),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2008-03-28,33-254,CHA,AWAY,SEA,W (+3),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2008-03-29,33-255,CHA,AWAY,POR,W (+8),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2008-04-04,33-261,CHA,AWAY,TOR,W (+5),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2008-04-05,33-262,CHA,HOME,BOS,L (-23),0,5:38,0,4,.000,0,2,.000,0,0,,0,1,1,0,0,0,0,0,0,-2.5,-2,Derek Anderson
+2008-04-08,33-265,CHA,HOME,MIN,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2008-04-09,33-266,CHA,AWAY,NYK,L (-2),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2008-04-12,33-269,CHA,AWAY,IND,W (+4),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2008-04-15,33-272,CHA,AWAY,NJN,L (-4),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2008-04-16,33-273,CHA,HOME,PHI,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+1999-11-02,25-107,LAC,HOME,SEA,L (-12),1,36:43,6,13,.462,2,4,.500,5,5,1.000,2,0,2,3,0,0,1,3,19,13.6,-13,Derek Anderson
+1999-11-03,25-108,LAC,AWAY,POR,L (-23),1,35:13,7,14,.500,0,2,.000,2,2,1.000,2,2,4,4,2,0,1,3,16,13.6,-24,Derek Anderson
+1999-11-05,25-110,LAC,HOME,PHI,W (+10),1,41:29,3,10,.300,0,0,,15,17,.882,6,3,9,6,1,2,9,1,21,16.7,+7,Derek Anderson
+1999-11-08,25-113,LAC,HOME,UTA,L (-15),1,37:10,3,13,.231,1,3,.333,4,4,1.000,1,7,8,2,1,0,2,2,11,5.5,-12,Derek Anderson
+1999-11-10,25-115,LAC,HOME,SAS,L (-5),1,40:26,10,17,.588,3,5,.600,5,5,1.000,1,6,7,4,1,0,3,5,28,21.4,+4,Derek Anderson
+1999-11-14,25-119,LAC,AWAY,VAN,L (-20),1,35:57,4,14,.286,0,6,.000,5,7,.714,1,4,5,5,0,0,1,1,13,8.0,-22,Derek Anderson
+1999-11-16,25-121,LAC,AWAY,MIL,L (-8),1,36:32,11,21,.524,1,4,.250,4,4,1.000,2,5,7,0,0,0,1,3,27,17.4,-3,Derek Anderson
+1999-11-17,25-122,LAC,AWAY,MIN,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+1999-11-19,25-124,LAC,AWAY,TOR,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+1999-11-20,25-125,LAC,AWAY,WAS,W (+9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+1999-11-23,25-128,LAC,HOME,NYK,W (+5),1,42:22,8,17,.471,2,5,.400,5,5,1.000,1,3,4,3,1,0,3,4,23,14.4,+5,Derek Anderson
+1999-11-26,25-131,LAC,AWAY,SEA,L (-5),1,42:33,9,21,.429,3,4,.750,8,10,.800,3,5,8,5,2,0,3,4,29,21.6,-4,Derek Anderson
+1999-11-27,25-132,LAC,HOME,POR,L (-17),1,28:49,2,7,.286,0,1,.000,2,2,1.000,1,6,7,3,0,0,5,3,6,0.3,-17,Derek Anderson
+1999-11-30,25-135,LAC,HOME,PHO,L (-14),1,35:24,6,15,.400,0,3,.000,13,15,.867,1,4,5,1,0,0,1,3,25,16.5,-1,Derek Anderson
+1999-12-02,25-137,LAC,HOME,HOU,L (-13),1,41:11,8,12,.667,0,1,.000,7,9,.778,1,1,2,4,3,1,5,3,23,18.3,-8,Derek Anderson
+1999-12-04,25-139,LAC,HOME,SEA,L (-13),1,34:53,7,12,.583,2,4,.500,3,3,1.000,2,3,5,3,0,0,3,1,19,14.4,-6,Derek Anderson
+1999-12-06,25-141,LAC,HOME,MIA,L (-8),1,37:48,7,20,.350,0,3,.000,2,2,1.000,2,8,10,12,0,0,0,0,16,17.0,+1,Derek Anderson
+1999-12-08,25-143,LAC,AWAY,ATL,L (-18),1,35:51,2,8,.250,1,2,.500,0,0,,0,4,4,8,0,0,6,4,5,-0.6,-9,Derek Anderson
+1999-12-10,25-145,LAC,AWAY,DET,L (-24),1,30:58,5,11,.455,0,1,.000,4,4,1.000,1,4,5,5,1,0,2,1,14,12.3,-14,Derek Anderson
+1999-12-11,25-146,LAC,AWAY,IND,L (-18),1,32:34,3,12,.250,1,4,.250,2,3,.667,0,3,3,1,3,0,1,1,9,4.6,-27,Derek Anderson
+1999-12-13,25-148,LAC,HOME,VAN,W (+12),1,35:02,6,16,.375,2,6,.333,2,4,.500,1,1,2,5,2,0,0,1,16,12.5,+3,Derek Anderson
+1999-12-14,25-149,LAC,AWAY,LAL,L (-27),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+1999-12-17,25-152,LAC,HOME,GSW,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+1999-12-19,25-154,LAC,AWAY,VAN,L (-1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+1999-12-22,25-157,LAC,AWAY,GSW,W (+4),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+1999-12-23,25-158,LAC,HOME,SAC,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+1999-12-26,25-161,LAC,HOME,BOS,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+1999-12-28,25-163,LAC,AWAY,DEN,L (-23),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+1999-12-30,25-165,LAC,AWAY,HOU,L (-22),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2000-01-04,25-170,LAC,HOME,LAL,L (-24),0,13:04,3,7,.429,0,1,.000,1,1,1.000,0,2,2,0,0,0,2,0,7,1.9,-13,Derek Anderson
+2000-01-05,25-171,LAC,AWAY,LAL,L (-17),0,23:34,2,9,.222,0,2,.000,1,1,1.000,0,3,3,2,0,1,2,1,5,0.1,-19,Derek Anderson
+2000-01-08,25-174,LAC,HOME,IND,W (+13),1,34:35,3,10,.300,0,2,.000,1,4,.250,0,2,2,2,4,0,4,5,7,0.0,-3,Derek Anderson
+2000-01-10,25-176,LAC,AWAY,CLE,L (-5),1,42:33,9,19,.474,2,3,.667,9,9,1.000,2,3,5,5,0,1,0,3,29,24.6,-10,Derek Anderson
+2000-01-12,25-178,LAC,AWAY,BOS,L (-7),1,38:03,7,14,.500,0,4,.000,4,5,.800,0,3,3,2,2,0,6,3,18,7.7,-6,Derek Anderson
+2000-01-13,25-179,LAC,AWAY,NJN,L (-5),1,36:26,9,15,.600,3,4,.750,2,2,1.000,3,0,3,1,2,0,2,5,23,16.9,-8,Derek Anderson
+2000-01-15,25-181,LAC,AWAY,UTA,L (-37),1,30:24,9,14,.643,0,0,,0,0,,0,3,3,8,0,2,2,3,18,16.5,-11,Derek Anderson
+2000-01-17,25-183,LAC,HOME,SAS,L (-6),1,38:52,7,11,.636,1,3,.333,2,5,.400,0,3,3,3,1,0,6,2,17,8.1,-5,Derek Anderson
+2000-01-18,25-184,LAC,AWAY,SAC,L (-6),1,20:45,3,5,.600,1,2,.500,4,4,1.000,0,2,2,2,1,0,3,3,11,7.5,-9,Derek Anderson
+2000-01-21,25-187,LAC,HOME,MIN,L (-6),1,30:35,7,10,.700,0,0,,0,0,,0,5,5,1,1,0,4,3,14,7.8,-7,Derek Anderson
+2000-01-23,25-189,LAC,HOME,ORL,L (-13),1,40:02,8,17,.471,0,3,.000,4,6,.667,0,2,2,3,1,0,3,1,20,10.8,-10,Derek Anderson
+2000-01-25,25-191,LAC,AWAY,SAS,L (-23),1,35:34,8,14,.571,2,4,.500,4,4,1.000,0,1,1,3,1,1,1,3,22,17.3,-9,Derek Anderson
+2000-01-27,25-193,LAC,AWAY,DAL,L (-9),1,43:33,11,22,.500,2,7,.286,11,11,1.000,2,1,3,4,1,0,2,2,35,26.7,-6,Derek Anderson
+2000-01-29,25-195,LAC,HOME,NJN,W (+5),1,39:53,6,12,.500,1,1,1.000,5,5,1.000,0,4,4,6,2,0,3,0,18,16.4,+10,Derek Anderson
+2000-02-01,25-198,LAC,HOME,GSW,L (-31),1,36:19,4,14,.286,1,3,.333,5,7,.714,2,3,5,1,1,0,1,0,14,8.0,-21,Derek Anderson
+2000-02-02,25-199,LAC,AWAY,PHO,L (-46),1,31:35,2,6,.333,1,2,.500,4,4,1.000,0,2,2,3,1,0,2,2,9,6.5,-34,Derek Anderson
+2000-02-05,25-202,LAC,HOME,DAL,L (-13),1,27:56,2,11,.182,0,4,.000,3,3,1.000,3,4,7,2,2,0,4,1,7,2.4,-4,Derek Anderson
+2000-02-06,25-203,LAC,HOME,CHI,L (-10),1,35:16,3,9,.333,0,4,.000,6,6,1.000,1,1,2,3,4,1,4,3,12,9.5,-5,Derek Anderson
+2000-02-09,25-206,LAC,AWAY,POR,L (-7),1,40:02,7,14,.500,0,2,.000,0,0,,2,3,5,5,3,0,1,6,14,12.4,-4,Derek Anderson
+2000-02-10,25-207,LAC,HOME,VAN,L (-22),1,45:15,14,23,.609,1,5,.200,0,0,,2,3,5,0,1,0,3,3,29,17.6,-19,Derek Anderson
+2000-02-15,25-212,LAC,AWAY,MIA,L (-19),1,37:44,3,16,.188,0,2,.000,2,2,1.000,2,2,4,1,3,0,3,1,8,0.3,-8,Derek Anderson
+2000-02-16,25-213,LAC,AWAY,ORL,L (-33),1,8:41,1,3,.333,1,1,1.000,0,0,,0,0,0,1,1,1,1,1,3,2.3,-5,Derek Anderson
+2000-02-18,25-215,LAC,AWAY,CHH,L (-28),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2000-02-19,25-216,LAC,AWAY,CHI,L (-2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2000-02-21,25-218,LAC,AWAY,NYK,L (-11),0,23:15,3,6,.500,1,2,.500,2,2,1.000,3,3,6,1,0,0,2,1,9,7.3,-5,Derek Anderson
+2000-02-23,25-220,LAC,AWAY,PHI,L (-16),1,31:39,7,13,.538,1,1,1.000,4,4,1.000,0,3,3,3,1,0,5,1,19,11.3,-8,Derek Anderson
+2000-02-24,25-221,LAC,AWAY,MIN,L (-25),1,32:14,4,12,.333,3,3,1.000,2,2,1.000,0,4,4,5,1,0,4,1,13,7.5,-18,Derek Anderson
+2000-02-26,25-223,LAC,HOME,ATL,W (+1),1,43:45,7,16,.438,0,0,,7,9,.778,1,2,3,4,1,0,3,2,21,13.1,0,Derek Anderson
+2000-02-28,25-225,LAC,HOME,HOU,L (-19),1,29:30,3,13,.231,0,2,.000,6,6,1.000,5,7,12,2,4,0,2,3,12,11.9,-8,Derek Anderson
+2000-03-04,25-230,LAC,HOME,CLE,L (-10),1,34:02,2,12,.167,0,1,.000,8,9,.889,0,1,1,3,3,0,1,4,12,6.8,-4,Derek Anderson
+2000-03-06,25-232,LAC,HOME,LAL,L (-20),0,25:43,6,11,.545,0,2,.000,9,11,.818,2,0,2,2,1,0,1,1,21,17.3,-9,Derek Anderson
+2000-03-08,25-234,LAC,HOME,TOR,L (-1),1,44:18,5,14,.357,2,6,.333,9,9,1.000,3,2,5,6,4,0,3,2,21,20.3,-3,Derek Anderson
+2000-03-10,25-236,LAC,HOME,CHH,L (-17),1,34:20,8,16,.500,2,3,.667,6,6,1.000,0,1,1,8,2,0,2,5,24,19.9,-5,Derek Anderson
+2000-03-12,25-238,LAC,AWAY,GSW,W (+9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2000-03-14,25-240,LAC,HOME,DEN,W (+4),0,34:23,6,11,.545,3,3,1.000,5,7,.714,1,3,4,4,0,0,5,1,20,12.9,+1,Derek Anderson
+2000-03-15,25-241,LAC,AWAY,SAC,L (-20),1,34:56,3,11,.273,0,4,.000,0,0,,1,1,2,3,4,0,6,4,6,-1.0,-18,Derek Anderson
+2000-03-17,25-243,LAC,AWAY,DEN,L (-27),1,33:56,4,16,.250,0,4,.000,3,4,.750,1,2,3,3,2,0,3,1,11,3.0,-24,Derek Anderson
+2000-03-18,25-244,LAC,HOME,SAC,L (-21),1,45:41,10,20,.500,1,4,.250,4,5,.800,3,2,5,5,2,0,5,2,25,17.0,-13,Derek Anderson
+2000-03-20,25-246,LAC,HOME,WAS,L (-12),1,34:13,6,13,.462,0,2,.000,6,6,1.000,3,2,5,4,4,0,3,3,18,16.6,-13,Derek Anderson
+2000-03-22,25-248,LAC,AWAY,SAS,L (-25),1,32:08,5,13,.385,1,2,.500,6,7,.857,2,1,3,6,1,0,1,2,17,14.6,-8,Derek Anderson
+2000-03-23,25-249,LAC,AWAY,HOU,L (-15),1,37:37,8,14,.571,0,2,.000,4,6,.667,1,4,5,1,2,0,2,1,20,14.8,-5,Derek Anderson
+2000-03-25,25-251,LAC,HOME,DET,L (-19),1,26:48,4,12,.333,0,1,.000,3,3,1.000,2,2,4,4,1,0,1,5,11,7.0,-21,Derek Anderson
+2000-03-28,25-254,LAC,HOME,DAL,L (-10),1,43:36,9,17,.529,0,2,.000,1,1,1.000,1,4,5,3,1,1,2,2,19,13.6,-10,Derek Anderson
+2000-03-30,25-256,LAC,HOME,MIL,L (-19),1,37:24,4,12,.333,1,2,.500,7,7,1.000,0,3,3,6,0,0,2,2,16,11.5,-21,Derek Anderson
+2000-04-04,25-261,LAC,HOME,UTA,L (-10),1,36:10,8,19,.421,1,2,.500,3,3,1.000,2,4,6,3,0,0,3,3,20,10.4,-20,Derek Anderson
+2000-04-06,25-263,LAC,HOME,MIN,L (-22),1,17:32,2,6,.333,1,2,.500,4,4,1.000,0,1,1,1,1,0,0,0,9,7.6,-8,Derek Anderson
+2000-04-08,25-265,LAC,AWAY,DAL,L (-2),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2000-04-11,25-268,LAC,HOME,PHO,L (-7),1,33:02,9,18,.500,0,2,.000,7,7,1.000,1,3,4,5,2,0,2,2,25,20.3,+3,Derek Anderson
+2000-04-12,25-269,LAC,AWAY,UTA,L (-9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2000-04-14,25-271,LAC,AWAY,PHO,L (-24),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2000-04-15,25-272,LAC,HOME,DEN,L (-1),0,31:28,10,20,.500,2,5,.400,9,11,.818,1,1,2,3,2,0,2,6,31,20.9,+4,Derek Anderson
+2000-04-18,25-275,LAC,HOME,POR,L (-16),1,31:12,9,17,.529,2,4,.500,0,0,,0,1,1,3,2,0,1,1,20,14.7,-21,Derek Anderson
+2000-04-19,25-276,LAC,AWAY,SEA,W (+8),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2004-11-03,30-108,POR,AWAY,GSW,W (+3),1,41:11,5,13,.385,0,3,.000,0,0,,2,4,6,5,2,0,1,3,10,8.8,-2,Derek Anderson
+2004-11-05,30-110,POR,HOME,LAC,W (+13),1,32:18,6,9,.667,3,3,1.000,1,2,.500,0,3,3,5,0,0,2,3,16,12.9,+6,Derek Anderson
+2004-11-07,30-112,POR,AWAY,TOR,L (-4),1,36:49,3,7,.429,1,4,.250,3,3,1.000,1,3,4,4,1,0,4,3,10,6.5,+2,Derek Anderson
+2004-11-09,30-114,POR,AWAY,NJN,L (-4),1,42:35,3,14,.214,2,8,.250,3,6,.500,0,3,3,4,1,0,3,4,11,1.3,-8,Derek Anderson
+2004-11-10,30-115,POR,AWAY,BOS,L (-2),1,22:17,1,6,.167,0,3,.000,2,2,1.000,0,0,0,3,0,0,0,1,4,1.9,-8,Derek Anderson
+2004-11-13,30-118,POR,HOME,TOR,W (+3),1,39:05,7,16,.438,2,3,.667,3,3,1.000,1,2,3,1,1,1,3,1,19,10.9,+14,Derek Anderson
+2004-11-17,30-122,POR,HOME,MEM,L (-19),1,29:06,3,8,.375,1,3,.333,2,4,.500,0,0,0,0,1,0,2,4,9,1.2,-24,Derek Anderson
+2004-11-19,30-124,POR,HOME,MIL,W (+12),1,42:43,4,10,.400,2,4,.500,4,4,1.000,3,4,7,3,3,1,3,4,14,13.1,+9,Derek Anderson
+2004-11-21,30-126,POR,HOME,HOU,L (-4),1,39:24,3,12,.250,1,5,.200,3,4,.750,1,5,6,1,1,0,1,1,10,4.9,+3,Derek Anderson
+2004-11-23,30-128,POR,AWAY,MIA,W (+12),1,36:54,7,12,.583,3,4,.750,2,2,1.000,0,2,2,4,2,0,2,4,19,15.2,+10,Derek Anderson
+2004-11-24,30-129,POR,AWAY,ORL,W (+6),1,34:43,2,9,.222,1,2,.500,4,4,1.000,1,5,6,5,2,0,1,1,9,9.8,+10,Derek Anderson
+2004-11-26,30-131,POR,AWAY,DAL,L (-9),1,34:41,9,16,.563,4,8,.500,1,3,.333,2,4,6,2,1,0,1,2,23,17.8,+2,Derek Anderson
+2004-11-28,30-133,POR,HOME,NJN,W (+12),1,39:40,7,18,.389,3,10,.300,4,7,.571,2,3,5,2,2,0,1,0,21,14.7,+14,Derek Anderson
+2004-11-30,30-135,POR,HOME,SEA,W (+6),1,22:21,2,6,.333,0,1,.000,3,4,.750,0,2,2,3,0,0,3,2,7,2.1,-9,Derek Anderson
+2004-12-04,30-139,POR,AWAY,SEA,L (-10),1,31:49,3,10,.300,2,6,.333,2,2,1.000,1,2,3,4,0,0,2,3,10,5.1,-15,Derek Anderson
+2004-12-05,30-140,POR,HOME,PHO,L (-22),1,23:08,1,6,.167,0,2,.000,0,0,,0,3,3,3,0,0,2,2,2,-1.6,-21,Derek Anderson
+2004-12-09,30-144,POR,HOME,BOS,W (+2),1,30:27,6,14,.429,2,3,.667,1,1,1.000,0,5,5,2,2,1,1,2,15,11.4,+6,Derek Anderson
+2004-12-10,30-145,POR,AWAY,UTA,L (-5),1,44:13,6,14,.429,3,9,.333,0,0,,1,1,2,3,1,1,1,5,15,9.4,+14,Derek Anderson
+2004-12-12,30-147,POR,HOME,UTA,W (+10),1,30:03,5,8,.625,3,3,1.000,2,2,1.000,0,2,2,3,1,0,2,3,15,11.9,-2,Derek Anderson
+2004-12-14,30-149,POR,AWAY,MIN,L (-11),1,32:11,5,14,.357,2,4,.500,0,0,,2,2,4,3,1,0,2,2,12,6.5,-13,Derek Anderson
+2004-12-15,30-150,POR,AWAY,CLE,L (-24),1,26:43,4,11,.364,2,5,.400,0,0,,0,3,3,6,1,0,1,0,10,9.0,-12,Derek Anderson
+2004-12-17,30-152,POR,AWAY,ATL,W (+16),1,36:46,5,11,.455,3,7,.429,2,2,1.000,2,4,6,6,2,0,4,1,15,13.7,+10,Derek Anderson
+2004-12-18,30-153,POR,AWAY,DET,W (+1),1,32:01,3,6,.500,0,3,.000,0,0,,0,2,2,2,1,0,2,2,6,3.2,+6,Derek Anderson
+2004-12-20,30-155,POR,AWAY,CHI,L (-5),1,14:30,0,5,.000,0,1,.000,2,2,1.000,0,0,0,1,0,0,0,0,2,-0.8,-11,Derek Anderson
+2004-12-22,30-157,POR,AWAY,MIL,W (+9),1,37:05,5,11,.455,4,6,.667,0,0,,2,3,5,9,1,0,0,0,14,17.9,+12,Derek Anderson
+2004-12-27,30-162,POR,HOME,PHI,L (-7),1,38:15,6,12,.500,1,4,.250,2,2,1.000,1,5,6,8,1,0,1,3,15,15.6,+1,Derek Anderson
+2004-12-30,30-165,POR,HOME,SAS,L (-34),1,22:38,3,5,.600,1,1,1.000,1,2,.500,0,3,3,2,0,0,0,4,8,6.0,-25,Derek Anderson
+2005-01-01,30-167,POR,HOME,GSW,W (+9),1,22:42,3,8,.375,0,5,.000,0,0,,0,4,4,1,0,0,2,4,6,-0.1,-12,Derek Anderson
+2005-01-02,30-168,POR,AWAY,PHO,L (-19),1,30:01,4,9,.444,0,2,.000,0,0,,0,1,1,6,0,0,1,0,8,6.8,+8,Derek Anderson
+2005-01-05,30-171,POR,AWAY,LAC,L (-4),1,29:03,6,11,.545,2,5,.400,1,1,1.000,0,2,2,0,1,0,0,0,15,11.3,-3,Derek Anderson
+2005-01-07,30-173,POR,HOME,MIA,L (-11),1,28:09,0,8,.000,0,2,.000,2,2,1.000,0,2,2,4,1,0,4,1,2,-3.6,-13,Derek Anderson
+2005-01-09,30-175,POR,AWAY,NYK,L (-8),1,24:12,2,4,.500,0,1,.000,4,4,1.000,0,2,2,4,0,0,2,2,8,6.6,-11,Derek Anderson
+2005-01-10,30-176,POR,AWAY,PHI,W (+9),0,15:49,3,6,.500,0,1,.000,5,6,.833,0,3,3,2,2,0,1,2,11,10.1,+4,Derek Anderson
+2005-01-12,30-178,POR,AWAY,WAS,L (-4),0,13:41,0,3,.000,0,1,.000,4,4,1.000,1,0,1,1,0,0,1,1,4,1.9,-15,Derek Anderson
+2005-01-14,30-180,POR,AWAY,NOH,L (-6),0,18:34,3,7,.429,1,2,.500,0,0,,0,0,0,4,0,0,1,4,7,3.5,-8,Derek Anderson
+2005-01-15,30-181,POR,AWAY,MIN,L (-8),0,14:49,2,6,.333,0,0,,0,0,,1,0,1,6,0,0,1,4,4,2.9,0,Derek Anderson
+2005-01-18,30-184,POR,AWAY,SAC,L (-6),0,18:23,1,8,.125,0,1,.000,2,2,1.000,0,1,1,1,0,0,1,3,4,-2.4,-11,Derek Anderson
+2005-01-19,30-185,POR,HOME,CLE,L (-6),0,25:22,2,6,.333,2,4,.500,3,5,.600,0,6,6,2,0,0,2,0,9,6.0,+9,Derek Anderson
+2005-01-22,30-188,POR,HOME,MIN,L (-9),0,6:33,1,3,.333,0,1,.000,0,0,,0,1,1,2,1,0,2,0,2,1.0,-2,Derek Anderson
+2005-01-24,30-190,POR,HOME,SAS,W (+8),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2005-01-26,30-192,POR,HOME,DAL,L (-7),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2005-01-28,30-194,POR,HOME,LAC,W (+4),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2005-02-01,30-198,POR,AWAY,LAL,L (-13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2005-02-02,30-199,POR,HOME,DEN,W (+3),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2005-02-04,30-201,POR,HOME,CHA,W (+12),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2005-02-11,30-208,POR,AWAY,MEM,L (-6),0,5:42,1,3,.333,0,0,,0,0,,1,0,1,0,1,0,2,1,2,-0.4,-9,Derek Anderson
+2005-02-13,30-210,POR,AWAY,HOU,L (-1),0,11:24,2,4,.500,2,2,1.000,2,2,1.000,0,0,0,2,0,0,0,0,8,7.4,+7,Derek Anderson
+2005-02-14,30-211,POR,AWAY,CHA,W (+3),0,12:37,0,2,.000,0,1,.000,0,0,,0,0,0,1,0,0,1,0,0,-1.7,+1,Derek Anderson
+2005-02-16,30-213,POR,AWAY,IND,L (-8),0,4:44,0,0,,0,0,,0,0,,0,1,1,1,0,0,1,0,0,0.0,+1,Derek Anderson
+2005-03-14,30-239,POR,AWAY,MEM,L (-21),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2005-03-16,30-241,POR,AWAY,HOU,L (-31),0,6:24,0,2,.000,0,0,,0,0,,0,0,0,1,1,0,1,0,0,-0.7,-13,Derek Anderson
+2005-03-17,30-242,POR,AWAY,DAL,L (-4),0,0:50,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1,Derek Anderson
+2005-03-19,30-244,POR,HOME,ORL,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2005-03-21,30-246,POR,AWAY,LAC,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2005-03-22,30-247,POR,AWAY,SAC,L (-19),0,21:54,1,6,.167,1,2,.500,0,0,,0,1,1,4,0,0,1,3,3,0.1,-9,Derek Anderson
+2005-03-24,30-249,POR,HOME,SEA,L (-5),0,32:41,7,12,.583,4,6,.667,0,0,,0,4,4,7,1,0,1,4,18,16.9,+1,Derek Anderson
+2005-03-26,30-251,POR,HOME,NYK,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2005-03-28,30-253,POR,HOME,WAS,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2005-03-30,30-255,POR,HOME,HOU,L (-16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2005-04-02,30-258,POR,HOME,DEN,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2005-04-06,30-262,POR,HOME,GSW,L (-2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2005-04-08,30-264,POR,HOME,SAC,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2005-04-10,30-266,POR,AWAY,NOH,W (+9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Derek Anderson
+2005-04-15,30-271,POR,AWAY,GSW,L (-20),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson
+2005-04-17,30-273,POR,HOME,UTA,W (+18),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Derek Anderson

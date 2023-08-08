@@ -1,0 +1,47 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2014-12-15,23-128,PHI,HOME,BOS,L (-18),0,9:32,1,3,.333,0,0,,0,0,,2,0,2,1,0,0,1,2,2,0.6,+1,Furkan Aldemir
+2014-12-19,23-132,PHI,HOME,CHO,L (-18),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Furkan Aldemir
+2014-12-21,23-134,PHI,AWAY,ORL,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Furkan Aldemir
+2014-12-23,23-136,PHI,AWAY,MIA,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Furkan Aldemir
+2014-12-26,23-139,PHI,AWAY,POR,L (-21),0,4:38,0,0,,0,0,,0,0,,0,2,2,0,0,0,0,1,0,0.2,-1,Furkan Aldemir
+2014-12-27,23-140,PHI,AWAY,UTA,L (-17),0,6:03,0,1,.000,0,0,,0,0,,1,0,1,0,0,0,0,2,0,-0.8,-2,Furkan Aldemir
+2014-12-30,23-143,PHI,AWAY,GSW,L (-40),0,16:04,2,2,1.000,0,0,,0,0,,3,5,8,0,2,0,0,3,4,7.8,-23,Furkan Aldemir
+2015-01-02,23-146,PHI,AWAY,PHO,L (-16),0,2:10,0,1,.000,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0.0,0,Furkan Aldemir
+2015-01-03,23-147,PHI,AWAY,LAC,L (-36),0,12:30,1,3,.333,0,0,,1,2,.500,4,3,7,0,0,0,1,1,3,3.2,-15,Furkan Aldemir
+2015-01-05,23-149,PHI,HOME,CLE,W (+3),0,19:05,0,0,,0,0,,0,0,,2,8,10,1,0,1,0,3,0,4.0,+9,Furkan Aldemir
+2015-01-07,23-151,PHI,HOME,MIL,L (-20),0,18:01,2,3,.667,0,0,,0,0,,2,4,6,0,0,0,1,3,4,3.1,+2,Furkan Aldemir
+2015-01-09,23-153,PHI,AWAY,BRK,W (+2),0,7:22,0,1,.000,0,0,,0,0,,1,1,2,1,1,0,2,5,0,-2.0,-3,Furkan Aldemir
+2015-01-10,23-154,PHI,HOME,IND,W (+1),0,6:01,0,1,.000,0,0,,0,0,,1,2,3,1,0,1,2,3,0,-1.2,+2,Furkan Aldemir
+2015-01-13,23-157,PHI,HOME,ATL,L (-18),0,8:44,0,1,.000,0,0,,2,2,1.000,1,2,3,0,0,1,0,1,2,2.9,0,Furkan Aldemir
+2015-01-14,23-158,PHI,AWAY,TOR,L (-16),0,14:50,1,1,1.000,0,0,,0,0,,1,4,5,1,0,0,0,2,2,3.5,-1,Furkan Aldemir
+2015-01-16,23-160,PHI,HOME,NOP,W (+15),0,2:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,0,Furkan Aldemir
+2015-01-17,23-161,PHI,AWAY,DET,L (-18),0,12:00,1,2,.500,0,0,,0,0,,1,4,5,1,1,0,0,2,2,3.8,+1,Furkan Aldemir
+2015-01-19,23-163,PHI,AWAY,WAS,L (-35),0,18:53,1,1,1.000,0,0,,0,0,,2,2,4,0,1,0,0,2,2,3.9,-31,Furkan Aldemir
+2015-01-21,23-165,PHI,HOME,NYK,L (-7),1,19:02,0,1,.000,0,0,,0,0,,2,3,5,0,0,3,0,2,0,2.9,-8,Furkan Aldemir
+2015-01-24,23-168,PHI,AWAY,MEM,L (-18),0,19:42,2,4,.500,0,0,,0,0,,5,6,11,3,3,0,1,2,4,10.6,+5,Furkan Aldemir
+2015-01-26,23-170,PHI,AWAY,NOP,L (-25),0,9:48,1,1,1.000,0,0,,0,0,,3,1,4,0,1,0,0,3,2,3.9,-4,Furkan Aldemir
+2015-01-31,23-175,PHI,AWAY,ATL,L (-6),0,2:59,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+6,Furkan Aldemir
+2015-02-20,23-195,PHI,HOME,IND,L (-11),0,3:35,1,1,1.000,0,0,,0,0,,3,1,4,0,0,0,0,1,2,3.7,+5,Furkan Aldemir
+2015-02-22,23-197,PHI,AWAY,ORL,L (-5),0,8:25,0,1,.000,0,0,,0,0,,3,0,3,0,1,0,1,1,0,1.0,-6,Furkan Aldemir
+2015-02-23,23-198,PHI,AWAY,MIA,L (-11),0,1:54,2,2,1.000,0,0,,0,0,,1,1,2,0,0,0,0,0,4,4.4,+3,Furkan Aldemir
+2015-03-02,23-205,PHI,HOME,TOR,L (-11),0,14:03,1,1,1.000,0,0,,0,0,,0,2,2,3,0,0,0,3,2,3.2,+1,Furkan Aldemir
+2015-03-06,23-209,PHI,HOME,UTA,L (-6),0,11:24,0,0,,0,0,,2,4,.500,1,0,1,2,0,1,0,2,2,3.2,+3,Furkan Aldemir
+2015-03-07,23-210,PHI,HOME,ATL,W (+8),0,18:10,0,2,.000,0,1,.000,0,2,.000,4,4,8,2,1,2,1,0,0,4.6,-8,Furkan Aldemir
+2015-03-11,23-214,PHI,HOME,CHI,L (-9),0,8:49,0,0,,0,0,,0,0,,1,1,2,0,0,1,0,1,0,1.3,+5,Furkan Aldemir
+2015-03-13,23-216,PHI,HOME,SAC,W (+7),0,5:44,0,0,,0,0,,0,0,,0,0,0,0,0,1,1,3,0,-1.5,-9,Furkan Aldemir
+2015-03-14,23-217,PHI,HOME,BRK,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Furkan Aldemir
+2015-03-18,23-221,PHI,HOME,DET,W (+11),0,9:29,1,2,.500,0,0,,0,0,,2,2,4,0,0,1,0,2,2,2.9,+1,Furkan Aldemir
+2015-03-20,23-223,PHI,HOME,NYK,W (+16),0,15:57,2,3,.667,0,0,,0,0,,2,7,9,0,0,0,1,3,4,4.0,+9,Furkan Aldemir
+2015-03-22,23-225,PHI,AWAY,LAL,L (-14),0,15:12,1,3,.333,0,0,,1,3,.333,3,2,5,0,0,1,0,2,3,3.1,-1,Furkan Aldemir
+2015-03-24,23-227,PHI,AWAY,SAC,L (-1),0,10:21,1,2,.500,0,1,.000,0,0,,1,1,2,1,1,0,0,4,2,2.1,+1,Furkan Aldemir
+2015-03-25,23-228,PHI,AWAY,DEN,W (+14),0,13:45,2,4,.500,0,0,,0,0,,4,2,6,1,2,0,0,3,4,6.9,-10,Furkan Aldemir
+2015-03-27,23-230,PHI,HOME,LAC,L (-21),0,12:00,0,0,,0,0,,0,2,.000,0,1,1,0,1,0,0,1,0,0.1,+5,Furkan Aldemir
+2015-03-29,23-232,PHI,AWAY,CLE,L (-1),1,26:33,5,6,.833,0,1,.000,1,2,.500,7,3,10,0,1,0,0,2,11,14.4,+5,Furkan Aldemir
+2015-03-30,23-233,PHI,HOME,LAL,L (-2),1,20:16,3,4,.750,0,0,,2,4,.500,1,4,5,1,0,0,1,6,8,4.8,-4,Furkan Aldemir
+2015-04-01,23-235,PHI,AWAY,WAS,L (-13),1,17:00,2,3,.667,0,0,,0,0,,0,3,3,1,0,0,0,4,4,2.7,-9,Furkan Aldemir
+2015-04-04,23-238,PHI,AWAY,CHO,L (-1),1,29:06,2,4,.500,0,0,,4,6,.667,2,4,6,2,0,2,0,4,8,9.0,-2,Furkan Aldemir
+2015-04-05,23-239,PHI,AWAY,NYK,L (-10),1,28:49,2,7,.286,0,2,.000,0,0,,5,4,9,2,0,0,0,4,4,4.4,+6,Furkan Aldemir
+2015-04-08,23-242,PHI,HOME,WAS,L (-29),1,13:08,1,3,.333,0,0,,0,0,,1,2,3,1,0,0,0,3,2,1.1,-17,Furkan Aldemir
+2015-04-11,23-245,PHI,AWAY,CHI,L (-7),1,25:15,1,2,.500,0,0,,0,0,,4,4,8,0,1,0,3,5,2,1.0,-13,Furkan Aldemir
+2015-04-13,23-247,PHI,HOME,MIL,L (-10),1,22:10,1,2,.500,0,0,,0,0,,2,3,5,3,0,0,1,4,2,2.8,-3,Furkan Aldemir
+2015-04-15,23-249,PHI,HOME,MIA,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Furkan Aldemir

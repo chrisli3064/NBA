@@ -1,0 +1,66 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+2000-11-01,32-154,MIA,HOME,ORL,W (+26),1,14:55,.906,1.000,0.0,20.4,11.4,0.0,0.0,4.7,42.0,14.0,100,77,1.9,-3.3,Duane Causwell
+2000-11-03,32-156,MIA,AWAY,CHH,L (-4),1,10:23,.200,.200,0.0,25.3,11.7,0.0,5.6,0.0,16.7,27.7,40,87,-0.5,-9.7,Duane Causwell
+2000-11-04,32-157,MIA,HOME,PHI,L (-2),1,18:00,.167,.167,0.0,36.4,18.6,0.0,0.0,9.4,25.0,22.2,27,89,-2.6,-17.7,Duane Causwell
+2000-11-08,32-161,MIA,HOME,SEA,W (+6),1,17:15,.286,.286,0.0,0.0,0.0,0.0,0.0,10.3,12.5,21.7,55,95,-1.3,-13.9,Duane Causwell
+2000-11-10,32-163,MIA,AWAY,UTA,W (+7),1,23:41,.667,.667,18.2,27.0,22.9,0.0,2.4,3.6,14.3,15.3,123,90,8.5,5.4,Duane Causwell
+2000-11-11,32-164,MIA,AWAY,PHO,L (-2),1,12:22,1.000,1.000,10.3,19.0,14.8,16.7,4.2,12.7,66.7,11.6,78,78,2.5,3.2,Duane Causwell
+2000-11-14,32-167,MIA,HOME,CHH,W (+3),1,36:00,.338,.375,3.6,25.1,15.1,0.0,1.5,4.1,18.4,15.8,58,84,2.7,-5.6,Duane Causwell
+2000-11-15,32-168,MIA,AWAY,NJN,L (-2),1,17:45,.667,.667,10.7,28.8,18.4,0.0,0.0,0.0,14.3,16.9,119,107,6.2,-0.6,Duane Causwell
+2000-11-17,32-170,MIA,AWAY,PHI,L (-21),1,23:32,.451,.500,15.0,18.2,16.4,0.0,0.0,6.1,0.0,16.0,105,110,5.6,-3.6,Duane Causwell
+2000-11-18,32-171,MIA,HOME,POR,W (+6),1,20:16,.167,.167,5.0,6.5,5.6,0.0,0.0,0.0,14.3,16.8,41,102,-2.6,-17.0,Duane Causwell
+2000-11-22,32-175,MIA,HOME,CLE,L (-19),1,21:45,.102,.000,4.5,12.5,7.8,0.0,0.0,3.8,17.0,13.4,27,104,-2.0,-14.8,Duane Causwell
+2000-11-24,32-177,MIA,AWAY,CLE,L (-5),1,24:37,.507,.500,21.7,25.8,23.4,0.0,0.0,0.0,10.1,19.6,106,105,7.1,-4.5,Duane Causwell
+2000-11-25,32-178,MIA,HOME,HOU,L (-11),0,3:16,1.000,1.000,0.0,50.0,21.6,0.0,0.0,0.0,0.0,17.2,200,110,1.6,11.1,Duane Causwell
+2000-11-28,32-181,MIA,HOME,MIL,L (-1),0,9:38,1.136,,0.0,0.0,0.0,0.0,5.5,7.4,0.0,4.3,250,112,3.3,5.6,Duane Causwell
+2000-11-29,32-182,MIA,AWAY,NYK,W (+3),0,5:11,,,0.0,18.8,11.3,0.0,0.0,13.9,100.0,10.3,0,84,-0.4,-5.5,Duane Causwell
+2000-12-01,32-184,MIA,HOME,UTA,L (-2),0,11:35,,,0.0,20.0,12.1,0.0,4.6,13.3,,0.0,0,92,1.4,6.6,Duane Causwell
+2000-12-05,32-188,MIA,AWAY,ATL,W (+8),1,17:59,.400,.400,0.0,29.6,15.0,0.0,3.2,0.0,16.7,16.7,70,102,0.9,-10.6,Duane Causwell
+2000-12-06,32-189,MIA,HOME,DEN,W (+17),0,4:50,1.000,1.000,0.0,0.0,0.0,0.0,10.3,0.0,66.7,26.2,42,73,0.7,-3.7,Duane Causwell
+2000-12-08,32-191,MIA,HOME,ATL,W (+4),1,11:06,.167,.167,10.1,21.3,15.6,0.0,0.0,0.0,0.0,28.1,46,93,-1.3,-21.9,Duane Causwell
+2000-12-15,32-198,MIA,AWAY,SEA,L (-18),0,5:06,.568,,22.9,26.7,24.6,0.0,0.0,0.0,0.0,16.4,135,110,1.8,0.1,Duane Causwell
+2000-12-19,32-202,MIA,HOME,LAL,L (-2),0,9:33,,,21.8,0.0,10.8,0.0,0.0,7.6,,0.0,208,101,0.9,-5.2,Duane Causwell
+2000-12-20,32-203,MIA,AWAY,CHH,L (-9),0,2:46,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,92,0.0,-4.4,Duane Causwell
+2000-12-22,32-205,MIA,HOME,CLE,W (+8),0,1:56,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,25.2,0,119,-2.2,-64.7,Duane Causwell
+2000-12-27,32-210,MIA,HOME,IND,W (+12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Duane Causwell
+2000-12-29,32-212,MIA,HOME,WAS,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Duane Causwell
+2000-12-30,32-213,MIA,AWAY,DET,W (+8),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Duane Causwell
+2001-01-18,32-232,MIA,AWAY,POR,L (-11),0,16:57,.436,.333,7.2,14.9,11.0,12.7,0.0,0.0,22.5,13.6,82,101,2.3,-3.2,Duane Causwell
+2001-01-21,32-235,MIA,AWAY,LAL,W (+11),0,5:49,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,107,-1.6,-15.3,Duane Causwell
+2001-02-02,32-247,MIA,AWAY,ATL,W (+11),0,8:46,.000,.000,0.0,12.1,6.0,0.0,0.0,0.0,0.0,9.9,0,95,-1.6,-15.1,Duane Causwell
+2001-02-17,32-262,MIA,AWAY,CHI,L (-7),0,2:17,.568,,0.0,0.0,0.0,80.0,0.0,0.0,0.0,20.2,144,108,1.3,23.3,Duane Causwell
+2001-02-21,32-266,MIA,HOME,PHO,L (-15),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Duane Causwell
+2001-02-28,32-273,MIA,AWAY,PHI,L (-10),0,8:32,.000,.000,0.0,10.3,5.6,0.0,0.0,0.0,0.0,5.8,0,99,-0.8,-9.8,Duane Causwell
+2001-03-09,32-282,MIA,HOME,MIN,W (+7),0,1:48,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,103,0.0,-3.1,Duane Causwell
+2001-03-12,32-285,MIA,AWAY,MIN,L (-17),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Duane Causwell
+2001-03-21,32-294,MIA,HOME,CHI,W (+28),0,8:21,.333,.333,18.2,18.2,18.2,0.0,0.0,0.0,25.0,24.5,68,100,0.3,-17.1,Duane Causwell
+2001-03-31,32-304,MIA,AWAY,CHI,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Duane Causwell
+2001-04-15,32-319,MIA,HOME,ORL,L (-17),0,7:00,,,0.0,72.2,34.3,52.7,0.0,0.0,100.0,6.7,58,91,0.4,2.4,Duane Causwell
+1999-11-04,31-157,MIA,AWAY,TOR,L (-11),0,1:45,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,116,0.0,-7.8,Duane Causwell
+1999-11-05,31-158,MIA,AWAY,CHI,W (+18),0,11:54,.000,.000,0.0,17.8,10.1,0.0,0.0,6.9,66.7,11.3,0,93,-3.0,-18.3,Duane Causwell
+1999-11-09,31-162,MIA,HOME,IND,W (+12),0,1:46,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,111,-0.8,-24.6,Duane Causwell
+1999-11-11,31-164,MIA,HOME,DAL,W (+23),0,7:30,.727,.667,17.1,11.5,13.8,0.0,0.0,7.6,22.5,23.0,117,95,4.0,1.2,Duane Causwell
+1999-11-17,31-170,MIA,AWAY,PHI,W (+5),0,8:32,.694,1.000,12.8,23.5,18.4,0.0,0.0,7.1,41.0,13.3,72,98,1.5,-5.3,Duane Causwell
+1999-11-20,31-173,MIA,HOME,BOS,W (+18),0,8:48,,,15.7,0.0,7.2,0.0,0.0,8.5,,0.0,218,107,1.0,-2.5,Duane Causwell
+1999-11-24,31-177,MIA,HOME,ATL,W (+2),0,15:14,1.042,1.000,0.0,35.6,17.8,0.0,3.5,8.8,41.0,15.1,105,83,6.5,4.3,Duane Causwell
+1999-11-29,31-182,MIA,HOME,SAC,W (+10),0,7:13,.725,.000,17.1,40.3,30.1,0.0,0.0,0.0,0.0,17.1,171,85,3.7,2.0,Duane Causwell
+1999-12-01,31-184,MIA,HOME,PHI,W (+7),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Duane Causwell
+1999-12-03,31-186,MIA,AWAY,BOS,L (-12),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Duane Causwell
+1999-12-07,31-190,MIA,AWAY,POR,W (+10),0,2:28,,,0.0,0.0,0.0,0.0,0.0,36.4,,0.0,0,68,0.7,11.5,Duane Causwell
+1999-12-29,31-212,MIA,AWAY,ORL,W (+3),0,6:52,.667,.667,0.0,13.2,8.0,0.0,0.0,15.9,0.0,19.1,124,99,3.6,6.3,Duane Causwell
+2000-01-02,31-216,MIA,HOME,ORL,W (+8),0,5:40,1.000,1.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.3,200,111,1.3,-0.7,Duane Causwell
+2000-01-06,31-220,MIA,HOME,HOU,W (+12),0,6:15,.543,.000,42.1,0.0,21.1,0.0,0.0,0.0,0.0,21.5,154,133,3.3,-2.4,Duane Causwell
+2000-01-21,31-235,MIA,HOME,ATL,W (+22),0,7:41,,,29.3,10.5,18.4,0.0,0.0,0.0,,0.0,200,94,1.3,-4.9,Duane Causwell
+2000-01-23,31-237,MIA,AWAY,HOU,L (-13),0,3:01,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,120,0.0,-11.1,Duane Causwell
+2000-01-25,31-239,MIA,HOME,BOS,W (+26),0,7:22,.694,.500,0.0,43.8,24.8,0.0,7.6,0.0,0.0,19.0,161,76,3.7,2.7,Duane Causwell
+2000-01-28,31-242,MIA,AWAY,TOR,L (-15),0,6:21,.174,.000,0.0,20.5,9.9,0.0,0.0,0.0,0.0,20.9,44,118,-0.9,-17.8,Duane Causwell
+2000-01-31,31-245,MIA,HOME,DET,W (+22),0,4:51,.500,.500,29.1,22.3,25.3,0.0,0.0,0.0,0.0,18.8,121,93,2.0,-2.5,Duane Causwell
+2000-02-15,31-260,MIA,HOME,LAC,W (+19),0,9:23,.565,.500,11.9,48.5,32.0,0.0,0.0,21.9,0.0,27.7,133,67,6.9,7.6,Duane Causwell
+2000-02-26,31-271,MIA,AWAY,WAS,W (+10),0,9:13,.568,,0.0,28.1,14.2,0.0,0.0,0.0,69.4,16.3,34,99,-2.4,-21.5,Duane Causwell
+2000-02-28,31-273,MIA,HOME,NYK,W (+9),1,7:02,.500,.500,0.0,0.0,0.0,26.2,0.0,10.5,50.0,29.4,57,101,0.4,-5.6,Duane Causwell
+2000-02-29,31-274,MIA,AWAY,SAS,L (-24),1,21:55,.543,.500,4.5,29.5,15.4,0.0,0.0,7.8,0.0,25.7,120,109,9.4,7.7,Duane Causwell
+2000-03-02,31-276,MIA,HOME,SEA,W (+18),0,10:07,.798,1.000,0.0,20.0,12.3,13.3,0.0,8.0,0.0,10.2,169,101,3.1,8.6,Duane Causwell
+2000-03-05,31-279,MIA,AWAY,LAL,L (-13),0,1:26,.568,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,43.3,123,112,0.6,5.3,Duane Causwell
+2000-03-06,31-280,MIA,AWAY,PHO,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Duane Causwell
+2000-04-18,31-323,MIA,HOME,TOR,W (+24),0,8:00,.773,.667,0.0,26.1,13.3,0.0,0.0,0.0,0.0,22.0,165,84,4.5,7.6,Duane Causwell
+2000-04-19,31-324,MIA,AWAY,CHH,L (-10),0,5:51,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,121,-0.8,-16.9,Duane Causwell

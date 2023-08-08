@@ -1,0 +1,84 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2018-03-03,27-163,LAL,AWAY,SAS,W (+4),0,12:54,3,6,.500,1,4,.250,0,0,,0,2,2,0,0,0,0,0,7,4.6,+18,Travis Wear
+2018-03-05,27-165,LAL,HOME,POR,L (-5),0,16:15,2,5,.400,1,4,.250,0,0,,0,6,6,0,0,3,0,4,5,4.6,-9,Travis Wear
+2018-03-07,27-167,LAL,HOME,ORL,W (+1),0,1:33,0,2,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.8,0,Travis Wear
+2018-03-09,27-169,LAL,AWAY,DEN,L (-9),0,8:45,2,5,.400,1,3,.333,0,0,,0,2,2,0,0,1,0,2,5,2.8,+5,Travis Wear
+2018-03-11,27-171,LAL,HOME,CLE,W (+14),0,12:08,2,3,.667,2,3,.667,0,0,,0,2,2,0,0,0,0,1,6,4.9,-4,Travis Wear
+2018-03-13,27-173,LAL,HOME,DEN,W (+9),0,12:43,1,3,.333,1,3,.333,0,0,,0,1,1,0,0,0,1,4,3,-1.0,+5,Travis Wear
+2018-03-14,27-174,LAL,AWAY,GSW,L (-11),0,15:40,1,6,.167,1,4,.250,2,2,1.000,0,1,1,1,0,0,0,3,5,1.0,+1,Travis Wear
+2018-03-16,27-176,LAL,HOME,MIA,L (-1),0,14:07,3,5,.600,3,3,1.000,2,2,1.000,0,2,2,0,0,0,1,1,11,7.9,-3,Travis Wear
+2018-03-19,27-179,LAL,AWAY,IND,L (-10),0,12:59,0,2,.000,0,2,.000,0,0,,0,4,4,0,0,0,1,2,0,-2.0,-1,Travis Wear
+2018-03-22,27-182,LAL,AWAY,NOP,L (-3),0,13:36,2,5,.400,2,4,.500,0,0,,0,2,2,1,1,0,1,3,6,3.4,-2,Travis Wear
+2018-03-24,27-184,LAL,AWAY,MEM,W (+7),0,19:15,4,10,.400,3,7,.429,0,0,,0,2,2,1,2,0,0,1,11,8.5,+14,Travis Wear
+2018-03-26,27-186,LAL,AWAY,DET,L (-6),0,17:04,0,2,.000,0,2,.000,4,4,1.000,0,4,4,0,0,0,0,0,4,3.8,-1,Travis Wear
+2018-03-28,27-188,LAL,HOME,DAL,W (+10),0,15:19,2,3,.667,1,2,.500,0,0,,0,2,2,1,0,0,0,1,5,4.6,+11,Travis Wear
+2018-04-06,27-197,LAL,HOME,MIN,L (-17),0,8:21,0,2,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.8,-6,Travis Wear
+2018-04-08,27-199,LAL,HOME,UTA,L (-15),0,17:49,1,5,.200,0,2,.000,0,0,,0,2,2,1,0,0,1,3,2,-2.0,-7,Travis Wear
+2018-04-10,27-201,LAL,HOME,HOU,L (-6),0,14:36,1,6,.167,1,4,.250,0,0,,0,4,4,2,1,1,1,1,3,2.1,-7,Travis Wear
+2018-04-11,27-202,LAL,AWAY,LAC,W (+15),0,14:44,1,2,.500,0,0,,0,0,,0,2,2,0,0,0,0,2,2,0.8,-2,Travis Wear
+2014-10-29,24-038,NYK,HOME,CHI,L (-24),0,5:52,1,3,.333,0,0,,0,0,,0,0,0,0,0,0,2,0,2,-1.7,-6,Travis Wear
+2014-10-30,24-039,NYK,AWAY,CLE,W (+5),0,13:05,0,1,.000,0,0,,2,2,1.000,0,2,2,2,0,0,1,1,2,1.9,+1,Travis Wear
+2014-11-04,24-044,NYK,HOME,WAS,L (-15),0,2:40,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-2,Travis Wear
+2014-11-05,24-045,NYK,AWAY,DET,L (-3),0,5:18,1,3,.333,0,0,,0,0,,0,0,0,0,0,0,0,1,2,-0.1,-3,Travis Wear
+2014-11-07,24-047,NYK,AWAY,BRK,L (-11),0,13:29,0,4,.000,0,1,.000,0,0,,0,1,1,1,0,0,1,1,0,-3.2,+2,Travis Wear
+2014-11-12,24-052,NYK,HOME,ORL,L (-2),0,5:16,0,2,.000,0,0,,0,0,,1,0,1,0,0,0,0,2,0,-1.5,-5,Travis Wear
+2014-11-14,24-054,NYK,HOME,UTA,L (-2),0,15:27,3,5,.600,0,0,,0,0,,2,2,4,1,0,0,1,2,6,4.6,+10,Travis Wear
+2014-11-16,24-056,NYK,HOME,DEN,W (+16),0,11:39,1,3,.333,0,0,,2,2,1.000,1,0,1,0,0,1,1,1,4,2.3,-3,Travis Wear
+2014-11-18,24-058,NYK,AWAY,MIL,L (-4),0,11:59,3,7,.429,0,0,,0,0,,0,0,0,1,0,0,0,2,6,2.2,-9,Travis Wear
+2014-11-19,24-059,NYK,AWAY,MIN,L (-16),0,22:18,2,6,.333,0,0,,4,5,.800,2,6,8,3,0,0,2,1,8,7.1,+8,Travis Wear
+2014-11-22,24-062,NYK,HOME,PHI,W (+8),0,0:44,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3,Travis Wear
+2014-11-24,24-064,NYK,AWAY,HOU,L (-5),0,17:16,4,7,.571,0,1,.000,1,2,.500,1,1,2,2,0,0,0,1,9,7.3,-1,Travis Wear
+2014-11-26,24-066,NYK,AWAY,DAL,L (-7),0,2:55,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,2,2.0,+7,Travis Wear
+2014-11-28,24-068,NYK,AWAY,OKC,L (-27),0,15:20,1,1,1.000,0,0,,0,0,,0,1,1,2,1,0,1,0,2,3.4,+11,Travis Wear
+2014-11-30,24-070,NYK,HOME,MIA,L (-7),0,8:51,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.0,+6,Travis Wear
+2014-12-02,24-072,NYK,HOME,BRK,L (-5),0,6:01,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,1,2,1.3,+2,Travis Wear
+2014-12-05,24-075,NYK,AWAY,CHO,L (-1),0,3:59,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,-2,Travis Wear
+2014-12-10,24-080,NYK,AWAY,SAS,L (-14),0,19:42,3,5,.600,0,1,.000,0,0,,1,1,2,1,0,0,0,3,6,4.2,+5,Travis Wear
+2014-12-14,24-084,NYK,HOME,TOR,L (-5),0,6:04,0,0,,0,0,,0,0,,0,1,1,0,0,0,2,1,0,-2.1,-1,Travis Wear
+2014-12-16,24-086,NYK,HOME,DAL,L (-20),0,7:41,2,5,.400,0,0,,0,0,,0,0,0,1,0,0,0,2,4,1.2,-1,Travis Wear
+2014-12-18,24-088,NYK,AWAY,CHI,L (-6),1,25:33,4,7,.571,0,0,,0,0,,0,4,4,0,1,0,1,3,8,4.7,-11,Travis Wear
+2014-12-20,24-090,NYK,HOME,PHO,L (-9),0,10:05,1,4,.250,0,0,,0,0,,0,1,1,0,0,0,0,1,2,-0.5,-4,Travis Wear
+2014-12-21,24-091,NYK,AWAY,TOR,L (-10),0,13:44,2,5,.400,0,0,,2,2,1.000,2,0,2,1,1,1,1,1,6,5.7,+4,Travis Wear
+2014-12-25,24-095,NYK,HOME,WAS,L (-11),0,3:33,0,0,,0,0,,0,0,,0,1,1,1,0,0,0,0,0,1.0,-3,Travis Wear
+2014-12-27,24-097,NYK,AWAY,SAC,L (-6),0,14:53,2,4,.500,0,0,,0,0,,0,2,2,0,0,1,0,0,4,3.3,-1,Travis Wear
+2014-12-28,24-098,NYK,AWAY,POR,L (-22),0,20:51,2,4,.500,0,0,,0,0,,0,1,1,0,0,0,1,2,4,0.5,-7,Travis Wear
+2014-12-31,24-101,NYK,AWAY,LAC,L (-21),0,1:39,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-5,Travis Wear
+2015-01-02,24-103,NYK,HOME,DET,L (-16),0,26:13,4,12,.333,1,3,.333,0,0,,1,1,2,2,2,0,1,0,9,5.6,0,Travis Wear
+2015-01-04,24-105,NYK,HOME,MIL,L (-13),0,15:29,2,5,.400,1,3,.333,0,0,,0,1,1,2,0,1,2,1,5,2.3,-2,Travis Wear
+2015-01-05,24-106,NYK,AWAY,MEM,L (-22),0,21:34,2,7,.286,0,1,.000,0,0,,1,4,5,2,2,0,2,1,4,2.8,+1,Travis Wear
+2015-01-07,24-108,NYK,AWAY,WAS,L (-10),0,17:46,4,7,.571,3,5,.600,0,0,,2,3,5,0,1,0,2,2,11,8.2,+10,Travis Wear
+2015-01-08,24-109,NYK,HOME,HOU,L (-24),0,26:15,9,16,.563,3,6,.500,0,0,,0,5,5,1,1,1,3,3,21,13.1,+1,Travis Wear
+2015-01-10,24-111,NYK,HOME,CHO,L (-28),0,30:18,3,9,.333,0,2,.000,0,0,,0,5,5,2,0,1,1,2,6,2.7,-12,Travis Wear
+2015-01-15,24-116,NYK,AWAY,MIL,L (-16),0,21:21,5,8,.625,1,1,1.000,2,3,.667,1,3,4,0,0,0,0,3,13,9.4,+5,Travis Wear
+2015-01-19,24-120,NYK,HOME,NOP,W (+7),0,4:28,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,-3,Travis Wear
+2015-01-21,24-122,NYK,AWAY,PHI,W (+7),0,8:17,0,1,.000,0,0,,0,0,,2,0,2,2,0,0,1,0,0,1.1,-1,Travis Wear
+2015-01-24,24-125,NYK,AWAY,CHO,L (-5),0,9:30,1,4,.250,0,0,,0,0,,0,0,0,1,0,0,0,3,2,-0.9,-6,Travis Wear
+2015-01-28,24-129,NYK,HOME,OKC,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Travis Wear
+2015-01-29,24-130,NYK,AWAY,IND,L (-21),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Travis Wear
+2015-02-01,24-133,NYK,HOME,LAL,W (+12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Travis Wear
+2015-02-07,24-139,NYK,HOME,GSW,L (-14),0,2:23,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-7,Travis Wear
+2015-02-20,24-152,NYK,HOME,MIA,L (-24),0,16:32,2,5,.400,0,0,,0,0,,1,2,3,3,2,3,1,1,4,7.4,-8,Travis Wear
+2015-02-22,24-154,NYK,HOME,CLE,L (-18),0,19:05,5,9,.556,0,0,,0,0,,4,2,6,0,1,0,1,1,10,8.7,+2,Travis Wear
+2015-02-27,24-159,NYK,AWAY,DET,W (+6),0,6:20,0,1,.000,0,0,,0,0,,0,2,2,0,0,0,0,0,0,-0.1,+1,Travis Wear
+2015-03-03,24-163,NYK,HOME,SAC,L (-38),0,9:24,1,3,.333,1,1,1.000,2,2,1.000,0,1,1,0,0,0,0,1,5,3.2,-4,Travis Wear
+2015-03-07,24-167,NYK,HOME,IND,L (-6),0,5:14,1,2,.500,0,0,,0,0,,0,1,1,0,0,0,1,0,2,0.3,0,Travis Wear
+2015-03-09,24-169,NYK,AWAY,DEN,L (-28),0,20:12,0,5,.000,0,1,.000,1,2,.500,0,4,4,1,0,0,2,0,1,-3.0,-19,Travis Wear
+2015-03-10,24-170,NYK,AWAY,UTA,L (-5),0,11:16,0,2,.000,0,0,,0,0,,0,0,0,1,0,0,0,0,0,-0.7,0,Travis Wear
+2015-03-14,24-174,NYK,AWAY,GSW,L (-31),0,17:25,3,11,.273,0,2,.000,1,2,.500,4,4,8,2,0,1,0,2,7,5.4,-2,Travis Wear
+2015-03-15,24-175,NYK,AWAY,PHO,L (-13),0,22:18,3,7,.429,1,1,1.000,0,0,,0,3,3,0,0,0,0,0,7,4.2,-10,Travis Wear
+2015-03-17,24-177,NYK,HOME,SAS,W (+4),0,22:39,2,4,.500,0,1,.000,2,2,1.000,0,3,3,1,1,0,1,4,6,4.0,+2,Travis Wear
+2015-03-19,24-179,NYK,HOME,MIN,L (-3),0,12:26,1,2,.500,0,0,,0,0,,0,1,1,1,1,0,1,3,2,0.8,0,Travis Wear
+2015-03-20,24-180,NYK,AWAY,PHI,L (-16),0,30:12,0,2,.000,0,0,,1,2,.500,1,3,4,2,1,1,1,0,1,2.9,-7,Travis Wear
+2015-03-22,24-182,NYK,AWAY,TOR,L (-17),0,9:27,1,4,.250,0,0,,0,0,,4,1,5,1,0,0,0,0,2,3.4,-10,Travis Wear
+2015-03-23,24-183,NYK,HOME,MEM,L (-21),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Travis Wear
+2015-03-25,24-185,NYK,HOME,LAC,L (-31),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Travis Wear
+2015-03-27,24-187,NYK,HOME,BOS,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Travis Wear
+2015-03-28,24-188,NYK,AWAY,CHI,L (-31),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Travis Wear
+2015-04-01,24-192,NYK,HOME,BRK,L (-2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Travis Wear
+2015-04-03,24-194,NYK,AWAY,WAS,L (-14),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Travis Wear
+2015-04-05,24-196,NYK,HOME,PHI,W (+10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Travis Wear
+2015-04-08,24-199,NYK,HOME,IND,L (-16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Travis Wear
+2015-04-10,24-201,NYK,HOME,MIL,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Travis Wear
+2015-04-11,24-202,NYK,AWAY,ORL,W (+1),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Travis Wear
+2015-04-13,24-204,NYK,AWAY,ATL,W (+4),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Travis Wear
+2015-04-15,24-206,NYK,HOME,DET,L (-22),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Travis Wear

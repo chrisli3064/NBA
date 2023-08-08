@@ -1,0 +1,65 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2002-04-20,26-179,NJN,HOME,IND,L (-6),1,34:39,4,13,0.308,1,4,0.25,1,2,0.5,0,4,4,1,1,1,0,2,10,4.9,-7,Keith Van Horn
+2002-04-22,26-181,NJN,HOME,IND,W (+16),1,34:00,6,16,0.375,2,6,0.333,3,3,1.0,1,4,5,0,3,0,3,3,17,8.9,20,Keith Van Horn
+2002-04-26,26-185,NJN,AWAY,IND,W (+1),1,37:11,5,15,0.333,1,3,0.333,3,5,0.6,3,9,12,1,1,1,2,3,14,8.7,2,Keith Van Horn
+2002-04-30,26-189,NJN,AWAY,IND,L (-23),1,21:36,2,4,0.5,1,2,0.5,0,0,,1,3,4,2,0,1,2,3,5,3.5,-14,Keith Van Horn
+2002-05-02,26-191,NJN,HOME,IND,W (+11),1,34:01,9,19,0.474,5,8,0.625,4,7,0.571,2,4,6,1,1,0,0,6,27,18.0,9,Keith Van Horn
+2002-05-05,26-194,NJN,HOME,CHH,W (+6),1,29:39,4,8,0.5,1,3,0.333,2,2,1.0,0,5,5,3,1,0,2,2,11,8.8,5,Keith Van Horn
+2002-05-07,26-196,NJN,HOME,CHH,W (+14),1,36:27,8,16,0.5,4,6,0.667,0,0,,2,9,11,5,1,1,3,2,20,17.5,11,Keith Van Horn
+2002-05-09,26-198,NJN,AWAY,CHH,L (-18),1,25:43,3,8,0.375,1,2,0.5,5,6,0.833,1,5,6,3,0,1,3,2,12,8.4,-12,Keith Van Horn
+2002-05-12,26-201,NJN,AWAY,CHH,W (+10),1,35:42,7,12,0.583,2,5,0.4,0,2,0.0,5,6,11,1,0,0,1,1,16,14.2,14,Keith Van Horn
+2002-05-15,26-204,NJN,HOME,CHH,W (+8),1,35:35,5,14,0.357,3,5,0.6,3,3,1.0,1,6,7,3,1,0,1,3,16,11.6,14,Keith Van Horn
+2002-05-19,26-208,NJN,HOME,BOS,W (+7),1,34:03,6,14,0.429,2,5,0.4,0,0,,1,6,7,4,2,0,3,1,14,10.5,1,Keith Van Horn
+2002-05-21,26-210,NJN,HOME,BOS,L (-7),1,33:21,2,12,0.167,1,4,0.25,0,0,,0,8,8,1,0,2,2,3,5,-1.3,-2,Keith Van Horn
+2002-05-25,26-214,NJN,AWAY,BOS,L (-4),1,18:30,3,6,0.5,0,1,0.0,0,0,,1,3,4,1,0,0,0,4,6,3.7,-11,Keith Van Horn
+2002-05-27,26-216,NJN,AWAY,BOS,W (+2),1,39:12,7,17,0.412,3,7,0.429,4,6,0.667,4,6,10,3,0,1,4,2,21,13.7,2,Keith Van Horn
+2002-05-29,26-218,NJN,HOME,BOS,W (+11),1,36:38,6,15,0.4,4,7,0.571,3,3,1.0,1,3,4,3,4,0,0,1,19,18.2,17,Keith Van Horn
+2002-05-31,26-220,NJN,AWAY,BOS,W (+8),1,33:57,3,8,0.375,1,4,0.25,4,6,0.667,2,4,6,0,2,0,1,3,11,8.2,2,Keith Van Horn
+2002-06-05,26-225,NJN,AWAY,LAL,L (-5),1,35:08,5,14,0.357,2,6,0.333,0,0,,2,4,6,1,0,0,4,6,12,1.1,-12,Keith Van Horn
+2002-06-07,26-227,NJN,AWAY,LAL,L (-23),1,24:24,3,9,0.333,0,1,0.0,3,4,0.75,4,4,8,1,2,0,0,2,9,9.4,-15,Keith Van Horn
+2002-06-09,26-229,NJN,HOME,LAL,L (-3),1,31:14,6,14,0.429,2,4,0.5,0,0,,0,5,5,3,0,1,0,5,14,8.9,-21,Keith Van Horn
+2002-06-12,26-232,NJN,HOME,LAL,L (-6),1,30:55,3,7,0.429,1,1,1.0,0,0,,1,3,4,4,0,0,1,2,7,5.9,-20,Keith Van Horn
+2006-05-17,30-206,DAL,AWAY,SAS,L (-1),0,2:54,0,0,,0,0,,0,0,,0,1,1,0,0,1,1,4,0,-1.6,+2,Keith Van Horn
+2006-05-19,30-208,DAL,HOME,SAS,L (-5),0,13:45,3,7,.429,2,4,.500,2,2,1.000,0,1,1,0,0,0,0,4,10,5.0,+6,Keith Van Horn
+2006-05-22,30-211,DAL,AWAY,SAS,W (+8),0,13:17,3,7,.429,3,5,.600,0,0,,0,2,2,0,0,1,1,6,9,3.2,-3,Keith Van Horn
+2006-05-24,30-213,DAL,HOME,PHO,L (-3),0,23:03,3,11,.273,1,7,.143,0,0,,2,3,5,0,0,1,0,3,7,2.3,-1,Keith Van Horn
+2006-05-26,30-215,DAL,HOME,PHO,W (+7),1,15:42,1,4,.250,0,2,.000,0,0,,0,1,1,2,0,0,0,0,2,1.3,-7,Keith Van Horn
+2006-05-28,30-217,DAL,AWAY,PHO,W (+7),1,21:48,2,7,.286,0,1,.000,1,1,1.000,4,3,7,0,0,0,1,0,5,3.6,+5,Keith Van Horn
+2006-05-30,30-219,DAL,AWAY,PHO,L (-20),1,23:38,3,7,.429,1,2,.500,0,0,,0,5,5,0,0,1,0,1,7,5.1,-10,Keith Van Horn
+2006-06-01,30-221,DAL,HOME,PHO,W (+16),0,15:19,2,4,.500,0,0,,0,0,,1,2,3,0,0,0,0,1,4,2.9,-1,Keith Van Horn
+2006-06-03,30-223,DAL,AWAY,PHO,W (+9),0,3:36,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-0.4,-6,Keith Van Horn
+2006-06-08,30-228,DAL,HOME,MIA,W (+10),0,10:53,1,2,.500,0,0,,0,0,,0,2,2,0,0,0,0,0,2,1.6,+3,Keith Van Horn
+2006-06-11,30-231,DAL,HOME,MIA,W (+14),0,10:19,2,3,.667,1,2,.500,0,0,,0,0,0,0,0,0,1,1,5,2.3,-8,Keith Van Horn
+2006-06-13,30-233,DAL,AWAY,MIA,L (-2),0,8:32,0,2,.000,0,2,.000,0,0,,0,2,2,0,0,0,2,2,0,-3.6,-10,Keith Van Horn
+2006-06-15,30-235,DAL,AWAY,MIA,L (-24),0,4:57,0,3,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-1.8,-7,Keith Van Horn
+2006-06-18,30-238,DAL,AWAY,MIA,L (-1),0,4:31,0,1,.000,0,1,.000,0,0,,1,0,1,0,0,0,0,2,0,-0.8,-7,Keith Van Horn
+2003-04-20,27-179,PHI,HOME,NOH,W (+8),1,31:43,1,8,0.125,1,3,0.333,0,0,,3,7,10,2,1,0,5,2,3,-1.4,3,Keith Van Horn
+2003-04-23,27-182,PHI,HOME,NOH,W (+5),1,25:27,5,11,0.455,1,1,1.0,0,0,,2,0,2,0,0,1,1,3,11,5.2,-7,Keith Van Horn
+2003-04-26,27-185,PHI,AWAY,NOH,L (-14),1,24:07,3,8,0.375,1,2,0.5,5,5,1.0,3,6,9,1,0,0,1,3,12,10.0,3,Keith Van Horn
+2003-04-28,27-187,PHI,AWAY,NOH,W (+9),1,42:50,5,12,0.417,1,3,0.333,2,2,1.0,4,3,7,0,3,0,4,3,13,8.1,13,Keith Van Horn
+2003-04-30,27-189,PHI,HOME,NOH,L (-2),1,41:27,6,15,0.4,2,5,0.4,7,8,0.875,0,4,4,2,1,0,1,1,21,14.7,3,Keith Van Horn
+2003-05-02,27-191,PHI,AWAY,NOH,W (+4),1,40:37,6,14,0.429,3,7,0.429,3,3,1.0,5,13,18,0,1,1,1,4,18,17.1,-6,Keith Van Horn
+2003-05-06,27-195,PHI,AWAY,DET,L (-11),1,25:55,2,7,0.286,1,2,0.5,4,6,0.667,1,5,6,0,0,0,1,3,9,4.1,-2,Keith Van Horn
+2003-05-08,27-197,PHI,AWAY,DET,L (-7),1,25:05,3,4,0.75,1,1,1.0,2,2,1.0,2,1,3,1,0,0,1,5,9,6.8,-8,Keith Van Horn
+2003-05-10,27-199,PHI,HOME,DET,W (+10),1,36:05,6,10,0.6,3,4,0.75,2,2,1.0,0,6,6,1,1,0,3,4,17,11.3,21,Keith Van Horn
+2003-05-11,27-200,PHI,HOME,DET,W (+13),1,34:29,2,7,0.286,0,3,0.0,2,2,1.0,1,5,6,1,2,0,1,3,6,4.6,15,Keith Van Horn
+2003-05-14,27-203,PHI,AWAY,DET,L (-1),1,29:25,2,10,0.2,0,0,,0,0,,2,7,9,1,0,0,3,4,4,-2.6,0,Keith Van Horn
+2003-05-16,27-205,PHI,HOME,DET,L (-4),1,45:00,1,4,0.25,0,1,0.0,0,0,,1,9,10,0,1,0,4,6,2,-2.4,11,Keith Van Horn
+2004-04-18,28-178,MIL,AWAY,DET,L (-26),0,31:32,3,11,0.273,1,4,0.25,1,1,1.0,0,5,5,3,0,1,3,2,8,2.0,-14,Keith Van Horn
+2004-04-21,28-181,MIL,AWAY,DET,W (+4),0,19:26,1,8,0.125,0,0,,0,1,0.0,1,0,1,1,1,1,1,2,2,-2.3,-1,Keith Van Horn
+2004-04-24,28-184,MIL,HOME,DET,L (-10),0,15:37,2,6,0.333,1,2,0.5,3,4,0.75,1,1,2,1,2,0,2,4,8,4.3,1,Keith Van Horn
+2004-04-26,28-186,MIL,HOME,DET,L (-17),1,36:38,5,13,0.385,1,2,0.5,0,0,,1,2,3,1,2,1,3,2,11,4.8,-19,Keith Van Horn
+2004-04-29,28-189,MIL,AWAY,DET,L (-14),1,34:41,5,10,0.5,1,3,0.333,0,0,,2,10,12,1,2,0,1,5,11,10.1,-10,Keith Van Horn
+2005-04-23,29-182,DAL,HOME,HOU,L (-12),0,15:31,2,7,.286,0,2,.000,1,2,.500,2,3,5,1,0,0,0,1,5,3.1,-2,Keith Van Horn
+2005-04-25,29-184,DAL,HOME,HOU,L (-2),0,12:12,5,6,.833,0,1,.000,3,3,1.000,0,0,0,0,1,0,1,5,13,8.8,+6,Keith Van Horn
+2005-04-28,29-187,DAL,AWAY,HOU,W (+4),0,6:14,0,2,.000,0,1,.000,4,4,1.000,1,0,1,0,0,0,0,0,4,3.3,+4,Keith Van Horn
+2005-04-30,29-189,DAL,AWAY,HOU,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Keith Van Horn
+2005-05-02,29-191,DAL,HOME,HOU,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Keith Van Horn
+2005-05-05,29-194,DAL,AWAY,HOU,L (-18),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Keith Van Horn
+2005-05-07,29-196,DAL,HOME,HOU,W (+40),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Keith Van Horn
+2005-05-09,29-198,DAL,AWAY,PHO,L (-25),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Keith Van Horn
+2005-05-11,29-200,DAL,AWAY,PHO,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Keith Van Horn
+2005-05-13,29-202,DAL,HOME,PHO,L (-17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Keith Van Horn
+2005-05-15,29-204,DAL,HOME,PHO,W (+10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Keith Van Horn
+2005-05-18,29-207,DAL,AWAY,PHO,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Keith Van Horn
+2005-05-20,29-209,DAL,HOME,PHO,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Keith Van Horn

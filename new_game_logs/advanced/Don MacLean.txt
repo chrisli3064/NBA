@@ -1,0 +1,48 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+2000-11-01,30-290,MIA,HOME,ORL,W (+26),0,22:01,.926,.917,11.8,13.9,13.0,8.1,4.3,0.0,36.7,27.4,114,74,11.8,7.2,Don MacLean
+2000-11-03,30-292,MIA,AWAY,CHH,L (-4),0,10:36,.333,.333,9.9,11.5,10.6,0.0,0.0,0.0,40.0,21.0,48,104,-1.1,-16.6,Don MacLean
+2000-11-04,30-293,MIA,HOME,PHI,L (-2),0,11:00,.340,.300,20.8,29.8,25.4,0.0,5.2,7.7,14.5,31.2,75,83,3.1,2.2,Don MacLean
+2000-11-14,30-303,MIA,HOME,CHH,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Don MacLean
+2000-11-15,30-304,MIA,AWAY,NJN,L (-2),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Don MacLean
+2000-11-18,30-307,MIA,HOME,POR,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Don MacLean
+2000-11-22,30-311,MIA,HOME,CLE,L (-19),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Don MacLean
+2000-11-25,30-314,MIA,HOME,HOU,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Don MacLean
+2000-11-28,30-317,MIA,HOME,MIL,L (-1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Don MacLean
+2000-11-29,30-318,MIA,AWAY,NYK,W (+3),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Don MacLean
+2000-12-01,30-320,MIA,HOME,UTA,L (-2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Don MacLean
+2000-12-05,30-324,MIA,AWAY,ATL,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Don MacLean
+2000-12-06,30-325,MIA,HOME,DEN,W (+17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Don MacLean
+2000-12-08,30-327,MIA,HOME,ATL,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Don MacLean
+2000-12-10,30-329,MIA,AWAY,SAC,L (-4),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Don MacLean
+2000-12-12,30-331,MIA,AWAY,DEN,W (+11),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Don MacLean
+2000-12-13,30-332,MIA,AWAY,LAC,W (+6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Don MacLean
+2000-12-15,30-334,MIA,AWAY,SEA,L (-18),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Don MacLean
+2000-12-16,30-335,MIA,AWAY,GSW,W (+8),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Don MacLean
+2000-12-19,30-338,MIA,HOME,LAL,L (-2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Don MacLean
+2000-12-22,30-341,MIA,HOME,CLE,W (+8),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Don MacLean
+2000-12-23,30-342,MIA,AWAY,NJN,W (+6),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Don MacLean
+2000-12-27,30-346,MIA,HOME,IND,W (+12),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Don MacLean
+2000-12-29,30-348,MIA,HOME,WAS,W (+7),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Don MacLean
+2001-01-30,31-014,MIA,AWAY,HOU,W (+18),0,2:30,1.000,1.000,100.0,0.0,54.5,100.0,0.0,0.0,50.0,48.0,136,107,2.8,28.1,Don MacLean
+2001-02-21,31-036,MIA,HOME,PHO,L (-15),0,4:27,1.136,,0.0,30.0,15.4,0.0,13.6,0.0,0.0,11.1,250,85,2.9,16.1,Don MacLean
+2001-03-12,31-055,MIA,AWAY,MIN,L (-17),1,16:04,.307,.250,0.0,5.9,2.8,10.3,0.0,0.0,17.0,16.4,63,114,-0.6,-12.0,Don MacLean
+2001-03-14,31-057,MIA,HOME,SAC,W (+10),0,2:55,,,0.0,33.3,16.3,0.0,0.0,0.0,,0.0,0,112,0.3,-6.5,Don MacLean
+2001-03-17,31-060,MIA,HOME,VAN,W (+14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Don MacLean
+2001-03-21,31-064,MIA,HOME,CHI,W (+28),0,6:49,1.000,1.000,0.0,20.8,10.4,18.5,8.1,0.0,0.0,7.0,205,82,3.7,17.8,Don MacLean
+2001-04-18,31-092,MIA,AWAY,ORL,W (+12),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Don MacLean
+2000-03-14,30-058,PHO,HOME,MIN,W (+7),0,7:18,.000,.000,0.0,17.6,8.6,0.0,0.0,0.0,0.0,6.1,0,107,-0.4,-8.4,Don MacLean
+2000-03-17,30-061,PHO,AWAY,VAN,W (+15),0,14:30,.222,.222,0.0,16.8,7.8,17.5,0.0,0.0,10.0,26.4,55,94,-2.1,-17.5,Don MacLean
+2000-03-19,30-063,PHO,AWAY,GSW,W (+17),0,10:13,.174,.000,0.0,16.6,9.4,13.0,0.0,6.1,41.0,21.1,34,82,-2.8,-19.7,Don MacLean
+2000-03-20,30-064,PHO,HOME,BOS,W (+4),0,7:49,.333,.333,0.0,23.1,12.5,0.0,6.2,0.0,0.0,16.0,70,94,1.1,-5.3,Don MacLean
+2000-03-22,30-066,PHO,HOME,SAC,W (+21),0,11:41,.200,.200,0.0,15.4,9.1,0.0,3.9,0.0,0.0,16.6,56,89,0.1,-11.3,Don MacLean
+2000-03-28,30-072,PHO,AWAY,MIA,L (-3),0,16:18,.500,.500,5.6,10.0,7.1,13.6,0.0,0.0,0.0,5.7,131,102,2.3,0.6,Don MacLean
+2000-03-30,30-074,PHO,AWAY,ATL,W (+44),0,18:34,.591,.591,12.3,15.8,14.2,7.5,0.0,0.0,8.3,27.9,117,87,8.5,-4.6,Don MacLean
+2000-03-31,30-075,PHO,AWAY,DET,W (+1),0,13:08,.717,.625,9.2,0.0,4.3,12.5,0.0,0.0,17.0,21.5,127,124,5.0,1.6,Don MacLean
+2000-04-02,30-077,PHO,AWAY,MIN,W (+1),0,2:55,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,31.0,0,106,-1.7,-35.8,Don MacLean
+2000-04-04,30-079,PHO,HOME,LAL,L (-1),0,5:40,.667,.667,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.8,125,99,2.7,8.7,Don MacLean
+2000-04-06,30-081,PHO,AWAY,UTA,L (-20),0,9:51,.644,.667,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.5,129,126,3.3,3.6,Don MacLean
+2000-04-11,30-086,PHO,AWAY,LAC,W (+7),0,5:28,.000,.000,23.4,20.9,22.1,0.0,0.0,0.0,50.0,18.1,30,96,-1.1,-19.0,Don MacLean
+2000-04-12,30-087,PHO,HOME,VAN,W (+6),0,4:21,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.7,0,127,-0.7,-17.3,Don MacLean
+2000-04-14,30-089,PHO,HOME,LAC,W (+24),0,5:05,,,0.0,19.2,10.3,0.0,0.0,0.0,,0.0,0,93,-0.5,-11.1,Don MacLean
+2000-04-16,30-091,PHO,HOME,UTA,L (-14),0,3:15,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.3,0,118,-1.1,-23.7,Don MacLean
+2000-04-19,30-094,PHO,AWAY,GSW,W (+11),0,5:47,.500,.500,21.6,30.8,27.0,51.6,0.0,0.0,33.3,21.6,103,85,1.5,-1.4,Don MacLean

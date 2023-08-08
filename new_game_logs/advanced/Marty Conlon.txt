@@ -1,0 +1,8 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+1999-12-19,31-334,LAC,AWAY,VAN,L (-1),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Marty Conlon
+1999-12-22,31-337,LAC,AWAY,GSW,W (+4),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Marty Conlon
+1999-12-23,31-338,LAC,HOME,SAC,W (+6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Marty Conlon
+1999-12-26,31-341,LAC,HOME,BOS,W (+3),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Marty Conlon
+1999-12-28,31-343,LAC,AWAY,DEN,L (-23),0,2:53,1.000,1.000,33.3,0.0,18.0,0.0,0.0,0.0,0.0,14.0,204,137,2.0,3.1,Marty Conlon
+1999-12-30,31-345,LAC,AWAY,HOU,L (-22),0,4:02,.000,.000,0.0,27.9,14.1,0.0,0.0,0.0,0.0,10.9,0,125,-0.4,-17.5,Marty Conlon
+2000-01-04,31-350,LAC,HOME,LAL,L (-24),0,2:11,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,129,0.0,-8.5,Marty Conlon

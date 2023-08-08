@@ -1,0 +1,16 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2018-10-20,20-003,IND,HOME,BRK,W (+20),0,2:51,0,2,.000,0,0,,0,0,,0,1,1,0,0,1,1,0,0,-1.4,-6,Ike Anigbogu
+2018-11-23,20-037,IND,HOME,SAS,L (-11),0,1:14,0,1,.000,0,0,,0,0,,1,0,1,1,0,0,0,0,0,0.7,+2,Ike Anigbogu
+2018-11-26,20-040,IND,AWAY,UTA,W (+33),0,2:04,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+2,Ike Anigbogu
+2017-10-20,19-003,IND,HOME,POR,L (-18),0,2:24,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+5,Ike Anigbogu
+2017-10-24,19-007,IND,AWAY,MIN,W (+23),0,2:12,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,+2,Ike Anigbogu
+2017-10-25,19-008,IND,AWAY,OKC,L (-18),0,2:22,0,1,.000,0,0,,0,0,,1,0,1,0,1,0,1,0,0,0.0,-1,Ike Anigbogu
+2017-10-31,19-014,IND,HOME,SAC,W (+18),0,4:55,1,2,.500,0,0,,2,2,1.000,1,0,1,0,0,1,0,1,4,4.0,-7,Ike Anigbogu
+2017-11-10,19-024,IND,AWAY,CHI,W (+18),0,1:45,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-1,Ike Anigbogu
+2017-11-12,19-026,IND,HOME,HOU,L (-23),0,3:32,0,2,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-1.1,0,Ike Anigbogu
+2017-12-31,19-075,IND,HOME,MIN,L (-17),0,3:47,2,3,.667,0,0,,3,4,.750,3,1,4,0,0,1,0,0,7,8.4,+7,Ike Anigbogu
+2018-01-14,19-089,IND,AWAY,PHO,W (+23),0,4:50,1,1,1.000,0,0,,0,0,,0,1,1,0,0,1,0,0,2,2.7,-7,Ike Anigbogu
+2018-01-15,19-090,IND,AWAY,UTA,W (+15),0,1:05,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3,Ike Anigbogu
+2018-01-18,19-093,IND,AWAY,POR,L (-14),0,0:45,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3,Ike Anigbogu
+2018-02-11,19-117,IND,HOME,NYK,W (+8),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Ike Anigbogu
+2018-04-10,19-175,IND,HOME,CHO,L (-26),0,2:10,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-6,Ike Anigbogu

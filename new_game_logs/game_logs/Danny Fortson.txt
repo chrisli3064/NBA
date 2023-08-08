@@ -1,0 +1,353 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2001-10-31,25-218,GSW,AWAY,POR,L (-5),1,32:20,5,14,.357,0,0,,5,6,.833,1,11,12,0,1,0,1,2,15,10.0,0,Danny Fortson
+2001-11-01,25-219,GSW,HOME,PHO,L (-6),1,20:59,2,6,.333,0,0,,8,9,.889,3,6,9,1,1,0,0,1,12,13.4,-15,Danny Fortson
+2001-11-03,25-221,GSW,AWAY,LAC,W (+2),1,20:11,2,6,.333,0,0,,2,2,1.000,3,2,5,1,0,0,1,6,6,2.6,+3,Danny Fortson
+2001-11-04,25-222,GSW,HOME,POR,W (+10),1,37:55,5,16,.313,0,0,,7,10,.700,7,14,21,3,0,0,2,3,17,14.6,+17,Danny Fortson
+2001-11-07,25-225,GSW,AWAY,TOR,L (-17),1,28:04,3,14,.214,0,0,,2,2,1.000,7,7,14,1,1,1,1,1,8,7.4,-16,Danny Fortson
+2001-11-09,25-227,GSW,AWAY,WAS,W (+9),1,34:55,6,9,.667,0,0,,4,4,1.000,4,12,16,3,2,0,3,4,16,18.0,+20,Danny Fortson
+2001-11-10,25-228,GSW,AWAY,NYK,W (+19),1,30:20,1,6,.167,0,0,,1,3,.333,4,10,14,0,0,0,2,3,3,1.0,+12,Danny Fortson
+2001-11-12,25-230,GSW,AWAY,MEM,W (+7),1,36:41,7,13,.538,0,0,,6,7,.857,8,14,22,1,0,0,9,3,20,13.6,+5,Danny Fortson
+2001-11-14,25-232,GSW,HOME,TOR,L (-7),1,22:23,0,8,.000,0,0,,2,2,1.000,4,8,12,2,0,0,2,2,2,0.2,+12,Danny Fortson
+2001-11-16,25-234,GSW,AWAY,SEA,L (-9),1,20:30,1,7,.143,0,0,,0,0,,5,7,12,1,0,0,4,2,2,-1.0,-9,Danny Fortson
+2001-11-17,25-235,GSW,HOME,CHI,W (+5),1,32:30,8,14,.571,0,0,,3,6,.500,4,7,11,1,0,0,3,6,19,11.4,+6,Danny Fortson
+2001-11-20,25-238,GSW,HOME,NYK,L (-24),1,23:00,2,10,.200,0,0,,1,2,.500,3,5,8,1,0,0,2,1,5,0.3,-19,Danny Fortson
+2001-11-23,25-241,GSW,AWAY,LAL,L (-16),1,26:51,2,6,.333,0,1,.000,5,6,.833,5,11,16,0,0,0,5,4,9,5.4,-12,Danny Fortson
+2001-11-25,25-243,GSW,HOME,NJN,W (+16),1,26:45,7,9,.778,0,0,,2,2,1.000,1,7,8,4,0,0,4,3,16,12.9,+22,Danny Fortson
+2001-11-27,25-245,GSW,AWAY,DAL,L (-10),1,37:53,8,16,.500,0,0,,8,8,1.000,5,12,17,3,0,0,3,5,24,20.2,+6,Danny Fortson
+2001-11-28,25-246,GSW,AWAY,SAS,L (-11),1,30:24,3,10,.300,1,1,1.000,4,4,1.000,6,11,17,2,1,0,1,3,11,12.9,+2,Danny Fortson
+2001-12-01,25-249,GSW,HOME,DAL,L (-29),1,31:49,6,12,.500,0,0,,5,6,.833,3,8,11,1,1,0,4,4,17,11.2,-26,Danny Fortson
+2001-12-03,25-251,GSW,AWAY,PHO,L (-17),1,31:55,5,12,.417,0,0,,2,2,1.000,7,3,10,0,1,0,1,2,12,10.6,-18,Danny Fortson
+2001-12-05,25-253,GSW,HOME,PHI,W (+6),1,32:45,3,8,.375,0,0,,5,6,.833,8,7,15,1,0,0,2,4,11,11.0,-4,Danny Fortson
+2001-12-07,25-255,GSW,HOME,CHH,L (-17),1,24:45,5,10,.500,0,0,,2,2,1.000,5,2,7,1,1,0,2,1,12,10.4,-12,Danny Fortson
+2001-12-08,25-256,GSW,AWAY,UTA,L (-10),1,28:07,5,9,.556,0,0,,1,2,.500,4,6,10,1,1,1,2,5,11,9.3,-2,Danny Fortson
+2001-12-11,25-259,GSW,AWAY,MIN,L (-21),1,33:24,2,7,.286,0,0,,13,15,.867,3,11,14,2,0,1,6,3,17,12.4,-18,Danny Fortson
+2001-12-13,25-261,GSW,HOME,ORL,L (-5),1,34:56,2,9,.222,0,0,,2,2,1.000,5,9,14,1,1,0,0,5,6,6.4,+6,Danny Fortson
+2001-12-15,25-263,GSW,HOME,MEM,W (+9),1,34:00,5,8,.625,0,0,,7,9,.778,4,11,15,3,1,0,2,2,17,19.0,+18,Danny Fortson
+2001-12-16,25-264,GSW,AWAY,LAL,L (-16),1,32:17,4,10,.400,0,0,,2,4,.500,0,10,10,1,0,0,3,4,10,2.9,-16,Danny Fortson
+2001-12-19,25-267,GSW,HOME,DET,W (+13),1,33:07,3,9,.333,0,0,,2,2,1.000,4,14,18,3,0,0,3,5,8,7.0,0,Danny Fortson
+2001-12-21,25-269,GSW,HOME,SEA,L (-3),1,37:23,5,9,.556,0,0,,3,4,.750,7,10,17,2,1,3,2,5,13,16.7,+9,Danny Fortson
+2001-12-22,25-270,GSW,AWAY,DEN,W (+4),1,33:48,7,9,.778,0,0,,11,15,.733,3,14,17,3,0,0,3,3,25,24.1,+6,Danny Fortson
+2001-12-26,25-274,GSW,HOME,LAL,W (+11),1,37:24,5,13,.385,0,0,,5,8,.625,5,15,20,4,0,0,1,5,15,14.5,+20,Danny Fortson
+2001-12-28,25-276,GSW,HOME,HOU,L (-7),1,28:27,6,11,.545,0,0,,2,2,1.000,3,5,8,0,1,1,3,2,14,10.2,-6,Danny Fortson
+2002-01-02,25-281,GSW,AWAY,CLE,L (-15),1,28:14,4,8,.500,0,0,,2,3,.667,3,6,9,3,0,0,2,4,10,8.0,-15,Danny Fortson
+2002-01-03,25-282,GSW,AWAY,CHH,L (-12),1,33:13,5,15,.333,0,0,,4,6,.667,5,3,8,2,1,0,3,2,14,7.7,-11,Danny Fortson
+2002-01-05,25-284,GSW,AWAY,ORL,L (-9),1,30:24,2,14,.143,0,0,,1,2,.500,6,9,15,1,0,0,2,4,5,-0.4,-13,Danny Fortson
+2002-01-06,25-285,GSW,AWAY,MIA,L (-8),1,34:05,2,7,.286,0,0,,2,2,1.000,0,6,6,1,0,0,0,6,6,2.0,-2,Danny Fortson
+2002-01-08,25-287,GSW,HOME,MIL,L (-16),1,32:43,3,9,.333,0,0,,13,16,.813,6,7,13,2,0,0,2,4,19,16.8,0,Danny Fortson
+2002-01-14,25-293,GSW,HOME,MIA,L (-6),1,30:13,2,6,.333,0,0,,4,4,1.000,5,8,13,2,1,0,3,4,8,8.3,-6,Danny Fortson
+2002-01-16,25-295,GSW,HOME,CLE,W (+29),1,25:02,2,8,.250,0,0,,5,6,.833,6,6,12,2,1,0,2,5,9,8.2,+13,Danny Fortson
+2002-01-18,25-297,GSW,AWAY,SAC,L (-24),1,33:16,5,11,.455,0,0,,5,7,.714,3,9,12,1,0,0,0,5,15,12.0,-5,Danny Fortson
+2002-01-19,25-298,GSW,HOME,MIN,L (-3),1,32:23,5,10,.500,0,0,,1,2,.500,5,8,13,2,0,1,3,5,11,8.6,-7,Danny Fortson
+2002-01-21,25-300,GSW,HOME,UTA,L (-2),1,23:40,3,4,.750,0,0,,4,4,1.000,2,4,6,1,0,0,2,6,10,7.3,-2,Danny Fortson
+2002-01-23,25-302,GSW,HOME,MEM,W (+12),1,33:36,6,11,.545,0,0,,3,3,1.000,6,6,12,1,1,1,1,5,15,15.1,-3,Danny Fortson
+2002-01-26,25-305,GSW,HOME,SAS,L (-8),1,32:40,2,5,.400,0,0,,2,4,.500,5,8,13,0,0,1,2,4,6,5.5,-4,Danny Fortson
+2002-01-29,25-308,GSW,AWAY,HOU,L (-4),1,23:03,4,10,.400,0,0,,0,0,,3,6,9,0,0,0,2,2,8,3.7,+4,Danny Fortson
+2002-02-01,25-311,GSW,AWAY,PHO,L (-6),1,30:29,3,10,.300,0,0,,2,3,.667,5,9,14,3,2,1,4,4,8,7.2,-5,Danny Fortson
+2002-02-03,25-313,GSW,HOME,PHO,L (-1),1,23:08,6,12,.500,0,0,,0,0,,3,4,7,3,3,0,2,1,12,12.0,0,Danny Fortson
+2002-02-05,25-315,GSW,HOME,SEA,L (-26),1,30:10,7,14,.500,0,0,,4,5,.800,7,5,12,2,1,0,0,4,18,17.8,-12,Danny Fortson
+2002-02-13,25-323,GSW,HOME,BOS,W (+17),1,25:26,2,6,.333,0,0,,4,5,.800,1,10,11,0,0,0,3,4,8,3.3,-4,Danny Fortson
+2002-02-15,25-325,GSW,HOME,SAS,L (-9),1,32:22,4,6,.667,0,0,,1,1,1.000,5,10,15,1,2,1,5,5,9,9.3,+1,Danny Fortson
+2002-02-17,25-327,GSW,HOME,ATL,L (-6),1,24:50,4,8,.500,0,0,,0,0,,1,9,10,3,1,0,5,2,8,4.7,-10,Danny Fortson
+2002-02-19,25-329,GSW,AWAY,NJN,L (-8),1,19:41,5,8,.625,0,0,,6,8,.750,5,4,9,4,0,0,4,2,16,14.3,-8,Danny Fortson
+2002-02-20,25-330,GSW,AWAY,PHI,L (-7),1,25:59,7,12,.583,0,0,,4,4,1.000,3,5,8,2,1,0,1,1,18,17.0,-9,Danny Fortson
+2002-02-23,25-333,GSW,AWAY,CHI,L (-14),0,6:45,0,1,.000,0,0,,1,1,1.000,0,1,1,0,1,0,0,2,1,0.8,-12,Danny Fortson
+2002-02-25,25-335,GSW,HOME,IND,L (-5),1,33:06,2,7,.286,0,0,,2,2,1.000,3,8,11,2,0,1,0,5,6,6.5,+1,Danny Fortson
+2002-02-27,25-337,GSW,HOME,DEN,W (+17),1,25:18,2,4,.500,0,0,,0,1,.000,4,10,14,1,0,0,2,5,4,4.1,+7,Danny Fortson
+2002-03-01,25-339,GSW,HOME,SAC,L (-8),1,30:14,5,9,.556,0,0,,3,3,1.000,6,11,17,4,0,0,2,2,13,16.2,-6,Danny Fortson
+2002-03-02,25-340,GSW,AWAY,LAC,L (-14),1,31:26,3,8,.375,0,0,,4,4,1.000,2,9,11,2,1,0,2,5,10,8.1,-5,Danny Fortson
+2002-03-05,25-343,GSW,AWAY,SAS,L (-21),1,29:50,6,14,.429,0,0,,1,2,.500,0,9,9,0,2,1,2,1,13,8.2,-8,Danny Fortson
+2002-03-08,25-346,GSW,AWAY,HOU,W (+13),1,37:28,4,9,.444,0,0,,0,0,,2,16,18,1,0,0,0,1,8,9.8,+9,Danny Fortson
+2002-03-09,25-347,GSW,AWAY,DAL,L (-2),1,24:27,4,7,.571,0,0,,0,0,,2,4,6,3,2,0,2,3,8,8.2,-9,Danny Fortson
+2002-03-11,25-349,GSW,AWAY,ATL,L (-25),1,29:02,6,12,.500,0,0,,2,2,1.000,5,11,16,1,0,0,1,2,14,13.7,-9,Danny Fortson
+2002-03-12,25-350,GSW,AWAY,IND,L (-14),1,40:31,8,19,.421,0,0,,4,4,1.000,6,14,20,1,2,0,0,3,20,19.8,+1,Danny Fortson
+2002-03-14,25-352,GSW,HOME,LAL,L (-8),1,26:00,4,10,.400,0,0,,2,2,1.000,3,7,10,2,0,0,1,6,10,6.8,+7,Danny Fortson
+2002-03-16,25-354,GSW,HOME,DAL,L (-17),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Danny Fortson
+2002-03-18,25-356,GSW,HOME,WAS,L (-3),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Danny Fortson
+2002-03-19,25-357,GSW,AWAY,SEA,L (-17),1,33:07,5,8,.625,0,0,,11,17,.647,3,7,10,3,1,0,2,3,21,19.1,-18,Danny Fortson
+2002-03-21,25-359,GSW,HOME,LAC,L (-20),1,12:40,1,5,.200,0,0,,0,0,,1,2,3,0,0,0,1,3,2,-2.0,-17,Danny Fortson
+2002-03-23,25-361,GSW,AWAY,UTA,L (-9),1,29:17,3,8,.375,0,0,,1,2,.500,2,7,9,1,0,0,2,3,7,3.2,-1,Danny Fortson
+2002-03-24,25-362,GSW,HOME,HOU,L (-12),1,17:46,4,5,.800,0,0,,2,2,1.000,2,5,7,1,1,0,2,4,10,9.1,-10,Danny Fortson
+2002-03-26,25-364,GSW,AWAY,MIN,W (+9),1,27:59,5,11,.455,0,0,,2,2,1.000,0,9,9,3,0,1,0,2,12,11.0,+7,Danny Fortson
+2002-03-27,26-000,GSW,AWAY,BOS,L (-3),1,31:47,7,13,.538,0,2,.000,6,8,.750,4,9,13,1,0,1,1,3,20,17.6,-5,Danny Fortson
+2002-03-29,26-002,GSW,AWAY,DET,L (-7),1,27:46,3,15,.200,0,0,,3,3,1.000,3,12,15,3,0,1,5,2,9,2.4,-10,Danny Fortson
+2002-03-30,26-003,GSW,AWAY,MEM,L (-6),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Danny Fortson
+2002-04-02,26-006,GSW,HOME,POR,W (+16),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Danny Fortson
+2002-04-05,26-009,GSW,HOME,DEN,W (+4),1,26:19,2,8,.250,0,0,,3,4,.750,4,8,12,2,2,0,2,2,7,7.6,+9,Danny Fortson
+2002-04-06,26-010,GSW,AWAY,POR,L (-27),1,27:54,6,10,.600,0,0,,0,0,,3,6,9,3,0,0,2,2,12,10.6,-10,Danny Fortson
+2002-04-08,26-012,GSW,HOME,MIN,L (-7),1,16:52,1,3,.333,0,0,,0,0,,4,8,12,2,0,2,1,3,2,6.1,-1,Danny Fortson
+2002-04-10,26-014,GSW,HOME,SAC,L (-2),1,30:41,7,14,.500,0,0,,3,4,.750,6,3,9,1,1,1,1,2,17,15.3,-15,Danny Fortson
+2002-04-12,26-016,GSW,AWAY,DEN,L (-8),1,27:20,4,5,.800,0,0,,3,5,.600,4,4,8,1,0,0,2,3,11,9.8,+4,Danny Fortson
+2002-04-13,26-017,GSW,HOME,UTA,L (-8),1,31:17,2,7,.286,0,0,,3,3,1.000,5,8,13,3,1,0,0,3,7,10.7,-5,Danny Fortson
+2002-04-16,26-020,GSW,AWAY,SAC,L (-14),1,21:11,4,9,.444,0,0,,0,0,,0,4,4,2,0,0,0,2,8,5.1,0,Danny Fortson
+2002-04-17,26-021,GSW,HOME,LAC,W (+4),1,22:47,3,7,.429,0,0,,0,0,,0,6,6,2,2,0,2,4,6,3.9,+4,Danny Fortson
+2000-10-31,24-218,GSW,HOME,PHO,W (+2),1,31:14,4,9,.444,0,0,,10,12,.833,8,10,18,1,0,0,1,2,18,20.0,-7,Danny Fortson
+2000-11-02,24-220,GSW,AWAY,DEN,L (-4),1,32:40,6,8,.750,0,0,,4,6,.667,4,13,17,2,0,0,2,5,16,16.1,-3,Danny Fortson
+2000-11-04,24-222,GSW,HOME,SAS,L (-12),1,27:51,4,11,.364,0,0,,4,5,.800,6,5,11,1,0,0,1,2,12,10.1,-7,Danny Fortson
+2000-11-08,24-226,GSW,AWAY,SAC,L (-31),1,30:55,4,6,.667,0,0,,9,12,.750,2,12,14,0,1,0,2,2,17,16.4,-17,Danny Fortson
+2000-11-10,24-228,GSW,HOME,SAC,L (-7),1,31:45,5,8,.625,0,0,,6,6,1.000,7,10,17,0,0,0,3,6,16,14.9,+10,Danny Fortson
+2000-11-12,24-230,GSW,HOME,ORL,L (-6),1,48:36,6,8,.750,0,0,,9,13,.692,2,19,21,1,1,0,1,5,21,22.0,-8,Danny Fortson
+2005-11-02,29-220,SEA,HOME,LAC,L (-8),0,7:38,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,5,0,-2.0,-5,Danny Fortson
+2005-11-04,29-222,SEA,HOME,MIN,W (+5),0,22:48,3,4,.750,0,0,,3,4,.750,4,4,8,0,0,1,3,6,9,6.3,+9,Danny Fortson
+2005-11-08,29-226,SEA,AWAY,MEM,L (-25),0,11:02,0,1,.000,0,0,,1,2,.500,1,1,2,0,1,0,0,2,1,1.1,-4,Danny Fortson
+2005-11-09,29-227,SEA,AWAY,CLE,L (-27),0,12:10,2,3,.667,0,0,,1,3,.333,2,2,4,0,1,0,1,2,5,4.1,-14,Danny Fortson
+2005-11-11,29-229,SEA,AWAY,WAS,L (-41),0,7:27,0,0,,0,0,,0,0,,0,0,0,0,0,0,2,5,0,-4.0,-5,Danny Fortson
+2005-11-13,29-231,SEA,AWAY,TOR,W (+5),0,10:11,0,0,,0,0,,2,2,1.000,1,1,2,1,0,0,0,4,2,2.1,+7,Danny Fortson
+2005-11-15,29-233,SEA,AWAY,NJN,L (-10),0,4:27,0,0,,0,0,,0,0,,0,0,0,0,0,1,0,1,0,0.3,0,Danny Fortson
+2005-11-20,29-238,SEA,HOME,SAC,W (+2),1,15:45,1,3,.333,0,0,,0,0,,2,3,5,0,0,0,2,2,2,-0.2,-5,Danny Fortson
+2005-11-22,29-240,SEA,HOME,UTA,L (-6),0,4:49,0,0,,0,0,,0,1,.000,0,1,1,0,0,0,3,3,0,-4.3,-1,Danny Fortson
+2005-12-02,29-250,SEA,HOME,CLE,W (+7),0,13:39,2,4,.500,0,0,,1,2,.500,2,4,6,0,0,0,1,2,5,3.4,+6,Danny Fortson
+2005-12-04,29-252,SEA,HOME,IND,W (+5),0,18:53,3,4,.750,0,0,,3,3,1.000,0,4,4,0,0,0,2,6,9,4.2,+16,Danny Fortson
+2005-12-06,29-254,SEA,HOME,NYK,L (-3),0,16:27,2,3,.667,0,0,,7,7,1.000,1,2,3,0,0,0,1,5,11,8.0,+13,Danny Fortson
+2005-12-09,29-257,SEA,AWAY,UTA,W (+16),0,7:06,1,2,.500,0,0,,0,0,,0,1,1,0,0,0,2,4,2,-2.3,-2,Danny Fortson
+2005-12-10,29-258,SEA,HOME,SAC,L (-19),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Danny Fortson
+2005-12-13,29-261,SEA,HOME,GSW,L (-3),0,14:50,0,2,.000,0,0,,2,2,1.000,3,3,6,0,0,0,0,5,2,1.6,+4,Danny Fortson
+2005-12-15,29-263,SEA,HOME,HOU,L (-6),0,23:25,1,4,.250,0,0,,6,7,.857,6,3,9,0,0,0,1,4,8,7.7,-1,Danny Fortson
+2005-12-16,29-264,SEA,AWAY,POR,W (+12),0,7:14,1,1,1.000,0,0,,1,1,1.000,0,1,1,0,0,0,0,2,3,2.2,+18,Danny Fortson
+2005-12-19,29-267,SEA,HOME,WAS,W (+10),0,5:53,0,1,.000,0,0,,0,0,,0,2,2,0,0,0,0,0,0,-0.1,-4,Danny Fortson
+2005-12-23,29-271,SEA,HOME,DAL,L (-3),0,21:18,2,4,.500,0,0,,2,2,1.000,5,4,9,0,1,0,2,5,6,5.7,+7,Danny Fortson
+2005-12-26,29-274,SEA,HOME,BOS,W (+7),0,16:09,4,7,.571,0,0,,4,5,.800,3,4,7,0,0,0,0,3,12,10.4,-1,Danny Fortson
+2005-12-28,29-276,SEA,AWAY,MIN,L (-13),0,16:47,3,5,.600,0,0,,0,2,.000,0,3,3,1,0,0,5,3,6,-1.7,+1,Danny Fortson
+2005-12-29,29-277,SEA,AWAY,DEN,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Danny Fortson
+2005-12-31,29-279,SEA,HOME,MEM,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Danny Fortson
+2006-01-02,29-281,SEA,AWAY,IND,L (-19),0,10:18,1,2,.500,0,0,,0,0,,1,0,1,0,1,0,1,3,2,0.5,+3,Danny Fortson
+2006-01-06,29-285,SEA,AWAY,DET,L (-12),0,6:49,1,1,1.000,0,0,,0,0,,0,4,4,0,0,0,0,2,2,2.1,+8,Danny Fortson
+2006-01-13,29-292,SEA,HOME,MIA,L (-13),0,0:26,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,0,Danny Fortson
+2002-10-30,26-217,GSW,HOME,SAS,W (+8),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Danny Fortson
+2002-11-01,26-219,GSW,HOME,SEA,L (-13),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Danny Fortson
+2002-11-08,26-226,GSW,AWAY,NOH,L (-6),0,20:54,2,3,.667,0,0,,4,4,1.000,3,1,4,3,0,0,0,1,8,10.8,0,Danny Fortson
+2002-11-09,26-227,GSW,AWAY,HOU,L (-7),0,24:05,0,1,.000,0,0,,0,0,,1,4,5,3,0,0,1,3,0,1.1,-2,Danny Fortson
+2002-11-11,26-229,GSW,AWAY,MEM,W (+7),0,10:24,0,3,.000,0,0,,0,0,,1,2,3,0,0,0,1,1,0,-2.2,+2,Danny Fortson
+2002-11-15,26-233,GSW,AWAY,LAL,L (-7),0,17:09,2,5,.400,0,0,,0,0,,3,4,7,1,0,0,1,3,4,3.1,-5,Danny Fortson
+2002-11-16,26-234,GSW,HOME,ORL,W (+43),0,3:53,0,1,.000,0,0,,1,2,.500,1,2,3,0,1,0,1,2,1,0.4,+1,Danny Fortson
+2002-11-20,26-238,GSW,HOME,CHI,W (+6),0,10:40,1,3,.333,0,0,,0,0,,1,4,5,1,1,0,3,3,2,-0.3,+8,Danny Fortson
+2002-11-22,26-240,GSW,HOME,MIL,L (-4),0,5:03,0,2,.000,0,0,,1,2,.500,1,3,4,0,0,0,0,0,1,0.8,-5,Danny Fortson
+2002-11-27,26-245,GSW,HOME,HOU,L (-7),0,6:38,1,1,1.000,0,0,,1,2,.500,2,2,4,0,0,0,1,2,3,2.5,-3,Danny Fortson
+2002-11-29,26-247,GSW,AWAY,DEN,W (+10),0,13:41,0,0,,0,0,,3,4,.750,1,2,3,1,2,0,0,2,3,5.8,-6,Danny Fortson
+2002-11-30,26-248,GSW,HOME,PHO,W (+10),0,4:03,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,-7,Danny Fortson
+2002-12-07,26-255,GSW,HOME,DAL,L (-5),0,4:51,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,+4,Danny Fortson
+2002-12-10,26-258,GSW,HOME,LAL,W (+4),0,22:17,5,6,.833,0,0,,0,0,,5,6,11,1,0,0,1,5,10,10.8,+2,Danny Fortson
+2002-12-13,26-261,GSW,AWAY,ORL,L (-26),0,20:40,4,7,.571,0,0,,3,6,.500,4,4,8,0,2,0,2,5,11,8.5,-7,Danny Fortson
+2002-12-14,26-262,GSW,AWAY,MIA,L (-9),0,8:32,0,1,.000,0,0,,0,0,,0,2,2,1,1,0,1,1,0,0.2,-2,Danny Fortson
+2002-12-22,26-270,GSW,AWAY,SAC,L (-15),0,18:01,1,8,.125,0,0,,2,4,.500,3,3,6,0,1,0,2,5,4,-2.0,-3,Danny Fortson
+2003-01-03,26-282,GSW,AWAY,SAS,L (-3),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Danny Fortson
+2003-01-04,26-283,GSW,AWAY,HOU,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Danny Fortson
+2003-01-08,26-287,GSW,AWAY,MIN,L (-7),0,7:10,1,3,.333,0,0,,2,3,.667,1,3,4,0,0,0,0,2,4,2.7,+2,Danny Fortson
+2003-01-22,26-301,GSW,AWAY,LAL,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Danny Fortson
+2003-02-19,26-329,GSW,AWAY,POR,L (-27),0,22:41,3,10,.300,0,1,.000,2,2,1.000,1,3,4,1,1,0,1,4,8,2.9,-12,Danny Fortson
+2003-02-24,26-334,GSW,AWAY,DEN,W (+5),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Danny Fortson
+2003-03-04,26-342,GSW,HOME,IND,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Danny Fortson
+2003-03-06,26-344,GSW,AWAY,CHI,L (-14),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Danny Fortson
+2003-03-08,26-346,GSW,AWAY,MIL,L (-5),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Danny Fortson
+2003-03-18,26-356,GSW,AWAY,SAC,L (-26),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Danny Fortson
+2003-03-26,26-364,GSW,AWAY,BOS,W (+12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Danny Fortson
+2003-04-06,27-010,GSW,HOME,DEN,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Danny Fortson
+2003-04-11,27-015,GSW,AWAY,PHO,L (-16),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Danny Fortson
+2003-04-12,27-016,GSW,AWAY,DAL,L (-9),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Danny Fortson
+2003-04-14,27-018,GSW,HOME,LAC,L (-9),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Danny Fortson
+2003-04-16,27-020,GSW,HOME,LAL,L (-6),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Danny Fortson
+2003-10-28,27-215,DAL,AWAY,LAL,L (-16),1,13:42,0,0,,0,0,,0,2,.000,0,3,3,0,0,0,0,1,0,-0.3,-23,Danny Fortson
+2003-10-29,27-216,DAL,AWAY,GSW,W (+8),0,2:35,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-11,Danny Fortson
+2003-11-01,27-219,DAL,HOME,UTA,W (+25),0,9:08,2,4,.500,0,0,,0,0,,3,2,5,0,0,1,0,2,4,4.6,+3,Danny Fortson
+2003-11-05,27-223,DAL,AWAY,WAS,L (-10),0,10:40,3,5,.600,0,0,,1,1,1.000,3,2,5,0,0,0,2,4,7,3.8,+4,Danny Fortson
+2003-11-08,27-226,DAL,AWAY,SAS,W (+3),0,3:21,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,2,0,-0.5,+2,Danny Fortson
+2003-11-11,27-229,DAL,HOME,NOH,W (+28),1,22:32,4,5,.800,0,0,,1,1,1.000,3,8,11,0,0,0,1,3,9,9.4,+27,Danny Fortson
+2003-11-13,27-231,DAL,HOME,HOU,W (+11),1,13:41,0,0,,0,0,,0,0,,0,3,3,0,0,1,0,2,0,0.8,-1,Danny Fortson
+2003-11-15,27-233,DAL,AWAY,MEM,L (-7),0,5:28,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-11,Danny Fortson
+2003-11-17,27-235,DAL,HOME,POR,W (+7),1,17:32,2,4,.500,0,0,,0,2,.000,5,2,7,0,0,0,1,3,4,3.1,-2,Danny Fortson
+2003-11-20,27-238,DAL,HOME,SAS,W (+3),0,13:08,1,1,1.000,0,0,,3,4,.750,3,2,5,0,0,0,0,3,5,5.8,+4,Danny Fortson
+2003-11-25,27-243,DAL,HOME,CHI,W (+26),1,16:23,1,3,.333,0,0,,2,2,1.000,7,6,13,0,0,0,2,4,4,5.4,+5,Danny Fortson
+2003-11-26,27-244,DAL,AWAY,PHO,L (-31),1,12:59,0,1,.000,0,0,,0,0,,1,3,4,0,1,0,0,4,0,0.3,-5,Danny Fortson
+2003-11-28,27-246,DAL,AWAY,DEN,L (-10),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Danny Fortson
+2003-11-29,27-247,DAL,HOME,MIN,W (+4),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Danny Fortson
+2003-12-02,27-250,DAL,HOME,WAS,W (+25),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Danny Fortson
+2003-12-04,27-252,DAL,HOME,LAL,L (-11),1,4:06,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-10,Danny Fortson
+2003-12-06,27-254,DAL,HOME,ORL,W (+13),1,8:55,2,2,1.000,0,0,,1,2,.500,2,2,4,0,0,0,2,4,5,2.4,0,Danny Fortson
+2003-12-10,27-258,DAL,AWAY,LAC,L (-1),1,19:26,4,4,1.000,0,0,,2,2,1.000,3,4,7,1,1,0,2,5,10,9.8,+22,Danny Fortson
+2003-12-12,27-260,DAL,AWAY,LAL,W (+17),1,18:21,1,3,.333,0,0,,2,4,.500,4,2,6,1,0,0,1,5,4,2.6,+15,Danny Fortson
+2003-12-15,27-263,DAL,HOME,TOR,W (+17),0,4:00,0,1,.000,0,0,,0,0,,2,0,2,0,0,0,1,2,0,-1.1,-6,Danny Fortson
+2003-12-17,27-265,DAL,AWAY,BOS,L (-2),1,30:50,3,8,.375,0,0,,4,5,.800,8,8,16,2,1,0,2,4,10,12.0,+4,Danny Fortson
+2003-12-18,27-266,DAL,AWAY,MIN,L (-5),1,18:44,3,7,.429,0,0,,0,0,,8,1,9,0,0,0,1,4,6,5.6,-11,Danny Fortson
+2003-12-20,27-268,DAL,HOME,LAC,L (-10),1,14:59,1,4,.250,0,0,,1,1,1.000,5,5,10,0,1,0,0,4,3,5.0,-9,Danny Fortson
+2003-12-23,27-271,DAL,AWAY,POR,L (-9),0,9:56,4,5,.800,0,0,,1,2,.500,2,1,3,0,0,0,2,1,9,6.0,-6,Danny Fortson
+2003-12-25,27-273,DAL,AWAY,SAC,W (+8),0,2:58,0,0,,0,0,,0,0,,1,1,2,0,0,0,0,1,0,0.6,-10,Danny Fortson
+2003-12-27,27-275,DAL,HOME,MEM,W (+6),0,1:45,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-2,Danny Fortson
+2003-12-30,27-278,DAL,HOME,MIL,W (+9),0,1:18,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,Danny Fortson
+2004-01-02,27-281,DAL,AWAY,MIL,L (-8),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Danny Fortson
+2004-01-03,27-282,DAL,HOME,MIN,W (+7),0,11:04,2,3,.667,0,0,,3,3,1.000,2,2,4,0,0,0,1,2,7,5.9,+17,Danny Fortson
+2004-01-05,27-284,DAL,AWAY,UTA,L (-14),0,11:54,1,1,1.000,0,0,,4,4,1.000,1,4,5,0,1,0,2,5,6,4.6,+5,Danny Fortson
+2004-01-07,27-286,DAL,HOME,GSW,W (+6),1,14:42,1,3,.333,0,0,,2,2,1.000,6,5,11,1,0,0,1,1,4,7.3,0,Danny Fortson
+2004-01-09,27-288,DAL,HOME,IND,L (-12),1,11:22,1,4,.250,0,0,,0,0,,1,2,3,0,0,0,0,1,2,0.5,-1,Danny Fortson
+2004-01-11,27-290,DAL,AWAY,DET,L (-13),0,7:57,1,2,.500,0,0,,2,2,1.000,1,1,2,0,0,0,0,3,4,2.8,+5,Danny Fortson
+2004-01-14,27-293,DAL,HOME,PHI,W (+3),0,5:58,0,0,,0,0,,0,0,,1,1,2,0,0,0,0,2,0,0.2,+3,Danny Fortson
+2004-01-16,27-295,DAL,AWAY,DEN,W (+3),0,12:50,2,2,1.000,0,0,,6,7,.857,1,7,8,0,0,0,1,3,10,9.6,+3,Danny Fortson
+2004-01-17,27-296,DAL,AWAY,POR,W (+4),0,16:30,4,4,1.000,0,0,,2,2,1.000,5,1,6,0,0,0,1,4,10,10.0,-2,Danny Fortson
+2004-01-20,27-299,DAL,HOME,NJN,W (+13),0,17:31,1,3,.333,0,0,,1,2,.500,2,2,4,0,0,0,0,2,3,2.1,+11,Danny Fortson
+2004-01-23,27-302,DAL,AWAY,CHI,W (+13),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Danny Fortson
+2004-01-25,27-304,DAL,HOME,SAC,W (+9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Danny Fortson
+2004-01-28,27-307,DAL,AWAY,UTA,L (-3),0,7:48,1,1,1.000,0,0,,0,0,,0,1,1,0,1,0,0,1,2,2.6,-1,Danny Fortson
+2004-01-31,27-310,DAL,HOME,DEN,L (-5),0,16:57,0,0,,0,0,,2,2,1.000,2,6,8,0,0,1,1,3,2,3.7,+10,Danny Fortson
+2004-02-03,27-313,DAL,HOME,GSW,W (+14),1,9:22,1,3,.333,0,0,,0,0,,2,1,3,0,0,0,0,1,2,1.6,-2,Danny Fortson
+2004-02-04,27-314,DAL,AWAY,NOH,W (+9),1,10:13,0,1,.000,0,0,,4,4,1.000,1,1,2,0,0,0,0,1,4,3.9,-10,Danny Fortson
+2004-02-07,27-317,DAL,HOME,DET,W (+3),0,7:13,0,1,.000,0,0,,0,0,,3,2,5,0,0,0,0,4,0,0.4,+1,Danny Fortson
+2004-02-09,27-319,DAL,AWAY,ATL,L (-6),0,3:59,0,1,.000,0,0,,0,0,,1,0,1,0,0,1,0,3,0,-0.5,+5,Danny Fortson
+2004-02-17,27-327,DAL,AWAY,MEM,L (-17),0,14:03,3,7,.429,0,0,,1,1,1.000,2,3,5,0,1,0,1,3,7,4.4,-1,Danny Fortson
+2004-02-24,27-334,DAL,HOME,LAC,W (+25),1,14:44,2,4,.500,0,0,,4,4,1.000,1,1,2,1,0,1,1,2,8,6.6,+17,Danny Fortson
+2004-02-28,27-338,DAL,HOME,POR,W (+20),0,11:58,2,3,.667,0,0,,0,1,.000,1,5,6,1,1,1,1,4,4,4.3,+4,Danny Fortson
+2004-03-02,27-341,DAL,HOME,SEA,W (+11),0,10:29,2,4,.500,0,0,,1,1,1.000,4,4,8,0,0,0,0,3,5,5.8,+3,Danny Fortson
+2004-03-03,27-342,DAL,AWAY,MIN,L (-24),0,22:21,3,5,.600,0,0,,1,2,.500,3,7,10,0,1,1,2,4,7,6.6,-7,Danny Fortson
+2004-03-05,27-344,DAL,AWAY,SAS,L (-13),0,10:20,2,2,1.000,0,0,,5,6,.833,1,3,4,1,1,0,2,4,9,7.7,-5,Danny Fortson
+2004-03-08,27-347,DAL,HOME,PHO,W (+13),0,9:13,2,6,.333,0,0,,0,0,,3,1,4,0,0,0,0,4,4,1.4,+5,Danny Fortson
+2004-03-11,27-350,DAL,AWAY,SAC,L (-18),0,6:35,0,0,,0,0,,2,2,1.000,1,3,4,0,0,0,0,1,2,3.2,-4,Danny Fortson
+2004-03-13,27-352,DAL,AWAY,PHO,W (+23),0,9:10,1,4,.250,0,0,,2,4,.500,1,2,3,0,0,1,1,4,4,0.2,-6,Danny Fortson
+2004-03-14,27-353,DAL,AWAY,LAC,W (+13),1,17:22,0,4,.000,0,0,,2,2,1.000,0,9,9,0,1,2,1,4,2,1.7,+5,Danny Fortson
+2004-03-19,27-358,DAL,HOME,BOS,W (+16),1,4:47,1,1,1.000,0,0,,1,1,1.000,1,0,1,0,0,0,1,1,3,2.0,+7,Danny Fortson
+2004-03-21,27-360,DAL,AWAY,NJN,W (+3),0,3:58,1,1,1.000,0,0,,0,0,,1,0,1,0,0,0,0,3,2,1.2,-9,Danny Fortson
+2004-03-22,27-361,DAL,AWAY,PHI,L (-9),0,6:39,4,4,1.000,0,0,,1,1,1.000,2,0,2,0,0,0,0,2,9,8.4,+1,Danny Fortson
+2004-03-26,27-365,DAL,AWAY,MIA,L (-1),0,18:09,1,4,.250,0,0,,9,9,1.000,2,5,7,0,0,0,1,4,11,8.9,+15,Danny Fortson
+2004-03-28,28-001,DAL,AWAY,ORL,W (+30),0,4:56,0,0,,0,0,,2,2,1.000,1,0,1,1,0,1,2,2,2,1.3,+7,Danny Fortson
+2004-03-30,28-003,DAL,HOME,CLE,W (+17),0,5:56,1,2,.500,0,0,,0,0,,0,0,0,0,1,0,0,2,2,1.2,+4,Danny Fortson
+2004-04-14,28-018,DAL,AWAY,HOU,W (+3),0,7:58,0,2,.000,0,0,,0,0,,1,1,2,0,0,0,0,3,0,-1.6,+2,Danny Fortson
+2006-11-01,30-219,SEA,HOME,POR,L (-4),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Danny Fortson
+2006-11-03,30-221,SEA,AWAY,LAL,L (-6),0,12:25,2,3,.667,0,0,,0,0,,1,1,2,0,1,0,0,3,4,3.5,+3,Danny Fortson
+2006-11-05,30-223,SEA,HOME,LAL,W (+16),0,9:25,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,3,0,-1.9,+4,Danny Fortson
+2006-11-07,30-225,SEA,AWAY,MIA,L (-3),0,16:27,3,3,1.000,0,0,,4,4,1.000,0,0,0,0,0,0,2,3,10,5.9,+12,Danny Fortson
+2006-11-08,30-226,SEA,AWAY,ORL,L (-1),0,13:40,2,8,.250,0,0,,0,1,.000,5,3,8,0,0,0,3,3,4,-1.0,-7,Danny Fortson
+2006-11-10,30-228,SEA,AWAY,CHA,W (+14),0,8:20,0,1,.000,0,0,,0,0,,0,1,1,1,0,0,1,1,0,-1.1,-3,Danny Fortson
+2006-11-11,30-229,SEA,AWAY,ATL,W (+1),0,8:05,1,3,.333,0,1,.000,2,3,.667,1,3,4,0,0,0,1,2,4,1.7,+1,Danny Fortson
+2006-11-15,30-233,SEA,HOME,PHI,L (-6),0,6:25,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,1,0,-1.1,-5,Danny Fortson
+2006-12-23,30-271,SEA,HOME,TOR,W (+13),1,14:34,2,4,.500,0,0,,0,0,,1,8,9,0,0,0,2,3,4,1.9,+14,Danny Fortson
+2006-12-26,30-274,SEA,HOME,NOK,W (+8),1,15:30,2,3,.667,0,0,,1,1,1.000,1,3,4,0,0,0,1,3,5,3.1,+7,Danny Fortson
+2006-12-31,30-279,SEA,HOME,BOS,W (+6),1,13:24,1,1,1.000,0,0,,0,0,,1,4,5,0,0,0,1,5,2,0.6,+10,Danny Fortson
+2007-01-02,30-281,SEA,AWAY,DAL,L (-24),1,10:34,0,2,.000,0,0,,1,2,.500,0,2,2,0,0,0,1,3,1,-2.4,-16,Danny Fortson
+2007-01-03,30-282,SEA,AWAY,HOU,L (-7),1,8:59,0,0,,0,0,,0,0,,1,1,2,0,0,0,0,2,0,0.2,-9,Danny Fortson
+2007-01-05,30-284,SEA,HOME,NYK,L (-18),1,14:39,2,2,1.000,0,0,,2,2,1.000,2,2,4,0,0,0,1,4,6,4.8,-2,Danny Fortson
+2007-03-25,30-363,SEA,HOME,SAS,L (-41),0,5:36,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,-14,Danny Fortson
+2007-04-03,31-007,SEA,AWAY,SAS,L (-19),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Danny Fortson
+2007-04-04,31-008,SEA,AWAY,NOK,L (-9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Danny Fortson
+2007-04-11,31-015,SEA,AWAY,PHO,L (-18),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Danny Fortson
+1999-12-26,23-274,BOS,AWAY,LAC,L (-3),0,7:56,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,3,0,-1.9,-7,Danny Fortson
+1999-12-28,23-276,BOS,AWAY,SAC,L (-13),0,16:54,3,5,.600,0,0,,3,4,.750,0,4,4,0,0,0,1,5,9,4.5,-10,Danny Fortson
+1999-12-30,23-278,BOS,AWAY,DEN,W (+8),0,10:51,4,4,1.000,0,0,,0,1,.000,1,5,6,0,0,1,0,3,8,8.1,+2,Danny Fortson
+2000-01-03,23-282,BOS,HOME,CLE,W (+7),0,8:55,2,2,1.000,0,0,,1,2,.500,2,2,4,0,0,0,1,6,5,2.6,+6,Danny Fortson
+2000-01-04,23-283,BOS,AWAY,NYK,L (-8),0,16:57,3,5,.600,0,0,,2,4,.500,4,4,8,0,0,0,0,4,8,7.3,+2,Danny Fortson
+2000-01-07,23-286,BOS,HOME,SAC,W (+8),0,8:48,1,1,1.000,0,0,,2,2,1.000,1,2,3,0,0,0,1,2,4,3.2,-8,Danny Fortson
+2000-01-08,23-287,BOS,AWAY,CHI,L (-17),0,15:51,2,3,.667,0,0,,1,4,.250,2,4,6,1,0,0,2,5,5,1.8,+6,Danny Fortson
+2000-01-10,23-289,BOS,HOME,VAN,L (-9),0,9:24,1,1,1.000,0,0,,1,2,.500,2,2,4,2,0,1,0,2,3,5.6,+2,Danny Fortson
+2000-01-12,23-291,BOS,HOME,LAC,W (+7),0,14:13,3,4,.750,0,0,,3,4,.750,3,2,5,1,0,0,0,1,9,10.0,+3,Danny Fortson
+2000-01-13,23-292,BOS,AWAY,MIN,L (-18),0,15:55,3,6,.500,0,0,,5,7,.714,2,3,5,0,0,0,0,3,11,8.3,-12,Danny Fortson
+2000-01-15,23-294,BOS,AWAY,NJN,W (+3),0,7:19,0,2,.000,0,0,,4,4,1.000,1,1,2,1,0,0,0,3,4,3.1,+6,Danny Fortson
+2000-01-17,23-296,BOS,AWAY,WAS,W (+4),0,6:51,1,1,1.000,0,0,,2,2,1.000,1,3,4,0,0,0,1,2,4,3.5,-9,Danny Fortson
+2000-01-19,23-298,BOS,HOME,TOR,W (+4),0,14:19,2,4,.500,0,0,,2,4,.500,5,2,7,1,0,0,0,3,6,6.8,-7,Danny Fortson
+2000-01-21,23-300,BOS,HOME,SEA,W (+25),0,17:06,3,6,.500,0,0,,1,1,1.000,3,10,13,0,1,0,6,6,7,1.7,0,Danny Fortson
+2000-01-22,23-301,BOS,AWAY,CHH,L (-14),0,23:24,7,11,.636,0,0,,2,2,1.000,3,7,10,0,0,0,1,5,16,12.3,+3,Danny Fortson
+2000-01-25,23-304,BOS,AWAY,MIA,L (-26),1,18:32,2,5,.400,0,0,,2,2,1.000,1,2,3,0,1,0,2,5,6,1.6,-7,Danny Fortson
+2000-01-26,23-305,BOS,AWAY,ORL,L (-22),0,16:53,3,5,.600,0,0,,1,2,.500,2,5,7,3,0,0,0,3,7,8.1,-6,Danny Fortson
+2000-01-28,23-307,BOS,HOME,PHO,W (+3),0,1:56,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,2,0,-0.1,-2,Danny Fortson
+2000-02-01,23-311,BOS,AWAY,IND,L (-3),0,5:22,1,1,1.000,0,0,,1,3,.333,1,4,5,1,0,0,1,3,3,2.3,+5,Danny Fortson
+2000-02-02,23-312,BOS,HOME,MIA,L (-2),0,14:15,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,2,2,1.2,+5,Danny Fortson
+2000-02-04,23-314,BOS,HOME,NJN,W (+5),0,6:13,1,2,.500,0,0,,0,0,,0,1,1,0,1,0,0,0,2,2.3,-10,Danny Fortson
+2000-02-06,23-316,BOS,HOME,POR,L (-6),0,15:34,0,2,.000,0,0,,6,6,1.000,1,7,8,1,0,0,1,3,6,5.9,-1,Danny Fortson
+2000-02-08,23-318,BOS,AWAY,NJN,L (-18),0,14:35,3,4,.750,0,0,,4,4,1.000,3,3,6,1,0,0,3,4,10,7.5,-6,Danny Fortson
+2000-02-15,23-325,BOS,AWAY,UTA,W (+2),0,12:28,2,3,.667,0,0,,0,0,,2,3,5,0,0,0,1,3,4,2.8,-4,Danny Fortson
+2000-02-18,23-328,BOS,AWAY,GSW,L (-22),0,18:27,3,5,.600,0,0,,12,19,.632,3,4,7,0,0,0,3,5,18,11.2,-13,Danny Fortson
+2000-02-19,23-329,BOS,AWAY,SEA,L (-3),0,17:52,1,3,.333,0,0,,3,3,1.000,4,4,8,1,0,0,2,3,5,4.8,-5,Danny Fortson
+2000-02-21,23-331,BOS,AWAY,POR,L (-13),0,25:09,3,8,.375,0,0,,6,8,.750,8,6,14,0,2,0,3,5,12,11.2,+9,Danny Fortson
+2000-02-24,23-334,BOS,AWAY,VAN,W (+24),0,13:52,3,4,.750,0,0,,0,1,.000,2,6,8,0,0,0,0,3,6,6.0,+6,Danny Fortson
+2000-02-25,23-335,BOS,AWAY,LAL,L (-13),0,13:22,2,4,.500,0,0,,1,4,.250,1,2,3,1,0,0,1,3,5,1.6,-3,Danny Fortson
+2000-02-28,23-338,BOS,HOME,DAL,L (-8),0,10:57,2,5,.400,0,0,,0,0,,2,3,5,0,0,0,1,3,4,1.4,-6,Danny Fortson
+2000-03-01,23-340,BOS,HOME,TOR,L (-2),1,18:56,1,6,.167,0,0,,4,5,.800,4,4,8,1,1,0,1,2,6,5.7,+5,Danny Fortson
+2000-03-03,23-342,BOS,AWAY,TOR,L (-10),1,22:19,4,8,.500,0,0,,3,4,.750,4,7,11,0,0,1,1,5,11,9.2,-11,Danny Fortson
+2000-03-05,23-344,BOS,HOME,ORL,W (+6),1,10:26,2,5,.400,0,0,,2,3,.667,3,2,5,0,0,0,1,3,6,3.4,+4,Danny Fortson
+2000-03-08,23-347,BOS,HOME,MIL,W (+11),1,8:31,0,3,.000,0,0,,3,4,.750,3,2,5,0,0,0,2,1,3,0.8,-3,Danny Fortson
+2000-03-10,23-349,BOS,HOME,CHI,W (+30),0,24:26,5,9,.556,0,0,,4,5,.800,2,5,7,0,1,0,4,6,14,6.8,+13,Danny Fortson
+2000-03-12,23-351,BOS,HOME,PHI,W (+16),0,15:07,2,2,1.000,0,0,,1,1,1.000,2,4,6,0,1,0,2,3,5,4.8,+2,Danny Fortson
+2000-03-13,23-352,BOS,AWAY,DET,L (-9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Danny Fortson
+2000-03-15,23-354,BOS,HOME,GSW,W (+17),0,24:37,4,9,.444,0,0,,4,4,1.000,5,8,13,3,0,1,2,4,12,12.4,+6,Danny Fortson
+2000-03-17,23-356,BOS,AWAY,ATL,W (+24),0,24:02,4,9,.444,0,0,,3,4,.750,6,3,9,0,1,0,2,4,11,8.4,-3,Danny Fortson
+2000-03-18,23-357,BOS,AWAY,DAL,W (+5),0,8:56,0,2,.000,0,0,,0,0,,2,3,5,0,0,0,3,3,0,-3.3,-1,Danny Fortson
+2000-03-20,23-359,BOS,AWAY,PHO,L (-4),0,21:46,6,10,.600,0,0,,4,4,1.000,7,8,15,1,1,0,2,3,16,17.2,-6,Danny Fortson
+2000-03-22,23-361,BOS,HOME,MIN,L (-3),0,7:36,2,2,1.000,0,0,,1,1,1.000,1,0,1,0,0,0,0,2,5,4.3,-2,Danny Fortson
+2000-03-24,23-363,BOS,AWAY,PHI,L (-2),0,11:04,1,4,.250,0,0,,6,6,1.000,1,2,3,0,2,0,0,3,8,7.7,-1,Danny Fortson
+2000-03-26,23-365,BOS,AWAY,MIL,L (-15),0,24:14,2,4,.500,0,0,,4,6,.667,4,13,17,2,0,1,1,1,8,12.6,+2,Danny Fortson
+2000-03-28,24-001,BOS,AWAY,ORL,L (-35),0,12:17,2,3,.667,0,0,,3,4,.750,0,0,0,0,1,0,0,2,7,5.5,-7,Danny Fortson
+2000-03-31,24-004,BOS,HOME,WAS,L (-2),0,16:26,2,3,.667,0,0,,3,3,1.000,3,2,5,1,0,0,2,4,7,5.5,-2,Danny Fortson
+2000-04-01,24-005,BOS,AWAY,CLE,L (-6),0,14:25,2,5,.400,0,0,,0,2,.000,3,5,8,0,1,0,2,2,4,2.3,-8,Danny Fortson
+2000-04-04,24-008,BOS,AWAY,CHH,L (-7),0,16:52,2,4,.500,0,0,,5,6,.833,1,3,4,0,0,0,0,2,9,7.4,+2,Danny Fortson
+2000-04-05,24-009,BOS,AWAY,DET,L (-5),0,19:34,4,7,.571,0,0,,2,3,.667,2,4,6,1,1,0,3,3,10,6.4,+8,Danny Fortson
+2000-04-07,24-011,BOS,HOME,PHI,L (-5),0,17:46,2,7,.286,0,0,,0,0,,3,6,9,1,0,0,0,3,4,3.3,-2,Danny Fortson
+2000-04-10,24-014,BOS,HOME,ATL,W (+5),0,21:47,2,7,.286,0,0,,0,0,,3,6,9,1,0,0,1,3,4,2.3,-1,Danny Fortson
+2000-04-12,24-016,BOS,HOME,ORL,W (+4),0,27:04,9,15,.600,0,0,,5,7,.714,9,5,14,1,1,0,0,5,23,22.8,+7,Danny Fortson
+2000-04-14,24-018,BOS,HOME,CHI,W (+15),0,22:32,6,8,.750,0,0,,9,10,.900,6,4,10,0,1,0,2,5,21,19.8,+13,Danny Fortson
+2000-04-16,24-020,BOS,HOME,CHH,L (-3),0,15:54,3,6,.500,0,0,,0,1,.000,2,5,7,0,1,0,2,3,6,3.3,-4,Danny Fortson
+2000-04-18,24-022,BOS,AWAY,WAS,W (+33),0,26:13,6,12,.500,0,0,,5,6,.833,2,10,12,2,1,0,1,2,17,15.6,+14,Danny Fortson
+2000-04-19,24-023,BOS,HOME,NYK,W (+27),0,25:01,5,8,.625,0,0,,3,5,.600,2,11,13,1,1,0,1,6,13,11.6,+14,Danny Fortson
+2004-11-03,28-221,SEA,AWAY,LAC,L (-30),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Danny Fortson
+2004-11-05,28-223,SEA,HOME,ATL,W (+21),0,14:40,3,3,1.000,0,0,,3,3,1.000,2,3,5,1,0,0,1,5,9,8.1,+12,Danny Fortson
+2004-11-07,28-225,SEA,HOME,SAS,W (+19),0,22:11,3,8,.375,0,0,,9,10,.900,7,6,13,0,0,0,1,5,15,13.9,+6,Danny Fortson
+2004-11-09,28-227,SEA,AWAY,DEN,W (+20),0,14:12,2,8,.250,0,0,,2,3,.667,6,2,8,1,1,0,3,5,6,2.3,+7,Danny Fortson
+2004-11-10,28-228,SEA,HOME,SAC,W (+30),0,22:03,3,8,.375,0,0,,10,12,.833,9,4,13,0,0,0,0,5,16,16.3,+9,Danny Fortson
+2004-11-12,28-230,SEA,HOME,TOR,W (+1),0,9:52,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,2,5,0,-4.7,-9,Danny Fortson
+2004-11-16,28-234,SEA,AWAY,PHI,W (+8),0,13:13,0,0,,0,0,,2,2,1.000,1,2,3,1,1,0,4,6,2,-1.4,+9,Danny Fortson
+2004-11-17,28-235,SEA,AWAY,NJN,W (+11),0,22:23,2,2,1.000,0,0,,10,12,.833,2,4,6,0,1,0,1,5,14,13.2,+21,Danny Fortson
+2004-11-19,28-237,SEA,AWAY,TOR,W (+7),0,19:45,1,5,.200,0,0,,5,6,.833,5,5,10,1,1,0,2,4,7,6.6,+8,Danny Fortson
+2004-11-21,28-239,SEA,AWAY,BOS,L (-19),0,13:18,2,5,.400,0,0,,2,2,1.000,2,2,4,0,1,0,1,6,6,2.9,-12,Danny Fortson
+2004-11-23,28-241,SEA,AWAY,MIN,W (+11),0,23:59,2,3,.667,0,0,,6,6,1.000,1,6,7,0,0,0,1,5,10,8.2,-2,Danny Fortson
+2004-11-24,28-242,SEA,AWAY,MEM,W (+9),0,9:27,1,1,1.000,0,0,,3,4,.750,3,1,4,0,0,0,1,5,5,3.7,-7,Danny Fortson
+2004-11-26,28-244,SEA,HOME,NJN,W (+13),0,22:30,6,7,.857,0,0,,8,9,.889,4,4,8,0,0,0,1,5,20,18.1,+23,Danny Fortson
+2004-11-28,28-246,SEA,HOME,IND,W (+8),0,18:32,4,6,.667,0,0,,5,5,1.000,2,3,5,0,0,0,1,5,13,9.7,+6,Danny Fortson
+2004-11-30,28-248,SEA,AWAY,POR,L (-6),0,17:01,1,4,.250,0,0,,2,2,1.000,3,3,6,0,0,0,3,3,4,0.4,-13,Danny Fortson
+2004-12-01,28-249,SEA,HOME,UTA,W (+10),0,29:50,3,6,.500,0,0,,2,2,1.000,4,5,9,1,0,0,1,6,8,6.6,+4,Danny Fortson
+2004-12-04,28-252,SEA,HOME,POR,W (+10),0,19:31,5,6,.833,0,0,,2,4,.500,0,3,3,0,0,0,1,4,12,7.3,+12,Danny Fortson
+2004-12-08,28-256,SEA,AWAY,SAS,W (+6),0,20:54,2,3,.667,0,0,,10,10,1.000,1,5,6,0,1,0,3,6,14,10.5,+12,Danny Fortson
+2004-12-09,28-257,SEA,AWAY,DAL,W (+5),0,15:41,1,4,.250,0,0,,5,6,.833,4,4,8,1,0,0,1,5,7,5.9,-6,Danny Fortson
+2004-12-11,28-259,SEA,HOME,BOS,L (-14),0,23:37,4,7,.571,0,0,,8,12,.667,6,5,11,0,0,0,2,6,16,12.4,+5,Danny Fortson
+2004-12-14,28-262,SEA,HOME,LAL,W (+15),0,22:52,2,5,.400,0,0,,3,3,1.000,1,4,5,0,1,0,1,3,7,5.0,+10,Danny Fortson
+2004-12-17,28-265,SEA,HOME,PHO,L (-2),0,11:34,1,3,.333,0,0,,0,0,,2,1,3,0,0,0,1,5,2,-1.0,-11,Danny Fortson
+2004-12-22,28-270,SEA,HOME,DEN,W (+15),0,10:05,1,1,1.000,0,0,,1,2,.500,1,2,3,0,0,0,3,6,3,-1.8,-3,Danny Fortson
+2004-12-27,28-275,SEA,AWAY,UTA,W (+10),0,18:01,2,3,.667,0,0,,6,6,1.000,2,2,4,0,0,0,3,3,10,6.5,+5,Danny Fortson
+2004-12-28,28-276,SEA,HOME,PHI,L (-7),0,17:14,5,11,.455,0,0,,3,3,1.000,4,2,6,0,0,1,1,5,13,8.4,-6,Danny Fortson
+2004-12-30,28-278,SEA,AWAY,ATL,W (+15),0,10:56,3,4,.750,0,0,,1,1,1.000,3,1,4,1,0,0,1,3,7,6.3,+1,Danny Fortson
+2004-12-31,28-279,SEA,AWAY,CHA,W (+6),0,23:40,3,4,.750,0,0,,3,4,.750,3,5,8,0,1,0,4,5,9,5.6,+14,Danny Fortson
+2005-01-03,28-282,SEA,AWAY,MIA,W (+2),0,32:50,4,8,.500,0,0,,7,9,.778,6,4,10,0,0,0,2,5,15,11.6,+6,Danny Fortson
+2005-01-05,28-284,SEA,AWAY,ORL,L (-18),0,14:40,0,0,,0,0,,4,4,1.000,2,1,3,0,0,0,0,4,4,4.1,+7,Danny Fortson
+2005-01-06,28-285,SEA,AWAY,WAS,L (-11),0,20:28,4,5,.800,0,0,,0,0,,3,5,8,0,0,0,4,5,8,3.7,-8,Danny Fortson
+2005-01-09,28-288,SEA,HOME,MIA,W (+10),0,22:13,5,7,.714,0,0,,8,10,.800,3,7,10,0,0,0,0,3,18,17.3,+11,Danny Fortson
+2005-01-11,28-290,SEA,HOME,LAC,W (+5),0,20:58,1,4,.250,0,0,,9,9,1.000,2,5,7,0,1,2,1,6,11,10.5,+3,Danny Fortson
+2005-01-12,28-291,SEA,AWAY,LAC,L (-11),0,23:22,4,6,.667,0,0,,5,5,1.000,2,4,6,0,0,0,2,2,13,10.2,-18,Danny Fortson
+2005-01-14,28-293,SEA,HOME,GSW,W (+19),0,21:02,3,5,.600,0,0,,7,8,.875,6,5,11,0,0,0,0,3,13,14.8,+14,Danny Fortson
+2005-01-16,28-295,SEA,HOME,CLE,W (+8),0,15:56,2,2,1.000,0,0,,3,4,.750,2,3,5,0,0,1,1,6,7,5.6,+10,Danny Fortson
+2005-01-18,28-297,SEA,HOME,DEN,L (-6),0,25:59,5,7,.714,0,0,,6,7,.857,5,4,9,0,0,0,1,4,16,14.8,+8,Danny Fortson
+2005-01-21,28-300,SEA,HOME,MIN,L (-5),0,7:46,0,0,,0,0,,0,0,,0,1,1,0,0,0,2,3,0,-2.9,-11,Danny Fortson
+2005-01-23,28-302,SEA,HOME,UTA,W (+17),0,5:25,0,2,.000,0,0,,2,2,1.000,1,0,1,0,0,0,1,5,2,-1.7,-7,Danny Fortson
+2005-01-25,28-304,SEA,AWAY,LAL,W (+11),0,20:01,3,5,.600,0,0,,4,4,1.000,5,4,9,0,0,0,2,6,10,8.0,+5,Danny Fortson
+2005-01-26,28-305,SEA,AWAY,UTA,L (-9),0,17:20,0,1,.000,0,0,,4,4,1.000,1,3,4,0,0,0,3,3,4,0.7,-2,Danny Fortson
+2005-01-28,28-307,SEA,AWAY,GSW,W (+3),0,19:04,1,3,.333,0,0,,2,2,1.000,3,4,7,0,0,0,1,2,4,3.8,0,Danny Fortson
+2005-01-31,28-310,SEA,HOME,SAS,L (-19),0,6:40,0,0,,0,0,,2,2,1.000,2,0,2,0,1,0,1,4,2,1.8,-3,Danny Fortson
+2005-02-01,28-311,SEA,AWAY,SAC,W (+5),0,20:18,3,4,.750,0,0,,7,8,.875,2,2,4,0,0,0,2,5,13,9.0,+1,Danny Fortson
+2005-02-05,28-315,SEA,HOME,CHA,W (+14),0,3:53,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,+1,Danny Fortson
+2005-02-08,28-318,SEA,HOME,NOH,W (+17),0,12:31,2,3,.667,0,0,,1,2,.500,4,3,7,0,1,0,2,4,5,4.4,+9,Danny Fortson
+2005-02-10,28-320,SEA,HOME,SAC,W (+8),0,16:33,0,0,,0,0,,2,2,1.000,1,3,4,0,1,0,1,2,2,2.8,+3,Danny Fortson
+2005-02-11,28-321,SEA,AWAY,PHO,W (+8),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Danny Fortson
+2005-02-22,28-332,SEA,AWAY,HOU,W (+2),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Danny Fortson
+2005-02-27,28-337,SEA,AWAY,MIL,L (-26),0,21:51,1,4,.250,0,0,,4,4,1.000,3,7,10,0,1,1,2,6,6,5.1,0,Danny Fortson
+2005-03-01,28-339,SEA,AWAY,IND,W (+8),0,15:51,1,3,.333,0,0,,0,0,,1,3,4,0,0,0,2,5,2,-2.1,+5,Danny Fortson
+2005-03-02,28-340,SEA,AWAY,CLE,W (+17),0,15:48,1,2,.500,0,0,,6,6,1.000,3,4,7,0,0,0,0,5,8,8.3,+16,Danny Fortson
+2005-03-04,28-342,SEA,HOME,DET,W (+8),0,17:13,2,4,.500,0,0,,2,2,1.000,3,5,8,0,0,0,0,4,6,6.0,+1,Danny Fortson
+2005-03-06,28-344,SEA,HOME,PHO,L (-11),0,16:25,1,4,.250,0,0,,1,1,1.000,3,3,6,0,0,0,1,4,3,1.0,-12,Danny Fortson
+2005-03-08,28-346,SEA,HOME,HOU,L (-2),0,10:08,0,1,.000,0,0,,2,2,1.000,0,1,1,0,0,0,0,4,2,0.0,-13,Danny Fortson
+2005-03-13,28-351,SEA,AWAY,NYK,W (+10),0,18:23,2,2,1.000,0,0,,2,2,1.000,0,2,2,0,0,0,1,6,6,2.6,+1,Danny Fortson
+2005-03-15,28-353,SEA,AWAY,CHI,W (+6),0,6:40,1,2,.500,0,0,,2,3,.667,1,2,3,0,0,0,2,6,4,-0.5,-6,Danny Fortson
+2005-03-16,28-354,SEA,AWAY,DET,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Danny Fortson
+2005-03-20,28-358,SEA,AWAY,LAL,W (+2),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Danny Fortson
+2005-03-24,28-362,SEA,AWAY,POR,W (+5),0,14:52,0,3,.000,0,0,,4,4,1.000,3,2,5,0,1,0,3,2,4,1.8,-9,Danny Fortson
+2005-03-29,29-002,SEA,AWAY,MEM,W (+3),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Danny Fortson
+2005-03-30,29-003,SEA,AWAY,SAS,L (-13),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Danny Fortson
+2005-04-01,29-005,SEA,HOME,POR,W (+2),0,16:33,1,4,.250,0,0,,0,0,,2,4,6,0,0,0,2,3,2,-1.0,-3,Danny Fortson
+2005-04-03,29-007,SEA,AWAY,GSW,L (-9),0,20:40,1,3,.333,0,0,,8,8,1.000,3,5,8,0,1,0,3,4,10,8.3,-3,Danny Fortson
+2005-04-05,29-009,SEA,AWAY,SAC,L (-21),0,15:16,2,4,.500,0,0,,4,4,1.000,2,1,3,0,0,0,0,4,8,6.1,-14,Danny Fortson
+2005-04-08,29-012,SEA,HOME,LAL,L (-23),0,14:11,0,0,,0,0,,3,4,.750,0,3,3,1,0,0,0,4,3,2.6,-3,Danny Fortson
+2005-04-09,29-013,SEA,AWAY,DEN,L (-16),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Danny Fortson
+2005-04-13,29-017,SEA,HOME,DAL,L (-5),0,15:38,1,2,.500,0,0,,3,4,.750,2,5,7,0,0,0,3,2,5,2.7,0,Danny Fortson
+2005-04-15,29-019,SEA,HOME,NOH,W (+25),0,15:33,2,3,.667,0,0,,1,2,.500,2,2,4,0,0,1,2,3,5,2.8,+5,Danny Fortson
+2005-04-17,29-021,SEA,AWAY,MIN,W (+15),0,15:21,3,5,.600,0,0,,1,1,1.000,1,0,1,0,0,1,0,3,7,4.9,-5,Danny Fortson
+2005-04-19,29-023,SEA,AWAY,DAL,L (-5),0,2:11,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-5,Danny Fortson

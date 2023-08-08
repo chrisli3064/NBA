@@ -1,0 +1,4 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+2000-03-10,26-222,LAC,HOME,CHH,L (-17),0,3:22,.000,.000,36.4,37.2,36.8,0.0,0.0,0.0,0.0,45.7,27,121,-1.5,-44.2,Mario Bennett
+2000-03-14,26-226,LAC,HOME,DEN,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mario Bennett
+2000-03-15,26-227,LAC,AWAY,SAC,L (-20),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Mario Bennett

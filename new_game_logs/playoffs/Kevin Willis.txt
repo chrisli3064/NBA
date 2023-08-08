@@ -1,0 +1,30 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2004-04-17,41-224,SAS,HOME,MEM,W (+24),0,2:56,0,1,.000,0,0,,0,0,,0,0,0,0,1,0,0,0,0,0.3,+3,Kevin Willis
+2004-04-19,41-226,SAS,HOME,MEM,W (+17),0,2:03,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,2,2.0,-2,Kevin Willis
+2004-04-25,41-232,SAS,AWAY,MEM,W (+13),0,1:06,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1,Kevin Willis
+2004-05-02,41-239,SAS,HOME,LAL,W (+10),0,3:06,0,0,,0,0,,0,0,,0,3,3,0,0,0,0,2,0,0.1,+4,Kevin Willis
+2004-05-05,41-242,SAS,HOME,LAL,W (+10),0,0:31,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-2,Kevin Willis
+2004-05-09,41-246,SAS,AWAY,LAL,L (-24),0,10:10,2,4,.500,0,1,.000,0,1,.000,0,1,1,0,0,0,0,2,4,1.1,-7,Kevin Willis
+2004-05-15,41-252,SAS,AWAY,LAL,L (-12),0,4:14,0,2,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.8,+1,Kevin Willis
+2000-04-23,37-230,TOR,AWAY,NYK,L (-4),0,22:00,6,14,0.429,0,0,,1,2,0.5,2,9,11,1,0,0,0,3,13,8.8,9,Kevin Willis
+2000-04-26,37-233,TOR,AWAY,NYK,L (-1),0,32:21,4,10,0.4,0,0,,8,10,0.8,2,8,10,0,1,0,2,5,16,10.6,-6,Kevin Willis
+2000-04-30,37-237,TOR,HOME,NYK,L (-7),0,22:15,2,9,0.222,0,0,,6,8,0.75,2,3,5,0,1,0,0,3,10,5.8,0,Kevin Willis
+2003-04-19,40-225,SAS,HOME,PHO,L (-1),0,0:29,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,0,Kevin Willis
+2003-04-21,40-227,SAS,HOME,PHO,W (+8),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Kevin Willis
+2003-04-25,40-231,SAS,AWAY,PHO,W (+13),0,0:38,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-2,Kevin Willis
+2003-04-27,40-233,SAS,AWAY,PHO,L (-2),0,3:01,0,0,,0,0,,0,0,,0,0,0,0,0,0,2,0,0,-2.0,-2,Kevin Willis
+2003-05-05,40-241,SAS,HOME,LAL,W (+5),0,1:32,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7,-1,Kevin Willis
+2003-05-07,40-243,SAS,HOME,LAL,W (+19),0,12:01,4,7,.571,0,0,,0,0,,1,3,4,0,0,0,0,0,8,6.3,+6,Kevin Willis
+2003-05-09,40-245,SAS,AWAY,LAL,L (-15),0,10:10,4,7,.571,0,0,,0,0,,4,0,4,1,1,0,1,1,8,7.8,+7,Kevin Willis
+2003-05-11,40-247,SAS,AWAY,LAL,L (-4),0,15:01,3,4,.750,0,0,,0,0,,3,1,4,1,0,0,2,4,6,3.9,-15,Kevin Willis
+2003-05-15,40-251,SAS,AWAY,LAL,W (+28),0,8:52,2,3,.667,0,0,,0,0,,2,2,4,0,0,0,0,3,4,3.5,+15,Kevin Willis
+2003-05-19,40-255,SAS,HOME,DAL,L (-3),0,10:01,4,6,.667,0,0,,1,1,1.000,2,3,5,0,0,0,0,1,9,8.3,+5,Kevin Willis
+2003-05-21,40-257,SAS,HOME,DAL,W (+13),0,0:25,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-3,Kevin Willis
+2003-05-23,40-259,SAS,AWAY,DAL,W (+13),0,2:44,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-9,Kevin Willis
+2003-05-27,40-263,SAS,HOME,DAL,L (-12),0,1:31,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1,Kevin Willis
+2003-05-29,40-265,SAS,AWAY,DAL,W (+12),0,1:16,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.1,+2,Kevin Willis
+2003-06-06,40-273,SAS,HOME,NJN,L (-2),0,1:06,0,1,.000,0,0,,0,0,,1,1,2,0,0,0,0,0,0,0.3,+1,Kevin Willis
+2003-06-08,40-275,SAS,AWAY,NJN,W (+5),0,3:25,1,1,1.000,0,0,,0,0,,1,0,1,0,0,0,1,1,2,1.0,-1,Kevin Willis
+2003-06-11,40-278,SAS,AWAY,NJN,L (-1),0,16:31,2,7,.286,0,0,,2,2,1.000,5,0,5,0,0,1,2,3,6,2.9,+3,Kevin Willis
+2003-06-13,40-280,SAS,AWAY,NJN,W (+10),0,0:56,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+5,Kevin Willis
+2003-06-15,40-282,SAS,HOME,NJN,W (+11),0,0:36,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Kevin Willis

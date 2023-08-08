@@ -1,0 +1,52 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2020-12-31,26-001,TOR,HOME,NYK,W (+17),0,2:48,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-0.4,-1,Paul Watson
+2021-01-04,26-005,TOR,HOME,BOS,L (-12),0,3:03,0,0,,0,0,,0,0,,0,1,1,0,0,1,0,1,0,0.6,+2,Paul Watson
+2021-01-08,26-009,TOR,AWAY,SAC,W (+21),0,2:17,1,1,1.000,0,0,,0,0,,1,0,1,0,0,0,0,0,2,2.4,-1,Paul Watson
+2021-01-18,26-019,TOR,HOME,DAL,W (+23),0,2:04,1,1,1.000,1,1,1.000,0,0,,0,2,2,0,0,0,0,0,3,3.3,+5,Paul Watson
+2021-01-22,26-023,TOR,HOME,MIA,W (+20),0,2:23,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7,0,Paul Watson
+2021-01-25,26-026,TOR,AWAY,IND,L (-15),0,4:14,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,1,3,2.3,-5,Paul Watson
+2021-01-27,26-028,TOR,HOME,MIL,L (-7),0,5:03,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,1,3,0,-2.9,+3,Paul Watson
+2021-01-29,26-030,TOR,HOME,SAC,L (-2),0,0:10,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3,Paul Watson
+2021-01-31,26-032,TOR,HOME,ORL,W (+13),0,8:27,2,3,.667,2,3,.667,0,0,,0,1,1,1,0,0,0,0,6,5.7,-14,Paul Watson
+2021-02-02,26-034,TOR,AWAY,ORL,W (+15),0,2:37,1,2,.500,1,2,.500,0,0,,0,2,2,0,0,0,0,0,3,2.6,-3,Paul Watson
+2021-02-08,26-040,TOR,AWAY,MEM,W (+15),0,3:40,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-13,Paul Watson
+2021-02-10,26-042,TOR,AWAY,WAS,W (+22),0,2:27,0,1,.000,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0.0,+3,Paul Watson
+2021-02-11,26-043,TOR,AWAY,BOS,L (-14),0,2:53,2,2,1.000,2,2,1.000,0,0,,0,1,1,1,0,0,0,1,6,6.0,0,Paul Watson
+2021-02-18,26-050,TOR,AWAY,MIL,W (+14),0,1:01,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-1,Paul Watson
+2021-03-03,26-063,TOR,HOME,DET,L (-24),0,18:52,0,3,.000,0,3,.000,0,0,,1,3,4,0,0,0,0,0,0,-0.5,-4,Paul Watson
+2021-03-04,26-064,TOR,AWAY,BOS,L (-7),0,12:21,1,2,.500,1,2,.500,0,0,,0,1,1,0,0,0,0,2,3,1.5,+1,Paul Watson
+2021-03-11,26-071,TOR,HOME,ATL,L (-1),0,20:23,1,6,.167,1,4,.250,0,0,,0,5,5,1,1,0,0,1,3,2.0,+16,Paul Watson
+2021-03-13,26-073,TOR,AWAY,CHO,L (-10),0,27:27,5,10,.500,2,6,.333,0,0,,0,1,1,2,2,0,1,3,12,8.5,+7,Paul Watson
+2021-03-14,26-074,TOR,AWAY,CHI,L (-23),0,27:25,1,4,.250,0,3,.000,1,2,.500,1,1,2,2,1,0,3,5,3,-1.4,+1,Paul Watson
+2021-03-17,26-077,TOR,AWAY,DET,L (-4),0,21:28,1,3,.333,1,2,.500,0,0,,0,4,4,0,1,0,0,2,3,2.7,+1,Paul Watson
+2021-03-19,26-079,TOR,HOME,UTA,L (-3),0,14:34,0,0,,0,0,,1,2,.500,0,1,1,1,0,0,1,4,1,-1.0,-11,Paul Watson
+2021-03-21,26-081,TOR,AWAY,CLE,L (-11),0,5:26,1,1,1.000,1,1,1.000,0,0,,0,0,0,1,0,0,0,0,3,3.4,-9,Paul Watson
+2021-03-22,26-082,TOR,AWAY,HOU,L (-18),0,22:09,2,4,.500,2,4,.500,0,0,,0,2,2,0,0,0,0,4,6,3.0,-8,Paul Watson
+2021-03-24,26-084,TOR,HOME,DEN,W (+24),0,20:55,4,7,.571,4,7,.571,0,0,,0,6,6,2,0,0,0,3,12,10.7,+21,Paul Watson
+2021-04-14,26-105,TOR,HOME,SAS,W (+5),0,14:39,3,4,.750,2,3,.667,1,2,.500,0,2,2,0,0,0,1,0,9,6.6,+3,Paul Watson
+2021-04-16,26-107,TOR,HOME,ORL,W (+11),1,25:38,10,13,.769,8,11,.727,2,2,1.000,0,4,4,1,1,1,1,3,30,26.3,-3,Paul Watson
+2021-04-18,26-109,TOR,HOME,OKC,W (+6),1,22:14,0,10,.000,0,6,.000,0,0,,1,3,4,5,0,0,1,2,0,-3.7,+10,Paul Watson
+2021-05-08,26-129,TOR,HOME,MEM,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Paul Watson
+2021-05-11,26-132,TOR,HOME,LAC,L (-19),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Paul Watson
+2021-05-13,26-134,TOR,AWAY,CHI,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Paul Watson
+2021-05-14,26-135,TOR,AWAY,DAL,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Paul Watson
+2021-05-16,26-137,TOR,HOME,IND,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Paul Watson
+2021-11-29,26-334,OKC,AWAY,HOU,L (-13),0,20:08,0,4,.000,0,4,.000,0,0,,1,5,6,0,0,2,1,1,0,-0.6,+6,Paul Watson
+2021-12-01,26-336,OKC,HOME,HOU,L (-4),0,18:39,1,2,.500,1,2,.500,0,0,,0,2,2,1,0,0,0,0,3,3.3,-3,Paul Watson
+2021-12-02,26-337,OKC,AWAY,MEM,L (-73),0,32:06,1,8,.125,1,6,.167,1,2,.500,1,2,3,2,0,1,1,3,4,-0.4,-40,Paul Watson
+2021-12-08,26-343,OKC,AWAY,TOR,W (+1),0,2:50,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,1,0,0,-1.4,-5,Paul Watson
+2021-12-10,26-345,OKC,HOME,LAL,L (-21),0,4:38,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,1,0,0.6,0,Paul Watson
+2021-12-28,26-363,OKC,AWAY,SAC,L (-6),1,22:16,2,5,.400,1,4,.250,0,0,,0,4,4,2,2,0,0,3,5,5.7,-5,Paul Watson
+2021-12-29,26-364,OKC,AWAY,PHO,L (-18),1,36:50,5,9,.556,1,5,.200,0,0,,0,6,6,2,0,0,1,1,11,8.5,-15,Paul Watson
+2021-12-31,27-001,OKC,HOME,NYK,W (+15),1,14:17,1,3,.333,0,1,.000,0,0,,1,2,3,0,0,0,0,1,2,1.2,-5,Paul Watson
+2022-01-07,27-008,OKC,HOME,MIN,L (-30),0,4:28,2,3,.667,2,3,.667,0,0,,0,2,2,1,0,0,0,0,6,6.0,+11,Paul Watson
+2020-01-08,25-009,ATL,HOME,HOU,L (-7),0,4:00,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,1,0,-0.8,+2,Paul Watson
+2020-01-12,25-013,ATL,AWAY,BRK,L (-22),0,13:29,0,6,.000,0,2,.000,0,0,,0,1,1,3,1,0,0,0,0,-0.8,+8,Paul Watson
+2020-01-31,25-032,TOR,AWAY,DET,W (+13),0,1:33,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-6,Paul Watson
+2020-02-02,25-034,TOR,HOME,CHI,W (+27),0,3:12,0,0,,0,0,,1,2,.500,0,1,1,1,0,0,0,0,1,1.6,+3,Paul Watson
+2020-02-23,25-055,TOR,HOME,IND,W (+46),0,3:36,0,1,.000,0,1,.000,0,0,,0,1,1,1,0,1,0,0,0,1.0,+4,Paul Watson
+2020-08-01,25-215,TOR,HOME,LAL,W (+15),0,1:27,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1,Paul Watson
+2020-08-07,25-221,TOR,HOME,BOS,L (-22),0,5:52,0,0,,0,0,,0,0,,0,2,2,0,0,0,0,1,0,0.2,+13,Paul Watson
+2020-08-10,25-224,TOR,AWAY,MIL,W (+8),0,21:27,1,4,.250,0,2,.000,2,2,1.000,2,2,4,0,1,0,1,1,4,3.2,0,Paul Watson
+2020-08-12,25-226,TOR,AWAY,PHI,W (+4),0,5:08,1,1,1.000,0,0,,2,2,1.000,0,1,1,1,1,0,1,0,4,4.7,+2,Paul Watson
+2020-08-14,25-228,TOR,HOME,DEN,W (+8),0,27:28,8,13,.615,4,6,.667,2,3,.667,0,6,6,2,1,0,1,2,22,18.1,+8,Paul Watson

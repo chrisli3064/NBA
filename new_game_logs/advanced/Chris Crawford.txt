@@ -1,0 +1,220 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+2001-10-30,26-170,ATL,AWAY,HOU,L (-5),0,9:26,.500,.500,12.3,23.1,17.8,0.0,0.0,0.0,0.0,31.6,102,93,3.5,1.4,Chris Crawford
+2001-11-01,26-172,ATL,HOME,WAS,L (-10),0,23:42,.000,.000,18.2,8.2,12.9,5.6,2.2,0.0,33.3,11.2,41,108,-1.3,-11.7,Chris Crawford
+2001-11-03,26-174,ATL,HOME,MIA,W (+7),1,10:08,.500,.500,0.0,10.2,5.5,0.0,0.0,0.0,0.0,9.3,107,97,0.1,-9.4,Chris Crawford
+2001-11-05,26-176,ATL,AWAY,LAC,L (-23),1,22:54,.595,.600,3.9,0.0,2.2,9.7,0.0,3.0,7.8,23.4,112,126,7.3,-2.3,Chris Crawford
+2001-11-07,26-178,ATL,AWAY,UTA,L (-7),1,32:54,.444,.333,3.5,17.7,10.5,6.0,1.6,3.8,21.5,26.1,80,102,5.9,-6.4,Chris Crawford
+2001-11-08,26-179,ATL,AWAY,PHO,L (-28),1,22:10,.536,.500,4.7,14.9,9.7,20.5,0.0,6.0,17.7,22.1,98,113,7.6,2.4,Chris Crawford
+2001-11-10,26-181,ATL,AWAY,SAS,L (-22),0,9:50,1.031,1.000,13.7,43.6,28.2,0.0,0.0,0.0,20.5,22.6,158,118,6.9,10.5,Chris Crawford
+2002-01-08,26-240,ATL,HOME,POR,W (+9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2000-10-31,25-171,ATL,HOME,CHH,L (-24),0,20:41,.307,.125,0.0,9.1,3.1,24.7,0.0,0.0,9.3,23.8,74,126,0.6,-11.3,Chris Crawford
+2000-11-02,25-173,ATL,AWAY,NYK,L (-25),0,26:04,.363,.333,0.0,13.2,4.9,8.3,2.2,0.0,0.0,12.5,85,109,2.3,-5.7,Chris Crawford
+2000-11-04,25-175,ATL,HOME,ORL,L (-3),0,32:43,.644,.536,12.1,20.8,15.8,10.1,3.2,2.5,5.5,22.5,150,113,21.6,8.7,Chris Crawford
+2000-11-06,25-177,ATL,AWAY,VAN,L (-10),0,20:55,.862,.750,5.1,9.9,7.5,15.4,7.1,3.1,0.0,9.4,190,91,11.0,14.0,Chris Crawford
+2000-11-07,25-178,ATL,AWAY,POR,L (-9),0,17:31,.625,.625,5.8,7.1,6.3,22.3,0.0,0.0,20.0,12.8,113,111,4.0,0.9,Chris Crawford
+2000-11-09,25-180,ATL,AWAY,PHO,L (-9),0,4:00,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,22.2,0,105,-1.7,-27.6,Chris Crawford
+2000-11-10,25-181,ATL,AWAY,LAC,L (-9),0,13:21,1.000,1.000,0.0,14.2,7.1,0.0,0.0,0.0,12.5,29.7,158,131,9.2,2.7,Chris Crawford
+2000-11-14,25-185,ATL,HOME,POR,W (+2),1,28:44,.466,.417,0.0,13.8,7.5,0.0,1.8,0.0,13.4,11.8,91,108,2.7,-3.5,Chris Crawford
+2000-11-15,25-186,ATL,AWAY,MIL,L (-10),1,10:34,.750,.750,0.0,0.0,0.0,21.6,0.0,0.0,50.0,19.0,73,108,-0.5,-8.7,Chris Crawford
+2000-11-18,25-189,ATL,HOME,MIN,L (-10),0,5:23,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.6,0,115,-1.1,-16.3,Chris Crawford
+2000-11-22,25-193,ATL,HOME,NYK,W (+4),0,6:53,.000,.000,0.0,0.0,0.0,50.8,0.0,0.0,0.0,7.1,92,106,0.7,1.5,Chris Crawford
+2000-11-24,25-195,ATL,HOME,PHI,L (-9),0,8:04,.500,.500,12.8,14.0,13.3,0.0,0.0,0.0,0.0,12.8,111,93,1.6,-2.4,Chris Crawford
+2000-11-25,25-196,ATL,AWAY,ORL,L (-22),1,28:50,.322,.250,7.7,10.1,9.0,5.4,1.7,4.5,24.4,18.2,64,117,2.0,-9.4,Chris Crawford
+2000-11-28,25-199,ATL,AWAY,WAS,W (+27),1,9:29,.250,.250,0.0,0.0,0.0,0.0,0.0,7.2,20.0,23.4,46,85,-0.7,-10.3,Chris Crawford
+2000-11-30,25-201,ATL,HOME,CHI,L (-9),0,15:53,.515,.333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.3,121,113,0.7,-8.9,Chris Crawford
+2000-12-02,25-203,ATL,HOME,MIL,W (+7),0,3:02,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,105,-0.4,-10.7,Chris Crawford
+2000-12-05,25-206,ATL,HOME,MIA,L (-8),0,4:38,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.9,0,129,-1.4,-26.3,Chris Crawford
+2000-12-08,25-209,ATL,AWAY,MIA,L (-4),0,15:23,.205,.000,7.8,14.9,11.4,22.9,0.0,0.0,17.0,18.4,67,99,-0.3,-8.7,Chris Crawford
+2000-12-09,25-210,ATL,AWAY,CLE,L (-7),0,1:30,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,44.6,0,118,-1.0,-44.4,Chris Crawford
+2001-01-13,25-245,ATL,HOME,LAC,W (+20),0,1:16,1.000,1.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,45.3,200,103,1.7,31.6,Chris Crawford
+2001-01-21,25-253,ATL,AWAY,WAS,L (-4),0,3:13,,,0.0,35.6,18.4,0.0,0.0,0.0,100.0,15.0,0,101,-0.7,-21.2,Chris Crawford
+2001-01-23,25-255,ATL,AWAY,BOS,L (-1),0,30:19,.564,.500,0.0,3.1,1.9,13.0,0.0,0.0,9.3,16.7,118,103,5.7,-2.5,Chris Crawford
+2001-01-26,25-258,ATL,HOME,WAS,L (-7),0,15:07,.333,.333,0.0,28.2,14.8,8.5,7.5,0.0,0.0,9.7,93,110,3.1,-2.5,Chris Crawford
+2001-01-27,25-259,ATL,AWAY,CLE,W (+11),1,11:59,.727,.667,0.0,0.0,0.0,13.8,4.4,5.6,0.0,25.9,157,100,9.8,17.8,Chris Crawford
+2001-01-29,25-261,ATL,HOME,PHO,L (-13),1,31:20,.607,.556,3.6,17.2,10.6,6.4,1.6,0.0,23.3,18.1,97,97,6.2,-2.3,Chris Crawford
+2001-01-31,25-263,ATL,HOME,TOR,W (+5),1,31:04,.636,.667,3.2,9.1,6.3,15.6,0.0,0.0,9.6,14.4,131,115,8.8,-0.3,Chris Crawford
+2001-02-02,25-265,ATL,HOME,MIA,L (-11),1,17:21,.286,.286,0.0,6.3,3.2,9.6,0.0,0.0,22.2,25.5,49,112,-1.9,-16.4,Chris Crawford
+2001-02-03,25-266,ATL,AWAY,ORL,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2001-02-05,25-268,ATL,HOME,DAL,L (-10),0,14:26,.507,.500,13.2,16.3,14.6,0.0,3.8,0.0,18.4,33.7,86,97,4.8,-0.2,Chris Crawford
+2001-02-06,25-269,ATL,AWAY,NJN,L (-6),0,16:17,.205,.000,7.9,18.8,14.0,0.0,0.0,0.0,29.1,18.5,42,98,-2.4,-16.7,Chris Crawford
+2001-02-08,25-271,ATL,AWAY,CHH,L (-17),0,13:11,.515,.333,0.0,8.6,4.3,0.0,0.0,0.0,34.0,20.8,71,119,0.6,-11.9,Chris Crawford
+2001-02-13,25-276,ATL,AWAY,CHI,L (-4),0,31:48,.325,.222,3.1,18.3,10.1,0.0,0.0,2.1,15.7,17.9,65,106,0.0,-14.4,Chris Crawford
+2001-02-14,25-277,ATL,HOME,MIL,L (-4),0,19:48,.510,.400,4.5,11.2,7.5,7.5,0.0,3.2,14.5,14.7,105,111,3.0,-5.2,Chris Crawford
+2001-02-17,25-280,ATL,AWAY,SEA,W (+7),1,33:33,.364,.364,3.9,14.5,9.4,20.0,0.0,0.0,26.7,20.3,75,107,2.5,-9.5,Chris Crawford
+2001-02-18,25-281,ATL,AWAY,GSW,W (+7),1,29:35,.509,.417,0.0,5.2,3.0,5.5,1.6,4.0,6.8,21.5,102,98,9.9,0.5,Chris Crawford
+2001-02-20,25-283,ATL,AWAY,SAC,L (-14),1,32:49,.636,.636,3.3,2.5,2.9,0.0,0.0,0.0,0.0,15.2,130,115,9.3,0.3,Chris Crawford
+2001-02-23,25-286,ATL,AWAY,LAL,L (-7),1,38:59,.771,.714,5.9,11.7,8.8,0.0,1.2,0.0,5.4,20.2,153,116,22.6,6.6,Chris Crawford
+2001-02-24,25-287,ATL,AWAY,DEN,L (-3),1,35:09,.431,.364,2.5,14.6,8.1,0.0,0.0,2.4,19.0,19.2,73,92,3.2,-6.9,Chris Crawford
+2001-02-26,25-289,ATL,AWAY,UTA,L (-17),1,25:59,.403,.429,3.8,0.0,2.2,0.0,0.0,0.0,40.2,20.9,50,115,-4.0,-17.0,Chris Crawford
+2001-02-28,25-291,ATL,HOME,TOR,L (-7),1,22:55,.515,.333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.8,114,112,1.5,-6.3,Chris Crawford
+2001-03-02,25-293,ATL,HOME,CHH,L (-6),1,32:32,.205,.125,3.5,12.5,7.6,0.0,3.3,2.3,17.0,16.5,45,110,-1.3,-11.9,Chris Crawford
+2001-03-03,25-294,ATL,AWAY,SAS,L (-29),1,20:44,.673,.636,0.0,26.6,13.1,0.0,0.0,0.0,7.8,29.4,114,131,10.0,-2.4,Chris Crawford
+2001-03-05,25-296,ATL,HOME,UTA,L (-7),1,30:33,.751,.667,8.4,4.8,6.8,6.5,3.5,0.0,35.3,16.9,101,117,6.4,-1.5,Chris Crawford
+2001-03-07,25-298,ATL,HOME,HOU,L (-6),1,23:55,.676,.625,4.4,13.0,8.8,0.0,2.1,10.7,10.1,17.5,126,103,9.7,5.5,Chris Crawford
+2001-03-09,25-300,ATL,AWAY,PHI,L (-5),1,21:26,.571,.571,5.0,10.2,7.5,0.0,0.0,0.0,22.2,18.8,90,122,2.8,-9.9,Chris Crawford
+2001-03-10,25-301,ATL,HOME,CHI,W (+3),1,28:38,.666,.688,0.0,15.0,7.1,11.9,1.8,2.5,29.1,20.7,95,98,8.1,1.0,Chris Crawford
+2001-03-13,25-304,ATL,HOME,VAN,W (+10),1,3:11,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.9,0,118,-0.7,-20.5,Chris Crawford
+2001-03-16,25-307,ATL,AWAY,IND,L (-6),0,13:49,.368,.400,0.0,0.0,0.0,21.3,0.0,0.0,35.5,26.2,57,117,-2.7,-19.6,Chris Crawford
+2001-03-17,25-308,ATL,HOME,DET,L (-16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2001-03-19,25-310,ATL,HOME,LAL,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2001-03-22,25-313,ATL,HOME,SAS,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2001-03-23,25-314,ATL,AWAY,TOR,L (-26),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2001-03-25,25-316,ATL,AWAY,MIL,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2001-03-27,25-318,ATL,HOME,BOS,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2001-03-29,25-320,ATL,HOME,IND,W (+11),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Chris Crawford
+2001-03-31,25-322,ATL,HOME,DEN,W (+11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2001-04-05,25-327,ATL,AWAY,DAL,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2001-04-07,25-329,ATL,AWAY,HOU,L (-13),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Chris Crawford
+2001-04-11,25-333,ATL,HOME,CLE,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2001-04-13,25-335,ATL,AWAY,NYK,L (-36),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Chris Crawford
+2001-04-14,25-336,ATL,HOME,DET,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2001-04-16,25-338,ATL,AWAY,CHH,L (-23),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Chris Crawford
+2001-04-17,25-339,ATL,HOME,WAS,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2002-11-18,27-189,ATL,HOME,TOR,W (+25),0,5:20,.500,.500,0.0,0.0,0.0,0.0,0.0,17.8,33.3,26.4,65,96,-0.1,-15.5,Chris Crawford
+2002-11-22,27-193,ATL,AWAY,BOS,L (-7),0,9:45,.333,.333,0.0,10.4,5.3,0.0,0.0,0.0,0.0,14.6,69,106,0.2,-11.4,Chris Crawford
+2002-11-23,27-194,ATL,HOME,BOS,L (-10),0,6:02,1.000,1.000,21.6,16.7,18.8,42.1,0.0,0.0,0.0,7.2,217,114,2.2,4.5,Chris Crawford
+2002-11-27,27-198,ATL,AWAY,NOH,L (-12),0,4:58,.694,.500,27.4,0.0,14.5,0.0,0.0,0.0,0.0,26.9,167,132,3.3,5.8,Chris Crawford
+2002-11-30,27-201,ATL,AWAY,ORL,L (-25),0,12:00,.916,.900,7.8,18.6,12.8,0.0,8.4,10.8,11.6,29.4,161,101,15.4,36.2,Chris Crawford
+2002-12-14,27-215,ATL,HOME,PHO,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2002-12-17,27-218,ATL,HOME,WAS,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2002-12-20,27-221,ATL,AWAY,HOU,L (-19),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2002-12-21,27-222,ATL,HOME,PHI,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2002-12-23,27-224,ATL,AWAY,IND,L (-15),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Chris Crawford
+2002-12-27,27-228,ATL,HOME,SAS,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2002-12-28,27-229,ATL,AWAY,WAS,L (-8),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Chris Crawford
+2002-12-30,27-231,ATL,AWAY,MIA,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2003-01-01,27-233,ATL,HOME,MIA,L (-34),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2003-01-04,27-236,ATL,HOME,DET,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2003-01-06,27-238,ATL,HOME,NJN,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2003-01-08,27-240,ATL,HOME,DAL,L (-18),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2003-11-05,28-176,ATL,AWAY,GSW,L (-27),0,7:19,.000,.000,14.0,0.0,7.2,0.0,7.4,0.0,0.0,37.8,9,102,-2.6,-20.5,Chris Crawford
+2003-11-09,28-180,ATL,AWAY,SEA,W (+10),0,1:04,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,103,0.0,-6.2,Chris Crawford
+2003-11-15,28-186,ATL,HOME,NJN,L (-15),0,4:12,.000,.000,0.0,70.6,31.2,0.0,13.4,0.0,50.0,23.3,0,79,-0.1,-10.3,Chris Crawford
+2003-11-18,28-189,ATL,AWAY,MIL,W (+8),0,5:16,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,33.3,22.3,0,113,-2.8,-36.0,Chris Crawford
+2003-11-21,28-192,ATL,AWAY,SAS,L (-39),0,18:15,.508,.429,5.1,0.0,2.9,0.0,0.0,3.8,11.3,21.2,97,123,4.3,-2.5,Chris Crawford
+2003-11-22,28-193,ATL,HOME,CLE,W (+9),0,8:59,.773,.667,23.2,20.1,21.5,0.0,0.0,6.6,0.0,20.2,168,89,7.4,17.1,Chris Crawford
+2003-11-24,28-195,ATL,HOME,DET,L (-5),0,8:55,.000,.000,0.0,0.0,0.0,0.0,0.0,7.4,66.7,15.9,0,109,-2.4,-18.2,Chris Crawford
+2003-12-02,28-203,ATL,HOME,MIL,L (-12),0,9:50,.500,.500,34.0,13.3,24.5,0.0,0.0,0.0,0.0,17.9,133,117,3.6,-0.2,Chris Crawford
+2003-12-05,28-206,ATL,AWAY,TOR,L (-5),0,12:10,.500,.500,0.0,9.7,4.9,0.0,0.0,6.4,25.0,14.5,73,101,0.5,-5.6,Chris Crawford
+2003-12-06,28-207,ATL,AWAY,CLE,L (-10),0,5:51,.750,.750,0.0,0.0,0.0,30.8,0.0,0.0,33.3,24.9,103,121,1.7,6.2,Chris Crawford
+2003-12-16,28-217,ATL,AWAY,MIA,L (-18),0,6:29,,,14.6,13.2,13.9,0.0,0.0,0.0,100.0,7.0,43,118,0.0,-14.5,Chris Crawford
+2003-12-17,28-218,ATL,HOME,GSW,L (-13),0,15:29,.410,.250,13.9,35.6,24.6,19.5,7.1,0.0,17.0,17.8,97,89,5.7,4.1,Chris Crawford
+2003-12-20,28-221,ATL,AWAY,NYK,L (-11),0,15:22,.347,.000,8.4,17.3,12.8,20.6,0.0,5.5,0.0,9.1,119,116,3.6,2.2,Chris Crawford
+2003-12-26,28-227,ATL,AWAY,NOH,L (-30),0,6:03,.868,.750,0.0,20.0,10.7,0.0,0.0,0.0,0.0,22.8,188,124,4.3,17.9,Chris Crawford
+2004-01-02,28-234,ATL,AWAY,MIN,L (-18),0,1:30,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,116,0.0,-9.0,Chris Crawford
+2004-01-09,28-241,ATL,AWAY,LAL,L (-46),0,19:59,.652,.571,8.1,11.8,10.2,15.9,6.0,0.0,9.8,28.0,123,125,10.5,9.0,Chris Crawford
+2004-01-10,28-242,ATL,AWAY,UTA,L (-21),0,11:06,.682,,11.8,11.8,11.8,0.0,0.0,7.7,0.0,10.2,157,103,3.1,1.0,Chris Crawford
+2004-01-14,28-246,ATL,AWAY,IND,L (-7),0,5:00,1.000,1.000,0.0,18.6,9.0,0.0,0.0,14.8,0.0,7.6,200,93,2.3,12.3,Chris Crawford
+2004-01-17,28-249,ATL,HOME,TOR,W (+5),0,3:01,.500,.500,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34.3,98,94,0.6,-4.6,Chris Crawford
+2004-01-19,28-251,ATL,HOME,IND,L (-3),0,2:45,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.6,0,125,-1.5,-37.5,Chris Crawford
+2004-01-21,28-253,ATL,HOME,CHI,W (+10),0,2:04,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,47.4,0,109,-2.1,-65.4,Chris Crawford
+2004-01-23,28-255,ATL,HOME,NYK,L (-2),0,7:16,.500,.500,14.0,0.0,7.8,0.0,0.0,0.0,0.0,23.9,115,127,2.3,-5.2,Chris Crawford
+2004-01-25,28-257,ATL,AWAY,DET,W (+9),0,16:32,.483,.438,8.3,8.1,8.2,11.5,3.6,0.0,9.7,31.9,100,98,4.7,-2.2,Chris Crawford
+2004-01-27,28-259,ATL,HOME,PHO,L (-4),0,14:10,.400,.400,9.3,0.0,4.3,0.0,0.0,0.0,0.0,16.2,91,102,0.8,-8.1,Chris Crawford
+2004-01-29,28-261,ATL,HOME,POR,L (-8),0,5:55,1.000,1.000,0.0,0.0,0.0,28.6,0.0,0.0,50.0,15.5,95,116,1.0,-4.1,Chris Crawford
+2004-01-31,28-263,ATL,HOME,MIL,W (+10),0,5:58,.000,.000,0.0,19.6,11.2,0.0,0.0,0.0,0.0,9.3,0,95,-1.6,-21.6,Chris Crawford
+2004-02-02,28-265,ATL,HOME,LAC,L (-6),0,6:03,.000,.000,0.0,0.0,0.0,22.9,0.0,0.0,0.0,7.7,51,122,-0.4,-10.8,Chris Crawford
+2004-02-06,28-269,ATL,AWAY,BOS,W (+4),0,8:56,.667,.667,16.0,0.0,6.2,0.0,0.0,0.0,25.0,17.5,102,113,2.0,-6.5,Chris Crawford
+2004-02-07,28-270,ATL,HOME,HOU,L (-9),0,8:42,.333,.333,0.0,29.6,13.7,0.0,0.0,0.0,0.0,15.9,71,103,0.5,-7.6,Chris Crawford
+2004-02-09,28-272,ATL,HOME,DAL,W (+6),0,6:45,.000,.000,0.0,12.7,7.0,0.0,0.0,9.9,0.0,6.0,0,98,-0.1,-7.4,Chris Crawford
+2004-02-18,28-281,ATL,AWAY,NJN,L (-6),0,25:20,.707,.650,6.9,22.3,13.6,8.2,2.2,5.6,15.0,23.2,128,107,13.0,6.3,Chris Crawford
+2004-02-20,28-283,ATL,AWAY,MIA,L (-33),1,34:58,.503,.500,6.4,8.6,7.3,14.2,4.4,0.0,8.7,29.1,99,131,13.8,-3.7,Chris Crawford
+2004-02-22,28-285,ATL,AWAY,HOU,L (-2),1,50:17,.478,.447,2.4,14.0,7.7,3.3,3.4,0.0,0.0,19.2,108,107,13.2,-0.2,Chris Crawford
+2004-02-24,28-287,ATL,HOME,PHI,W (+11),1,32:32,.598,.567,3.4,3.6,3.5,15.8,0.0,0.0,5.9,24.8,122,99,11.1,2.0,Chris Crawford
+2004-02-27,28-290,ATL,AWAY,DET,L (-22),1,32:09,.591,.591,2.8,15.0,8.1,0.0,3.3,0.0,8.3,16.8,112,115,9.0,-0.1,Chris Crawford
+2004-02-28,28-291,ATL,HOME,ORL,L (-5),1,44:53,.647,.650,8.2,9.7,9.0,0.0,0.0,1.5,4.6,20.9,126,111,19.8,-0.2,Chris Crawford
+2004-03-02,28-294,ATL,HOME,LAL,W (+1),1,38:14,.409,.400,5.6,0.0,2.8,0.0,1.5,0.0,0.0,19.6,97,110,4.1,-7.4,Chris Crawford
+2004-03-03,28-295,ATL,AWAY,CLE,L (-32),1,32:08,.326,.313,2.9,6.4,4.6,7.3,0.0,3.6,5.6,25.2,66,121,1.8,-10.7,Chris Crawford
+2004-03-05,28-297,ATL,AWAY,ORL,L (-5),1,41:18,.563,.500,2.7,15.0,7.9,4.1,1.3,2.1,7.0,15.0,130,114,10.3,-1.0,Chris Crawford
+2004-03-08,28-300,ATL,HOME,CLE,L (-6),1,37:17,.696,.607,0.0,12.6,6.3,5.1,1.3,0.0,10.0,22.0,132,112,17.7,4.8,Chris Crawford
+2004-03-10,28-302,ATL,AWAY,MIL,L (-14),1,43:20,.455,.389,5.0,17.8,11.3,4.8,0.0,0.0,9.2,23.1,91,103,8.4,-1.0,Chris Crawford
+2004-03-12,28-304,ATL,HOME,WAS,W (+14),1,34:09,.769,.769,0.0,12.8,6.3,4.1,5.7,0.0,7.1,17.7,141,118,16.3,3.1,Chris Crawford
+2004-03-14,28-306,ATL,AWAY,TOR,L (-17),1,37:30,.446,.389,9.1,2.9,6.0,5.4,0.0,0.0,9.0,27.5,95,121,7.3,-5.3,Chris Crawford
+2004-03-16,28-308,ATL,HOME,SEA,L (-8),1,36:44,.611,.611,2.8,10.5,6.3,0.0,0.0,0.0,30.8,15.1,81,127,2.7,-8.6,Chris Crawford
+2004-03-17,28-309,ATL,AWAY,DAL,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2004-03-19,28-311,ATL,AWAY,WAS,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2004-03-20,28-312,ATL,HOME,UTA,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2004-03-22,28-314,ATL,AWAY,NYK,L (-12),1,36:25,.615,.500,2.8,15.4,8.7,18.1,0.0,1.8,17.0,21.6,112,111,13.2,1.9,Chris Crawford
+2004-03-25,28-317,ATL,HOME,NOH,W (+8),1,39:56,.447,.412,3.2,10.4,7.1,8.7,3.0,0.0,0.0,22.9,108,99,10.6,-1.4,Chris Crawford
+2004-03-27,28-319,ATL,HOME,CHI,W (+9),1,32:41,.557,.500,6.9,14.5,11.1,18.8,0.0,0.0,16.8,15.2,110,97,8.1,-1.2,Chris Crawford
+2004-03-29,28-321,ATL,HOME,MEM,L (-3),1,31:19,.594,.500,3.8,17.4,10.2,0.0,0.0,0.0,9.7,28.7,120,124,11.4,-4.8,Chris Crawford
+2004-03-31,28-323,ATL,HOME,MIA,L (-3),1,37:41,.557,.500,2.4,8.8,5.3,12.7,0.0,0.0,13.2,26.3,111,122,11.8,-3.1,Chris Crawford
+2004-04-02,28-325,ATL,AWAY,ORL,W (+8),1,32:57,.587,.536,10.9,9.9,10.4,7.0,1.7,0.0,6.1,23.8,122,105,13.5,1.1,Chris Crawford
+2004-04-04,28-327,ATL,AWAY,NJN,L (-17),1,41:41,.488,.395,2.8,10.1,6.1,0.0,1.3,1.8,4.3,26.9,97,121,12.6,-3.9,Chris Crawford
+2004-04-06,28-329,ATL,HOME,PHI,L (-3),1,45:12,.821,.682,4.7,12.1,7.9,4.2,0.0,1.9,0.0,16.3,179,111,23.5,6.8,Chris Crawford
+2004-04-09,28-332,ATL,AWAY,CHI,W (+15),1,40:03,.457,.429,5.6,18.0,11.6,20.9,7.5,4.0,4.4,25.0,109,92,21.9,5.8,Chris Crawford
+2004-04-10,28-333,ATL,HOME,BOS,W (+11),1,38:17,.539,.500,13.3,10.0,11.6,0.0,1.4,0.0,15.8,29.8,105,112,11.7,-6.6,Chris Crawford
+2004-04-12,28-335,ATL,HOME,NJN,W (+22),1,30:06,.793,.769,0.0,15.8,9.1,4.9,3.8,2.4,6.7,24.8,151,117,18.9,5.9,Chris Crawford
+2004-04-14,28-337,ATL,AWAY,BOS,L (-5),1,31:22,.598,.559,7.6,11.3,9.4,21.7,1.5,0.0,13.0,29.2,121,134,17.1,-0.8,Chris Crawford
+1999-11-02,24-173,ATL,AWAY,WAS,L (-7),0,14:26,.400,.400,13.9,7.0,10.4,0.0,0.0,0.0,16.7,16.8,83,104,1.6,-6.5,Chris Crawford
+1999-11-04,24-175,ATL,HOME,MIL,L (-10),0,2:49,.532,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.6,140,124,0.5,-14.1,Chris Crawford
+1999-11-06,24-177,ATL,HOME,CHI,W (+16),0,23:36,.549,.455,5.7,4.3,4.9,11.8,0.0,0.0,19.0,29.5,105,115,5.3,-10.6,Chris Crawford
+1999-11-08,24-179,ATL,AWAY,DEN,L (-15),0,12:32,.515,.333,0.0,0.0,0.0,0.0,0.0,0.0,20.5,16.8,90,137,0.5,-13.0,Chris Crawford
+1999-11-10,24-181,ATL,AWAY,VAN,L (-5),1,39:43,.491,.441,6.0,0.0,2.9,17.8,2.6,1.5,0.0,20.8,115,104,14.6,4.9,Chris Crawford
+1999-11-13,24-184,ATL,AWAY,POR,L (-36),1,21:30,.615,.500,8.7,26.4,15.8,13.0,2.1,0.0,17.0,11.1,123,125,6.8,0.6,Chris Crawford
+1999-11-14,24-185,ATL,AWAY,LAL,L (-5),1,5:44,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,14.0,0,108,-2.8,-29.5,Chris Crawford
+1999-11-16,24-187,ATL,HOME,CHH,W (+5),1,2:29,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,28.6,0,113,-3.2,-69.5,Chris Crawford
+1999-11-20,24-191,ATL,HOME,ORL,L (-4),0,4:09,.500,.500,25.0,0.0,12.1,0.0,0.0,0.0,0.0,20.9,120,114,0.9,-9.5,Chris Crawford
+1999-11-23,24-194,ATL,HOME,MIA,W (+7),0,7:33,.500,.500,16.2,0.0,7.6,18.2,0.0,8.5,0.0,22.2,135,116,4.1,8.4,Chris Crawford
+1999-11-24,24-195,ATL,AWAY,MIA,L (-2),0,6:25,.000,.000,0.0,17.8,8.9,0.0,0.0,0.0,33.3,22.2,0,106,-2.1,-23.4,Chris Crawford
+1999-11-26,24-197,ATL,AWAY,DET,L (-2),0,3:55,.000,.000,0.0,0.0,0.0,33.3,0.0,0.0,0.0,10.9,49,108,0.0,-3.3,Chris Crawford
+1999-11-30,24-201,ATL,AWAY,TOR,W (+18),0,2:06,1.000,1.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.2,200,114,1.7,14.5,Chris Crawford
+1999-12-04,24-205,ATL,HOME,DET,W (+2),0,9:21,.333,.333,14.4,14.4,14.4,0.0,0.0,0.0,0.0,29.9,85,123,1.2,-15.6,Chris Crawford
+1999-12-08,24-209,ATL,HOME,LAC,W (+18),1,33:57,.536,.500,10.3,8.1,9.1,3.7,1.6,4.0,0.0,12.6,130,90,10.9,3.2,Chris Crawford
+1999-12-10,24-211,ATL,HOME,GSW,L (-8),1,29:39,.454,.462,6.8,3.8,5.4,11.9,0.0,0.0,12.3,22.6,96,116,5.4,-3.4,Chris Crawford
+1999-12-11,24-212,ATL,AWAY,CLE,L (-11),0,14:55,.495,.400,0.0,7.6,3.9,24.1,0.0,0.0,19.8,26.2,92,125,3.4,-7.0,Chris Crawford
+1999-12-14,24-215,ATL,HOME,MIN,W (+11),0,13:43,.200,.200,0.0,12.7,6.9,9.1,0.0,3.9,0.0,14.7,68,100,0.1,-8.8,Chris Crawford
+1999-12-16,24-217,ATL,HOME,LAL,L (-7),0,13:19,.469,.000,16.4,0.0,7.6,12.3,0.0,4.5,23.8,14.1,98,110,2.1,-0.2,Chris Crawford
+1999-12-18,24-219,ATL,HOME,UTA,L (-10),0,8:16,,,15.0,0.0,7.8,18.8,6.8,0.0,100.0,5.7,65,113,0.6,-1.9,Chris Crawford
+1999-12-19,24-220,ATL,AWAY,NJN,L (-8),0,24:48,.492,.364,17.1,17.1,17.1,0.0,0.0,2.8,0.0,23.9,130,111,10.4,1.4,Chris Crawford
+1999-12-22,24-223,ATL,AWAY,BOS,L (-17),0,17:11,.571,.571,18.0,21.7,19.7,0.0,0.0,0.0,0.0,21.6,127,110,7.9,4.7,Chris Crawford
+1999-12-29,24-230,ATL,HOME,IND,L (-27),0,6:50,.510,.400,28.0,0.0,15.4,0.0,0.0,0.0,14.5,40.8,102,126,3.3,-3.4,Chris Crawford
+1999-12-30,24-231,ATL,AWAY,DET,L (-1),1,29:42,.400,.417,10.0,7.7,8.9,5.3,1.8,0.0,6.8,20.8,97,113,4.8,-6.3,Chris Crawford
+2000-01-04,24-236,ATL,AWAY,MIL,L (-3),0,9:43,.500,.500,14.1,13.7,13.9,15.2,5.3,0.0,14.3,32.3,102,121,4.3,-2.6,Chris Crawford
+2000-01-05,24-237,ATL,HOME,DET,L (-12),0,13:53,.515,.333,0.0,10.1,5.1,0.0,0.0,0.0,20.5,17.1,87,139,0.8,-13.2,Chris Crawford
+2000-01-07,24-239,ATL,HOME,TOR,W (+8),0,3:31,.667,.667,44.4,0.0,20.5,0.0,0.0,0.0,0.0,46.9,144,118,2.6,2.7,Chris Crawford
+2000-01-08,24-240,ATL,AWAY,DAL,L (-10),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Chris Crawford
+2000-01-14,24-246,ATL,AWAY,CHI,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2000-01-15,24-247,ATL,HOME,PHI,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2000-01-17,24-249,ATL,HOME,MIL,L (-6),0,3:45,.000,.000,0.0,0.0,0.0,0.0,0.0,16.0,0.0,11.2,0,119,-0.8,-15.9,Chris Crawford
+2000-01-21,24-253,ATL,AWAY,MIA,L (-22),0,7:03,1.136,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.4,250,118,1.2,-5.2,Chris Crawford
+2000-01-22,24-254,ATL,HOME,WAS,W (+18),0,6:41,1.136,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.4,250,115,2.0,0.1,Chris Crawford
+2000-01-25,24-257,ATL,HOME,CHI,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2000-01-29,24-261,ATL,AWAY,ORL,L (-16),0,5:25,.694,.500,0.0,45.7,20.9,0.0,0.0,0.0,25.8,34.5,101,103,2.2,-1.8,Chris Crawford
+2000-02-02,24-265,ATL,AWAY,NJN,W (+8),0,6:38,.000,.000,0.0,14.9,8.1,0.0,0.0,0.0,0.0,6.8,0,106,-0.8,-16.4,Chris Crawford
+2000-02-08,24-271,ATL,AWAY,TOR,L (-21),0,6:52,.931,1.250,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.6,174,126,5.6,21.9,Chris Crawford
+2000-02-09,24-272,ATL,HOME,HOU,W (+16),0,5:57,.615,.500,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.2,140,108,1.2,-5.6,Chris Crawford
+2000-02-15,24-278,ATL,HOME,NJN,W (+17),0,3:41,.000,.000,60.0,0.0,25.3,0.0,0.0,0.0,0.0,33.1,48,110,-0.7,-30.5,Chris Crawford
+2000-02-18,24-281,ATL,AWAY,PHO,L (-12),0,3:59,.694,1.000,0.0,0.0,0.0,0.0,0.0,14.6,0.0,15.8,114,94,2.0,19.9,Chris Crawford
+2000-02-21,24-284,ATL,AWAY,UTA,L (-2),0,6:57,.543,.000,18.0,0.0,8.9,0.0,0.0,0.0,0.0,19.2,137,117,2.2,-1.6,Chris Crawford
+2000-02-23,24-286,ATL,AWAY,SAC,W (+6),0,6:08,1.064,1.000,29.1,0.0,15.7,0.0,0.0,10.7,0.0,12.8,221,104,5.0,16.6,Chris Crawford
+2000-02-25,24-288,ATL,AWAY,SEA,W (+8),0,16:51,.563,.563,12.0,11.5,11.8,21.1,3.3,4.1,0.0,22.5,131,98,10.1,14.0,Chris Crawford
+2000-02-26,24-289,ATL,AWAY,LAC,L (-1),0,7:06,.667,.667,29.8,13.7,21.4,0.0,0.0,0.0,0.0,19.9,146,95,4.4,11.0,Chris Crawford
+2000-02-28,24-291,ATL,AWAY,GSW,L (-5),0,13:05,.333,.333,7.2,12.5,10.1,17.1,4.3,0.0,0.0,21.6,85,88,2.8,0.0,Chris Crawford
+2000-03-01,24-293,ATL,HOME,WAS,L (-19),0,14:16,1.000,1.000,0.0,0.0,0.0,0.0,3.9,5.1,0.0,6.8,200,110,4.3,6.0,Chris Crawford
+2000-03-03,24-295,ATL,HOME,NYK,W (+13),1,21:05,.000,.000,6.9,4.9,5.7,20.2,0.0,0.0,25.0,18.6,30,94,-3.9,-15.7,Chris Crawford
+2000-03-04,24-296,ATL,HOME,SEA,L (-12),1,17:03,.167,.167,6.4,12.5,9.5,18.1,3.2,3.9,25.0,21.6,46,101,-0.2,-9.0,Chris Crawford
+2000-03-06,24-298,ATL,AWAY,MIL,L (-33),1,14:39,.333,.333,0.0,0.0,0.0,0.0,0.0,0.0,40.0,17.1,37,139,-2.5,-23.8,Chris Crawford
+2000-03-07,24-299,ATL,AWAY,CHI,L (-7),1,16:46,.125,.125,12.3,0.0,5.9,16.5,0.0,3.7,0.0,21.9,58,115,-0.9,-14.6,Chris Crawford
+2000-03-09,24-301,ATL,HOME,SAS,L (-26),0,4:42,,,0.0,24.0,12.6,0.0,0.0,0.0,100.0,9.9,0,120,-0.7,-18.1,Chris Crawford
+2000-03-14,24-306,ATL,AWAY,SAS,L (-15),0,4:42,1.250,1.250,21.8,0.0,11.9,0.0,0.0,0.0,33.3,27.8,117,114,4.1,25.8,Chris Crawford
+2000-03-15,24-307,ATL,HOME,IND,L (-6),0,6:24,.500,.500,0.0,21.1,9.6,0.0,0.0,0.0,50.0,29.3,44,123,-1.1,-22.2,Chris Crawford
+2000-03-17,24-309,ATL,HOME,BOS,L (-24),0,21:00,.827,.800,5.9,11.1,8.6,20.9,5.0,0.0,0.0,11.7,176,117,11.4,12.9,Chris Crawford
+2000-03-19,24-311,ATL,HOME,DAL,L (-4),0,4:17,.000,.000,41.4,0.0,22.0,0.0,0.0,0.0,40.0,53.5,18,113,-3.1,-50.0,Chris Crawford
+2000-03-21,24-313,ATL,HOME,MIA,W (+5),0,8:48,.725,.000,0.0,0.0,0.0,0.0,0.0,0.0,26.6,18.6,120,104,2.3,-2.1,Chris Crawford
+2000-03-22,24-314,ATL,AWAY,ORL,L (-13),0,31:21,.541,.429,3.1,13.2,8.0,5.8,3.1,3.6,5.7,23.7,112,100,14.8,5.7,Chris Crawford
+2000-03-24,24-316,ATL,AWAY,NYK,L (-12),0,12:32,.583,.583,0.0,10.3,4.8,0.0,4.1,0.0,14.3,25.8,97,102,3.5,1.5,Chris Crawford
+2000-03-25,24-317,ATL,HOME,CHH,L (-16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2000-03-28,24-320,ATL,HOME,DEN,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2000-03-30,24-322,ATL,HOME,PHO,L (-44),0,10:23,.301,.000,0.0,23.4,10.8,0.0,5.0,0.0,0.0,28.9,71,114,2.0,-4.0,Chris Crawford
+2000-04-01,24-324,ATL,AWAY,HOU,L (-22),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2000-04-04,24-327,ATL,AWAY,MIN,L (-10),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Chris Crawford
+2000-04-05,24-328,ATL,AWAY,PHI,L (-21),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Chris Crawford
+2000-04-07,24-330,ATL,HOME,TOR,L (-20),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2000-04-08,24-331,ATL,AWAY,WAS,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2000-04-10,24-333,ATL,AWAY,BOS,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2000-04-12,24-335,ATL,AWAY,CHH,L (-32),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2000-04-14,24-337,ATL,HOME,PHI,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2000-04-16,24-339,ATL,HOME,CLE,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2000-04-18,24-341,ATL,HOME,NJN,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford
+2000-04-19,24-342,ATL,AWAY,IND,L (-19),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Chris Crawford

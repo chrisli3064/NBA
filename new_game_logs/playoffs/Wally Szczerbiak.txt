@@ -1,0 +1,61 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2009-04-18,32-044,CLE,HOME,DET,W (+18),0,12:46,0,0,,0,0,,2,2,1.000,1,1,2,2,1,0,0,2,2,4.6,-3,Wally Szczerbiak
+2009-04-21,32-047,CLE,HOME,DET,W (+12),0,8:24,0,1,.000,0,1,.000,2,2,1.000,1,2,3,0,0,0,1,1,2,1.2,-9,Wally Szczerbiak
+2009-04-24,32-050,CLE,AWAY,DET,W (+11),0,1:50,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-2,Wally Szczerbiak
+2009-04-26,32-052,CLE,AWAY,DET,W (+21),0,14:48,1,2,.500,0,1,.000,2,2,1.000,3,1,4,0,0,0,0,1,4,5.0,+3,Wally Szczerbiak
+2009-05-05,32-061,CLE,HOME,ATL,W (+27),0,11:32,2,4,.500,1,2,.500,0,0,,0,3,3,2,0,0,0,1,5,4.9,+12,Wally Szczerbiak
+2009-05-07,32-063,CLE,HOME,ATL,W (+20),0,21:03,7,9,.778,0,0,,3,3,1.000,1,2,3,0,0,1,3,4,17,10.9,+1,Wally Szczerbiak
+2009-05-09,32-065,CLE,AWAY,ATL,W (+15),0,7:12,0,2,.000,0,2,.000,0,0,,0,2,2,0,0,0,1,0,0,-1.8,-10,Wally Szczerbiak
+2009-05-11,32-067,CLE,AWAY,ATL,W (+10),0,14:59,3,4,.750,0,0,,0,1,.000,1,1,2,0,1,0,1,1,6,4.6,+9,Wally Szczerbiak
+2009-05-20,32-076,CLE,HOME,ORL,L (-1),0,13:25,0,2,.000,0,1,.000,0,0,,1,2,3,2,0,0,0,3,0,0.1,-7,Wally Szczerbiak
+2009-05-26,32-082,CLE,AWAY,ORL,L (-2),0,20:53,1,4,.250,0,1,.000,0,1,.000,0,2,2,1,0,0,2,3,2,-2.7,-8,Wally Szczerbiak
+2009-05-28,32-084,CLE,HOME,ORL,W (+10),0,13:34,1,3,.333,0,1,.000,0,0,,0,2,2,0,0,0,0,2,2,0.1,-11,Wally Szczerbiak
+2009-05-30,32-086,CLE,AWAY,ORL,L (-13),0,13:57,1,5,.200,1,3,.333,0,0,,0,1,1,0,0,0,1,1,3,-1.2,-9,Wally Szczerbiak
+2002-04-21,25-047,MIN,AWAY,DAL,L (-7),1,43:51,7,15,0.467,1,4,0.25,0,0,,3,5,8,1,0,0,2,2,15,8.8,1,Wally Szczerbiak
+2002-04-24,25-050,MIN,AWAY,DAL,L (-12),1,45:33,9,17,0.529,0,2,0.0,7,8,0.875,4,3,7,2,0,0,3,3,25,17.2,-12,Wally Szczerbiak
+2002-04-28,25-054,MIN,HOME,DAL,L (-13),1,40:34,5,12,0.417,1,3,0.333,9,10,0.9,2,4,6,3,2,0,3,3,20,15.7,-15,Wally Szczerbiak
+2001-04-21,24-047,MIN,AWAY,SAS,L (-5),1,39:28,5,9,0.556,0,0,,3,3,1.0,1,2,3,3,0,0,1,1,13,10.7,5,Wally Szczerbiak
+2001-04-23,24-049,MIN,AWAY,SAS,L (-17),1,27:47,2,7,0.286,0,0,,1,2,0.5,1,3,4,2,1,0,2,2,5,1.7,-21,Wally Szczerbiak
+2001-04-28,24-054,MIN,HOME,SAS,W (+9),1,36:51,5,9,0.556,0,1,0.0,8,11,0.727,1,5,6,3,2,2,7,1,18,12.8,6,Wally Szczerbiak
+2001-04-30,24-056,MIN,HOME,SAS,L (-13),1,39:21,6,12,0.5,0,0,,8,9,0.889,1,4,5,2,2,1,2,2,20,16.8,-12,Wally Szczerbiak
+2003-04-20,26-046,MIN,HOME,LAL,L (-19),1,41:02,5,9,0.556,0,2,0.0,5,6,0.833,0,3,3,1,0,0,3,4,15,7.3,-19,Wally Szczerbiak
+2003-04-22,26-048,MIN,HOME,LAL,W (+28),1,41:09,6,11,0.545,0,1,0.0,9,11,0.818,1,3,4,1,1,0,5,4,21,11.6,27,Wally Szczerbiak
+2003-04-24,26-050,MIN,AWAY,LAL,W (+4),1,49:50,5,10,0.5,1,4,0.25,2,2,1.0,1,5,6,1,2,1,5,5,13,6.6,2,Wally Szczerbiak
+2003-04-27,26-053,MIN,AWAY,LAL,L (-5),1,40:07,6,16,0.375,1,6,0.167,2,2,1.0,1,5,6,3,0,0,0,1,15,10.1,-4,Wally Szczerbiak
+2003-04-29,26-055,MIN,HOME,LAL,L (-30),1,38:48,3,7,0.429,1,1,1.0,2,2,1.0,0,5,5,2,1,0,4,2,9,4.4,-29,Wally Szczerbiak
+2003-05-01,26-057,MIN,AWAY,LAL,L (-16),1,41:01,4,8,0.5,0,0,,6,7,0.857,3,3,6,5,2,0,1,3,14,15.9,-24,Wally Szczerbiak
+2004-04-18,27-044,MIN,HOME,DEN,W (+14),0,25:33,3,8,.375,1,2,.500,2,2,1.000,0,4,4,2,0,1,2,2,9,5.1,+3,Wally Szczerbiak
+2004-04-21,27-047,MIN,HOME,DEN,W (+14),0,19:10,4,6,.667,0,0,,3,3,1.000,0,1,1,1,0,0,0,5,11,7.4,+17,Wally Szczerbiak
+2004-04-24,27-050,MIN,AWAY,DEN,L (-21),0,27:15,4,12,.333,2,4,.500,1,2,.500,0,1,1,0,0,0,3,2,11,0.3,-7,Wally Szczerbiak
+2004-04-27,27-053,MIN,AWAY,DEN,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Wally Szczerbiak
+2004-04-30,27-056,MIN,HOME,DEN,W (+11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Wally Szczerbiak
+2004-05-04,27-060,MIN,HOME,SAC,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Wally Szczerbiak
+2004-05-08,27-064,MIN,HOME,SAC,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Wally Szczerbiak
+2004-05-10,27-066,MIN,AWAY,SAC,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Wally Szczerbiak
+2004-05-12,27-068,MIN,AWAY,SAC,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Wally Szczerbiak
+2004-05-14,27-070,MIN,HOME,SAC,W (+12),0,5:30,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-1.4,0,Wally Szczerbiak
+2004-05-16,27-072,MIN,AWAY,SAC,L (-17),0,19:34,4,9,.444,0,1,.000,4,4,1.000,0,2,2,1,0,0,1,2,12,6.8,-14,Wally Szczerbiak
+2004-05-19,27-075,MIN,HOME,SAC,W (+3),0,19:12,4,7,.571,0,0,,2,2,1.000,4,0,4,3,1,0,1,1,10,11.2,+9,Wally Szczerbiak
+2004-05-21,27-077,MIN,HOME,LAL,L (-9),0,23:34,4,8,.500,1,2,.500,0,0,,0,3,3,1,0,0,4,2,9,1.8,-11,Wally Szczerbiak
+2004-05-23,27-079,MIN,HOME,LAL,W (+18),0,39:12,6,16,.375,2,7,.286,2,2,1.000,1,4,5,7,0,0,4,4,16,8.4,+21,Wally Szczerbiak
+2004-05-25,27-081,MIN,AWAY,LAL,L (-11),0,25:51,6,12,.500,2,4,.500,7,7,1.000,2,5,7,2,2,0,4,4,21,15.7,-4,Wally Szczerbiak
+2004-05-27,27-083,MIN,AWAY,LAL,L (-7),0,33:24,6,15,.400,1,1,1.000,6,6,1.000,2,3,5,0,1,0,2,4,19,10.6,+2,Wally Szczerbiak
+2004-05-29,27-085,MIN,HOME,LAL,W (+2),0,29:56,3,9,.333,0,4,.000,5,7,.714,0,2,2,2,1,0,1,1,11,6.7,+11,Wally Szczerbiak
+2004-05-31,27-087,MIN,AWAY,LAL,L (-6),0,29:08,3,8,.375,1,3,.333,6,6,1.000,0,5,5,1,1,1,2,4,13,8.9,-4,Wally Szczerbiak
+2008-04-19,31-045,CLE,HOME,WAS,W (+7),1,29:18,2,10,0.2,1,6,0.167,3,3,1.0,0,2,2,2,0,0,0,3,8,2.6,12,Wally Szczerbiak
+2008-04-21,31-047,CLE,HOME,WAS,W (+30),1,29:49,6,9,0.667,2,5,0.4,1,1,1.0,1,1,2,1,0,0,1,4,15,10.2,24,Wally Szczerbiak
+2008-04-24,31-050,CLE,AWAY,WAS,L (-36),1,26:59,3,9,0.333,0,0,,0,0,,0,2,2,3,0,0,0,0,6,3.6,-27,Wally Szczerbiak
+2008-04-27,31-053,CLE,AWAY,WAS,W (+3),1,16:25,2,5,0.4,0,2,0.0,2,2,1.0,0,1,1,2,0,0,0,4,6,3.4,-2,Wally Szczerbiak
+2008-04-30,31-056,CLE,HOME,WAS,L (-1),1,17:42,1,6,0.167,1,3,0.333,1,1,1.0,1,1,2,0,1,0,4,1,4,-2.2,2,Wally Szczerbiak
+2008-05-02,31-058,CLE,AWAY,WAS,W (+17),1,32:31,9,18,0.5,6,13,0.462,2,2,1.0,0,2,2,1,0,0,1,4,26,15.7,5,Wally Szczerbiak
+2008-05-06,31-062,CLE,AWAY,BOS,L (-4),1,32:05,5,14,0.357,2,5,0.4,1,1,1.0,1,1,2,2,0,0,0,1,13,7.2,5,Wally Szczerbiak
+2008-05-08,31-064,CLE,AWAY,BOS,L (-16),1,34:36,4,11,0.364,1,4,0.25,4,4,1.0,0,1,1,3,1,0,0,4,13,8.7,-12,Wally Szczerbiak
+2008-05-10,31-066,CLE,HOME,BOS,W (+24),1,42:30,4,10,0.4,2,6,0.333,6,7,0.857,0,0,0,1,0,0,1,1,16,9.5,20,Wally Szczerbiak
+2008-05-12,31-068,CLE,HOME,BOS,W (+11),1,30:39,6,11,0.545,2,4,0.5,0,0,,1,1,2,2,0,0,0,2,14,10.3,-6,Wally Szczerbiak
+2008-05-14,31-070,CLE,AWAY,BOS,L (-7),1,35:52,3,8,0.375,2,6,0.333,2,3,0.667,0,4,4,0,0,0,1,2,10,4.6,-3,Wally Szczerbiak
+2008-05-16,31-072,CLE,HOME,BOS,W (+5),1,30:13,2,11,0.182,1,6,0.167,4,4,1.0,0,2,2,2,0,1,0,2,9,4.0,-4,Wally Szczerbiak
+2008-05-18,31-074,CLE,AWAY,BOS,L (-5),1,15:12,0,3,0.0,0,2,0.0,0,0,,0,1,1,0,0,0,2,4,0,-5.4,-14,Wally Szczerbiak
+2000-04-23,23-049,MIN,AWAY,POR,L (-3),1,28:51,6,11,0.545,0,3,0.0,0,0,,2,1,3,0,1,0,0,5,12,7.4,-1,Wally Szczerbiak
+2000-04-26,23-052,MIN,AWAY,POR,L (-4),1,20:18,1,5,0.2,0,0,,0,0,,0,2,2,0,1,1,0,1,2,0.8,-19,Wally Szczerbiak
+2000-04-30,23-056,MIN,HOME,POR,W (+7),1,22:07,2,6,0.333,0,0,,0,0,,0,1,1,1,1,0,0,0,4,2.6,-4,Wally Szczerbiak
+2000-05-02,23-058,MIN,HOME,POR,L (-8),1,22:47,3,8,0.375,0,0,,0,0,,0,2,2,1,0,0,1,1,6,1.5,-7,Wally Szczerbiak

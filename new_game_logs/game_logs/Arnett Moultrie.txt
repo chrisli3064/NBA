@@ -1,0 +1,85 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2012-11-05,21-353,PHI,HOME,NYK,L (-22),0,3:25,1,1,1.000,0,0,,0,0,,1,0,1,0,0,0,0,0,2,2.4,0,Arnett Moultrie
+2012-11-07,21-355,PHI,AWAY,NOH,W (+15),0,2:05,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,2,0,-0.5,-4,Arnett Moultrie
+2012-11-09,21-357,PHI,AWAY,BOS,W (+6),0,6:29,0,0,,0,0,,0,0,,1,1,2,0,1,0,1,1,0,0.6,-9,Arnett Moultrie
+2012-11-14,21-362,PHI,HOME,DET,L (-18),0,6:34,0,1,.000,0,0,,2,4,.500,2,0,2,0,0,0,0,0,2,1.9,+4,Arnett Moultrie
+2012-11-25,22-007,PHI,HOME,PHO,W (+3),0,7:09,0,2,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-1.4,-6,Arnett Moultrie
+2012-12-04,22-016,PHI,HOME,MIN,L (-17),0,11:02,1,3,.333,0,0,,2,5,.400,3,1,4,1,1,0,0,0,4,5.2,+3,Arnett Moultrie
+2012-12-07,22-019,PHI,HOME,BOS,W (+1),0,7:00,0,3,.000,0,0,,0,0,,1,1,2,0,0,1,0,1,0,-0.8,-2,Arnett Moultrie
+2012-12-08,22-020,PHI,AWAY,BOS,L (-13),0,8:10,1,2,.500,0,0,,2,2,1.000,1,2,3,0,0,0,0,0,4,4.3,-3,Arnett Moultrie
+2012-12-10,22-022,PHI,HOME,DET,W (+7),0,1:34,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,Arnett Moultrie
+2012-12-12,22-024,PHI,HOME,CHI,L (-7),0,3:46,1,1,1.000,0,0,,0,0,,1,0,1,0,0,0,0,0,2,2.4,-8,Arnett Moultrie
+2012-12-19,22-031,PHI,AWAY,HOU,L (-22),0,3:35,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-2,Arnett Moultrie
+2013-01-08,22-051,PHI,HOME,BRK,L (-20),0,6:06,0,0,,0,0,,0,0,,1,0,1,1,0,0,0,1,0,1.0,+1,Arnett Moultrie
+2013-01-26,22-069,PHI,HOME,NYK,W (+17),0,4:05,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,-5,Arnett Moultrie
+2013-01-30,22-073,PHI,HOME,WAS,W (+8),0,0:21,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Arnett Moultrie
+2013-02-04,22-078,PHI,HOME,ORL,W (+17),0,11:43,2,3,.667,0,0,,0,0,,1,1,2,0,0,1,1,0,4,3.4,+3,Arnett Moultrie
+2013-02-06,22-080,PHI,HOME,IND,L (-19),0,20:42,6,9,.667,0,0,,0,0,,3,0,3,0,2,1,0,2,12,12.1,-6,Arnett Moultrie
+2013-02-09,22-083,PHI,HOME,CHA,W (+11),0,13:58,1,3,.333,0,0,,1,3,.333,1,6,7,0,1,0,0,1,3,3.6,-1,Arnett Moultrie
+2013-02-11,22-085,PHI,HOME,LAC,L (-17),0,26:14,4,5,.800,0,0,,0,0,,4,2,6,0,2,0,0,1,8,11.1,+4,Arnett Moultrie
+2013-02-13,22-087,PHI,AWAY,MIL,L (-2),0,19:20,2,5,.400,0,0,,1,2,.500,4,4,8,0,1,0,0,1,5,6.5,+1,Arnett Moultrie
+2013-02-23,22-097,PHI,HOME,MIA,L (-24),0,6:50,0,1,.000,0,0,,0,0,,2,1,3,0,0,0,0,0,0,1.0,-3,Arnett Moultrie
+2013-02-26,22-100,PHI,HOME,ORL,L (-14),0,5:30,1,2,.500,0,0,,0,0,,0,1,1,0,0,0,0,0,2,1.3,+3,Arnett Moultrie
+2013-02-28,22-102,PHI,AWAY,CHI,L (-11),0,6:39,2,2,1.000,0,0,,0,0,,0,0,0,0,0,0,0,1,4,3.0,0,Arnett Moultrie
+2013-03-02,22-104,PHI,HOME,GSW,W (+7),0,7:52,2,2,1.000,0,0,,0,0,,0,0,0,0,0,0,0,1,4,3.0,+10,Arnett Moultrie
+2013-03-03,22-105,PHI,AWAY,WAS,L (-3),0,5:57,3,3,1.000,0,0,,0,0,,1,0,1,0,0,0,1,1,6,4.4,-2,Arnett Moultrie
+2013-03-05,22-107,PHI,HOME,BOS,L (-8),0,19:30,5,5,1.000,0,0,,0,0,,3,1,4,0,1,0,0,2,10,11.1,-13,Arnett Moultrie
+2013-03-06,22-108,PHI,AWAY,ATL,L (-11),0,26:45,4,8,.500,0,0,,0,0,,6,1,7,1,0,0,1,1,8,7.8,-5,Arnett Moultrie
+2013-03-08,22-110,PHI,AWAY,MIA,L (-9),0,14:30,1,2,.500,0,0,,0,0,,2,4,6,0,0,1,0,1,2,3.9,+4,Arnett Moultrie
+2013-03-10,22-112,PHI,AWAY,ORL,L (-8),0,10:54,0,3,.000,0,0,,0,0,,0,1,1,0,0,1,1,1,0,-2.5,-1,Arnett Moultrie
+2013-03-11,22-113,PHI,HOME,BRK,W (+9),0,9:41,1,3,.333,0,0,,0,0,,2,0,2,0,0,0,0,2,2,0.9,+1,Arnett Moultrie
+2013-03-13,22-115,PHI,HOME,MIA,L (-4),0,5:21,0,0,,0,0,,0,0,,0,1,1,0,1,0,0,0,0,1.3,-3,Arnett Moultrie
+2013-03-16,22-118,PHI,HOME,IND,W (+7),0,9:06,0,0,,0,0,,0,0,,1,1,2,0,0,2,0,2,0,1.6,-4,Arnett Moultrie
+2013-03-18,22-120,PHI,HOME,POR,W (+1),0,9:09,0,1,.000,0,0,,3,4,.750,0,3,3,1,1,0,0,0,3,4.5,+8,Arnett Moultrie
+2013-03-20,22-122,PHI,AWAY,LAC,L (-29),0,15:10,0,3,.000,0,0,,0,0,,2,3,5,0,1,0,2,0,0,-0.8,-18,Arnett Moultrie
+2013-03-21,22-123,PHI,AWAY,DEN,L (-1),0,21:53,3,6,.500,0,0,,2,2,1.000,5,3,8,2,0,0,1,2,8,9.0,-11,Arnett Moultrie
+2013-03-24,22-126,PHI,AWAY,SAC,W (+14),0,6:32,1,1,1.000,0,0,,0,0,,0,2,2,0,0,0,1,0,2,1.3,-3,Arnett Moultrie
+2013-03-25,22-127,PHI,AWAY,UTA,L (-16),0,22:45,6,11,.545,0,0,,2,2,1.000,4,4,8,0,1,0,0,1,14,13.3,+2,Arnett Moultrie
+2013-03-27,22-129,PHI,HOME,MIL,W (+8),0,6:27,2,3,.667,0,0,,0,0,,0,3,3,0,0,0,0,0,4,3.6,+4,Arnett Moultrie
+2013-03-29,22-131,PHI,AWAY,CLE,W (+10),0,5:57,1,1,1.000,0,0,,0,0,,0,0,0,1,0,0,1,1,2,1.0,-1,Arnett Moultrie
+2013-04-03,22-136,PHI,AWAY,CHA,L (-5),0,9:01,2,2,1.000,0,0,,0,0,,3,0,3,0,0,0,2,0,4,3.5,+1,Arnett Moultrie
+2013-04-05,22-138,PHI,AWAY,ATL,W (+11),0,6:05,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,0,Arnett Moultrie
+2013-04-06,22-139,PHI,AWAY,MIA,L (-19),0,6:10,1,1,1.000,0,0,,0,0,,0,1,1,0,0,1,0,0,2,2.7,+5,Arnett Moultrie
+2013-04-09,22-142,PHI,AWAY,BRK,L (-21),0,24:03,2,3,.667,0,0,,0,0,,2,2,4,1,1,1,1,5,4,4.1,+2,Arnett Moultrie
+2013-04-10,22-143,PHI,HOME,ATL,L (-23),0,22:12,3,5,.600,0,0,,1,1,1.000,3,4,7,0,0,0,1,1,7,6.6,-7,Arnett Moultrie
+2013-04-12,22-145,PHI,AWAY,WAS,W (+11),0,17:15,3,5,.600,0,0,,1,2,.500,4,1,5,1,2,0,0,1,7,9.7,+5,Arnett Moultrie
+2013-04-14,22-147,PHI,HOME,CLE,W (+14),0,23:32,5,6,.833,0,0,,0,0,,3,3,6,0,0,0,3,2,10,7.0,-10,Arnett Moultrie
+2013-04-15,22-148,PHI,AWAY,DET,L (-8),0,24:48,4,5,.800,0,0,,1,1,1.000,3,2,5,0,1,1,1,4,9,8.9,-14,Arnett Moultrie
+2013-04-17,22-150,PHI,AWAY,IND,W (+10),0,28:50,7,11,.636,0,0,,0,0,,6,6,12,1,0,0,1,3,14,13.6,-1,Arnett Moultrie
+2013-12-28,23-040,PHI,AWAY,PHO,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Arnett Moultrie
+2013-12-29,23-041,PHI,AWAY,LAL,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Arnett Moultrie
+2014-01-01,23-044,PHI,AWAY,DEN,W (+12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Arnett Moultrie
+2014-01-02,23-045,PHI,AWAY,SAC,W (+9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Arnett Moultrie
+2014-01-04,23-047,PHI,AWAY,POR,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Arnett Moultrie
+2014-01-06,23-049,PHI,HOME,MIN,L (-31),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Arnett Moultrie
+2014-01-07,23-050,PHI,AWAY,CLE,L (-18),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Arnett Moultrie
+2014-01-10,23-053,PHI,HOME,DET,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Arnett Moultrie
+2014-01-11,23-054,PHI,HOME,NYK,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Arnett Moultrie
+2014-01-15,23-058,PHI,HOME,CHA,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Arnett Moultrie
+2014-01-17,23-060,PHI,HOME,MIA,L (-15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Arnett Moultrie
+2014-01-20,23-063,PHI,AWAY,WAS,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Arnett Moultrie
+2014-01-22,23-065,PHI,AWAY,NYK,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Arnett Moultrie
+2014-01-24,23-067,PHI,HOME,TOR,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Arnett Moultrie
+2014-01-25,23-068,PHI,HOME,OKC,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Arnett Moultrie
+2014-01-27,23-070,PHI,HOME,PHO,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Arnett Moultrie
+2014-01-29,23-072,PHI,AWAY,BOS,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Arnett Moultrie
+2014-01-31,23-074,PHI,HOME,ATL,L (-26),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Arnett Moultrie
+2014-02-01,23-075,PHI,AWAY,DET,L (-17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Arnett Moultrie
+2014-02-03,23-077,PHI,AWAY,BRK,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Arnett Moultrie
+2014-02-09,23-083,PHI,AWAY,LAC,L (-45),0,15:54,0,3,.000,0,0,,0,0,,1,1,2,0,3,1,1,0,0,1.6,-17,Arnett Moultrie
+2014-02-10,23-084,PHI,AWAY,GSW,L (-43),0,17:32,1,3,.333,0,0,,0,0,,0,4,4,0,0,1,0,2,2,1.4,-12,Arnett Moultrie
+2014-02-12,23-086,PHI,AWAY,UTA,L (-5),0,8:43,1,3,.333,0,0,,0,0,,0,3,3,0,0,0,1,2,2,-0.6,-10,Arnett Moultrie
+2014-02-18,23-092,PHI,HOME,CLE,L (-29),0,16:16,1,2,.500,0,0,,2,2,1.000,1,2,3,0,0,0,0,1,4,3.9,+1,Arnett Moultrie
+2014-02-21,23-095,PHI,HOME,DAL,L (-12),1,30:58,3,5,.600,0,0,,0,1,.000,2,3,5,2,2,0,0,4,6,7.4,-6,Arnett Moultrie
+2014-02-24,23-098,PHI,HOME,MIL,L (-20),1,28:17,2,6,.333,0,0,,2,2,1.000,4,4,8,0,1,1,0,3,6,7.1,-14,Arnett Moultrie
+2014-02-26,23-100,PHI,HOME,ORL,L (-11),0,15:56,0,2,.000,0,0,,0,0,,0,0,0,0,0,1,1,1,0,-2.1,0,Arnett Moultrie
+2014-03-01,23-103,PHI,HOME,WAS,L (-19),0,17:44,1,2,.500,0,0,,0,0,,0,3,3,0,1,0,1,3,2,0.7,+6,Arnett Moultrie
+2014-03-04,23-106,PHI,AWAY,OKC,L (-33),0,7:33,0,2,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-1.4,-2,Arnett Moultrie
+2014-03-08,23-110,PHI,HOME,UTA,L (-12),0,7:19,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,2,2,2,-0.8,+1,Arnett Moultrie
+2014-03-10,23-112,PHI,AWAY,NYK,L (-13),0,13:47,4,5,.800,0,0,,0,0,,2,2,4,0,1,0,0,2,8,8.3,-2,Arnett Moultrie
+2014-03-12,23-114,PHI,HOME,SAC,L (-17),0,7:04,2,4,.500,0,0,,0,0,,1,1,2,0,0,0,1,2,4,1.2,-3,Arnett Moultrie
+2014-03-31,23-133,PHI,AWAY,ATL,L (-8),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Arnett Moultrie
+2014-04-02,23-135,PHI,HOME,CHA,L (-30),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Arnett Moultrie
+2014-04-04,23-137,PHI,AWAY,BOS,W (+9),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Arnett Moultrie
+2014-04-05,23-138,PHI,HOME,BRK,L (-4),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Arnett Moultrie
+2014-04-09,23-142,PHI,AWAY,TOR,L (-11),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Arnett Moultrie

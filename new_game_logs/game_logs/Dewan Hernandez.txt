@@ -1,0 +1,9 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2019-11-18,22-344,TOR,HOME,CHO,W (+36),0,6:22,1,2,.500,0,1,.000,0,0,,0,4,4,0,1,0,1,3,2,1.0,+2,Dewan Hernandez
+2019-11-20,22-346,TOR,HOME,ORL,W (+16),0,1:26,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1,Dewan Hernandez
+2019-11-29,22-355,TOR,AWAY,ORL,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Dewan Hernandez
+2019-12-01,22-357,TOR,HOME,UTA,W (+20),0,1:41,0,3,.000,0,0,,2,2,1.000,2,1,3,0,0,0,0,2,2,0.8,-2,Dewan Hernandez
+2019-12-16,23-007,TOR,HOME,CLE,W (+20),0,1:52,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,+2,Dewan Hernandez
+2020-03-01,23-083,TOR,AWAY,DEN,L (-15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Dewan Hernandez
+2020-08-12,23-247,TOR,AWAY,PHI,W (+4),0,4:12,2,3,.667,1,1,1.000,1,3,.333,0,0,0,2,0,0,1,0,6,4.3,+10,Dewan Hernandez
+2020-08-14,23-249,TOR,HOME,DEN,W (+8),0,12:42,2,6,.333,0,0,,0,0,,3,4,7,1,0,0,1,0,4,3.6,0,Dewan Hernandez

@@ -1,0 +1,21 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2002-04-20,25-078,CHH,HOME,ORL,W (+1),0,4:34,1,1,1.000,0,0,,2,2,1.000,0,1,1,0,0,0,2,3,4,0.8,+2,Robert Traylor
+2002-04-23,25-081,CHH,HOME,ORL,L (-8),0,7:18,1,3,.333,0,0,,1,2,.500,0,1,1,0,0,0,0,3,3,0.0,-9,Robert Traylor
+2002-04-27,25-085,CHH,AWAY,ORL,W (+10),0,10:08,1,4,.250,0,0,,0,0,,0,5,5,1,1,1,0,1,2,3.1,+8,Robert Traylor
+2002-04-30,25-088,CHH,AWAY,ORL,W (+17),0,7:12,0,1,.000,0,0,,1,2,.500,0,2,2,0,1,0,0,0,1,1.5,+7,Robert Traylor
+2002-05-05,25-093,CHH,AWAY,NJN,L (-6),0,18:30,1,4,.250,0,0,,0,0,,2,1,3,1,0,0,1,5,2,-1.0,-2,Robert Traylor
+2002-05-07,25-095,CHH,AWAY,NJN,L (-14),0,4:59,1,3,.333,0,1,.000,0,0,,2,1,3,0,0,1,0,1,2,2.3,-4,Robert Traylor
+2002-05-09,25-097,CHH,HOME,NJN,W (+18),0,5:55,1,1,1.000,0,0,,0,0,,0,0,0,1,0,0,0,0,2,2.4,-8,Robert Traylor
+2002-05-15,25-103,CHH,AWAY,NJN,L (-8),0,3:59,1,3,.333,0,0,,0,0,,0,1,1,0,0,0,1,2,2,-1.2,+2,Robert Traylor
+2003-04-20,26-078,NOH,AWAY,PHI,L (-8),0,12:29,3,5,0.6,0,0,,1,1,1.0,3,3,6,0,1,3,2,3,7,7.6,7,Robert Traylor
+2003-04-23,26-081,NOH,AWAY,PHI,L (-5),0,23:22,3,5,0.6,0,0,,0,1,0.0,2,5,7,0,0,0,1,3,6,4.0,-3,Robert Traylor
+2003-04-26,26-084,NOH,HOME,PHI,W (+14),0,13:30,0,1,0.0,0,0,,0,0,,1,3,4,1,0,0,1,2,0,-0.2,5,Robert Traylor
+2003-04-28,26-086,NOH,HOME,PHI,L (-9),0,8:58,0,2,0.0,0,0,,0,0,,1,2,3,1,0,1,1,3,0,-0.9,-7,Robert Traylor
+2003-04-30,26-088,NOH,AWAY,PHI,W (+2),0,10:04,1,4,0.25,0,0,,0,0,,1,1,2,0,1,0,1,4,2,-1.0,7,Robert Traylor
+2003-05-02,26-090,NOH,HOME,PHI,L (-4),0,24:55,3,5,0.6,0,0,,0,2,0.0,3,5,8,2,1,1,0,2,6,8.8,4,Robert Traylor
+2004-04-18,27-077,NOH,AWAY,MIA,L (-2),0,10:21,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,0,3,2,-0.2,-7,Robert Traylor
+2004-04-21,27-080,NOH,AWAY,MIA,L (-30),0,8:41,2,3,.667,0,0,,0,0,,0,3,3,0,2,0,1,0,4,4.6,-4,Robert Traylor
+2004-05-02,27-091,NOH,HOME,MIA,W (+6),0,16:06,1,3,.333,0,0,,2,3,.667,1,6,7,1,1,1,1,4,4,4.2,+3,Robert Traylor
+2004-05-04,27-093,NOH,AWAY,MIA,L (-8),0,3:29,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-9,Robert Traylor
+2000-04-27,23-086,MIL,AWAY,IND,W (+13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Robert Traylor
+2000-05-01,23-090,MIL,HOME,IND,W (+13),0,3:48,0,1,.000,0,0,,0,0,,1,1,2,1,0,1,0,2,0,0.9,-6,Robert Traylor

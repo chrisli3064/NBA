@@ -1,0 +1,30 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2002-04-21,36-208,POR,AWAY,LAL,L (-8),1,38:09,4,11,0.364,1,4,0.25,2,2,1.0,2,6,8,5,1,1,3,4,11,8.7,-12,Scottie Pippen
+2002-04-25,36-212,POR,AWAY,LAL,L (-7),1,27:55,8,13,0.615,4,5,0.8,0,0,,1,8,9,4,1,1,1,6,20,18.3,1,Scottie Pippen
+2002-04-28,36-215,POR,HOME,LAL,L (-1),1,32:46,6,15,0.4,1,2,0.5,5,6,0.833,5,6,11,8,2,0,6,4,18,14.8,4,Scottie Pippen
+2001-04-22,35-209,POR,AWAY,LAL,L (-13),1,39:53,5,10,0.5,1,4,0.25,2,3,0.667,0,6,6,4,1,0,3,6,13,7.8,-22,Scottie Pippen
+2001-04-26,35-213,POR,AWAY,LAL,L (-18),1,40:14,8,15,0.533,2,7,0.286,3,5,0.6,1,7,8,2,4,1,6,3,21,14.6,-16,Scottie Pippen
+2001-04-29,35-216,POR,HOME,LAL,L (-13),1,36:44,3,13,0.231,0,6,0.0,1,1,1.0,1,2,3,1,3,1,3,5,7,-0.2,-10,Scottie Pippen
+2003-04-19,37-206,POR,AWAY,DAL,L (-10),1,31:54,2,8,.250,1,5,.200,0,0,,0,4,4,5,0,0,4,5,5,-1.1,-19,Scottie Pippen
+2003-04-23,37-210,POR,AWAY,DAL,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scottie Pippen
+2003-04-25,37-212,POR,HOME,DAL,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scottie Pippen
+2003-04-27,37-214,POR,HOME,DAL,W (+19),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scottie Pippen
+2003-04-30,37-217,POR,AWAY,DAL,W (+4),0,15:34,4,6,.667,1,2,.500,0,0,,0,2,2,5,0,0,2,3,9,7.3,+8,Scottie Pippen
+2003-05-02,37-219,POR,HOME,DAL,W (+22),0,6:35,1,2,.500,0,0,,2,2,1.000,1,1,2,1,0,0,0,0,4,4.7,-5,Scottie Pippen
+2003-05-04,37-221,POR,AWAY,DAL,L (-12),0,19:41,2,6,.333,1,2,.500,0,0,,1,2,3,2,0,0,1,0,5,3.3,-16,Scottie Pippen
+2000-04-23,34-211,POR,HOME,MIN,W (+3),1,42:00,9,21,0.429,3,5,0.6,7,8,0.875,1,8,9,2,2,0,0,1,28,22.6,12,Scottie Pippen
+2000-04-26,34-214,POR,HOME,MIN,W (+4),1,38:41,7,15,0.467,3,6,0.5,4,5,0.8,2,5,7,3,2,0,3,2,21,16.1,14,Scottie Pippen
+2000-04-30,34-218,POR,AWAY,MIN,L (-7),1,38:44,6,14,0.429,2,6,0.333,2,2,1.0,1,4,5,6,0,0,1,3,16,12.5,-4,Scottie Pippen
+2000-05-02,34-220,POR,AWAY,MIN,W (+8),1,38:31,4,12,0.333,0,2,0.0,2,4,0.5,1,6,7,6,1,0,6,4,10,2.5,6,Scottie Pippen
+2000-05-07,34-225,POR,HOME,UTA,W (+19),1,38:21,8,14,0.571,1,2,0.5,3,4,0.75,1,4,5,3,3,0,0,2,20,19.2,26,Scottie Pippen
+2000-05-09,34-227,POR,HOME,UTA,W (+18),1,22:49,2,4,0.5,1,3,0.333,0,0,,0,1,1,4,0,0,2,4,5,2.5,17,Scottie Pippen
+2000-05-11,34-229,POR,AWAY,UTA,W (+19),1,35:34,2,9,0.222,0,3,0.0,0,0,,0,2,2,7,1,0,0,1,4,4.6,6,Scottie Pippen
+2000-05-14,34-232,POR,AWAY,UTA,L (-3),1,28:09,2,9,0.222,1,4,0.25,1,2,0.5,4,2,6,4,2,0,2,2,6,5.5,-4,Scottie Pippen
+2000-05-16,34-234,POR,HOME,UTA,W (+2),1,38:12,9,20,0.45,2,7,0.286,3,4,0.75,2,7,9,8,3,1,3,4,23,20.4,-2,Scottie Pippen
+2000-05-20,34-238,POR,AWAY,LAL,L (-15),1,41:02,7,17,0.412,3,11,0.273,2,2,1.0,0,11,11,5,1,0,0,5,19,15.7,-3,Scottie Pippen
+2000-05-22,34-240,POR,AWAY,LAL,W (+29),1,39:08,6,10,0.6,0,1,0.0,9,12,0.75,2,9,11,3,3,0,4,2,21,19.6,20,Scottie Pippen
+2000-05-26,34-244,POR,HOME,LAL,L (-2),1,36:05,5,13,0.385,1,3,0.333,1,2,0.5,1,8,9,6,2,0,3,2,12,10.0,4,Scottie Pippen
+2000-05-28,34-246,POR,HOME,LAL,L (-12),1,43:38,4,12,0.333,0,4,0.0,3,4,0.75,2,8,10,2,3,0,5,5,11,5.0,-9,Scottie Pippen
+2000-05-30,34-248,POR,AWAY,LAL,W (+8),1,43:15,8,12,0.667,2,4,0.5,4,7,0.571,3,3,6,3,6,4,4,4,22,23.9,2,Scottie Pippen
+2000-06-02,34-251,POR,HOME,LAL,W (+10),1,47:11,1,6,0.167,0,3,0.0,7,10,0.7,1,5,6,4,1,2,1,2,9,9.6,10,Scottie Pippen
+2000-06-04,34-253,POR,AWAY,LAL,L (-5),1,43:18,3,10,0.3,2,6,0.333,4,4,1.0,1,9,10,3,2,0,3,6,12,8.3,-6,Scottie Pippen

@@ -1,0 +1,27 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2005-11-02,23-200,UTA,HOME,DAL,W (+11),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Robert Whaley
+2005-11-04,23-202,UTA,AWAY,GSW,W (+6),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Robert Whaley
+2005-11-14,23-212,UTA,HOME,NYK,L (-11),0,5:51,0,1,.000,0,0,,0,0,,0,2,2,1,1,1,2,1,0,-0.1,0,Robert Whaley
+2005-11-15,23-213,UTA,AWAY,SAC,L (-36),0,26:01,4,9,.444,0,0,,0,0,,2,5,7,2,0,0,2,4,8,4.0,-8,Robert Whaley
+2005-11-18,23-216,UTA,AWAY,PHO,L (-8),0,6:05,0,3,.000,0,0,,0,0,,1,0,1,0,1,2,0,0,0,1.0,-2,Robert Whaley
+2005-11-19,23-217,UTA,HOME,MEM,L (-8),0,6:19,0,1,.000,0,0,,0,0,,0,2,2,0,0,0,0,0,0,-0.1,-1,Robert Whaley
+2005-11-21,23-219,UTA,HOME,MIL,W (+20),0,2:11,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1,Robert Whaley
+2005-11-25,23-223,UTA,HOME,GSW,L (-4),0,0:56,0,1,.000,0,0,,0,0,,2,0,2,0,0,0,0,0,0,0.7,-1,Robert Whaley
+2005-11-29,23-227,UTA,HOME,IND,L (-24),0,13:23,0,5,.000,0,0,,0,0,,1,2,3,2,1,2,3,5,0,-3.4,-5,Robert Whaley
+2005-12-07,23-235,UTA,HOME,ATL,W (+12),0,2:13,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,-5,Robert Whaley
+2005-12-09,23-237,UTA,HOME,SEA,L (-16),0,4:09,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1,Robert Whaley
+2005-12-21,23-249,UTA,AWAY,BOS,L (-12),0,17:20,3,4,.750,0,0,,0,0,,2,1,3,2,0,1,1,4,6,5.6,-5,Robert Whaley
+2005-12-23,23-251,UTA,AWAY,NYK,L (-8),0,21:45,5,10,.500,0,0,,1,2,.500,3,0,3,0,0,0,0,5,11,5.7,+1,Robert Whaley
+2005-12-26,23-254,UTA,HOME,MEM,W (+3),0,9:38,0,1,.000,0,0,,0,0,,0,2,2,1,0,0,2,1,0,-1.8,0,Robert Whaley
+2005-12-27,23-255,UTA,AWAY,HOU,W (+8),0,12:24,1,2,.500,0,0,,0,0,,1,4,5,1,1,0,1,3,2,2.4,+3,Robert Whaley
+2006-01-01,23-260,UTA,AWAY,LAL,W (+4),0,7:54,1,2,.500,0,0,,0,0,,0,1,1,2,0,0,0,1,2,2.3,+6,Robert Whaley
+2006-01-03,23-262,UTA,HOME,LAL,W (+10),0,6:44,1,2,.500,0,0,,0,0,,0,2,2,0,1,0,0,1,2,2.2,+1,Robert Whaley
+2006-01-06,23-265,UTA,AWAY,MEM,L (-22),0,18:45,1,4,.250,0,0,,1,2,.500,1,1,2,2,1,1,0,5,3,2.3,-7,Robert Whaley
+2006-01-07,23-266,UTA,AWAY,DET,W (+4),0,0:56,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Robert Whaley
+2006-01-11,23-270,UTA,AWAY,PHI,W (+8),0,0:07,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-1,Robert Whaley
+2006-01-17,23-276,UTA,HOME,TOR,W (+13),0,16:28,3,3,1.000,0,0,,0,0,,0,3,3,1,0,0,1,4,6,4.1,+4,Robert Whaley
+2006-01-20,23-279,UTA,AWAY,DEN,L (-30),0,19:30,2,5,.400,0,0,,1,2,.500,2,0,2,1,1,1,1,6,5,2.3,-16,Robert Whaley
+2006-01-21,23-280,UTA,HOME,CLE,L (-18),0,4:51,1,1,1.000,0,0,,0,0,,0,2,2,1,0,0,0,0,2,3.0,-4,Robert Whaley
+2006-01-23,23-282,UTA,HOME,NJN,W (+11),0,1:24,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4,Robert Whaley
+2006-01-28,23-287,UTA,AWAY,DAL,L (-14),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Robert Whaley
+2006-03-05,23-323,UTA,AWAY,SEA,L (-32),0,6:57,1,3,.333,0,0,,0,0,,1,0,1,1,0,0,0,0,2,1.7,0,Robert Whaley

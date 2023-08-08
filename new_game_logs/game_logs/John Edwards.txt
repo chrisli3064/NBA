@@ -1,0 +1,71 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2005-11-02,24-094,ATL,AWAY,GSW,L (-25),0,6:44,0,0,,0,0,,0,0,,0,1,1,1,0,0,0,2,0,0.2,0,John Edwards
+2005-11-04,24-096,ATL,AWAY,LAC,L (-15),0,16:42,2,3,.667,0,0,,0,0,,0,1,1,0,0,0,1,6,4,-0.4,-7,John Edwards
+2005-11-05,24-097,ATL,AWAY,POR,L (-1),0,15:20,3,6,.500,0,0,,0,0,,2,4,6,1,1,3,0,4,6,7.8,+4,John Edwards
+2005-11-08,24-100,ATL,HOME,LAL,L (-6),0,2:57,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,+5,John Edwards
+2005-11-10,24-102,ATL,HOME,LAC,L (-7),0,8:33,0,2,.000,0,0,,0,0,,1,0,1,0,0,0,0,2,0,-1.5,-3,John Edwards
+2005-11-12,24-104,ATL,HOME,MEM,L (-1),0,13:24,3,6,.500,0,0,,0,1,.000,3,1,4,0,1,1,0,3,6,5.5,+16,John Edwards
+2005-11-15,24-107,ATL,AWAY,SAS,L (-24),0,23:05,4,6,.667,0,0,,0,0,,3,4,7,0,0,2,0,2,8,9.3,-7,John Edwards
+2005-11-17,24-109,ATL,AWAY,DAL,L (-9),0,5:41,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-1,John Edwards
+2005-11-23,24-115,ATL,HOME,BOS,W (+3),0,7:02,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,1,2,1.3,0,John Edwards
+2005-11-25,24-117,ATL,AWAY,IND,W (+2),0,12:43,2,6,.333,0,0,,0,0,,2,1,3,0,0,1,1,2,4,1.2,-6,John Edwards
+2005-11-27,24-119,ATL,HOME,POR,L (-2),0,5:18,0,1,.000,0,0,,0,0,,1,1,2,0,0,0,1,2,0,-1.5,0,John Edwards
+2005-11-29,24-121,ATL,AWAY,HOU,L (-15),0,10:35,1,2,.500,0,0,,2,4,.500,0,0,0,0,0,1,1,2,4,1.1,-9,John Edwards
+2005-11-30,24-122,ATL,HOME,MIA,L (-22),0,6:28,0,0,,0,0,,0,0,,0,1,1,1,1,0,0,0,0,2.0,-10,John Edwards
+2005-12-02,24-124,ATL,HOME,TOR,L (-1),0,2:41,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-3,John Edwards
+2005-12-07,24-129,ATL,AWAY,UTA,L (-12),0,7:12,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,2,0,-1.8,-7,John Edwards
+2005-12-10,24-132,ATL,HOME,SAS,W (+10),0,5:23,1,2,.500,0,0,,0,0,,0,1,1,0,0,0,0,1,2,0.9,-2,John Edwards
+2005-12-14,24-136,ATL,AWAY,PHI,L (-5),1,15:07,2,4,.500,0,0,,0,0,,2,2,4,0,0,0,1,2,4,2.2,+7,John Edwards
+2005-12-16,24-138,ATL,HOME,NYK,W (+11),0,5:36,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,-4,John Edwards
+2005-12-18,24-140,ATL,HOME,DEN,W (+3),0,1:42,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,-1,John Edwards
+2005-12-20,24-142,ATL,AWAY,MIA,L (-19),0,19:36,3,7,.429,0,0,,2,2,1.000,0,2,2,0,0,1,0,3,8,4.4,+3,John Edwards
+2005-12-27,24-149,ATL,HOME,CHA,L (-3),0,2:28,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,-4,John Edwards
+2006-01-11,24-164,ATL,AWAY,WAS,L (-31),0,7:29,0,2,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.8,-9,John Edwards
+2006-01-14,24-167,ATL,HOME,WAS,L (-8),0,7:27,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,1,0,0.3,-2,John Edwards
+2006-01-16,24-169,ATL,HOME,HOU,W (+11),0,4:17,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,+5,John Edwards
+2006-01-18,24-171,ATL,HOME,DET,L (-28),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,John Edwards
+2006-01-20,24-173,ATL,HOME,MIL,L (-16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,John Edwards
+2006-01-23,24-176,ATL,HOME,IND,W (+10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,John Edwards
+2006-01-25,24-178,ATL,HOME,CLE,L (-9),0,2:32,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,1,3,2,-0.5,-4,John Edwards
+2006-01-30,24-183,ATL,HOME,NYK,W (+19),0,9:32,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,0,3,2,-0.2,+7,John Edwards
+2006-03-03,24-215,ATL,HOME,SAC,L (-9),0,4:45,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.7,-8,John Edwards
+2006-03-04,24-216,ATL,AWAY,MIA,L (-2),0,10:29,2,3,.667,0,0,,0,0,,0,4,4,0,0,1,0,5,4,2.6,-4,John Edwards
+2006-03-07,24-219,ATL,HOME,GSW,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,John Edwards
+2006-03-13,24-225,ATL,AWAY,MIL,L (-1),0,0:43,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,John Edwards
+2006-03-19,24-231,ATL,HOME,ORL,W (+1),0,3:47,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,2,0,-0.5,-4,John Edwards
+2006-03-20,24-232,ATL,AWAY,DET,L (-7),0,2:56,0,0,,0,0,,0,0,,0,0,0,0,0,1,0,2,0,-0.1,-5,John Edwards
+2006-03-25,24-237,ATL,HOME,DAL,L (-15),0,3:04,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-4,John Edwards
+2006-03-29,24-241,ATL,HOME,IND,W (+1),0,4:36,1,2,.500,0,0,,2,2,1.000,0,1,1,0,0,0,0,2,4,2.5,-3,John Edwards
+2006-03-31,24-243,ATL,HOME,NJN,L (-3),0,6:45,0,0,,0,0,,0,0,,0,2,2,0,0,0,0,1,0,0.2,-3,John Edwards
+2006-04-02,24-245,ATL,AWAY,MEM,L (-11),1,8:16,1,2,.500,0,0,,0,0,,2,0,2,0,0,1,2,5,2,-0.9,-18,John Edwards
+2006-04-04,24-247,ATL,AWAY,NJN,L (-2),1,14:58,3,4,.750,0,0,,0,0,,0,1,1,1,0,3,3,4,6,2.9,-10,John Edwards
+2006-04-07,24-250,ATL,HOME,WAS,W (+13),0,2:43,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,+1,John Edwards
+2006-04-10,24-253,ATL,AWAY,ORL,L (-17),1,4:23,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,2,0,-0.5,+2,John Edwards
+2006-04-12,24-255,ATL,HOME,CHI,L (-6),0,0:39,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,John Edwards
+2006-04-15,24-258,ATL,AWAY,MIL,W (+6),0,2:22,0,0,,0,0,,2,2,1.000,0,0,0,0,0,0,0,0,2,2.0,+3,John Edwards
+2004-11-06,23-098,IND,HOME,CHI,W (+10),0,0:55,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,John Edwards
+2004-11-10,23-102,IND,HOME,LAC,L (-34),0,14:12,1,3,.333,0,0,,0,0,,1,0,1,0,0,2,1,1,2,1.0,-11,John Edwards
+2004-11-12,23-104,IND,AWAY,PHI,L (-2),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,John Edwards
+2004-11-20,23-112,IND,HOME,ORL,L (-3),0,15:50,1,3,.333,0,0,,0,0,,1,0,1,0,0,0,1,3,2,-1.2,-1,John Edwards
+2004-11-23,23-115,IND,HOME,BOS,W (+10),0,0:27,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,1,0,0.6,-1,John Edwards
+2004-11-28,23-120,IND,AWAY,SEA,L (-8),0,1:48,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-1,John Edwards
+2004-12-01,23-123,IND,AWAY,LAC,L (-12),0,18:58,1,1,1.000,0,0,,0,0,,0,2,2,0,1,0,0,1,2,2.9,-5,John Edwards
+2004-12-03,23-125,IND,AWAY,SAC,L (-26),1,30:58,4,8,.500,0,0,,1,4,.250,3,2,5,2,1,1,1,1,9,8.2,-18,John Edwards
+2004-12-04,23-126,IND,AWAY,GSW,L (-8),0,8:48,0,3,.000,0,0,,0,0,,2,0,2,1,0,0,1,0,0,-1.0,-10,John Edwards
+2004-12-07,23-129,IND,HOME,MIL,L (-3),0,2:49,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-5,John Edwards
+2004-12-10,23-132,IND,AWAY,MIL,L (-9),0,0:15,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,John Edwards
+2004-12-17,23-139,IND,HOME,TOR,W (+3),0,0:52,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3,John Edwards
+2004-12-18,23-140,IND,AWAY,CHI,L (-14),0,4:08,0,0,,0,0,,0,0,,0,1,1,0,0,1,0,0,0,1.0,-5,John Edwards
+2004-12-27,23-149,IND,HOME,NOH,W (+18),0,5:34,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,1,0,2,1.0,-7,John Edwards
+2004-12-30,23-152,IND,AWAY,NJN,W (+13),0,0:42,0,0,,0,0,,1,2,.500,0,1,1,0,0,0,0,0,1,0.9,-1,John Edwards
+2005-01-04,23-157,IND,HOME,MIL,W (+17),0,1:43,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,1,2,1.3,+1,John Edwards
+2005-01-06,23-159,IND,AWAY,SAS,L (-13),0,0:57,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,John Edwards
+2005-01-08,23-161,IND,AWAY,DAL,L (-20),0,5:50,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,1,0,-1.1,+2,John Edwards
+2005-01-09,23-162,IND,AWAY,PHO,L (-35),0,5:37,1,2,.500,0,0,,2,4,.500,1,1,2,0,0,0,0,0,4,3.2,+3,John Edwards
+2005-01-14,23-167,IND,HOME,PHO,W (+18),0,1:56,1,2,.500,0,0,,0,0,,0,1,1,0,0,0,0,0,2,1.3,0,John Edwards
+2005-03-16,23-228,IND,HOME,UTA,W (+19),0,2:53,0,0,,0,0,,3,4,.750,0,0,0,0,0,0,0,1,3,2.2,+1,John Edwards
+2005-03-25,23-237,IND,AWAY,DET,W (+13),0,1:15,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.7,-2,John Edwards
+2005-03-28,23-240,IND,AWAY,MIL,W (+14),0,2:08,0,2,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-1.4,-2,John Edwards
+2005-04-05,23-248,IND,AWAY,NYK,W (+18),0,1:39,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+1,John Edwards
+2005-04-06,23-249,IND,HOME,CLE,W (+21),0,2:25,0,2,.000,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-2.8,-4,John Edwards
+2005-04-08,23-251,IND,HOME,WAS,W (+10),0,0:46,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,John Edwards

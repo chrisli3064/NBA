@@ -1,0 +1,93 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2020-12-22,19-266,GSW,AWAY,BRK,L (-26),1,24:17,7,13,.538,1,1,1.000,4,8,.500,1,5,6,0,2,0,1,2,19,13.5,-10,James Wiseman
+2020-12-25,19-269,GSW,AWAY,MIL,L (-39),1,25:03,5,11,.455,3,4,.750,5,6,.833,3,5,8,0,0,3,2,4,18,14.0,-16,James Wiseman
+2020-12-27,19-271,GSW,AWAY,CHI,W (+1),1,22:37,3,8,.375,1,1,1.000,0,0,,0,3,3,0,1,1,1,4,7,2.6,-4,James Wiseman
+2020-12-29,19-273,GSW,AWAY,DET,W (+10),1,21:44,3,9,.333,0,2,.000,0,0,,1,5,6,1,0,2,2,6,6,0.8,+23,James Wiseman
+2021-01-01,19-276,GSW,HOME,POR,L (-25),1,19:00,2,8,.250,0,2,.000,4,4,1.000,0,5,5,0,0,2,1,4,8,3.5,-22,James Wiseman
+2021-01-03,19-278,GSW,HOME,POR,W (+15),1,21:37,6,9,.667,0,1,.000,0,2,.000,2,9,11,1,0,2,3,4,12,8.9,+12,James Wiseman
+2021-01-04,19-279,GSW,HOME,SAC,W (+31),1,17:26,5,9,.556,0,1,.000,0,1,.000,1,4,5,1,0,2,1,2,10,7.5,+4,James Wiseman
+2021-01-06,19-281,GSW,HOME,LAC,L (-7),1,18:01,5,10,.500,0,0,,0,0,,1,3,4,0,1,1,3,3,10,4.1,-7,James Wiseman
+2021-01-08,19-283,GSW,HOME,LAC,W (+10),1,15:18,3,7,.429,1,2,.500,2,4,.500,2,4,6,0,0,2,1,0,9,7.5,-21,James Wiseman
+2021-01-10,19-285,GSW,HOME,TOR,W (+1),1,16:32,5,7,.714,0,1,.000,0,0,,0,7,7,0,0,0,0,2,10,8.4,-2,James Wiseman
+2021-01-12,19-287,GSW,HOME,IND,L (-9),1,26:03,4,12,.333,0,0,,0,2,.000,4,5,9,0,0,2,2,5,8,2.1,-11,James Wiseman
+2021-01-14,19-289,GSW,AWAY,DEN,L (-10),1,27:23,8,13,.615,0,0,,2,2,1.000,1,4,5,2,1,2,1,4,18,15.2,0,James Wiseman
+2021-01-18,19-293,GSW,AWAY,LAL,W (+2),1,12:51,2,4,.500,0,0,,0,0,,0,3,3,0,1,1,5,5,4,-2.4,-19,James Wiseman
+2021-01-20,19-295,GSW,HOME,SAS,W (+22),1,25:20,8,11,.727,0,0,,4,5,.800,1,5,6,4,0,0,0,4,20,18.5,+17,James Wiseman
+2021-01-21,19-296,GSW,HOME,NYK,L (-15),1,24:47,5,9,.556,0,1,.000,5,7,.714,3,5,8,2,1,0,1,1,15,14.5,-6,James Wiseman
+2021-01-23,19-298,GSW,AWAY,UTA,L (-19),1,24:47,7,15,.467,0,2,.000,1,3,.333,0,5,5,0,0,2,1,2,15,7.6,-10,James Wiseman
+2021-01-25,19-300,GSW,HOME,MIN,W (+22),0,15:47,4,5,.800,0,0,,5,8,.625,1,3,4,0,0,2,2,4,13,9.3,-2,James Wiseman
+2021-01-27,19-302,GSW,HOME,MIN,W (+12),0,24:18,9,14,.643,3,3,1.000,4,6,.667,3,3,6,0,0,2,4,3,25,17.2,+12,James Wiseman
+2021-01-28,19-303,GSW,AWAY,PHO,L (-21),0,18:31,2,9,.222,0,0,,1,2,.500,4,2,6,1,1,0,1,2,5,2.4,-10,James Wiseman
+2021-01-30,19-305,GSW,HOME,DET,W (+27),0,17:15,5,12,.417,0,1,.000,1,1,1.000,2,7,9,2,0,0,0,2,11,8.7,+9,James Wiseman
+2021-02-02,19-308,GSW,HOME,BOS,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,James Wiseman
+2021-02-11,19-317,GSW,HOME,ORL,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,James Wiseman
+2021-02-13,19-319,GSW,HOME,BRK,L (-17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,James Wiseman
+2021-02-17,19-323,GSW,HOME,MIA,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,James Wiseman
+2021-02-19,19-325,GSW,AWAY,ORL,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,James Wiseman
+2021-02-20,19-326,GSW,AWAY,CHO,L (-2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,James Wiseman
+2021-02-23,19-329,GSW,AWAY,NYK,W (+8),0,15:44,6,9,.667,0,0,,2,2,1.000,0,2,2,1,0,0,0,1,14,11.0,-6,James Wiseman
+2021-02-24,19-330,GSW,AWAY,IND,W (+4),0,18:20,5,8,.625,1,1,1.000,0,0,,2,3,5,0,1,0,2,6,11,6.3,+7,James Wiseman
+2021-02-26,19-332,GSW,HOME,CHO,W (+9),0,16:49,7,10,.700,0,0,,2,2,1.000,0,4,4,0,0,0,2,1,16,10.6,-2,James Wiseman
+2021-02-28,19-334,GSW,AWAY,LAL,L (-26),0,25:14,2,7,.286,0,2,.000,1,3,.333,1,7,8,0,0,1,1,6,5,0.2,-7,James Wiseman
+2021-03-03,19-337,GSW,AWAY,POR,L (-2),0,11:22,3,4,.750,0,0,,0,0,,0,2,2,0,0,0,1,4,6,2.4,-6,James Wiseman
+2021-03-04,19-338,GSW,AWAY,PHO,L (-22),1,34:35,5,14,.357,0,2,.000,1,2,.500,3,8,11,2,0,1,0,3,11,8.2,-8,James Wiseman
+2021-03-11,19-345,GSW,AWAY,LAC,L (-26),0,12:00,6,7,.857,1,1,1.000,1,3,.333,1,6,7,0,0,0,2,1,14,10.8,+10,James Wiseman
+2021-03-14,19-348,GSW,HOME,UTA,W (+12),0,23:12,8,11,.727,0,1,.000,0,0,,1,3,4,0,0,1,1,3,16,11.6,-4,James Wiseman
+2021-03-15,19-349,GSW,HOME,LAL,L (-31),0,27:58,3,7,.429,0,1,.000,1,2,.500,5,3,8,1,0,0,3,6,7,2.6,-25,James Wiseman
+2021-03-23,19-357,GSW,HOME,PHI,L (-10),1,25:51,5,13,.385,0,1,.000,1,2,.500,0,4,4,2,0,1,0,3,11,5.6,-7,James Wiseman
+2021-03-25,19-359,GSW,AWAY,SAC,L (-22),1,29:26,3,8,.375,0,1,.000,0,0,,1,7,8,0,0,0,5,4,6,-2.2,-9,James Wiseman
+2021-03-26,19-360,GSW,HOME,ATL,L (-16),1,26:32,7,13,.538,0,1,.000,4,4,1.000,0,5,5,0,1,0,1,4,18,11.6,-17,James Wiseman
+2021-03-29,19-363,GSW,HOME,CHI,W (+14),1,27:48,6,8,.750,0,0,,0,0,,2,3,5,0,0,4,1,4,12,11.3,-8,James Wiseman
+2021-04-01,20-001,GSW,AWAY,MIA,L (-7),1,19:29,1,5,.200,0,0,,2,2,1.000,3,1,4,1,0,0,5,3,4,-2.2,-4,James Wiseman
+2021-04-02,20-002,GSW,AWAY,TOR,L (-53),1,30:34,4,11,.364,1,2,.500,0,0,,1,4,5,2,0,1,3,4,9,2.3,-32,James Wiseman
+2021-04-04,20-004,GSW,AWAY,ATL,L (-6),1,17:39,4,9,.444,0,1,.000,0,0,,1,4,5,0,0,0,0,1,8,4.8,+3,James Wiseman
+2021-04-06,20-006,GSW,HOME,MIL,W (+1),1,25:19,6,13,.462,0,1,.000,1,1,1.000,3,7,10,2,0,1,0,0,13,12.6,-7,James Wiseman
+2021-04-09,20-009,GSW,HOME,WAS,L (-3),1,23:18,9,11,.818,0,1,.000,0,0,,1,5,6,1,0,0,1,4,18,14.2,+4,James Wiseman
+2021-04-10,20-010,GSW,HOME,HOU,W (+16),1,6:07,3,5,.600,0,0,,0,2,.000,0,1,1,0,1,0,0,0,6,4.2,-2,James Wiseman
+2022-10-18,21-201,GSW,HOME,LAL,W (+14),0,16:31,4,6,.667,0,0,,0,4,.000,1,6,7,0,0,1,0,2,8,6.2,-11,James Wiseman
+2022-10-21,21-204,GSW,HOME,DEN,L (-5),0,16:12,4,5,.800,0,0,,3,3,1.000,1,4,5,1,0,0,1,4,11,9.1,-14,James Wiseman
+2022-10-23,21-206,GSW,HOME,SAC,W (+5),0,19:47,5,7,.714,0,0,,4,6,.667,0,6,6,3,0,0,2,3,14,11.0,-10,James Wiseman
+2022-10-25,21-208,GSW,AWAY,PHO,L (-29),0,18:04,5,8,.625,0,0,,2,2,1.000,2,1,3,0,0,2,0,1,12,11.1,-19,James Wiseman
+2022-10-27,21-210,GSW,HOME,MIA,W (+13),0,13:52,5,8,.625,0,0,,0,0,,3,3,6,0,0,0,2,2,10,6.6,+2,James Wiseman
+2022-10-29,21-212,GSW,AWAY,CHO,L (-7),0,4:44,0,2,.000,0,0,,0,0,,0,0,0,1,0,0,0,3,0,-1.9,-5,James Wiseman
+2022-10-30,21-213,GSW,AWAY,DET,L (-14),0,13:04,2,4,.500,0,0,,2,2,1.000,1,3,4,1,0,0,0,2,6,5.5,+9,James Wiseman
+2022-11-01,21-215,GSW,AWAY,MIA,L (-7),0,9:27,2,4,.500,0,0,,1,2,.500,0,0,0,0,0,1,1,3,5,1.1,-9,James Wiseman
+2022-11-03,21-217,GSW,AWAY,ORL,L (-1),0,9:34,1,3,.333,0,0,,0,0,,1,2,3,1,1,0,0,3,2,2.1,-9,James Wiseman
+2022-11-04,21-218,GSW,AWAY,NOP,L (-9),0,16:36,1,1,1.000,0,0,,3,4,.750,1,5,6,2,0,0,2,3,5,4.7,-3,James Wiseman
+2022-11-14,21-228,GSW,HOME,SAS,W (+37),0,9:14,1,3,.333,0,0,,0,0,,1,1,2,2,0,0,0,0,2,2.7,-4,James Wiseman
+2022-12-07,21-251,GSW,AWAY,UTA,L (-1),0,5:02,1,2,.500,0,0,,1,2,.500,1,1,2,0,0,0,0,0,3,2.6,-3,James Wiseman
+2022-12-16,21-260,GSW,AWAY,PHI,L (-12),0,11:13,3,5,.600,0,0,,0,0,,1,3,4,0,0,0,2,3,6,2.1,-7,James Wiseman
+2022-12-18,21-262,GSW,AWAY,TOR,W (+16),0,2:21,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.7,-1,James Wiseman
+2022-12-20,21-264,GSW,AWAY,NYK,L (-38),0,22:05,1,4,.250,0,1,.000,2,2,1.000,0,3,3,0,1,2,2,5,4,0.9,-29,James Wiseman
+2022-12-21,21-265,GSW,AWAY,BRK,L (-30),0,27:48,12,14,.857,1,1,1.000,5,8,.625,1,5,6,2,0,1,1,1,30,26.7,-12,James Wiseman
+2022-12-25,21-269,GSW,HOME,MEM,W (+14),0,8:17,0,0,,0,0,,0,0,,0,5,5,0,0,0,0,1,0,1.1,+8,James Wiseman
+2022-12-27,21-271,GSW,HOME,CHO,W (+5),0,9:44,4,7,.571,0,0,,0,0,,1,1,2,1,0,0,1,0,8,5.4,+1,James Wiseman
+2022-12-28,21-272,GSW,HOME,UTA,W (+5),0,7:21,2,4,.500,0,0,,0,0,,2,2,4,0,0,0,0,1,4,3.6,-2,James Wiseman
+2023-01-02,21-277,GSW,HOME,ATL,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,James Wiseman
+2023-01-04,21-279,GSW,HOME,DET,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,James Wiseman
+2023-02-02,21-308,GSW,AWAY,DEN,L (-17),0,16:35,3,4,.750,0,0,,3,3,1.000,0,2,2,0,1,0,0,2,9,8.2,+7,James Wiseman
+2023-02-06,21-312,GSW,HOME,OKC,W (+27),0,4:41,3,3,1.000,0,0,,0,0,,0,2,2,0,0,0,0,0,6,5.7,+4,James Wiseman
+2023-02-15,21-321,DET,AWAY,BOS,L (-18),0,23:30,5,9,.556,0,1,.000,1,2,.500,2,3,5,0,0,0,0,1,11,8.2,-9,James Wiseman
+2023-02-23,21-329,DET,AWAY,ORL,L (-2),0,23:44,4,10,.400,0,1,.000,0,0,,2,8,10,0,0,1,3,3,8,2.9,+16,James Wiseman
+2023-02-25,21-331,DET,HOME,TOR,L (-4),1,20:25,5,9,.556,0,1,.000,0,0,,0,10,10,0,0,0,2,6,10,4.3,-1,James Wiseman
+2023-02-27,21-333,DET,AWAY,CHO,L (-11),1,26:38,9,11,.818,1,1,1.000,4,6,.667,4,3,7,0,0,0,0,0,23,21.8,-11,James Wiseman
+2023-03-01,21-335,DET,HOME,CHI,L (-2),1,29:10,3,5,.600,0,1,.000,1,2,.500,3,6,9,2,0,0,3,4,7,5.0,-16,James Wiseman
+2023-03-04,21-338,DET,AWAY,CLE,L (-24),1,23:49,1,6,.167,0,1,.000,1,2,.500,0,9,9,1,1,2,4,3,3,-0.6,-26,James Wiseman
+2023-03-06,21-340,DET,HOME,POR,L (-6),1,23:44,5,8,.625,0,0,,2,2,1.000,2,5,7,0,0,3,4,6,12,7.0,-16,James Wiseman
+2023-03-07,21-341,DET,HOME,WAS,L (-2),1,34:16,10,13,.769,0,0,,1,2,.500,2,3,5,3,1,2,2,2,21,19.5,-10,James Wiseman
+2023-03-09,21-343,DET,HOME,CHO,L (-10),1,26:47,8,13,.615,0,0,,0,0,,3,10,13,0,0,1,0,3,16,14.7,+13,James Wiseman
+2023-03-11,21-345,DET,HOME,IND,L (-6),1,25:50,6,11,.545,1,3,.333,3,5,.600,3,6,9,0,0,1,2,4,16,10.9,+9,James Wiseman
+2023-03-13,21-347,DET,HOME,IND,W (+20),1,24:28,8,15,.533,0,1,.000,2,4,.500,5,9,14,1,0,3,2,2,18,16.1,-1,James Wiseman
+2023-03-14,21-348,DET,AWAY,WAS,L (-20),1,30:54,4,15,.267,0,1,.000,4,4,1.000,5,5,10,1,1,1,0,1,12,10.1,-9,James Wiseman
+2023-03-16,21-350,DET,HOME,DEN,L (-19),1,29:55,7,14,.500,0,0,,0,0,,3,6,9,1,0,0,2,3,14,8.4,-13,James Wiseman
+2023-03-19,21-353,DET,HOME,MIA,L (-12),1,33:04,10,13,.769,1,1,1.000,1,1,1.000,4,9,13,0,0,0,1,2,22,20.6,-5,James Wiseman
+2023-03-21,21-355,DET,AWAY,ATL,L (-22),1,19:07,2,6,.333,0,2,.000,2,2,1.000,2,3,5,0,0,0,1,6,6,1.5,-23,James Wiseman
+2023-03-24,21-358,DET,AWAY,TOR,L (-21),1,23:27,7,13,.538,0,0,,0,2,.000,0,4,4,1,0,1,2,1,14,7.1,-12,James Wiseman
+2023-03-27,21-361,DET,HOME,MIL,L (-9),1,20:20,5,12,.417,0,1,.000,4,4,1.000,3,3,6,1,1,0,1,1,14,10.9,-18,James Wiseman
+2023-03-29,21-363,DET,AWAY,OKC,L (-1),1,28:48,7,9,.778,0,0,,0,0,,2,9,11,0,0,0,3,3,14,10.4,-11,James Wiseman
+2023-03-31,22-000,DET,AWAY,HOU,L (-6),1,23:30,4,10,.400,0,2,.000,0,0,,1,3,4,1,0,3,0,6,8,4.6,,James Wiseman
+2023-04-02,22-002,DET,AWAY,ORL,L (-26),1,22:32,4,8,.500,0,0,,4,4,1.000,1,9,10,1,0,0,0,3,12,10.9,-22,James Wiseman
+2023-04-04,22-004,DET,HOME,MIA,L (-13),1,29:41,6,14,.429,0,0,,2,4,.500,2,4,6,1,0,0,1,5,14,6.1,-10,James Wiseman
+2023-04-05,22-005,DET,HOME,BRK,L (-15),1,29:02,5,10,.500,0,1,.000,6,7,.857,0,3,3,2,0,1,0,1,16,13.2,+6,James Wiseman
+2023-04-07,22-007,DET,AWAY,IND,W (+7),1,7:31,1,2,.500,0,0,,1,2,.500,0,3,3,0,0,0,0,1,3,2.1,-14,James Wiseman
+2023-04-09,22-009,DET,AWAY,CHI,L (-22),1,24:50,4,9,.444,0,0,,3,4,.750,6,6,12,0,0,1,4,2,11,7.8,-31,James Wiseman

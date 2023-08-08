@@ -1,0 +1,52 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2002-04-21,27-291,DAL,HOME,MIN,W (+7),0,10:07,1,3,.333,0,1,.000,0,0,,0,2,2,1,0,0,1,2,2,-0.2,-10,Adrian Griffin
+2002-04-28,27-298,DAL,AWAY,MIN,W (+13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Adrian Griffin
+2002-05-04,27-304,DAL,AWAY,SAC,L (-17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Adrian Griffin
+2002-05-06,27-306,DAL,AWAY,SAC,W (+8),0,5:15,0,1,.000,0,0,,0,0,,0,0,0,1,1,0,1,0,0,0.0,-3,Adrian Griffin
+2002-05-11,27-311,DAL,HOME,SAC,L (-2),0,11:51,2,2,1.000,0,0,,0,0,,0,1,1,1,1,0,0,1,4,5.0,-2,Adrian Griffin
+2002-05-13,27-313,DAL,AWAY,SAC,L (-13),1,29:34,7,11,.636,0,1,.000,0,2,.000,2,4,6,1,0,1,1,3,14,10.1,-5,Adrian Griffin
+2006-04-23,31-293,DAL,HOME,MEM,W (+10),1,22:45,2,5,.400,0,0,,1,1,1.000,0,3,3,2,4,0,1,0,5,7.6,-2,Adrian Griffin
+2006-04-26,31-296,DAL,HOME,MEM,W (+15),1,20:04,3,3,1.000,0,0,,0,0,,2,1,3,2,1,0,1,2,6,7.4,+10,Adrian Griffin
+2006-04-29,31-299,DAL,AWAY,MEM,W (+5),1,30:54,2,4,.500,0,0,,0,0,,6,3,9,4,1,0,0,4,4,9.3,-6,Adrian Griffin
+2006-05-01,31-301,DAL,AWAY,MEM,W (+26),1,26:13,3,6,.500,0,0,,0,0,,3,2,5,2,0,0,1,3,6,4.9,0,Adrian Griffin
+2006-05-07,31-307,DAL,AWAY,SAS,L (-2),1,19:34,1,1,1.000,0,0,,1,2,.500,1,0,1,1,0,0,0,2,3,2.9,-2,Adrian Griffin
+2006-05-09,31-309,DAL,AWAY,SAS,W (+22),0,4:29,0,1,.000,0,0,,2,2,1.000,0,2,2,0,0,0,0,3,2,0.7,-2,Adrian Griffin
+2006-05-19,31-319,DAL,HOME,SAS,L (-5),0,15:54,0,1,.000,0,0,,0,0,,1,0,1,1,1,1,0,2,0,1.6,-2,Adrian Griffin
+2006-05-22,31-322,DAL,AWAY,SAS,W (+8),0,0:15,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+2,Adrian Griffin
+2006-05-24,31-324,DAL,HOME,PHO,L (-3),0,26:54,2,3,.667,0,0,,0,0,,1,5,6,2,1,0,2,3,4,4.1,0,Adrian Griffin
+2006-05-26,31-326,DAL,HOME,PHO,W (+7),0,11:58,0,2,.000,0,0,,2,2,1.000,2,0,2,1,0,0,0,2,2,1.9,+3,Adrian Griffin
+2006-05-28,31-328,DAL,AWAY,PHO,W (+7),0,10:31,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,0,2,2,0.2,+1,Adrian Griffin
+2006-05-30,31-330,DAL,AWAY,PHO,L (-20),0,17:51,6,8,.750,0,0,,1,1,1.000,2,5,7,0,0,0,1,2,13,10.9,-8,Adrian Griffin
+2006-06-01,31-332,DAL,HOME,PHO,W (+16),0,23:24,0,3,.000,0,0,,0,0,,1,6,7,3,1,1,0,2,0,3.4,+13,Adrian Griffin
+2006-06-03,31-334,DAL,AWAY,PHO,W (+9),0,36:10,3,4,.750,0,0,,0,0,,1,4,5,1,1,0,2,2,6,5.2,+15,Adrian Griffin
+2006-06-08,31-339,DAL,HOME,MIA,W (+10),1,13:18,4,6,.667,0,0,,0,0,,1,0,1,1,1,0,0,1,8,7.4,+3,Adrian Griffin
+2006-06-11,31-342,DAL,HOME,MIA,W (+14),1,18:16,0,0,,0,0,,0,0,,1,3,4,0,0,0,1,4,0,-1.0,+8,Adrian Griffin
+2006-06-13,31-344,DAL,AWAY,MIA,L (-2),1,14:16,1,3,.333,0,0,,0,0,,1,4,5,3,2,0,1,3,2,4.1,+6,Adrian Griffin
+2006-06-15,31-346,DAL,AWAY,MIA,L (-24),0,16:48,3,3,1.000,0,0,,0,0,,3,3,6,0,0,0,0,2,6,7.3,+6,Adrian Griffin
+2006-06-18,31-349,DAL,AWAY,MIA,L (-1),0,15:21,1,2,.500,0,0,,0,0,,1,1,2,1,1,0,1,3,2,1.5,-16,Adrian Griffin
+2006-06-20,31-351,DAL,HOME,MIA,L (-3),0,4:20,0,2,.000,0,0,,0,0,,1,0,1,0,1,0,0,0,0,0.3,-1,Adrian Griffin
+2003-04-19,28-289,DAL,HOME,POR,W (+10),0,3:44,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.8,-2,Adrian Griffin
+2003-04-23,28-293,DAL,HOME,POR,W (+4),0,6:55,0,1,.000,0,0,,0,0,,0,3,3,0,0,0,0,2,0,-0.6,+2,Adrian Griffin
+2003-04-25,28-295,DAL,AWAY,POR,W (+12),0,4:31,0,1,.000,0,0,,2,2,1.000,0,0,0,0,1,0,0,2,2,1.5,-4,Adrian Griffin
+2003-04-27,28-297,DAL,AWAY,POR,L (-19),0,11:49,1,3,.333,0,0,,0,0,,1,4,5,0,0,0,0,2,2,1.4,0,Adrian Griffin
+2003-05-02,28-302,DAL,AWAY,POR,L (-22),0,19:48,2,7,.286,0,0,,0,0,,4,4,8,1,0,0,2,3,4,1.4,+5,Adrian Griffin
+2003-05-04,28-304,DAL,HOME,POR,W (+12),0,2:49,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.0,-5,Adrian Griffin
+2003-05-06,28-306,DAL,HOME,SAC,L (-11),0,15:21,1,3,.333,0,0,,0,0,,2,3,5,0,1,0,0,2,2,2.8,-2,Adrian Griffin
+2003-05-08,28-308,DAL,HOME,SAC,W (+22),1,19:26,7,12,.583,1,2,.500,0,0,,2,1,3,1,0,0,4,5,15,5.8,-8,Adrian Griffin
+2003-05-10,28-310,DAL,AWAY,SAC,W (+4),1,11:53,3,4,.750,0,0,,0,0,,2,2,4,2,1,0,1,1,6,7.4,0,Adrian Griffin
+2003-05-11,28-311,DAL,AWAY,SAC,L (-16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Adrian Griffin
+2003-05-19,28-319,DAL,AWAY,SAS,W (+3),0,2:45,0,1,.000,0,0,,0,0,,1,1,2,0,0,0,0,3,0,-0.9,-6,Adrian Griffin
+2003-05-21,28-321,DAL,AWAY,SAS,L (-13),0,3:05,0,0,,0,0,,0,0,,0,1,1,1,0,0,0,0,0,1.0,+6,Adrian Griffin
+2003-05-23,28-323,DAL,HOME,SAS,L (-13),0,2:29,1,2,.500,0,0,,0,0,,0,1,1,0,0,0,0,0,2,1.3,+7,Adrian Griffin
+2003-05-25,28-325,DAL,HOME,SAS,L (-7),0,9:47,0,2,.000,0,0,,0,0,,1,1,2,2,1,0,0,0,0,2.0,-6,Adrian Griffin
+2003-05-27,28-327,DAL,AWAY,SAS,W (+12),0,6:04,0,1,.000,0,1,.000,0,0,,1,2,3,0,0,0,0,0,0,0.6,-6,Adrian Griffin
+2003-05-29,28-329,DAL,HOME,SAS,L (-12),0,10:36,2,2,1.000,0,0,,0,0,,3,3,6,0,0,0,2,3,4,3.2,-4,Adrian Griffin
+2007-04-24,32-294,CHI,HOME,MIA,W (+18),0,1:18,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,Adrian Griffin
+2007-05-07,32-307,CHI,AWAY,DET,L (-21),0,4:21,0,3,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-2.5,-4,Adrian Griffin
+2007-05-15,32-315,CHI,AWAY,DET,W (+16),0,2:50,0,2,.000,0,0,,0,0,,1,0,1,0,1,0,0,0,0,0.3,-5,Adrian Griffin
+2007-05-17,32-317,CHI,HOME,DET,L (-10),0,0:30,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,0,Adrian Griffin
+2005-04-27,30-297,CHI,HOME,WAS,W (+10),0,23:26,3,5,.600,0,0,,0,0,,1,6,7,3,2,0,1,1,6,8.9,+13,Adrian Griffin
+2005-04-30,30-300,CHI,AWAY,WAS,L (-18),0,13:23,1,5,.200,0,0,,2,2,1.000,0,1,1,1,0,0,1,2,4,0.1,-6,Adrian Griffin
+2005-05-02,30-302,CHI,AWAY,WAS,L (-7),0,22:12,6,8,.750,0,0,,1,2,.500,2,2,4,3,1,0,0,6,13,12.1,+9,Adrian Griffin
+2005-05-04,30-304,CHI,HOME,WAS,L (-2),0,8:50,1,3,.333,0,0,,0,0,,0,2,2,1,2,0,0,0,2,3.6,0,Adrian Griffin
+2005-05-06,30-306,CHI,AWAY,WAS,L (-3),0,19:22,4,8,.500,0,0,,1,1,1.000,2,4,6,1,0,0,1,5,9,5.3,-10,Adrian Griffin

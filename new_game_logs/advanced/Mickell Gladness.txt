@@ -1,0 +1,32 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+2011-12-25,25-152,MIA,AWAY,DAL,W (+11),0,2:56,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,103,-0.8,-14.5,Mickell Gladness
+2012-01-01,25-159,MIA,HOME,CHA,W (+39),0,8:32,1.000,1.000,0.0,42.5,25.9,26.5,5.5,0.0,66.7,15.5,82,71,2.5,4.8,Mickell Gladness
+2012-01-02,25-160,MIA,HOME,ATL,L (-8),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Mickell Gladness
+2012-01-04,25-162,MIA,HOME,IND,W (+35),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mickell Gladness
+2012-01-05,25-163,MIA,AWAY,ATL,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mickell Gladness
+2012-01-07,25-165,MIA,AWAY,NJN,W (+11),0,1:11,,,0.0,76.5,46.1,0.0,0.0,81.1,,0.0,0,29,0.6,19.8,Mickell Gladness
+2012-01-13,25-171,MIA,AWAY,DEN,L (-13),0,2:33,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,129,-0.4,-14.0,Mickell Gladness
+2012-01-17,25-175,MIA,HOME,SAS,W (+22),0,3:44,,,0.0,73.5,37.3,0.0,0.0,0.0,,0.0,0,96,-0.2,-9.9,Mickell Gladness
+2012-01-21,25-179,MIA,HOME,PHI,W (+21),0,1:36,,,0.0,63.8,36.1,0.0,0.0,0.0,,0.0,0,100,0.3,-0.1,Mickell Gladness
+2012-02-13,25-202,MIA,AWAY,MIL,W (+18),0,2:29,.000,.000,55.2,80.5,69.9,0.0,0.0,0.0,33.3,52.7,25,80,-1.1,-50.7,Mickell Gladness
+2012-02-14,25-203,MIA,AWAY,IND,W (+15),0,5:20,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,102,0.0,-1.9,Mickell Gladness
+2012-03-22,25-240,GSW,AWAY,HOU,L (-26),0,9:57,.000,.000,0.0,25.4,12.1,0.0,0.0,14.2,50.0,9.4,0,109,0.3,-6.9,Mickell Gladness
+2012-03-24,25-242,GSW,HOME,SAC,W (+3),0,9:39,.600,.600,25.5,0.0,11.6,0.0,5.0,13.1,0.0,22.8,130,98,5.9,4.3,Mickell Gladness
+2012-03-25,25-243,GSW,AWAY,POR,L (-3),0,3:58,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.7,0,107,-1.9,-31.2,Mickell Gladness
+2012-03-27,25-245,GSW,HOME,LAL,L (-3),0,4:54,.000,.000,0.0,0.0,0.0,0.0,0.0,29.7,0.0,9.4,0,109,0.3,-4.3,Mickell Gladness
+2012-03-28,25-246,GSW,HOME,NOH,L (-15),0,4:08,,,0.0,32.3,16.1,0.0,0.0,0.0,,0.0,0,121,0.3,-4.4,Mickell Gladness
+2012-03-30,25-248,GSW,HOME,NJN,L (-2),0,11:41,.676,.750,0.0,30.8,16.2,0.0,0.0,0.0,0.0,18.2,122,109,4.9,0.6,Mickell Gladness
+2012-04-01,25-250,GSW,AWAY,LAL,L (-8),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Mickell Gladness
+2012-04-03,25-252,GSW,AWAY,MEM,L (-4),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Mickell Gladness
+2012-04-04,25-253,GSW,AWAY,MIN,W (+3),0,4:37,,,23.6,24.8,24.2,0.0,0.0,0.0,,0.0,207,101,0.6,-7.6,Mickell Gladness
+2012-04-07,25-256,GSW,HOME,DEN,W (+15),0,2:42,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,117,-0.4,-12.4,Mickell Gladness
+2012-04-09,25-258,GSW,AWAY,DEN,L (-39),0,12:42,.258,.000,14.8,31.5,21.7,0.0,4.0,16.2,20.5,17.7,65,112,4.3,-2.7,Mickell Gladness
+2012-04-12,25-261,GSW,HOME,DAL,L (-9),0,9:08,.338,.250,25.0,22.8,23.9,16.0,0.0,8.2,0.0,22.0,110,118,4.0,-0.2,Mickell Gladness
+2012-04-14,25-263,GSW,AWAY,LAC,L (-8),0,10:13,.333,.333,12.0,34.4,23.5,0.0,0.0,15.9,0.0,13.4,92,110,2.5,-4.6,Mickell Gladness
+2012-04-16,25-265,GSW,HOME,SAS,L (-21),1,13:48,.000,.000,0.0,20.1,10.2,0.0,0.0,0.0,25.0,11.9,0,120,-2.6,-17.7,Mickell Gladness
+2012-04-18,25-267,GSW,HOME,LAL,L (-12),1,22:37,.500,.500,4.2,19.3,11.2,0.0,2.2,3.4,0.0,16.1,100,100,6.8,-0.1,Mickell Gladness
+2012-04-20,25-269,GSW,AWAY,DAL,L (-10),1,12:02,.532,1.000,0.0,0.0,0.0,0.0,0.0,6.4,0.0,7.3,87,116,0.8,-7.4,Mickell Gladness
+2012-04-21,25-270,GSW,AWAY,HOU,L (-3),1,11:33,.532,.500,12.6,0.0,5.5,0.0,0.0,0.0,0.0,15.7,124,123,2.9,-3.7,Mickell Gladness
+2012-04-22,25-271,GSW,AWAY,MIN,W (+5),1,11:42,.000,.000,8.5,19.1,13.5,0.0,0.0,0.0,25.0,15.6,18,101,-3.8,-27.1,Mickell Gladness
+2012-04-24,25-273,GSW,HOME,NOH,L (-2),1,29:39,.444,.429,0.0,11.6,6.1,0.0,0.0,9.8,0.0,13.1,94,98,6.2,-0.8,Mickell Gladness
+2012-04-26,25-275,GSW,HOME,SAS,L (-6),1,38:43,.700,.700,5.8,16.4,11.6,6.8,0.0,1.9,0.0,11.6,146,113,15.0,1.2,Mickell Gladness

@@ -1,0 +1,15 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2022-04-16,29-006,GSW,HOME,DEN,W (+16),0,3:37,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,0,0,3,3.0,-6,Juan Toscano-Anderson
+2022-04-18,29-008,GSW,HOME,DEN,W (+20),0,4:46,1,1,1.000,0,0,,1,2,.500,0,1,1,1,1,0,0,0,3,4.3,-3,Juan Toscano-Anderson
+2022-05-01,29-021,GSW,AWAY,MEM,W (+1),0,0:03,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Juan Toscano-Anderson
+2022-05-03,29-023,GSW,AWAY,MEM,L (-5),0,0:01,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,Juan Toscano-Anderson
+2022-05-07,29-027,GSW,HOME,MEM,W (+30),0,4:42,0,2,.000,0,0,,0,0,,0,1,1,2,0,0,0,0,0,0.3,-1,Juan Toscano-Anderson
+2022-05-11,29-031,GSW,AWAY,MEM,L (-39),0,15:44,2,5,.400,1,3,.333,0,1,.000,0,5,5,2,0,1,3,0,5,2.5,+10,Juan Toscano-Anderson
+2022-05-18,29-038,GSW,HOME,DAL,W (+25),0,5:03,0,0,,0,0,,0,0,,0,0,0,0,1,0,2,1,0,-1.4,-3,Juan Toscano-Anderson
+2022-05-22,29-042,GSW,AWAY,DAL,W (+9),0,5:03,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,-7,Juan Toscano-Anderson
+2022-05-24,29-044,GSW,AWAY,DAL,L (-10),0,0:06,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Juan Toscano-Anderson
+2022-05-26,29-046,GSW,HOME,DAL,W (+10),0,1:43,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-6,Juan Toscano-Anderson
+2022-06-02,29-053,GSW,HOME,BOS,L (-12),0,0:48,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,+3,Juan Toscano-Anderson
+2022-06-05,29-056,GSW,HOME,BOS,W (+19),0,3:35,0,1,.000,0,1,.000,0,0,,0,2,2,2,0,0,1,0,0,0.3,-5,Juan Toscano-Anderson
+2022-06-08,29-059,GSW,AWAY,BOS,L (-16),0,2:19,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,-2,Juan Toscano-Anderson
+2022-06-13,29-064,GSW,HOME,BOS,W (+10),0,1:19,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,-6,Juan Toscano-Anderson

@@ -1,0 +1,10 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+2011-12-27,23-325,NJN,HOME,ATL,L (-36),0,7:51,.515,.333,14.2,13.9,14.1,0.0,0.0,0.0,0.0,23.6,120,124,3.3,3.0,Dennis Horner
+2012-01-01,23-330,NJN,AWAY,CLE,L (-16),0,0:29,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,120,0.0,-8.6,Dennis Horner
+2012-01-02,23-331,NJN,HOME,IND,L (-14),0,1:48,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,140,0.0,-12.5,Dennis Horner
+2012-01-04,23-333,NJN,AWAY,BOS,L (-19),0,4:18,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,121,0.0,-8.1,Dennis Horner
+2012-01-07,23-336,NJN,HOME,MIA,L (-11),0,1:11,,,0.0,100.0,46.1,0.0,0.0,0.0,,0.0,0,88,-0.1,-16.5,Dennis Horner
+2012-01-13,23-342,NJN,AWAY,PHO,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Dennis Horner
+2012-03-30,24-054,NJN,AWAY,GSW,W (+2),0,1:38,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.4,0,118,-0.7,-34.9,Dennis Horner
+2012-03-31,24-055,NJN,AWAY,SAC,W (+12),0,0:34,,,0.0,100.0,91.1,0.0,0.0,0.0,,0.0,0,44,0.3,6.8,Dennis Horner
+2012-04-06,24-061,NJN,HOME,WAS,W (+12),0,4:18,.568,,32.8,0.0,14.7,0.0,0.0,0.0,53.2,20.5,79,120,0.3,-16.0,Dennis Horner

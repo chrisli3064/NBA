@@ -1,0 +1,62 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2000-10-31,22-120,PHO,AWAY,GSW,L (-2),0,8:52,1,4,.250,0,0,,0,0,,3,0,3,1,1,0,0,0,2,3.4,+10,Paul McPherson
+2000-11-02,22-122,PHO,HOME,POR,W (+26),0,8:05,2,2,1.000,0,0,,0,0,,1,0,1,0,0,0,1,1,4,2.7,-1,Paul McPherson
+2000-11-04,22-124,PHO,AWAY,DEN,W (+3),0,10:01,2,3,.667,0,0,,0,0,,0,2,2,2,1,0,0,1,4,5.3,+17,Paul McPherson
+2000-11-05,22-125,PHO,HOME,HOU,W (+5),0,3:59,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,+4,Paul McPherson
+2000-11-07,22-127,PHO,HOME,SAS,W (+19),0,8:07,2,5,.400,0,1,.000,0,0,,0,0,0,0,0,0,0,2,4,0.5,+3,Paul McPherson
+2000-11-09,22-129,PHO,HOME,ATL,W (+9),0,0:44,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,-3,Paul McPherson
+2000-11-15,22-135,PHO,HOME,DAL,W (+21),0,15:04,3,5,.600,0,0,,0,1,.000,1,3,4,2,0,0,0,1,6,5.9,+12,Paul McPherson
+2000-11-17,22-137,PHO,HOME,NYK,L (-5),0,2:38,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-10,Paul McPherson
+2000-11-18,22-138,PHO,AWAY,HOU,L (-5),0,2:27,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1,Paul McPherson
+2000-11-22,22-142,PHO,HOME,NJN,W (+12),0,11:00,2,2,1.000,0,0,,2,2,1.000,1,2,3,0,2,0,1,1,6,7.3,+14,Paul McPherson
+2000-11-24,22-144,PHO,HOME,GSW,W (+6),0,3:50,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,1,0,0,-1.4,+2,Paul McPherson
+2000-11-29,22-149,PHO,AWAY,VAN,L (-3),0,18:42,5,7,.714,0,0,,0,0,,1,2,3,0,4,0,0,2,10,11.6,+8,Paul McPherson
+2000-12-01,22-151,PHO,AWAY,SAC,L (-7),0,12:00,1,2,.500,0,0,,1,1,1.000,0,1,1,1,0,1,0,3,3,2.5,+13,Paul McPherson
+2000-12-03,22-153,PHO,HOME,POR,W (+5),0,5:51,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,0,Paul McPherson
+2000-12-07,22-157,PHO,AWAY,MIL,W (+8),0,4:03,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-9,Paul McPherson
+2000-12-10,22-160,PHO,AWAY,TOR,W (+8),0,0:40,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Paul McPherson
+2000-12-11,22-161,PHO,AWAY,CHI,W (+6),0,0:46,0,0,,0,0,,0,2,.000,0,0,0,0,1,0,0,0,0,0.2,-4,Paul McPherson
+2000-12-15,22-165,PHO,HOME,LAC,L (-10),0,19:58,3,8,.375,0,1,.000,2,2,1.000,6,0,6,0,0,0,3,4,8,3.2,-1,Paul McPherson
+2000-12-16,22-166,PHO,AWAY,SAS,L (-8),0,21:32,3,5,.600,0,0,,1,1,1.000,1,3,4,0,0,0,1,4,7,3.7,+11,Paul McPherson
+2000-12-19,22-169,PHO,HOME,DET,L (-5),0,11:49,0,2,.000,0,0,,0,0,,0,1,1,1,0,0,1,4,0,-3.0,-5,Paul McPherson
+2000-12-23,22-173,PHO,HOME,DEN,W (+9),0,5:15,0,3,.000,0,0,,0,0,,1,0,1,0,0,0,2,2,0,-4.2,-11,Paul McPherson
+2000-12-26,22-176,PHO,AWAY,VAN,W (+2),0,7:58,1,1,1.000,0,0,,1,2,.500,0,0,0,0,1,0,0,2,3,2.5,0,Paul McPherson
+2000-12-28,22-178,PHO,HOME,LAL,L (-37),0,19:13,3,13,.231,0,3,.000,0,0,,0,2,2,2,0,0,1,1,6,-1.3,-18,Paul McPherson
+2000-12-30,22-180,PHO,HOME,TOR,W (+6),0,17:04,9,10,.900,0,0,,2,3,.667,0,1,1,1,0,0,1,5,20,14.2,+8,Paul McPherson
+2001-01-02,22-183,PHO,AWAY,SAC,L (-4),0,9:04,1,3,.333,0,0,,0,0,,1,0,1,0,0,0,0,2,2,0.2,-15,Paul McPherson
+2001-01-03,22-184,PHO,HOME,LAC,W (+5),0,15:33,2,3,.667,0,0,,0,0,,1,0,1,0,0,1,0,2,4,3.3,+1,Paul McPherson
+2001-01-05,22-186,PHO,HOME,VAN,W (+32),0,21:50,2,7,.286,0,1,.000,2,2,1.000,1,2,3,1,2,0,2,5,6,1.9,+11,Paul McPherson
+2001-01-07,22-188,PHO,HOME,MIN,L (-20),0,15:08,0,3,.000,0,0,,1,2,.500,0,2,2,2,0,1,0,1,1,0.8,-13,Paul McPherson
+2001-01-11,22-192,PHO,HOME,IND,W (+8),0,1:14,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4,Paul McPherson
+2001-01-13,22-194,PHO,AWAY,DAL,W (+17),0,0:24,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,+2,Paul McPherson
+2001-01-14,22-195,PHO,HOME,SEA,L (-19),0,3:12,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,1,0,2,0.7,-2,Paul McPherson
+2001-01-19,22-200,PHO,HOME,GSW,L (-8),0,7:35,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,4,1,2,-2.4,-13,Paul McPherson
+2001-01-24,22-205,PHO,AWAY,DET,W (+33),0,13:31,2,3,.667,0,0,,6,6,1.000,2,4,6,3,0,0,2,1,10,11.0,+1,Paul McPherson
+2001-01-26,22-207,GSW,HOME,SEA,L (-2),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Paul McPherson
+2001-01-30,22-211,GSW,AWAY,SAC,L (-26),0,15:47,2,10,.200,0,0,,3,4,.750,4,1,5,1,1,0,0,1,7,4.8,-4,Paul McPherson
+2001-02-03,22-215,GSW,AWAY,DAL,L (-6),0,1:06,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-2,Paul McPherson
+2001-02-05,22-217,GSW,AWAY,SAS,L (-24),0,19:27,4,7,.571,0,0,,2,2,1.000,0,1,1,1,1,0,2,3,10,5.5,-6,Paul McPherson
+2001-02-13,22-225,GSW,HOME,PHO,L (-10),0,3:13,1,1,1.000,0,0,,2,2,1.000,0,0,0,0,0,0,1,1,4,2.3,+10,Paul McPherson
+2001-02-23,22-235,GSW,AWAY,MIN,L (-39),0,13:03,4,6,.667,0,0,,2,2,1.000,1,1,2,3,2,0,2,0,10,10.5,+4,Paul McPherson
+2001-02-25,22-237,GSW,AWAY,MIL,L (-27),0,5:35,2,3,.667,0,0,,0,0,,0,0,0,0,0,0,0,0,4,2.7,-5,Paul McPherson
+2001-02-26,22-238,GSW,AWAY,CHI,W (+6),0,1:08,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3,Paul McPherson
+2001-02-28,22-240,GSW,HOME,SAC,L (-21),0,2:24,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,0,0,3,3.0,+4,Paul McPherson
+2001-03-03,22-243,GSW,AWAY,POR,L (-31),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Paul McPherson
+2001-03-04,22-244,GSW,AWAY,LAL,L (-15),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Paul McPherson
+2001-03-09,22-249,GSW,AWAY,DAL,L (-29),0,15:36,0,4,.000,0,1,.000,1,2,.500,1,0,1,2,0,0,3,1,1,-3.5,+7,Paul McPherson
+2001-03-10,22-250,GSW,AWAY,HOU,L (-5),0,4:11,0,0,,0,0,,0,0,,0,0,0,0,1,0,1,1,0,-0.4,-11,Paul McPherson
+2001-03-14,22-254,GSW,HOME,UTA,L (-19),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Paul McPherson
+2001-03-16,22-256,GSW,AWAY,LAC,L (-18),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Paul McPherson
+2001-03-18,22-258,GSW,HOME,SEA,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Paul McPherson
+2001-03-21,22-261,GSW,HOME,WAS,L (-5),0,7:17,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,1,0,2,0.7,+1,Paul McPherson
+2001-03-26,22-266,GSW,HOME,NYK,L (-2),0,3:02,0,1,.000,0,0,,0,0,,0,0,0,0,1,0,0,0,0,0.3,-8,Paul McPherson
+2001-03-29,22-269,GSW,AWAY,WAS,L (-16),0,16:46,4,7,.571,0,1,.000,0,0,,0,0,0,2,0,0,0,2,8,5.3,-11,Paul McPherson
+2001-04-01,22-272,GSW,AWAY,DET,L (-17),0,19:56,5,11,.455,0,1,.000,0,0,,4,0,4,0,1,0,1,4,10,5.5,-8,Paul McPherson
+2001-04-04,22-275,GSW,HOME,MIL,L (-30),0,17:53,3,10,.300,0,0,,3,5,.600,1,1,2,1,1,0,2,1,9,2.7,+1,Paul McPherson
+2001-04-06,22-277,GSW,HOME,POR,L (-31),0,21:16,9,12,.750,1,2,.500,3,7,.429,4,0,4,0,2,0,1,3,22,18.2,+16,Paul McPherson
+2001-04-08,22-279,GSW,HOME,SAS,L (-8),0,15:42,4,7,.571,0,0,,0,0,,0,0,0,1,1,0,3,3,8,2.2,-4,Paul McPherson
+2001-04-10,22-281,GSW,AWAY,POR,L (-28),0,23:48,7,9,.778,0,0,,3,4,.750,1,3,4,2,1,0,2,2,17,14.3,+10,Paul McPherson
+2001-04-11,22-282,GSW,AWAY,SEA,L (-6),0,31:43,11,14,.786,0,0,,4,5,.800,1,1,2,4,1,0,3,3,26,20.8,+8,Paul McPherson
+2001-04-13,22-284,GSW,AWAY,DEN,L (-16),0,19:24,2,7,.286,0,0,,0,0,,2,1,3,3,0,1,1,2,4,2.6,-2,Paul McPherson
+2001-04-14,22-285,GSW,HOME,LAC,L (-12),0,17:13,2,6,.333,0,0,,1,1,1.000,0,1,1,2,0,0,1,2,5,1.5,0,Paul McPherson
+2001-04-18,22-289,GSW,HOME,VAN,L (-14),0,10:45,0,3,.000,0,0,,0,0,,1,0,1,0,0,0,0,2,0,-2.2,-15,Paul McPherson

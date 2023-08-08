@@ -1,0 +1,379 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2008-11-16,32-365,NYK,HOME,DAL,L (-10),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jerome James
+2008-11-18,33-001,NYK,AWAY,BOS,L (-9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jerome James
+2008-11-21,33-004,NYK,AWAY,MIL,L (-17),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jerome James
+2008-12-13,33-026,NYK,AWAY,SAC,W (+24),0,3:51,1,3,.333,0,0,,0,0,,0,2,2,0,1,0,0,1,2,1.5,+1,Jerome James
+2008-12-19,33-032,NYK,HOME,MIL,L (-24),0,5:59,2,5,.400,0,0,,0,0,,1,0,1,0,0,1,1,1,4,1.3,-1,Jerome James
+2009-01-06,33-050,NYK,AWAY,OKC,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jerome James
+2009-01-19,33-063,NYK,HOME,CHI,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jerome James
+2009-01-21,33-065,NYK,HOME,PHO,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jerome James
+2009-01-23,33-067,NYK,HOME,MEM,W (+20),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jerome James
+2009-01-24,33-068,NYK,AWAY,PHI,L (-6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jerome James
+2009-01-26,33-070,NYK,HOME,HOU,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jerome James
+2009-01-28,33-072,NYK,HOME,ATL,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jerome James
+2009-01-31,33-075,NYK,AWAY,IND,W (+9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jerome James
+2009-02-02,33-077,NYK,HOME,LAL,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jerome James
+2009-02-04,33-079,NYK,HOME,CLE,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jerome James
+2009-02-06,33-081,NYK,HOME,BOS,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jerome James
+2009-02-08,33-083,NYK,AWAY,POR,L (-1),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jerome James
+2009-02-10,33-085,NYK,AWAY,GSW,L (-17),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jerome James
+2009-02-11,33-086,NYK,AWAY,LAC,L (-4),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jerome James
+2009-02-17,33-092,NYK,HOME,SAS,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jerome James
+2001-10-30,25-347,SEA,AWAY,SAC,L (-6),0,14:53,5,9,.556,0,0,,1,1,1.000,1,1,2,0,1,1,1,4,11,6.8,-2,Jerome James
+2001-11-01,25-349,SEA,HOME,SAS,W (+6),0,9:58,2,4,.500,0,0,,0,2,.000,1,2,3,0,0,1,0,4,4,1.6,-5,Jerome James
+2001-11-03,25-351,SEA,HOME,UTA,L (-17),1,22:04,1,6,.167,0,0,,0,0,,1,1,2,0,2,3,1,3,2,1.1,+4,Jerome James
+2001-11-05,25-353,SEA,AWAY,ORL,W (+4),0,3:28,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1,Jerome James
+2001-11-06,25-354,SEA,AWAY,MIA,L (-2),0,16:01,1,4,.250,0,0,,2,2,1.000,2,2,4,0,0,1,4,2,4,-0.5,+1,Jerome James
+2001-11-08,25-356,SEA,AWAY,NJN,L (-12),0,14:05,1,3,.333,0,0,,1,2,.500,0,2,2,0,0,1,2,5,3,-1.8,+10,Jerome James
+2001-11-09,25-357,SEA,AWAY,BOS,L (-10),0,14:53,0,3,.000,0,0,,0,4,.000,1,3,4,0,1,0,1,2,0,-2.9,-3,Jerome James
+2001-11-11,25-359,SEA,AWAY,WAS,W (+15),1,10:42,2,6,.333,0,0,,0,0,,0,0,0,0,1,0,1,2,4,-0.2,-1,Jerome James
+2001-11-13,25-361,SEA,HOME,PHO,L (-1),1,25:24,4,6,.667,0,0,,2,2,1.000,2,5,7,0,1,3,3,5,10,8.4,+5,Jerome James
+2001-11-16,25-364,SEA,HOME,GSW,W (+9),1,10:40,2,4,.500,0,0,,0,0,,2,1,3,1,0,1,3,5,4,0.1,+6,Jerome James
+2001-11-17,26-000,SEA,HOME,DEN,L (-10),0,6:44,0,1,.000,0,0,,0,0,,0,1,1,0,0,1,1,3,0,-1.9,-2,Jerome James
+2002-01-04,26-048,SEA,HOME,PHI,L (-10),0,10:53,0,4,.000,0,0,,0,0,,0,1,1,1,1,4,0,2,0,1.2,-3,Jerome James
+2002-01-09,26-053,SEA,AWAY,MIN,L (-5),0,8:06,0,1,.000,0,0,,0,0,,0,1,1,0,0,1,0,4,0,-1.3,+4,Jerome James
+2002-01-16,26-060,SEA,AWAY,UTA,L (-15),0,3:51,1,1,1.000,0,0,,1,2,.500,1,0,1,0,0,0,0,0,3,3.0,+5,Jerome James
+2002-01-19,26-063,SEA,HOME,DEN,W (+27),0,14:55,2,5,.400,0,0,,0,0,,2,4,6,0,1,1,3,5,4,0.6,+7,Jerome James
+2002-01-21,26-065,SEA,AWAY,PHI,W (+11),0,16:16,4,5,.800,0,0,,1,3,.333,1,4,5,0,0,2,1,3,9,7.4,+12,Jerome James
+2002-01-23,26-067,SEA,AWAY,CHH,L (-10),0,9:30,0,3,.000,0,0,,0,0,,2,0,2,0,0,1,0,1,0,-0.4,-17,Jerome James
+2002-01-24,26-068,SEA,AWAY,MIL,W (+11),0,5:44,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+4,Jerome James
+2002-01-26,26-070,SEA,AWAY,IND,W (+9),1,14:27,4,7,.571,0,0,,0,0,,1,2,3,1,0,1,2,3,8,4.2,-5,Jerome James
+2002-01-29,26-073,SEA,HOME,POR,L (-6),0,6:41,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,3,0,-2.2,-1,Jerome James
+2002-02-02,26-077,SEA,HOME,CHI,L (-6),0,2:29,1,1,1.000,0,0,,0,0,,1,0,1,0,0,0,1,1,2,1.0,-9,Jerome James
+2002-02-05,26-080,SEA,AWAY,GSW,W (+26),1,16:26,3,6,.500,0,0,,0,0,,2,4,6,0,0,2,0,3,6,5.8,+10,Jerome James
+2002-02-06,26-081,SEA,HOME,PHO,W (+11),1,20:56,3,7,.429,0,0,,0,0,,1,3,4,1,1,2,1,4,6,4.4,+6,Jerome James
+2002-02-12,26-087,SEA,HOME,DAL,L (-6),1,4:09,0,1,.000,0,0,,0,2,.000,1,0,1,0,0,1,0,0,0,-0.1,-10,Jerome James
+2002-02-14,26-089,SEA,HOME,LAL,L (-5),1,18:06,3,4,.750,0,0,,0,0,,1,6,7,0,1,0,2,1,6,5.5,+7,Jerome James
+2002-02-16,26-091,SEA,HOME,BOS,W (+20),1,24:15,4,7,.571,0,0,,0,1,.000,4,5,9,0,0,4,4,3,8,6.2,+5,Jerome James
+2002-02-17,26-092,SEA,AWAY,SAC,W (+10),1,19:04,4,6,.667,0,0,,0,0,,4,5,9,1,0,2,1,4,8,9.2,+10,Jerome James
+2002-02-19,26-094,SEA,AWAY,PHO,W (+12),1,17:43,5,7,.714,0,0,,0,0,,0,2,2,1,0,0,1,4,10,5.8,+5,Jerome James
+2002-02-20,26-095,SEA,HOME,POR,L (-6),1,20:49,2,5,.400,0,0,,0,2,.000,0,3,3,0,0,3,1,2,4,1.7,+1,Jerome James
+2002-02-22,26-097,SEA,HOME,ATL,W (+3),1,22:21,4,6,.667,0,0,,1,2,.500,4,3,7,0,1,1,2,4,9,7.8,+10,Jerome James
+2002-02-24,26-099,SEA,AWAY,TOR,W (+9),1,30:28,8,12,.667,0,0,,2,3,.667,6,6,12,1,0,3,3,3,18,17.0,+10,Jerome James
+2002-02-26,26-101,SEA,AWAY,CLE,W (+20),1,18:36,3,6,.500,0,0,,2,2,1.000,3,2,5,0,2,0,3,4,8,5.1,+12,Jerome James
+2002-02-27,26-102,SEA,AWAY,ATL,W (+17),1,18:23,4,5,.800,0,0,,2,2,1.000,0,3,3,0,0,2,2,3,10,7.2,+7,Jerome James
+2002-03-01,26-104,SEA,AWAY,NYK,L (-2),1,11:43,2,5,.400,0,0,,0,0,,1,2,3,0,0,1,2,5,4,-0.7,-2,Jerome James
+2002-03-03,26-106,SEA,AWAY,MEM,W (+25),1,18:37,2,8,.250,0,0,,1,4,.250,3,1,4,0,0,4,1,4,5,1.6,+11,Jerome James
+2002-03-05,26-108,SEA,HOME,MIN,W (+14),1,20:24,4,5,.800,0,0,,0,0,,1,5,6,1,0,1,1,4,8,7.1,+24,Jerome James
+2002-03-07,26-110,SEA,HOME,CHH,W (+3),1,16:52,1,3,.333,0,0,,2,2,1.000,2,3,5,0,0,4,1,4,4,4.8,0,Jerome James
+2002-03-09,26-112,SEA,HOME,NJN,W (+6),1,23:49,1,7,.143,0,0,,4,4,1.000,3,5,8,2,0,2,4,3,6,2.7,+5,Jerome James
+2002-03-12,26-115,SEA,AWAY,HOU,L (-3),1,26:23,5,7,.714,0,0,,0,2,.000,3,6,9,2,2,2,0,1,10,14.6,-5,Jerome James
+2002-03-15,26-118,SEA,HOME,WAS,L (-5),1,22:21,1,3,.333,0,0,,0,0,,0,4,4,0,2,1,3,5,2,-0.8,+6,Jerome James
+2002-03-16,26-119,SEA,AWAY,LAC,W (+8),1,33:50,3,7,.429,0,0,,0,0,,4,2,6,0,0,6,0,2,6,9.1,+5,Jerome James
+2002-03-19,26-122,SEA,HOME,GSW,W (+17),1,15:20,3,5,.600,0,0,,0,0,,1,5,6,0,1,2,1,3,6,6.1,+21,Jerome James
+2002-03-22,26-125,SEA,HOME,HOU,W (+30),1,21:32,3,5,.600,0,0,,0,0,,1,4,5,1,0,2,2,4,6,4.1,+9,Jerome James
+2002-03-23,26-126,SEA,AWAY,DEN,L (-3),1,12:16,1,2,.500,0,0,,0,0,,3,2,5,1,1,1,1,3,2,3.9,+1,Jerome James
+2002-03-25,26-128,SEA,HOME,UTA,W (+14),1,9:25,2,3,.667,0,0,,0,0,,1,1,2,0,0,1,4,5,4,-1.6,-10,Jerome James
+2002-03-27,26-130,SEA,HOME,MEM,W (+14),1,27:03,1,5,.200,0,0,,0,2,.000,1,6,7,1,1,3,1,5,2,1.4,+16,Jerome James
+2002-03-29,26-132,SEA,HOME,SAS,W (+3),1,15:16,5,6,.833,0,0,,1,2,.500,2,4,6,1,0,2,0,5,11,11.1,+6,Jerome James
+2002-03-30,26-133,SEA,AWAY,POR,W (+5),1,35:13,2,7,.286,0,0,,2,2,1.000,4,6,10,4,1,3,2,3,6,9.2,+13,Jerome James
+2002-04-02,26-136,SEA,AWAY,HOU,L (-2),1,16:11,2,3,.667,0,0,,0,0,,0,2,2,0,1,0,1,4,4,1.7,+1,Jerome James
+2002-04-03,26-137,SEA,AWAY,SAS,L (-2),1,23:09,6,12,.500,0,0,,0,0,,3,4,7,0,0,1,0,5,12,8.0,+15,Jerome James
+2002-04-05,26-139,SEA,HOME,NYK,L (-3),1,35:09,4,10,.400,0,0,,0,2,.000,6,3,9,2,2,3,4,3,8,7.2,0,Jerome James
+2002-04-08,26-142,SEA,HOME,LAC,W (+2),1,29:27,2,5,.400,0,0,,0,0,,1,2,3,1,1,2,0,5,4,3.7,-2,Jerome James
+2002-04-09,26-143,SEA,AWAY,PHO,L (-7),1,17:54,2,2,1.000,0,0,,0,0,,0,0,0,0,0,2,0,2,4,4.0,-6,Jerome James
+2002-04-13,26-147,SEA,HOME,DAL,L (-17),1,13:01,1,4,.250,0,0,,2,2,1.000,2,2,4,0,0,1,1,1,4,2.9,-7,Jerome James
+2002-04-15,26-149,SEA,AWAY,LAL,L (-7),1,10:25,3,5,.600,0,0,,1,2,.500,1,0,1,0,0,0,0,4,7,3.4,-17,Jerome James
+2002-04-17,26-151,SEA,HOME,MEM,W (+15),1,23:25,5,8,.625,0,0,,2,4,.500,2,2,4,1,0,0,0,2,12,9.5,+10,Jerome James
+2005-11-02,29-350,NYK,AWAY,BOS,L (-14),0,7:55,2,3,.667,0,0,,0,0,,0,1,1,1,0,1,1,4,4,1.8,+3,Jerome James
+2005-11-04,29-352,NYK,HOME,WAS,L (-11),0,2:49,0,2,.000,0,0,,0,0,,0,1,1,0,0,0,2,3,0,-4.3,-7,Jerome James
+2005-11-06,29-354,NYK,HOME,GSW,L (-2),1,7:16,0,0,,0,0,,0,0,,0,3,3,0,0,0,0,3,0,-0.3,-6,Jerome James
+2005-12-02,30-015,NYK,AWAY,DET,L (-8),0,8:59,2,5,.400,0,0,,1,1,1.000,1,1,2,0,0,2,1,2,5,2.9,-3,Jerome James
+2005-12-04,30-017,NYK,HOME,BOS,L (-3),0,10:33,1,3,.333,0,0,,0,0,,1,1,2,0,0,0,2,3,2,-1.9,+5,Jerome James
+2005-12-06,30-019,NYK,AWAY,SEA,W (+3),1,15:28,4,6,.667,0,0,,1,3,.333,3,2,5,0,0,1,2,1,9,6.6,-4,Jerome James
+2005-12-12,30-025,NYK,HOME,MIL,L (-20),0,6:48,1,2,.500,0,0,,0,0,,0,0,0,1,0,0,0,0,2,1.7,-9,Jerome James
+2005-12-16,30-029,NYK,AWAY,ATL,L (-11),1,13:14,2,5,.400,0,0,,1,2,.500,2,3,5,0,1,0,2,3,5,2.0,-9,Jerome James
+2005-12-17,30-030,NYK,HOME,IND,L (-6),1,15:20,1,5,.200,0,0,,1,2,.500,2,4,6,0,0,1,4,2,3,-2.0,-10,Jerome James
+2005-12-21,30-034,NYK,HOME,SAS,L (-13),1,11:02,0,3,.000,0,0,,1,2,.500,1,0,1,0,0,1,1,1,1,-1.5,-18,Jerome James
+2005-12-23,30-036,NYK,HOME,UTA,W (+8),1,14:56,4,6,.667,0,0,,0,0,,1,2,3,1,0,2,2,4,8,5.2,-5,Jerome James
+2005-12-26,30-039,NYK,HOME,NJN,L (-8),1,13:25,2,4,.500,0,0,,0,0,,1,1,2,1,0,0,2,2,4,0.9,-9,Jerome James
+2005-12-28,30-041,NYK,AWAY,ORL,L (-10),1,15:58,2,7,.286,0,0,,0,0,,3,1,4,0,0,0,0,4,4,0.7,-7,Jerome James
+2005-12-30,30-043,NYK,AWAY,MIL,L (-5),0,2:11,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,3,0,-1.2,-4,Jerome James
+2006-01-08,30-052,NYK,HOME,SEA,W (+4),0,3:17,0,2,.000,0,0,,0,0,,2,0,2,1,0,0,0,1,0,0.3,-2,Jerome James
+2006-01-10,30-054,NYK,AWAY,CLE,W (+8),0,3:29,0,1,.000,0,0,,0,2,.000,0,1,1,0,0,0,0,1,0,-1.6,0,Jerome James
+2006-01-11,30-055,NYK,HOME,DAL,W (+2),0,6:37,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,-7,Jerome James
+2006-01-16,30-060,NYK,HOME,MIN,L (-6),0,15:10,3,6,.500,0,0,,2,4,.500,1,0,1,0,0,1,0,5,8,3.6,-1,Jerome James
+2006-01-18,30-062,NYK,AWAY,CHI,L (-2),0,8:45,2,3,.667,0,0,,0,0,,1,0,1,1,0,2,0,2,4,4.7,-4,Jerome James
+2006-01-19,30-063,NYK,HOME,DET,L (-26),0,5:58,1,2,.500,0,0,,2,2,1.000,1,1,2,0,0,0,0,0,4,4.0,+1,Jerome James
+2006-01-21,30-065,NYK,HOME,NOK,L (-11),0,5:17,0,1,.000,0,0,,0,2,.000,0,0,0,0,0,0,1,2,0,-3.3,+5,Jerome James
+2006-01-25,30-069,NYK,HOME,SAC,L (-4),0,3:50,0,0,,0,0,,0,0,,0,1,1,0,0,1,2,2,0,-1.8,+3,Jerome James
+2006-02-05,30-080,NYK,HOME,HOU,L (-4),0,14:04,2,4,.500,0,0,,2,2,1.000,2,6,8,0,0,0,3,4,6,2.6,-12,Jerome James
+2006-02-07,30-082,NYK,HOME,LAC,L (-3),0,6:22,1,3,.333,0,0,,0,0,,2,1,3,0,0,0,0,1,2,1.6,+2,Jerome James
+2006-02-08,30-083,NYK,AWAY,NJN,L (-13),0,6:23,1,2,.500,0,0,,0,0,,0,3,3,0,0,1,0,0,2,2.6,+3,Jerome James
+2006-02-10,30-085,NYK,AWAY,NOK,L (-11),0,2:30,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.1,+2,Jerome James
+2006-02-12,30-087,NYK,AWAY,HOU,L (-7),0,13:09,0,0,,0,0,,0,0,,1,3,4,1,0,1,0,3,0,1.8,+5,Jerome James
+2006-02-22,30-097,NYK,HOME,MIA,L (-20),0,2:48,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-1,Jerome James
+2006-03-03,30-106,NYK,HOME,CHI,L (-7),0,11:14,1,2,.500,0,0,,1,1,1.000,1,1,2,0,0,2,3,5,3,-0.6,0,Jerome James
+2006-03-04,30-107,NYK,AWAY,MIL,W (+5),0,8:49,0,1,.000,0,0,,1,2,.500,0,2,2,1,0,0,4,5,1,-4.8,-8,Jerome James
+2006-03-07,30-110,NYK,AWAY,IND,W (+15),0,8:18,0,0,,0,0,,0,0,,1,2,3,0,0,0,3,5,0,-3.7,-9,Jerome James
+2006-03-13,30-116,NYK,HOME,DEN,L (-12),1,14:14,6,11,.545,0,0,,1,1,1.000,4,0,4,0,0,2,2,3,13,8.7,-2,Jerome James
+2006-03-15,30-118,NYK,HOME,ATL,W (+4),0,12:29,1,1,1.000,0,0,,4,4,1.000,0,1,1,1,0,1,1,3,6,5.2,+18,Jerome James
+2006-03-17,30-120,NYK,HOME,DET,W (+2),0,5:39,0,2,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-1.1,-13,Jerome James
+2006-03-19,30-122,NYK,HOME,MIA,L (-11),0,17:45,6,9,.667,0,0,,1,1,1.000,3,1,4,1,0,1,0,3,13,11.7,+5,Jerome James
+2006-03-21,30-124,NYK,HOME,TOR,L (-5),0,3:36,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,2,0,-1.8,+5,Jerome James
+2006-03-22,30-125,NYK,AWAY,ORL,L (-24),0,10:28,3,5,.600,0,0,,0,0,,2,0,2,0,0,1,4,3,6,0.6,-21,Jerome James
+2006-03-24,30-127,NYK,HOME,MEM,L (-16),0,6:44,1,2,.500,0,0,,1,1,1.000,0,2,2,0,0,0,0,0,3,2.6,-6,Jerome James
+2006-03-26,30-129,NYK,AWAY,MIN,L (-4),0,10:00,0,1,.000,0,0,,2,2,1.000,1,1,2,1,0,0,3,1,2,-0.4,-11,Jerome James
+2006-03-31,30-134,NYK,HOME,PHI,L (-5),0,12:15,1,1,1.000,0,0,,3,6,.500,0,1,1,0,0,0,0,3,5,2.6,-7,Jerome James
+2006-04-02,30-136,NYK,AWAY,PHI,L (-19),0,15:46,1,1,1.000,0,0,,0,0,,0,0,0,1,1,0,3,4,2,-1.2,-1,Jerome James
+2006-04-04,30-138,NYK,AWAY,WAS,L (-15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jerome James
+2006-04-07,30-141,NYK,HOME,IND,W (+2),0,0:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,,Jerome James
+2006-04-09,30-143,NYK,AWAY,BOS,W (+15),0,3:06,0,0,,0,0,,0,0,,0,2,2,0,0,0,0,2,0,-0.2,+3,Jerome James
+2006-04-10,30-144,NYK,AWAY,IND,L (-19),0,6:57,1,3,.333,0,0,,0,0,,2,1,3,0,0,0,2,2,2,-0.8,-2,Jerome James
+2006-04-13,30-147,NYK,AWAY,CLE,L (-4),0,15:06,4,6,.667,0,0,,0,0,,0,0,0,0,1,2,0,4,8,6.2,-3,Jerome James
+2006-04-19,30-153,NYK,AWAY,NJN,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jerome James
+2002-10-30,26-347,SEA,HOME,PHO,W (+13),0,6:02,0,2,.000,0,0,,0,0,,0,3,3,1,0,1,1,2,0,-0.9,-5,Jerome James
+2002-11-01,26-349,SEA,AWAY,GSW,W (+13),0,8:58,1,3,.333,0,0,,2,2,1.000,1,2,3,0,0,0,2,4,4,0.0,-3,Jerome James
+2002-11-03,26-351,SEA,HOME,UTA,W (+14),1,5:12,1,3,.333,0,0,,0,0,,1,0,1,0,1,1,1,2,2,0.9,+1,Jerome James
+2002-11-05,26-353,SEA,AWAY,HOU,W (+7),0,19:41,5,6,.833,0,0,,3,5,.600,2,4,6,2,0,5,0,4,13,15.9,+15,Jerome James
+2002-11-06,26-354,SEA,AWAY,NOH,L (-2),0,4:49,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-6,Jerome James
+2002-11-08,26-356,SEA,AWAY,ORL,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jerome James
+2002-11-09,26-357,SEA,AWAY,MIA,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jerome James
+2002-11-12,26-360,SEA,AWAY,WAS,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jerome James
+2002-11-15,26-363,SEA,HOME,SAC,W (+14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jerome James
+2002-11-17,27-000,SEA,AWAY,LAC,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jerome James
+2002-11-23,27-006,SEA,AWAY,DAL,L (-10),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jerome James
+2002-11-24,27-007,SEA,AWAY,SAS,W (+1),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jerome James
+2002-11-26,27-009,SEA,AWAY,ATL,L (-3),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jerome James
+2002-11-27,27-010,SEA,AWAY,MEM,L (-18),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jerome James
+2003-01-07,27-051,SEA,AWAY,LAL,L (-21),0,11:33,0,5,.000,0,0,,2,2,1.000,2,2,4,1,0,0,2,6,2,-3.2,-11,Jerome James
+2003-01-08,27-052,SEA,HOME,SAS,L (-11),0,18:26,3,4,.750,0,0,,2,6,.333,3,2,5,1,0,2,3,5,8,4.6,-13,Jerome James
+2003-01-10,27-054,SEA,HOME,LAC,L (-2),0,18:14,2,3,.667,0,0,,0,0,,1,6,7,2,0,2,0,4,4,6.4,+6,Jerome James
+2003-01-12,27-056,SEA,HOME,CLE,L (-8),1,29:44,4,11,.364,0,0,,1,2,.500,1,4,5,0,2,4,0,5,9,7.2,-9,Jerome James
+2003-01-16,27-060,SEA,AWAY,UTA,L (-7),1,23:28,1,2,.500,0,0,,2,6,.333,1,3,4,1,1,3,0,4,4,5.2,+1,Jerome James
+2003-01-17,27-061,SEA,HOME,MEM,W (+6),1,4:20,0,1,.000,0,0,,0,0,,0,3,3,0,0,1,0,1,0,0.5,+4,Jerome James
+2003-01-19,27-063,SEA,HOME,DAL,W (+4),1,6:49,0,2,.000,0,0,,1,2,.500,0,2,2,0,0,0,1,1,1,-1.6,0,Jerome James
+2003-01-22,27-066,SEA,AWAY,MIN,L (-5),1,16:57,2,5,.400,0,0,,2,2,1.000,0,2,2,0,1,1,2,2,6,2.8,-6,Jerome James
+2003-01-24,27-068,SEA,AWAY,IND,L (-13),1,19:56,2,5,.400,0,0,,2,2,1.000,2,7,9,0,1,3,1,4,6,7.3,-6,Jerome James
+2003-01-25,27-069,SEA,AWAY,MEM,W (+12),1,11:10,2,6,.333,0,0,,2,2,1.000,1,3,4,1,0,1,2,5,6,1.6,+3,Jerome James
+2003-01-28,27-072,SEA,HOME,GSW,W (+3),1,18:31,5,10,.500,0,0,,2,2,1.000,3,3,6,1,0,2,3,3,12,7.9,+4,Jerome James
+2003-01-30,27-074,SEA,HOME,SAC,L (-18),1,20:59,1,4,.250,0,0,,1,2,.500,2,8,10,0,0,3,1,3,3,3.9,-7,Jerome James
+2003-02-01,27-076,SEA,HOME,CHI,W (+13),1,21:33,3,7,.429,0,0,,2,2,1.000,4,4,8,2,1,4,0,5,8,11.5,+22,Jerome James
+2003-02-03,27-078,SEA,AWAY,NJN,L (-1),1,6:49,1,3,.333,0,0,,0,0,,1,1,2,1,0,0,2,1,2,-0.4,-9,Jerome James
+2003-02-05,27-080,SEA,AWAY,BOS,L (-40),1,17:17,4,4,1.000,0,0,,0,2,.000,2,3,5,0,0,3,1,3,8,8.2,+1,Jerome James
+2003-02-06,27-081,SEA,AWAY,MIL,L (-6),1,23:24,4,8,.500,0,0,,4,6,.667,1,3,4,0,0,2,0,4,12,8.6,+2,Jerome James
+2003-02-11,27-086,SEA,HOME,BOS,L (-6),1,6:38,1,3,.333,0,0,,0,0,,0,3,3,1,0,1,1,0,2,1.6,-6,Jerome James
+2003-02-14,27-089,SEA,AWAY,SAC,L (-29),1,7:14,1,4,.250,0,0,,0,0,,3,0,3,0,0,1,1,2,2,0.6,-10,Jerome James
+2003-02-15,27-090,SEA,AWAY,POR,L (-5),0,12:48,3,5,.600,0,0,,1,2,.500,2,2,4,0,0,2,1,5,7,4.7,+9,Jerome James
+2003-02-21,27-096,SEA,HOME,MIL,W (+30),0,21:47,2,4,.500,0,0,,2,2,1.000,2,2,4,1,1,1,0,3,6,7.2,+5,Jerome James
+2003-02-23,27-098,SEA,AWAY,LAL,L (-5),0,12:22,4,5,.800,0,0,,0,0,,1,4,5,1,0,2,1,6,8,6.7,-5,Jerome James
+2003-02-24,27-099,SEA,HOME,DET,W (+7),0,18:11,3,5,.600,0,0,,2,4,.500,1,2,3,1,0,0,3,4,8,2.3,+5,Jerome James
+2003-02-26,27-101,SEA,HOME,ATL,W (+17),0,19:44,4,10,.400,0,0,,3,5,.600,0,2,2,2,1,2,1,4,11,6.6,+17,Jerome James
+2003-02-28,27-103,SEA,HOME,LAL,W (+17),0,19:48,1,5,.200,0,0,,2,2,1.000,2,4,6,0,0,0,4,5,4,-2.5,+5,Jerome James
+2003-03-01,27-104,SEA,AWAY,LAC,W (+8),0,13:57,5,5,1.000,0,0,,0,2,.000,0,4,4,0,0,1,1,5,10,6.6,0,Jerome James
+2003-03-04,27-107,SEA,HOME,MIN,W (+9),0,13:18,3,4,.750,0,0,,0,0,,0,1,1,0,0,1,1,5,6,2.4,+6,Jerome James
+2003-03-05,27-108,SEA,AWAY,UTA,L (-11),0,19:49,2,5,.400,0,0,,1,2,.500,0,6,6,0,0,2,3,3,5,0.9,+5,Jerome James
+2003-03-07,27-110,SEA,HOME,PHI,L (-9),0,24:12,2,3,.667,0,0,,3,6,.500,2,4,6,0,0,4,3,3,7,5.7,-9,Jerome James
+2003-03-11,27-114,SEA,HOME,POR,L (-15),0,7:03,0,2,.000,0,0,,0,0,,0,0,0,0,1,0,4,1,0,-4.8,0,Jerome James
+2003-03-15,27-118,SEA,HOME,GSW,L (-6),0,23:31,4,6,.667,0,0,,2,4,.500,4,6,10,3,0,3,1,4,10,12.8,-3,Jerome James
+2003-03-16,27-119,SEA,AWAY,DEN,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jerome James
+2003-03-18,27-121,SEA,HOME,HOU,W (+6),0,25:35,6,9,.667,0,0,,1,3,.333,1,5,6,2,1,0,2,5,13,8.9,+6,Jerome James
+2003-03-19,27-122,SEA,AWAY,GSW,L (-6),0,3:12,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,3,0,-1.9,-5,Jerome James
+2003-03-21,27-124,SEA,HOME,DEN,W (+2),0,24:34,3,6,.500,0,0,,2,2,1.000,2,4,6,1,0,2,3,6,8,4.3,+20,Jerome James
+2003-03-24,27-127,SEA,AWAY,PHO,W (+9),0,19:39,2,4,.500,0,0,,1,2,.500,2,4,6,0,0,2,2,3,5,3.4,+5,Jerome James
+2003-03-26,27-129,SEA,HOME,WAS,L (-6),0,11:15,0,3,.000,0,0,,0,0,,3,2,5,0,0,0,2,1,0,-1.8,+4,Jerome James
+2003-03-28,27-131,SEA,HOME,MEM,W (+24),0,21:04,4,8,.500,0,0,,1,2,.500,5,2,7,0,0,4,2,3,9,8.3,+6,Jerome James
+2003-03-30,27-133,SEA,HOME,LAL,W (+21),0,11:39,1,4,.250,0,0,,0,0,,2,1,3,0,0,2,2,3,2,-0.5,+5,Jerome James
+2003-04-01,27-135,SEA,AWAY,CHI,W (+7),0,15:15,4,7,.571,0,0,,2,2,1.000,4,3,7,0,1,4,4,3,10,9.0,-5,Jerome James
+2003-04-02,27-136,SEA,AWAY,MIN,L (-5),0,11:50,2,5,.400,0,0,,1,2,.500,2,3,5,0,0,0,3,3,5,0.0,-6,Jerome James
+2003-04-04,27-138,SEA,HOME,LAC,W (+8),0,9:29,0,1,.000,0,0,,2,2,1.000,2,0,2,0,0,2,2,0,2,2.1,-5,Jerome James
+2003-04-06,27-140,SEA,HOME,UTA,W (+2),0,19:26,4,9,.444,0,0,,0,0,,8,2,10,0,0,3,3,3,8,7.4,+8,Jerome James
+2003-04-08,27-142,SEA,AWAY,SAC,L (-22),0,8:39,0,4,.000,0,0,,0,0,,0,2,2,0,0,0,0,3,0,-3.4,-5,Jerome James
+2003-04-09,27-143,SEA,HOME,MIN,W (+8),0,17:51,3,4,.750,0,0,,0,0,,0,2,2,0,0,2,2,2,6,3.6,+5,Jerome James
+2003-04-11,27-145,SEA,AWAY,SAS,L (-8),0,3:12,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-6,Jerome James
+2003-04-12,27-146,SEA,AWAY,HOU,L (-15),0,15:46,2,2,1.000,0,0,,0,1,.000,0,1,1,2,0,1,0,3,4,4.2,-14,Jerome James
+2003-04-16,27-150,SEA,HOME,PHO,W (+14),0,12:34,4,6,.667,0,0,,0,2,.000,2,1,3,0,0,2,0,5,8,5.7,+2,Jerome James
+2003-10-31,27-348,SEA,AWAY,LAC,W (+19),0,9:35,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,3,0,-1.6,+2,Jerome James
+2003-11-07,27-355,SEA,HOME,POR,W (+18),0,11:10,0,3,.000,0,0,,0,0,,0,2,2,0,1,2,1,2,0,-0.9,+4,Jerome James
+2003-11-11,27-359,SEA,AWAY,MIN,W (+2),0,26:44,6,7,.857,0,0,,2,2,1.000,1,3,4,1,0,3,3,4,14,11.3,+11,Jerome James
+2003-11-12,27-360,SEA,AWAY,MIL,W (+5),0,5:08,1,2,.500,0,0,,0,0,,0,1,1,0,0,0,2,1,2,-1.1,-5,Jerome James
+2003-11-14,27-362,SEA,AWAY,IND,L (-23),0,9:42,1,2,.500,0,0,,0,0,,1,0,1,2,0,0,1,2,2,1.3,-2,Jerome James
+2003-11-15,27-363,SEA,AWAY,CHI,W (+8),0,15:44,3,5,.600,0,0,,1,1,1.000,0,1,1,0,1,1,1,2,7,4.9,+1,Jerome James
+2003-11-18,28-001,SEA,HOME,MIA,L (-7),0,19:45,2,5,.400,0,0,,0,0,,0,1,1,0,0,2,2,5,4,-1.0,-10,Jerome James
+2003-11-21,28-004,SEA,HOME,MEM,L (-1),0,8:34,0,1,.000,0,0,,1,2,.500,0,0,0,1,0,0,1,1,1,-0.8,0,Jerome James
+2003-11-28,28-011,SEA,AWAY,UTA,L (-17),0,11:58,2,3,.667,0,0,,2,5,.400,1,1,2,0,0,1,2,3,6,2.0,-10,Jerome James
+2003-11-29,28-012,SEA,HOME,HOU,W (+7),1,14:27,3,5,.600,0,0,,2,3,.667,1,4,5,1,0,1,0,6,8,6.2,+11,Jerome James
+2003-12-03,28-016,SEA,HOME,NYK,W (+8),1,12:26,2,6,.333,0,0,,4,4,1.000,1,1,2,0,0,2,0,3,8,5.8,+3,Jerome James
+2003-12-05,28-018,SEA,HOME,IND,L (-7),1,9:25,3,3,1.000,0,0,,1,1,1.000,1,2,3,0,1,1,4,3,7,3.9,-10,Jerome James
+2003-12-07,28-020,SEA,AWAY,TOR,L (-10),1,16:25,3,5,.600,0,0,,1,2,.500,3,6,9,0,0,1,2,4,7,5.3,-3,Jerome James
+2003-12-10,28-023,SEA,AWAY,BOS,L (-14),1,6:24,0,2,.000,0,0,,0,0,,2,3,5,0,0,0,0,1,0,0.5,-7,Jerome James
+2003-12-12,28-025,SEA,AWAY,DET,W (+21),1,12:43,0,0,,0,0,,0,0,,0,2,2,1,0,1,2,4,0,-1.6,+5,Jerome James
+2003-12-14,28-027,SEA,HOME,MIL,W (+6),1,17:25,5,8,.625,0,0,,0,0,,1,5,6,0,0,3,1,4,10,8.1,+1,Jerome James
+2003-12-16,28-029,SEA,AWAY,PHO,L (-1),1,18:39,3,5,.600,0,0,,0,0,,1,2,3,0,0,2,4,1,6,2.0,+3,Jerome James
+2003-12-17,28-030,SEA,HOME,DEN,L (-1),1,20:33,3,6,.500,0,0,,1,2,.500,3,1,4,1,1,2,2,0,7,7.1,-4,Jerome James
+2003-12-19,28-032,SEA,HOME,SAS,L (-14),1,23:14,1,2,.500,0,0,,0,0,,0,4,4,0,1,0,1,3,2,1.0,0,Jerome James
+2003-12-20,28-033,SEA,AWAY,DEN,W (+9),1,2:14,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-1.5,+2,Jerome James
+2003-12-23,28-036,SEA,HOME,PHO,W (+26),1,20:48,5,8,.625,0,0,,1,1,1.000,2,4,6,2,1,4,2,1,11,12.8,+20,Jerome James
+2003-12-27,28-040,SEA,HOME,MIN,L (-18),1,22:27,3,6,.500,0,0,,1,3,.333,2,0,2,1,0,1,1,3,7,3.8,-7,Jerome James
+2003-12-29,28-042,SEA,AWAY,HOU,W (+1),1,12:45,2,5,.400,0,0,,1,3,.333,1,3,4,1,0,1,2,5,5,0.5,-1,Jerome James
+2003-12-30,28-043,SEA,AWAY,MEM,W (+6),1,16:12,1,4,.250,0,0,,0,0,,3,3,6,3,0,0,1,2,2,2.9,+5,Jerome James
+2004-01-02,28-046,SEA,HOME,LAL,W (+2),1,2:14,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,-3,Jerome James
+2004-01-04,28-048,SEA,AWAY,SAC,L (-31),1,8:17,0,0,,0,0,,0,0,,0,3,3,1,0,0,0,0,0,1.6,-3,Jerome James
+2004-01-05,28-049,SEA,HOME,POR,W (+11),1,27:10,5,9,.556,0,0,,1,1,1.000,3,1,4,0,1,1,1,5,11,7.8,+22,Jerome James
+2004-01-07,28-051,SEA,HOME,SAC,W (+11),0,10:28,1,3,.333,0,0,,1,2,.500,2,0,2,0,1,0,1,2,3,1.5,+8,Jerome James
+2004-01-09,28-053,SEA,HOME,MEM,W (+6),0,20:03,7,7,1.000,0,0,,2,6,.333,3,3,6,0,1,2,0,4,16,16.1,+10,Jerome James
+2004-01-10,28-054,SEA,AWAY,GSW,L (-3),0,13:24,4,6,.667,0,0,,1,1,1.000,0,1,1,0,0,1,0,4,9,5.8,-1,Jerome James
+2004-01-13,28-057,SEA,HOME,CLE,L (-8),0,25:16,3,9,.333,0,0,,2,2,1.000,2,1,3,1,0,2,2,3,8,3.5,+2,Jerome James
+2004-01-16,28-060,SEA,AWAY,NYK,L (-20),1,5:30,0,2,.000,0,0,,0,0,,2,0,2,0,0,0,2,0,0,-2.0,-2,Jerome James
+2004-01-17,28-061,SEA,AWAY,WAS,L (-15),1,7:40,1,1,1.000,0,0,,0,0,,1,2,3,0,0,1,2,3,2,0.5,+1,Jerome James
+2004-01-19,28-063,SEA,AWAY,PHI,W (+9),1,21:49,5,7,.714,0,0,,0,0,,2,6,8,1,1,1,1,4,10,10.1,+6,Jerome James
+2004-01-20,28-064,SEA,AWAY,CLE,L (-5),1,26:26,4,11,.364,0,0,,0,0,,3,5,8,1,0,0,2,5,8,2.2,-15,Jerome James
+2004-01-22,28-066,SEA,HOME,GSW,W (+16),1,23:20,3,4,.750,0,0,,2,2,1.000,2,8,10,2,1,4,2,3,8,12.2,+18,Jerome James
+2004-01-24,28-068,SEA,HOME,LAC,W (+5),1,14:39,2,3,.667,0,0,,0,0,,0,2,2,1,0,0,1,4,4,1.4,-6,Jerome James
+2004-01-28,28-072,SEA,AWAY,LAL,L (-14),0,6:22,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,-7,Jerome James
+2004-01-31,28-075,SEA,HOME,SAC,L (-7),0,8:20,0,2,.000,0,0,,0,0,,2,2,4,1,0,0,1,2,0,-0.5,-8,Jerome James
+2004-02-02,28-077,SEA,HOME,CHI,W (+12),0,2:24,0,2,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-1.4,-2,Jerome James
+2004-02-05,28-080,SEA,HOME,SAS,L (-6),0,15:53,0,3,.000,0,0,,3,4,.750,1,6,7,0,0,2,2,4,3,0.8,-1,Jerome James
+2004-02-06,28-081,SEA,AWAY,PHO,W (+2),0,21:16,6,8,.750,0,0,,0,0,,2,2,4,2,0,3,1,3,12,12.1,-6,Jerome James
+2004-02-08,28-083,SEA,AWAY,POR,L (-10),0,19:21,3,4,.750,0,0,,3,6,.500,2,1,3,1,0,1,1,4,9,6.7,-3,Jerome James
+2004-02-10,28-085,SEA,HOME,GSW,L (-9),0,11:39,0,1,.000,0,0,,1,2,.500,0,2,2,0,0,0,1,2,1,-1.3,-4,Jerome James
+2004-02-12,28-087,SEA,HOME,TOR,W (+20),0,23:44,2,4,.500,0,0,,1,2,.500,3,6,9,0,2,0,2,2,5,5.7,+21,Jerome James
+2004-02-19,28-094,SEA,HOME,PHI,L (-11),0,22:22,2,4,.500,0,0,,5,6,.833,2,3,5,0,0,0,2,5,9,4.9,+3,Jerome James
+2004-02-21,28-096,SEA,AWAY,GSW,L (-2),0,20:20,5,9,.556,0,0,,0,0,,0,4,4,0,0,1,1,2,10,5.8,-1,Jerome James
+2004-02-22,28-097,SEA,HOME,BOS,W (+21),0,24:09,5,10,.500,0,0,,3,3,1.000,3,2,5,1,0,1,1,5,13,9.1,+21,Jerome James
+2004-02-24,28-099,SEA,AWAY,UTA,L (-13),0,14:54,0,3,.000,0,0,,0,0,,0,0,0,1,0,0,2,4,0,-5.0,-15,Jerome James
+2004-02-25,28-100,SEA,HOME,UTA,L (-1),0,16:35,1,2,.500,0,0,,2,4,.500,1,2,3,0,0,2,1,5,4,1.9,+11,Jerome James
+2004-02-27,28-102,SEA,HOME,PHO,L (-5),0,21:02,2,2,1.000,0,0,,0,5,.000,1,8,9,0,1,1,3,2,4,2.4,+2,Jerome James
+2004-02-29,28-104,SEA,AWAY,HOU,W (+17),0,18:44,2,5,.400,0,0,,0,0,,1,3,4,1,0,0,2,5,4,-0.4,+10,Jerome James
+2004-03-02,28-106,SEA,AWAY,DAL,L (-11),0,17:38,3,6,.500,0,0,,3,4,.750,1,3,4,0,0,0,1,0,9,6.2,-9,Jerome James
+2004-03-03,28-107,SEA,AWAY,SAS,L (-4),0,18:57,1,5,.200,0,0,,0,0,,0,2,2,0,1,2,1,5,2,-1.1,+6,Jerome James
+2004-03-05,28-109,SEA,AWAY,LAL,L (-8),0,11:55,0,2,.000,0,0,,0,0,,1,2,3,0,1,1,0,5,0,-0.4,+1,Jerome James
+2004-03-07,28-111,SEA,HOME,DET,L (-21),0,13:09,1,4,.250,0,0,,6,8,.750,1,0,1,0,0,1,1,3,8,4.0,+3,Jerome James
+2004-03-09,28-113,SEA,HOME,MIN,L (-13),0,13:56,3,5,.600,0,0,,2,2,1.000,2,1,3,0,0,0,1,1,8,6.0,-5,Jerome James
+2004-03-12,28-116,SEA,AWAY,MIA,L (-8),0,24:04,3,5,.600,0,0,,3,4,.750,2,7,9,0,0,1,2,2,9,7.7,-9,Jerome James
+2004-03-13,28-117,SEA,AWAY,ORL,W (+14),0,16:03,1,3,.333,0,0,,0,0,,1,3,4,1,1,1,2,3,2,1.1,+11,Jerome James
+2004-03-16,28-120,SEA,AWAY,ATL,W (+8),0,11:20,0,1,.000,0,0,,0,0,,1,0,1,1,0,1,1,3,0,-0.8,-11,Jerome James
+2004-03-18,28-122,SEA,AWAY,MEM,W (+3),0,20:48,1,2,.500,0,0,,0,0,,2,6,8,1,1,1,0,2,2,5.8,-1,Jerome James
+2004-03-19,28-123,SEA,AWAY,NOH,W (+11),0,16:59,0,2,.000,0,0,,2,2,1.000,0,2,2,0,0,0,0,2,2,0.4,+8,Jerome James
+2004-03-21,28-125,SEA,HOME,ORL,W (+17),0,9:49,2,4,.500,0,0,,0,0,,0,1,1,1,0,0,1,2,4,1.2,-6,Jerome James
+2004-03-24,28-128,SEA,HOME,UTA,W (+7),0,9:10,0,1,.000,0,0,,2,2,1.000,3,0,3,0,1,1,2,1,2,2.7,-11,Jerome James
+2004-03-26,28-130,SEA,HOME,DEN,W (+16),0,10:37,2,3,.667,0,0,,3,3,1.000,2,2,4,0,1,0,0,1,7,8.3,+5,Jerome James
+2004-03-27,28-131,SEA,AWAY,POR,L (-7),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jerome James
+2006-11-17,31-000,NYK,AWAY,MIA,W (+24),0,14:18,4,4,1.000,0,0,,1,2,.500,1,2,3,0,1,1,1,2,9,8.6,+7,Jerome James
+2006-11-18,31-001,NYK,HOME,BOS,L (-4),0,7:20,2,2,1.000,0,0,,0,0,,0,0,0,0,0,0,0,2,4,2.6,+5,Jerome James
+2006-11-20,31-003,NYK,HOME,HOU,L (-7),0,2:54,0,3,.000,0,0,,0,0,,1,0,1,0,0,0,0,3,0,-2.6,0,Jerome James
+2006-11-22,31-005,NYK,AWAY,MIN,L (-18),0,4:39,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.8,-2,Jerome James
+2006-11-25,31-008,NYK,HOME,CHI,L (-11),0,1:52,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,0,Jerome James
+2006-11-28,31-011,NYK,AWAY,CHI,L (-17),0,6:16,1,3,.333,0,0,,0,0,,0,0,0,0,0,1,0,1,2,0.6,-3,Jerome James
+2006-11-29,31-012,NYK,AWAY,CLE,W (+3),0,3:13,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,1,2,0,-2.5,-5,Jerome James
+2006-12-01,31-014,NYK,AWAY,DET,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jerome James
+2006-12-02,31-015,NYK,HOME,TOR,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jerome James
+2006-12-04,31-017,NYK,HOME,MEM,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jerome James
+2006-12-09,31-022,NYK,HOME,MIL,W (+8),0,1:44,0,0,,0,0,,0,0,,1,0,1,0,0,0,1,0,0,-0.3,-4,Jerome James
+2006-12-13,31-026,NYK,HOME,ATL,W (+12),0,9:25,2,2,1.000,0,0,,0,2,.000,2,1,3,0,0,0,1,5,4,1.3,-12,Jerome James
+2006-12-15,31-028,NYK,AWAY,IND,L (-16),0,8:16,1,4,.250,0,0,,0,0,,0,1,1,0,0,0,2,2,2,-2.9,-3,Jerome James
+2006-12-18,31-031,NYK,HOME,UTA,W (+1),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Jerome James
+2006-12-22,31-035,NYK,HOME,CHI,W (+11),0,6:42,2,5,.400,0,0,,1,1,1.000,2,1,3,0,0,0,1,2,5,2.2,+4,Jerome James
+2006-12-23,31-036,NYK,AWAY,PHI,L (-21),0,14:15,2,5,.400,0,0,,0,0,,2,4,6,0,0,0,0,3,4,2.7,-9,Jerome James
+2006-12-31,31-044,NYK,AWAY,LAC,L (-10),0,13:23,4,5,.800,0,0,,2,2,1.000,1,2,3,0,0,1,0,4,10,8.5,+14,Jerome James
+2007-01-05,31-049,NYK,AWAY,SEA,W (+18),0,1:41,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,-2,Jerome James
+2007-01-20,31-064,NYK,AWAY,IND,W (+2),0,3:54,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-2.1,-3,Jerome James
+2007-01-26,31-070,NYK,HOME,MIA,W (+20),1,17:04,3,6,.500,0,0,,0,1,.000,0,5,5,0,1,0,1,3,6,2.9,-3,Jerome James
+2007-01-28,31-072,NYK,AWAY,MIL,L (-2),0,5:05,0,1,.000,0,0,,2,2,1.000,0,1,1,0,0,1,0,1,2,1.9,-1,Jerome James
+2007-02-03,31-078,NYK,AWAY,ORL,W (+8),1,15:25,2,4,.500,0,0,,0,0,,0,3,3,0,1,2,3,4,4,0.7,+2,Jerome James
+2007-02-06,31-081,NYK,HOME,LAC,W (+12),1,7:09,0,1,.000,0,0,,0,0,,1,1,2,0,1,0,0,2,0,0.5,-7,Jerome James
+2007-02-10,31-085,NYK,AWAY,UTA,L (-2),1,4:00,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-1.5,-2,Jerome James
+2007-02-13,31-088,NYK,AWAY,LAL,W (+1),1,3:14,0,1,.000,0,0,,0,0,,1,1,2,0,0,0,0,0,0,0.3,-3,Jerome James
+2007-02-14,31-089,NYK,AWAY,GSW,L (-19),1,1:46,0,2,.000,0,0,,0,0,,1,0,1,0,0,0,0,0,0,-0.7,-6,Jerome James
+2007-02-20,31-095,NYK,HOME,ORL,W (+6),1,5:18,0,1,.000,0,0,,0,0,,0,0,0,0,1,0,2,2,0,-2.5,-1,Jerome James
+2007-02-21,31-096,NYK,AWAY,PHI,L (-20),1,12:52,3,6,.500,0,0,,2,2,1.000,1,2,3,1,0,2,2,2,8,5.6,+2,Jerome James
+2007-02-23,31-098,NYK,HOME,MIL,W (+2),1,4:46,0,0,,0,0,,1,2,.500,0,0,0,0,0,0,1,2,1,-1.2,-5,Jerome James
+2007-02-25,31-100,NYK,AWAY,NJN,L (-9),1,7:28,2,3,.667,0,0,,0,0,,1,1,2,0,0,0,0,1,4,3.3,-4,Jerome James
+2007-02-26,31-101,NYK,HOME,MIA,W (+6),1,3:56,0,1,.000,0,0,,0,0,,1,0,1,0,0,0,0,2,0,-0.8,-3,Jerome James
+2007-03-03,31-106,NYK,AWAY,ATL,W (+4),0,2:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,-5,Jerome James
+2007-03-18,31-121,NYK,HOME,TOR,W (+18),0,4:07,0,1,.000,0,0,,0,2,.000,0,0,0,0,0,0,0,2,0,-2.3,-3,Jerome James
+2007-03-22,31-125,NYK,HOME,POR,L (-6),0,14:24,0,3,.000,0,0,,0,0,,0,1,1,1,0,1,0,2,0,-1.2,-1,Jerome James
+2007-03-23,31-126,NYK,AWAY,CLE,L (-22),0,2:14,0,0,,0,0,,0,0,,1,0,1,0,0,0,1,1,0,-0.7,-1,Jerome James
+2007-03-26,31-129,NYK,HOME,ORL,L (-5),0,6:53,3,5,.600,0,0,,0,0,,1,1,2,0,0,1,0,3,6,4.2,+2,Jerome James
+2007-03-28,31-131,NYK,HOME,CLE,W (+4),0,8:27,1,2,.500,0,0,,0,0,,1,2,3,0,0,1,0,3,2,1.8,-9,Jerome James
+2007-03-30,31-133,NYK,AWAY,DAL,L (-2),0,8:50,0,1,.000,0,0,,0,0,,1,6,7,0,0,1,0,2,0,1.7,+3,Jerome James
+2007-04-06,31-140,NYK,HOME,MIN,L (-5),0,0:10,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1,Jerome James
+2007-04-07,31-141,NYK,AWAY,MIL,W (+5),0,2:37,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1,Jerome James
+2007-04-09,31-143,NYK,HOME,DET,L (-8),0,4:03,0,0,,0,0,,0,0,,0,2,2,0,0,1,1,0,0,0.3,+1,Jerome James
+2007-04-13,31-147,NYK,AWAY,NJN,L (-14),0,2:23,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Jerome James
+2007-04-15,31-149,NYK,AWAY,TOR,L (-2),0,4:42,1,2,.500,0,0,,0,0,,1,1,2,0,0,0,0,0,2,2.0,-8,Jerome James
+2007-04-16,31-150,NYK,HOME,NJN,L (-9),0,18:57,0,2,.000,0,0,,0,0,,0,5,5,1,0,2,1,5,0,-0.8,-7,Jerome James
+2007-04-18,31-152,NYK,AWAY,CHA,W (+1),0,5:15,0,0,,0,0,,1,2,.500,0,1,1,0,1,0,1,2,1,0.1,+4,Jerome James
+2008-01-18,32-062,NYK,AWAY,WAS,L (-13),0,2:46,1,1,1.000,0,0,,2,2,1.000,0,1,1,0,0,0,0,0,4,4.0,+2,Jerome James
+2008-01-21,32-065,NYK,HOME,BOS,L (-16),0,1:48,0,0,,0,0,,0,0,,0,2,2,0,0,0,0,0,0,0.6,+4,Jerome James
+2004-11-03,28-352,SEA,AWAY,LAC,L (-30),1,24:07,3,7,.429,0,0,,0,0,,2,2,4,0,0,1,0,6,6,2.6,-8,Jerome James
+2004-11-05,28-354,SEA,HOME,ATL,W (+21),1,17:33,1,3,.333,0,0,,1,2,.500,3,1,4,1,0,4,1,2,3,5.0,-2,Jerome James
+2004-11-07,28-356,SEA,HOME,SAS,W (+19),1,24:20,0,2,.000,0,0,,4,6,.667,0,3,3,0,0,4,2,6,4,1.1,+15,Jerome James
+2004-11-09,28-358,SEA,AWAY,DEN,W (+20),1,12:52,1,1,1.000,0,0,,0,0,,0,0,0,0,0,1,1,3,2,0.2,+9,Jerome James
+2004-11-10,28-359,SEA,HOME,SAC,W (+30),1,12:07,1,4,.250,0,0,,2,2,1.000,0,0,0,0,0,0,2,5,4,-2.4,+8,Jerome James
+2004-11-12,28-361,SEA,HOME,TOR,W (+1),1,11:46,1,1,1.000,0,0,,0,0,,1,2,3,0,0,0,3,4,2,-1.6,-1,Jerome James
+2004-11-14,28-363,SEA,HOME,MEM,W (+5),1,15:59,3,6,.500,0,0,,1,3,.333,0,0,0,0,0,2,1,4,7,2.0,+3,Jerome James
+2004-11-16,28-365,SEA,AWAY,PHI,W (+8),1,10:46,0,1,.000,0,0,,0,0,,2,0,2,0,0,0,0,2,0,-0.1,-3,Jerome James
+2004-11-17,29-000,SEA,AWAY,NJN,W (+11),1,21:34,1,3,.333,0,0,,0,0,,3,2,5,0,0,0,1,4,2,0.4,-15,Jerome James
+2004-11-19,29-002,SEA,AWAY,TOR,W (+7),1,14:08,0,1,.000,0,0,,0,0,,2,3,5,1,1,0,1,4,0,0.7,0,Jerome James
+2004-11-21,29-004,SEA,AWAY,BOS,L (-19),1,8:40,1,2,.500,0,0,,0,0,,0,1,1,0,0,0,0,1,2,0.9,-1,Jerome James
+2004-11-23,29-006,SEA,AWAY,MIN,W (+11),1,12:48,0,2,.000,0,0,,2,2,1.000,2,1,3,0,0,2,0,3,2,2.5,+6,Jerome James
+2004-11-24,29-007,SEA,AWAY,MEM,W (+9),1,19:18,3,4,.750,0,0,,0,0,,2,2,4,2,0,1,1,6,6,5.1,+1,Jerome James
+2004-11-26,29-009,SEA,HOME,NJN,W (+13),1,11:39,3,3,1.000,0,0,,0,0,,2,1,3,1,0,0,0,3,6,6.3,+1,Jerome James
+2004-11-28,29-011,SEA,HOME,IND,W (+8),1,12:48,1,2,.500,0,0,,0,0,,0,0,0,0,1,0,1,3,2,-0.2,-12,Jerome James
+2004-11-30,29-013,SEA,AWAY,POR,L (-6),1,23:56,3,6,.500,0,0,,2,2,1.000,0,3,3,1,0,4,0,5,8,7.4,+19,Jerome James
+2004-12-01,29-014,SEA,HOME,UTA,W (+10),1,12:00,0,0,,0,0,,0,0,,0,0,0,1,0,0,1,3,0,-1.5,+7,Jerome James
+2004-12-04,29-017,SEA,HOME,POR,W (+10),1,14:59,2,3,.667,0,0,,0,0,,1,2,3,0,0,0,1,3,4,1.8,-3,Jerome James
+2004-12-08,29-021,SEA,AWAY,SAS,W (+6),1,19:44,0,2,.000,0,0,,0,0,,0,3,3,0,1,3,1,5,0,-0.4,+1,Jerome James
+2004-12-09,29-022,SEA,AWAY,DAL,W (+5),1,16:25,2,2,1.000,0,0,,3,3,1.000,2,3,5,0,1,1,0,4,7,8.8,+10,Jerome James
+2004-12-11,29-024,SEA,HOME,BOS,L (-14),1,13:46,2,4,.500,0,0,,0,0,,0,3,3,0,0,1,1,2,4,1.8,-10,Jerome James
+2004-12-14,29-027,SEA,HOME,LAL,W (+15),1,20:25,6,8,.750,0,0,,0,0,,1,1,2,0,0,2,0,5,12,9.2,+9,Jerome James
+2004-12-17,29-030,SEA,HOME,PHO,L (-2),1,12:02,3,3,1.000,0,0,,0,0,,0,2,2,0,0,1,0,3,6,5.2,+2,Jerome James
+2004-12-22,29-035,SEA,HOME,DEN,W (+15),1,17:14,2,3,.667,0,0,,0,0,,0,0,0,0,2,0,1,4,4,2.1,+8,Jerome James
+2004-12-27,29-040,SEA,AWAY,UTA,W (+10),1,17:29,1,2,.500,0,0,,1,2,.500,1,1,2,0,0,1,2,2,3,0.5,+9,Jerome James
+2004-12-28,29-041,SEA,HOME,PHI,L (-7),1,15:28,1,1,1.000,0,0,,2,2,1.000,0,1,1,0,0,2,1,4,4,2.8,+2,Jerome James
+2004-12-30,29-043,SEA,AWAY,ATL,W (+15),1,12:36,3,5,.600,0,0,,0,0,,0,2,2,0,0,2,5,4,6,-0.9,+1,Jerome James
+2004-12-31,29-044,SEA,AWAY,CHA,W (+6),1,8:18,0,1,.000,0,0,,0,0,,0,0,0,0,0,1,2,3,0,-3.2,-5,Jerome James
+2005-01-03,29-047,SEA,AWAY,MIA,W (+2),1,7:46,0,4,.000,0,0,,0,0,,0,0,0,0,1,1,0,5,0,-3.1,-5,Jerome James
+2005-01-05,29-049,SEA,AWAY,ORL,L (-18),1,20:25,0,4,.000,0,0,,6,6,1.000,1,1,2,0,0,2,0,2,6,4.8,-19,Jerome James
+2005-01-06,29-050,SEA,AWAY,WAS,L (-11),1,9:49,1,2,.500,0,0,,2,2,1.000,1,2,3,0,0,3,2,5,4,2.4,0,Jerome James
+2005-01-09,29-053,SEA,HOME,MIA,W (+10),1,8:04,0,0,,0,0,,0,0,,0,2,2,0,0,0,3,4,0,-4.0,-4,Jerome James
+2005-01-11,29-055,SEA,HOME,LAC,W (+5),1,19:15,2,3,.667,0,0,,0,0,,1,3,4,0,0,5,1,5,4,4.8,+3,Jerome James
+2005-01-12,29-056,SEA,AWAY,LAC,L (-11),1,12:29,1,2,.500,0,0,,0,0,,1,4,5,0,0,0,1,5,2,-0.1,-2,Jerome James
+2005-01-14,29-058,SEA,HOME,GSW,W (+19),1,6:19,1,3,.333,0,0,,0,0,,0,1,1,0,0,1,1,0,2,0.3,-4,Jerome James
+2005-01-16,29-060,SEA,HOME,CLE,W (+8),1,16:37,4,4,1.000,0,0,,0,0,,2,0,2,1,0,2,0,3,8,9.1,+9,Jerome James
+2005-01-18,29-062,SEA,HOME,DEN,L (-6),1,12:13,1,1,1.000,0,0,,2,2,1.000,1,3,4,0,0,1,0,0,4,6.0,-13,Jerome James
+2005-01-21,29-065,SEA,HOME,MIN,L (-5),1,19:29,5,7,.714,0,0,,1,3,.333,1,5,6,0,0,1,0,6,11,7.8,+7,Jerome James
+2005-01-23,29-067,SEA,HOME,UTA,W (+17),1,8:30,0,0,,0,0,,0,0,,1,0,1,1,0,0,1,3,0,-0.8,+1,Jerome James
+2005-01-25,29-069,SEA,AWAY,LAL,W (+11),1,6:00,0,2,.000,0,0,,0,0,,1,1,2,0,0,0,1,3,0,-2.6,-10,Jerome James
+2005-01-26,29-070,SEA,AWAY,UTA,L (-9),1,14:43,0,0,,0,0,,0,0,,1,1,2,0,0,2,1,2,0,0.6,-2,Jerome James
+2005-01-28,29-072,SEA,AWAY,GSW,W (+3),1,15:51,2,3,.667,0,0,,2,2,1.000,2,1,3,0,0,2,1,1,6,6.4,+16,Jerome James
+2005-01-31,29-075,SEA,HOME,SAS,L (-19),1,30:02,5,10,.500,0,0,,2,2,1.000,3,3,6,0,0,4,2,2,12,10.0,-21,Jerome James
+2005-02-01,29-076,SEA,AWAY,SAC,W (+5),1,11:58,0,2,.000,0,0,,0,0,,0,1,1,0,0,1,0,3,0,-1.6,-7,Jerome James
+2005-02-05,29-080,SEA,HOME,CHA,W (+14),1,10:13,0,3,.000,0,0,,0,0,,0,1,1,0,1,1,1,4,0,-2.7,+2,Jerome James
+2005-02-08,29-083,SEA,HOME,NOH,W (+17),1,15:38,4,5,.800,0,0,,0,0,,3,1,4,0,0,1,0,4,8,7.6,+9,Jerome James
+2005-02-10,29-085,SEA,HOME,SAC,W (+8),1,15:30,2,4,.500,0,0,,0,0,,0,3,3,0,0,0,0,0,4,2.9,-5,Jerome James
+2005-02-11,29-086,SEA,AWAY,PHO,W (+8),1,20:44,6,7,.857,0,1,.000,0,0,,1,6,7,0,0,2,1,4,12,10.8,-4,Jerome James
+2005-02-13,29-088,SEA,HOME,DAL,L (-3),1,20:35,4,10,.400,0,0,,0,0,,4,2,6,0,0,2,0,1,8,7.0,-2,Jerome James
+2005-02-16,29-091,SEA,HOME,GSW,L (-7),1,14:34,5,7,.714,0,0,,0,0,,1,2,3,0,0,1,1,2,10,7.3,-15,Jerome James
+2005-02-22,29-097,SEA,AWAY,HOU,W (+2),1,17:51,0,5,.000,0,0,,0,0,,0,5,5,0,1,1,1,3,0,-2.5,+3,Jerome James
+2005-02-23,29-098,SEA,AWAY,NOH,W (+18),1,13:27,0,2,.000,0,0,,0,0,,2,1,3,1,0,0,2,1,0,-1.4,+9,Jerome James
+2005-02-25,29-100,SEA,HOME,MIN,W (+10),1,12:05,4,7,.571,0,0,,0,0,,1,3,4,0,0,0,0,4,8,4.7,-6,Jerome James
+2005-02-27,29-102,SEA,AWAY,MIL,L (-26),1,10:15,0,2,.000,0,0,,0,0,,1,1,2,0,0,0,1,3,0,-2.6,-10,Jerome James
+2005-03-01,29-104,SEA,AWAY,IND,W (+8),1,23:19,5,8,.625,0,0,,3,3,1.000,2,5,7,0,0,2,0,6,13,11.3,+13,Jerome James
+2005-03-02,29-105,SEA,AWAY,CLE,W (+17),1,17:17,2,4,.500,0,0,,0,2,.000,0,2,2,0,1,0,0,4,4,1.2,-6,Jerome James
+2005-03-04,29-107,SEA,HOME,DET,W (+8),1,25:07,8,10,.800,0,0,,0,0,,0,7,7,0,1,3,1,5,16,14.4,+9,Jerome James
+2005-03-06,29-109,SEA,HOME,PHO,L (-11),1,26:52,6,9,.667,0,0,,0,0,,0,3,3,1,0,2,0,5,12,9.1,+4,Jerome James
+2005-03-08,29-111,SEA,HOME,HOU,L (-2),1,26:41,1,5,.200,0,0,,1,2,.500,0,4,4,0,1,2,0,5,3,1.1,+6,Jerome James
+2005-03-11,29-114,SEA,HOME,CHI,L (-3),1,24:07,1,4,.250,0,0,,0,0,,2,4,6,2,0,4,3,3,2,2.2,+5,Jerome James
+2005-03-13,29-116,SEA,AWAY,NYK,W (+10),1,14:14,1,1,1.000,0,0,,2,2,1.000,1,2,3,0,0,3,3,2,4,3.3,+4,Jerome James
+2005-03-15,29-118,SEA,AWAY,CHI,W (+6),1,22:02,3,5,.600,0,0,,1,1,1.000,0,1,1,2,0,3,3,5,7,3.5,+1,Jerome James
+2005-03-16,29-119,SEA,AWAY,DET,L (-7),1,28:58,6,11,.545,0,0,,0,0,,1,3,4,0,0,2,0,1,12,9.3,-17,Jerome James
+2005-03-20,29-123,SEA,AWAY,LAL,W (+2),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jerome James
+2005-03-22,29-125,SEA,HOME,MIL,W (+8),1,17:57,2,6,.333,0,0,,0,0,,0,3,3,0,1,2,1,5,4,0.9,-11,Jerome James
+2005-03-24,29-127,SEA,AWAY,POR,W (+5),1,24:54,7,13,.538,0,0,,0,1,.000,4,3,7,1,0,3,2,4,14,10.2,+14,Jerome James
+2005-03-25,29-128,SEA,HOME,NYK,W (+8),1,14:16,1,3,.333,0,0,,0,0,,1,2,3,0,1,0,1,4,2,0.0,+2,Jerome James
+2005-03-27,29-130,SEA,HOME,WAS,L (-1),1,16:49,1,3,.333,0,0,,0,0,,1,2,3,0,0,1,3,4,2,-2.3,-5,Jerome James
+2005-03-29,29-132,SEA,AWAY,MEM,W (+3),1,31:52,9,11,.818,0,0,,4,7,.571,2,4,6,1,2,2,2,4,22,19.8,+5,Jerome James
+2005-03-30,29-133,SEA,AWAY,SAS,L (-13),1,20:32,1,6,.167,0,0,,0,0,,0,1,1,0,1,1,1,4,2,-2.4,-22,Jerome James
+2005-04-01,29-135,SEA,HOME,POR,W (+2),1,21:13,4,6,.667,0,0,,0,0,,2,1,3,0,1,0,3,4,8,3.5,+1,Jerome James
+2005-04-03,29-137,SEA,AWAY,GSW,L (-9),1,18:04,3,5,.600,0,0,,0,0,,3,2,5,2,0,0,0,4,6,6.2,-1,Jerome James
+2005-04-05,29-139,SEA,AWAY,SAC,L (-21),1,22:42,6,9,.667,0,0,,1,2,.500,2,0,2,0,0,1,1,1,13,9.4,-11,Jerome James
+2005-04-08,29-142,SEA,HOME,LAL,L (-23),1,9:44,1,3,.333,0,0,,2,2,1.000,0,0,0,0,0,1,2,1,4,0.6,-12,Jerome James
+2005-04-09,29-143,SEA,AWAY,DEN,L (-16),1,13:17,2,5,.400,0,0,,0,0,,1,2,3,0,1,2,3,5,4,0.0,-13,Jerome James
+2005-04-11,29-145,SEA,HOME,HOU,L (-12),1,11:51,1,7,.143,0,0,,0,0,,1,1,2,0,1,1,1,5,2,-2.8,-4,Jerome James
+2005-04-13,29-147,SEA,HOME,DAL,L (-5),1,20:13,5,9,.556,0,0,,0,0,,2,4,6,0,0,1,2,5,10,5.0,+3,Jerome James
+2005-04-15,29-149,SEA,HOME,NOH,W (+25),1,16:39,2,6,.333,0,0,,0,0,,3,3,6,0,1,2,1,2,4,4.2,+5,Jerome James
+2005-04-17,29-151,SEA,AWAY,MIN,W (+15),1,21:15,3,7,.429,0,1,.000,0,0,,0,3,3,0,0,3,1,4,6,2.7,+19,Jerome James
+2005-04-19,29-153,SEA,AWAY,DAL,L (-5),1,17:40,1,3,.333,0,0,,0,2,.000,0,4,4,0,1,3,3,4,2,-0.8,-6,Jerome James
+2005-04-20,29-154,SEA,AWAY,HOU,L (-28),1,12:08,1,2,.500,0,0,,0,0,,0,2,2,0,1,1,1,5,2,0.3,-14,Jerome James

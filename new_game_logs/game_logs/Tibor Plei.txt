@@ -1,0 +1,14 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2015-10-30,25-362,UTA,AWAY,PHI,W (+28),0,2:11,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,2,2,1.2,-2,Tibor Plei
+2015-11-05,26-003,UTA,AWAY,DEN,W (+12),0,1:12,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Tibor Plei
+2015-11-12,26-010,UTA,AWAY,MIA,L (-1),0,0:16,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,Tibor Plei
+2015-11-13,26-011,UTA,AWAY,ORL,L (-9),0,9:30,1,3,.333,0,0,,0,0,,0,0,0,0,0,1,1,2,2,-0.8,-6,Tibor Plei
+2015-12-31,26-059,UTA,HOME,POR,W (+13),0,2:03,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-2.1,-5,Tibor Plei
+2016-01-02,26-061,UTA,HOME,MEM,W (+5),0,17:08,3,4,.750,0,0,,0,0,,1,5,6,1,0,0,2,5,6,3.3,+11,Tibor Plei
+2016-01-04,26-063,UTA,HOME,HOU,L (-2),0,12:36,1,4,.250,0,1,.000,0,0,,3,2,5,0,0,0,1,2,2,0.5,-1,Tibor Plei
+2016-01-06,26-065,UTA,AWAY,SAS,L (-25),0,24:05,3,7,.429,0,0,,2,2,1.000,2,0,2,1,1,0,0,4,8,5.8,-6,Tibor Plei
+2016-01-14,26-073,UTA,HOME,SAC,L (-2),0,0:28,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Tibor Plei
+2016-01-16,26-075,UTA,HOME,LAL,W (+27),0,5:52,1,3,.333,0,0,,0,0,,0,1,1,0,0,1,3,1,2,-2.1,-3,Tibor Plei
+2016-01-22,26-081,UTA,AWAY,BRK,W (+22),0,2:59,1,2,.500,0,1,.000,0,0,,0,0,0,0,0,0,0,2,2,0.2,-2,Tibor Plei
+2016-01-27,26-086,UTA,HOME,CHO,W (+29),0,3:12,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1,Tibor Plei
+2016-02-19,26-109,UTA,HOME,BOS,W (+18),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Tibor Plei

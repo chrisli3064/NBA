@@ -1,0 +1,7 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2004-04-18,23-295,DEN,AWAY,MIN,L (-14),0,6:17,0,5,.000,0,1,.000,0,0,,1,0,1,0,1,0,0,0,0,-1.8,-10,Rodney White
+2004-04-21,23-298,DEN,AWAY,MIN,L (-14),0,2:56,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.0,+5,Rodney White
+2004-04-24,23-301,DEN,HOME,MIN,W (+21),0,7:09,3,4,.750,0,0,,0,0,,0,3,3,0,1,0,1,1,6,4.9,+5,Rodney White
+2004-04-27,23-304,DEN,HOME,MIN,L (-2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Rodney White
+2004-04-30,23-307,DEN,AWAY,MIN,L (-11),0,8:14,0,4,.000,0,2,.000,0,0,,0,1,1,0,0,0,1,2,0,-4.3,-12,Rodney White
+2002-04-21,21-297,DET,HOME,TOR,W (+22),0,2:36,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.7,-3,Rodney White

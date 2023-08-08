@@ -1,0 +1,325 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2001-10-30,23-008,ATL,AWAY,HOU,L (-5),1,19:15,2,4,.500,0,1,.000,1,2,.500,0,0,0,0,3,1,1,0,5,5.3,-5,Dion Glover
+2001-11-01,23-010,ATL,HOME,WAS,L (-10),1,20:33,4,9,.444,0,1,.000,0,0,,0,2,2,0,0,0,2,2,8,1.1,-14,Dion Glover
+2001-11-03,23-012,ATL,HOME,MIA,W (+7),0,17:43,5,7,.714,0,0,,3,4,.750,2,1,3,1,1,0,1,2,13,11.3,0,Dion Glover
+2001-11-05,23-014,ATL,AWAY,LAC,L (-23),0,28:20,5,12,.417,0,0,,1,2,.500,2,4,6,2,0,0,1,3,11,6.0,-12,Dion Glover
+2001-11-07,23-016,ATL,AWAY,UTA,L (-7),0,17:47,2,4,.500,0,1,.000,2,3,.667,1,1,2,2,1,1,2,0,6,5.7,-4,Dion Glover
+2001-11-08,23-017,ATL,AWAY,PHO,L (-28),0,34:55,9,17,.529,0,1,.000,4,5,.800,3,3,6,1,2,0,4,1,22,14.6,-18,Dion Glover
+2001-11-10,23-019,ATL,AWAY,SAS,L (-22),0,24:25,5,9,.556,0,0,,2,2,1.000,0,0,0,1,1,0,1,1,12,8.0,-21,Dion Glover
+2001-11-14,23-023,ATL,HOME,UTA,W (+32),1,30:28,8,13,.615,1,2,.500,2,2,1.000,2,3,5,5,1,0,2,0,19,17.9,+26,Dion Glover
+2001-11-16,23-025,ATL,AWAY,PHI,L (-20),1,33:18,4,9,.444,0,0,,2,2,1.000,1,1,2,3,0,0,1,1,10,7.0,-23,Dion Glover
+2001-11-17,23-026,ATL,HOME,BOS,W (+9),1,31:16,10,16,.625,4,5,.800,0,0,,0,6,6,7,3,1,2,1,24,24.8,+5,Dion Glover
+2001-11-20,23-029,ATL,AWAY,IND,L (-4),1,31:40,3,11,.273,1,3,.333,0,0,,0,1,1,1,0,0,1,2,7,-0.3,+2,Dion Glover
+2001-11-21,23-030,ATL,AWAY,BOS,W (+7),1,21:44,3,9,.333,2,3,.667,3,4,.750,0,3,3,1,1,0,1,3,11,5.9,-2,Dion Glover
+2001-11-23,23-032,ATL,HOME,DET,W (+7),1,28:17,6,14,.429,2,4,.500,0,0,,1,3,4,1,2,0,1,0,14,9.9,-15,Dion Glover
+2001-11-24,23-033,ATL,AWAY,MIL,L (-7),1,27:51,4,12,.333,0,2,.000,1,2,.500,1,3,4,2,2,0,2,0,9,4.8,-8,Dion Glover
+2001-11-26,23-035,ATL,AWAY,NYK,L (-5),1,21:13,5,8,.625,2,3,.667,1,1,1.000,1,4,5,1,2,0,1,4,13,11.4,-13,Dion Glover
+2001-11-28,23-037,ATL,HOME,NYK,L (-5),1,32:37,10,16,.625,1,3,.333,1,1,1.000,1,2,3,2,0,0,2,3,22,14.3,+4,Dion Glover
+2001-11-29,23-038,ATL,AWAY,CLE,W (+9),1,14:52,1,6,.167,0,2,.000,1,2,.500,1,4,5,1,0,0,5,2,3,-4.4,-7,Dion Glover
+2001-12-01,23-040,ATL,HOME,TOR,L (-1),1,37:52,10,16,.625,2,3,.667,3,3,1.000,0,2,2,3,1,0,4,3,25,16.3,+7,Dion Glover
+2001-12-05,23-044,ATL,HOME,SAS,L (-8),1,20:31,2,8,.250,1,2,.500,0,0,,0,1,1,0,0,0,0,1,5,0.1,-12,Dion Glover
+2001-12-07,23-046,ATL,AWAY,ORL,L (-35),0,19:20,2,9,.222,0,2,.000,6,7,.857,1,1,2,0,0,0,2,2,10,2.3,-20,Dion Glover
+2001-12-08,23-047,ATL,HOME,ORL,W (+3),0,17:38,2,6,.333,0,1,.000,0,0,,0,3,3,2,0,0,2,2,4,0.1,+2,Dion Glover
+2001-12-11,23-050,ATL,HOME,PHI,W (+2),0,7:50,0,3,.000,0,1,.000,0,0,,0,2,2,0,0,0,0,2,0,-2.3,+1,Dion Glover
+2001-12-15,23-054,ATL,AWAY,CHI,W (+1),0,17:22,0,5,.000,0,0,,0,0,,0,3,3,2,0,0,1,1,0,-2.6,+5,Dion Glover
+2001-12-18,23-057,ATL,HOME,IND,L (-3),0,22:57,5,11,.455,0,2,.000,1,2,.500,1,2,3,0,2,0,1,6,11,4.8,-6,Dion Glover
+2001-12-22,23-061,ATL,HOME,CHH,W (+13),0,22:40,8,13,.615,3,4,.750,0,2,.000,1,4,5,2,1,0,1,1,19,15.2,+19,Dion Glover
+2001-12-26,23-065,ATL,AWAY,MIL,L (-10),0,23:31,3,10,.300,0,2,.000,4,4,1.000,2,3,5,2,1,0,0,2,10,8.1,-4,Dion Glover
+2001-12-27,23-066,ATL,HOME,MIA,W (+4),0,39:52,6,13,.462,1,3,.333,3,4,.750,0,4,4,4,0,1,1,3,16,11.4,+15,Dion Glover
+2001-12-29,23-068,ATL,AWAY,DAL,L (-16),1,44:09,6,20,.300,0,3,.000,4,6,.667,2,3,5,5,1,0,1,1,16,9.0,-6,Dion Glover
+2002-01-04,23-074,ATL,AWAY,MEM,W (+4),1,27:51,4,9,.444,0,0,,0,0,,0,3,3,4,1,1,2,3,8,5.5,+3,Dion Glover
+2002-01-05,23-075,ATL,HOME,MIN,L (-16),1,19:40,4,7,.571,2,4,.500,0,0,,0,3,3,0,0,0,2,2,10,4.8,-14,Dion Glover
+2002-01-08,23-078,ATL,HOME,POR,W (+9),1,22:43,5,9,.556,1,2,.500,0,0,,0,4,4,3,1,0,2,2,11,8.2,+12,Dion Glover
+2002-01-09,23-079,ATL,AWAY,CHH,L (-24),1,19:33,2,8,.250,0,1,.000,0,0,,1,5,6,0,1,0,1,1,4,1.0,-6,Dion Glover
+2002-01-11,23-081,ATL,AWAY,TOR,L (-3),1,12:33,1,4,.250,0,2,.000,1,1,1.000,0,0,0,0,0,0,1,2,3,-1.2,-9,Dion Glover
+2002-01-12,23-082,ATL,HOME,BOS,L (-24),1,39:14,8,19,.421,0,3,.000,3,4,.750,1,10,11,2,2,2,1,3,19,14.8,-24,Dion Glover
+2002-01-15,23-085,ATL,HOME,DAL,L (-9),1,19:06,2,10,.200,0,1,.000,0,0,,3,0,3,0,0,0,0,2,4,-0.9,-22,Dion Glover
+2002-01-17,23-087,ATL,HOME,CHI,L (-3),0,20:24,3,8,.375,0,3,.000,4,4,1.000,0,2,2,2,1,0,3,1,10,5.2,0,Dion Glover
+2002-01-19,23-089,ATL,HOME,MIL,L (-9),0,14:12,2,5,.400,1,4,.250,2,2,1.000,1,2,3,1,0,0,0,1,7,5.9,-8,Dion Glover
+2002-01-21,23-091,ATL,HOME,HOU,W (+4),0,26:33,4,10,.400,1,4,.250,6,6,1.000,1,3,4,1,1,0,2,2,15,10.1,-1,Dion Glover
+2002-01-22,23-092,ATL,AWAY,ORL,L (-14),0,23:22,4,8,.500,0,1,.000,5,6,.833,0,4,4,4,1,1,2,0,13,12.3,+3,Dion Glover
+2002-01-25,23-095,ATL,HOME,DET,L (-17),0,21:03,5,11,.455,0,3,.000,3,5,.600,0,1,1,2,4,2,2,3,13,10.4,-4,Dion Glover
+2002-01-26,23-096,ATL,AWAY,MIN,L (-23),0,18:14,0,3,.000,0,0,,3,4,.750,0,4,4,0,1,0,6,2,3,-4.1,-5,Dion Glover
+2002-01-29,23-099,ATL,HOME,LAL,L (-34),0,24:54,3,14,.214,1,2,.500,1,2,.500,1,2,3,2,1,0,1,1,8,1.3,-17,Dion Glover
+2002-01-30,23-100,ATL,AWAY,DET,L (-17),1,31:03,5,8,.625,0,0,,2,2,1.000,2,3,5,4,4,1,4,3,12,13.0,0,Dion Glover
+2002-02-01,23-102,ATL,AWAY,WAS,L (-7),1,10:42,1,3,.333,0,0,,0,0,,0,1,1,2,1,0,0,0,2,3.0,+8,Dion Glover
+2002-02-02,23-103,ATL,HOME,LAC,W (+7),1,8:59,1,3,.333,0,0,,0,0,,0,1,1,0,0,0,0,1,2,0.2,-12,Dion Glover
+2002-02-05,23-106,ATL,AWAY,MIA,W (+3),0,10:10,0,3,.000,0,1,.000,0,2,.000,0,2,2,1,0,1,0,0,0,-0.9,-4,Dion Glover
+2002-02-07,23-108,ATL,AWAY,NYK,L (-3),0,3:22,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-13,Dion Glover
+2002-02-12,23-113,ATL,HOME,NJN,W (+2),0,2:53,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-2.1,+1,Dion Glover
+2002-02-15,23-116,ATL,AWAY,LAL,W (+3),0,14:47,2,5,.400,0,0,,1,2,.500,1,2,3,1,0,1,0,3,5,3.4,-9,Dion Glover
+2002-02-17,23-118,ATL,AWAY,GSW,W (+6),0,4:06,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,+3,Dion Glover
+2002-02-19,23-120,ATL,AWAY,SAC,L (-20),0,5:37,1,1,1.000,0,0,,2,2,1.000,0,0,0,0,0,1,1,1,4,3.0,-7,Dion Glover
+2002-02-21,23-122,ATL,AWAY,POR,L (-15),0,22:28,3,10,.300,3,5,.600,0,0,,1,7,8,2,0,0,0,2,9,6.6,-3,Dion Glover
+2002-02-22,23-123,ATL,AWAY,SEA,L (-3),0,11:05,1,2,.500,0,0,,0,1,.000,1,2,3,1,0,0,1,2,2,0.8,-2,Dion Glover
+2002-02-24,23-125,ATL,AWAY,DEN,W (+5),0,8:03,1,2,.500,1,1,1.000,0,0,,0,3,3,0,0,0,1,1,3,1.5,-11,Dion Glover
+2002-02-27,23-128,ATL,HOME,SEA,L (-17),0,3:39,0,2,.000,0,0,,0,0,,0,0,0,0,1,0,0,1,0,-0.8,-9,Dion Glover
+2002-03-02,23-131,ATL,HOME,CLE,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Dion Glover
+2002-03-04,23-133,ATL,HOME,MEM,W (+19),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Dion Glover
+2002-03-09,23-138,ATL,HOME,PHI,L (-21),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Dion Glover
+2002-03-11,23-140,ATL,HOME,GSW,W (+25),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Dion Glover
+2002-03-13,23-142,ATL,HOME,DEN,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Dion Glover
+2002-03-15,23-144,ATL,HOME,PHO,W (+15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Dion Glover
+2002-03-17,23-146,ATL,AWAY,IND,L (-17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Dion Glover
+2002-03-19,23-148,ATL,AWAY,CHI,W (+6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Dion Glover
+2002-03-21,23-150,ATL,HOME,NYK,W (+29),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Dion Glover
+2002-03-23,23-152,ATL,HOME,CHI,W (+16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Dion Glover
+2002-03-26,23-155,ATL,HOME,NJN,W (+26),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Dion Glover
+2002-03-28,23-157,ATL,HOME,TOR,L (-2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Dion Glover
+2002-03-29,23-158,ATL,AWAY,MIA,L (-12),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Dion Glover
+2002-03-31,23-160,ATL,HOME,SAC,L (-1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Dion Glover
+2002-04-02,23-162,ATL,HOME,MIL,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Dion Glover
+2002-04-04,23-164,ATL,HOME,IND,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Dion Glover
+2002-04-06,23-166,ATL,HOME,CHH,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Dion Glover
+2002-04-08,23-168,ATL,AWAY,DET,L (-6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Dion Glover
+2002-04-10,23-170,ATL,AWAY,CHH,W (+6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Dion Glover
+2002-04-12,23-172,ATL,AWAY,TOR,L (-39),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Dion Glover
+2002-04-13,23-173,ATL,HOME,CLE,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Dion Glover
+2002-04-16,23-176,ATL,HOME,ORL,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Dion Glover
+2000-11-28,22-037,ATL,AWAY,WAS,W (+27),0,2:22,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-3,Dion Glover
+2000-12-02,22-041,ATL,HOME,MIL,W (+7),0,3:56,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,1,0,-1.1,-4,Dion Glover
+2000-12-05,22-044,ATL,HOME,MIA,L (-8),0,4:26,0,3,.000,0,1,.000,0,0,,1,0,1,0,0,0,0,0,0,-1.4,-6,Dion Glover
+2000-12-09,22-048,ATL,AWAY,CLE,L (-7),0,10:42,0,2,.000,0,1,.000,1,2,.500,0,1,1,3,1,0,1,0,1,1.6,+3,Dion Glover
+2000-12-12,22-051,ATL,HOME,SAC,W (+8),0,4:28,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.7,+8,Dion Glover
+2000-12-13,22-052,ATL,AWAY,DET,L (-23),0,11:02,0,2,.000,0,0,,3,4,.750,0,2,2,1,1,1,0,1,3,3.8,+3,Dion Glover
+2000-12-15,22-054,ATL,AWAY,CHI,W (+11),0,5:26,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,1,0,0.6,0,Dion Glover
+2000-12-16,22-055,ATL,HOME,NJN,L (-6),0,1:50,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Dion Glover
+2000-12-22,22-061,ATL,AWAY,TOR,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Dion Glover
+2000-12-29,22-068,ATL,HOME,CLE,L (-12),0,5:59,0,1,.000,0,0,,0,0,,0,0,0,0,1,0,1,2,0,-1.5,-3,Dion Glover
+2001-01-02,22-072,ATL,HOME,BOS,W (+11),0,11:52,1,3,.333,0,0,,0,0,,0,0,0,0,1,0,1,3,2,-0.9,+6,Dion Glover
+2001-01-03,22-073,ATL,AWAY,PHI,L (-18),0,24:38,5,11,.455,0,2,.000,0,0,,0,1,1,2,1,0,0,1,10,6.6,-4,Dion Glover
+2001-01-06,22-076,ATL,HOME,ORL,W (+1),0,17:11,1,5,.200,0,4,.000,4,6,.667,0,2,2,1,0,0,3,4,6,-1.2,-7,Dion Glover
+2001-01-09,22-079,ATL,HOME,SEA,L (-9),0,11:11,1,2,.500,0,0,,0,0,,0,1,1,0,1,0,2,1,2,-0.1,-8,Dion Glover
+2001-01-11,22-081,ATL,HOME,GSW,W (+11),0,12:29,1,6,.167,0,0,,3,3,1.000,1,1,2,0,0,0,0,0,5,2.2,+4,Dion Glover
+2001-01-13,22-083,ATL,HOME,LAC,W (+20),0,22:56,6,8,.750,1,1,1.000,0,0,,1,1,2,2,1,0,1,1,13,11.8,+16,Dion Glover
+2001-01-15,22-085,ATL,HOME,NJN,L (-6),0,17:37,2,5,.400,0,1,.000,2,4,.500,0,1,1,0,0,0,0,1,6,2.4,-6,Dion Glover
+2001-01-18,22-088,ATL,AWAY,IND,L (-8),0,11:56,0,5,.000,0,1,.000,0,0,,1,1,2,0,1,0,0,1,0,-1.9,-1,Dion Glover
+2001-01-21,22-091,ATL,AWAY,WAS,L (-4),0,8:00,0,4,.000,0,0,,0,0,,0,0,0,0,1,0,1,1,0,-3.2,+1,Dion Glover
+2001-01-23,22-093,ATL,AWAY,BOS,L (-1),0,30:16,5,11,.455,1,3,.333,4,4,1.000,0,2,2,2,3,0,2,3,15,11.1,-2,Dion Glover
+2001-01-26,22-096,ATL,HOME,WAS,L (-7),1,33:41,5,13,.385,1,5,.200,0,0,,0,3,3,3,3,0,3,4,11,5.3,-7,Dion Glover
+2001-01-27,22-097,ATL,AWAY,CLE,W (+11),0,8:54,0,1,.000,0,0,,0,0,,0,0,0,2,0,0,1,0,0,-0.3,+5,Dion Glover
+2001-01-29,22-099,ATL,HOME,PHO,L (-13),0,8:56,2,5,.400,0,1,.000,0,0,,1,0,1,0,1,0,0,0,4,3.0,+10,Dion Glover
+2001-01-31,22-101,ATL,HOME,TOR,W (+5),0,26:58,7,10,.700,0,0,,1,1,1.000,0,3,3,4,2,1,1,0,15,16.2,+10,Dion Glover
+2001-02-02,22-103,ATL,HOME,MIA,L (-11),0,24:35,5,8,.625,0,0,,0,0,,0,2,2,0,1,1,2,1,10,6.3,-5,Dion Glover
+2001-02-03,22-104,ATL,AWAY,ORL,L (-12),0,21:32,4,10,.400,0,0,,0,0,,0,3,3,1,0,0,1,2,8,2.4,-10,Dion Glover
+2001-02-05,22-106,ATL,HOME,DAL,L (-10),0,14:07,1,6,.167,0,0,,0,0,,0,2,2,0,0,0,0,0,2,-1.2,-13,Dion Glover
+2001-02-06,22-107,ATL,AWAY,NJN,L (-6),0,6:58,1,2,.500,0,0,,2,2,1.000,0,0,0,0,1,0,2,3,4,0.8,-4,Dion Glover
+2001-02-08,22-109,ATL,AWAY,CHH,L (-17),0,5:38,1,3,.333,0,0,,0,0,,0,1,1,1,0,0,1,0,2,0.3,-5,Dion Glover
+2001-02-13,22-114,ATL,AWAY,CHI,L (-4),0,14:47,2,5,.400,0,0,,1,6,.167,1,0,1,2,0,1,1,0,5,2.1,+10,Dion Glover
+2001-02-14,22-115,ATL,HOME,MIL,L (-4),0,25:16,3,7,.429,0,0,,0,0,,1,2,3,1,2,0,2,2,6,3.5,+2,Dion Glover
+2001-02-17,22-118,ATL,AWAY,SEA,W (+7),0,14:31,2,7,.286,0,0,,0,0,,2,1,3,2,1,0,0,2,4,3.2,0,Dion Glover
+2001-02-23,22-124,ATL,AWAY,LAL,L (-7),0,14:50,4,6,.667,1,2,.500,2,2,1.000,0,1,1,0,0,0,0,0,11,8.7,-5,Dion Glover
+2001-02-24,22-125,ATL,AWAY,DEN,L (-3),0,15:22,3,6,.500,0,0,,0,2,.000,1,2,3,0,0,0,2,1,6,1.1,-8,Dion Glover
+2001-02-26,22-127,ATL,AWAY,UTA,L (-17),0,13:16,1,2,.500,0,0,,0,0,,0,2,2,0,1,0,1,3,2,0.4,-1,Dion Glover
+2001-02-28,22-129,ATL,HOME,TOR,L (-7),0,9:27,0,1,.000,0,0,,0,0,,1,0,1,1,0,0,1,1,0,-0.7,-6,Dion Glover
+2001-03-02,22-131,ATL,HOME,CHH,L (-6),0,0:23,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1,Dion Glover
+2001-03-03,22-132,ATL,AWAY,SAS,L (-29),0,16:13,2,4,.500,1,1,1.000,0,0,,0,2,2,4,0,0,0,2,5,5.6,-2,Dion Glover
+2001-03-05,22-134,ATL,HOME,UTA,L (-7),0,4:39,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,-1,Dion Glover
+2001-03-07,22-136,ATL,HOME,HOU,L (-6),0,8:45,2,5,.400,0,2,.000,0,0,,1,0,1,1,1,1,1,2,4,2.6,-4,Dion Glover
+2001-03-09,22-138,ATL,AWAY,PHI,L (-5),0,25:00,4,7,.571,0,0,,2,4,.500,2,1,3,2,3,0,0,1,10,11.6,+9,Dion Glover
+2001-03-10,22-139,ATL,HOME,CHI,W (+3),0,30:13,6,13,.462,1,1,1.000,4,5,.800,4,4,8,0,4,0,0,3,17,16.7,+5,Dion Glover
+2001-03-13,22-142,ATL,HOME,VAN,W (+10),0,12:12,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,0,3,0,-1.2,0,Dion Glover
+2001-03-16,22-145,ATL,AWAY,IND,L (-6),0,6:28,2,6,.333,0,2,.000,0,0,,0,0,0,0,1,0,0,2,4,0.8,-5,Dion Glover
+2001-03-17,22-146,ATL,HOME,DET,L (-16),0,6:53,0,1,.000,0,0,,0,0,,1,0,1,0,0,0,0,4,0,-1.6,-6,Dion Glover
+2001-03-19,22-148,ATL,HOME,LAL,W (+2),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Dion Glover
+2001-03-22,22-151,ATL,HOME,SAS,L (-14),0,18:43,5,6,.833,0,1,.000,0,0,,0,2,2,3,0,1,1,2,10,9.4,-1,Dion Glover
+2001-03-23,22-152,ATL,AWAY,TOR,L (-26),0,29:02,6,15,.400,1,2,.500,2,2,1.000,2,5,7,4,1,0,2,5,15,9.6,+5,Dion Glover
+2001-03-25,22-154,ATL,AWAY,MIL,L (-7),0,11:25,0,1,.000,0,0,,0,0,,0,1,1,1,0,0,1,1,0,-1.1,-10,Dion Glover
+2001-03-27,22-156,ATL,HOME,BOS,L (-3),0,12:04,0,1,.000,0,1,.000,0,0,,1,2,3,3,0,1,1,2,0,1.6,-3,Dion Glover
+2001-03-31,22-160,ATL,HOME,DEN,W (+11),0,21:23,4,7,.571,0,0,,0,0,,3,6,9,3,0,0,2,3,8,7.5,+16,Dion Glover
+2001-04-05,22-165,ATL,AWAY,DAL,L (-14),0,17:10,2,7,.286,0,1,.000,0,0,,1,2,3,1,2,0,0,0,4,3.9,-5,Dion Glover
+2001-04-07,22-167,ATL,AWAY,HOU,L (-13),0,31:05,7,12,.583,1,2,.500,2,2,1.000,0,5,5,1,2,1,1,3,17,14.1,-6,Dion Glover
+2001-04-09,22-169,ATL,AWAY,DET,L (-12),1,34:07,5,16,.313,0,2,.000,3,6,.500,2,1,3,0,3,0,2,3,13,4.1,-14,Dion Glover
+2001-04-11,22-171,ATL,HOME,CLE,W (+5),1,29:43,4,14,.286,0,3,.000,2,2,1.000,3,6,9,2,2,1,1,3,10,7.6,+4,Dion Glover
+2001-04-13,22-173,ATL,AWAY,NYK,L (-36),1,39:01,6,11,.545,0,1,.000,0,0,,1,2,3,3,1,0,4,2,12,6.3,-27,Dion Glover
+2001-04-14,22-174,ATL,HOME,DET,L (-5),1,28:10,6,12,.500,0,2,.000,0,1,.000,2,6,8,5,0,1,2,6,12,8.6,+5,Dion Glover
+2001-04-16,22-176,ATL,AWAY,CHH,L (-23),1,30:21,7,14,.500,0,1,.000,2,4,.500,2,5,7,5,2,0,2,2,16,13.8,-11,Dion Glover
+2001-04-17,22-177,ATL,HOME,WAS,W (+3),1,40:50,10,20,.500,1,2,.500,7,7,1.000,3,5,8,2,2,0,2,3,28,21.8,+14,Dion Glover
+2002-10-31,24-009,ATL,HOME,UTA,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Dion Glover
+2002-11-02,24-011,ATL,HOME,CHI,W (+6),0,8:09,1,3,.333,0,0,,2,2,1.000,0,0,0,1,0,0,1,0,4,2.0,+4,Dion Glover
+2002-11-05,24-014,ATL,AWAY,DEN,W (+16),0,19:01,6,10,.600,0,0,,2,2,1.000,2,2,4,4,3,0,1,1,14,15.8,+19,Dion Glover
+2002-11-06,24-015,ATL,AWAY,PHO,L (-5),0,15:28,0,3,.000,0,1,.000,2,4,.500,0,0,0,0,2,0,0,1,2,0.7,-17,Dion Glover
+2002-11-08,24-017,ATL,AWAY,UTA,L (-13),0,17:14,4,8,.500,0,0,,5,5,1.000,0,0,0,1,2,0,1,1,13,10.3,+5,Dion Glover
+2002-11-10,24-019,ATL,AWAY,SAC,L (-8),0,19:49,5,9,.556,1,1,1.000,2,2,1.000,0,3,3,1,0,0,0,2,13,9.5,-3,Dion Glover
+2002-11-12,24-021,ATL,AWAY,LAL,W (+12),0,7:47,2,7,.286,0,2,.000,0,0,,0,1,1,0,0,0,1,1,4,-1.2,-6,Dion Glover
+2002-11-16,24-025,ATL,HOME,NOH,W (+7),0,20:04,4,6,.667,0,0,,1,2,.500,2,3,5,1,1,1,1,2,9,8.9,+5,Dion Glover
+2002-11-18,24-027,ATL,HOME,TOR,W (+25),0,25:03,5,12,.417,2,3,.667,2,2,1.000,0,1,1,1,0,0,1,1,14,7.2,+18,Dion Glover
+2002-11-20,24-029,ATL,HOME,MIN,L (-10),0,16:53,1,8,.125,1,6,.167,2,4,.500,0,2,2,1,1,0,2,1,5,-1.1,-1,Dion Glover
+2002-11-22,24-031,ATL,AWAY,BOS,L (-7),0,7:43,2,4,.500,0,0,,1,1,1.000,0,0,0,0,0,1,0,0,5,3.7,+8,Dion Glover
+2002-11-23,24-032,ATL,HOME,BOS,L (-10),0,10:29,2,4,.500,0,0,,0,0,,1,0,1,1,0,0,2,3,4,0.2,-9,Dion Glover
+2002-11-26,24-035,ATL,HOME,SEA,W (+3),0,12:32,1,5,.200,0,1,.000,0,0,,0,1,1,1,0,0,0,2,2,-0.9,+2,Dion Glover
+2002-11-27,24-036,ATL,AWAY,NOH,L (-12),0,14:57,3,7,.429,1,2,.500,6,7,.857,0,2,2,0,1,0,1,2,13,8.7,+10,Dion Glover
+2002-11-30,24-039,ATL,AWAY,ORL,L (-25),0,24:17,8,11,.727,2,3,.667,0,1,.000,0,2,2,1,0,0,1,2,18,12.6,-1,Dion Glover
+2002-12-03,24-042,ATL,AWAY,NJN,L (-15),0,25:00,5,9,.556,3,3,1.000,3,6,.500,2,2,4,1,1,0,2,2,16,11.4,+7,Dion Glover
+2002-12-05,24-044,ATL,HOME,MIL,W (+18),0,19:55,1,6,.167,1,3,.333,5,7,.714,1,1,2,2,1,0,1,0,8,5.8,+11,Dion Glover
+2002-12-07,24-046,ATL,HOME,DET,W (+2),0,19:34,1,4,.250,1,1,1.000,3,4,.750,1,4,5,0,0,0,0,2,6,4.3,+11,Dion Glover
+2002-12-11,24-050,ATL,AWAY,DET,L (-11),0,21:52,2,7,.286,0,2,.000,1,1,1.000,2,3,5,1,0,1,5,2,5,-1.2,-4,Dion Glover
+2002-12-12,24-051,ATL,AWAY,MIN,L (-18),1,36:31,3,15,.200,0,3,.000,2,4,.500,4,5,9,6,1,1,3,2,8,4.3,-9,Dion Glover
+2002-12-14,24-053,ATL,HOME,PHO,L (-14),0,18:36,4,8,.500,2,4,.500,1,1,1.000,1,1,2,2,0,0,2,2,11,6.6,+1,Dion Glover
+2002-12-17,24-056,ATL,HOME,WAS,L (-10),0,8:16,1,3,.333,1,3,.333,0,0,,0,0,0,0,0,0,0,0,3,1.3,-15,Dion Glover
+2002-12-20,24-059,ATL,AWAY,HOU,L (-19),0,17:12,2,8,.250,0,2,.000,0,0,,0,0,0,2,1,0,1,0,4,0.6,-10,Dion Glover
+2002-12-21,24-060,ATL,HOME,PHI,W (+2),0,29:37,4,8,.500,1,3,.333,1,2,.500,0,5,5,2,2,2,1,3,10,9.7,-1,Dion Glover
+2002-12-23,24-062,ATL,AWAY,IND,L (-15),0,24:53,6,10,.600,1,2,.500,0,0,,2,1,3,1,0,0,1,0,13,9.8,-5,Dion Glover
+2002-12-28,24-067,ATL,AWAY,WAS,L (-8),0,8:13,0,2,.000,0,0,,0,0,,0,1,1,1,0,0,1,0,0,-1.4,+4,Dion Glover
+2002-12-30,24-069,ATL,AWAY,MIA,L (-9),0,10:33,1,7,.143,1,2,.500,0,0,,2,1,3,0,1,0,0,2,3,0.4,-4,Dion Glover
+2003-01-01,24-071,ATL,HOME,MIA,L (-34),0,12:51,0,6,.000,0,0,,3,4,.750,1,2,3,1,1,0,1,2,3,-0.4,-11,Dion Glover
+2003-01-04,24-074,ATL,HOME,DET,L (-4),0,12:59,1,3,.333,0,0,,0,0,,0,1,1,0,0,0,0,2,2,-0.2,-6,Dion Glover
+2003-01-06,24-076,ATL,HOME,NJN,L (-7),0,7:24,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-2.1,-1,Dion Glover
+2003-01-08,24-078,ATL,HOME,DAL,L (-18),0,16:23,2,8,.250,0,1,.000,0,0,,3,3,6,2,0,0,1,0,4,2.6,-24,Dion Glover
+2003-01-10,24-080,ATL,HOME,HOU,W (+9),0,21:38,2,5,.400,2,4,.500,0,0,,0,3,3,2,1,1,1,4,6,4.7,+17,Dion Glover
+2003-01-11,24-081,ATL,HOME,NOH,W (+7),0,17:37,1,5,.200,1,1,1.000,2,2,1.000,0,2,2,3,1,0,3,1,5,2.2,-2,Dion Glover
+2003-01-14,24-084,ATL,AWAY,MIL,L (-9),0,10:44,0,4,.000,0,0,,0,0,,0,1,1,1,0,0,2,0,0,-3.8,-9,Dion Glover
+2003-01-15,24-085,ATL,AWAY,BOS,L (-20),0,3:55,0,2,.000,0,1,.000,0,2,.000,0,1,1,0,0,0,1,0,0,-2.9,-5,Dion Glover
+2003-01-17,24-087,ATL,AWAY,SAS,L (-13),0,1:16,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,-2,Dion Glover
+2003-01-22,24-092,ATL,HOME,POR,L (-2),1,52:09,9,15,.600,2,5,.400,1,1,1.000,2,6,8,3,1,3,0,2,21,21.7,+1,Dion Glover
+2003-01-24,24-094,ATL,HOME,SAC,W (+11),1,15:58,1,2,.500,0,0,,0,0,,0,1,1,2,0,0,2,4,2,-0.9,-5,Dion Glover
+2003-01-25,24-095,ATL,AWAY,CLE,W (+1),1,21:41,4,6,.667,1,2,.500,0,2,.000,0,1,1,1,0,1,0,3,9,6.1,+1,Dion Glover
+2003-01-28,24-098,ATL,AWAY,NYK,L (-5),1,35:28,2,8,.250,1,3,.333,4,4,1.000,1,4,5,2,2,0,1,4,9,6.9,+10,Dion Glover
+2003-01-29,24-099,ATL,AWAY,PHI,W (+14),1,34:54,7,11,.636,1,2,.500,0,0,,1,6,7,3,2,0,1,2,15,14.9,+9,Dion Glover
+2003-01-31,24-101,ATL,HOME,CLE,W (+5),1,32:28,3,6,.500,0,1,.000,3,4,.750,2,2,4,4,3,0,4,3,9,8.2,-1,Dion Glover
+2003-02-02,24-103,ATL,HOME,ORL,W (+8),1,36:08,9,16,.563,2,4,.500,2,2,1.000,1,9,10,5,2,0,2,2,22,20.5,+13,Dion Glover
+2003-02-03,24-104,ATL,AWAY,MIA,L (-20),1,35:45,4,9,.444,1,1,1.000,3,3,1.000,0,2,2,2,1,0,0,2,12,9.5,-7,Dion Glover
+2003-02-11,24-112,ATL,HOME,GSW,L (-3),1,39:36,12,23,.522,0,4,.000,4,5,.800,3,4,7,3,5,0,0,2,28,25.9,+6,Dion Glover
+2003-02-12,24-113,ATL,AWAY,TOR,L (-1),1,34:33,2,9,.222,0,1,.000,1,1,1.000,0,2,2,0,0,0,1,4,5,-2.5,-16,Dion Glover
+2003-02-14,24-115,ATL,AWAY,IND,L (-1),1,40:24,5,10,.500,1,2,.500,2,4,.500,1,4,5,1,0,1,1,3,13,8.3,0,Dion Glover
+2003-02-16,24-117,ATL,HOME,IND,W (+13),1,31:38,3,9,.333,0,1,.000,0,0,,1,5,6,4,1,0,4,3,6,1.7,+12,Dion Glover
+2003-02-18,24-119,ATL,AWAY,DAL,L (-26),1,22:51,1,6,.167,0,1,.000,2,2,1.000,2,2,4,0,0,0,1,2,4,0.4,-12,Dion Glover
+2003-02-22,24-123,ATL,AWAY,LAC,W (+2),1,26:21,2,8,.250,0,1,.000,2,2,1.000,1,4,5,0,0,0,3,1,6,-0.3,-4,Dion Glover
+2003-02-23,24-124,ATL,AWAY,GSW,L (-22),1,12:56,0,5,.000,0,0,,1,2,.500,3,1,4,0,0,0,2,3,1,-3.7,-9,Dion Glover
+2003-02-25,24-126,ATL,AWAY,POR,L (-3),1,31:17,5,9,.556,3,4,.750,0,0,,0,2,2,3,0,0,1,2,13,9.6,+3,Dion Glover
+2003-02-26,24-127,ATL,AWAY,SEA,L (-17),1,29:38,2,4,.500,1,2,.500,0,0,,0,0,0,1,0,0,1,0,5,2.7,-3,Dion Glover
+2003-02-28,24-129,ATL,AWAY,CHI,W (+22),1,22:49,3,6,.500,2,4,.500,0,0,,0,1,1,1,0,0,1,3,8,3.8,+12,Dion Glover
+2003-03-02,24-131,ATL,AWAY,MIL,L (-27),1,28:03,5,9,.556,0,1,.000,3,4,.750,1,1,2,3,0,0,2,2,13,8.6,-1,Dion Glover
+2003-03-04,24-133,ATL,HOME,DEN,W (+6),1,32:22,7,17,.412,0,3,.000,0,0,,3,3,6,3,2,0,1,2,14,10.2,+10,Dion Glover
+2003-03-05,24-134,ATL,AWAY,CLE,W (+6),1,35:10,4,9,.444,1,3,.333,8,8,1.000,1,4,5,2,4,0,5,1,17,14.2,+14,Dion Glover
+2003-03-08,24-137,ATL,HOME,TOR,L (-9),1,27:44,4,4,1.000,0,0,,1,3,.333,1,3,4,1,0,0,0,5,9,7.3,-2,Dion Glover
+2003-03-10,24-139,ATL,HOME,LAC,W (+9),1,27:19,5,13,.385,1,5,.200,3,3,1.000,2,4,6,3,1,0,3,2,14,8.8,+10,Dion Glover
+2003-03-12,24-141,ATL,HOME,MIL,W (+19),1,30:53,5,9,.556,1,3,.333,5,5,1.000,0,8,8,8,1,0,2,4,16,17.1,+2,Dion Glover
+2003-03-14,24-143,ATL,HOME,NYK,W (+3),1,34:23,4,10,.400,0,1,.000,3,3,1.000,0,4,4,3,2,0,3,5,11,5.9,+15,Dion Glover
+2003-03-16,24-145,ATL,AWAY,MEM,L (-32),1,24:56,3,9,.333,0,2,.000,1,1,1.000,0,4,4,0,1,0,0,1,7,3.7,-14,Dion Glover
+2003-03-18,24-147,ATL,AWAY,CHI,L (-25),1,21:38,2,8,.250,0,1,.000,0,0,,0,4,4,0,1,0,2,1,4,-1.0,-14,Dion Glover
+2003-03-19,24-148,ATL,AWAY,TOR,L (-1),1,25:40,1,7,.143,0,2,.000,2,2,1.000,2,4,6,3,1,0,2,3,4,2.0,+1,Dion Glover
+2003-03-21,24-150,ATL,AWAY,PHI,W (+9),1,40:45,7,11,.636,1,2,.500,3,4,.750,0,1,1,2,1,0,0,1,18,15.0,+8,Dion Glover
+2003-03-22,24-151,ATL,HOME,IND,W (+3),1,37:47,7,10,.700,2,4,.500,2,2,1.000,0,8,8,1,2,0,2,5,18,14.9,+3,Dion Glover
+2003-03-25,24-154,ATL,HOME,LAL,L (-17),1,23:40,3,8,.375,0,2,.000,4,4,1.000,1,4,5,5,0,1,2,1,10,9.3,-16,Dion Glover
+2003-03-26,24-155,ATL,AWAY,DET,L (-3),1,49:04,9,14,.643,2,4,.500,0,0,,1,5,6,5,0,0,1,2,20,17.7,-4,Dion Glover
+2003-03-29,24-158,ATL,HOME,PHI,L (-21),1,28:32,3,10,.300,0,2,.000,3,3,1.000,1,2,3,0,1,0,2,2,9,2.7,-9,Dion Glover
+2003-04-03,24-163,ATL,HOME,WAS,W (+2),1,42:05,6,13,.462,0,2,.000,5,6,.833,1,7,8,1,2,0,2,3,17,12.2,+4,Dion Glover
+2003-04-05,24-165,ATL,HOME,MEM,W (+6),1,39:21,9,17,.529,2,4,.500,0,0,,1,3,4,2,4,0,2,4,20,15.1,+7,Dion Glover
+2003-04-08,24-168,ATL,AWAY,NYK,L (-4),1,37:32,6,15,.400,0,2,.000,4,4,1.000,1,2,3,3,3,0,3,2,16,10.5,-3,Dion Glover
+2003-04-09,24-169,ATL,HOME,NJN,W (+5),1,43:00,7,18,.389,3,6,.500,1,2,.500,0,8,8,4,1,1,2,2,18,11.9,+15,Dion Glover
+2003-04-11,24-171,ATL,HOME,CLE,W (+20),1,35:40,9,16,.563,2,5,.400,3,6,.500,1,7,8,6,4,0,0,2,23,24.4,+20,Dion Glover
+2003-04-12,24-172,ATL,AWAY,WAS,W (+1),1,34:13,5,11,.455,3,6,.500,3,3,1.000,1,7,8,4,0,0,1,3,16,13.7,-12,Dion Glover
+2003-04-14,24-174,ATL,HOME,ORL,W (+16),1,33:13,4,13,.308,1,3,.333,2,2,1.000,1,7,8,5,2,1,2,2,11,9.7,0,Dion Glover
+2003-04-16,24-176,ATL,AWAY,NOH,L (-15),1,33:57,7,16,.438,1,3,.333,0,0,,1,10,11,2,1,0,5,2,15,6.9,-6,Dion Glover
+2003-10-29,25-007,ATL,AWAY,NOH,L (-5),1,38:34,5,13,.385,0,1,.000,4,6,.667,1,4,5,4,2,1,1,0,14,12.5,+10,Dion Glover
+2003-10-31,25-009,ATL,AWAY,CHI,L (-6),1,36:45,6,20,.300,1,4,.250,1,2,.500,1,6,7,3,0,0,4,4,14,1.0,-7,Dion Glover
+2003-11-01,25-010,ATL,HOME,IND,L (-4),1,38:44,5,16,.313,1,4,.250,3,4,.750,1,3,4,2,1,0,2,2,14,5.6,+1,Dion Glover
+2003-11-03,25-012,ATL,HOME,NOH,W (+10),1,41:30,8,21,.381,2,6,.333,2,2,1.000,3,5,8,5,2,0,5,4,20,11.0,+11,Dion Glover
+2003-11-05,25-014,ATL,AWAY,GSW,L (-27),1,32:08,4,15,.267,1,3,.333,2,2,1.000,3,2,5,0,0,0,1,0,11,3.8,-10,Dion Glover
+2003-11-08,25-017,ATL,AWAY,POR,L (-7),1,32:05,6,13,.462,0,4,.000,2,2,1.000,0,5,5,6,0,0,1,2,14,11.2,+2,Dion Glover
+2003-11-09,25-018,ATL,AWAY,SEA,W (+10),1,23:43,5,11,.455,1,2,.500,2,2,1.000,0,1,1,2,0,0,3,0,13,6.0,+13,Dion Glover
+2003-11-11,25-020,ATL,AWAY,LAC,L (-12),1,39:44,7,14,.500,2,4,.500,6,6,1.000,1,6,7,2,1,0,1,2,22,18.1,-1,Dion Glover
+2003-11-12,25-021,ATL,AWAY,PHO,W (+5),1,32:48,8,14,.571,4,5,.800,3,4,.750,0,5,5,0,0,0,3,1,23,14.1,0,Dion Glover
+2003-11-15,25-024,ATL,HOME,NJN,L (-15),1,32:04,4,10,.400,2,3,.667,3,5,.600,1,6,7,3,0,1,3,0,13,9.1,-5,Dion Glover
+2003-11-17,25-026,ATL,HOME,WAS,L (-9),1,30:41,4,11,.364,1,4,.250,4,4,1.000,1,1,2,0,1,0,1,4,13,6.3,-12,Dion Glover
+2003-11-18,25-027,ATL,AWAY,MIL,W (+8),1,31:06,3,9,.333,0,2,.000,6,6,1.000,1,4,5,6,1,0,0,1,12,13.6,+8,Dion Glover
+2003-11-21,25-030,ATL,AWAY,SAS,L (-39),1,27:21,4,12,.333,1,1,1.000,5,5,1.000,2,3,5,2,0,0,1,0,14,9.9,-24,Dion Glover
+2003-11-22,25-031,ATL,HOME,CLE,W (+9),1,19:51,3,9,.333,0,1,.000,0,0,,0,1,1,0,0,0,0,2,6,0.4,-6,Dion Glover
+2003-11-24,25-033,ATL,HOME,DET,L (-5),1,38:31,5,12,.417,1,3,.333,3,3,1.000,3,6,9,2,1,1,4,5,14,8.6,+9,Dion Glover
+2003-11-26,25-035,ATL,HOME,TOR,L (-2),1,41:45,1,10,.100,0,2,.000,7,8,.875,2,6,8,3,0,0,1,5,9,4.3,-7,Dion Glover
+2003-11-28,25-037,ATL,HOME,MIA,W (+12),1,18:06,2,10,.200,1,1,1.000,0,0,,2,3,5,1,1,0,0,1,5,2.4,-3,Dion Glover
+2003-11-29,25-038,ATL,AWAY,PHI,L (-12),1,38:29,4,13,.308,0,3,.000,4,5,.800,1,5,6,3,0,1,0,2,12,8.3,+1,Dion Glover
+2003-12-02,25-041,ATL,HOME,MIL,L (-12),1,22:11,0,7,.000,0,2,.000,4,6,.667,1,5,6,2,0,1,1,3,4,0.4,-8,Dion Glover
+2003-12-05,25-044,ATL,AWAY,TOR,L (-5),0,27:41,4,8,.500,1,1,1.000,2,3,.667,1,3,4,2,1,0,1,2,11,8.8,+8,Dion Glover
+2003-12-06,25-045,ATL,AWAY,CLE,L (-10),0,17:57,2,10,.200,0,1,.000,0,0,,0,3,3,1,1,0,0,3,4,-0.8,-10,Dion Glover
+2003-12-09,25-048,ATL,HOME,DEN,W (+14),0,15:19,2,4,.500,0,0,,3,4,.750,1,3,4,2,0,0,0,2,7,6.8,+4,Dion Glover
+2003-12-10,25-049,ATL,AWAY,MEM,L (-13),0,14:30,4,6,.667,0,0,,2,2,1.000,2,1,3,1,0,0,0,0,10,9.8,-5,Dion Glover
+2003-12-12,25-051,ATL,AWAY,IND,L (-11),0,30:03,7,12,.583,2,3,.667,0,0,,1,7,8,4,1,2,0,2,16,17.6,+6,Dion Glover
+2003-12-13,25-052,ATL,HOME,ORL,L (-3),0,30:12,7,15,.467,3,4,.750,2,2,1.000,2,4,6,3,0,1,3,4,19,12.1,-8,Dion Glover
+2003-12-16,25-055,ATL,AWAY,MIA,L (-18),0,26:36,4,8,.500,0,0,,1,2,.500,1,3,4,1,0,1,1,3,9,5.4,-15,Dion Glover
+2003-12-17,25-056,ATL,HOME,GSW,L (-13),1,29:30,4,11,.364,0,2,.000,3,5,.600,1,2,3,0,0,0,2,1,11,3.0,-17,Dion Glover
+2003-12-19,25-058,ATL,HOME,SAC,L (-12),1,32:48,4,7,.571,1,2,.500,2,3,.667,1,4,5,1,2,1,2,2,11,9.8,+6,Dion Glover
+2003-12-20,25-059,ATL,AWAY,NYK,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Dion Glover
+2003-12-23,25-062,ATL,HOME,BOS,W (+5),1,33:32,6,8,.750,3,3,1.000,3,4,.750,0,7,7,4,0,0,3,3,18,15.1,-1,Dion Glover
+2003-12-26,25-065,ATL,AWAY,NOH,L (-30),1,19:54,4,7,.571,1,2,.500,0,0,,0,2,2,1,0,0,1,1,9,5.6,-17,Dion Glover
+2003-12-27,25-066,ATL,HOME,DET,L (-3),1,40:55,4,9,.444,0,2,.000,2,3,.667,1,5,6,4,0,0,1,3,10,7.7,-3,Dion Glover
+2003-12-30,25-069,ATL,AWAY,WAS,W (+10),1,34:29,4,13,.308,0,1,.000,2,3,.667,0,3,3,1,1,0,4,4,10,-0.9,+12,Dion Glover
+2004-01-02,25-072,ATL,AWAY,MIN,L (-18),1,32:13,4,9,.444,1,3,.333,0,0,,0,1,1,3,0,0,3,3,9,2.5,-16,Dion Glover
+2004-01-03,25-073,ATL,AWAY,DEN,W (+8),0,26:10,5,10,.500,0,0,,2,5,.400,1,4,5,0,1,0,0,1,12,8.3,+2,Dion Glover
+2004-01-06,25-076,ATL,AWAY,SAC,L (-16),0,20:22,1,8,.125,0,0,,0,0,,3,3,6,2,3,0,0,1,2,3.8,-4,Dion Glover
+2004-01-09,25-079,ATL,AWAY,LAL,L (-46),0,24:19,3,6,.500,1,1,1.000,3,4,.750,0,2,2,3,2,0,2,2,10,8.5,-12,Dion Glover
+2004-01-10,25-080,ATL,AWAY,UTA,L (-21),0,26:47,6,11,.545,0,2,.000,3,4,.750,0,2,2,1,0,1,0,1,15,10.9,+8,Dion Glover
+2004-01-13,25-083,ATL,HOME,SAS,W (+9),0,26:48,1,7,.143,0,0,,0,1,.000,1,7,8,0,1,0,3,2,2,-2.9,-1,Dion Glover
+2004-01-14,25-084,ATL,AWAY,IND,L (-7),0,34:08,5,12,.417,0,2,.000,3,4,.750,2,3,5,3,3,1,5,4,13,7.7,-3,Dion Glover
+2004-01-17,25-087,ATL,HOME,TOR,W (+5),0,20:05,2,6,.333,1,2,.500,0,0,,0,4,4,3,0,1,1,3,5,3.4,+8,Dion Glover
+2004-01-19,25-089,ATL,HOME,IND,L (-3),0,22:36,0,7,.000,0,0,,2,3,.667,1,2,3,1,0,0,1,1,2,-2.7,-13,Dion Glover
+2004-01-21,25-091,ATL,HOME,CHI,W (+10),0,20:56,4,7,.571,1,2,.500,2,2,1.000,2,3,5,0,0,0,3,2,11,6.2,-4,Dion Glover
+2004-01-23,25-093,ATL,HOME,NYK,L (-2),0,13:19,0,3,.000,0,1,.000,0,2,.000,0,1,1,0,1,0,0,2,0,-2.4,-5,Dion Glover
+2004-01-25,25-095,ATL,AWAY,DET,W (+9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Dion Glover
+2004-01-27,25-097,ATL,HOME,PHO,L (-4),0,4:58,1,2,.500,0,1,.000,0,0,,0,0,0,2,0,0,0,0,2,2.4,+2,Dion Glover
+2004-01-29,25-099,ATL,HOME,POR,L (-8),0,25:51,5,13,.385,0,3,.000,0,0,,2,1,3,2,3,1,2,2,10,6.9,+7,Dion Glover
+2004-01-31,25-101,ATL,HOME,MIL,W (+10),0,22:00,3,9,.333,0,1,.000,0,0,,1,5,6,2,0,0,2,3,6,1.3,-6,Dion Glover
+2004-02-02,25-103,ATL,HOME,LAC,L (-6),0,33:36,6,10,.600,1,1,1.000,3,4,.750,2,7,9,5,2,1,3,4,16,16.1,+14,Dion Glover
+2004-02-04,25-105,ATL,HOME,MIN,W (+8),0,12:15,0,3,.000,0,1,.000,0,0,,0,2,2,2,0,0,0,1,0,-0.5,-17,Dion Glover
+2004-02-06,25-107,ATL,AWAY,BOS,W (+4),0,29:11,6,10,.600,2,3,.667,2,2,1.000,1,3,4,5,2,2,2,0,16,17.9,+10,Dion Glover
+2004-02-07,25-108,ATL,HOME,HOU,L (-9),0,26:18,4,11,.364,0,1,.000,2,2,1.000,1,2,3,3,2,0,0,4,10,7.7,0,Dion Glover
+2004-02-09,25-110,ATL,HOME,DAL,W (+6),0,18:59,3,5,.600,0,1,.000,0,0,,0,3,3,1,1,0,3,2,6,2.5,+13,Dion Glover
+2004-02-18,25-119,ATL,AWAY,NJN,L (-6),0,9:58,1,2,.500,0,1,.000,1,2,.500,0,1,1,0,1,0,1,0,3,1.9,-12,Dion Glover
+2004-02-20,25-121,ATL,AWAY,MIA,L (-33),0,27:59,2,8,.250,0,2,.000,3,3,1.000,2,1,3,5,1,0,1,0,7,7.4,-9,Dion Glover
+2004-02-22,25-123,ATL,AWAY,HOU,L (-2),0,11:41,2,4,.500,0,0,,0,0,,0,2,2,0,0,0,1,0,4,1.6,+8,Dion Glover
+2004-02-24,25-125,ATL,HOME,PHI,W (+11),0,5:49,1,3,.333,0,1,.000,1,1,1.000,0,0,0,1,1,0,0,0,3,3.0,+1,Dion Glover
+2004-02-29,25-130,TOR,HOME,BOS,L (-9),1,36:16,5,16,.313,1,3,.333,2,4,.500,2,7,9,4,2,0,5,5,13,4.3,-9,Dion Glover
+2004-03-02,25-132,TOR,AWAY,MIA,W (+3),0,20:01,5,10,.500,1,2,.500,2,2,1.000,0,3,3,0,0,1,2,1,13,7.2,-9,Dion Glover
+2004-03-03,25-133,TOR,AWAY,WAS,L (-14),1,27:27,2,10,.200,0,2,.000,2,2,1.000,1,1,2,1,4,0,2,1,6,3.1,-6,Dion Glover
+2004-03-05,25-135,TOR,HOME,NYK,L (-6),1,24:28,3,5,.600,1,3,.333,1,2,.500,0,7,7,4,1,0,5,1,8,5.8,+2,Dion Glover
+2004-03-07,25-137,TOR,HOME,NOH,W (+8),1,10:00,1,3,.333,1,1,1.000,0,0,,0,0,0,1,0,0,0,1,3,1.6,-8,Dion Glover
+2004-03-09,25-139,TOR,AWAY,IND,L (-10),0,10:00,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,0,3,0,-1.2,+7,Dion Glover
+2004-03-10,25-140,TOR,HOME,CLE,L (-14),0,13:17,3,7,.429,0,1,.000,1,2,.500,0,1,1,1,1,0,0,0,7,4.9,+2,Dion Glover
+2004-03-14,25-144,TOR,HOME,ATL,W (+17),0,0:48,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,2,2.0,+2,Dion Glover
+2004-03-21,25-151,TOR,AWAY,NOH,W (+1),0,5:11,2,2,1.000,0,0,,0,0,,0,1,1,1,1,0,2,2,4,2.6,+3,Dion Glover
+2004-03-23,25-153,TOR,AWAY,MEM,L (-9),0,3:06,0,0,,0,0,,0,0,,0,0,0,1,0,0,2,1,0,-1.7,+1,Dion Glover
+2004-03-28,25-158,TOR,HOME,MEM,L (-6),0,5:50,0,1,.000,0,0,,0,0,,0,0,0,0,1,0,1,1,0,-1.1,-4,Dion Glover
+2004-04-02,25-163,TOR,AWAY,IND,L (-20),0,3:14,0,2,.000,0,1,.000,0,0,,1,1,2,0,0,0,0,0,0,-0.4,-4,Dion Glover
+2004-04-04,25-165,TOR,HOME,MIL,L (-7),0,3:12,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-0.4,+2,Dion Glover
+2004-04-14,25-175,TOR,AWAY,MIL,W (+2),0,13:52,3,6,.500,0,0,,2,2,1.000,0,2,2,1,0,1,0,1,8,6.6,-4,Dion Glover
+1999-11-06,21-015,ATL,HOME,CHI,W (+16),0,5:18,1,4,.250,0,2,.000,0,0,,0,0,0,1,0,0,0,1,2,-0.1,-11,Dion Glover
+1999-11-13,21-022,ATL,AWAY,POR,L (-36),0,6:29,1,4,.250,0,1,.000,0,0,,0,0,0,1,0,0,0,0,2,0.3,+1,Dion Glover
+1999-11-30,21-039,ATL,AWAY,TOR,W (+18),0,2:06,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,+1,Dion Glover
+1999-12-08,21-047,ATL,HOME,LAC,W (+18),0,2:06,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,1,0,3,1.7,+5,Dion Glover
+1999-12-18,21-057,ATL,HOME,UTA,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Dion Glover
+1999-12-19,21-058,ATL,AWAY,NJN,L (-8),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Dion Glover
+1999-12-22,21-061,ATL,AWAY,BOS,L (-17),0,6:49,0,2,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,2,0,-1.5,+2,Dion Glover
+1999-12-29,21-068,ATL,HOME,IND,L (-27),0,6:50,2,5,.400,0,1,.000,3,4,.750,0,0,0,0,2,0,2,0,7,3.9,-4,Dion Glover
+2000-01-19,21-089,ATL,AWAY,PHI,L (-18),0,5:13,1,1,1.000,1,1,1.000,3,4,.750,0,0,0,0,0,0,0,0,6,5.3,+9,Dion Glover
+2000-01-22,21-092,ATL,HOME,WAS,W (+18),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Dion Glover
+2000-03-01,21-131,ATL,HOME,WAS,L (-19),0,3:34,1,3,.333,0,0,,0,1,.000,0,0,0,0,0,0,0,0,2,-0.1,-2,Dion Glover
+2000-03-04,21-134,ATL,HOME,SEA,L (-12),0,7:38,2,6,.333,1,2,.500,0,0,,0,0,0,0,0,0,0,1,5,1.2,+9,Dion Glover
+2000-03-06,21-136,ATL,AWAY,MIL,L (-33),0,5:22,1,2,.500,0,0,,0,0,,0,0,0,1,0,0,0,0,2,1.7,+2,Dion Glover
+2000-03-09,21-139,ATL,HOME,SAS,L (-26),0,2:50,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-1.4,-2,Dion Glover
+2000-03-17,21-147,ATL,HOME,BOS,L (-24),0,10:16,1,4,.250,0,1,.000,1,2,.500,0,1,1,0,0,0,1,0,3,-0.5,-7,Dion Glover
+2000-03-19,21-149,ATL,HOME,DAL,L (-4),1,1:52,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-2,Dion Glover
+2000-03-21,21-151,ATL,HOME,MIA,W (+5),0,22:04,2,6,.333,0,1,.000,0,1,.000,2,0,2,2,1,1,1,1,4,3.3,-2,Dion Glover
+2000-03-22,21-152,ATL,AWAY,ORL,L (-13),0,26:41,7,12,.583,1,4,.250,3,7,.429,0,3,3,5,2,2,1,1,18,17.2,+6,Dion Glover
+2000-03-24,21-154,ATL,AWAY,NYK,L (-12),0,22:26,3,6,.500,1,3,.333,2,3,.667,2,3,5,2,1,0,1,1,9,8.9,-1,Dion Glover
+2000-03-25,21-155,ATL,HOME,CHH,L (-16),0,20:16,2,8,.250,0,2,.000,2,3,.667,0,0,0,0,0,0,2,1,6,-1.6,-16,Dion Glover
+2000-03-28,21-158,ATL,HOME,DEN,W (+5),0,20:14,1,4,.250,1,2,.500,0,0,,0,0,0,2,1,0,1,1,3,1.6,+12,Dion Glover
+2000-03-30,21-160,ATL,HOME,PHO,L (-44),0,23:59,2,11,.182,0,2,.000,2,2,1.000,1,1,2,1,0,0,2,2,6,-2.0,-24,Dion Glover
+2000-04-01,21-162,ATL,AWAY,HOU,L (-22),0,19:17,2,9,.222,1,3,.333,2,2,1.000,1,0,1,1,0,0,1,2,7,1.1,-20,Dion Glover
+2000-04-04,21-165,ATL,AWAY,MIN,L (-10),0,22:13,4,8,.500,1,1,1.000,1,3,.333,0,3,3,0,0,0,1,0,10,5.1,-17,Dion Glover
+2000-04-05,21-166,ATL,AWAY,PHI,L (-21),0,23:42,5,8,.625,1,3,.333,7,7,1.000,2,0,2,0,2,0,1,2,18,16.0,-7,Dion Glover
+2000-04-07,21-168,ATL,HOME,TOR,L (-20),0,23:25,1,8,.125,1,4,.250,1,2,.500,1,3,4,1,0,0,2,2,4,-2.1,-1,Dion Glover
+2000-04-08,21-169,ATL,AWAY,WAS,L (-10),0,16:32,4,5,.800,0,0,,7,9,.778,1,0,1,0,1,0,2,1,15,11.6,+8,Dion Glover
+2000-04-10,21-171,ATL,AWAY,BOS,L (-5),0,21:06,2,4,.500,0,1,.000,3,4,.750,1,1,2,2,0,0,1,3,7,4.8,-2,Dion Glover
+2000-04-12,21-173,ATL,AWAY,CHH,L (-32),0,24:00,6,13,.462,0,2,.000,2,2,1.000,2,1,3,1,0,1,0,2,14,9.6,-22,Dion Glover
+2000-04-14,21-175,ATL,HOME,PHI,L (-12),0,24:00,3,8,.375,1,2,.500,5,5,1.000,0,2,2,0,2,0,4,2,12,5.4,-7,Dion Glover
+2000-04-16,21-177,ATL,HOME,CLE,W (+3),0,23:52,5,6,.833,1,1,1.000,1,3,.333,0,2,2,3,1,0,2,1,12,10.3,-10,Dion Glover
+2000-04-18,21-179,ATL,HOME,NJN,W (+2),0,23:35,3,9,.333,0,0,,4,4,1.000,2,2,4,3,0,0,1,1,10,7.6,-11,Dion Glover
+2000-04-19,21-180,ATL,AWAY,IND,L (-19),0,24:00,3,11,.273,0,3,.000,2,2,1.000,0,1,1,0,2,0,0,1,8,3.4,-7,Dion Glover
+2005-03-18,26-147,SAS,HOME,CHA,W (+17),0,11:41,1,3,.333,0,1,.000,0,0,,1,3,4,2,2,1,1,3,2,3.8,0,Dion Glover
+2005-03-20,26-149,SAS,AWAY,DET,L (-9),0,6:07,0,0,,0,0,,0,0,,0,0,0,0,0,1,0,2,0,-0.1,+2,Dion Glover
+2005-03-21,26-150,SAS,AWAY,NYK,L (-13),0,7:52,1,4,.250,0,1,.000,1,1,1.000,0,0,0,0,0,0,0,0,3,0.6,0,Dion Glover
+2005-03-23,26-152,SAS,AWAY,IND,L (-7),0,13:28,2,4,.500,0,1,.000,2,2,1.000,1,2,3,1,0,0,0,3,6,4.8,+11,Dion Glover
+2005-03-30,26-159,SAS,HOME,SEA,W (+13),0,10:39,1,2,.500,0,0,,0,1,.000,1,0,1,1,0,0,1,0,2,1.0,-4,Dion Glover
+2005-04-01,26-161,SAS,AWAY,DEN,L (-18),0,14:35,2,8,.250,1,5,.200,5,6,.833,0,2,2,0,1,1,0,1,10,6.7,-3,Dion Glover
+2005-04-02,26-162,SAS,HOME,LAL,W (+1),0,1:41,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,2,2.0,-1,Dion Glover

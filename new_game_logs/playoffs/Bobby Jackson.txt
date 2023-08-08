@@ -1,0 +1,66 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2002-04-20,29-038,SAC,HOME,UTA,W (+3),0,14:29,1,6,0.167,0,3,0.0,2,2,1.0,1,0,1,1,1,0,0,0,4,2.6,-19,Bobby Jackson
+2002-04-23,29-041,SAC,HOME,UTA,L (-7),0,21:37,3,9,0.333,1,5,0.2,1,1,1.0,0,2,2,1,1,0,0,4,8,3.6,7,Bobby Jackson
+2002-04-27,29-045,SAC,AWAY,UTA,W (+3),0,13:56,2,3,0.667,0,0,,0,0,,1,1,2,0,0,0,0,2,4,2.9,3,Bobby Jackson
+2002-04-29,29-047,SAC,AWAY,UTA,W (+5),0,14:02,3,7,0.429,1,3,0.333,0,0,,0,0,0,0,0,0,0,4,7,1.7,2,Bobby Jackson
+2002-05-04,29-052,SAC,HOME,DAL,W (+17),0,21:47,5,9,0.556,0,2,0.0,2,2,1.0,1,3,4,4,3,1,0,0,12,15.8,4,Bobby Jackson
+2002-05-06,29-054,SAC,HOME,DAL,L (-8),0,27:16,2,7,0.286,0,3,0.0,4,4,1.0,2,5,7,5,2,1,2,2,8,10.2,-9,Bobby Jackson
+2002-05-09,29-057,SAC,AWAY,DAL,W (+6),0,28:31,2,10,0.2,0,3,0.0,3,4,0.75,0,3,3,4,1,0,2,2,7,2.3,-10,Bobby Jackson
+2002-05-11,29-059,SAC,AWAY,DAL,W (+2),1,44:39,10,20,0.5,2,2,1.0,4,6,0.667,3,1,4,5,1,1,4,1,26,18.4,9,Bobby Jackson
+2002-05-13,29-061,SAC,HOME,DAL,W (+13),0,33:26,6,12,0.5,2,4,0.5,1,2,0.5,2,4,6,1,1,0,2,3,15,9.7,4,Bobby Jackson
+2002-05-18,29-066,SAC,HOME,LAL,L (-7),0,24:39,9,15,0.6,0,1,0.0,3,4,0.75,2,1,3,2,0,0,1,3,21,14.6,3,Bobby Jackson
+2002-05-20,29-068,SAC,HOME,LAL,W (+6),0,23:09,5,9,0.556,2,3,0.667,5,6,0.833,1,2,3,1,0,0,1,2,17,12.5,-4,Bobby Jackson
+2002-05-24,29-072,SAC,AWAY,LAL,W (+13),0,24:00,3,6,0.5,0,2,0.0,5,8,0.625,1,4,5,1,0,0,3,0,11,6.4,-15,Bobby Jackson
+2002-05-26,29-074,SAC,AWAY,LAL,L (-1),0,24:09,2,12,0.167,1,6,0.167,4,4,1.0,1,2,3,2,1,0,1,3,9,2.9,-8,Bobby Jackson
+2002-05-28,29-076,SAC,HOME,LAL,W (+1),0,19:50,2,5,0.4,0,1,0.0,0,0,,0,3,3,1,2,0,0,0,4,4.9,6,Bobby Jackson
+2002-05-31,29-079,SAC,AWAY,LAL,L (-4),0,15:01,4,7,0.571,2,2,1.0,0,0,,0,2,2,3,1,0,1,2,10,8.6,-9,Bobby Jackson
+2002-06-02,29-081,SAC,HOME,LAL,L (-6),0,23:29,6,9,0.667,0,3,0.0,0,0,,0,4,4,1,0,0,1,3,12,7.8,-2,Bobby Jackson
+2001-04-22,28-040,SAC,HOME,PHO,L (-3),0,19:54,3,8,0.375,0,1,0.0,0,0,,2,1,3,1,1,0,1,0,6,4.0,-2,Bobby Jackson
+2001-04-25,28-043,SAC,HOME,PHO,W (+26),0,27:42,6,7,0.857,2,3,0.667,2,2,1.0,2,7,9,2,0,0,2,2,16,15.6,12,Bobby Jackson
+2001-04-29,28-047,SAC,AWAY,PHO,W (+8),0,19:19,0,3,0.0,0,1,0.0,0,0,,0,3,3,2,1,0,2,3,0,-2.0,1,Bobby Jackson
+2001-05-02,28-050,SAC,AWAY,PHO,W (+7),0,29:18,3,6,0.5,1,3,0.333,3,4,0.75,1,3,4,5,1,0,1,3,10,10.5,10,Bobby Jackson
+2001-05-06,28-054,SAC,AWAY,LAL,L (-3),0,12:10,2,4,0.5,0,1,0.0,0,0,,0,1,1,1,0,0,0,0,4,3.0,5,Bobby Jackson
+2001-05-08,28-056,SAC,AWAY,LAL,L (-6),0,32:50,5,9,0.556,0,1,0.0,4,6,0.667,1,4,5,4,4,0,1,3,14,15.4,12,Bobby Jackson
+2001-05-11,28-059,SAC,HOME,LAL,L (-22),0,20:53,1,6,0.167,0,1,0.0,0,0,,0,1,1,0,1,0,0,3,2,-1.7,-11,Bobby Jackson
+2001-05-13,28-061,SAC,HOME,LAL,L (-6),0,19:53,1,5,0.2,1,3,0.333,1,2,0.5,0,0,0,3,0,0,0,4,4,1.0,-10,Bobby Jackson
+2006-04-23,33-041,MEM,AWAY,DAL,L (-10),0,32:47,3,8,0.375,2,5,0.4,3,4,0.75,0,3,3,4,0,0,5,2,11,4.1,-4,Bobby Jackson
+2006-04-26,33-044,MEM,AWAY,DAL,L (-15),0,27:54,5,11,0.455,2,4,0.5,0,0,,0,0,0,1,1,0,5,4,12,1.4,2,Bobby Jackson
+2006-04-29,33-047,MEM,HOME,DAL,L (-5),0,17:27,1,3,0.333,0,1,0.0,0,0,,0,4,4,0,0,0,2,0,2,-0.5,-2,Bobby Jackson
+2006-05-01,33-049,MEM,HOME,DAL,L (-26),0,22:19,3,7,0.429,0,1,0.0,2,3,0.667,0,1,1,0,0,0,2,1,8,1.8,-19,Bobby Jackson
+2003-04-19,30-037,SAC,HOME,UTA,W (+6),0,22:16,4,5,0.8,0,0,,5,6,0.833,0,2,2,6,1,0,2,2,13,13.7,11,Bobby Jackson
+2003-04-21,30-039,SAC,HOME,UTA,W (+13),0,26:09,6,11,0.545,0,2,0.0,3,4,0.75,1,2,3,6,3,0,3,1,15,14.4,8,Bobby Jackson
+2003-04-26,30-044,SAC,AWAY,UTA,L (-3),0,21:03,3,6,0.5,1,3,0.333,2,2,1.0,2,0,2,2,0,0,1,6,9,5.4,-9,Bobby Jackson
+2003-04-28,30-046,SAC,AWAY,UTA,W (+17),0,20:04,4,10,0.4,1,3,0.333,0,0,,0,3,3,0,0,0,0,0,9,4.5,8,Bobby Jackson
+2003-04-30,30-048,SAC,HOME,UTA,W (+20),0,28:13,6,11,0.545,2,3,0.667,4,4,1.0,0,4,4,6,1,0,1,0,18,18.1,3,Bobby Jackson
+2003-05-06,30-054,SAC,AWAY,DAL,W (+11),0,26:55,8,15,0.533,3,6,0.5,4,4,1.0,0,5,5,4,3,0,2,3,23,19.8,2,Bobby Jackson
+2003-05-08,30-056,SAC,AWAY,DAL,L (-22),0,29:20,4,10,0.4,1,4,0.25,0,0,,3,5,8,2,0,0,4,4,9,3.0,-30,Bobby Jackson
+2003-05-10,30-058,SAC,HOME,DAL,L (-4),0,42:03,7,15,0.467,0,4,0.0,2,2,1.0,2,9,11,5,0,0,0,0,16,15.9,-17,Bobby Jackson
+2003-05-11,30-059,SAC,HOME,DAL,W (+16),0,29:10,4,13,0.308,1,4,0.25,4,5,0.8,1,2,3,2,1,1,2,0,13,7.5,0,Bobby Jackson
+2003-05-13,30-061,SAC,AWAY,DAL,L (-19),0,27:28,6,12,0.5,2,2,1.0,0,0,,2,3,5,1,1,0,0,2,14,11.2,-11,Bobby Jackson
+2003-05-15,30-063,SAC,HOME,DAL,W (+6),0,28:07,7,17,0.412,3,5,0.6,4,4,1.0,0,3,3,1,2,0,1,1,21,14.1,9,Bobby Jackson
+2003-05-17,30-065,SAC,AWAY,DAL,L (-13),0,30:37,4,13,0.308,1,7,0.143,3,4,0.75,0,5,5,5,0,0,1,3,12,6.9,-6,Bobby Jackson
+2004-04-18,31-036,SAC,HOME,DAL,W (+11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Bobby Jackson
+2004-04-20,31-038,SAC,HOME,DAL,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Bobby Jackson
+2004-04-24,31-042,SAC,AWAY,DAL,L (-25),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Bobby Jackson
+2004-04-29,31-047,SAC,HOME,DAL,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Bobby Jackson
+2004-05-04,31-052,SAC,AWAY,MIN,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Bobby Jackson
+2004-05-08,31-056,SAC,AWAY,MIN,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Bobby Jackson
+2004-05-10,31-058,SAC,HOME,MIN,L (-1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Bobby Jackson
+2004-05-12,31-060,SAC,HOME,MIN,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Bobby Jackson
+2004-05-14,31-062,SAC,AWAY,MIN,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Bobby Jackson
+2004-05-16,31-064,SAC,HOME,MIN,W (+17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Bobby Jackson
+2004-05-19,31-067,SAC,AWAY,MIN,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Bobby Jackson
+2008-04-19,35-037,HOU,HOME,UTA,L (-11),1,33:20,3,15,0.2,1,7,0.143,0,0,,0,0,0,3,2,0,2,2,7,-1.0,-6,Bobby Jackson
+2008-04-21,35-039,HOU,HOME,UTA,L (-6),1,30:27,7,17,0.412,2,6,0.333,2,4,0.5,1,4,5,2,0,0,0,1,18,11.0,-5,Bobby Jackson
+2008-04-24,35-042,HOU,AWAY,UTA,W (+2),0,16:02,4,10,0.4,0,3,0.0,0,0,,1,0,1,2,0,0,0,2,8,3.9,9,Bobby Jackson
+2008-04-26,35-044,HOU,AWAY,UTA,L (-4),0,14:59,1,10,0.1,0,4,0.0,2,2,1.0,0,1,1,0,1,0,1,2,4,-3.1,-9,Bobby Jackson
+2008-04-29,35-047,HOU,HOME,UTA,W (+26),0,17:11,3,6,0.5,1,1,1.0,2,2,1.0,0,1,1,1,0,0,0,2,9,6.2,10,Bobby Jackson
+2008-05-02,35-050,HOU,AWAY,UTA,L (-22),0,26:00,2,12,0.167,1,3,0.333,1,3,0.333,0,2,2,1,2,0,1,2,6,-0.9,-13,Bobby Jackson
+2000-04-23,27-041,MIN,AWAY,POR,L (-3),0,5:24,1,2,.500,0,0,,0,0,,0,1,1,0,0,0,0,0,2,1.3,-10,Bobby Jackson
+2000-04-26,27-044,MIN,AWAY,POR,L (-4),0,8:26,0,1,.000,0,1,.000,2,2,1.000,0,1,1,1,1,0,2,2,2,0.5,-2,Bobby Jackson
+2000-05-02,27-050,MIN,HOME,POR,L (-8),0,15:56,3,5,.600,1,2,.500,4,4,1.000,0,3,3,3,1,1,0,2,11,12.6,+13,Bobby Jackson
+2005-04-23,32-041,SAC,AWAY,SEA,L (-5),0,16:19,0,7,0.0,0,4,0.0,0,0,,1,1,2,2,0,0,2,1,0,-4.9,-4,Bobby Jackson
+2005-04-26,32-044,SAC,AWAY,SEA,L (-12),0,23:55,7,18,0.389,2,8,0.25,1,1,1.0,0,3,3,4,0,1,1,1,17,10.2,0,Bobby Jackson
+2005-04-29,32-047,SAC,HOME,SEA,W (+12),0,17:26,3,7,0.429,1,4,0.25,2,2,1.0,1,0,1,3,1,0,0,1,9,8.7,12,Bobby Jackson
+2005-05-01,32-049,SAC,HOME,SEA,L (-13),0,14:51,0,3,0.0,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-2.1,-1,Bobby Jackson
+2005-05-03,32-051,SAC,AWAY,SEA,L (-4),0,6:19,0,2,0.0,0,2,0.0,0,0,,0,0,0,0,0,0,0,2,0,-2.2,-16,Bobby Jackson

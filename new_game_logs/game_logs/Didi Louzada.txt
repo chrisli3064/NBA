@@ -1,0 +1,19 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2021-05-12,22-094,NOP,AWAY,DAL,L (-18),0,14:40,1,5,.200,0,2,.000,0,0,,0,1,1,0,0,0,0,2,2,-1.6,+10,Didi Louzada
+2021-05-14,22-096,NOP,AWAY,GSW,L (-3),0,23:05,2,6,.333,2,5,.400,0,0,,1,0,1,2,2,0,0,2,6,5.9,-5,Didi Louzada
+2021-05-16,22-098,NOP,HOME,LAL,L (-12),0,18:35,0,2,.000,0,1,.000,0,0,,0,1,1,1,0,0,3,1,0,-3.8,-16,Didi Louzada
+2021-11-03,22-269,NOP,AWAY,SAC,L (-13),0,1:03,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,+1,Didi Louzada
+2021-11-05,22-271,NOP,AWAY,GSW,L (-41),0,5:53,0,3,.000,0,3,.000,0,0,,2,0,2,0,0,0,0,0,0,-0.7,-5,Didi Louzada
+2021-11-22,22-288,NOP,HOME,MIN,L (-14),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Didi Louzada
+2021-11-24,22-290,NOP,HOME,WAS,W (+25),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Didi Louzada
+2021-11-26,22-292,NOP,AWAY,UTA,W (+1),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Didi Louzada
+2022-03-21,23-042,POR,AWAY,DET,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Didi Louzada
+2022-03-23,23-044,POR,HOME,SAS,L (-37),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Didi Louzada
+2022-03-28,23-049,POR,HOME,OKC,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Didi Louzada
+2022-03-30,23-051,POR,HOME,NOP,L (-10),0,11:30,2,6,.333,1,5,.200,0,0,,2,0,2,0,0,1,0,1,5,3.3,0,Didi Louzada
+2022-04-01,23-053,POR,AWAY,SAS,L (-19),0,16:52,1,2,.500,1,1,1.000,0,0,,0,1,1,2,1,0,0,2,3,3.9,+7,Didi Louzada
+2022-04-03,23-055,POR,AWAY,SAS,L (-21),0,13:12,1,3,.333,1,2,.500,0,0,,0,1,1,0,0,0,1,1,3,0.2,-4,Didi Louzada
+2022-04-05,23-057,POR,AWAY,OKC,L (-4),0,17:26,2,5,.400,1,2,.500,0,0,,0,4,4,0,0,0,0,1,5,3.1,-17,Didi Louzada
+2022-04-07,23-059,POR,AWAY,NOP,L (-33),0,18:45,3,4,.750,3,4,.750,2,2,1.000,0,1,1,1,1,0,3,1,11,8.0,-16,Didi Louzada
+2022-04-08,23-060,POR,AWAY,DAL,L (-50),0,26:27,1,5,.200,1,4,.250,0,0,,0,3,3,0,0,1,0,3,3,0.3,-31,Didi Louzada
+2022-04-10,23-062,POR,HOME,UTA,L (-31),1,18:14,2,5,.400,1,2,.500,0,0,,1,2,3,1,0,0,1,4,5,1.7,-16,Didi Louzada

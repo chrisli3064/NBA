@@ -1,0 +1,846 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+2008-10-29,31-142,NOH,AWAY,GSW,W (+5),1,35:10,.627,.591,3.8,3.0,3.4,12.5,1.4,0.0,7.3,17.6,127,113,12.6,1.5,Peja Stojakovic
+2008-10-30,31-143,NOH,AWAY,PHO,W (+13),1,30:30,.678,.654,7.7,21.0,13.3,6.1,0.0,0.0,0.0,23.2,147,110,16.6,6.6,Peja Stojakovic
+2008-11-05,31-149,NOH,HOME,ATL,L (-8),1,37:21,.308,.308,0.0,19.3,9.6,19.7,1.6,0.0,13.3,21.0,65,106,3.3,-7.3,Peja Stojakovic
+2008-11-07,31-151,NOH,AWAY,CHA,L (-3),1,31:42,.625,.625,4.0,25.2,14.3,7.1,0.0,0.0,5.9,25.4,120,113,13.4,7.4,Peja Stojakovic
+2008-11-08,31-152,NOH,HOME,MIA,W (+11),1,32:09,.500,.500,3.6,3.6,3.6,5.3,0.0,0.0,7.7,19.7,101,114,5.5,-3.0,Peja Stojakovic
+2008-11-12,31-156,NOH,HOME,LAL,L (-7),1,32:23,.360,.308,0.0,6.7,3.6,5.0,0.0,0.0,6.7,21.9,75,111,1.2,-6.4,Peja Stojakovic
+2008-11-14,31-158,NOH,HOME,POR,W (+5),1,30:56,.474,.438,7.4,8.6,8.0,0.0,0.0,0.0,0.0,14.5,113,111,5.2,-2.6,Peja Stojakovic
+2008-11-15,31-159,NOH,AWAY,HOU,L (-9),1,24:19,.300,.300,4.7,5.8,5.2,6.8,2.4,0.0,16.7,12.8,67,116,0.4,-8.3,Peja Stojakovic
+2008-11-19,31-163,NOH,HOME,SAC,L (-9),1,27:48,.438,.438,5.1,10.8,7.8,5.0,0.0,0.0,11.1,15.8,97,131,3.2,-10.2,Peja Stojakovic
+2008-11-21,31-165,NOH,AWAY,OKC,W (+25),1,24:56,.464,.464,4.6,0.0,2.3,12.7,5.8,0.0,0.0,25.7,97,81,9.9,5.6,Peja Stojakovic
+2008-11-22,31-166,NOH,HOME,OKC,W (+12),1,34:36,.429,.429,0.0,4.1,2.2,0.0,0.0,0.0,12.5,23.0,77,120,1.3,-15.1,Peja Stojakovic
+2008-11-24,31-168,NOH,AWAY,LAC,W (+12),1,30:23,.505,.458,0.0,27.9,16.7,4.9,1.8,0.0,13.4,22.8,95,90,9.0,-0.3,Peja Stojakovic
+2008-11-27,31-171,NOH,AWAY,DEN,W (+4),1,33:31,.690,.636,3.9,8.7,6.1,16.6,1.6,0.0,14.0,20.4,131,118,12.9,5.1,Peja Stojakovic
+2008-11-28,31-172,NOH,AWAY,POR,L (-15),1,31:08,.706,.679,4.2,9.3,6.6,6.8,3.7,0.0,0.0,24.6,147,120,18.0,15.4,Peja Stojakovic
+2008-12-03,31-177,NOH,HOME,PHO,W (+13),1,35:23,.693,.656,7.3,13.9,10.7,0.0,0.0,0.0,5.5,24.5,150,116,17.2,6.1,Peja Stojakovic
+2008-12-06,31-180,NOH,HOME,MEM,W (+19),1,27:10,.850,.850,0.0,4.1,2.4,6.4,0.0,0.0,0.0,22.2,167,106,15.6,12.6,Peja Stojakovic
+2008-12-10,31-184,NOH,HOME,CHA,W (+16),1,26:47,.773,.773,9.2,3.8,6.3,6.1,0.0,0.0,8.3,20.8,143,112,13.1,6.7,Peja Stojakovic
+2008-12-12,31-186,NOH,AWAY,BOS,L (-12),1,29:43,.167,.167,0.0,3.9,1.8,6.1,5.5,0.0,14.3,10.9,37,104,0.4,-5.5,Peja Stojakovic
+2008-12-14,31-188,NOH,AWAY,TOR,W (+8),1,37:35,.385,.385,3.9,9.6,7.0,4.1,0.0,0.0,7.1,19.6,81,113,3.4,-8.7,Peja Stojakovic
+2008-12-16,31-190,NOH,AWAY,MEM,W (+7),1,32:45,.514,.429,0.0,8.6,4.3,12.7,0.0,0.0,18.6,16.8,90,105,3.7,-5.1,Peja Stojakovic
+2008-12-28,31-202,NOH,AWAY,IND,W (+2),1,37:00,.500,.500,8.5,17.5,12.5,4.0,4.1,0.0,7.7,16.3,105,108,11.1,0.2,Peja Stojakovic
+2008-12-30,31-204,NOH,HOME,WAS,W (+12),1,30:50,.321,.321,4.3,7.6,6.1,29.1,0.0,0.0,6.7,25.8,83,109,4.6,-7.7,Peja Stojakovic
+2009-01-02,31-207,NOH,AWAY,POR,W (+15),1,36:18,.636,.636,0.0,0.0,0.0,0.0,0.0,0.0,8.3,17.4,122,108,6.9,1.1,Peja Stojakovic
+2009-01-03,31-208,NOH,AWAY,DEN,L (-5),1,40:02,.638,.643,0.0,21.2,10.7,8.4,0.0,2.1,6.3,18.7,122,119,12.5,2.6,Peja Stojakovic
+2009-01-06,31-211,NOH,AWAY,LAL,W (+11),1,32:11,.318,.278,0.0,21.3,12.6,4.1,0.0,0.0,0.0,13.8,75,113,2.9,-5.5,Peja Stojakovic
+2009-01-07,31-212,NOH,AWAY,UTA,L (-26),1,28:01,.389,.389,0.0,8.8,4.2,6.4,0.0,0.0,0.0,16.5,79,134,2.0,-9.3,Peja Stojakovic
+2009-01-09,31-214,NOH,HOME,LAC,W (+27),1,30:39,.530,.450,0.0,17.9,8.6,9.3,0.0,0.0,0.0,18.5,120,100,8.0,-4.7,Peja Stojakovic
+2009-01-12,31-217,NOH,HOME,NYK,L (-6),1,34:36,.333,.333,2.7,15.1,8.6,19.2,1.6,2.2,0.0,15.5,99,113,6.3,-0.9,Peja Stojakovic
+2009-01-14,31-219,NOH,AWAY,DAL,W (+7),1,35:16,.571,.571,0.0,4.3,1.9,0.0,0.0,0.0,0.0,19.3,115,120,8.9,-3.7,Peja Stojakovic
+2009-01-16,31-221,NOH,AWAY,CLE,L (-14),1,39:44,.558,.538,2.8,15.5,8.8,0.0,0.0,0.0,0.0,17.6,117,116,9.7,3.4,Peja Stojakovic
+2009-01-17,31-222,NOH,AWAY,DET,W (+6),1,37:09,.402,.375,3.6,14.0,9.5,0.0,1.7,0.0,0.0,18.5,89,108,4.8,-6.8,Peja Stojakovic
+2009-01-19,31-224,NOH,HOME,IND,W (+3),1,39:18,.781,.750,3.5,9.2,6.5,11.0,1.3,0.0,5.7,21.8,146,112,21.2,9.9,Peja Stojakovic
+2009-01-21,31-226,NOH,HOME,NJN,W (+10),1,39:01,.625,.625,3.3,26.4,15.6,8.2,1.4,2.1,0.0,20.0,133,103,18.5,7.1,Peja Stojakovic
+2009-01-23,31-228,NOH,AWAY,MIN,L (-8),1,39:13,.551,.533,0.0,7.4,3.6,3.7,0.0,0.0,6.1,21.5,106,142,9.6,-7.0,Peja Stojakovic
+2009-01-26,31-231,NOH,HOME,PHI,W (+15),1,41:17,.722,.722,3.0,11.6,6.7,0.0,2.7,0.0,14.3,24.6,118,103,16.4,4.4,Peja Stojakovic
+2009-01-28,31-233,NOH,HOME,DEN,W (+13),1,40:56,.802,.786,0.0,16.3,8.3,15.8,1.3,0.0,11.0,22.2,139,94,22.0,10.2,Peja Stojakovic
+2009-01-30,31-235,NOH,HOME,GSW,L (-4),1,36:24,.431,.318,0.0,11.5,5.6,5.5,0.0,0.0,13.6,18.3,83,103,2.0,-9.4,Peja Stojakovic
+2009-01-31,31-236,NOH,AWAY,SAS,L (-13),1,31:30,.333,.333,0.0,26.1,12.7,4.1,1.7,0.0,14.3,10.7,69,117,2.7,-5.1,Peja Stojakovic
+2009-02-02,31-238,NOH,HOME,POR,L (-8),1,39:04,.491,.441,5.0,7.0,5.9,0.0,5.8,0.0,0.0,23.5,105,111,14.1,2.9,Peja Stojakovic
+2009-02-04,31-240,NOH,HOME,CHI,L (-14),1,37:43,.741,.679,8.7,16.4,11.9,13.5,4.3,0.0,15.6,22.3,132,118,22.1,11.3,Peja Stojakovic
+2009-02-06,31-242,NOH,HOME,TOR,W (+9),1,44:07,.725,.694,3.1,12.4,7.8,8.3,0.0,0.0,0.0,22.1,149,114,21.1,5.2,Peja Stojakovic
+2009-02-08,31-244,NOH,HOME,MIN,W (+4),1,39:50,.391,.182,0.0,16.8,9.2,3.9,2.8,0.0,12.4,20.8,75,110,5.8,-10.1,Peja Stojakovic
+2009-02-09,31-245,NOH,AWAY,MEM,L (-5),1,36:21,.451,.341,6.8,12.0,9.1,7.9,3.1,0.0,7.3,34.7,95,97,13.6,2.9,Peja Stojakovic
+2009-02-11,31-247,NOH,HOME,BOS,L (-12),1,30:54,.322,.292,4.3,19.9,12.4,14.6,1.8,0.0,0.0,20.4,78,103,4.6,-1.1,Peja Stojakovic
+2009-02-17,31-253,NOH,AWAY,OKC,W (+2),1,35:51,.550,.550,0.0,13.9,7.8,4.0,0.0,0.0,16.7,16.5,91,113,5.4,-5.1,Peja Stojakovic
+2009-02-18,31-254,NOH,HOME,ORL,W (+32),1,30:08,.530,.500,0.0,10.4,5.9,4.0,1.8,0.0,0.0,15.3,113,98,7.1,-2.0,Peja Stojakovic
+2009-02-20,31-256,NOH,AWAY,LAL,L (-4),1,28:40,.227,.227,0.0,7.0,3.6,4.8,0.0,0.0,0.0,17.8,53,117,-1.8,-13.3,Peja Stojakovic
+2009-02-21,31-257,NOH,AWAY,UTA,L (-14),1,36:02,.474,.438,7.8,29.2,19.5,4.8,0.0,0.0,19.2,14.8,89,116,5.6,-4.3,Peja Stojakovic
+2009-02-23,31-259,NOH,AWAY,SAC,W (+7),1,39:12,.556,.500,3.1,20.9,12.1,7.5,1.3,0.0,0.0,18.5,132,114,13.8,-1.3,Peja Stojakovic
+2009-02-25,31-261,NOH,HOME,DET,W (+3),1,36:16,.654,.654,2.8,12.6,7.4,5.4,0.0,0.0,0.0,17.2,143,109,12.9,5.8,Peja Stojakovic
+2009-02-27,31-263,NOH,HOME,MIL,W (+1),1,38:41,.433,.433,3.0,7.2,5.3,3.7,1.3,0.0,6.3,18.8,88,103,6.8,-2.0,Peja Stojakovic
+2009-03-01,31-265,NOH,AWAY,NJN,W (+3),1,32:39,.463,.409,0.0,21.5,10.0,5.3,1.6,0.0,7.8,18.0,95,105,5.4,-2.8,Peja Stojakovic
+2009-03-02,31-266,NOH,AWAY,PHI,W (+7),1,26:53,.500,.500,0.0,11.9,6.0,5.7,0.0,0.0,0.0,10.5,124,113,4.2,-2.4,Peja Stojakovic
+2009-04-03,31-298,NOH,AWAY,GSW,L (-8),0,25:04,.438,.438,0.0,4.8,2.2,5.6,0.0,0.0,0.0,13.7,101,126,3.2,-6.0,Peja Stojakovic
+2009-04-05,31-300,NOH,HOME,UTA,L (-14),0,25:52,.381,.429,5.0,4.9,4.9,10.8,4.2,0.0,0.0,15.0,96,119,5.1,0.3,Peja Stojakovic
+2009-04-07,31-302,NOH,AWAY,MIA,W (+6),1,46:00,.594,.528,0.0,17.3,8.1,0.0,4.9,0.0,4.7,23.0,116,90,18.6,9.4,Peja Stojakovic
+2009-04-08,31-303,NOH,HOME,PHO,L (-5),1,38:29,.705,.636,0.0,24.9,10.9,3.5,5.5,0.0,0.0,15.3,148,107,17.9,9.9,Peja Stojakovic
+2009-04-10,31-305,NOH,AWAY,DAL,L (-8),1,34:46,.571,.500,3.2,2.8,3.0,0.0,0.0,0.0,0.0,11.6,127,128,5.9,-2.7,Peja Stojakovic
+2009-04-12,31-307,NOH,HOME,DAL,W (+10),1,39:23,.463,.455,0.0,15.2,9.5,3.5,0.0,0.0,7.8,17.8,84,112,5.6,-4.9,Peja Stojakovic
+2009-04-13,31-308,NOH,AWAY,HOU,L (-20),1,29:14,.143,.143,0.0,4.6,2.0,0.0,0.0,0.0,0.0,12.0,34,114,-2.6,-12.8,Peja Stojakovic
+2009-04-15,31-310,NOH,AWAY,SAS,L (-7),1,41:44,.250,.250,0.0,16.3,8.0,0.0,2.7,0.0,20.0,12.9,39,109,0.7,-8.3,Peja Stojakovic
+2001-10-30,24-143,SAC,HOME,SEA,W (+6),1,45:30,.521,.429,4.0,16.2,9.7,10.2,2.1,0.0,7.4,25.4,107,98,19.3,3.1,Peja Stojakovic
+2001-11-03,24-147,SAC,AWAY,DEN,W (+12),1,37:38,.522,.522,6.0,8.1,7.1,21.9,1.4,1.8,4.2,28.4,113,106,18.1,5.8,Peja Stojakovic
+2001-11-04,24-148,SAC,HOME,SAS,W (+20),1,27:36,.611,.611,0.0,9.2,5.1,10.3,0.0,0.0,35.7,20.7,77,94,4.0,-5.8,Peja Stojakovic
+2001-11-06,24-150,SAC,AWAY,CLE,W (+16),1,42:18,.670,.652,5.1,23.4,13.6,11.4,0.0,0.0,4.0,26.3,138,110,25.2,5.2,Peja Stojakovic
+2001-11-07,24-151,SAC,AWAY,IND,L (-12),1,44:23,.882,.844,2.4,16.0,8.8,8.4,0.0,1.4,19.7,23.9,140,119,28.0,10.6,Peja Stojakovic
+2001-11-09,24-153,SAC,AWAY,ORL,L (-10),1,42:55,.706,.639,4.6,8.3,6.5,13.5,1.1,0.0,21.5,25.9,115,112,20.9,5.0,Peja Stojakovic
+2001-11-10,24-154,SAC,AWAY,MIA,W (+15),1,35:28,.584,.393,3.4,16.7,10.2,0.0,3.1,0.0,17.5,30.3,105,84,13.6,3.2,Peja Stojakovic
+2001-11-13,24-157,SAC,HOME,TOR,W (+9),1,33:05,.291,.167,0.0,14.2,7.2,16.1,0.0,0.0,26.7,25.0,61,103,-1.4,-14.4,Peja Stojakovic
+2001-11-16,24-160,SAC,HOME,CHI,W (+34),1,27:02,.661,.633,0.0,26.7,12.9,14.2,1.9,0.0,11.2,30.0,117,76,15.9,6.5,Peja Stojakovic
+2001-11-18,24-162,SAC,AWAY,LAL,L (-8),1,43:53,.586,.550,0.0,10.1,5.5,10.9,0.0,1.5,12.3,24.2,104,106,15.2,2.7,Peja Stojakovic
+2001-11-19,24-163,SAC,HOME,HOU,W (+36),1,32:39,.717,.706,7.1,12.6,10.0,4.5,0.0,0.0,10.3,26.2,130,90,18.0,5.5,Peja Stojakovic
+2001-11-21,24-165,SAC,HOME,POR,W (+12),1,32:33,.483,.500,3.0,3.5,3.2,11.2,1.6,0.0,0.0,28.8,110,96,12.8,6.3,Peja Stojakovic
+2001-11-24,24-168,SAC,HOME,NJN,W (+1),1,45:22,.532,.409,0.0,6.8,3.3,11.8,3.1,0.0,3.5,26.8,108,95,21.4,6.1,Peja Stojakovic
+2001-11-26,24-170,SAC,AWAY,MEM,L (-4),1,42:06,.553,.553,2.5,9.9,6.2,4.6,2.4,0.0,5.0,21.1,104,103,14.1,2.2,Peja Stojakovic
+2001-11-27,24-171,SAC,AWAY,HOU,W (+5),1,45:21,.543,.474,0.0,15.2,7.9,20.2,1.2,0.0,15.3,27.1,98,94,16.1,0.4,Peja Stojakovic
+2001-11-29,24-173,SAC,AWAY,DAL,W (+12),1,41:54,.755,.737,0.0,15.6,8.0,4.1,2.5,0.0,4.5,22.8,154,107,26.6,12.5,Peja Stojakovic
+2001-11-30,24-174,SAC,AWAY,SAS,W (+3),1,38:32,.511,.389,6.0,18.1,12.1,3.9,0.0,0.0,31.7,19.2,79,109,4.8,-6.0,Peja Stojakovic
+2001-12-02,24-176,SAC,HOME,DAL,L (-6),1,48:51,.603,.525,4.0,16.6,9.3,13.9,1.1,0.0,7.2,23.9,128,122,23.2,5.9,Peja Stojakovic
+2001-12-04,24-178,SAC,HOME,PHI,W (+10),1,34:32,.625,.625,5.4,28.0,16.5,15.8,1.6,0.0,15.8,23.4,113,90,16.1,9.2,Peja Stojakovic
+2001-12-07,24-181,SAC,HOME,LAL,W (+6),1,43:00,.713,.643,0.0,17.9,9.9,22.2,0.0,0.0,14.6,22.8,124,101,19.3,8.4,Peja Stojakovic
+2001-12-09,24-183,SAC,HOME,MIA,W (+7),1,42:13,.519,.344,0.0,8.4,4.3,9.0,1.3,0.0,11.9,29.7,99,103,11.7,-1.6,Peja Stojakovic
+2001-12-11,24-185,SAC,HOME,ORL,W (+12),1,38:09,.592,.579,2.8,7.7,5.4,15.6,2.6,0.0,9.3,24.0,116,106,16.9,3.0,Peja Stojakovic
+2001-12-12,24-186,SAC,AWAY,PHO,L (-26),1,29:16,.338,.250,0.0,6.4,3.4,9.8,1.7,1.8,18.4,16.2,68,122,2.1,-8.7,Peja Stojakovic
+2001-12-14,24-188,SAC,AWAY,MIN,L (-20),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2001-12-16,24-190,SAC,HOME,MEM,W (+17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2001-12-18,24-192,SAC,HOME,DET,W (+4),1,40:51,.540,.400,3.2,5.2,4.3,7.6,1.2,0.0,5.1,21.4,120,108,13.8,0.5,Peja Stojakovic
+2001-12-19,24-193,SAC,AWAY,SEA,L (-12),1,35:43,.703,.550,2.8,8.1,5.0,4.5,2.8,0.0,12.9,20.0,128,112,15.6,4.0,Peja Stojakovic
+2001-12-22,24-196,SAC,AWAY,LAC,L (-16),1,33:11,.219,.219,3.0,6.2,4.5,18.4,1.6,0.0,5.9,23.7,57,111,0.3,-10.2,Peja Stojakovic
+2001-12-23,24-197,SAC,HOME,PHO,W (+32),1,40:11,.544,.543,6.9,14.1,11.2,9.3,0.0,0.0,0.0,24.8,133,106,19.2,0.5,Peja Stojakovic
+2001-12-26,24-200,SAC,HOME,POR,W (+15),1,37:27,.559,.559,10.4,8.6,9.6,11.1,1.4,0.0,5.6,22.2,115,86,15.8,7.1,Peja Stojakovic
+2001-12-28,24-202,SAC,HOME,MIN,W (+14),1,43:18,.630,.643,3.2,16.3,10.3,6.6,1.2,0.0,8.5,24.5,119,118,18.8,0.8,Peja Stojakovic
+2001-12-30,24-204,SAC,HOME,BOS,W (+15),1,40:21,.566,.553,2.7,8.9,6.1,17.6,2.6,0.0,4.7,24.1,116,102,18.2,5.2,Peja Stojakovic
+2002-01-02,24-207,SAC,HOME,LAC,W (+14),1,36:04,.389,.389,5.0,11.9,8.2,19.0,2.9,0.0,5.3,22.8,95,100,10.1,-1.9,Peja Stojakovic
+2002-01-05,24-210,SAC,AWAY,PHO,W (+6),1,40:27,.741,.719,3.1,4.5,3.9,16.0,2.3,0.0,5.6,19.3,145,112,21.7,7.0,Peja Stojakovic
+2002-01-06,24-211,SAC,HOME,MIL,W (+14),1,44:09,.806,.806,0.0,5.7,2.8,9.6,1.2,0.0,5.3,19.0,152,116,21.9,7.5,Peja Stojakovic
+2002-01-13,24-218,SAC,HOME,PHO,W (+3),1,46:19,.494,.375,4.7,13.0,9.1,19.5,2.2,0.0,3.8,24.4,117,106,20.7,4.3,Peja Stojakovic
+2002-01-15,24-220,SAC,HOME,CLE,W (+7),1,44:18,.734,.667,2.5,8.6,5.4,16.2,2.4,0.0,3.9,26.6,150,113,30.7,13.4,Peja Stojakovic
+2002-01-16,24-221,SAC,AWAY,DEN,W (+5),1,43:05,.640,.575,3.2,17.4,11.2,10.9,1.1,0.0,4.2,24.7,129,111,23.1,3.1,Peja Stojakovic
+2002-01-18,24-223,SAC,HOME,GSW,W (+24),1,39:28,.601,.500,3.0,8.0,5.7,6.4,0.0,0.0,5.7,18.8,129,104,13.8,-1.2,Peja Stojakovic
+2002-01-21,24-226,SAC,HOME,MEM,W (+14),1,34:01,.577,.531,0.0,12.1,4.9,8.1,4.3,0.0,5.2,22.9,121,97,16.5,5.2,Peja Stojakovic
+2002-01-22,24-227,SAC,AWAY,POR,L (-6),1,44:14,.509,.444,0.0,4.9,2.7,3.4,0.0,0.0,12.7,26.0,86,121,8.7,-6.9,Peja Stojakovic
+2002-01-24,24-229,SAC,HOME,UTA,W (+33),1,33:46,.631,.571,0.0,14.1,7.3,4.5,0.0,0.0,5.7,22.0,127,88,14.8,5.1,Peja Stojakovic
+2002-01-26,24-231,SAC,AWAY,UTA,W (+24),1,40:05,.675,.567,5.9,12.8,9.5,15.7,1.3,0.0,9.7,22.4,140,100,21.2,8.0,Peja Stojakovic
+2002-01-31,24-236,SAC,AWAY,SEA,W (+4),1,43:09,.606,.545,4.3,13.0,8.2,6.0,3.5,0.0,10.2,28.7,119,100,23.4,8.6,Peja Stojakovic
+2002-02-01,24-237,SAC,HOME,DEN,W (+36),1,29:07,.784,.773,3.8,2.9,3.2,0.0,3.5,0.0,0.0,17.9,173,105,18.1,9.3,Peja Stojakovic
+2002-02-03,24-239,SAC,AWAY,MIN,W (+5),1,39:43,.631,.571,0.0,4.9,2.9,20.8,1.2,0.0,5.7,19.7,128,113,17.2,6.5,Peja Stojakovic
+2002-02-04,24-240,SAC,AWAY,NJN,L (-34),1,32:45,.444,.393,11.9,10.6,11.3,6.4,2.9,0.0,20.2,24.1,83,117,7.0,-2.4,Peja Stojakovic
+2002-02-06,24-242,SAC,AWAY,BOS,W (+17),1,38:59,.676,.625,0.0,11.2,6.5,9.5,2.5,0.0,14.5,24.4,111,89,17.9,3.9,Peja Stojakovic
+2002-02-07,24-243,SAC,AWAY,WAS,L (-7),1,42:54,.450,.375,2.4,14.3,8.3,10.7,2.5,1.3,0.0,19.2,108,115,13.3,0.1,Peja Stojakovic
+2002-02-12,24-248,SAC,HOME,SAS,W (+13),1,34:26,.554,.500,8.2,8.1,8.1,9.6,2.9,1.6,16.2,29.3,103,92,16.4,8.0,Peja Stojakovic
+2002-02-14,24-250,SAC,HOME,WAS,W (+16),1,31:25,.706,.679,0.0,16.5,8.1,0.0,3.1,0.0,6.3,21.7,127,92,16.1,6.1,Peja Stojakovic
+2002-02-17,24-253,SAC,HOME,SEA,L (-10),1,44:26,.540,.433,0.0,18.2,9.0,3.5,0.0,0.0,5.1,18.4,114,133,12.5,-3.7,Peja Stojakovic
+2002-02-19,24-255,SAC,HOME,ATL,W (+20),1,41:00,.429,.429,3.2,14.9,9.8,7.3,4.0,0.0,0.0,16.6,105,89,11.1,0.4,Peja Stojakovic
+2002-02-21,24-257,SAC,AWAY,SAS,L (-23),1,31:24,.500,.500,0.0,11.3,5.4,0.0,0.0,0.0,8.3,16.9,89,127,4.8,-7.4,Peja Stojakovic
+2002-02-23,24-259,SAC,AWAY,DAL,L (-14),1,40:07,.429,.344,6.8,8.8,7.7,0.0,0.0,0.0,13.9,22.9,83,122,6.0,-9.1,Peja Stojakovic
+2002-02-26,24-262,SAC,HOME,UTA,W (+26),1,35:07,.654,.545,0.0,14.4,6.2,4.4,1.4,0.0,12.1,19.1,123,86,12.6,3.2,Peja Stojakovic
+2002-03-01,24-265,SAC,AWAY,GSW,W (+8),1,41:37,.867,.867,0.0,11.0,6.3,23.2,1.1,2.9,11.8,17.2,149,110,25.5,11.0,Peja Stojakovic
+2002-03-03,24-267,SAC,HOME,IND,L (-11),1,38:41,.466,.444,4.1,17.6,9.7,23.0,0.0,0.0,20.6,25.7,82,99,7.2,-2.0,Peja Stojakovic
+2002-03-04,24-268,SAC,AWAY,POR,L (-12),1,36:21,.693,.647,3.4,21.1,12.1,16.7,0.0,0.0,17.6,30.1,117,124,16.3,5.2,Peja Stojakovic
+2002-03-08,24-272,SAC,HOME,CHH,W (+12),1,36:33,.648,.567,3.2,16.9,10.6,9.7,0.0,0.0,5.1,23.4,131,96,18.0,6.0,Peja Stojakovic
+2002-03-10,24-274,SAC,AWAY,MIL,W (+25),1,30:40,.606,.594,3.6,3.7,3.6,5.5,3.5,2.4,0.0,26.4,122,83,17.0,10.3,Peja Stojakovic
+2002-03-11,24-275,SAC,AWAY,CHI,W (+4),1,43:27,.674,.583,9.1,13.3,11.0,11.6,1.2,1.5,4.4,21.2,157,114,25.9,9.4,Peja Stojakovic
+2002-03-13,24-277,SAC,AWAY,PHI,W (+4),1,35:34,.591,.531,2.7,11.9,7.1,11.0,0.0,3.8,10.1,24.9,112,102,15.3,4.4,Peja Stojakovic
+2002-03-14,24-278,SAC,AWAY,NYK,L (-17),1,25:54,.400,.400,0.0,8.8,3.9,0.0,2.0,2.4,16.7,29.4,68,120,2.0,-11.2,Peja Stojakovic
+2002-03-17,24-281,SAC,AWAY,TOR,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2002-03-19,24-283,SAC,HOME,HOU,W (+23),1,1:21,.000,.000,0.0,0.0,0.0,100.0,51.3,0.0,0.0,44.0,54,4,1.0,39.0,Peja Stojakovic
+2002-03-21,24-285,SAC,HOME,DEN,W (+36),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2002-03-24,24-288,SAC,HOME,LAL,L (-1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2002-03-26,24-290,SAC,HOME,LAC,W (+17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2002-03-28,24-292,SAC,AWAY,HOU,W (+27),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2002-03-29,24-293,SAC,AWAY,CHH,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2002-03-31,24-295,SAC,AWAY,ATL,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2002-04-02,24-297,SAC,AWAY,MEM,W (+24),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2002-04-03,24-298,SAC,AWAY,DET,W (+21),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2002-04-05,24-300,SAC,AWAY,UTA,W (+8),1,37:56,.817,.773,3.9,8.4,6.6,10.8,2.6,0.0,17.6,20.2,135,115,18.8,5.5,Peja Stojakovic
+2002-04-07,24-302,SAC,HOME,NYK,W (+34),1,26:41,.591,.591,0.0,0.0,0.0,14.7,5.5,0.0,15.4,20.3,107,85,10.4,5.4,Peja Stojakovic
+2002-04-09,24-304,SAC,HOME,MIN,W (+19),1,30:11,.686,.700,0.0,22.3,11.3,4.5,1.7,0.0,0.0,24.4,141,107,18.4,8.3,Peja Stojakovic
+2002-04-10,24-305,SAC,AWAY,GSW,W (+2),1,38:34,.741,.679,0.0,11.1,6.7,10.9,2.5,0.0,15.6,21.7,126,112,19.6,3.1,Peja Stojakovic
+2002-04-12,24-307,SAC,AWAY,LAC,W (+19),1,41:48,.568,.545,3.6,22.1,12.7,14.1,1.3,1.6,4.0,27.2,129,117,21.5,2.6,Peja Stojakovic
+2002-04-14,24-309,SAC,HOME,DAL,L (-13),1,31:27,.427,.375,0.0,20.6,10.2,5.4,0.0,0.0,7.2,19.6,89,124,5.7,-6.0,Peja Stojakovic
+2002-04-16,24-311,SAC,HOME,GSW,W (+14),1,33:06,.585,.500,7.3,9.3,8.4,18.1,1.4,0.0,10.5,23.5,125,106,16.6,4.1,Peja Stojakovic
+2002-04-17,24-312,SAC,AWAY,LAL,L (-14),1,22:51,.317,.286,4.6,12.0,8.6,6.2,2.1,0.0,20.2,18.9,63,111,1.4,-8.6,Peja Stojakovic
+2000-10-31,23-144,SAC,AWAY,CHI,W (+19),1,39:20,.856,.885,4.6,22.1,14.9,8.9,4.1,0.0,13.0,19.3,135,87,22.3,11.3,Peja Stojakovic
+2000-11-01,23-145,SAC,AWAY,CLE,L (-2),1,47:00,.763,.708,7.7,3.0,5.5,5.8,2.4,0.0,28.5,21.4,109,104,14.9,4.4,Peja Stojakovic
+2000-11-03,23-147,SAC,AWAY,DET,W (+7),1,32:12,.400,.417,0.0,11.8,4.9,16.1,4.8,0.0,12.7,19.4,86,97,6.2,-1.0,Peja Stojakovic
+2000-11-04,23-148,SAC,AWAY,MIN,L (-8),1,41:13,.560,.500,7.6,5.6,6.7,13.2,0.0,0.0,0.0,20.7,131,112,17.3,7.0,Peja Stojakovic
+2000-11-06,23-150,SAC,HOME,POR,W (+4),1,40:16,.091,.091,2.5,13.0,7.7,8.1,1.4,0.0,15.4,15.7,29,90,-2.7,-11.0,Peja Stojakovic
+2000-11-08,23-152,SAC,HOME,GSW,W (+31),1,27:06,.715,.694,4.0,11.9,7.9,6.3,4.9,0.0,9.6,31.2,121,74,21.3,13.0,Peja Stojakovic
+2000-11-10,23-154,SAC,AWAY,GSW,W (+7),1,37:37,.535,.591,5.9,0.0,3.0,14.1,0.0,1.8,11.8,19.8,100,110,9.3,-2.3,Peja Stojakovic
+2000-11-12,23-156,SAC,HOME,DAL,W (+25),1,37:47,.709,.667,0.0,10.1,6.1,19.2,0.0,0.0,4.8,26.3,133,96,20.8,7.9,Peja Stojakovic
+2000-11-14,23-158,SAC,HOME,ORL,W (+14),1,43:21,.599,.526,7.2,22.3,16.2,12.9,6.0,0.0,18.2,29.5,104,79,22.3,7.6,Peja Stojakovic
+2000-11-16,23-160,SAC,HOME,LAL,L (-2),1,51:04,.491,.423,8.8,31.4,19.6,10.5,0.0,0.0,3.3,28.7,112,114,21.0,-0.3,Peja Stojakovic
+2000-11-22,23-166,SAC,HOME,CHI,W (+29),1,26:37,.630,.556,4.0,6.8,5.6,11.8,0.0,2.4,16.2,19.6,114,79,8.5,-0.2,Peja Stojakovic
+2000-11-25,23-169,SAC,HOME,SEA,W (+24),1,40:24,.843,.833,0.0,12.8,6.7,13.0,2.4,1.7,5.5,17.9,166,102,28.1,12.9,Peja Stojakovic
+2000-11-28,23-172,SAC,AWAY,HOU,W (+7),1,38:49,.540,.500,0.0,3.0,1.4,4.2,0.0,0.0,6.7,18.0,108,103,8.3,-0.9,Peja Stojakovic
+2000-11-29,23-173,SAC,AWAY,SAS,L (-3),1,34:05,.405,.333,8.6,14.4,11.5,0.0,0.0,0.0,9.2,26.2,94,95,6.2,-1.0,Peja Stojakovic
+2000-12-01,23-175,SAC,HOME,PHO,W (+7),1,36:43,.563,.500,0.0,9.6,5.6,6.7,1.3,0.0,18.4,12.8,100,103,6.0,-4.5,Peja Stojakovic
+2000-12-05,23-179,SAC,HOME,SAS,W (+6),1,41:52,.220,.200,4.3,19.5,11.4,8.0,0.0,0.0,20.1,20.3,46,84,-2.3,-10.9,Peja Stojakovic
+2000-12-08,23-182,SAC,HOME,HOU,W (+13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2000-12-10,23-184,SAC,HOME,MIA,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2000-12-12,23-186,SAC,AWAY,ATL,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2000-12-13,23-187,SAC,AWAY,CHH,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2000-12-15,23-189,SAC,AWAY,BOS,W (+23),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Peja Stojakovic
+2000-12-17,23-191,SAC,AWAY,NJN,W (+16),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Peja Stojakovic
+2000-12-19,23-193,SAC,HOME,WAS,W (+34),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2000-12-20,23-194,SAC,AWAY,SEA,L (-4),1,37:46,.818,.818,0.0,16.1,8.8,16.4,0.0,0.0,15.4,15.5,131,99,14.9,8.1,Peja Stojakovic
+2000-12-22,23-196,SAC,AWAY,VAN,W (+2),1,39:57,.666,.643,2.7,17.5,10.4,3.9,1.3,0.0,0.0,18.7,136,103,17.3,5.4,Peja Stojakovic
+2000-12-23,23-197,SAC,HOME,SEA,W (+5),1,32:07,.376,.208,13.3,13.3,13.3,5.0,3.1,0.0,12.0,21.2,92,92,7.3,-0.8,Peja Stojakovic
+2000-12-28,23-202,SAC,HOME,CHH,W (+4),1,40:47,.463,.447,10.0,10.2,10.1,4.4,1.3,0.0,4.9,22.7,100,101,11.0,0.1,Peja Stojakovic
+2000-12-30,23-204,SAC,HOME,PHI,L (-3),1,47:17,.676,.600,4.5,12.3,8.2,8.4,0.0,0.0,0.0,25.1,142,117,25.3,8.0,Peja Stojakovic
+2001-01-02,23-207,SAC,HOME,PHO,W (+4),1,46:28,.721,.705,0.0,19.9,11.4,12.3,0.0,0.0,8.0,24.3,133,111,24.8,6.8,Peja Stojakovic
+2001-01-05,23-210,SAC,HOME,IND,L (-2),1,43:30,.350,.350,4.1,13.4,8.1,0.0,0.0,0.0,23.1,12.4,65,98,0.7,-6.6,Peja Stojakovic
+2001-01-08,23-213,SAC,HOME,MIN,W (+3),1,33:55,.813,.769,7.2,21.0,14.8,10.3,1.5,0.0,11.9,22.0,144,101,20.8,9.8,Peja Stojakovic
+2001-01-10,23-215,SAC,HOME,CLE,W (+5),1,41:41,.687,.618,8.0,14.6,11.4,23.2,4.6,0.0,20.3,24.0,121,100,25.8,8.8,Peja Stojakovic
+2001-01-12,23-217,SAC,AWAY,DEN,L (-13),1,30:32,.388,.333,0.0,0.0,0.0,10.1,0.0,2.1,13.4,21.2,72,115,3.3,-8.6,Peja Stojakovic
+2001-01-13,23-218,SAC,AWAY,HOU,W (+3),1,44:30,.474,.474,4.5,7.6,6.0,9.8,5.9,0.0,9.5,21.3,92,84,14.6,5.9,Peja Stojakovic
+2001-01-15,23-220,SAC,AWAY,DAL,W (+11),1,41:50,.638,.607,0.0,16.3,9.5,0.0,3.5,1.9,11.8,18.8,107,103,15.0,1.3,Peja Stojakovic
+2001-01-17,23-222,SAC,HOME,BOS,W (+5),1,44:38,.597,.575,3.1,15.7,9.4,9.6,2.3,0.0,4.4,23.8,126,117,19.3,-1.5,Peja Stojakovic
+2001-01-20,23-225,SAC,AWAY,POR,W (+10),1,38:41,.751,.708,3.5,14.5,8.9,14.3,1.3,0.0,13.1,18.2,140,114,17.3,5.7,Peja Stojakovic
+2001-01-21,23-226,SAC,AWAY,SEA,L (-2),1,39:07,.800,.765,4.8,0.0,2.6,9.0,2.6,0.0,9.6,21.9,150,120,24.5,11.8,Peja Stojakovic
+2001-01-23,23-228,SAC,HOME,NJN,W (+26),1,32:53,.652,.656,3.6,14.8,9.8,0.0,0.0,1.7,10.6,24.4,122,113,14.5,-1.6,Peja Stojakovic
+2001-01-25,23-230,SAC,HOME,SAS,L (-6),1,42:53,.589,.500,4.1,13.3,8.1,13.3,0.0,0.0,4.9,21.3,124,111,17.8,5.3,Peja Stojakovic
+2001-01-27,23-232,SAC,AWAY,LAC,W (+12),1,42:32,.388,.300,2.4,13.6,7.7,6.3,2.7,1.5,0.0,18.6,101,104,9.6,-3.7,Peja Stojakovic
+2001-01-30,23-235,SAC,HOME,GSW,W (+26),1,31:38,.576,.538,0.0,6.6,3.9,22.7,0.0,0.0,0.0,18.2,136,93,13.7,6.2,Peja Stojakovic
+2001-02-02,23-238,SAC,HOME,VAN,W (+10),1,35:26,.723,.650,0.0,11.0,6.2,4.8,1.4,0.0,20.3,18.3,116,103,11.5,0.4,Peja Stojakovic
+2001-02-04,23-240,SAC,AWAY,LAL,L (-6),1,29:03,.292,.292,6.6,12.4,9.2,0.0,3.5,0.0,7.7,18.6,69,106,2.7,-6.2,Peja Stojakovic
+2001-02-06,23-242,SAC,AWAY,MIL,L (-3),1,36:20,.681,.656,3.0,13.7,7.9,4.9,1.3,0.0,15.1,23.0,114,114,14.4,2.0,Peja Stojakovic
+2001-02-07,23-243,SAC,AWAY,MIN,L (-29),1,28:08,.274,.182,3.3,14.7,7.9,16.8,1.8,0.0,0.0,19.9,77,124,4.4,-7.8,Peja Stojakovic
+2001-02-13,23-249,SAC,AWAY,UTA,W (+3),1,45:04,.420,.350,6.7,11.5,9.1,4.7,1.2,0.0,0.0,24.4,100,103,11.5,0.4,Peja Stojakovic
+2001-02-15,23-251,SAC,AWAY,POR,L (-24),1,30:30,.429,.429,3.6,12.6,7.7,13.1,0.0,0.0,12.5,23.2,83,119,5.6,-6.0,Peja Stojakovic
+2001-02-16,23-252,SAC,HOME,DEN,W (+33),1,35:12,.698,.711,8.3,6.0,6.9,9.2,1.5,0.0,8.8,30.9,124,97,21.3,6.4,Peja Stojakovic
+2001-02-18,23-254,SAC,HOME,UTA,L (-4),1,38:52,.509,.435,6.2,5.5,5.8,0.0,0.0,0.0,0.0,32.4,117,122,15.3,-0.7,Peja Stojakovic
+2001-02-20,23-256,SAC,HOME,ATL,W (+14),1,40:56,.417,.381,6.1,5.3,5.7,0.0,3.9,0.0,8.1,25.2,93,91,10.0,-1.1,Peja Stojakovic
+2001-02-22,23-258,SAC,AWAY,WAS,W (+5),1,43:36,.661,.607,0.0,2.1,1.3,3.5,1.2,1.5,15.3,20.5,116,127,13.9,-3.9,Peja Stojakovic
+2001-02-23,23-259,SAC,AWAY,TOR,W (+1),1,56:26,.616,.586,2.3,23.3,13.1,12.4,2.0,1.3,5.9,28.7,123,101,29.5,11.4,Peja Stojakovic
+2001-02-25,23-261,SAC,AWAY,NYK,L (-2),1,43:03,.765,.765,0.0,15.9,7.8,37.7,2.6,0.0,10.5,22.9,136,102,23.7,14.6,Peja Stojakovic
+2001-02-27,23-263,SAC,HOME,LAC,W (+13),1,44:01,.536,.500,0.0,11.2,5.5,12.9,0.0,0.0,0.0,26.1,116,104,15.3,1.0,Peja Stojakovic
+2001-02-28,23-264,SAC,AWAY,GSW,W (+21),1,32:53,.732,.625,3.2,11.6,7.7,4.0,4.3,0.0,10.9,22.9,138,99,21.6,6.6,Peja Stojakovic
+2001-03-02,23-266,SAC,AWAY,LAC,L (-7),1,43:42,.742,.750,0.0,6.7,3.6,15.8,0.0,0.0,12.6,27.3,127,108,20.3,11.0,Peja Stojakovic
+2001-03-06,23-270,SAC,HOME,TOR,W (+7),1,38:02,.278,.278,6.6,10.1,8.3,0.0,2.7,1.6,14.3,22.1,63,96,1.6,-7.2,Peja Stojakovic
+2001-03-07,23-271,SAC,AWAY,PHO,W (+11),1,10:38,.286,.286,19.4,9.7,14.5,0.0,0.0,0.0,12.5,30.8,72,101,-0.2,-16.3,Peja Stojakovic
+2001-03-09,23-273,SAC,HOME,DEN,W (+6),1,39:03,.656,.500,2.9,10.9,7.1,11.7,2.6,0.0,9.9,22.1,132,110,19.7,3.9,Peja Stojakovic
+2001-03-11,23-275,SAC,HOME,UTA,W (+15),1,38:08,.772,.735,3.3,18.6,10.5,17.1,2.7,0.0,4.7,25.4,152,100,27.6,15.3,Peja Stojakovic
+2001-03-13,23-277,SAC,AWAY,ORL,W (+6),1,47:37,.574,.525,0.0,12.7,6.8,20.4,2.1,0.0,12.1,22.8,107,103,17.7,2.8,Peja Stojakovic
+2001-03-14,23-278,SAC,AWAY,MIA,L (-10),1,36:39,.521,.500,5.6,8.0,6.8,14.5,0.0,0.0,0.0,21.2,120,126,12.9,0.3,Peja Stojakovic
+2001-03-16,23-280,SAC,AWAY,PHI,W (+21),1,42:00,.738,.708,0.0,9.5,5.6,25.8,2.7,1.6,28.0,21.3,115,93,17.2,8.5,Peja Stojakovic
+2001-03-18,23-282,SAC,AWAY,IND,L (-6),1,41:31,.608,.575,0.0,10.8,5.6,12.9,1.3,0.0,0.0,23.8,130,110,20.8,8.7,Peja Stojakovic
+2001-03-20,23-284,SAC,HOME,HOU,W (+16),1,37:33,.786,.778,5.1,11.5,8.7,3.7,1.3,0.0,14.0,25.5,132,115,21.5,3.1,Peja Stojakovic
+2001-03-22,23-286,SAC,HOME,DET,W (+5),1,37:16,.713,.607,0.0,6.3,4.0,4.1,2.6,0.0,0.0,20.3,148,102,20.8,8.5,Peja Stojakovic
+2001-03-25,23-289,SAC,HOME,LAL,L (-12),1,35:23,.375,.375,0.0,30.8,15.4,0.0,0.0,0.0,14.3,17.3,69,94,2.7,-4.0,Peja Stojakovic
+2001-03-27,23-291,SAC,HOME,NYK,W (+7),1,50:13,.674,.639,5.2,16.9,11.2,10.1,0.0,0.0,15.7,22.9,119,113,20.0,2.6,Peja Stojakovic
+2001-03-28,23-292,SAC,AWAY,LAL,W (+24),1,39:04,.516,.475,0.0,6.7,4.1,0.0,2.6,0.0,4.5,27.0,98,93,12.7,-2.5,Peja Stojakovic
+2001-03-30,23-294,SAC,HOME,MIN,W (+12),1,40:21,.485,.357,2.6,13.6,8.5,12.0,3.5,0.0,14.6,20.1,99,95,13.4,0.6,Peja Stojakovic
+2001-04-01,23-296,SAC,HOME,DAL,L (-12),1,46:58,.629,.563,7.5,11.9,9.7,3.1,1.0,0.0,17.3,20.9,110,120,15.3,-0.8,Peja Stojakovic
+2001-04-03,23-298,SAC,HOME,MIL,L (-6),1,41:57,.439,.396,4.1,14.0,8.7,0.0,0.0,0.0,10.3,27.1,88,112,8.4,-4.2,Peja Stojakovic
+2001-04-05,23-300,SAC,AWAY,UTA,W (+6),1,43:54,.640,.531,2.5,13.3,7.8,4.3,1.2,0.0,13.3,23.5,119,100,16.7,3.3,Peja Stojakovic
+2001-04-06,23-301,SAC,AWAY,VAN,W (+28),1,32:43,.464,.412,3.6,2.8,3.2,16.2,0.0,0.0,5.2,26.2,107,107,9.9,-6.5,Peja Stojakovic
+2001-04-08,23-303,SAC,HOME,POR,W (+9),1,35:34,.540,.433,4.6,8.5,6.3,15.4,1.4,0.0,9.7,24.2,113,97,14.5,5.8,Peja Stojakovic
+2001-04-10,23-305,SAC,HOME,LAC,W (+7),1,46:00,.658,.559,0.0,21.3,12.0,13.3,2.3,1.3,4.6,21.8,135,103,25.0,8.9,Peja Stojakovic
+2001-04-12,23-307,SAC,AWAY,SAS,W (+2),1,36:02,.396,.333,0.0,6.0,3.1,0.0,0.0,0.0,16.5,28.7,69,106,0.8,-12.1,Peja Stojakovic
+2001-04-13,23-308,SAC,AWAY,DAL,L (-4),1,41:11,.498,.400,0.0,17.3,9.5,7.8,1.2,0.0,10.0,20.5,101,103,11.5,-0.2,Peja Stojakovic
+2001-04-15,23-310,SAC,AWAY,PHO,L (-2),1,36:19,.447,.400,5.6,23.0,15.1,19.5,4.1,1.6,15.2,23.8,88,81,13.2,7.5,Peja Stojakovic
+2001-04-16,23-311,SAC,HOME,VAN,W (+10),1,39:01,.685,.650,2.7,14.3,8.3,22.6,1.2,0.0,8.1,26.0,135,104,25.3,10.1,Peja Stojakovic
+2001-04-18,23-313,SAC,AWAY,DEN,L (-10),1,20:41,.500,.500,0.0,8.2,4.4,25.8,0.0,0.0,15.4,26.9,88,121,6.0,-5.2,Peja Stojakovic
+2005-11-01,28-145,SAC,AWAY,NOK,L (-26),1,33:55,.541,.429,2.5,13.3,6.4,7.9,1.5,0.0,5.7,23.5,108,101,12.5,7.1,Peja Stojakovic
+2005-11-02,28-146,SAC,AWAY,HOU,L (-9),1,36:10,.349,.269,3.0,5.6,4.4,17.7,0.0,0.0,21.8,22.2,71,114,-0.2,-10.4,Peja Stojakovic
+2005-11-06,28-150,SAC,AWAY,PHO,W (+1),1,42:52,.770,.762,4.5,3.5,4.1,3.8,1.1,0.0,8.5,21.7,145,124,24.1,7.3,Peja Stojakovic
+2005-11-08,28-152,SAC,HOME,DET,L (-14),1,31:45,.346,.346,3.7,0.0,2.0,0.0,1.8,0.0,7.1,21.4,70,123,1.8,-10.2,Peja Stojakovic
+2005-11-09,28-153,SAC,AWAY,DEN,L (-16),1,41:00,.658,.611,5.0,13.0,8.9,10.8,0.0,0.0,0.0,22.1,139,123,19.7,8.2,Peja Stojakovic
+2005-11-11,28-155,SAC,HOME,DEN,W (+16),1,41:15,.656,.536,10.9,7.0,8.5,4.2,2.5,1.5,5.4,22.3,130,92,19.0,7.4,Peja Stojakovic
+2005-11-13,28-157,SAC,HOME,NYK,L (-10),1,44:43,.696,.588,2.6,22.1,11.4,11.1,0.0,0.0,4.3,23.6,136,110,23.9,5.5,Peja Stojakovic
+2005-11-15,28-159,SAC,HOME,UTA,W (+36),1,32:52,.685,.643,0.0,9.7,5.6,29.9,3.3,0.0,0.0,21.9,156,95,21.1,10.9,Peja Stojakovic
+2005-11-18,28-162,SAC,HOME,MIL,W (+21),1,38:46,.612,.500,6.2,12.1,9.5,22.8,0.0,0.0,6.1,19.3,133,92,17.5,4.1,Peja Stojakovic
+2005-11-20,28-164,SAC,AWAY,SEA,L (-2),1,38:56,.866,.857,0.0,11.5,6.7,12.8,1.3,0.0,6.5,19.1,154,118,20.5,8.6,Peja Stojakovic
+2005-11-29,28-173,SAC,HOME,CHA,W (+18),1,22:39,.282,.188,0.0,4.2,2.4,11.2,0.0,0.0,10.1,19.4,67,102,0.1,-11.6,Peja Stojakovic
+2005-11-30,28-174,SAC,AWAY,GSW,L (-7),1,38:28,.371,.333,0.0,8.5,4.3,6.8,0.0,0.0,9.6,12.3,78,124,0.8,-10.3,Peja Stojakovic
+2005-12-02,28-176,SAC,HOME,MIA,L (-11),1,40:13,.318,.250,0.0,13.6,6.3,11.4,0.0,0.0,0.0,19.8,75,113,4.3,-6.3,Peja Stojakovic
+2005-12-04,28-178,SAC,HOME,MIN,L (-8),1,32:40,.360,.308,7.2,14.0,10.6,5.6,0.0,0.0,17.8,24.4,69,97,1.2,-8.2,Peja Stojakovic
+2005-12-06,28-180,SAC,HOME,CLE,L (-5),1,38:40,.433,.406,3.4,12.7,8.2,8.4,1.4,0.0,18.8,25.8,77,114,3.7,-8.8,Peja Stojakovic
+2005-12-08,28-182,SAC,HOME,HOU,L (-11),1,34:23,.677,.625,4.7,22.0,14.4,14.2,1.5,0.0,8.3,17.0,132,115,13.2,4.1,Peja Stojakovic
+2005-12-10,28-184,SAC,AWAY,SEA,W (+19),1,38:39,.751,.714,0.0,6.1,3.7,3.8,4.1,0.0,16.4,23.0,120,113,17.3,3.4,Peja Stojakovic
+2005-12-11,28-185,SAC,HOME,NOK,W (+10),1,41:25,.745,.733,0.0,23.2,12.9,0.0,0.0,0.0,6.1,17.9,150,117,16.3,3.2,Peja Stojakovic
+2005-12-13,28-187,SAC,AWAY,MIN,W (+2),1,40:43,.478,.375,0.0,15.5,7.8,12.5,0.0,0.0,0.0,19.4,107,115,9.6,-3.5,Peja Stojakovic
+2005-12-14,28-188,SAC,AWAY,DET,L (-11),1,26:37,.556,.556,0.0,8.4,4.6,20.7,2.0,0.0,10.0,17.7,109,120,7.9,2.0,Peja Stojakovic
+2005-12-17,28-191,SAC,AWAY,SAS,L (-1),1,43:20,.437,.393,0.0,17.6,8.7,6.6,0.0,0.0,6.3,16.6,93,104,7.3,-2.4,Peja Stojakovic
+2005-12-19,28-193,SAC,AWAY,CHA,L (-3),1,39:41,.385,.344,3.3,8.2,6.0,17.6,1.3,0.0,5.6,20.8,91,107,6.6,-3.7,Peja Stojakovic
+2005-12-22,28-196,SAC,HOME,DAL,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2005-12-26,28-200,SAC,HOME,POR,L (-13),1,33:55,.738,.708,3.1,16.6,8.8,0.0,1.6,0.0,13.4,19.8,130,118,13.1,3.2,Peja Stojakovic
+2005-12-27,28-201,SAC,AWAY,LAC,W (+17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2005-12-30,28-204,SAC,HOME,BOS,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2006-01-03,28-208,SAC,HOME,PHI,L (-13),1,40:09,.478,.447,2.4,14.3,8.5,8.4,0.0,0.0,13.1,24.4,88,115,8.2,-4.8,Peja Stojakovic
+2006-01-06,28-211,SAC,HOME,LAC,W (+4),1,41:29,.525,.400,18.1,19.3,18.8,0.0,1.2,0.0,14.2,21.8,110,115,13.6,-5.0,Peja Stojakovic
+2006-01-08,28-213,SAC,HOME,IND,L (-25),1,24:46,.551,.500,4.3,9.0,6.6,8.7,0.0,0.0,26.9,28.1,83,122,4.2,-5.4,Peja Stojakovic
+2006-01-10,28-215,SAC,AWAY,MEM,L (-14),1,43:28,.563,.531,0.0,14.2,7.4,19.0,1.3,0.0,10.6,21.7,111,118,13.5,2.2,Peja Stojakovic
+2006-01-11,28-216,SAC,AWAY,HOU,W (+8),1,28:49,.255,.200,0.0,20.8,12.1,6.3,1.9,0.0,25.4,14.3,44,87,0.9,-9.1,Peja Stojakovic
+2006-01-13,28-218,SAC,AWAY,NOK,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2006-01-15,28-220,SAC,HOME,ORL,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2006-01-17,28-222,SAC,HOME,PHO,W (+29),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2006-01-19,28-224,SAC,HOME,LAL,W (+9),1,42:03,.472,.375,8.2,19.2,13.7,10.5,0.0,0.0,6.8,16.7,109,110,10.7,-2.9,Peja Stojakovic
+2006-01-21,28-226,SAC,AWAY,ORL,L (-5),1,40:56,.394,.313,7.6,12.7,10.2,14.5,0.0,0.0,14.5,24.7,82,91,5.1,-2.0,Peja Stojakovic
+2006-01-22,28-227,SAC,AWAY,MIA,L (-20),1,32:12,.478,.447,6.5,21.9,13.0,5.4,0.0,2.3,9.1,30.2,103,134,9.6,-2.7,Peja Stojakovic
+2006-01-31,28-236,IND,AWAY,WAS,L (-5),1,26:15,.590,.450,0.0,12.2,6.0,9.3,2.1,0.0,12.2,29.5,110,92,9.4,5.4,Peja Stojakovic
+2006-02-01,28-237,IND,HOME,LAL,W (+26),1,41:21,.640,.605,5.3,23.6,15.4,8.4,2.6,0.0,9.0,23.8,128,82,21.2,10.3,Peja Stojakovic
+2006-02-04,28-240,IND,HOME,DET,W (+8),1,33:00,.286,.286,10.2,6.3,8.5,8.6,0.0,0.0,6.7,19.6,85,109,2.8,-5.5,Peja Stojakovic
+2006-02-08,28-244,IND,HOME,POR,W (+32),1,36:37,.724,.733,3.0,7.2,5.3,19.3,1.5,4.0,5.9,19.7,155,85,20.3,16.3,Peja Stojakovic
+2006-02-10,28-246,IND,HOME,GSW,W (+12),1,38:13,.681,.656,0.0,19.0,11.4,10.6,0.0,0.0,5.6,22.6,129,104,17.0,4.8,Peja Stojakovic
+2006-02-12,28-248,IND,HOME,SAS,L (-4),1,35:01,.615,.615,3.8,20.9,13.4,5.9,0.0,0.0,0.0,18.3,127,108,12.8,3.9,Peja Stojakovic
+2006-02-15,28-251,IND,HOME,MIL,W (+11),1,32:14,.573,.559,9.9,12.9,11.5,7.4,4.9,0.0,14.7,27.5,102,82,14.9,9.3,Peja Stojakovic
+2006-02-21,28-257,IND,HOME,NOK,W (+22),1,35:08,.522,.464,0.0,27.9,14.0,4.4,0.0,0.0,0.0,19.9,122,88,10.8,-1.1,Peja Stojakovic
+2006-02-23,28-259,IND,AWAY,DET,L (-5),1,33:55,.618,.550,0.0,10.9,5.2,0.0,1.6,0.0,20.9,18.9,104,105,5.9,-0.8,Peja Stojakovic
+2006-02-24,28-260,IND,HOME,ATL,L (-5),1,45:47,.655,.614,7.7,14.5,10.9,0.0,1.2,0.0,0.0,25.5,150,119,25.6,9.0,Peja Stojakovic
+2006-02-26,28-262,IND,AWAY,NJN,W (+10),1,38:00,.656,.600,6.8,8.8,7.9,9.7,1.4,1.9,5.6,22.1,137,104,17.9,9.3,Peja Stojakovic
+2006-03-01,28-265,IND,AWAY,WAS,W (+6),1,37:49,.476,.313,9.8,14.4,12.4,4.6,0.0,0.0,9.1,26.2,107,105,10.4,-4.2,Peja Stojakovic
+2006-03-03,28-267,IND,AWAY,BOS,L (-1),1,36:33,.845,.792,0.0,13.5,7.7,0.0,0.0,0.0,22.0,25.4,116,111,15.2,2.1,Peja Stojakovic
+2006-03-05,28-269,IND,AWAY,PHI,W (+1),1,32:41,.533,.450,13.0,14.7,13.9,9.1,0.0,0.0,7.6,18.6,116,108,10.5,-0.3,Peja Stojakovic
+2006-03-07,28-271,IND,HOME,NYK,L (-15),1,33:32,.553,.467,0.0,13.0,5.4,0.0,1.6,2.6,0.0,24.0,119,119,12.5,1.3,Peja Stojakovic
+2006-03-08,28-272,IND,AWAY,HOU,L (-4),1,39:37,.638,.471,0.0,34.1,14.0,24.9,0.0,0.0,0.0,25.4,151,121,25.7,10.6,Peja Stojakovic
+2006-03-10,28-274,IND,AWAY,NOK,W (+2),1,40:26,.601,.526,0.0,15.6,7.1,5.1,1.4,0.0,12.2,27.6,118,109,15.3,5.6,Peja Stojakovic
+2006-03-12,28-276,IND,AWAY,TOR,L (-4),1,41:59,.533,.500,3.1,17.0,10.9,7.9,0.0,0.0,15.1,21.9,104,108,10.0,-0.9,Peja Stojakovic
+2006-03-13,28-277,IND,HOME,ORL,W (+14),1,35:33,.549,.455,3.8,6.6,5.3,9.1,1.5,0.0,13.6,19.9,107,97,9.2,0.5,Peja Stojakovic
+2006-03-15,28-279,IND,HOME,DEN,L (-2),1,34:29,.573,.529,0.0,7.1,3.2,10.8,4.5,0.0,5.0,25.7,119,107,15.3,5.5,Peja Stojakovic
+2006-03-17,28-281,IND,HOME,SAC,W (+5),1,40:22,.678,.654,10.1,17.9,14.3,7.3,1.3,1.7,0.0,16.6,149,103,21.6,8.3,Peja Stojakovic
+2006-03-19,28-283,IND,HOME,BOS,L (-15),1,36:15,.601,.625,5.6,16.6,10.1,16.5,0.0,0.0,0.0,16.7,133,120,13.9,5.8,Peja Stojakovic
+2006-03-21,28-285,IND,AWAY,MEM,L (-30),1,38:22,.468,.423,0.0,33.6,15.6,16.5,0.0,0.0,6.7,18.5,101,120,9.5,-0.3,Peja Stojakovic
+2006-03-22,28-286,IND,HOME,CHI,W (+10),1,31:12,.381,.357,4.2,9.8,7.3,12.7,1.6,0.0,12.2,24.3,75,95,3.6,-7.0,Peja Stojakovic
+2006-03-24,28-288,IND,HOME,DET,L (-3),1,40:48,.429,.429,3.0,18.7,11.3,10.3,0.0,4.4,6.7,18.7,88,89,9.2,3.1,Peja Stojakovic
+2006-03-26,28-290,IND,HOME,PHI,W (+13),1,36:30,.520,.469,0.0,15.5,9.4,21.2,0.0,0.0,14.8,26.2,106,96,10.4,-2.8,Peja Stojakovic
+2006-03-27,28-291,IND,AWAY,MIA,L (-5),1,35:51,.535,.500,0.0,12.8,6.3,10.9,0.0,0.0,5.3,25.0,105,113,10.6,1.1,Peja Stojakovic
+2006-03-29,28-293,IND,AWAY,ATL,L (-1),1,35:55,.816,.816,6.7,13.4,10.0,6.4,1.5,0.0,0.0,24.6,163,109,26.8,21.2,Peja Stojakovic
+2006-03-30,28-294,IND,HOME,PHO,L (-10),1,35:41,.606,.528,0.0,23.5,11.9,5.1,1.4,0.0,4.6,26.6,122,118,18.0,3.9,Peja Stojakovic
+2006-04-01,28-296,IND,AWAY,MIL,L (-7),1,36:07,.308,.308,3.9,7.8,6.3,9.0,0.0,0.0,7.1,20.0,69,118,2.1,-10.9,Peja Stojakovic
+2006-04-04,28-299,IND,AWAY,CHI,L (-6),1,29:21,.424,.393,3.9,24.8,13.1,0.0,0.0,0.0,6.1,26.1,90,120,4.4,-10.0,Peja Stojakovic
+2006-04-05,28-300,IND,HOME,TOR,W (+8),1,41:44,.648,.464,2.4,13.5,8.2,8.4,1.2,0.0,0.0,20.4,143,108,20.9,4.7,Peja Stojakovic
+2006-04-07,28-302,IND,AWAY,NYK,L (-2),1,37:04,.703,.667,14.8,9.7,12.1,17.1,0.0,0.0,0.0,30.3,154,121,26.7,14.7,Peja Stojakovic
+2006-04-09,28-304,IND,AWAY,DET,L (-25),1,31:26,.442,.417,0.0,16.6,8.8,18.7,0.0,0.0,7.4,21.3,84,116,6.1,-2.5,Peja Stojakovic
+2006-04-10,28-305,IND,HOME,NYK,W (+19),1,34:12,.643,.647,0.0,7.4,4.0,5.8,1.7,0.0,0.0,25.2,138,103,16.2,5.7,Peja Stojakovic
+2006-04-12,28-307,IND,HOME,BOS,W (+5),1,35:44,.822,.808,7.9,20.4,14.0,4.6,3.0,0.0,20.8,24.0,127,121,19.5,3.2,Peja Stojakovic
+2006-04-14,28-309,IND,HOME,MIN,W (+12),1,31:53,.413,.333,3.8,16.0,10.4,5.6,1.9,0.0,13.1,23.8,85,95,5.3,-7.8,Peja Stojakovic
+2006-04-15,28-310,IND,AWAY,CHA,L (-1),1,41:52,.523,.433,0.0,15.5,8.5,4.5,0.0,0.0,10.4,21.1,96,96,10.3,-1.2,Peja Stojakovic
+2006-04-17,28-312,IND,AWAY,TOR,W (+25),1,40:05,.750,.750,4.0,9.6,7.5,12.0,1.3,0.0,10.0,23.5,131,108,20.6,5.2,Peja Stojakovic
+2006-04-19,28-314,IND,HOME,ORL,W (+6),1,35:15,.618,.542,0.0,16.0,9.0,5.6,0.0,1.7,0.0,18.5,163,103,13.0,7.4,Peja Stojakovic
+2002-10-29,25-142,SAC,HOME,CLE,W (+27),1,33:37,.507,.433,0.0,11.3,6.0,15.4,1.5,0.0,0.0,21.7,123,79,12.4,3.1,Peja Stojakovic
+2002-10-31,25-144,SAC,HOME,POR,W (+28),1,35:52,.681,.594,0.0,13.6,7.8,20.3,1.5,0.0,5.0,26.0,138,80,21.1,13.6,Peja Stojakovic
+2002-11-02,25-146,SAC,AWAY,MEM,W (+17),1,36:43,.364,.353,3.1,12.7,7.8,3.6,1.3,0.0,14.4,24.1,70,102,3.3,-13.0,Peja Stojakovic
+2002-11-03,25-147,SAC,AWAY,MIA,L (-10),1,33:54,.252,.192,0.0,17.3,8.7,11.7,0.0,2.0,6.7,20.2,57,100,0.8,-7.5,Peja Stojakovic
+2002-11-05,25-149,SAC,AWAY,ORL,L (-4),1,43:12,.567,.433,2.2,25.5,11.8,14.2,2.1,0.0,4.9,18.0,130,117,20.3,3.3,Peja Stojakovic
+2002-11-06,25-150,SAC,AWAY,NYK,L (-7),1,37:33,.594,.594,3.3,12.4,8.0,18.9,0.0,0.0,11.1,22.3,103,103,11.4,2.3,Peja Stojakovic
+2002-11-08,25-152,SAC,HOME,MEM,W (+8),1,36:35,.640,.633,5.4,5.5,5.5,13.1,3.9,0.0,14.9,21.4,118,94,18.0,7.9,Peja Stojakovic
+2002-11-10,25-154,SAC,HOME,ATL,W (+8),1,36:17,.491,.469,2.7,12.1,7.2,4.2,0.0,0.0,18.8,24.7,83,104,5.6,-7.1,Peja Stojakovic
+2002-11-13,25-157,SAC,AWAY,GSW,W (+11),1,36:28,.500,.500,7.0,5.1,5.9,3.8,1.4,0.0,15.0,25.6,87,105,7.0,-5.9,Peja Stojakovic
+2002-11-17,25-161,SAC,HOME,ORL,W (+2),1,34:44,.539,.500,3.8,12.5,9.0,13.1,1.4,0.0,11.3,22.8,104,104,12.1,-0.7,Peja Stojakovic
+2002-11-19,25-163,SAC,HOME,CHI,W (+13),1,29:23,.393,.364,8.9,6.5,7.5,4.6,1.8,0.0,14.9,19.4,95,109,3.8,-8.2,Peja Stojakovic
+2002-11-20,25-164,SAC,AWAY,LAC,W (+4),1,27:31,.581,.500,3.4,12.7,7.5,6.1,3.9,0.0,0.0,21.4,138,96,13.9,10.8,Peja Stojakovic
+2002-11-22,25-166,SAC,HOME,PHO,W (+17),1,31:36,.589,.545,3.7,10.0,7.0,4.5,1.5,0.0,14.4,18.1,108,106,9.2,-1.5,Peja Stojakovic
+2002-11-23,25-167,SAC,AWAY,POR,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2002-11-27,25-171,SAC,AWAY,MIN,L (-16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2002-11-29,25-173,SAC,HOME,LAC,W (+13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2002-12-01,25-175,SAC,HOME,HOU,W (+19),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2002-12-03,25-177,SAC,HOME,MIN,W (+12),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Peja Stojakovic
+2002-12-04,25-178,SAC,AWAY,DEN,W (+2),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Peja Stojakovic
+2002-12-06,25-180,SAC,HOME,DEN,W (+21),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2002-12-08,25-182,SAC,AWAY,SAS,W (+24),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2002-12-10,25-184,SAC,AWAY,HOU,L (-7),1,22:09,.317,.214,0.0,24.2,11.7,5.6,0.0,0.0,11.3,17.9,66,110,1.3,-8.0,Peja Stojakovic
+2002-12-14,25-188,SAC,AWAY,UTA,W (+2),1,31:57,.567,.533,0.0,11.8,6.7,25.0,1.6,0.0,5.9,25.8,110,107,12.7,4.5,Peja Stojakovic
+2002-12-15,25-189,SAC,HOME,NOH,W (+15),1,28:45,.612,.577,0.0,18.4,10.3,5.4,1.9,0.0,6.7,24.4,117,102,12.5,2.6,Peja Stojakovic
+2002-12-17,25-191,SAC,HOME,PHO,W (+9),1,24:38,.400,.400,0.0,14.0,7.3,5.8,3.8,0.0,23.1,22.3,63,85,3.1,-6.3,Peja Stojakovic
+2002-12-19,25-193,SAC,HOME,SAS,L (-2),1,25:12,.230,.200,6.4,24.6,13.6,19.1,0.0,0.0,0.0,18.4,74,95,2.6,-4.9,Peja Stojakovic
+2002-12-21,25-195,SAC,AWAY,PHO,L (-9),1,34:22,.512,.423,0.0,22.5,11.2,13.3,0.0,0.0,6.0,20.4,105,112,10.1,-2.8,Peja Stojakovic
+2002-12-22,25-196,SAC,HOME,GSW,W (+15),1,32:12,.648,.633,0.0,8.3,4.5,27.8,0.0,0.0,0.0,20.8,144,102,16.7,9.9,Peja Stojakovic
+2002-12-25,25-199,SAC,AWAY,LAL,W (+6),1,33:02,.737,.667,3.0,10.8,7.1,5.8,3.0,0.0,5.4,25.0,139,102,21.5,11.3,Peja Stojakovic
+2002-12-28,25-202,SAC,HOME,POR,L (-6),1,34:14,.620,.571,3.6,6.2,5.0,0.0,4.4,0.0,11.5,22.2,112,111,13.1,1.9,Peja Stojakovic
+2003-01-04,25-209,SAC,AWAY,DEN,W (+11),1,32:44,.457,.429,0.0,31.6,15.6,16.3,0.0,2.2,11.5,23.7,85,81,8.8,-1.2,Peja Stojakovic
+2003-01-05,25-210,SAC,HOME,MIA,W (+26),1,26:13,.506,.450,0.0,10.9,6.6,13.4,0.0,0.0,15.5,22.7,92,83,6.2,-3.3,Peja Stojakovic
+2003-01-07,25-212,SAC,AWAY,MIL,W (+25),1,24:35,.300,.300,0.0,4.1,2.3,5.1,0.0,0.0,0.0,10.1,75,97,0.9,-8.0,Peja Stojakovic
+2003-01-09,25-214,SAC,AWAY,NJN,W (+36),1,31:20,.711,.688,3.9,15.5,10.3,9.7,0.0,0.0,5.6,25.0,135,90,17.4,7.7,Peja Stojakovic
+2003-01-10,25-215,SAC,AWAY,MIN,L (-6),1,45:29,.737,.706,2.5,15.7,9.0,14.6,2.2,0.0,0.0,18.5,147,107,25.6,10.8,Peja Stojakovic
+2003-01-12,25-217,SAC,HOME,MEM,W (+8),1,36:18,.723,.711,5.4,16.0,10.8,9.5,2.6,0.0,4.6,23.6,138,95,25.1,12.5,Peja Stojakovic
+2003-01-15,25-220,SAC,HOME,DAL,W (+29),1,33:28,.856,.846,0.0,12.1,6.8,8.0,3.0,0.0,13.0,20.2,139,96,19.3,11.7,Peja Stojakovic
+2003-01-18,25-223,SAC,AWAY,LAC,L (-5),1,35:05,.809,.795,5.6,15.9,10.4,15.2,1.4,0.0,0.0,27.5,165,115,32.8,20.8,Peja Stojakovic
+2003-01-20,25-225,SAC,AWAY,GSW,W (+22),1,33:22,.576,.577,3.7,9.7,7.3,4.2,4.8,0.0,12.6,22.3,102,86,11.7,2.8,Peja Stojakovic
+2003-01-21,25-226,SAC,HOME,NJN,W (+7),1,40:32,.673,.667,7.8,11.7,10.2,3.6,1.3,0.0,13.4,26.4,113,112,17.8,2.4,Peja Stojakovic
+2003-01-23,25-228,SAC,AWAY,MEM,W (+6),1,31:40,.724,.654,0.0,19.1,11.2,18.2,0.0,0.0,6.2,21.1,142,98,19.2,9.0,Peja Stojakovic
+2003-01-24,25-229,SAC,AWAY,ATL,L (-11),1,37:34,.693,.656,0.0,10.2,4.9,23.7,1.3,0.0,10.4,23.0,123,121,18.6,5.5,Peja Stojakovic
+2003-01-26,25-231,SAC,AWAY,TOR,L (-4),1,31:47,.396,.300,6.1,8.7,7.4,0.0,0.0,1.8,7.3,18.3,88,107,3.8,-6.6,Peja Stojakovic
+2003-01-28,25-233,SAC,HOME,UTA,L (-10),1,46:33,.656,.575,2.6,15.0,8.4,19.6,3.4,0.0,3.9,25.4,134,112,28.2,14.6,Peja Stojakovic
+2003-01-30,25-235,SAC,AWAY,SEA,W (+18),1,39:22,.416,.400,0.0,35.9,18.3,0.0,1.3,0.0,0.0,25.9,80,81,10.2,-3.6,Peja Stojakovic
+2003-01-31,25-236,SAC,HOME,LAL,L (-11),1,38:46,.721,.643,6.0,10.5,8.1,4.3,0.0,0.0,10.7,30.5,137,134,23.3,6.9,Peja Stojakovic
+2003-02-02,25-238,SAC,AWAY,HOU,L (-16),1,36:01,.744,.719,5.8,13.3,9.3,6.9,0.0,0.0,12.6,28.5,128,114,22.1,7.5,Peja Stojakovic
+2003-02-04,25-240,SAC,AWAY,DAL,W (+1),1,43:40,.551,.550,2.7,28.4,16.8,6.4,0.0,0.0,12.1,24.8,98,111,14.2,0.0,Peja Stojakovic
+2003-02-05,25-241,SAC,AWAY,NOH,L (-24),1,30:45,.588,.588,6.3,10.6,8.3,6.8,3.4,0.0,15.0,27.8,105,118,12.9,6.4,Peja Stojakovic
+2003-02-11,25-247,SAC,HOME,WAS,W (+19),1,35:57,.514,.500,2.8,19.7,12.3,13.3,2.8,0.0,4.9,24.6,107,79,16.4,6.8,Peja Stojakovic
+2003-02-14,25-250,SAC,HOME,SEA,W (+29),1,32:04,.857,.857,0.0,11.8,7.5,4.8,0.0,0.0,6.7,22.9,147,95,18.3,9.4,Peja Stojakovic
+2003-02-16,25-252,SAC,HOME,SAS,L (-3),1,36:31,.447,.367,3.4,8.6,6.3,0.0,0.0,0.0,0.0,20.3,108,118,6.5,-4.1,Peja Stojakovic
+2003-02-18,25-254,SAC,HOME,MIL,W (+9),1,38:48,.617,.611,3.2,4.6,4.1,12.9,1.3,0.0,8.7,27.9,117,109,18.2,3.0,Peja Stojakovic
+2003-02-20,25-256,SAC,HOME,BOS,W (+22),1,34:19,.375,.375,3.7,21.3,14.0,16.6,3.0,0.0,0.0,22.3,93,86,9.5,-0.9,Peja Stojakovic
+2003-02-23,25-259,SAC,HOME,NYK,W (+7),1,28:46,.667,.667,0.0,20.3,10.8,11.9,0.0,0.0,18.2,17.3,101,98,8.1,0.0,Peja Stojakovic
+2003-02-25,25-261,SAC,HOME,DET,W (+6),1,33:11,.636,.636,3.7,8.7,6.5,22.1,1.7,2.4,8.3,18.3,127,90,13.4,11.7,Peja Stojakovic
+2003-02-27,25-263,SAC,AWAY,DAL,W (+2),1,46:00,.597,.458,6.8,16.5,11.5,6.3,0.0,0.0,3.2,27.6,142,121,27.0,5.7,Peja Stojakovic
+2003-03-01,25-265,SAC,AWAY,SAS,L (-8),1,32:30,.536,.438,3.1,14.6,8.3,10.0,1.6,0.0,5.1,24.5,125,115,13.3,3.4,Peja Stojakovic
+2003-03-03,25-267,SAC,HOME,PHI,W (+8),1,31:03,.474,.469,0.0,25.2,13.5,5.1,3.2,0.0,15.1,28.7,80,98,7.8,-4.7,Peja Stojakovic
+2003-03-05,25-269,SAC,HOME,MIN,W (+1),1,42:14,.543,.357,2.3,23.4,12.7,9.0,1.3,1.5,0.0,20.3,125,92,18.2,7.7,Peja Stojakovic
+2003-03-07,25-271,SAC,AWAY,UTA,W (+3),1,37:25,.552,.533,3.8,13.3,9.3,8.4,0.0,0.0,14.9,26.8,96,110,10.7,-3.7,Peja Stojakovic
+2003-03-09,25-273,SAC,HOME,IND,W (+19),1,27:20,.670,.650,0.0,6.7,3.8,16.5,0.0,0.0,8.7,19.7,129,104,10.7,3.6,Peja Stojakovic
+2003-03-13,25-277,SAC,AWAY,PHO,L (-25),1,24:48,.254,.143,3.6,15.2,8.4,6.2,4.2,0.0,0.0,13.7,72,117,2.2,-8.9,Peja Stojakovic
+2003-03-14,25-278,SAC,HOME,TOR,W (+35),1,29:26,.738,.750,0.0,10.7,7.1,4.4,5.1,0.0,0.0,19.5,144,86,17.9,10.6,Peja Stojakovic
+2003-03-16,25-280,SAC,HOME,DAL,L (-6),1,41:29,.764,.735,4.9,10.1,7.5,3.9,1.2,0.0,9.2,22.2,134,118,23.2,8.4,Peja Stojakovic
+2003-03-18,25-282,SAC,HOME,GSW,W (+26),1,27:49,.727,.667,3.4,13.6,9.0,0.0,1.7,0.0,6.8,20.2,154,92,16.2,11.5,Peja Stojakovic
+2003-03-20,25-284,SAC,HOME,LAL,W (+8),1,41:11,.573,.471,0.0,4.3,2.4,3.9,1.2,0.0,0.0,21.7,123,110,16.2,3.1,Peja Stojakovic
+2003-03-22,25-286,SAC,AWAY,POR,W (+9),1,36:13,.878,.821,0.0,12.7,6.7,12.2,1.4,0.0,5.5,22.3,165,108,26.3,13.0,Peja Stojakovic
+2003-03-23,25-287,SAC,HOME,HOU,W (+1),1,34:10,.823,.818,0.0,24.9,13.2,4.9,0.0,0.0,7.3,17.3,156,114,17.7,7.7,Peja Stojakovic
+2003-03-27,25-291,SAC,HOME,LAC,W (+10),1,27:28,.673,.636,4.0,3.0,3.5,0.0,1.8,0.0,14.4,22.9,114,92,10.3,3.9,Peja Stojakovic
+2003-03-29,25-293,SAC,AWAY,CHI,W (+15),1,28:33,.687,.647,3.1,19.1,11.0,13.5,1.6,0.0,4.8,27.5,140,92,22.2,13.8,Peja Stojakovic
+2003-03-30,25-294,SAC,AWAY,DET,L (-11),1,38:19,.918,.909,2.9,15.8,9.1,9.9,0.0,0.0,20.8,17.5,138,115,16.3,7.0,Peja Stojakovic
+2003-04-01,25-296,SAC,AWAY,IND,W (+5),1,40:26,.702,.600,4.4,4.7,4.5,14.9,2.3,0.0,13.9,21.0,130,101,20.2,8.5,Peja Stojakovic
+2003-04-02,25-297,SAC,AWAY,WAS,W (+6),1,32:36,.800,.800,3.5,17.3,10.4,4.6,1.5,0.0,16.7,16.3,126,106,13.3,4.3,Peja Stojakovic
+2003-04-04,25-299,SAC,AWAY,BOS,W (+1),1,35:12,.490,.429,3.6,9.1,6.6,4.4,0.0,0.0,11.5,21.3,94,102,5.9,-4.3,Peja Stojakovic
+2003-04-06,25-301,SAC,AWAY,PHI,W (+16),1,30:10,.573,.529,3.7,13.8,9.5,14.2,3.3,0.0,0.0,26.6,122,83,17.5,9.8,Peja Stojakovic
+2003-04-08,25-303,SAC,HOME,SEA,W (+22),1,28:24,.676,.708,9.5,14.6,12.4,6.5,1.9,0.0,7.0,23.3,130,94,15.3,8.8,Peja Stojakovic
+2003-04-10,25-305,SAC,AWAY,LAL,L (-13),1,39:28,.543,.357,0.0,8.2,4.7,14.3,1.3,0.0,5.2,22.2,118,125,14.8,2.3,Peja Stojakovic
+2003-04-11,25-306,SAC,HOME,DEN,W (+2),1,36:08,.559,.500,0.0,3.1,1.7,3.9,1.4,0.0,6.2,20.2,109,114,10.1,-4.1,Peja Stojakovic
+2003-04-16,25-311,SAC,HOME,UTA,W (+11),1,28:15,.396,.346,0.0,15.9,7.9,5.7,3.9,0.0,0.0,22.0,95,91,7.0,-0.8,Peja Stojakovic
+2009-10-28,32-141,NOH,AWAY,SAS,L (-17),0,20:00,.820,.750,0.0,6.2,3.2,0.0,0.0,0.0,29.1,8.5,110,129,1.5,-6.8,Peja Stojakovic
+2009-10-30,32-143,NOH,HOME,SAC,W (+5),0,21:48,.506,.444,0.0,8.2,4.6,8.3,0.0,0.0,0.0,22.2,113,112,5.8,-2.5,Peja Stojakovic
+2009-11-01,32-145,NOH,AWAY,BOS,L (-10),0,32:16,.819,.800,4.0,13.9,8.6,7.2,0.0,0.0,11.2,26.5,131,110,18.6,12.2,Peja Stojakovic
+2009-11-02,32-146,NOH,AWAY,NYK,L (-6),0,29:41,.611,.611,0.0,3.6,1.9,9.1,3.3,0.0,18.2,16.9,100,118,6.8,-1.1,Peja Stojakovic
+2009-11-04,32-148,NOH,HOME,DAL,W (+7),0,28:52,.188,.188,0.0,4.4,2.2,12.5,0.0,3.1,11.1,14.7,61,118,-0.1,-10.0,Peja Stojakovic
+2009-11-06,32-150,NOH,HOME,TOR,L (-17),0,24:45,.500,.500,0.0,22.2,10.6,6.0,0.0,0.0,14.3,13.9,87,126,2.7,-6.1,Peja Stojakovic
+2009-11-08,32-152,NOH,AWAY,LAL,L (-16),0,23:12,.355,.313,4.0,11.5,7.1,7.7,0.0,3.8,0.0,16.3,89,119,3.5,-5.0,Peja Stojakovic
+2009-11-09,32-153,NOH,AWAY,LAC,W (+28),1,24:56,.545,.545,0.0,12.8,7.1,11.5,4.1,0.0,0.0,19.5,124,89,10.6,5.3,Peja Stojakovic
+2009-11-11,32-155,NOH,AWAY,PHO,L (-20),1,22:50,.000,.000,0.0,12.4,5.7,0.0,0.0,0.0,0.0,15.9,0,139,-5.0,-22.8,Peja Stojakovic
+2009-11-13,32-157,NOH,HOME,POR,L (-8),1,22:55,.143,.143,0.0,24.6,12.6,0.0,0.0,0.0,0.0,15.0,31,95,-0.7,-11.2,Peja Stojakovic
+2009-11-14,32-158,NOH,AWAY,ATL,L (-23),1,34:08,.717,.706,6.3,6.4,6.3,0.0,0.0,0.0,0.0,21.3,148,130,18.3,6.7,Peja Stojakovic
+2009-11-17,32-161,NOH,HOME,LAC,W (+8),1,26:17,.537,.350,4.2,17.0,10.5,0.0,3.9,0.0,0.0,22.9,138,105,11.5,0.3,Peja Stojakovic
+2009-11-19,32-163,NOH,HOME,PHO,W (+7),1,35:29,.658,.658,13.8,24.0,18.7,5.0,0.0,0.0,5.0,22.0,154,116,20.9,11.9,Peja Stojakovic
+2009-11-21,32-165,NOH,HOME,ATL,W (+8),1,25:13,.660,.625,8.5,6.9,7.6,20.8,2.2,0.0,0.0,23.5,150,105,15.3,17.3,Peja Stojakovic
+2009-11-22,32-166,NOH,AWAY,MIA,L (-1),1,35:24,.563,.542,0.0,8.0,3.3,13.9,1.5,0.0,0.0,15.6,122,112,10.1,1.7,Peja Stojakovic
+2009-11-25,32-169,NOH,HOME,MIL,W (+3),1,38:01,.296,.250,7.3,13.2,10.1,9.4,0.0,0.0,5.6,19.2,79,96,2.4,-6.8,Peja Stojakovic
+2009-12-04,32-178,NOH,HOME,MIN,W (+9),1,26:53,.383,.400,0.0,14.6,7.9,5.3,0.0,0.0,16.1,21.5,65,101,1.3,-11.7,Peja Stojakovic
+2009-12-08,32-182,NOH,HOME,SAC,W (+2),1,26:46,.875,.875,4.7,0.0,2.2,6.4,2.0,0.0,0.0,14.9,166,112,12.4,10.1,Peja Stojakovic
+2009-12-09,32-183,NOH,AWAY,MIN,W (+1),1,35:38,.844,.875,0.0,10.9,5.2,4.8,2.9,0.0,7.4,18.2,136,105,18.0,9.9,Peja Stojakovic
+2009-12-11,32-185,NOH,HOME,NYK,L (-17),1,38:54,.576,.577,0.0,13.7,5.6,4.6,1.3,0.0,0.0,16.0,114,121,11.8,1.1,Peja Stojakovic
+2009-12-14,32-188,NOH,AWAY,DAL,L (-4),1,29:53,.500,.500,0.0,21.4,8.8,4.7,0.0,0.0,11.1,13.9,90,111,3.3,-7.5,Peja Stojakovic
+2009-12-16,32-190,NOH,HOME,DET,W (+8),1,32:55,.557,.500,0.0,13.9,7.7,14.3,0.0,0.0,0.0,14.5,137,105,9.2,5.1,Peja Stojakovic
+2009-12-18,32-192,NOH,HOME,DEN,W (+6),1,34:40,.806,.786,0.0,6.4,3.1,5.0,0.0,0.0,0.0,20.9,156,110,17.9,9.7,Peja Stojakovic
+2009-12-20,32-194,NOH,AWAY,TOR,L (-6),1,35:41,.358,.300,4.6,6.1,5.3,4.3,2.8,0.0,5.6,20.8,84,102,6.0,-2.3,Peja Stojakovic
+2009-12-23,32-197,NOH,HOME,GSW,W (+6),1,28:10,.604,.500,0.0,0.0,0.0,10.3,0.0,0.0,8.5,16.2,129,110,8.3,1.2,Peja Stojakovic
+2009-12-26,32-200,NOH,AWAY,CHI,L (-11),1,28:11,.444,.444,0.0,20.8,10.0,6.5,3.6,0.0,0.0,15.8,89,97,7.1,-0.8,Peja Stojakovic
+2009-12-29,32-203,NOH,AWAY,HOU,L (-8),1,29:25,.000,.000,0.0,15.5,8.2,0.0,0.0,0.0,0.0,6.5,0,126,-2.4,-15.0,Peja Stojakovic
+2009-12-30,32-204,NOH,HOME,MIA,W (+4),1,29:29,.300,.300,0.0,3.6,1.9,10.6,0.0,0.0,0.0,16.2,76,111,1.5,-5.1,Peja Stojakovic
+2010-01-02,32-207,NOH,HOME,HOU,W (+4),1,24:38,.357,.357,0.0,5.6,2.6,5.7,0.0,0.0,22.2,17.1,62,114,-1.3,-12.5,Peja Stojakovic
+2010-01-04,32-209,NOH,AWAY,UTA,W (+4),1,25:07,.278,.278,8.9,15.9,12.6,12.7,2.2,0.0,0.0,16.6,89,98,4.5,-0.9,Peja Stojakovic
+2010-01-06,32-211,NOH,AWAY,OKC,W (+5),1,27:13,.600,.600,4.9,4.1,4.5,5.9,2.1,0.0,9.1,21.4,110,112,7.9,3.2,Peja Stojakovic
+2010-01-08,32-213,NOH,HOME,NJN,W (+4),1,28:19,.393,.364,0.0,16.1,8.0,0.0,1.9,0.0,0.0,18.4,86,111,4.7,-8.3,Peja Stojakovic
+2010-01-10,32-215,NOH,AWAY,WAS,W (+5),1,32:39,.698,.654,0.0,14.7,6.4,9.3,0.0,0.0,6.5,22.0,131,121,13.8,0.6,Peja Stojakovic
+2010-01-11,32-216,NOH,AWAY,PHI,L (-4),1,31:36,.375,.375,2.9,14.8,8.1,9.8,3.5,0.0,14.3,20.0,80,104,4.3,-4.7,Peja Stojakovic
+2010-01-13,32-218,NOH,HOME,LAC,W (+14),1,32:15,.693,.714,0.0,12.9,7.1,4.5,0.0,0.0,0.0,21.9,136,110,14.1,4.6,Peja Stojakovic
+2010-01-15,32-220,NOH,AWAY,DET,L (-6),1,33:52,.547,.500,0.0,3.7,2.0,10.4,0.0,0.0,0.0,18.1,109,118,8.6,-2.1,Peja Stojakovic
+2010-01-16,32-221,NOH,AWAY,IND,W (+5),1,29:40,.403,.357,0.0,18.8,9.4,9.0,1.7,0.0,11.8,12.6,85,100,4.4,-2.9,Peja Stojakovic
+2010-01-18,32-223,NOH,HOME,SAS,L (-7),1,23:39,.571,.500,0.0,8.8,4.6,19.1,2.3,0.0,0.0,16.4,126,112,8.6,6.6,Peja Stojakovic
+2010-01-20,32-225,NOH,HOME,MEM,W (+2),1,29:23,.750,.750,4.4,4.2,4.3,18.7,3.5,0.0,0.0,18.6,162,119,18.2,11.9,Peja Stojakovic
+2010-01-22,32-227,NOH,AWAY,MIN,W (+2),1,29:01,.307,.125,0.0,9.5,4.3,0.0,0.0,0.0,9.3,17.8,64,110,0.4,-12.7,Peja Stojakovic
+2010-01-23,32-228,NOH,AWAY,DEN,L (-6),1,33:22,.533,.533,0.0,12.7,6.5,0.0,3.2,0.0,16.7,26.1,82,114,7.3,-3.1,Peja Stojakovic
+2010-01-25,32-230,NOH,AWAY,POR,W (+1),1,27:06,.300,.300,0.0,0.0,0.0,5.3,0.0,0.0,0.0,9.9,72,122,-0.2,-9.5,Peja Stojakovic
+2010-01-27,32-232,NOH,AWAY,GSW,W (+13),1,28:27,.902,.833,4.6,12.7,8.8,4.4,3.2,0.0,34.0,16.2,122,104,11.7,5.7,Peja Stojakovic
+2010-01-29,32-234,NOH,HOME,CHI,L (-2),1,43:03,.409,.367,4.4,13.4,8.4,3.6,1.2,0.0,5.9,17.4,90,107,6.9,-3.5,Peja Stojakovic
+2010-01-30,32-235,NOH,AWAY,MEM,W (+7),1,45:44,.553,.433,2.6,8.7,6.0,6.8,1.2,0.0,5.2,20.0,122,110,13.2,0.4,Peja Stojakovic
+2010-02-01,32-237,NOH,HOME,PHO,L (-9),1,30:07,.523,.286,0.0,12.9,5.8,8.4,1.7,0.0,8.7,17.0,110,115,8.4,-3.3,Peja Stojakovic
+2010-02-03,32-239,NOH,HOME,OKC,L (-4),1,39:56,.469,.469,0.0,7.5,3.0,3.6,5.2,0.0,0.0,18.3,94,107,11.5,-0.8,Peja Stojakovic
+2010-02-05,32-241,NOH,HOME,PHI,L (-7),1,37:21,.751,.714,0.0,9.6,4.7,9.6,1.4,1.9,0.0,20.3,146,112,19.2,8.2,Peja Stojakovic
+2010-02-06,32-242,NOH,AWAY,CHA,W (+5),1,34:29,.723,.708,4.0,11.3,7.7,14.3,0.0,0.0,7.4,19.4,139,115,15.1,5.6,Peja Stojakovic
+2010-02-08,32-244,NOH,AWAY,ORL,L (-6),1,41:20,.751,.750,2.8,29.0,14.1,17.5,0.0,0.0,0.0,20.9,156,126,27.0,10.7,Peja Stojakovic
+2010-02-10,32-246,NOH,HOME,BOS,W (+8),1,39:10,.592,.563,0.0,11.4,5.8,4.8,2.5,1.9,10.6,21.6,105,86,13.8,4.6,Peja Stojakovic
+2010-02-17,32-253,NOH,HOME,UTA,L (-8),1,36:17,.872,.833,2.8,12.4,6.7,22.6,4.1,0.0,17.9,19.8,140,101,22.4,14.8,Peja Stojakovic
+2010-02-19,32-255,NOH,HOME,IND,W (+6),1,35:06,.612,.615,6.2,17.5,12.0,9.3,0.0,0.0,17.8,19.7,106,106,11.1,-1.5,Peja Stojakovic
+2010-02-21,32-257,NOH,HOME,HOU,W (+8),1,39:23,.404,.344,5.4,11.9,8.9,7.9,0.0,0.0,5.5,20.1,92,102,7.3,-6.3,Peja Stojakovic
+2010-02-23,32-259,NOH,AWAY,CLE,L (-10),1,34:07,.349,.292,0.0,10.0,5.6,4.0,0.0,0.0,7.2,20.4,71,119,1.2,-10.6,Peja Stojakovic
+2010-02-24,32-260,NOH,AWAY,MIL,L (-20),1,29:40,.619,.625,0.0,7.4,3.7,5.7,1.8,2.2,10.1,15.4,113,124,8.6,2.3,Peja Stojakovic
+2010-02-26,32-262,NOH,HOME,ORL,W (+7),1,27:27,.286,.286,0.0,0.0,0.0,0.0,3.9,0.0,12.5,13.7,57,105,0.9,-6.7,Peja Stojakovic
+2010-02-28,32-264,NOH,AWAY,DAL,L (-8),1,38:37,.474,.438,0.0,12.4,5.8,4.2,0.0,0.0,0.0,19.6,112,122,8.3,-4.7,Peja Stojakovic
+2010-03-01,32-265,NOH,HOME,SAS,L (-14),1,36:51,.427,.375,9.1,0.0,4.6,0.0,0.0,0.0,23.7,22.3,75,127,2.3,-12.2,Peja Stojakovic
+2010-03-03,32-267,NOH,HOME,MEM,L (-4),1,38:15,.455,.389,3.5,27.1,15.5,11.7,1.3,0.0,13.2,26.5,89,109,11.0,-6.4,Peja Stojakovic
+2010-03-05,32-269,NOH,AWAY,SAS,L (-11),1,34:30,.144,.100,3.7,17.4,9.9,3.5,3.2,0.0,16.1,17.9,37,119,-1.0,-13.8,Peja Stojakovic
+2010-03-08,32-272,NOH,HOME,GSW,W (+4),1,26:58,.508,.464,0.0,5.4,2.7,12.3,0.0,0.0,6.0,25.2,121,134,8.8,-9.6,Peja Stojakovic
+2010-03-10,32-274,NOH,AWAY,OKC,L (-15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2010-03-12,32-276,NOH,HOME,DEN,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2010-03-14,32-278,NOH,AWAY,PHO,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2010-03-15,32-279,NOH,AWAY,LAC,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2010-03-17,32-281,NOH,AWAY,GSW,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2010-03-18,32-282,NOH,AWAY,DEN,L (-13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2010-03-22,32-286,NOH,HOME,DAL,W (+16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2010-03-24,32-288,NOH,HOME,CLE,L (-13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2010-03-27,32-291,NOH,HOME,POR,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2010-03-29,32-293,NOH,HOME,LAL,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2010-03-31,32-295,NOH,HOME,WAS,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2010-04-02,32-297,NOH,AWAY,MEM,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2010-04-03,32-298,NOH,AWAY,NJN,L (-28),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2010-04-07,32-302,NOH,HOME,CHA,L (-1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2010-04-09,32-304,NOH,HOME,UTA,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2010-04-11,32-306,NOH,HOME,MIN,W (+28),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2010-04-14,32-309,NOH,AWAY,HOU,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2003-10-29,26-142,SAC,HOME,CLE,W (+14),1,40:30,.527,.500,5.7,15.8,10.5,14.5,2.6,0.0,4.6,24.8,117,102,17.9,3.6,Peja Stojakovic
+2003-10-31,26-144,SAC,HOME,PHI,W (+11),1,43:29,.847,.808,3.4,5.6,4.6,16.0,1.3,0.0,19.5,23.1,136,106,22.8,8.5,Peja Stojakovic
+2003-11-01,26-145,SAC,AWAY,DEN,L (-21),1,32:54,.492,.472,0.0,23.6,9.7,12.7,0.0,0.0,9.4,26.2,94,115,8.8,-1.8,Peja Stojakovic
+2003-11-05,26-149,SAC,AWAY,MIN,W (+4),1,46:18,.770,.711,2.6,13.7,7.9,0.0,0.0,1.3,8.3,23.4,148,127,26.0,7.1,Peja Stojakovic
+2003-11-07,26-151,SAC,AWAY,NYK,L (-3),1,41:14,.718,.659,3.1,12.3,7.7,7.9,2.5,1.9,3.8,29.6,135,124,28.8,7.5,Peja Stojakovic
+2003-11-09,26-153,SAC,AWAY,BOS,L (-9),1,35:48,.398,.333,5.4,5.9,5.7,15.8,1.4,0.0,5.8,20.7,90,102,7.4,-2.3,Peja Stojakovic
+2003-11-11,26-155,SAC,HOME,DET,W (+6),1,36:50,.353,.353,2.9,23.8,13.9,8.6,1.3,0.0,5.6,22.2,74,92,6.5,-5.9,Peja Stojakovic
+2003-11-13,26-157,SAC,AWAY,POR,L (-2),1,48:54,.800,.781,5.2,2.7,4.0,0.0,1.1,1.3,15.1,18.8,126,115,19.4,2.9,Peja Stojakovic
+2003-11-14,26-158,SAC,HOME,TOR,W (+30),1,31:30,.555,.500,4.6,3.2,3.8,0.0,0.0,0.0,0.0,24.4,120,88,10.6,-3.5,Peja Stojakovic
+2003-11-16,26-160,SAC,HOME,GSW,W (+2),1,43:28,.709,.611,14.2,15.2,14.6,16.7,1.2,1.6,11.4,26.0,149,118,29.6,12.4,Peja Stojakovic
+2003-11-19,26-163,SAC,AWAY,UTA,W (+8),1,36:50,.788,.667,0.0,20.3,12.3,13.6,1.4,0.0,9.5,28.3,150,115,26.0,5.8,Peja Stojakovic
+2003-11-21,26-165,SAC,HOME,ORL,W (+30),1,30:20,.600,.600,0.0,11.9,7.0,14.5,1.7,0.0,6.3,23.7,116,99,13.6,1.6,Peja Stojakovic
+2003-11-23,26-167,SAC,HOME,CHI,W (+11),1,28:19,.656,.656,8.0,24.5,16.1,13.4,1.8,0.0,5.9,26.3,129,103,17.6,8.2,Peja Stojakovic
+2003-11-25,26-169,SAC,HOME,MEM,W (+20),1,32:07,.756,.733,3.8,25.5,15.5,17.3,1.6,0.0,10.4,26.8,137,90,22.9,14.2,Peja Stojakovic
+2003-11-28,26-172,SAC,HOME,HOU,W (+29),1,32:20,.442,.417,0.0,17.4,9.6,4.5,1.7,0.0,7.4,19.5,85,87,6.8,-6.0,Peja Stojakovic
+2003-11-30,26-174,SAC,HOME,NJN,W (+13),1,45:25,.722,.688,0.0,5.6,2.8,10.9,0.0,1.5,14.8,20.1,122,103,16.6,3.8,Peja Stojakovic
+2003-12-05,26-179,SAC,HOME,MIN,L (-3),1,38:31,.507,.469,4.8,32.2,15.7,18.2,0.0,0.0,10.1,21.5,107,109,12.1,4.2,Peja Stojakovic
+2003-12-07,26-181,SAC,HOME,IND,W (+3),1,43:33,.620,.575,0.0,10.5,6.1,4.0,0.0,0.0,8.4,24.5,117,101,15.6,2.4,Peja Stojakovic
+2003-12-09,26-183,SAC,HOME,LAC,W (+10),1,35:45,.644,.583,0.0,11.6,6.1,5.6,1.5,0.0,16.5,30.7,105,107,13.9,-1.8,Peja Stojakovic
+2003-12-12,26-186,SAC,AWAY,UTA,W (+7),1,41:19,.546,.444,0.0,24.6,11.3,12.7,2.7,0.0,4.4,27.2,118,103,19.3,4.9,Peja Stojakovic
+2003-12-14,26-188,SAC,HOME,PHO,W (+5),1,43:08,.693,.614,6.4,2.5,4.2,24.6,2.4,0.0,10.4,28.4,139,112,29.2,12.6,Peja Stojakovic
+2003-12-16,26-190,SAC,AWAY,MEM,L (-5),1,44:02,.627,.528,2.5,4.6,3.6,0.0,2.3,0.0,15.7,25.8,108,113,15.3,-0.7,Peja Stojakovic
+2003-12-18,26-192,SAC,AWAY,NOH,W (+11),1,41:51,.564,.458,0.0,9.3,5.5,10.6,3.8,0.0,6.2,19.2,113,100,14.7,1.8,Peja Stojakovic
+2003-12-19,26-193,SAC,AWAY,ATL,W (+12),1,40:18,.626,.587,5.1,13.6,9.2,20.3,4.0,0.0,3.9,29.0,131,92,26.2,14.0,Peja Stojakovic
+2003-12-21,26-195,SAC,HOME,POR,W (+19),1,42:13,.670,.605,0.0,11.7,6.4,0.0,1.3,1.5,0.0,24.8,138,109,21.4,5.0,Peja Stojakovic
+2003-12-23,26-197,SAC,HOME,MEM,W (+17),1,48:00,.706,.614,4.8,6.8,5.8,3.8,2.1,0.0,14.7,30.5,128,106,28.4,6.0,Peja Stojakovic
+2003-12-25,26-199,SAC,HOME,DAL,L (-8),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Peja Stojakovic
+2003-12-26,26-200,SAC,AWAY,GSW,L (-7),1,43:21,.444,.444,9.9,9.7,9.8,4.3,0.0,0.0,25.0,24.6,76,114,4.5,-7.7,Peja Stojakovic
+2003-12-28,26-202,SAC,HOME,UTA,W (+9),1,45:18,.657,.545,13.3,4.6,8.7,6.2,6.7,0.0,6.6,29.8,135,90,33.2,17.6,Peja Stojakovic
+2004-01-03,26-208,SAC,AWAY,LAC,W (+7),1,36:21,.606,.594,0.0,8.9,5.4,8.2,1.4,0.0,10.4,24.7,108,117,12.7,-2.3,Peja Stojakovic
+2004-01-04,26-209,SAC,HOME,SEA,W (+31),1,35:15,.706,.706,0.0,15.9,8.9,17.3,4.1,0.0,10.5,23.6,131,95,21.3,10.2,Peja Stojakovic
+2004-01-06,26-211,SAC,HOME,ATL,W (+16),1,40:50,.689,.658,3.0,5.9,4.4,0.0,3.9,0.0,12.9,26.8,110,99,20.0,5.4,Peja Stojakovic
+2004-01-07,26-212,SAC,AWAY,SEA,L (-11),1,40:13,.529,.393,2.4,14.7,8.6,9.2,1.3,0.0,0.0,19.5,121,111,14.5,1.2,Peja Stojakovic
+2004-01-09,26-214,SAC,AWAY,PHO,W (+20),1,42:06,.630,.630,8.4,21.0,15.2,8.1,0.0,0.0,14.8,27.6,106,96,19.1,1.5,Peja Stojakovic
+2004-01-11,26-216,SAC,HOME,DEN,W (+11),1,41:37,.590,.542,6.5,19.5,13.0,3.9,2.4,0.0,6.7,33.0,118,109,22.9,2.2,Peja Stojakovic
+2004-01-13,26-218,SAC,HOME,MIA,W (+4),1,42:05,.633,.533,10.1,10.9,10.5,0.0,2.9,0.0,0.0,24.6,137,108,20.8,6.1,Peja Stojakovic
+2004-01-16,26-221,SAC,HOME,LAL,W (+20),1,32:34,.810,.750,4.8,15.8,11.5,15.9,1.6,0.0,0.0,21.9,164,94,22.3,12.3,Peja Stojakovic
+2004-01-19,26-224,SAC,AWAY,LAC,W (+25),1,32:03,.885,.821,8.3,6.5,7.3,21.1,3.2,2.1,10.2,27.7,160,106,30.2,19.3,Peja Stojakovic
+2004-01-20,26-225,SAC,HOME,POR,L (-5),1,50:03,.572,.438,3.7,10.4,6.9,5.4,1.1,1.4,3.3,27.2,126,112,24.3,7.4,Peja Stojakovic
+2004-01-22,26-227,SAC,AWAY,CLE,W (+6),1,44:59,.669,.640,7.4,14.6,11.3,4.8,0.0,0.0,3.5,29.5,132,103,27.4,10.2,Peja Stojakovic
+2004-01-23,26-228,SAC,AWAY,MEM,L (-14),1,27:28,.409,.385,3.2,25.1,12.8,32.4,0.0,0.0,22.9,25.3,81,120,5.1,-5.5,Peja Stojakovic
+2004-01-25,26-230,SAC,AWAY,DAL,L (-9),1,44:32,.485,.435,4.4,17.1,10.8,7.0,5.3,0.0,10.8,25.3,96,100,18.7,4.8,Peja Stojakovic
+2004-01-28,26-233,SAC,AWAY,HOU,W (+5),1,43:19,.498,.375,0.0,25.1,12.1,10.7,4.9,0.0,13.6,24.4,93,96,15.2,0.6,Peja Stojakovic
+2004-01-29,26-234,SAC,AWAY,SAS,W (+5),1,39:02,.628,.536,0.0,17.2,9.3,0.0,0.0,0.0,10.2,25.8,112,108,14.0,-0.4,Peja Stojakovic
+2004-01-31,26-236,SAC,AWAY,SEA,W (+7),1,38:45,.602,.524,3.2,12.6,8.0,4.9,1.3,0.0,4.0,28.1,124,112,19.7,7.3,Peja Stojakovic
+2004-02-03,26-239,SAC,HOME,SEA,W (+16),1,38:55,.574,.500,3.1,9.7,6.3,7.7,1.4,0.0,4.2,27.2,127,119,17.8,-0.4,Peja Stojakovic
+2004-02-06,26-242,SAC,HOME,SAS,L (-8),1,43:57,.484,.389,2.4,14.0,7.8,4.7,0.0,0.0,4.6,22.0,106,119,10.5,-0.6,Peja Stojakovic
+2004-02-08,26-244,SAC,HOME,DEN,W (+23),1,42:06,.740,.690,5.2,12.7,9.0,3.9,1.3,0.0,11.3,29.2,135,106,25.5,9.0,Peja Stojakovic
+2004-02-10,26-246,SAC,AWAY,MIL,W (+7),1,38:51,.666,.556,0.0,24.7,12.0,14.0,3.9,1.7,4.1,28.5,139,119,28.8,6.6,Peja Stojakovic
+2004-02-11,26-247,SAC,AWAY,DET,W (+2),1,41:34,.633,.611,0.0,22.3,11.3,17.1,2.7,0.0,9.2,24.8,117,105,20.4,8.0,Peja Stojakovic
+2004-02-17,26-253,SAC,HOME,BOS,W (+16),1,40:10,.799,.714,3.3,17.1,10.8,22.5,0.0,0.0,5.4,19.6,166,114,26.6,10.0,Peja Stojakovic
+2004-02-19,26-255,SAC,AWAY,MIN,L (-17),1,37:04,.436,.400,2.3,14.0,6.9,16.6,5.9,0.0,5.5,23.1,89,98,12.7,7.2,Peja Stojakovic
+2004-02-20,26-256,SAC,AWAY,CHI,W (+8),1,42:09,.617,.605,0.0,15.4,8.4,9.2,0.0,0.0,4.9,23.4,110,96,16.8,3.4,Peja Stojakovic
+2004-02-22,26-258,SAC,AWAY,TOR,W (+15),1,41:01,.720,.676,0.0,22.8,10.9,15.8,2.7,0.0,17.6,25.7,120,94,20.4,6.5,Peja Stojakovic
+2004-02-24,26-260,SAC,HOME,NYK,W (+8),1,41:51,.608,.550,3.0,13.6,8.6,0.0,1.3,0.0,15.3,29.0,104,110,15.0,-2.7,Peja Stojakovic
+2004-02-26,26-262,SAC,AWAY,LAL,W (+2),1,41:56,.896,.861,6.5,17.0,12.5,5.1,0.0,0.0,12.7,26.9,148,113,29.2,12.5,Peja Stojakovic
+2004-02-27,26-263,SAC,HOME,UTA,L (-5),1,42:49,.538,.406,2.2,12.1,7.0,5.5,2.5,1.5,9.3,22.2,113,113,14.2,1.6,Peja Stojakovic
+2004-02-29,26-265,SAC,HOME,PHO,W (+14),1,45:15,.619,.548,2.3,13.3,7.9,3.8,0.0,0.0,7.2,26.8,119,105,20.5,1.7,Peja Stojakovic
+2004-03-02,26-267,SAC,HOME,LAC,W (+7),1,43:08,.636,.533,0.0,3.0,1.5,3.0,2.4,0.0,0.0,17.9,149,118,17.1,2.2,Peja Stojakovic
+2004-03-04,26-269,SAC,AWAY,PHI,W (+9),1,37:42,.692,.594,0.0,10.0,4.8,10.1,1.3,0.0,4.9,25.0,130,115,20.9,3.2,Peja Stojakovic
+2004-03-06,26-271,SAC,AWAY,MIA,L (-6),1,38:43,.461,.385,0.0,10.9,5.2,13.2,0.0,0.0,0.0,17.5,101,112,8.6,-3.0,Peja Stojakovic
+2004-03-07,26-272,SAC,AWAY,ORL,W (+17),1,43:11,.697,.618,2.4,19.7,11.5,8.0,1.2,0.0,4.7,22.3,135,95,24.1,6.9,Peja Stojakovic
+2004-03-09,26-274,SAC,HOME,GSW,W (+4),1,43:16,.466,.452,2.4,20.3,11.0,4.3,2.6,0.0,0.0,20.9,119,103,13.9,2.1,Peja Stojakovic
+2004-03-11,26-276,SAC,HOME,DAL,W (+18),1,40:09,.739,.714,0.0,10.7,6.8,3.1,0.0,0.0,11.8,18.3,116,104,14.8,0.4,Peja Stojakovic
+2004-03-12,26-277,SAC,AWAY,POR,L (-2),1,38:19,.491,.500,8.4,18.5,13.2,24.2,1.5,1.7,9.8,25.3,102,98,14.4,6.4,Peja Stojakovic
+2004-03-14,26-279,SAC,HOME,SAS,W (+14),1,41:27,.676,.625,8.6,5.2,6.8,10.7,2.5,0.0,18.4,18.0,121,100,15.0,4.6,Peja Stojakovic
+2004-03-16,26-281,SAC,AWAY,NJN,L (-17),1,32:03,.506,.450,0.0,27.8,12.5,18.7,3.4,2.5,15.5,19.8,90,96,9.7,3.1,Peja Stojakovic
+2004-03-17,26-282,SAC,AWAY,WAS,L (-6),1,39:57,.732,.679,3.9,8.2,6.4,11.5,3.8,0.0,10.5,22.1,133,121,21.1,3.1,Peja Stojakovic
+2004-03-19,26-284,SAC,AWAY,IND,W (+2),1,42:45,.475,.471,2.9,11.9,7.8,8.5,2.5,0.0,5.3,20.9,98,103,10.9,-1.3,Peja Stojakovic
+2004-03-21,26-286,SAC,HOME,HOU,W (+5),1,45:05,.797,.781,2.8,10.2,6.7,0.0,2.3,0.0,9.9,21.2,130,105,23.3,8.5,Peja Stojakovic
+2004-03-23,26-288,SAC,HOME,MIL,L (-11),1,41:09,.639,.625,2.9,8.8,5.9,8.5,0.0,0.0,15.4,21.4,107,124,12.6,-0.3,Peja Stojakovic
+2004-03-24,26-289,SAC,AWAY,LAL,L (-24),1,37:23,.597,.533,2.6,23.3,11.8,5.2,0.0,0.0,0.0,19.9,123,121,14.2,-0.3,Peja Stojakovic
+2004-03-28,26-293,SAC,HOME,WAS,W (+8),1,46:19,.684,.632,2.3,19.0,11.5,7.9,2.1,0.0,8.6,22.2,126,92,24.0,7.5,Peja Stojakovic
+2004-03-31,26-296,SAC,AWAY,SAS,L (-18),1,38:27,.567,.500,5.9,16.4,10.3,8.9,1.4,0.0,10.7,23.2,114,126,13.1,1.6,Peja Stojakovic
+2004-04-01,26-297,SAC,AWAY,DAL,L (-10),1,42:05,.573,.529,0.0,21.8,10.2,0.0,2.3,0.0,5.2,18.8,117,123,14.9,-1.0,Peja Stojakovic
+2004-04-04,26-300,SAC,AWAY,HOU,W (+5),1,44:04,.774,.700,0.0,31.6,16.7,12.5,3.4,0.0,5.2,21.7,142,96,27.7,10.0,Peja Stojakovic
+2004-04-06,26-302,SAC,HOME,NOH,W (+14),1,43:53,.908,.885,0.0,10.9,6.1,11.2,1.2,0.0,21.8,19.8,134,105,20.4,6.9,Peja Stojakovic
+2004-04-08,26-304,SAC,HOME,MIN,L (-8),1,40:32,.378,.333,0.0,8.4,4.2,8.2,0.0,0.0,5.9,20.0,79,109,4.4,-4.5,Peja Stojakovic
+2004-04-09,26-305,SAC,AWAY,PHO,L (-5),1,45:11,.475,.475,0.0,16.6,8.4,11.7,2.3,1.7,13.0,22.8,89,105,10.9,-0.8,Peja Stojakovic
+2004-04-11,26-307,SAC,HOME,LAL,W (+17),1,37:18,.547,.500,8.8,15.6,12.4,4.7,0.0,0.0,14.4,17.1,106,98,9.5,-2.0,Peja Stojakovic
+2004-04-12,26-308,SAC,AWAY,DEN,L (-8),1,41:19,.509,.412,0.0,16.3,8.0,4.5,1.2,1.4,4.8,22.3,103,105,12.5,-2.3,Peja Stojakovic
+2004-04-14,26-310,SAC,AWAY,GSW,L (-6),1,43:09,.620,.575,2.1,10.9,6.5,18.0,0.0,0.0,8.4,24.5,122,114,18.8,3.0,Peja Stojakovic
+2006-11-01,29-145,NOK,AWAY,BOS,W (+4),1,31:29,.337,.300,0.0,6.6,3.1,10.2,0.0,0.0,5.8,23.3,71,92,1.1,-5.2,Peja Stojakovic
+2006-11-03,29-147,NOK,AWAY,IND,W (+9),1,22:50,.353,.350,0.0,18.7,9.7,6.8,0.0,0.0,30.6,30.9,58,104,-2.9,-17.4,Peja Stojakovic
+2006-11-05,29-149,NOK,HOME,HOU,W (+6),1,29:42,.673,.682,0.0,15.4,7.5,6.5,3.6,0.0,14.4,22.3,108,97,11.4,8.7,Peja Stojakovic
+2006-11-07,29-151,NOK,HOME,GSW,W (+4),1,34:42,.495,.406,0.0,3.5,1.6,8.9,0.0,0.0,5.2,23.7,124,111,8.3,0.2,Peja Stojakovic
+2006-11-09,29-153,NOK,AWAY,GSW,L (-5),1,34:09,.587,.536,9.8,17.6,13.1,8.6,0.0,0.0,6.1,19.6,141,132,13.5,2.2,Peja Stojakovic
+2006-11-10,29-154,NOK,AWAY,POR,L (-1),1,33:40,.639,.625,3.5,11.0,7.1,0.0,0.0,0.0,5.7,23.9,126,110,12.8,6.0,Peja Stojakovic
+2006-11-12,29-156,NOK,AWAY,LAC,L (-16),1,32:53,.463,.455,0.0,14.2,8.0,0.0,3.4,2.4,25.2,23.3,73,102,3.6,-2.2,Peja Stojakovic
+2006-11-14,29-158,NOK,HOME,CHA,W (+9),1,37:44,.823,.795,2.5,20.7,10.8,0.0,2.7,1.8,10.5,33.8,144,89,33.5,23.0,Peja Stojakovic
+2006-11-15,29-159,NOK,AWAY,DET,W (+1),1,35:01,.504,.462,6.0,0.0,3.5,4.4,1.7,2.5,6.7,20.0,118,122,9.3,0.8,Peja Stojakovic
+2006-11-18,29-162,NOK,AWAY,MIN,W (+3),1,30:07,.588,.588,3.8,10.6,7.3,12.9,0.0,0.0,0.0,26.1,126,110,13.5,5.3,Peja Stojakovic
+2006-11-21,29-165,NOK,HOME,MIA,W (+15),1,28:51,.681,.656,0.0,3.1,1.6,0.0,0.0,2.6,0.0,24.8,133,99,15.2,10.9,Peja Stojakovic
+2006-11-22,29-166,NOK,AWAY,PHO,L (-9),1,38:23,.483,.425,5.1,7.8,6.2,0.0,0.0,0.0,0.0,26.1,111,110,11.8,2.9,Peja Stojakovic
+2006-11-24,29-168,NOK,HOME,MIN,L (-7),1,35:34,.245,.200,2.5,26.3,12.9,0.0,1.5,0.0,0.0,22.1,56,96,1.6,-9.2,Peja Stojakovic
+2007-10-31,30-144,NOH,HOME,SAC,W (+14),1,30:53,.764,.750,0.0,3.8,2.0,0.0,1.7,0.0,0.0,18.4,154,101,13.5,7.7,Peja Stojakovic
+2007-11-02,30-146,NOH,HOME,POR,W (+20),1,31:41,.529,.529,5.2,18.5,13.0,13.6,1.7,0.0,0.0,26.8,125,106,14.2,3.8,Peja Stojakovic
+2007-11-04,30-148,NOH,AWAY,DEN,W (+5),1,24:32,.230,.150,3.8,7.0,5.5,6.3,0.0,2.7,8.4,20.7,56,97,-0.7,-10.3,Peja Stojakovic
+2007-11-06,30-150,NOH,AWAY,LAL,W (+14),1,38:26,.823,.810,2.9,11.1,7.1,0.0,0.0,1.8,0.0,24.7,153,109,27.9,15.5,Peja Stojakovic
+2007-11-07,30-151,NOH,AWAY,POR,L (-3),1,34:46,.192,.192,0.0,6.0,2.9,0.0,1.5,0.0,7.1,17.8,44,106,-3.5,-12.7,Peja Stojakovic
+2007-11-09,30-153,NOH,HOME,SAS,L (-12),1,25:14,.167,.167,4.3,10.9,7.2,5.7,2.2,0.0,14.3,13.7,46,113,-0.6,-11.3,Peja Stojakovic
+2007-11-11,30-155,NOH,AWAY,PHI,W (+21),1,26:45,.625,.625,0.0,4.3,2.2,6.0,0.0,0.0,20.0,18.0,99,92,3.8,-2.7,Peja Stojakovic
+2007-11-12,30-156,NOH,AWAY,NJN,W (+2),1,31:12,.500,.500,3.8,7.2,5.5,6.0,1.7,0.0,7.7,20.7,95,97,5.6,-1.5,Peja Stojakovic
+2007-11-14,30-158,NOH,HOME,PHI,W (+19),1,26:38,.394,.313,0.0,0.0,0.0,5.7,2.1,0.0,0.0,16.4,96,97,3.1,-4.6,Peja Stojakovic
+2007-11-16,30-160,NOH,AWAY,MEM,W (+2),1,35:58,.555,.500,6.4,25.2,15.2,11.9,1.4,0.0,6.1,20.4,126,117,14.8,2.1,Peja Stojakovic
+2007-11-17,30-161,NOH,AWAY,MIN,W (+18),1,28:41,.688,.688,0.0,4.4,2.2,26.8,0.0,0.0,5.9,31.3,133,112,16.5,10.6,Peja Stojakovic
+2007-11-19,30-163,NOH,HOME,ORL,L (-7),1,36:07,.626,.600,0.0,12.1,5.0,5.2,1.4,0.0,10.7,24.0,110,103,13.9,4.3,Peja Stojakovic
+2007-11-21,30-165,NOH,HOME,IND,L (-12),1,36:23,.535,.500,2.6,8.6,5.5,5.1,2.9,0.0,0.0,20.0,115,114,12.8,4.2,Peja Stojakovic
+2007-11-23,30-167,NOH,AWAY,UTA,L (-28),1,33:55,.250,.250,2.8,3.6,3.2,6.0,0.0,0.0,14.3,9.3,58,115,-1.3,-8.3,Peja Stojakovic
+2007-11-24,30-168,NOH,AWAY,LAC,W (+9),1,38:56,.775,.708,0.0,13.7,7.3,4.3,1.4,0.0,6.6,19.2,144,103,17.4,6.7,Peja Stojakovic
+2007-11-26,30-170,NOH,HOME,MIN,L (-9),1,37:20,.607,.607,3.5,12.1,7.5,5.8,0.0,0.0,12.5,19.9,99,112,9.9,-1.0,Peja Stojakovic
+2007-11-30,30-174,NOH,AWAY,ATL,W (+6),1,32:04,.167,.167,8.8,3.8,6.7,23.4,1.7,0.0,7.7,18.1,66,98,1.5,-5.5,Peja Stojakovic
+2007-12-01,30-175,NOH,HOME,DAL,W (+4),1,45:18,.698,.643,2.5,10.6,6.4,3.9,1.2,0.0,6.0,17.8,139,117,16.8,6.0,Peja Stojakovic
+2007-12-05,30-179,NOH,HOME,DET,L (-15),1,38:40,.586,.500,2.6,10.6,6.5,0.0,1.5,0.0,5.8,21.8,119,112,13.1,5.8,Peja Stojakovic
+2007-12-07,30-181,NOH,HOME,MEM,W (+2),1,16:54,.563,.563,0.0,0.0,0.0,0.0,3.1,0.0,0.0,20.4,122,116,5.6,0.6,Peja Stojakovic
+2007-12-09,30-183,NOH,HOME,SEA,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2007-12-12,30-186,NOH,AWAY,DEN,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2007-12-14,30-188,NOH,AWAY,DAL,L (-9),1,24:54,.455,.455,3.9,18.8,10.6,8.6,2.3,0.0,0.0,20.2,111,102,6.7,5.5,Peja Stojakovic
+2007-12-15,30-189,NOH,HOME,PHO,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2007-12-17,30-191,NOH,AWAY,POR,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2007-12-19,30-193,NOH,AWAY,SEA,W (+14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2007-12-22,30-196,NOH,HOME,MIN,W (+34),1,25:42,.688,.688,0.0,8.1,4.4,5.4,4.1,0.0,11.1,16.6,117,84,8.5,0.7,Peja Stojakovic
+2007-12-26,30-200,NOH,AWAY,MEM,W (+18),1,35:32,.685,.679,0.0,7.1,3.7,3.5,1.5,2.2,11.5,23.5,122,113,14.2,1.9,Peja Stojakovic
+2007-12-28,30-202,NOH,AWAY,CHA,W (+14),1,28:59,.375,.375,3.9,3.9,3.9,5.5,3.6,0.0,7.7,20.5,80,94,4.1,-3.8,Peja Stojakovic
+2007-12-29,30-203,NOH,HOME,CLE,W (+10),1,33:27,.455,.455,0.0,0.0,0.0,17.0,3.6,0.0,0.0,17.2,105,100,6.8,1.5,Peja Stojakovic
+2007-12-31,30-205,NOH,HOME,TOR,L (-5),1,36:40,.603,.536,0.0,38.5,17.0,0.0,0.0,0.0,0.0,20.1,128,112,13.8,4.1,Peja Stojakovic
+2008-01-02,30-207,NOH,AWAY,LAC,W (+14),1,34:00,.504,.467,0.0,20.7,10.7,5.7,0.0,2.1,0.0,22.9,104,93,9.9,3.4,Peja Stojakovic
+2008-01-04,30-209,NOH,AWAY,GSW,W (+12),1,41:00,.716,.667,2.9,17.6,10.2,3.4,0.0,0.0,5.6,19.1,147,118,17.3,4.2,Peja Stojakovic
+2008-01-05,30-210,NOH,AWAY,PHO,W (+5),1,42:43,.575,.575,0.0,22.5,8.9,3.1,1.2,0.0,4.8,21.6,120,124,14.7,1.2,Peja Stojakovic
+2008-01-09,30-214,NOH,HOME,LAL,L (-29),1,29:59,.409,.409,6.0,10.0,7.5,0.0,0.0,0.0,0.0,16.5,98,128,4.9,-1.6,Peja Stojakovic
+2008-01-11,30-216,NOH,HOME,MIA,W (+26),1,28:29,.689,.700,0.0,18.7,10.2,0.0,0.0,0.0,0.0,19.7,127,106,11.2,-1.7,Peja Stojakovic
+2008-01-13,30-218,NOH,AWAY,HOU,W (+5),1,26:08,.170,.000,4.4,5.2,4.8,0.0,0.0,0.0,0.0,10.7,53,102,-1.7,-11.3,Peja Stojakovic
+2008-01-16,30-221,NOH,HOME,SEA,W (+31),1,29:57,.817,.727,3.5,10.0,6.8,4.2,0.0,0.0,6.6,21.2,158,100,18.6,7.9,Peja Stojakovic
+2008-01-18,30-223,NOH,HOME,CHA,W (+28),1,27:58,.957,.938,0.0,11.2,6.6,13.4,5.9,0.0,0.0,16.0,184,90,19.0,20.5,Peja Stojakovic
+2008-01-21,30-226,NOH,HOME,MIL,W (+14),1,31:31,.643,.643,3.1,14.5,8.4,5.2,0.0,0.0,0.0,20.9,138,115,12.4,3.3,Peja Stojakovic
+2008-01-23,30-228,NOH,HOME,POR,W (+15),1,32:49,.505,.500,0.0,21.4,11.3,0.0,0.0,0.0,0.0,18.0,108,104,7.7,-1.8,Peja Stojakovic
+2008-01-25,30-230,NOH,HOME,LAC,W (+19),1,33:32,.813,.813,3.1,7.0,4.9,10.3,0.0,0.0,5.9,22.8,152,111,20.5,12.0,Peja Stojakovic
+2008-01-26,30-231,NOH,AWAY,SAS,W (+24),1,31:32,.786,.786,0.0,18.1,10.4,5.0,0.0,0.0,0.0,22.4,160,94,18.0,15.2,Peja Stojakovic
+2008-01-28,30-233,NOH,HOME,DEN,W (+24),1,29:21,.713,.667,0.0,7.6,3.8,4.6,3.4,0.0,23.1,24.8,109,96,11.1,3.0,Peja Stojakovic
+2008-01-30,30-235,NOH,HOME,GSW,L (-13),1,40:47,.567,.500,7.5,21.7,13.8,6.9,0.0,0.0,0.0,19.1,143,139,15.5,0.0,Peja Stojakovic
+2008-02-01,30-237,NOH,AWAY,SAC,L (-9),1,44:21,.625,.625,5.7,18.0,12.2,7.7,1.1,0.0,4.8,22.1,121,119,19.1,5.7,Peja Stojakovic
+2008-02-04,30-240,NOH,AWAY,UTA,L (-22),1,35:14,.667,.667,0.0,10.5,5.2,16.9,1.5,0.0,18.2,15.3,114,126,9.3,1.9,Peja Stojakovic
+2008-02-06,30-242,NOH,AWAY,PHO,W (+2),1,47:54,.684,.684,2.2,15.9,7.9,0.0,1.1,0.0,0.0,17.6,147,120,20.7,5.0,Peja Stojakovic
+2008-02-09,30-245,NOH,HOME,MEM,W (+13),1,40:23,.684,.684,3.0,13.6,8.0,11.8,3.9,0.0,5.0,22.0,138,108,21.9,9.5,Peja Stojakovic
+2008-02-12,30-248,NOH,AWAY,CHI,W (+14),1,38:02,.827,.800,0.0,9.2,4.9,0.0,2.9,0.0,5.8,22.2,153,101,20.8,11.2,Peja Stojakovic
+2008-02-13,30-249,NOH,AWAY,MIL,W (+4),1,35:01,.800,.773,4.4,10.3,7.7,0.0,0.0,0.0,7.8,17.8,150,127,14.3,2.7,Peja Stojakovic
+2008-02-20,30-256,NOH,HOME,DAL,W (+11),1,37:30,.676,.625,3.1,13.1,8.0,4.7,0.0,0.0,18.4,20.1,113,109,10.8,0.9,Peja Stojakovic
+2008-02-22,30-258,NOH,HOME,HOU,L (-20),1,31:25,.383,.350,2.9,0.0,1.6,5.6,0.0,0.0,0.0,16.0,88,126,3.6,-6.0,Peja Stojakovic
+2008-02-23,30-259,NOH,AWAY,SAS,L (-9),1,38:00,.473,.389,3.0,10.5,6.5,4.2,0.0,0.0,0.0,15.7,107,121,7.0,-2.5,Peja Stojakovic
+2008-02-25,30-261,NOH,HOME,WAS,L (-3),1,37:13,.344,.344,7.2,6.3,6.7,4.3,0.0,0.0,11.1,23.1,77,116,1.7,-8.4,Peja Stojakovic
+2008-02-27,30-263,NOH,HOME,PHO,W (+17),1,37:30,.638,.583,0.0,14.2,7.1,9.5,1.3,0.0,7.0,17.0,123,108,13.9,2.0,Peja Stojakovic
+2008-02-29,30-265,NOH,HOME,UTA,W (+12),1,41:58,.608,.594,0.0,11.7,5.8,0.0,1.3,1.9,0.0,19.3,116,112,14.1,1.8,Peja Stojakovic
+2008-03-02,30-267,NOH,AWAY,WAS,L (-17),1,37:32,.594,.538,2.8,17.8,10.2,5.0,0.0,0.0,6.5,19.5,127,123,11.7,3.0,Peja Stojakovic
+2008-03-03,30-268,NOH,AWAY,NYK,W (+12),1,34:40,.346,.346,0.0,8.5,4.2,12.3,0.0,0.0,7.1,18.7,82,106,3.1,-6.5,Peja Stojakovic
+2008-03-05,30-270,NOH,HOME,ATL,W (+15),1,39:15,.729,.711,2.6,25.7,12.9,14.1,1.4,0.0,9.1,23.9,144,111,23.4,11.2,Peja Stojakovic
+2008-03-07,30-272,NOH,HOME,NJN,W (+11),1,36:13,.476,.393,3.9,12.9,8.8,4.2,1.5,1.9,16.0,24.7,90,106,8.1,-5.4,Peja Stojakovic
+2008-03-08,30-273,NOH,AWAY,HOU,L (-10),1,43:07,.464,.464,7.0,21.6,13.3,3.2,0.0,0.0,6.7,15.6,105,125,8.7,-4.0,Peja Stojakovic
+2008-03-12,30-277,NOH,HOME,SAS,W (+25),1,33:17,.500,.500,0.0,9.4,6.0,0.0,0.0,0.0,0.0,14.0,105,94,5.2,-2.5,Peja Stojakovic
+2008-03-14,30-279,NOH,HOME,LAL,W (+10),1,35:34,.469,.469,3.0,7.6,5.5,7.9,1.4,0.0,5.9,20.8,108,110,8.8,0.9,Peja Stojakovic
+2008-03-16,30-281,NOH,AWAY,DET,L (-21),1,38:03,.643,.600,11.7,18.6,14.7,0.0,0.0,0.0,5.8,22.3,139,138,15.8,5.0,Peja Stojakovic
+2008-03-17,30-282,NOH,HOME,CHI,W (+11),1,44:30,.485,.395,9.8,17.0,13.2,6.4,1.2,0.0,8.5,24.1,108,107,14.3,-0.3,Peja Stojakovic
+2008-03-19,30-284,NOH,HOME,HOU,W (+21),1,34:07,.500,.500,3.1,5.5,4.4,10.4,4.7,0.0,0.0,15.6,110,79,10.6,5.6,Peja Stojakovic
+2008-03-22,30-287,NOH,HOME,BOS,W (+7),1,37:19,.428,.308,0.0,7.8,3.5,3.7,1.4,0.0,0.0,19.8,95,122,6.6,-6.3,Peja Stojakovic
+2008-03-25,30-290,NOH,AWAY,IND,W (+8),1,41:37,.615,.615,0.0,11.5,5.8,3.6,1.2,0.0,0.0,14.3,125,116,11.0,-0.1,Peja Stojakovic
+2008-03-26,30-291,NOH,AWAY,CLE,W (+1),1,43:34,.722,.688,0.0,8.5,4.1,4.2,2.6,0.0,0.0,19.5,143,118,19.8,8.4,Peja Stojakovic
+2008-03-28,30-293,NOH,AWAY,BOS,L (-20),1,36:55,.525,.464,5.8,16.3,9.4,4.7,0.0,0.0,5.8,23.2,107,133,9.2,-1.8,Peja Stojakovic
+2008-03-30,30-295,NOH,AWAY,TOR,W (+7),1,42:49,.873,.885,3.5,9.3,6.6,5.9,0.0,0.0,12.3,19.0,149,127,20.1,5.8,Peja Stojakovic
+2008-04-01,30-297,NOH,AWAY,ORL,W (+1),1,38:47,.379,.227,0.0,27.1,10.7,3.8,0.0,0.0,7.0,16.1,96,116,4.5,-6.5,Peja Stojakovic
+2008-04-02,30-298,NOH,AWAY,MIA,W (+29),1,35:11,.462,.462,0.0,8.9,4.5,0.0,1.6,0.0,0.0,17.4,99,92,4.8,-3.6,Peja Stojakovic
+2008-04-04,30-300,NOH,HOME,NYK,W (+8),1,40:33,.579,.579,0.0,13.9,6.4,3.7,1.3,0.0,0.0,22.2,116,125,15.2,-2.6,Peja Stojakovic
+2008-04-06,30-302,NOH,HOME,GSW,W (+12),1,42:31,.574,.525,2.9,7.1,5.2,13.3,1.1,0.0,0.0,22.0,128,103,20.0,5.2,Peja Stojakovic
+2008-04-08,30-304,NOH,HOME,UTA,L (-11),1,28:50,.500,.500,0.0,8.3,4.0,0.0,1.9,2.7,11.8,28.7,82,89,7.6,5.0,Peja Stojakovic
+2008-04-09,30-305,NOH,AWAY,MIN,W (+32),1,34:31,.756,.767,7.1,11.3,9.1,0.0,0.0,0.0,5.9,23.3,142,109,17.2,4.7,Peja Stojakovic
+2008-04-11,30-307,NOH,AWAY,LAL,L (-3),1,39:10,.750,.750,0.0,9.2,4.7,4.1,1.4,0.0,0.0,19.9,138,123,17.4,8.2,Peja Stojakovic
+2008-04-12,30-308,NOH,AWAY,SAC,L (-3),1,38:54,.507,.438,5.0,6.2,5.5,4.8,1.3,0.0,0.0,19.3,113,100,11.7,2.7,Peja Stojakovic
+2008-04-15,30-311,NOH,HOME,LAC,W (+22),1,36:29,.242,.214,0.0,15.5,7.1,6.5,1.5,2.3,6.5,20.3,58,103,0.1,-13.1,Peja Stojakovic
+2008-04-16,30-312,NOH,AWAY,DAL,L (-13),1,37:55,.576,.500,8.6,14.4,11.5,8.3,0.0,4.1,0.0,18.3,137,130,15.9,4.4,Peja Stojakovic
+2010-10-27,33-140,NOH,HOME,MIL,W (+4),0,7:42,.750,.750,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.4,131,105,2.0,4.7,Peja Stojakovic
+2010-10-29,33-142,NOH,HOME,DEN,W (+6),0,13:34,.595,.500,0.0,0.0,0.0,22.9,8.0,0.0,25.4,27.2,100,101,5.3,5.7,Peja Stojakovic
+2010-11-13,33-157,NOH,HOME,POR,W (+20),0,17:21,.698,.643,0.0,6.4,3.5,19.3,0.0,0.0,0.0,21.8,154,110,9.0,11.2,Peja Stojakovic
+2010-11-15,33-159,NOH,AWAY,DAL,L (-3),0,19:25,1.007,1.000,0.0,13.0,6.2,12.9,0.0,0.0,10.6,23.2,163,119,13.7,19.4,Peja Stojakovic
+2010-11-17,33-161,NOH,HOME,DAL,W (+2),0,17:50,.410,.375,0.0,9.6,4.1,0.0,0.0,0.0,0.0,13.4,86,116,1.5,-6.8,Peja Stojakovic
+2010-11-19,33-163,NOH,HOME,CLE,W (+7),0,12:46,.214,.214,0.0,15.3,7.8,10.7,0.0,0.0,12.5,28.1,45,110,-1.2,-18.0,Peja Stojakovic
+2010-11-24,33-168,TOR,HOME,PHI,W (+16),0,6:15,.902,.833,0.0,18.7,9.6,0.0,0.0,0.0,0.0,29.0,180,105,6.0,21.0,Peja Stojakovic
+2010-11-26,33-170,TOR,AWAY,BOS,L (-9),0,16:06,.929,.929,0.0,17.0,7.5,13.5,0.0,0.0,22.2,24.0,121,124,9.4,13.3,Peja Stojakovic
+2010-11-28,33-172,TOR,HOME,ATL,L (-18),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2010-12-01,33-175,TOR,HOME,WAS,W (+19),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2010-12-03,33-177,TOR,HOME,OKC,W (+12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2010-12-05,33-179,TOR,HOME,NYK,L (-17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2010-12-06,33-180,TOR,AWAY,IND,L (-24),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Peja Stojakovic
+2010-12-08,33-182,TOR,AWAY,NYK,L (-3),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Peja Stojakovic
+2010-12-10,33-184,TOR,HOME,DEN,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2010-12-11,33-185,TOR,AWAY,DET,W (+4),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Peja Stojakovic
+2010-12-14,33-188,TOR,AWAY,CHA,L (-6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Peja Stojakovic
+2010-12-15,33-189,TOR,HOME,CHI,L (-17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2011-01-31,33-236,DAL,HOME,WAS,W (+10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2011-02-02,33-238,DAL,AWAY,NYK,W (+16),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Peja Stojakovic
+2011-02-04,33-240,DAL,AWAY,BOS,W (+4),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Peja Stojakovic
+2011-02-05,33-241,DAL,AWAY,CHA,W (+9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Peja Stojakovic
+2011-02-07,33-243,DAL,HOME,CLE,W (+3),1,19:53,.405,.389,5.1,20.5,12.8,0.0,0.0,0.0,0.0,21.5,97,104,4.0,-4.1,Peja Stojakovic
+2011-02-09,33-245,DAL,AWAY,SAC,W (+2),1,20:19,.254,.143,0.0,22.5,10.9,33.1,2.6,0.0,0.0,18.1,86,105,5.2,1.5,Peja Stojakovic
+2011-02-10,33-246,DAL,AWAY,DEN,L (-1),1,9:19,.250,.250,0.0,13.6,6.9,0.0,0.0,0.0,0.0,19.4,59,135,-0.1,-16.0,Peja Stojakovic
+2011-02-12,33-248,DAL,AWAY,HOU,W (+4),1,27:53,.854,.833,5.6,10.5,8.6,5.9,1.9,0.0,13.4,25.7,143,116,18.1,12.4,Peja Stojakovic
+2011-02-16,33-252,DAL,HOME,SAC,W (+16),1,26:44,.545,.545,9.5,9.7,9.6,4.4,1.8,0.0,8.3,19.0,111,102,7.8,-1.8,Peja Stojakovic
+2011-02-17,33-253,DAL,AWAY,PHO,W (+6),1,19:56,.635,.571,0.0,11.2,5.9,6.7,5.0,0.0,11.3,20.5,112,104,7.4,3.6,Peja Stojakovic
+2011-02-23,33-259,DAL,HOME,UTA,W (+19),1,23:10,1.000,1.000,0.0,9.9,5.5,0.0,2.1,3.4,0.0,17.4,189,100,16.4,18.8,Peja Stojakovic
+2011-02-26,33-262,DAL,AWAY,WAS,W (+6),1,31:17,.417,.417,0.0,14.2,7.7,4.3,0.0,0.0,14.3,10.1,74,104,2.4,-6.2,Peja Stojakovic
+2011-02-27,33-263,DAL,AWAY,TOR,W (+18),1,22:45,.357,.357,0.0,10.8,5.3,0.0,0.0,0.0,12.5,15.5,66,110,0.5,-10.3,Peja Stojakovic
+2011-03-01,33-265,DAL,AWAY,PHI,W (+8),1,29:55,.250,.250,9.4,7.1,8.1,8.5,0.0,0.0,0.0,12.5,79,102,2.2,-5.2,Peja Stojakovic
+2011-03-04,33-268,DAL,HOME,IND,W (+8),1,16:30,.436,.333,22.4,8.8,16.2,33.1,0.0,0.0,0.0,18.4,139,119,7.8,4.3,Peja Stojakovic
+2011-03-06,33-270,DAL,HOME,MEM,L (-1),1,13:07,.000,.000,0.0,16.6,9.3,9.9,4.1,0.0,33.3,22.4,12,111,-2.5,-19.8,Peja Stojakovic
+2011-03-07,33-271,DAL,AWAY,MIN,W (+3),1,15:57,.500,.500,14.7,18.8,16.9,0.0,3.2,0.0,0.0,24.9,112,107,7.2,-0.3,Peja Stojakovic
+2011-03-20,33-284,DAL,HOME,GSW,W (+28),0,19:25,.773,.773,0.0,5.4,2.7,12.9,0.0,0.0,0.0,25.9,143,87,12.3,17.7,Peja Stojakovic
+2011-03-24,33-288,DAL,HOME,MIN,W (+8),0,26:29,.800,.800,4.4,13.6,9.0,5.8,0.0,0.0,0.0,17.0,153,109,12.9,7.2,Peja Stojakovic
+2011-03-26,33-290,DAL,AWAY,UTA,W (+17),0,22:03,.363,.250,0.0,9.9,6.1,7.8,2.4,0.0,12.7,17.9,74,89,1.7,-5.5,Peja Stojakovic
+2011-03-27,33-291,DAL,AWAY,PHO,W (+8),0,19:48,.500,.500,4.8,0.0,2.6,0.0,0.0,0.0,0.0,11.2,115,101,2.6,-1.9,Peja Stojakovic
+2011-03-30,33-294,DAL,AWAY,LAC,W (+6),0,21:30,.688,.688,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.6,121,116,6.6,1.1,Peja Stojakovic
+2011-03-31,33-295,DAL,AWAY,LAL,L (-28),0,24:46,.597,.550,0.0,4.0,2.0,0.0,0.0,0.0,0.0,19.9,120,122,7.1,3.9,Peja Stojakovic
+2011-04-02,33-297,DAL,AWAY,GSW,L (-7),0,17:33,.500,.500,0.0,28.1,12.7,0.0,2.9,0.0,25.0,10.0,70,100,2.5,-1.8,Peja Stojakovic
+2011-04-03,33-298,DAL,AWAY,POR,L (-8),0,10:05,1.500,1.500,0.0,0.0,0.0,0.0,5.4,0.0,50.0,10.1,92,111,2.7,7.1,Peja Stojakovic
+2011-04-06,33-301,DAL,HOME,DEN,L (-8),0,20:41,.500,.500,0.0,5.5,2.7,7.2,0.0,3.7,0.0,15.5,118,120,5.0,-0.3,Peja Stojakovic
+2011-04-08,33-303,DAL,HOME,LAC,W (+11),0,11:55,.714,.714,0.0,11.2,5.2,0.0,0.0,0.0,0.0,24.7,145,108,7.0,9.7,Peja Stojakovic
+2011-04-10,33-305,DAL,HOME,PHO,W (+25),0,20:39,.612,.577,5.7,9.9,7.9,15.0,0.0,0.0,0.0,29.1,150,102,12.2,8.5,Peja Stojakovic
+2011-04-11,33-306,DAL,AWAY,HOU,W (+7),0,13:57,.375,.375,0.0,25.3,15.0,0.0,0.0,0.0,0.0,13.6,75,88,1.8,-0.9,Peja Stojakovic
+1999-11-05,22-149,SAC,HOME,MIN,W (+5),0,20:16,.468,.350,9.1,0.0,4.4,0.0,2.3,0.0,7.8,24.3,100,95,6.2,1.4,Peja Stojakovic
+1999-11-06,22-150,SAC,AWAY,MIN,L (-13),0,24:34,.556,.556,0.0,18.6,9.2,19.4,2.0,0.0,0.0,16.3,118,114,10.0,3.6,Peja Stojakovic
+1999-11-12,22-156,SAC,HOME,UTA,W (+13),0,21:58,.500,.500,4.5,13.1,8.8,13.4,0.0,0.0,22.2,17.3,92,102,3.1,-4.6,Peja Stojakovic
+1999-11-14,22-158,SAC,HOME,DEN,W (+10),0,8:22,.000,.000,0.0,13.6,7.0,0.0,5.7,0.0,0.0,10.2,0,102,-0.1,-8.6,Peja Stojakovic
+1999-11-16,22-160,SAC,HOME,VAN,W (+4),0,10:10,.375,.375,7.7,0.0,4.4,0.0,0.0,0.0,20.0,19.6,69,93,-0.1,-8.7,Peja Stojakovic
+1999-11-18,22-162,SAC,AWAY,HOU,W (+18),0,29:39,.720,.731,6.4,10.9,8.5,14.9,1.6,0.0,0.0,18.1,159,111,18.7,9.9,Peja Stojakovic
+1999-11-19,22-163,SAC,AWAY,DAL,W (+9),0,33:18,.460,.400,7.5,12.5,10.0,15.2,2.9,1.7,5.8,21.2,107,92,13.9,6.6,Peja Stojakovic
+1999-11-21,22-165,SAC,HOME,HOU,W (+5),0,20:08,.700,.700,10.0,4.9,7.4,5.9,0.0,0.0,28.6,14.2,107,114,5.1,-2.3,Peja Stojakovic
+1999-11-23,22-167,SAC,HOME,NJN,W (+13),0,15:51,.286,.286,7.3,14.5,11.7,7.9,0.0,0.0,30.0,26.8,55,100,-1.2,-18.2,Peja Stojakovic
+1999-11-26,22-170,SAC,HOME,GSW,W (+29),0,21:06,.788,.750,0.0,19.7,11.5,18.8,4.5,2.6,18.4,22.1,126,84,13.9,11.7,Peja Stojakovic
+1999-11-29,22-173,SAC,AWAY,MIA,L (-10),0,25:06,.652,.625,0.0,14.4,6.3,15.2,1.9,0.0,0.0,14.1,130,95,9.5,8.7,Peja Stojakovic
+1999-11-30,22-174,SAC,AWAY,ORL,W (+9),0,24:06,.667,.667,4.3,13.0,8.6,12.5,0.0,0.0,25.0,20.2,103,106,6.9,-0.6,Peja Stojakovic
+1999-12-02,22-176,SAC,AWAY,ATL,L (-10),0,20:56,.250,.250,8.0,14.6,11.0,6.3,0.0,2.9,9.1,21.2,64,109,1.1,-8.7,Peja Stojakovic
+1999-12-04,22-178,SAC,AWAY,WAS,W (+10),0,17:50,.444,.429,0.0,0.0,0.0,13.3,0.0,0.0,20.2,22.8,78,113,1.5,-11.2,Peja Stojakovic
+1999-12-06,22-180,SAC,AWAY,NJN,L (-14),0,7:47,.410,.250,0.0,26.1,13.6,0.0,0.0,0.0,17.0,29.9,74,106,1.2,-9.4,Peja Stojakovic
+1999-12-08,22-182,SAC,HOME,LAL,W (+12),0,27:06,.883,.889,0.0,7.9,4.3,0.0,0.0,0.0,8.5,18.4,159,100,13.9,10.7,Peja Stojakovic
+1999-12-10,22-184,SAC,HOME,MIA,L (-10),0,21:23,.394,.375,12.0,21.4,15.4,6.8,0.0,0.0,0.0,16.1,108,115,5.1,-0.8,Peja Stojakovic
+1999-12-11,22-185,SAC,HOME,POR,L (-5),0,22:19,.347,.000,4.0,23.2,12.8,12.1,0.0,0.0,0.0,11.0,100,104,4.0,-3.8,Peja Stojakovic
+1999-12-15,22-189,SAC,AWAY,VAN,W (+3),0,26:21,.759,.833,3.4,7.4,5.3,7.4,1.7,0.0,15.2,19.5,121,103,12.5,4.8,Peja Stojakovic
+1999-12-16,22-190,SAC,AWAY,DEN,L (-10),0,29:45,.745,.682,3.3,9.6,6.5,0.0,1.6,0.0,7.3,18.7,141,118,14.5,3.8,Peja Stojakovic
+1999-12-18,22-192,SAC,AWAY,PHO,L (-16),0,9:15,.200,.200,18.4,0.0,9.7,17.4,0.0,0.0,0.0,22.1,75,124,0.2,-11.5,Peja Stojakovic
+1999-12-20,22-194,SAC,AWAY,GSW,L (-12),0,25:42,.620,.571,9.1,8.6,8.9,13.6,1.8,0.0,6.1,22.6,137,110,14.9,8.7,Peja Stojakovic
+1999-12-21,22-195,SAC,HOME,MIL,W (+13),0,29:23,.598,.567,0.0,19.7,9.3,18.8,0.0,0.0,5.9,24.1,130,102,13.1,5.4,Peja Stojakovic
+1999-12-23,22-197,SAC,AWAY,LAC,L (-6),0,16:31,.111,.111,5.5,18.8,11.8,8.5,2.7,0.0,10.0,23.6,33,91,-2.8,-15.8,Peja Stojakovic
+1999-12-26,22-200,SAC,HOME,DAL,W (+7),0,23:13,.444,.500,0.0,4.2,2.6,10.2,2.1,0.0,20.2,18.7,77,114,3.2,-7.4,Peja Stojakovic
+1999-12-28,22-202,SAC,HOME,BOS,W (+13),0,25:52,.771,.727,0.0,15.1,8.9,7.1,3.8,2.4,0.0,21.4,153,100,18.3,12.9,Peja Stojakovic
+1999-12-29,22-203,SAC,AWAY,SEA,W (+9),0,18:11,.665,.500,14.4,17.8,16.3,9.2,2.8,0.0,0.0,27.7,150,108,13.5,9.1,Peja Stojakovic
+2000-01-04,22-209,SAC,AWAY,CLE,W (+4),0,19:47,.188,.188,5.3,18.5,11.4,7.1,0.0,0.0,11.1,18.1,52,110,-1.3,-15.2,Peja Stojakovic
+2000-01-06,22-211,SAC,AWAY,TOR,L (-12),0,16:36,.000,.000,0.0,10.3,5.6,7.8,0.0,0.0,42.9,17.3,7,108,-4.9,-21.0,Peja Stojakovic
+2000-01-07,22-212,SAC,AWAY,BOS,L (-8),0,12:43,.200,.200,0.0,8.0,3.8,0.0,3.8,0.0,37.5,25.6,26,103,-3.2,-22.3,Peja Stojakovic
+2000-01-09,22-214,SAC,HOME,IND,W (+3),0,9:28,.630,.333,13.7,9.6,11.3,12.2,0.0,0.0,0.0,20.8,152,121,6.0,5.9,Peja Stojakovic
+2000-01-11,22-216,SAC,HOME,HOU,W (+17),0,17:55,.666,.500,0.0,21.3,11.3,21.8,0.0,0.0,22.8,20.5,116,95,7.2,0.7,Peja Stojakovic
+2000-01-13,22-218,SAC,HOME,SAS,W (+4),0,21:34,.500,.500,14.1,9.7,12.2,0.0,2.1,0.0,11.1,15.3,114,102,7.0,4.7,Peja Stojakovic
+2000-01-15,22-220,SAC,AWAY,GSW,W (+15),0,17:33,.666,.500,0.0,5.1,3.0,27.0,5.8,3.6,0.0,17.4,158,96,11.4,16.1,Peja Stojakovic
+2000-01-16,22-221,SAC,HOME,CLE,W (+11),0,26:24,.743,.667,4.2,3.6,3.9,5.6,1.7,0.0,15.7,20.2,126,102,11.6,3.7,Peja Stojakovic
+2000-01-18,22-223,SAC,HOME,LAC,W (+6),0,20:18,.727,.667,4.8,13.8,9.4,0.0,0.0,0.0,12.7,15.9,126,101,7.2,0.3,Peja Stojakovic
+2000-01-20,22-225,SAC,HOME,ORL,W (+8),1,31:51,.416,.400,9.4,23.9,16.3,9.2,1.5,0.0,4.7,25.5,106,100,11.0,-0.6,Peja Stojakovic
+2000-01-22,22-227,SAC,HOME,UTA,L (-3),0,14:03,.500,.500,0.0,0.0,0.0,0.0,0.0,0.0,33.3,9.4,65,121,0.0,-9.4,Peja Stojakovic
+2000-01-25,22-230,SAC,AWAY,CHH,W (+11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2000-01-26,22-231,SAC,AWAY,MIL,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2000-01-28,22-233,SAC,AWAY,CHI,W (+12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2000-01-31,22-236,SAC,AWAY,MIN,L (-15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2000-02-02,22-238,SAC,AWAY,DET,W (+3),0,12:17,1.000,1.000,0.0,25.0,13.5,10.3,3.9,0.0,50.0,7.0,98,99,2.9,0.7,Peja Stojakovic
+2000-02-04,22-240,SAC,AWAY,IND,L (-10),0,18:30,.538,.500,9.4,11.5,10.3,0.0,2.5,0.0,21.2,20.8,90,104,4.5,-0.7,Peja Stojakovic
+2000-02-06,22-242,SAC,AWAY,PHI,L (-11),0,27:35,.678,.654,3.3,12.9,8.2,6.6,0.0,0.0,11.9,23.8,119,119,13.1,2.8,Peja Stojakovic
+2000-02-08,22-244,SAC,HOME,CHI,W (+39),1,33:17,.481,.455,0.0,10.4,5.3,6.9,3.1,0.0,8.0,16.6,99,89,8.2,-2.8,Peja Stojakovic
+2000-02-10,22-246,SAC,HOME,DEN,W (+12),1,28:39,.505,.455,3.2,6.5,4.9,6.3,1.7,0.0,7.8,19.1,102,92,7.9,2.0,Peja Stojakovic
+2000-02-15,22-251,SAC,HOME,PHO,L (-9),0,28:50,.611,.611,0.0,8.7,4.2,9.6,3.3,0.0,10.0,14.4,115,119,9.3,4.0,Peja Stojakovic
+2000-02-17,22-253,SAC,AWAY,UTA,L (-11),0,25:23,.644,.500,4.3,11.0,7.2,0.0,2.0,0.0,14.7,24.3,116,123,9.4,0.4,Peja Stojakovic
+2000-02-18,22-254,SAC,HOME,SEA,W (+33),0,24:45,.727,.714,0.0,12.3,6.3,18.8,1.9,0.0,6.5,25.2,138,88,17.4,16.0,Peja Stojakovic
+2000-02-20,22-256,SAC,HOME,POR,L (-5),1,44:50,.514,.478,4.5,8.4,6.3,8.4,0.0,0.0,3.9,23.8,114,113,14.8,1.6,Peja Stojakovic
+2000-02-21,22-257,SAC,AWAY,DEN,L (-6),1,38:19,.712,.667,5.5,10.1,7.9,14.6,0.0,0.0,0.0,23.3,155,120,25.3,9.2,Peja Stojakovic
+2000-02-23,22-259,SAC,HOME,ATL,L (-6),0,29:52,.571,.571,6.8,0.0,3.1,6.0,0.0,0.0,6.7,20.9,119,114,10.1,3.2,Peja Stojakovic
+2000-02-26,22-262,SAC,AWAY,VAN,L (-12),0,22:52,.500,.500,0.0,15.3,7.0,6.0,2.2,0.0,33.3,16.6,67,107,1.8,-9.0,Peja Stojakovic
+2000-02-29,22-265,SAC,HOME,VAN,W (+25),0,24:53,.595,.600,0.0,19.2,9.4,0.0,2.0,0.0,0.0,10.4,121,94,6.5,-1.9,Peja Stojakovic
+2000-03-02,22-267,SAC,AWAY,HOU,L (-3),0,15:13,.436,.333,0.0,14.2,6.5,0.0,0.0,0.0,22.5,23.0,71,105,0.8,-12.3,Peja Stojakovic
+2000-03-04,22-269,SAC,AWAY,SAS,W (+5),0,20:16,.429,.429,5.2,13.9,8.9,20.0,0.0,0.0,12.5,18.2,98,109,3.9,0.2,Peja Stojakovic
+2000-03-06,22-271,SAC,HOME,DAL,W (+21),0,18:25,.313,.313,5.9,11.9,8.9,11.9,2.7,0.0,0.0,17.2,105,108,3.1,-5.4,Peja Stojakovic
+2000-03-08,22-273,SAC,HOME,CHH,W (+13),0,7:16,1.000,1.000,0.0,0.0,0.0,0.0,0.0,0.0,33.3,18.7,111,104,2.4,1.1,Peja Stojakovic
+2000-03-10,22-275,SAC,HOME,TOR,W (+15),1,29:38,.254,.143,3.2,13.1,8.1,8.9,0.0,0.0,0.0,22.6,69,97,1.5,-10.2,Peja Stojakovic
+2000-03-12,22-277,SAC,AWAY,LAL,L (-3),1,37:08,.688,.688,3.1,5.2,4.2,8.8,4.1,0.0,0.0,19.3,140,112,18.5,10.8,Peja Stojakovic
+2000-03-14,22-279,SAC,AWAY,POR,L (-5),1,37:48,.573,.500,5.1,11.0,7.9,5.3,1.3,0.0,5.0,23.6,115,105,15.4,4.3,Peja Stojakovic
+2000-03-15,22-280,SAC,HOME,LAC,W (+20),1,35:37,.535,.533,6.1,7.3,6.7,4.7,2.8,0.0,15.9,22.9,95,82,10.1,1.7,Peja Stojakovic
+2000-03-18,22-283,SAC,AWAY,LAC,W (+21),0,29:06,.648,.667,0.0,4.4,2.0,6.4,3.4,0.0,0.0,24.1,123,88,14.5,10.0,Peja Stojakovic
+2000-03-21,22-286,SAC,HOME,WAS,W (+12),0,24:47,.550,.550,0.0,13.0,8.0,15.1,2.0,2.3,9.1,18.8,118,88,8.5,6.8,Peja Stojakovic
+2000-03-24,22-289,SAC,HOME,DET,W (+10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2000-03-26,22-291,SAC,HOME,LAL,L (-1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2000-03-28,22-293,SAC,HOME,NYK,W (+8),0,26:43,.605,.500,4.6,13.7,9.1,12.5,2.0,0.0,10.8,32.8,117,106,13.7,1.3,Peja Stojakovic
+2000-03-31,22-296,SAC,AWAY,SEA,L (-15),0,28:53,.803,.769,0.0,19.7,9.9,10.8,0.0,0.0,0.0,21.6,156,124,18.8,8.5,Peja Stojakovic
+2000-04-02,22-298,SAC,HOME,PHI,W (+22),0,24:03,.850,.850,0.0,9.5,5.1,12.1,2.2,0.0,0.0,18.6,177,105,15.8,14.5,Peja Stojakovic
+2000-04-04,22-300,SAC,AWAY,DAL,L (-3),0,24:12,.500,.500,8.7,24.2,15.2,5.9,0.0,0.0,17.6,29.5,95,117,6.5,-5.4,Peja Stojakovic
+2000-04-05,22-301,SAC,AWAY,SAS,W (+10),1,26:59,.368,.300,11.1,12.7,12.0,15.8,2.0,0.0,8.4,20.4,97,111,6.6,-4.4,Peja Stojakovic
+2000-04-07,22-303,SAC,HOME,MIN,L (-3),1,45:37,.412,.350,0.0,21.3,9.9,16.2,1.1,0.0,0.0,20.6,97,100,12.7,1.6,Peja Stojakovic
+2000-04-09,22-305,SAC,HOME,PHO,L (-5),0,22:24,.536,.536,3.9,0.0,2.2,0.0,0.0,0.0,17.6,30.9,90,115,5.3,-3.9,Peja Stojakovic
+2000-04-11,22-307,SAC,HOME,SAS,L (-6),0,26:53,.470,.429,9.1,28.0,19.8,0.0,0.0,0.0,11.8,29.5,87,94,8.0,0.7,Peja Stojakovic
+2000-04-13,22-309,SAC,HOME,GSW,W (+23),0,18:40,.574,.500,0.0,14.6,8.6,35.2,0.0,0.0,0.0,24.2,132,105,12.0,7.7,Peja Stojakovic
+2000-04-14,22-310,SAC,AWAY,LAL,L (-7),0,29:23,.585,.464,7.7,17.4,12.3,5.2,1.6,2.1,5.5,24.2,129,116,16.2,5.9,Peja Stojakovic
+2000-04-16,22-312,SAC,AWAY,POR,L (-7),0,29:07,.712,.600,14.1,18.4,16.2,12.2,3.5,0.0,13.7,22.8,134,105,17.9,9.7,Peja Stojakovic
+2000-04-18,22-314,SAC,HOME,SEA,L (-7),0,33:58,.672,.643,3.0,8.7,5.9,5.3,0.0,0.0,16.8,22.0,113,116,11.1,-1.3,Peja Stojakovic
+2000-04-19,22-315,SAC,AWAY,UTA,L (-9),0,13:12,.688,.688,0.0,0.0,0.0,42.9,3.9,0.0,27.3,36.7,100,102,6.4,13.9,Peja Stojakovic
+2004-11-02,27-146,SAC,AWAY,DAL,L (-9),1,39:00,.340,.200,5.1,9.7,7.2,11.4,2.7,1.9,14.5,22.1,81,117,6.4,-5.9,Peja Stojakovic
+2004-11-03,27-147,SAC,AWAY,SAS,L (-16),1,41:32,.476,.429,0.0,10.4,5.2,13.4,2.6,1.8,6.0,19.4,97,111,10.6,2.3,Peja Stojakovic
+2004-11-06,27-150,SAC,AWAY,HOU,L (-3),1,48:03,.486,.429,0.0,4.7,2.3,4.1,2.4,0.0,0.0,22.2,113,112,13.6,1.0,Peja Stojakovic
+2004-11-09,27-153,SAC,HOME,TOR,W (+16),1,28:22,.489,.423,0.0,11.2,7.4,4.7,1.7,0.0,6.5,23.8,97,95,7.2,-4.6,Peja Stojakovic
+2004-11-10,27-154,SAC,AWAY,SEA,L (-30),1,32:50,.490,.433,5.8,11.0,8.1,0.0,0.0,0.0,10.9,25.2,96,123,6.6,-2.8,Peja Stojakovic
+2004-11-13,27-157,SAC,AWAY,PHO,W (+2),1,41:04,.686,.667,2.9,9.8,6.2,7.0,1.3,0.0,10.7,21.0,130,129,16.9,2.9,Peja Stojakovic
+2004-11-14,27-158,SAC,HOME,DEN,W (+12),1,39:08,.615,.588,3.2,9.5,6.8,5.1,3.9,1.7,18.3,25.4,99,89,13.6,3.9,Peja Stojakovic
+2004-11-16,27-160,SAC,HOME,CHI,W (+7),1,42:44,.714,.684,0.0,8.8,4.9,9.8,2.4,0.0,0.0,21.7,143,113,24.3,8.4,Peja Stojakovic
+2004-11-19,27-163,SAC,HOME,MEM,W (+2),1,43:29,.529,.423,2.7,9.8,5.9,14.2,3.6,0.0,5.9,18.8,112,113,15.1,2.5,Peja Stojakovic
+2004-11-21,27-165,SAC,HOME,MIL,W (+9),1,41:10,.543,.500,0.0,11.5,6.0,11.1,1.3,1.6,17.2,26.1,87,85,9.8,0.1,Peja Stojakovic
+2004-11-23,27-167,SAC,HOME,HOU,W (+6),1,43:12,.674,.633,2.4,3.6,2.9,7.4,0.0,0.0,0.0,18.1,141,118,16.3,1.3,Peja Stojakovic
+2004-11-26,27-170,SAC,AWAY,LAL,W (+3),1,43:21,.572,.382,0.0,7.8,3.9,6.9,1.2,0.0,0.0,23.3,130,119,19.0,0.5,Peja Stojakovic
+2004-11-28,27-172,SAC,HOME,MIN,L (-11),1,37:07,.679,.607,2.7,9.7,5.9,0.0,0.0,0.0,5.8,20.1,129,126,14.8,-1.3,Peja Stojakovic
+2004-11-30,27-174,SAC,AWAY,MEM,W (+5),1,41:14,.797,.750,10.6,7.5,8.8,0.0,0.0,3.1,9.9,24.5,144,112,23.4,9.4,Peja Stojakovic
+2004-12-01,27-175,SAC,AWAY,NOH,W (+13),1,37:43,.581,.500,3.6,4.9,4.4,4.8,0.0,0.0,5.5,23.4,122,103,12.9,0.6,Peja Stojakovic
+2004-12-03,27-177,SAC,HOME,IND,W (+26),1,32:25,.506,.444,0.0,3.5,1.8,7.4,0.0,0.0,9.2,14.3,129,108,5.6,-4.8,Peja Stojakovic
+2004-12-05,27-179,SAC,HOME,BOS,W (+14),1,33:06,.715,.722,3.0,3.4,3.2,18.5,3.0,0.0,0.0,23.2,150,109,22.6,14.9,Peja Stojakovic
+2004-12-07,27-181,SAC,HOME,CHA,W (+17),1,44:15,.653,.553,8.2,16.3,13.1,12.1,1.1,0.0,4.2,22.8,144,96,26.4,8.8,Peja Stojakovic
+2004-12-10,27-184,SAC,AWAY,MIN,L (-8),1,42:25,.750,.750,0.0,11.7,5.8,9.7,1.2,0.0,11.1,9.6,132,122,10.9,0.7,Peja Stojakovic
+2004-12-11,27-185,SAC,AWAY,IND,W (+5),1,40:04,.400,.400,6.6,10.4,8.7,4.1,1.4,0.0,11.8,19.4,87,101,4.6,-5.0,Peja Stojakovic
+2004-12-14,27-188,SAC,AWAY,MIL,W (+3),1,40:41,.563,.531,2.4,5.3,3.8,8.6,0.0,0.0,5.6,19.8,114,104,10.7,1.2,Peja Stojakovic
+2004-12-16,27-190,SAC,HOME,LAL,L (-16),1,36:49,.538,.500,2.7,19.1,9.5,3.9,1.4,2.3,0.0,17.9,122,125,12.4,0.0,Peja Stojakovic
+2004-12-19,27-193,SAC,HOME,NOH,W (+36),1,30:56,.666,.607,0.0,6.5,4.0,11.5,0.0,0.0,11.3,27.7,128,90,13.6,1.1,Peja Stojakovic
+2004-12-21,27-195,SAC,HOME,WAS,W (+11),1,42:41,.797,.767,3.3,13.0,8.7,0.0,0.0,0.0,10.9,19.6,138,106,18.1,4.0,Peja Stojakovic
+2004-12-23,27-197,SAC,HOME,MIA,L (-2),1,43:30,.503,.472,2.2,14.6,8.1,6.9,2.4,0.0,5.0,19.3,115,116,12.5,-1.7,Peja Stojakovic
+2004-12-26,27-200,SAC,HOME,GSW,L (-4),1,42:33,.483,.406,2.7,7.8,5.3,3.7,1.2,0.0,9.7,21.6,95,108,9.7,-4.4,Peja Stojakovic
+2004-12-31,27-205,SAC,AWAY,UTA,W (+7),1,39:42,.623,.625,6.3,12.3,9.4,4.2,1.3,1.8,4.6,25.7,122,115,18.4,2.6,Peja Stojakovic
+2005-01-02,27-207,SAC,HOME,SAS,W (+5),1,39:17,.670,.650,3.0,17.2,10.8,5.7,1.3,1.8,12.6,28.5,113,89,19.4,10.9,Peja Stojakovic
+2005-01-04,27-209,SAC,AWAY,NYK,W (+7),1,38:55,.567,.467,0.0,5.4,3.0,11.0,2.6,0.0,9.7,23.9,113,104,14.0,1.5,Peja Stojakovic
+2005-01-05,27-210,SAC,AWAY,TOR,L (-3),1,36:14,.355,.227,0.0,4.9,2.4,8.5,0.0,0.0,12.4,18.6,76,110,1.1,-10.6,Peja Stojakovic
+2005-01-07,27-212,SAC,AWAY,ATL,W (+3),1,37:20,.461,.444,6.2,9.1,7.6,13.5,0.0,0.0,5.1,24.6,98,110,10.2,-5.0,Peja Stojakovic
+2005-01-08,27-213,SAC,AWAY,NOH,L (-4),1,49:27,.686,.609,4.3,6.8,5.5,11.6,1.1,0.0,3.6,24.8,146,125,28.9,7.3,Peja Stojakovic
+2005-01-11,27-216,SAC,HOME,DEN,W (+9),1,39:57,.524,.479,5.3,5.5,5.4,0.0,2.5,0.0,7.2,30.6,106,108,15.4,-0.4,Peja Stojakovic
+2005-01-13,27-218,SAC,HOME,UTA,W (+14),1,43:32,.668,.611,0.0,8.8,4.7,11.6,2.6,0.0,4.7,23.9,140,107,21.2,5.5,Peja Stojakovic
+2005-01-15,27-220,SAC,HOME,LAC,W (+4),1,38:38,.680,.600,0.0,11.2,6.2,7.6,4.1,0.0,0.0,22.1,137,103,21.1,8.8,Peja Stojakovic
+2005-01-17,27-222,SAC,AWAY,LAC,W (+6),1,38:03,.567,.567,0.0,6.3,3.7,5.3,4.1,0.0,11.8,21.6,94,91,11.1,1.2,Peja Stojakovic
+2005-01-18,27-223,SAC,HOME,POR,W (+6),1,40:51,.300,.300,0.0,10.3,5.4,6.3,1.3,0.0,16.7,13.8,62,113,-0.2,-13.5,Peja Stojakovic
+2005-01-20,27-225,SAC,HOME,CLE,W (+27),1,31:43,.663,.615,3.8,10.7,7.9,11.4,4.7,0.0,0.0,20.0,145,95,18.9,8.8,Peja Stojakovic
+2005-01-23,27-228,SAC,HOME,SAS,L (-30),1,29:10,.311,.292,3.8,15.0,9.5,0.0,1.8,2.3,13.4,24.6,61,111,1.2,-5.6,Peja Stojakovic
+2005-01-25,27-230,SAC,HOME,NJN,W (+20),1,39:38,.751,.714,0.0,14.0,8.3,7.9,1.3,0.0,10.7,22.3,133,103,19.1,3.5,Peja Stojakovic
+2005-01-27,27-232,SAC,AWAY,SAS,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2005-01-28,27-233,SAC,AWAY,HOU,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2005-01-30,27-235,SAC,AWAY,MIN,W (+10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2005-02-01,27-237,SAC,HOME,SEA,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2005-02-02,27-238,SAC,AWAY,GSW,W (+4),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Peja Stojakovic
+2005-02-04,27-240,SAC,HOME,NYK,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2005-02-05,27-241,SAC,AWAY,POR,L (-6),1,34:23,.493,.385,0.0,5.4,1.8,16.9,1.5,0.0,16.5,21.6,101,128,7.8,-6.7,Peja Stojakovic
+2005-02-08,27-244,SAC,HOME,PHO,L (-2),1,39:06,.530,.528,8.0,5.4,6.7,9.9,2.3,0.0,9.6,21.7,107,120,15.0,-0.8,Peja Stojakovic
+2005-02-10,27-246,SAC,AWAY,SEA,L (-8),1,45:04,.651,.583,2.8,13.0,8.1,6.8,1.2,0.0,0.0,23.8,131,126,21.6,2.0,Peja Stojakovic
+2005-02-11,27-247,SAC,HOME,DAL,L (-2),1,33:41,.414,.350,0.0,16.1,7.5,10.9,0.0,0.0,8.4,15.5,98,128,4.7,-7.6,Peja Stojakovic
+2005-02-13,27-249,SAC,AWAY,BOS,W (+4),1,5:12,.000,.000,0.0,24.0,11.9,25.3,10.4,0.0,0.0,17.8,33,89,0.6,-3.3,Peja Stojakovic
+2005-02-15,27-251,SAC,AWAY,CHI,L (-5),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Peja Stojakovic
+2005-02-16,27-252,SAC,AWAY,NJN,L (-11),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Peja Stojakovic
+2005-02-22,27-258,SAC,HOME,ATL,W (+10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2005-02-24,27-260,SAC,AWAY,DAL,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2005-02-26,27-262,SAC,AWAY,PHI,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2005-02-27,27-263,SAC,AWAY,WAS,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2005-03-01,27-265,SAC,AWAY,CHA,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic
+2005-03-02,27-266,SAC,AWAY,ORL,L (-3),1,39:25,.831,.708,3.3,9.7,6.6,3.5,2.7,0.0,15.1,22.9,147,122,22.1,6.2,Peja Stojakovic
+2005-03-04,27-268,SAC,AWAY,MIA,L (-21),1,31:57,.460,.433,3.3,20.5,11.7,0.0,0.0,0.0,5.8,25.6,92,117,7.6,-3.1,Peja Stojakovic
+2005-03-06,27-270,SAC,HOME,DET,W (+15),1,41:19,.418,.333,3.0,9.0,6.4,12.9,1.3,0.0,15.2,22.3,89,97,6.6,-5.2,Peja Stojakovic
+2005-03-08,27-272,SAC,HOME,MEM,W (+3),1,46:31,.470,.417,2.2,11.3,6.2,17.6,1.3,1.7,12.9,22.7,104,101,11.0,1.0,Peja Stojakovic
+2005-03-11,27-275,SAC,HOME,LAC,W (+1),1,37:23,.300,.300,0.0,4.2,1.7,2.9,0.0,0.0,0.0,12.0,70,124,0.0,-11.5,Peja Stojakovic
+2005-03-13,27-277,SAC,HOME,HOU,L (-15),1,41:28,.569,.556,2.1,3.7,2.7,16.4,1.3,0.0,9.8,20.6,120,132,13.6,1.2,Peja Stojakovic
+2005-03-15,27-279,SAC,HOME,ORL,W (+11),1,39:34,.699,.694,3.2,2.8,3.0,4.0,0.0,0.0,9.4,23.6,123,105,17.3,2.5,Peja Stojakovic
+2005-03-17,27-281,SAC,AWAY,GSW,L (-3),1,41:00,.429,.429,2.4,7.6,5.0,26.6,0.0,0.0,8.7,25.5,99,121,10.6,-2.3,Peja Stojakovic
+2005-03-19,27-283,SAC,AWAY,LAC,W (+4),1,44:36,.664,.600,4.7,13.7,8.9,3.7,1.2,0.0,5.2,19.4,136,107,18.3,5.6,Peja Stojakovic
+2005-03-20,27-284,SAC,HOME,GSW,L (-10),1,44:46,.337,.263,0.0,14.9,7.0,10.4,1.2,0.0,12.6,23.3,73,118,3.0,-9.9,Peja Stojakovic
+2005-03-22,27-286,SAC,HOME,POR,W (+19),1,43:55,.628,.588,4.3,11.5,7.4,10.5,5.8,0.0,5.2,19.1,128,95,22.6,6.8,Peja Stojakovic
+2005-03-24,27-288,SAC,HOME,DAL,W (+8),1,41:28,.992,.923,3.3,19.1,12.4,9.2,1.3,0.0,13.5,25.6,169,108,33.0,16.7,Peja Stojakovic
+2005-03-26,27-290,SAC,AWAY,DEN,L (-14),1,39:19,.741,.679,0.0,6.2,2.9,9.8,3.8,0.0,0.0,17.9,151,118,20.4,8.0,Peja Stojakovic
+2005-03-28,27-292,SAC,HOME,PHI,W (+9),1,46:41,.617,.556,4.2,8.5,6.3,2.6,2.1,0.0,8.7,20.1,128,113,19.5,-0.3,Peja Stojakovic
+2005-03-30,27-294,SAC,AWAY,DET,L (-17),1,38:21,.451,.357,3.0,10.2,6.4,18.3,0.0,0.0,10.7,24.0,91,117,6.9,-4.8,Peja Stojakovic
+2005-04-01,27-296,SAC,AWAY,CLE,W (+19),1,33:21,.583,.556,4.3,11.8,8.2,8.0,3.1,0.0,9.6,27.2,120,119,15.2,-1.7,Peja Stojakovic
+2005-04-03,27-298,SAC,HOME,MIN,L (-12),1,43:31,.537,.417,5.5,12.8,8.1,11.1,0.0,1.6,0.0,22.3,139,126,20.1,4.9,Peja Stojakovic
+2005-04-05,27-300,SAC,HOME,SEA,W (+21),1,38:08,.698,.633,4.1,9.2,7.0,23.2,0.0,0.0,10.4,24.1,143,122,20.0,4.6,Peja Stojakovic
+2005-04-08,27-303,SAC,AWAY,POR,W (+4),1,41:37,.698,.636,4.7,6.3,5.4,3.9,4.9,0.0,16.6,29.1,126,118,24.1,6.9,Peja Stojakovic
+2005-04-10,27-305,SAC,HOME,LAL,W (+19),1,27:58,.500,.500,3.9,13.7,9.1,12.4,1.8,0.0,20.0,20.9,106,110,6.8,-3.9,Peja Stojakovic
+2005-04-15,27-310,SAC,AWAY,LAL,W (+9),1,7:38,1.167,1.167,0.0,0.0,0.0,66.7,6.2,0.0,0.0,31.9,209,108,13.1,58.3,Peja Stojakovic
+2005-04-16,27-311,SAC,AWAY,PHO,L (-18),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Peja Stojakovic

@@ -1,0 +1,32 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2001-04-22,37-092,LAL,HOME,POR,W (+13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ron Harper
+2001-04-26,37-096,LAL,HOME,POR,W (+18),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ron Harper
+2001-05-08,37-108,LAL,HOME,SAC,W (+6),0,5:46,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.8,-4,Ron Harper
+2001-05-13,37-113,LAL,AWAY,SAC,W (+6),0,4:40,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,0,0,1.0,+5,Ron Harper
+2001-05-27,37-127,LAL,HOME,SAS,W (+29),0,8:21,0,1,.000,0,1,.000,0,0,,1,1,2,1,2,0,1,1,0,1.6,+5,Ron Harper
+2001-06-08,37-139,LAL,HOME,PHI,W (+9),0,7:20,2,3,.667,0,1,.000,1,2,.500,0,1,1,1,0,0,0,0,5,4.3,+9,Ron Harper
+2001-06-13,37-144,LAL,AWAY,PHI,W (+14),0,16:00,3,5,.600,1,2,.500,1,1,1.000,0,4,4,2,1,1,0,2,8,9.2,+15,Ron Harper
+2001-06-15,37-146,LAL,AWAY,PHI,W (+12),0,2:01,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+3,Ron Harper
+2000-04-23,36-094,LAL,HOME,SAC,W (+10),1,32:22,3,6,.500,0,0,,1,2,.500,6,3,9,4,2,0,2,4,7,9.9,+15,Ron Harper
+2000-04-27,36-098,LAL,HOME,SAC,W (+24),1,23:53,3,10,.300,0,3,.000,2,2,1.000,1,1,2,4,2,0,1,4,8,5.4,+23,Ron Harper
+2000-04-30,36-101,LAL,AWAY,SAC,L (-8),1,33:49,3,8,.375,0,0,,1,2,.500,1,4,5,4,1,0,2,1,7,5.5,-5,Ron Harper
+2000-05-02,36-103,LAL,AWAY,SAC,L (-13),1,29:35,3,9,.333,0,4,.000,0,0,,2,4,6,4,0,1,1,2,6,5.2,-11,Ron Harper
+2000-05-05,36-106,LAL,HOME,SAC,W (+27),1,24:49,1,4,.250,0,1,.000,2,2,1.000,1,2,3,2,1,1,0,0,4,6.0,+25,Ron Harper
+2000-05-07,36-108,LAL,HOME,PHO,W (+28),1,25:30,1,7,.143,0,0,,2,2,1.000,3,2,5,2,2,2,0,2,4,6.2,+11,Ron Harper
+2000-05-10,36-111,LAL,HOME,PHO,W (+1),1,29:53,2,4,.500,0,0,,1,2,.500,0,0,0,3,0,0,0,4,5,3.1,+3,Ron Harper
+2000-05-12,36-113,LAL,AWAY,PHO,W (+6),1,22:22,2,5,.400,0,1,.000,0,2,.000,2,0,2,0,1,1,0,4,4,2.0,-13,Ron Harper
+2000-05-14,36-115,LAL,AWAY,PHO,L (-19),1,20:51,2,4,.500,0,0,,3,4,.750,0,1,1,3,1,1,1,2,7,6.9,-13,Ron Harper
+2000-05-16,36-117,LAL,HOME,PHO,W (+22),1,23:48,3,6,.500,0,0,,0,0,,2,3,5,3,1,0,0,0,6,8.4,+8,Ron Harper
+2000-05-20,36-121,LAL,HOME,POR,W (+15),1,29:21,3,10,.300,1,4,.250,1,2,.500,1,2,3,1,0,3,2,5,8,1.9,-1,Ron Harper
+2000-05-22,36-123,LAL,HOME,POR,L (-29),1,15:12,2,6,.333,1,3,.333,2,2,1.000,2,3,5,2,0,0,2,3,7,4.1,0,Ron Harper
+2000-05-26,36-127,LAL,AWAY,POR,W (+2),1,30:35,5,9,.556,0,2,.000,2,2,1.000,1,1,2,2,2,1,2,1,12,10.4,0,Ron Harper
+2000-05-28,36-129,LAL,AWAY,POR,W (+12),1,34:11,6,12,.500,0,1,.000,6,6,1.000,2,5,7,2,1,0,0,5,18,15.3,+20,Ron Harper
+2000-05-30,36-131,LAL,HOME,POR,L (-8),1,30:25,6,12,.500,1,5,.200,1,2,.500,2,3,5,4,1,1,0,4,14,12.8,-6,Ron Harper
+2000-06-02,36-134,LAL,AWAY,POR,L (-10),1,27:44,3,7,.429,0,0,,1,3,.333,0,3,3,0,0,1,1,4,7,1.5,-8,Ron Harper
+2000-06-04,36-136,LAL,HOME,POR,W (+5),1,23:21,4,6,.667,0,0,,1,2,.500,0,2,2,4,0,0,1,3,9,7.2,-8,Ron Harper
+2000-06-07,36-139,LAL,HOME,IND,W (+17),1,20:36,4,6,.667,1,2,.500,3,5,.600,1,0,1,5,0,0,1,2,12,11.0,+9,Ron Harper
+2000-06-09,36-141,LAL,HOME,IND,W (+7),1,37:16,8,12,.667,1,2,.500,4,5,.800,0,3,3,6,0,0,3,4,21,15.9,+11,Ron Harper
+2000-06-11,36-143,LAL,AWAY,IND,L (-9),1,38:18,6,14,.429,2,3,.667,0,0,,1,4,5,2,5,1,5,2,14,9.8,-8,Ron Harper
+2000-06-14,36-146,LAL,AWAY,IND,W (+2),1,26:24,2,6,.333,0,2,.000,0,0,,0,3,3,2,0,0,0,2,4,2.1,-1,Ron Harper
+2000-06-16,36-148,LAL,AWAY,IND,L (-33),1,25:15,3,8,.375,2,4,.500,0,0,,2,3,5,5,1,0,2,2,8,7.6,-13,Ron Harper
+2000-06-19,36-151,LAL,HOME,IND,W (+5),1,36:48,3,10,.300,0,2,.000,0,0,,0,3,3,9,2,0,1,2,6,7.6,-1,Ron Harper

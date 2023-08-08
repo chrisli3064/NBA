@@ -1,0 +1,806 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2007-10-31,22-152,WAS,AWAY,IND,L (-9),0,6:53,1,2,.500,1,1,1.000,0,0,,0,1,1,0,0,0,0,2,3,1.5,-9,Nick Young
+2007-11-02,22-154,WAS,AWAY,BOS,L (-20),0,13:08,1,5,.200,0,0,,3,4,.750,0,0,0,0,0,0,1,3,5,-0.7,+4,Nick Young
+2007-11-03,22-155,WAS,HOME,ORL,L (-12),0,1:07,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+1,Nick Young
+2007-11-08,22-160,WAS,AWAY,NJN,L (-2),0,8:48,1,3,.333,0,1,.000,0,0,,0,1,1,0,0,1,0,1,2,0.9,-6,Nick Young
+2007-11-09,22-161,WAS,HOME,DEN,L (-26),0,16:26,1,5,.200,1,3,.333,2,2,1.000,1,1,2,1,0,0,2,1,5,1.2,-17,Nick Young
+2007-11-16,22-168,WAS,AWAY,MIN,W (+16),0,4:19,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,2,2,0,-2.8,-6,Nick Young
+2007-11-17,22-169,WAS,HOME,POR,W (+19),0,14:36,6,9,.667,2,3,.667,3,4,.750,0,1,1,2,1,0,0,4,17,13.8,-8,Nick Young
+2007-11-20,22-172,WAS,HOME,PHI,W (+15),0,21:17,4,9,.444,0,2,.000,3,3,1.000,0,2,2,2,2,1,3,3,11,6.8,-12,Nick Young
+2007-11-21,22-173,WAS,AWAY,CHA,W (+3),0,14:51,2,5,.400,1,1,1.000,0,0,,1,1,2,0,0,0,0,3,5,2.1,+4,Nick Young
+2007-11-23,22-175,WAS,HOME,GSW,L (-8),0,19:48,5,9,.556,1,1,1.000,7,8,.875,2,0,2,0,0,0,4,3,18,9.5,+9,Nick Young
+2007-11-24,22-176,WAS,AWAY,MEM,L (-6),0,21:46,2,7,.286,1,2,.500,2,2,1.000,0,1,1,1,1,0,0,1,7,4.5,+5,Nick Young
+2007-11-26,22-178,WAS,AWAY,DAL,W (+12),0,13:12,3,8,.375,0,1,.000,1,2,.500,0,3,3,0,0,0,0,0,7,3.1,+9,Nick Young
+2007-11-28,22-180,WAS,AWAY,SAS,L (-15),0,16:48,1,7,.143,1,4,.250,6,6,1.000,0,1,1,1,0,0,1,3,9,3.3,0,Nick Young
+2007-11-30,22-182,WAS,AWAY,PHI,L (-1),0,21:12,6,9,.667,1,3,.333,0,0,,0,3,3,2,1,0,3,3,13,8.2,+11,Nick Young
+2007-12-01,22-183,WAS,HOME,TOR,W (+4),0,8:28,2,2,1.000,0,0,,1,2,.500,0,1,1,0,0,0,2,2,5,1.5,-1,Nick Young
+2007-12-05,22-187,WAS,HOME,CLE,W (+19),0,18:51,5,7,.714,0,0,,4,4,1.000,1,1,2,2,0,0,1,0,14,12.5,+9,Nick Young
+2007-12-07,22-189,WAS,HOME,PHO,L (-15),0,18:26,6,11,.545,0,0,,1,1,1.000,1,2,3,2,0,0,2,1,13,8.0,+6,Nick Young
+2007-12-09,22-191,WAS,HOME,NJN,W (+15),0,6:33,1,4,.250,0,0,,0,0,,0,0,0,0,0,0,1,0,2,-1.4,-2,Nick Young
+2007-12-11,22-193,WAS,HOME,MIN,W (+14),0,4:17,0,4,.000,0,1,.000,0,0,,1,1,2,1,0,0,1,0,0,-2.1,+2,Nick Young
+2007-12-15,22-197,WAS,HOME,SAC,W (+13),1,14:11,3,6,.500,1,1,1.000,0,0,,1,0,1,1,1,0,0,4,7,4.8,+10,Nick Young
+2007-12-19,22-201,WAS,HOME,CHI,L (-11),1,24:16,1,10,.100,0,1,.000,1,2,.500,1,3,4,0,1,0,1,2,3,-3.2,-6,Nick Young
+2007-12-21,22-203,WAS,HOME,ATL,L (-5),0,20:57,4,8,.500,1,3,.333,5,5,1.000,0,3,3,1,0,0,0,2,14,10.8,+4,Nick Young
+2007-12-22,22-204,WAS,AWAY,IND,L (-8),0,18:58,2,9,.222,0,3,.000,2,2,1.000,0,0,0,0,2,0,1,0,6,1.5,-5,Nick Young
+2007-12-26,22-208,WAS,AWAY,CHA,W (+4),0,15:45,1,4,.250,0,1,.000,0,0,,0,1,1,0,1,0,1,2,2,-0.9,+1,Nick Young
+2007-12-28,22-210,WAS,AWAY,NJN,L (-3),0,27:18,5,8,.625,1,2,.500,4,4,1.000,1,3,4,1,1,0,3,4,15,10.1,-2,Nick Young
+2007-12-29,22-211,WAS,HOME,MIA,W (+22),0,15:32,3,6,.500,2,3,.667,0,2,.000,0,0,0,0,0,0,0,2,8,3.4,+4,Nick Young
+2008-01-02,22-215,WAS,HOME,DET,L (-13),0,10:12,0,3,.000,0,1,.000,3,4,.750,0,0,0,0,0,0,1,4,3,-2.1,+1,Nick Young
+2008-01-04,22-217,WAS,AWAY,MIL,W (+24),0,12:00,1,5,.200,0,1,.000,0,0,,0,0,0,1,0,0,2,1,2,-2.8,-6,Nick Young
+2008-01-06,22-219,WAS,HOME,SEA,W (+22),0,10:35,1,4,.250,0,0,,0,0,,0,2,2,3,0,0,1,2,2,0.5,-8,Nick Young
+2008-01-08,22-221,WAS,HOME,HOU,L (-8),0,19:51,6,11,.545,1,2,.500,0,0,,0,0,0,1,0,0,1,2,13,6.6,+6,Nick Young
+2008-01-11,22-224,WAS,AWAY,ATL,W (+4),0,8:50,1,3,.333,0,0,,0,0,,0,2,2,2,0,0,1,2,2,0.5,-1,Nick Young
+2008-01-12,22-225,WAS,HOME,BOS,W (+7),0,11:53,2,5,.400,0,0,,2,2,1.000,1,0,1,0,1,0,2,0,6,3.0,+3,Nick Young
+2008-01-14,22-227,WAS,AWAY,BOS,W (+5),0,4:14,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,1,0,2,0.0,-1,Nick Young
+2008-01-15,22-228,WAS,AWAY,NYK,L (-12),0,11:43,0,4,.000,0,1,.000,0,2,.000,0,0,0,0,1,0,2,1,0,-5.0,-14,Nick Young
+2008-01-18,22-231,WAS,HOME,NYK,W (+13),0,18:51,5,6,.833,1,1,1.000,1,1,1.000,0,1,1,2,1,1,3,2,12,9.4,+6,Nick Young
+2008-01-21,22-234,WAS,HOME,DAL,W (+18),0,13:49,4,10,.400,1,3,.333,0,1,.000,1,2,3,0,2,0,1,0,9,5.5,-1,Nick Young
+2008-01-23,22-236,WAS,AWAY,CLE,L (-36),0,17:19,2,7,.286,1,3,.333,2,2,1.000,0,1,1,2,1,0,0,1,7,5.2,-5,Nick Young
+2008-01-25,22-238,WAS,HOME,MEM,W (+11),0,9:23,1,2,.500,1,1,1.000,1,2,.500,0,2,2,0,0,0,2,2,4,0.4,+2,Nick Young
+2008-01-27,22-240,WAS,AWAY,MIL,L (-3),0,9:10,1,2,.500,0,1,.000,2,2,1.000,0,2,2,1,1,0,1,2,4,3.5,-2,Nick Young
+2008-01-29,22-242,WAS,HOME,TOR,W (+4),0,4:41,1,2,.500,0,0,,0,0,,0,0,0,0,1,0,0,0,2,2.0,-4,Nick Young
+2008-01-30,22-243,WAS,AWAY,TOR,L (-39),0,22:11,3,8,.375,1,1,1.000,0,0,,1,1,2,0,0,0,2,2,7,0.8,-26,Nick Young
+2008-02-01,22-245,WAS,HOME,UTA,L (-9),0,8:26,0,3,.000,0,0,,0,0,,0,0,0,1,0,0,0,1,0,-1.8,-5,Nick Young
+2008-02-03,22-247,WAS,HOME,LAL,L (-12),0,30:15,5,10,.500,2,3,.667,2,3,.667,1,2,3,3,0,0,0,4,14,10.4,-4,Nick Young
+2008-02-05,22-249,WAS,AWAY,PHI,L (-5),0,4:49,0,0,,0,0,,0,0,,0,0,0,1,0,0,1,2,0,-1.1,0,Nick Young
+2008-02-06,22-250,WAS,HOME,SAS,L (-8),0,7:37,1,4,.250,0,0,,0,0,,0,0,0,0,0,0,2,0,2,-2.4,0,Nick Young
+2008-02-08,22-252,WAS,AWAY,DEN,L (-11),0,27:20,7,13,.538,0,1,.000,5,6,.833,0,1,1,2,1,0,2,2,19,12.2,+2,Nick Young
+2008-02-10,22-254,WAS,AWAY,PHO,L (-1),0,24:23,4,12,.333,0,2,.000,2,2,1.000,0,2,2,5,0,1,1,3,10,5.8,+1,Nick Young
+2008-02-11,22-255,WAS,AWAY,GSW,L (-3),0,20:03,4,13,.308,0,0,,3,3,1.000,1,1,2,2,1,0,2,4,11,3.3,-20,Nick Young
+2008-02-13,22-257,WAS,AWAY,LAC,W (+2),0,2:22,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,+2,Nick Young
+2008-02-19,22-263,WAS,HOME,NYK,L (-13),0,21:05,6,9,.667,0,1,.000,0,0,,0,1,1,0,0,0,2,2,12,5.6,-6,Nick Young
+2008-02-22,22-266,WAS,AWAY,CLE,L (-1),0,6:45,1,4,.250,0,1,.000,0,0,,0,3,3,0,0,0,2,2,2,-2.3,-1,Nick Young
+2008-02-23,22-267,WAS,HOME,CHA,W (+15),0,20:59,3,7,.429,0,0,,0,0,,1,4,5,0,2,1,2,1,6,4.5,+9,Nick Young
+2008-02-25,22-269,WAS,AWAY,NOH,W (+3),0,14:23,3,5,.600,0,1,.000,2,2,1.000,0,0,0,0,0,0,2,3,8,2.5,-14,Nick Young
+2008-02-26,22-270,WAS,AWAY,HOU,L (-25),0,25:44,6,11,.545,0,1,.000,4,5,.800,0,5,5,0,0,0,1,1,16,10.4,-23,Nick Young
+2008-02-29,22-273,WAS,AWAY,CHI,W (+6),0,9:51,1,4,.250,0,0,,0,0,,0,1,1,0,0,0,0,2,2,-0.9,-4,Nick Young
+2008-03-02,22-275,WAS,HOME,NOH,W (+17),0,13:04,2,6,.333,0,1,.000,2,2,1.000,1,5,6,1,0,0,0,0,6,5.5,+2,Nick Young
+2008-03-05,22-278,WAS,HOME,ORL,L (-30),0,20:30,5,5,1.000,2,2,1.000,3,4,.750,0,4,4,1,0,0,1,0,15,14.0,-6,Nick Young
+2008-03-07,22-280,WAS,AWAY,TOR,W (+4),0,28:30,6,13,.462,2,5,.400,0,0,,0,2,2,3,1,0,2,3,14,7.8,+1,Nick Young
+2008-03-08,22-281,WAS,HOME,CHA,L (-3),0,23:45,4,9,.444,2,5,.400,1,2,.500,1,2,3,4,1,0,3,6,11,5.6,-1,Nick Young
+2008-03-11,22-284,WAS,HOME,MIL,W (+8),0,27:00,9,15,.600,2,3,.667,2,2,1.000,1,4,5,1,3,0,3,5,22,15.7,+21,Nick Young
+2008-03-13,22-286,WAS,HOME,CLE,W (+2),0,18:06,3,8,.375,1,2,.500,3,4,.750,0,2,2,0,1,0,2,1,10,4.4,+8,Nick Young
+2008-03-15,22-288,WAS,HOME,LAC,W (+10),0,16:45,4,7,.571,2,3,.667,0,0,,1,3,4,0,1,0,3,2,10,5.5,+1,Nick Young
+2008-03-17,22-290,WAS,HOME,ATL,L (-9),0,13:25,2,7,.286,0,0,,0,0,,0,1,1,2,0,0,1,2,4,-0.2,+1,Nick Young
+2008-03-19,22-292,WAS,AWAY,ORL,W (+1),0,8:20,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-2.1,-2,Nick Young
+2008-03-21,22-294,WAS,AWAY,MIA,W (+17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2008-03-23,22-296,WAS,HOME,DET,W (+12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2008-03-25,22-298,WAS,AWAY,POR,L (-20),0,16:04,2,6,.333,0,1,.000,0,0,,0,1,1,1,1,0,0,1,4,2.2,0,Nick Young
+2008-03-26,22-299,WAS,AWAY,SEA,W (+5),0,6:00,1,3,.333,0,1,.000,0,0,,0,0,0,0,0,0,0,0,2,0.3,-8,Nick Young
+2008-03-28,22-301,WAS,AWAY,SAC,W (+6),0,10:20,3,5,.600,0,1,.000,0,0,,0,0,0,1,0,0,1,1,6,3.0,-6,Nick Young
+2008-03-30,22-303,WAS,AWAY,LAL,L (-6),0,31:29,10,16,.625,3,4,.750,4,4,1.000,1,1,2,1,0,1,1,2,27,20.4,-11,Nick Young
+2008-03-31,22-304,WAS,AWAY,UTA,L (-42),0,27:28,5,7,.714,0,0,,8,10,.800,0,0,0,2,3,0,2,1,18,16.3,-28,Nick Young
+2008-04-02,22-306,WAS,HOME,MIL,L (-1),0,13:36,3,4,.750,0,0,,0,0,,0,0,0,0,1,0,1,0,6,4.4,0,Nick Young
+2008-04-04,22-308,WAS,HOME,MIA,W (+14),0,7:40,1,2,.500,0,1,.000,0,0,,0,0,0,1,0,0,1,3,2,-0.5,-5,Nick Young
+2008-04-05,22-309,WAS,AWAY,CHI,W (+12),0,8:05,1,4,.250,0,2,.000,0,0,,1,0,1,0,0,0,1,1,2,-1.1,-7,Nick Young
+2008-04-11,22-315,WAS,AWAY,DET,L (-28),0,17:30,2,9,.222,2,3,.667,0,0,,0,1,1,0,0,1,2,2,6,-1.3,-12,Nick Young
+2008-04-14,22-318,WAS,HOME,IND,W (+7),0,18:58,5,10,.500,2,3,.667,2,4,.500,1,3,4,0,0,0,1,1,14,8.4,+9,Nick Young
+2008-04-16,22-320,WAS,AWAY,ORL,L (-20),0,34:41,6,13,.462,0,1,.000,2,2,1.000,0,0,0,1,0,0,1,2,14,6.2,-26,Nick Young
+2012-10-31,27-152,PHI,HOME,DEN,W (+9),0,18:41,3,9,.333,1,3,.333,2,2,1.000,0,3,3,0,1,0,1,0,9,4.8,-6,Nick Young
+2012-11-04,27-156,PHI,AWAY,NYK,L (-16),0,31:48,2,10,.200,1,3,.333,0,0,,0,2,2,0,0,0,1,3,5,-2.8,-29,Nick Young
+2012-11-05,27-157,PHI,HOME,NYK,L (-22),0,28:46,4,15,.267,2,7,.286,2,2,1.000,0,1,1,1,0,0,2,0,12,2.1,-9,Nick Young
+2012-11-07,27-159,PHI,AWAY,NOH,W (+15),0,18:23,1,7,.143,0,5,.000,0,0,,0,0,0,1,1,0,1,0,2,-1.8,+2,Nick Young
+2012-11-09,27-161,PHI,AWAY,BOS,W (+6),0,18:06,4,9,.444,2,3,.667,0,0,,0,1,1,1,1,0,2,3,10,4.1,+1,Nick Young
+2012-11-10,27-162,PHI,AWAY,TOR,W (+10),0,32:19,7,12,.583,1,4,.250,1,2,.500,0,2,2,0,0,1,0,3,16,10.1,+25,Nick Young
+2012-11-12,27-164,PHI,HOME,MIL,L (-9),0,23:48,2,6,.333,1,1,1.000,2,2,1.000,0,1,1,4,2,0,0,1,7,8.3,+2,Nick Young
+2012-11-14,27-166,PHI,HOME,DET,L (-18),0,23:51,2,9,.222,0,3,.000,5,6,.833,0,3,3,2,1,1,0,1,9,6.7,-5,Nick Young
+2012-11-16,27-168,PHI,HOME,UTA,W (+6),0,20:27,3,5,.600,2,3,.667,4,4,1.000,0,0,0,1,1,0,0,1,12,11.0,+8,Nick Young
+2012-11-18,27-170,PHI,HOME,CLE,W (+7),0,15:45,5,6,.833,2,2,1.000,1,2,.500,0,0,0,0,0,0,1,1,13,9.0,+5,Nick Young
+2012-11-20,27-172,PHI,HOME,TOR,W (+8),0,29:10,7,13,.538,3,8,.375,6,6,1.000,1,2,3,4,0,1,0,2,23,20.7,+5,Nick Young
+2012-11-21,27-173,PHI,AWAY,CLE,L (-9),0,31:36,4,13,.308,0,2,.000,5,6,.833,1,4,5,0,2,1,0,0,13,9.7,-2,Nick Young
+2012-11-24,27-176,PHI,HOME,OKC,L (-7),0,25:04,4,10,.400,1,3,.333,0,0,,1,3,4,3,0,1,0,1,9,7.6,+7,Nick Young
+2012-11-25,27-177,PHI,HOME,PHO,W (+3),0,12:28,1,4,.250,1,2,.500,0,0,,1,0,1,0,0,0,1,0,3,0.3,-3,Nick Young
+2012-11-27,27-179,PHI,HOME,DAL,W (+2),0,20:50,1,5,.200,0,2,.000,0,0,,0,1,1,2,0,0,4,1,2,-3.8,+2,Nick Young
+2012-11-30,27-182,PHI,AWAY,CHA,W (+6),0,20:33,3,6,.500,1,2,.500,2,2,1.000,0,1,1,2,1,1,1,0,9,8.4,-6,Nick Young
+2012-12-01,27-183,PHI,AWAY,CHI,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2012-12-04,27-186,PHI,HOME,MIN,L (-17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2012-12-07,27-189,PHI,HOME,BOS,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2012-12-08,27-190,PHI,AWAY,BOS,L (-13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2012-12-10,27-192,PHI,HOME,DET,W (+7),0,17:56,1,2,.500,0,0,,1,2,.500,0,1,1,1,0,0,2,2,3,-0.2,-3,Nick Young
+2012-12-12,27-194,PHI,HOME,CHI,L (-7),0,27:42,4,10,.400,0,2,.000,2,2,1.000,0,1,1,0,0,0,0,4,10,3.3,-6,Nick Young
+2012-12-14,27-196,PHI,AWAY,IND,L (-10),1,37:14,4,14,.286,0,2,.000,0,0,,0,1,1,5,0,0,2,2,8,0.8,-16,Nick Young
+2012-12-16,27-198,PHI,HOME,LAL,L (-13),1,41:07,12,23,.522,6,12,.500,0,1,.000,4,0,4,2,1,0,0,1,30,23.1,-9,Nick Young
+2012-12-18,27-200,PHI,AWAY,DAL,L (-7),1,23:47,3,6,.500,1,3,.333,1,1,1.000,0,0,0,0,0,0,1,1,8,3.6,-9,Nick Young
+2012-12-19,27-201,PHI,AWAY,HOU,L (-22),0,34:42,8,18,.444,2,4,.500,3,5,.600,1,3,4,4,1,1,0,2,21,16.1,-11,Nick Young
+2012-12-21,27-203,PHI,HOME,ATL,W (+19),0,9:35,1,4,.250,0,1,.000,0,0,,0,0,0,0,0,0,1,0,2,-1.4,-6,Nick Young
+2012-12-23,27-205,PHI,AWAY,BRK,L (-3),0,12:15,2,4,.500,1,1,1.000,0,0,,0,2,2,0,0,0,1,0,5,2.6,-5,Nick Young
+2012-12-26,27-208,PHI,AWAY,MEM,W (+10),0,20:40,5,7,.714,1,3,.333,1,1,1.000,0,4,4,2,0,0,0,1,12,11.3,+9,Nick Young
+2012-12-28,27-210,PHI,AWAY,GSW,L (-7),0,25:36,5,17,.294,2,7,.286,1,2,.500,2,2,4,3,0,0,0,1,13,6.4,+2,Nick Young
+2012-12-29,27-211,PHI,AWAY,POR,L (-4),0,23:40,4,9,.444,2,4,.500,0,0,,0,1,1,0,1,1,0,0,10,7.3,-2,Nick Young
+2013-01-01,27-214,PHI,AWAY,LAL,W (+4),0,14:02,0,3,.000,0,1,.000,1,2,.500,0,5,5,1,0,0,2,1,1,-1.7,+2,Nick Young
+2013-01-02,27-215,PHI,AWAY,PHO,L (-6),0,19:56,3,7,.429,2,3,.667,4,4,1.000,0,0,0,1,1,0,1,0,12,9.0,+2,Nick Young
+2013-01-04,27-217,PHI,AWAY,OKC,L (-24),0,28:01,5,12,.417,5,7,.714,6,8,.750,1,3,4,1,1,0,3,2,21,13.3,-14,Nick Young
+2013-01-05,27-218,PHI,AWAY,SAS,L (-23),0,23:53,4,11,.364,0,2,.000,2,2,1.000,2,1,3,0,1,0,1,1,10,5.2,-7,Nick Young
+2013-01-08,27-221,PHI,HOME,BRK,L (-20),0,22:07,4,9,.444,1,2,.500,2,2,1.000,0,1,1,1,1,0,1,0,11,7.3,+3,Nick Young
+2013-01-09,27-222,PHI,AWAY,TOR,L (-18),0,12:56,1,3,.333,0,1,.000,0,0,,0,3,3,0,0,1,2,1,2,-0.5,-3,Nick Young
+2013-01-15,27-228,PHI,HOME,NOH,L (-12),0,12:00,6,9,.667,2,4,.500,0,1,.000,0,1,1,1,0,0,1,1,14,9.3,+6,Nick Young
+2013-01-18,27-231,PHI,HOME,TOR,W (+7),0,29:20,4,11,.364,1,5,.200,0,0,,0,4,4,1,0,0,0,0,9,4.8,+13,Nick Young
+2013-01-21,27-234,PHI,HOME,SAS,L (-5),0,30:39,4,10,.400,1,4,.250,3,3,1.000,0,3,3,1,0,0,1,4,12,5.6,+8,Nick Young
+2013-01-22,27-235,PHI,AWAY,MIL,L (-8),0,32:29,8,16,.500,2,5,.400,2,2,1.000,1,2,3,3,0,0,2,4,20,11.8,+5,Nick Young
+2013-01-26,27-239,PHI,HOME,NYK,W (+17),1,41:07,5,12,.417,3,7,.429,7,8,.875,0,4,4,4,1,0,0,2,20,17.4,+13,Nick Young
+2013-01-28,27-241,PHI,HOME,MEM,L (-3),1,33:04,5,13,.385,2,4,.500,1,1,1.000,0,2,2,1,1,1,1,0,13,7.9,-4,Nick Young
+2013-01-30,27-243,PHI,HOME,WAS,W (+8),1,35:34,7,17,.412,3,6,.500,1,2,.500,1,3,4,4,2,0,1,3,18,12.7,0,Nick Young
+2013-02-01,27-245,PHI,HOME,SAC,W (+9),1,33:59,6,12,.500,1,5,.200,7,7,1.000,0,4,4,0,1,1,2,2,20,14.1,-7,Nick Young
+2013-02-04,27-248,PHI,HOME,ORL,W (+17),1,36:20,7,15,.467,1,7,.143,0,0,,1,5,6,2,4,2,2,2,15,13.5,+19,Nick Young
+2013-02-06,27-250,PHI,HOME,IND,L (-19),1,39:45,4,12,.333,0,2,.000,1,1,1.000,2,3,5,3,1,0,0,3,9,6.4,-20,Nick Young
+2013-02-09,27-253,PHI,HOME,CHA,W (+11),1,18:47,2,8,.250,0,5,.000,1,2,.500,0,2,2,1,0,0,0,4,5,-0.5,+14,Nick Young
+2013-02-11,27-255,PHI,HOME,LAC,L (-17),1,34:07,10,18,.556,4,7,.571,5,6,.833,0,2,2,5,3,0,2,2,29,24.3,-12,Nick Young
+2013-02-13,27-257,PHI,AWAY,MIL,L (-2),1,32:46,4,6,.667,2,3,.667,4,4,1.000,1,4,5,1,0,0,1,3,14,11.8,-2,Nick Young
+2013-02-20,27-264,PHI,AWAY,MIN,L (-7),1,31:44,1,7,.143,0,1,.000,4,9,.444,2,3,5,3,0,0,0,3,6,2.7,-9,Nick Young
+2013-02-23,27-267,PHI,HOME,MIA,L (-24),1,33:21,8,14,.571,3,7,.429,0,0,,0,0,0,2,0,1,1,3,19,12.3,-17,Nick Young
+2013-02-24,27-268,PHI,AWAY,NYK,L (-6),1,17:10,0,4,.000,0,2,.000,0,0,,0,2,2,0,1,0,0,2,0,-2.0,-2,Nick Young
+2013-02-26,27-270,PHI,HOME,ORL,L (-14),1,14:18,1,6,.167,0,3,.000,1,1,1.000,0,1,1,2,0,0,1,2,3,-0.9,-9,Nick Young
+2013-02-28,27-272,PHI,AWAY,CHI,L (-11),1,26:32,1,6,.167,1,1,1.000,2,2,1.000,1,2,3,3,0,0,0,1,5,4.2,+1,Nick Young
+2013-03-02,27-274,PHI,HOME,GSW,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2013-03-03,27-275,PHI,AWAY,WAS,L (-3),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Nick Young
+2013-03-05,27-277,PHI,HOME,BOS,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2013-03-06,27-278,PHI,AWAY,ATL,L (-11),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Nick Young
+2013-03-08,27-280,PHI,AWAY,MIA,L (-9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Nick Young
+2013-03-10,27-282,PHI,AWAY,ORL,L (-8),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Nick Young
+2013-03-11,27-283,PHI,HOME,BRK,W (+9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2013-03-13,27-285,PHI,HOME,MIA,L (-4),0,5:33,1,3,.333,1,3,.333,0,0,,0,0,0,0,1,0,1,1,3,0.9,+2,Nick Young
+2013-03-20,27-292,PHI,AWAY,LAC,L (-29),0,8:54,3,8,.375,0,4,.000,0,0,,0,2,2,1,0,0,0,0,6,2.9,-8,Nick Young
+2013-04-05,27-308,PHI,AWAY,ATL,W (+11),0,13:41,2,7,.286,2,4,.500,2,2,1.000,0,1,1,1,1,0,1,0,8,4.9,-1,Nick Young
+2013-04-06,27-309,PHI,AWAY,MIA,L (-19),0,20:56,3,6,.500,0,3,.000,4,4,1.000,0,0,0,0,0,0,0,1,10,6.6,-1,Nick Young
+2013-04-09,27-312,PHI,AWAY,BRK,L (-21),0,21:11,7,10,.700,2,2,1.000,2,2,1.000,0,2,2,1,2,0,0,1,18,16.7,+10,Nick Young
+2013-04-10,27-313,PHI,HOME,ATL,L (-23),0,26:26,6,9,.667,3,5,.600,4,5,.800,1,2,3,2,0,0,1,2,19,15.6,-7,Nick Young
+2013-04-12,27-315,PHI,AWAY,WAS,W (+11),0,8:50,0,3,.000,0,2,.000,0,0,,0,0,0,0,1,0,0,2,0,-1.9,-6,Nick Young
+2013-04-17,27-320,PHI,AWAY,IND,W (+10),0,6:05,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,0,0,-2.4,-6,Nick Young
+2011-12-26,26-208,WAS,HOME,NJN,L (-6),0,17:37,6,9,.667,0,0,,4,4,1.000,0,2,2,0,0,0,0,2,16,11.9,+1,Nick Young
+2011-12-28,26-210,WAS,AWAY,ATL,L (-18),0,31:44,6,12,.500,3,6,.500,6,6,1.000,0,2,2,4,0,0,0,3,21,17.2,+1,Nick Young
+2011-12-30,26-212,WAS,AWAY,MIL,L (-21),1,22:16,1,10,.100,1,2,.500,0,0,,0,2,2,2,0,0,1,2,3,-3.4,-8,Nick Young
+2012-01-01,26-214,WAS,HOME,BOS,L (-8),1,29:48,7,15,.467,0,3,.000,4,4,1.000,0,2,2,1,1,0,1,3,18,10.4,+6,Nick Young
+2012-01-02,26-215,WAS,AWAY,BOS,L (-8),1,31:57,3,14,.214,0,4,.000,4,4,1.000,1,1,2,1,0,0,1,1,10,1.7,-11,Nick Young
+2012-01-04,26-217,WAS,AWAY,ORL,L (-18),1,24:34,5,15,.333,1,3,.333,6,6,1.000,1,3,4,0,0,2,1,1,17,10.1,-18,Nick Young
+2012-01-06,26-219,WAS,HOME,NYK,L (-3),1,41:49,9,20,.450,4,7,.571,2,2,1.000,0,3,3,2,1,0,3,0,24,13.9,+7,Nick Young
+2012-01-08,26-221,WAS,HOME,MIN,L (-21),1,32:24,6,16,.375,2,3,.667,0,0,,0,1,1,3,0,0,1,1,14,6.2,-5,Nick Young
+2012-01-10,26-223,WAS,HOME,TOR,W (+15),1,29:21,6,13,.462,1,5,.200,2,2,1.000,0,1,1,1,0,0,0,3,15,8.1,+4,Nick Young
+2012-01-11,26-224,WAS,AWAY,CHI,L (-14),1,30:35,2,11,.182,0,2,.000,1,1,1.000,0,3,3,0,1,0,3,2,5,-3.8,-1,Nick Young
+2012-01-13,26-226,WAS,AWAY,PHI,L (-31),1,25:00,5,10,.500,0,1,.000,1,1,1.000,0,0,0,2,0,0,2,2,11,4.6,-20,Nick Young
+2012-01-14,26-227,WAS,HOME,PHI,L (-13),1,40:29,11,22,.500,2,7,.286,3,4,.750,1,6,7,0,1,0,2,2,27,16.3,0,Nick Young
+2012-01-16,26-229,WAS,HOME,HOU,L (-8),1,29:01,3,12,.250,2,5,.400,5,5,1.000,0,0,0,1,0,0,1,0,13,5.5,-5,Nick Young
+2012-01-18,26-231,WAS,HOME,OKC,W (+3),1,34:04,6,17,.353,5,10,.500,7,10,.700,1,3,4,2,0,1,0,4,24,15.4,+1,Nick Young
+2012-01-20,26-233,WAS,HOME,DEN,L (-4),1,39:47,10,22,.455,4,10,.400,1,1,1.000,0,0,0,4,4,0,0,2,25,19.6,+5,Nick Young
+2012-01-22,26-235,WAS,HOME,BOS,L (-6),1,33:09,7,13,.538,1,6,.167,4,5,.800,1,4,5,1,1,0,4,5,19,9.9,-11,Nick Young
+2012-01-23,26-236,WAS,AWAY,PHI,L (-20),1,29:19,4,10,.400,0,2,.000,2,4,.500,0,3,3,1,0,1,2,2,10,3.3,-9,Nick Young
+2012-01-25,26-238,WAS,HOME,CHA,W (+17),1,29:13,7,18,.389,2,4,.500,4,4,1.000,1,1,2,0,0,0,0,5,20,9.2,+5,Nick Young
+2012-01-27,26-240,WAS,AWAY,HOU,L (-27),1,31:41,6,17,.353,0,2,.000,3,3,1.000,0,0,0,1,2,0,3,2,15,4.4,-15,Nick Young
+2012-01-28,26-241,WAS,AWAY,CHA,W (+3),1,27:21,9,15,.600,1,2,.500,2,2,1.000,0,1,1,0,1,0,3,4,21,10.8,+9,Nick Young
+2012-01-30,26-243,WAS,HOME,CHI,L (-10),1,30:56,7,20,.350,2,5,.400,1,1,1.000,2,3,5,2,2,2,1,3,17,10.7,-4,Nick Young
+2012-02-01,26-245,WAS,AWAY,ORL,L (-6),1,21:09,8,13,.615,4,5,.800,4,5,.800,0,3,3,0,0,0,2,5,24,14.6,-16,Nick Young
+2012-02-03,26-247,WAS,AWAY,TOR,L (-17),1,34:42,7,17,.412,2,4,.500,5,6,.833,1,3,4,1,1,1,1,2,21,13.7,-6,Nick Young
+2012-02-04,26-248,WAS,HOME,LAC,L (-26),1,28:28,5,16,.313,1,5,.200,3,4,.750,1,1,2,1,1,1,0,0,14,7.8,-26,Nick Young
+2012-02-06,26-250,WAS,HOME,TOR,W (+3),1,40:52,9,21,.429,2,3,.667,9,11,.818,3,2,5,1,1,0,1,2,29,19.7,+4,Nick Young
+2012-02-08,26-252,WAS,HOME,NYK,L (-14),1,32:13,3,11,.273,0,5,.000,1,2,.500,0,4,4,1,0,0,1,5,7,-1.0,+1,Nick Young
+2012-02-10,26-254,WAS,HOME,MIA,L (-17),1,38:51,7,19,.368,3,10,.300,5,5,1.000,1,1,2,1,1,0,4,1,22,9.8,-5,Nick Young
+2012-02-12,26-256,WAS,AWAY,DET,W (+21),1,31:04,8,13,.615,3,6,.500,3,3,1.000,1,2,3,1,2,0,2,2,22,17.3,+20,Nick Young
+2012-02-14,26-258,WAS,AWAY,POR,W (+15),1,39:46,12,17,.706,7,8,.875,4,4,1.000,1,2,3,0,2,0,1,3,35,29.0,+8,Nick Young
+2012-02-15,26-259,WAS,AWAY,LAC,L (-18),1,34:39,5,18,.278,3,10,.300,1,1,1.000,0,1,1,1,0,0,2,3,14,1.2,-21,Nick Young
+2012-02-17,26-261,WAS,AWAY,UTA,L (-14),1,25:27,4,12,.333,0,1,.000,2,2,1.000,0,3,3,1,0,0,1,1,10,3.4,-17,Nick Young
+2012-02-20,26-264,WAS,AWAY,PHO,L (-16),1,28:45,3,13,.231,0,4,.000,0,0,,0,2,2,1,0,0,2,4,6,-4.2,-19,Nick Young
+2012-02-22,26-266,WAS,HOME,SAC,L (-8),1,34:54,6,23,.261,4,10,.400,1,1,1.000,1,1,2,1,1,0,2,2,17,3.2,-15,Nick Young
+2012-02-28,26-272,WAS,AWAY,MIL,L (-1),1,20:04,3,11,.273,1,5,.200,0,0,,1,1,2,0,1,1,0,2,7,2.4,-1,Nick Young
+2012-02-29,26-273,WAS,HOME,ORL,L (-7),0,18:37,2,6,.333,1,2,.500,0,0,,0,1,1,0,0,0,3,2,5,-1.9,-3,Nick Young
+2012-03-03,26-276,WAS,HOME,CLE,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2012-03-05,26-278,WAS,HOME,GSW,L (-20),0,25:35,9,14,.643,4,6,.667,3,4,.750,1,1,2,0,1,0,0,1,25,20.0,-17,Nick Young
+2012-03-07,26-280,WAS,HOME,LAL,W (+5),0,28:54,7,19,.368,1,9,.111,4,4,1.000,1,0,1,6,2,1,2,2,19,13.3,+8,Nick Young
+2012-03-10,26-283,WAS,HOME,POR,L (-11),0,27:44,4,16,.250,1,6,.167,1,3,.333,0,3,3,0,1,0,0,1,10,1.1,-7,Nick Young
+2012-03-12,26-285,WAS,AWAY,SAS,L (-15),0,24:15,7,10,.700,4,5,.800,0,0,,0,2,2,0,1,1,3,2,18,12.3,-8,Nick Young
+2012-03-13,26-286,WAS,AWAY,DAL,L (-9),0,32:47,5,11,.455,1,4,.250,4,6,.667,0,3,3,2,1,0,3,1,15,8.4,-16,Nick Young
+2012-03-18,26-291,LAC,HOME,DET,W (+4),0,28:30,1,6,.167,0,1,.000,7,8,.875,0,0,0,1,2,0,0,2,9,6.7,0,Nick Young
+2012-03-20,26-293,LAC,AWAY,IND,L (-13),1,36:15,5,13,.385,1,6,.167,2,2,1.000,2,3,5,1,0,0,2,2,13,6.1,-8,Nick Young
+2012-03-21,26-294,LAC,AWAY,OKC,L (-23),1,28:33,3,11,.273,3,6,.500,3,3,1.000,1,1,2,1,1,0,1,4,12,5.6,+1,Nick Young
+2012-03-22,26-295,LAC,AWAY,NOH,L (-7),1,29:46,3,7,.429,1,5,.200,0,0,,1,2,3,0,0,0,3,3,7,0.4,-2,Nick Young
+2012-03-24,26-297,LAC,HOME,MEM,W (+16),0,26:23,6,13,.462,0,1,.000,4,5,.800,2,1,3,1,0,0,0,1,16,10.9,+5,Nick Young
+2012-03-26,26-299,LAC,HOME,NOH,W (+12),0,24:26,5,11,.455,4,8,.500,3,3,1.000,0,0,0,0,1,0,4,5,17,6.3,+6,Nick Young
+2012-03-28,26-301,LAC,HOME,PHO,W (+17),0,25:08,3,11,.273,1,4,.250,2,3,.667,0,2,2,0,0,0,0,3,9,1.5,+18,Nick Young
+2012-03-30,26-303,LAC,HOME,POR,W (+1),0,25:26,4,11,.364,2,5,.400,0,0,,0,2,2,0,1,2,2,3,10,3.7,-5,Nick Young
+2012-03-31,26-304,LAC,HOME,UTA,W (+9),0,21:38,5,10,.500,2,4,.500,1,2,.500,0,3,3,1,1,0,2,4,13,6.6,+2,Nick Young
+2012-04-02,26-306,LAC,AWAY,DAL,W (+19),0,18:59,4,9,.444,2,5,.400,0,0,,1,0,1,0,0,0,1,0,10,5.0,+7,Nick Young
+2012-04-04,26-308,LAC,HOME,LAL,L (-5),0,19:08,6,15,.400,1,6,.167,0,0,,1,0,1,1,0,1,0,2,13,6.2,+2,Nick Young
+2012-04-05,26-309,LAC,AWAY,SAC,W (+8),0,22:13,3,10,.300,1,6,.167,0,0,,0,2,2,1,1,1,3,2,7,0.4,-3,Nick Young
+2012-04-07,26-311,LAC,HOME,SAC,W (+15),0,25:05,2,7,.286,1,4,.250,0,0,,1,1,2,2,1,0,0,1,5,3.9,+13,Nick Young
+2012-04-09,26-313,LAC,AWAY,MEM,L (-9),0,18:13,0,5,.000,0,2,.000,0,0,,0,1,1,0,2,1,0,2,0,-1.3,-5,Nick Young
+2012-04-11,26-315,LAC,AWAY,OKC,W (+2),0,26:38,3,7,.429,0,2,.000,4,5,.800,0,1,1,0,0,0,2,4,10,2.6,+11,Nick Young
+2012-04-12,26-316,LAC,AWAY,MIN,W (+13),0,26:07,3,11,.273,1,5,.200,3,4,.750,0,2,2,0,1,0,0,2,10,3.9,0,Nick Young
+2012-04-14,26-318,LAC,HOME,GSW,W (+8),0,21:18,2,4,.500,1,2,.500,1,2,.500,1,1,2,1,0,0,0,1,6,4.9,-2,Nick Young
+2012-04-16,26-320,LAC,HOME,OKC,W (+15),0,20:57,7,10,.700,3,4,.750,2,2,1.000,0,0,0,0,0,0,0,2,19,14.0,+12,Nick Young
+2012-04-18,26-322,LAC,AWAY,DEN,W (+6),0,25:04,5,8,.625,3,4,.750,0,0,,1,1,2,0,2,0,2,4,13,8.8,+3,Nick Young
+2012-04-19,26-323,LAC,AWAY,PHO,L (-3),0,17:15,2,5,.400,1,2,.500,0,0,,0,2,2,0,0,1,0,1,5,3.2,-5,Nick Young
+2012-04-22,26-326,LAC,HOME,NOH,W (+9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Nick Young
+2012-04-24,26-328,LAC,AWAY,ATL,L (-7),0,16:32,2,5,.400,1,2,.500,0,0,,0,0,0,0,1,0,1,1,5,1.9,-12,Nick Young
+2012-04-25,26-329,LAC,AWAY,NYK,L (-6),0,14:47,2,4,.500,1,1,1.000,0,0,,0,0,0,0,0,0,1,2,5,1.2,-21,Nick Young
+2016-10-26,31-147,LAL,HOME,HOU,W (+6),1,26:34,3,12,.250,2,9,.222,0,0,,0,3,3,1,0,1,0,5,8,1.1,-6,Nick Young
+2016-10-28,31-149,LAL,AWAY,UTA,L (-7),1,23:33,3,7,.429,1,2,.500,6,6,1.000,0,0,0,0,0,1,0,5,13,8.0,-12,Nick Young
+2016-10-30,31-151,LAL,AWAY,OKC,L (-17),1,30:14,4,11,.364,3,10,.300,5,5,1.000,0,3,3,1,2,0,2,5,16,9.5,-17,Nick Young
+2016-11-01,31-153,LAL,AWAY,IND,L (-7),1,21:21,3,6,.500,2,4,.500,0,0,,0,4,4,0,0,0,0,3,8,5.0,-2,Nick Young
+2016-11-02,31-154,LAL,AWAY,ATL,W (+7),1,26:07,6,11,.545,3,7,.429,2,2,1.000,0,1,1,2,0,0,1,1,17,12.0,+10,Nick Young
+2016-11-04,31-156,LAL,HOME,GSW,W (+20),1,23:40,4,11,.364,1,6,.167,3,3,1.000,1,2,3,2,0,1,0,4,12,7.7,-1,Nick Young
+2016-11-06,31-158,LAL,HOME,PHO,W (+11),1,35:59,8,14,.571,3,7,.429,3,3,1.000,1,6,7,1,1,1,1,4,22,17.7,+7,Nick Young
+2016-11-08,31-160,LAL,HOME,DAL,L (-12),1,29:13,7,12,.583,3,6,.500,3,3,1.000,0,2,2,0,0,0,0,3,20,13.8,-9,Nick Young
+2016-11-10,31-162,LAL,AWAY,SAC,W (+10),1,29:43,6,11,.545,4,9,.444,0,0,,0,3,3,1,1,0,1,4,16,10.7,+8,Nick Young
+2016-11-12,31-164,LAL,AWAY,NOP,W (+27),1,20:27,5,9,.556,5,8,.625,0,0,,1,0,1,2,0,0,0,2,15,12.0,+5,Nick Young
+2016-11-13,31-165,LAL,AWAY,MIN,L (-26),1,23:36,3,9,.333,1,7,.143,2,2,1.000,0,1,1,1,0,0,1,3,9,2.7,-7,Nick Young
+2016-11-15,31-167,LAL,HOME,BRK,W (+7),1,27:39,2,8,.250,1,6,.167,0,0,,0,1,1,3,0,0,0,1,5,2.2,+17,Nick Young
+2016-11-18,31-170,LAL,HOME,SAS,L (-9),1,28:03,7,12,.583,4,7,.571,4,5,.800,1,3,4,2,0,1,2,1,22,17.3,-9,Nick Young
+2016-11-20,31-172,LAL,HOME,CHI,L (-8),1,30:15,5,13,.385,3,8,.375,2,2,1.000,1,5,6,2,0,0,1,2,15,9.7,-6,Nick Young
+2016-11-22,31-174,LAL,HOME,OKC,W (+2),1,29:20,6,12,.500,4,7,.571,1,2,.500,1,1,2,1,0,2,3,3,17,9.5,-9,Nick Young
+2016-11-23,31-175,LAL,AWAY,GSW,L (-43),1,18:55,3,8,.375,2,3,.667,0,0,,0,1,1,1,0,0,0,1,8,4.2,-27,Nick Young
+2016-11-25,31-177,LAL,HOME,GSW,L (-24),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2016-11-27,31-179,LAL,HOME,ATL,W (+15),1,23:08,6,12,.500,4,5,.800,1,1,1.000,1,0,1,0,1,0,0,2,17,11.9,-2,Nick Young
+2016-11-29,31-181,LAL,AWAY,NOP,L (-17),1,1:50,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4,Nick Young
+2016-11-30,31-182,LAL,AWAY,CHI,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2016-12-02,31-184,LAL,AWAY,TOR,L (-33),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2016-12-03,31-185,LAL,AWAY,MEM,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2016-12-05,31-187,LAL,HOME,UTA,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2016-12-07,31-189,LAL,AWAY,HOU,L (-39),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2016-12-09,31-191,LAL,HOME,PHO,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2016-12-11,31-193,LAL,HOME,NYK,L (-6),1,20:27,6,11,.545,1,6,.167,2,3,.667,2,2,4,0,0,0,0,2,15,10.5,0,Nick Young
+2016-12-12,31-194,LAL,AWAY,SAC,L (-24),1,26:08,3,10,.300,2,7,.286,0,0,,0,2,2,1,1,0,2,1,8,2.1,-12,Nick Young
+2016-12-14,31-196,LAL,AWAY,BRK,L (-10),1,29:37,5,15,.333,3,10,.300,1,1,1.000,3,1,4,0,1,1,1,3,14,7.4,-7,Nick Young
+2016-12-16,31-198,LAL,AWAY,PHI,W (+11),1,21:27,5,9,.556,2,5,.400,3,4,.750,0,1,1,2,0,1,0,2,15,11.9,+16,Nick Young
+2016-12-17,31-199,LAL,AWAY,CLE,L (-11),1,37:45,12,19,.632,8,14,.571,0,0,,0,2,2,3,1,0,0,5,32,25.2,-12,Nick Young
+2016-12-20,31-202,LAL,AWAY,CHO,L (-4),1,27:24,9,18,.500,5,10,.500,1,1,1.000,0,2,2,0,0,0,1,0,24,14.6,-22,Nick Young
+2016-12-22,31-204,LAL,AWAY,MIA,L (-8),1,35:48,7,14,.500,5,11,.455,1,1,1.000,0,0,0,1,2,0,0,2,20,14.9,+10,Nick Young
+2016-12-23,31-205,LAL,AWAY,ORL,L (-19),1,27:54,2,7,.286,1,3,.333,0,2,.000,1,2,3,0,2,2,0,0,5,4.8,-11,Nick Young
+2016-12-25,31-207,LAL,HOME,LAC,W (+9),1,30:08,6,9,.667,5,7,.714,2,2,1.000,0,2,2,2,1,0,1,3,19,15.9,+25,Nick Young
+2016-12-27,31-209,LAL,HOME,UTA,L (-2),1,22:58,2,8,.250,0,4,.000,0,0,,0,2,2,1,2,0,1,2,4,0.7,-7,Nick Young
+2016-12-29,31-211,LAL,HOME,DAL,L (-12),1,30:17,6,8,.750,5,6,.833,0,0,,0,2,2,1,1,0,0,0,17,16.1,-7,Nick Young
+2017-01-01,31-214,LAL,HOME,TOR,L (-9),1,30:20,8,14,.571,7,9,.778,3,3,1.000,0,2,2,0,2,0,2,3,26,18.8,+1,Nick Young
+2017-01-03,31-216,LAL,HOME,MEM,W (+14),1,26:57,6,11,.545,6,11,.545,2,4,.500,0,0,0,2,0,0,0,4,20,13.7,+9,Nick Young
+2017-01-05,31-218,LAL,AWAY,POR,L (-9),1,35:08,5,15,.333,3,9,.333,0,0,,1,1,2,1,0,0,0,4,13,4.6,-18,Nick Young
+2017-01-06,31-219,LAL,HOME,MIA,W (+27),1,29:18,1,9,.111,1,6,.167,2,2,1.000,1,4,5,1,0,0,0,2,5,0.9,+32,Nick Young
+2017-01-08,31-221,LAL,HOME,ORL,W (+16),1,19:28,1,7,.143,0,4,.000,0,0,,0,1,1,0,0,1,2,0,2,-3.5,+4,Nick Young
+2017-01-10,31-223,LAL,HOME,POR,L (-21),1,27:36,2,9,.222,2,5,.400,2,3,.667,0,0,0,1,1,1,0,1,8,4.1,-6,Nick Young
+2017-01-12,31-225,LAL,AWAY,SAS,L (-40),1,14:05,3,6,.500,2,4,.500,0,0,,0,0,0,1,0,0,0,2,8,4.9,-26,Nick Young
+2017-01-14,31-227,LAL,AWAY,LAC,L (-16),1,28:36,4,8,.500,2,5,.400,1,2,.500,0,0,0,0,1,0,0,2,11,6.8,-16,Nick Young
+2017-01-15,31-228,LAL,HOME,DET,L (-5),1,26:17,2,8,.250,1,7,.143,3,3,1.000,2,5,7,1,0,0,0,3,8,5.6,+4,Nick Young
+2017-01-17,31-230,LAL,HOME,DEN,L (-6),1,30:42,8,16,.500,4,11,.364,2,2,1.000,2,0,2,1,3,0,1,2,22,17.3,-6,Nick Young
+2017-01-20,31-233,LAL,HOME,IND,W (+13),1,25:55,5,13,.385,5,11,.455,0,0,,1,2,3,1,1,0,1,3,15,8.7,+15,Nick Young
+2017-01-22,31-235,LAL,AWAY,DAL,L (-49),1,26:53,3,9,.333,1,5,.200,2,2,1.000,0,2,2,1,0,0,0,0,9,5.2,-23,Nick Young
+2017-01-25,31-238,LAL,AWAY,POR,L (-7),1,30:23,5,10,.500,3,6,.500,2,2,1.000,0,4,4,0,0,0,1,3,15,9.0,-2,Nick Young
+2017-01-26,31-239,LAL,AWAY,UTA,L (-8),1,29:25,5,12,.417,3,7,.429,0,0,,0,3,3,0,1,0,1,4,13,5.9,-9,Nick Young
+2017-01-31,31-244,LAL,HOME,DEN,W (+4),1,29:32,9,15,.600,5,8,.625,0,1,.000,0,4,4,3,1,0,1,2,23,18.2,+23,Nick Young
+2017-02-02,31-246,LAL,AWAY,WAS,L (-8),1,24:26,3,10,.300,1,8,.125,0,0,,0,1,1,0,0,0,0,3,7,0.3,+1,Nick Young
+2017-02-03,31-247,LAL,AWAY,BOS,L (-6),1,33:08,6,14,.429,5,10,.500,0,0,,1,2,3,3,2,1,1,4,17,13.1,-3,Nick Young
+2017-02-06,31-250,LAL,AWAY,NYK,W (+14),1,21:36,5,15,.333,3,10,.300,4,4,1.000,1,4,5,0,1,0,0,2,17,10.6,+5,Nick Young
+2017-02-08,31-252,LAL,AWAY,DET,L (-19),1,19:37,3,9,.333,1,4,.250,2,3,.667,0,2,2,0,1,0,1,4,9,2.5,-1,Nick Young
+2017-02-10,31-254,LAL,AWAY,MIL,W (+8),1,28:49,8,11,.727,5,8,.625,5,5,1.000,1,1,2,4,2,0,1,3,26,25.1,+13,Nick Young
+2017-02-14,31-258,LAL,HOME,SAC,L (-1),1,29:30,3,10,.300,3,8,.375,1,2,.500,0,1,1,4,0,0,0,1,10,6.5,+6,Nick Young
+2017-02-15,31-259,LAL,AWAY,PHO,L (-36),1,23:51,2,10,.200,1,6,.167,0,0,,1,3,4,0,1,0,0,1,5,1.0,-37,Nick Young
+2017-02-24,31-268,LAL,AWAY,OKC,L (-17),1,20:28,1,9,.111,1,8,.125,0,0,,0,5,5,0,2,0,0,1,3,0.2,-18,Nick Young
+2017-02-26,31-270,LAL,HOME,SAS,L (-21),1,23:02,3,8,.375,1,4,.250,1,1,1.000,0,0,0,0,0,0,1,1,8,2.2,-13,Nick Young
+2017-02-28,31-272,LAL,HOME,CHO,L (-5),1,30:17,5,11,.455,5,10,.500,0,0,,0,0,0,0,0,0,0,3,15,8.1,-4,Nick Young
+2017-03-03,31-275,LAL,HOME,BOS,L (-20),1,15:59,3,10,.300,3,9,.333,0,0,,0,0,0,0,1,0,1,0,9,3.2,-22,Nick Young
+2017-03-05,31-277,LAL,HOME,NOP,L (-8),1,27:34,7,12,.583,4,8,.500,1,1,1.000,1,3,4,0,1,0,2,3,19,12.8,+4,Nick Young
+2017-03-07,31-279,LAL,AWAY,DAL,L (-11),1,20:39,4,10,.400,3,8,.375,2,2,1.000,0,2,2,0,0,0,0,1,13,7.8,-17,Nick Young
+2017-03-09,31-281,LAL,AWAY,PHO,W (+12),1,14:20,2,6,.333,2,3,.667,0,0,,0,1,1,1,0,0,1,3,6,1.4,+6,Nick Young
+2017-03-15,31-287,LAL,AWAY,HOU,L (-39),1,24:21,0,9,.000,0,7,.000,0,0,,0,3,3,0,0,0,1,1,0,-6.8,-14,Nick Young
+2017-03-17,31-289,LAL,HOME,MIL,L (-4),1,28:35,6,11,.545,4,8,.500,0,0,,0,3,3,2,0,0,0,2,16,12.2,-4,Nick Young
+2017-03-19,31-291,LAL,HOME,CLE,L (-5),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Nick Young
+2017-10-17,32-138,GSW,HOME,HOU,L (-1),0,26:10,8,9,.889,6,7,.857,1,1,1.000,1,1,2,0,0,0,1,4,23,18.3,-10,Nick Young
+2017-10-20,32-141,GSW,AWAY,NOP,W (+8),0,11:25,1,3,.333,1,2,.500,0,0,,0,1,1,1,1,0,0,1,3,2.9,-1,Nick Young
+2017-10-21,32-142,GSW,AWAY,MEM,L (-10),0,5:03,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,0,1,0,0,-2.4,-3,Nick Young
+2017-10-23,32-144,GSW,AWAY,DAL,W (+30),0,19:03,4,8,.500,4,7,.571,1,1,1.000,0,1,1,0,0,0,1,0,13,8.3,+6,Nick Young
+2017-10-27,32-148,GSW,HOME,WAS,W (+3),0,7:47,0,3,.000,0,2,.000,0,0,,2,1,3,1,0,1,0,1,0,0.6,-1,Nick Young
+2017-10-29,32-150,GSW,HOME,DET,L (-8),0,12:52,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.8,-16,Nick Young
+2017-10-30,32-151,GSW,AWAY,LAC,W (+28),0,6:31,1,3,.333,1,3,.333,0,0,,0,0,0,0,0,0,0,0,3,1.3,+2,Nick Young
+2017-11-02,32-154,GSW,AWAY,SAS,W (+20),0,3:22,0,2,.000,0,2,.000,0,0,,0,0,0,1,0,0,0,0,0,-0.7,+3,Nick Young
+2017-11-04,32-156,GSW,AWAY,DEN,W (+19),0,18:15,2,7,.286,1,5,.200,0,2,.000,0,0,0,1,2,0,0,4,5,1.2,+1,Nick Young
+2017-11-06,32-158,GSW,HOME,MIA,W (+17),0,4:01,1,3,.333,1,3,.333,0,0,,0,0,0,0,0,0,0,0,3,1.3,0,Nick Young
+2017-11-08,32-160,GSW,HOME,MIN,W (+24),0,20:53,4,11,.364,3,9,.333,1,1,1.000,0,3,3,5,4,0,0,0,12,14.3,+9,Nick Young
+2017-11-11,32-163,GSW,HOME,PHI,W (+21),0,20:52,5,6,.833,3,4,.750,0,0,,0,2,2,2,3,0,1,2,13,14.0,+22,Nick Young
+2017-11-13,32-165,GSW,HOME,ORL,W (+10),0,20:26,3,9,.333,1,6,.167,2,2,1.000,0,0,0,0,0,1,0,2,9,3.8,-9,Nick Young
+2017-11-16,32-168,GSW,AWAY,BOS,L (-4),0,9:32,2,3,.667,2,3,.667,1,2,.500,0,1,1,0,1,0,0,2,7,5.8,-14,Nick Young
+2017-11-18,32-170,GSW,AWAY,PHI,W (+8),0,5:59,1,2,.500,1,2,.500,0,0,,0,2,2,0,0,0,0,0,3,2.6,+13,Nick Young
+2017-11-19,32-171,GSW,AWAY,BRK,W (+7),0,16:10,3,6,.500,2,4,.500,0,0,,0,3,3,0,0,0,1,2,8,4.1,+3,Nick Young
+2017-11-22,32-174,GSW,AWAY,OKC,L (-17),0,16:27,1,7,.143,0,4,.000,2,3,.667,0,2,2,2,0,0,1,1,4,-0.3,0,Nick Young
+2017-11-24,32-176,GSW,HOME,CHI,W (+49),0,19:17,7,12,.583,3,6,.500,0,0,,0,6,6,0,0,0,1,0,17,12.2,+22,Nick Young
+2017-11-25,32-177,GSW,HOME,NOP,W (+15),0,9:41,0,2,.000,0,2,.000,2,2,1.000,0,0,0,0,0,0,0,0,2,0.6,+9,Nick Young
+2017-11-27,32-179,GSW,HOME,SAC,L (-4),0,12:13,3,6,.500,2,5,.400,0,0,,0,1,1,0,0,0,3,0,8,2.3,-13,Nick Young
+2017-11-29,32-181,GSW,AWAY,LAL,W (+4),0,13:53,3,5,.600,1,2,.500,2,3,.667,1,1,2,0,0,0,1,0,9,6.3,+4,Nick Young
+2017-12-01,32-183,GSW,AWAY,ORL,W (+21),0,2:26,1,2,.500,1,2,.500,0,0,,0,0,0,0,0,0,0,0,3,2.0,+1,Nick Young
+2017-12-03,32-185,GSW,AWAY,MIA,W (+28),0,15:24,3,4,.750,2,3,.667,0,0,,0,0,0,0,0,0,2,2,8,3.6,+2,Nick Young
+2017-12-04,32-186,GSW,AWAY,NOP,W (+10),0,13:57,2,4,.500,2,4,.500,0,0,,0,1,1,0,0,0,0,0,6,4.3,-6,Nick Young
+2017-12-06,32-188,GSW,AWAY,CHO,W (+14),0,20:00,3,6,.500,2,5,.400,2,4,.500,0,1,1,0,1,0,0,1,10,7.1,+16,Nick Young
+2017-12-08,32-190,GSW,AWAY,DET,W (+4),0,8:36,0,3,.000,0,1,.000,2,3,.667,0,1,1,0,0,0,0,0,2,-0.2,-11,Nick Young
+2017-12-11,32-193,GSW,HOME,POR,W (+7),0,13:01,5,8,.625,2,2,1.000,0,0,,0,2,2,0,1,0,0,1,12,9.6,+11,Nick Young
+2017-12-14,32-196,GSW,HOME,DAL,W (+15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2017-12-18,32-200,GSW,AWAY,LAL,W (+2),0,18:14,4,8,.500,2,5,.400,0,0,,0,2,2,0,0,0,2,2,10,3.8,+8,Nick Young
+2017-12-20,32-202,GSW,HOME,MEM,W (+13),0,23:54,3,8,.375,1,3,.333,0,0,,2,4,6,1,0,1,0,3,7,5.4,+9,Nick Young
+2017-12-22,32-204,GSW,HOME,LAL,W (+7),0,18:40,3,3,1.000,1,1,1.000,1,1,1.000,0,2,2,0,0,0,1,2,8,5.9,0,Nick Young
+2017-12-23,32-205,GSW,HOME,DEN,L (-15),0,18:39,2,8,.250,1,4,.250,0,0,,0,1,1,0,1,0,1,3,5,-0.7,-18,Nick Young
+2017-12-25,32-207,GSW,HOME,CLE,W (+7),0,11:13,0,3,.000,0,3,.000,0,0,,0,1,1,0,0,0,0,0,0,-1.8,+6,Nick Young
+2017-12-27,32-209,GSW,HOME,UTA,W (+25),0,22:02,6,9,.667,3,4,.750,0,0,,0,1,1,1,0,0,0,1,15,11.7,+10,Nick Young
+2017-12-29,32-211,GSW,HOME,CHO,L (-11),0,15:40,2,7,.286,1,5,.200,0,0,,0,0,0,0,0,0,1,2,5,-0.9,+5,Nick Young
+2017-12-30,32-212,GSW,HOME,MEM,W (+13),0,12:02,1,4,.250,0,2,.000,2,2,1.000,0,1,1,0,0,0,0,1,4,1.5,-3,Nick Young
+2018-01-03,32-216,GSW,AWAY,DAL,W (+3),0,11:49,0,2,.000,0,2,.000,0,0,,0,1,1,0,0,1,1,2,0,-2.2,-3,Nick Young
+2018-01-04,32-217,GSW,AWAY,HOU,W (+10),0,19:27,4,7,.571,3,5,.600,0,0,,0,1,1,1,0,0,0,0,11,8.7,+5,Nick Young
+2018-01-06,32-219,GSW,AWAY,LAC,W (+16),0,19:58,4,11,.364,2,8,.250,1,1,1.000,1,2,3,1,2,0,1,3,11,6.7,-5,Nick Young
+2018-01-08,32-221,GSW,HOME,DEN,W (+10),0,15:26,3,6,.500,2,4,.500,0,0,,0,0,0,0,0,0,0,1,8,4.6,+6,Nick Young
+2018-01-10,32-223,GSW,HOME,LAC,L (-19),1,25:18,3,11,.273,1,7,.143,0,0,,0,0,0,1,1,0,0,2,7,1.4,-13,Nick Young
+2018-01-12,32-225,GSW,AWAY,MIL,W (+14),0,13:03,3,3,1.000,2,2,1.000,0,0,,1,0,1,0,0,0,1,0,8,6.8,-7,Nick Young
+2018-01-13,32-226,GSW,AWAY,TOR,W (+2),0,4:08,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,+7,Nick Young
+2018-01-15,32-228,GSW,AWAY,CLE,W (+10),0,12:03,2,3,.667,1,2,.500,0,0,,0,0,0,0,1,0,0,1,5,4.3,+3,Nick Young
+2018-01-17,32-230,GSW,AWAY,CHI,W (+7),0,18:40,1,4,.250,0,3,.000,0,0,,0,2,2,0,2,1,0,1,2,2.5,-28,Nick Young
+2018-01-20,32-233,GSW,AWAY,HOU,L (-8),0,17:39,6,10,.600,4,7,.571,0,0,,1,0,1,0,1,0,0,3,16,11.9,0,Nick Young
+2018-01-23,32-236,GSW,HOME,NYK,W (+11),0,16:59,2,5,.400,1,4,.250,0,0,,0,0,0,0,0,0,0,1,5,1.9,-12,Nick Young
+2018-01-25,32-238,GSW,HOME,MIN,W (+13),0,15:14,2,4,.500,2,4,.500,0,0,,0,0,0,0,0,0,0,3,6,2.8,+8,Nick Young
+2018-01-27,32-240,GSW,HOME,BOS,W (+4),0,6:32,0,3,.000,0,1,.000,0,0,,0,0,0,0,1,0,0,0,0,-1.1,-5,Nick Young
+2018-01-30,32-243,GSW,AWAY,UTA,L (-30),0,14:48,2,4,.500,0,1,.000,1,2,.500,0,1,1,0,0,1,1,2,5,1.8,-14,Nick Young
+2018-02-02,32-246,GSW,AWAY,SAC,W (+15),0,15:50,4,6,.667,4,6,.667,0,0,,0,1,1,0,0,0,0,1,12,9.3,+15,Nick Young
+2018-02-03,32-247,GSW,AWAY,DEN,L (-7),0,17:10,2,5,.400,0,3,.000,0,0,,1,3,4,0,1,0,1,2,4,2.1,-11,Nick Young
+2018-02-06,32-250,GSW,HOME,OKC,L (-20),0,13:25,1,5,.200,1,4,.250,0,0,,1,0,1,1,0,0,0,0,3,1.3,+2,Nick Young
+2018-02-08,32-252,GSW,HOME,DAL,W (+18),0,9:27,2,5,.400,2,3,.667,0,0,,0,0,0,1,0,0,0,0,6,4.0,-9,Nick Young
+2018-02-10,32-254,GSW,HOME,SAS,W (+17),0,4:15,3,5,.600,3,4,.750,0,0,,0,0,0,0,0,0,0,0,9,6.7,-2,Nick Young
+2018-02-12,32-256,GSW,HOME,PHO,W (+46),0,23:42,5,10,.500,3,7,.429,3,3,1.000,1,2,3,0,2,0,0,0,16,14.3,+34,Nick Young
+2018-02-14,32-258,GSW,AWAY,POR,L (-6),0,15:00,0,3,.000,0,3,.000,0,0,,0,2,2,0,1,0,1,0,0,-1.5,-3,Nick Young
+2018-02-22,32-266,GSW,HOME,LAC,W (+7),0,14:29,1,3,.333,1,3,.333,0,0,,0,1,1,0,0,0,0,1,3,1.2,-6,Nick Young
+2018-02-24,32-268,GSW,HOME,OKC,W (+32),0,18:25,5,10,.500,4,5,.800,2,2,1.000,1,4,5,2,1,0,1,2,16,13.5,+23,Nick Young
+2018-02-26,32-270,GSW,AWAY,NYK,W (+14),0,14:39,1,4,.250,1,4,.250,0,0,,0,0,0,0,0,0,1,1,3,-0.8,-8,Nick Young
+2018-02-28,32-272,GSW,AWAY,WAS,W (+8),0,6:23,0,1,.000,0,1,.000,0,0,,0,0,0,0,2,0,0,1,0,0.9,+15,Nick Young
+2018-03-02,32-274,GSW,AWAY,ATL,W (+5),0,22:50,5,9,.556,4,8,.500,2,2,1.000,0,0,0,1,1,0,0,2,16,12.6,+7,Nick Young
+2018-03-06,32-278,GSW,HOME,BRK,W (+13),0,14:05,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,1,1,0,-1.4,+2,Nick Young
+2018-03-08,32-280,GSW,HOME,SAS,W (+3),0,26:55,4,9,.444,2,7,.286,2,2,1.000,1,1,2,1,1,0,1,3,12,7.8,-2,Nick Young
+2018-03-09,32-281,GSW,AWAY,POR,L (-17),0,23:55,1,4,.250,1,3,.333,0,0,,0,3,3,0,0,0,0,1,3,1.1,-12,Nick Young
+2018-03-11,32-283,GSW,AWAY,MIN,L (-6),0,21:58,0,4,.000,0,4,.000,0,0,,1,1,2,0,1,1,0,2,0,-0.9,+16,Nick Young
+2018-03-14,32-286,GSW,HOME,LAL,W (+11),1,31:21,6,13,.462,3,8,.375,3,3,1.000,0,3,3,2,1,0,2,0,18,12.6,+7,Nick Young
+2018-03-16,32-288,GSW,HOME,SAC,L (-5),1,36:21,5,15,.333,3,8,.375,3,3,1.000,1,1,2,1,0,0,2,5,16,5.2,-8,Nick Young
+2018-03-17,32-289,GSW,AWAY,PHO,W (+15),1,41:38,7,15,.467,3,9,.333,3,3,1.000,1,6,7,2,1,0,0,3,20,16.0,+29,Nick Young
+2018-03-19,32-291,GSW,AWAY,SAS,L (-14),1,40:12,2,10,.200,0,5,.000,6,6,1.000,0,2,2,0,0,0,2,2,10,1.6,-21,Nick Young
+2018-03-23,32-295,GSW,HOME,ATL,W (+12),1,25:55,9,17,.529,6,11,.545,0,0,,1,1,2,1,0,0,0,1,24,17.0,+13,Nick Young
+2018-03-25,32-297,GSW,HOME,UTA,L (-19),1,37:58,3,14,.214,1,6,.167,2,2,1.000,0,3,3,1,1,0,1,3,9,0.8,-15,Nick Young
+2018-03-27,32-299,GSW,HOME,IND,L (-11),1,31:05,4,11,.364,2,5,.400,2,2,1.000,0,3,3,1,0,0,0,1,12,7.1,-14,Nick Young
+2018-03-29,32-301,GSW,HOME,MIL,L (-9),0,23:26,2,8,.250,1,3,.333,0,0,,0,1,1,0,0,0,2,0,5,-1.5,-5,Nick Young
+2018-03-31,32-303,GSW,AWAY,SAC,W (+16),0,20:36,2,7,.286,2,6,.333,0,0,,0,0,0,0,0,0,0,1,6,1.5,+7,Nick Young
+2018-04-01,32-304,GSW,HOME,PHO,W (+10),0,25:15,2,8,.250,2,7,.286,0,0,,1,4,5,1,1,0,1,0,6,3.8,-4,Nick Young
+2018-04-03,32-306,GSW,AWAY,OKC,W (+4),0,25:57,3,8,.375,2,5,.400,0,0,,0,3,3,0,0,0,0,4,8,2.9,+13,Nick Young
+2018-04-05,32-308,GSW,AWAY,IND,L (-20),0,20:40,0,4,.000,0,4,.000,4,4,1.000,0,3,3,0,0,0,0,0,4,2.1,-1,Nick Young
+2018-04-07,32-310,GSW,HOME,NOP,L (-6),0,20:48,3,4,.750,2,3,.667,0,0,,1,3,4,0,2,0,1,2,8,8.2,-21,Nick Young
+2018-04-08,32-311,GSW,AWAY,PHO,W (+17),0,20:19,2,6,.333,1,2,.500,0,0,,0,3,3,1,0,0,0,2,5,2.4,+8,Nick Young
+2018-04-10,32-313,GSW,AWAY,UTA,L (-40),0,24:27,1,3,.333,1,2,.500,3,3,1.000,0,2,2,1,0,0,0,1,6,5.2,-5,Nick Young
+2015-10-28,30-149,LAL,HOME,MIN,L (-1),0,19:04,5,8,.625,4,7,.571,0,0,,0,2,2,0,0,0,0,3,14,9.8,+5,Nick Young
+2015-10-30,30-151,LAL,AWAY,SAC,L (-18),0,21:44,5,11,.455,3,7,.429,4,4,1.000,0,2,2,3,3,0,0,0,17,17.0,-3,Nick Young
+2015-11-01,30-153,LAL,HOME,DAL,L (-10),0,18:56,2,5,.400,2,4,.500,2,2,1.000,0,0,0,0,0,1,1,2,8,4.2,-11,Nick Young
+2015-11-03,30-155,LAL,HOME,DEN,L (-11),0,15:12,0,3,.000,0,3,.000,3,3,1.000,0,3,3,0,1,0,1,0,3,1.8,-6,Nick Young
+2015-11-06,30-158,LAL,AWAY,BRK,W (+6),0,15:39,3,9,.333,2,5,.400,2,2,1.000,0,1,1,0,0,1,0,1,10,5.5,+6,Nick Young
+2015-11-08,30-160,LAL,AWAY,NYK,L (-4),0,18:32,4,10,.400,2,5,.400,0,0,,0,0,0,0,0,0,0,0,10,4.6,+5,Nick Young
+2015-11-10,30-162,LAL,AWAY,MIA,L (-13),0,25:31,6,13,.462,5,9,.556,0,0,,0,2,2,2,1,1,1,0,17,13.0,+4,Nick Young
+2015-11-11,30-163,LAL,AWAY,ORL,L (-2),0,21:13,4,7,.571,2,5,.400,0,0,,0,2,2,0,1,0,2,1,10,5.9,-3,Nick Young
+2015-11-13,30-165,LAL,AWAY,DAL,L (-8),0,16:37,0,4,.000,0,1,.000,0,0,,1,4,5,0,1,0,0,1,0,-0.3,-4,Nick Young
+2015-11-15,30-167,LAL,HOME,DET,W (+12),0,25:54,4,6,.667,2,2,1.000,3,3,1.000,0,2,2,0,1,0,1,1,13,10.6,+20,Nick Young
+2015-11-16,30-168,LAL,AWAY,PHO,L (-19),0,25:16,4,9,.444,1,5,.200,2,2,1.000,0,3,3,0,0,0,2,2,11,4.4,-15,Nick Young
+2015-11-20,30-172,LAL,HOME,TOR,L (-11),0,14:24,3,6,.500,2,3,.667,0,0,,0,0,0,0,1,0,1,1,8,4.6,-20,Nick Young
+2015-11-22,30-174,LAL,HOME,POR,L (-14),0,19:33,1,6,.167,0,1,.000,0,0,,1,2,3,3,0,0,1,1,2,0.2,-4,Nick Young
+2015-11-24,30-176,LAL,AWAY,GSW,L (-34),0,23:19,3,10,.300,1,6,.167,0,0,,0,1,1,1,0,0,0,1,7,1.8,-14,Nick Young
+2015-11-28,30-180,LAL,AWAY,POR,L (-12),0,15:20,2,7,.286,2,6,.333,0,0,,0,1,1,0,1,0,0,1,6,2.8,-15,Nick Young
+2015-11-29,30-181,LAL,HOME,IND,L (-4),0,27:32,8,17,.471,6,14,.429,0,2,.000,1,1,2,1,0,0,0,4,22,12.6,+6,Nick Young
+2015-12-01,30-183,LAL,AWAY,PHI,L (-12),0,11:57,1,3,.333,1,3,.333,1,2,.500,0,1,1,0,0,0,1,0,4,1.2,-2,Nick Young
+2015-12-06,30-188,LAL,AWAY,DET,L (-20),0,7:25,0,3,.000,0,2,.000,0,0,,0,0,0,0,0,0,0,2,0,-2.9,-5,Nick Young
+2015-12-09,30-191,LAL,AWAY,MIN,L (-1),0,28:30,5,9,.556,2,5,.400,1,1,1.000,0,1,1,2,1,0,0,0,13,11.4,+11,Nick Young
+2015-12-11,30-193,LAL,AWAY,SAS,L (-22),0,19:01,2,6,.333,1,3,.333,1,1,1.000,0,0,0,0,0,0,0,1,6,2.2,-4,Nick Young
+2015-12-12,30-194,LAL,AWAY,HOU,L (-29),0,27:21,5,10,.500,3,7,.429,0,0,,2,1,3,1,0,0,0,1,13,10.0,-35,Nick Young
+2015-12-15,30-197,LAL,HOME,MIL,W (+18),0,20:34,3,8,.375,3,6,.500,1,2,.500,0,1,1,0,0,0,0,1,10,5.1,-2,Nick Young
+2015-12-17,30-199,LAL,HOME,HOU,L (-20),0,15:58,1,4,.250,0,3,.000,0,0,,0,1,1,0,0,0,1,1,2,-1.5,+4,Nick Young
+2015-12-19,30-201,LAL,AWAY,OKC,L (-40),0,20:37,5,13,.385,3,9,.333,1,1,1.000,0,0,0,0,0,0,1,0,14,5.9,-32,Nick Young
+2015-12-22,30-204,LAL,AWAY,DEN,W (+4),0,16:12,2,8,.250,0,5,.000,0,0,,0,0,0,0,0,0,0,0,4,-0.8,-8,Nick Young
+2015-12-25,30-207,LAL,HOME,LAC,L (-10),0,21:56,0,5,.000,0,4,.000,0,0,,0,5,5,0,0,0,0,0,0,-2.0,+7,Nick Young
+2015-12-27,30-209,LAL,AWAY,MEM,L (-16),0,17:09,2,7,.286,1,4,.250,2,2,1.000,1,1,2,0,1,1,0,0,7,5.6,-11,Nick Young
+2015-12-28,30-210,LAL,AWAY,CHO,L (-10),0,15:56,3,6,.500,3,4,.750,2,3,.667,0,1,1,2,0,0,2,0,11,7.3,+3,Nick Young
+2015-12-30,30-212,LAL,AWAY,BOS,W (+8),0,18:59,3,6,.500,2,3,.667,0,0,,0,1,1,0,0,0,0,0,8,5.3,0,Nick Young
+2016-01-01,30-214,LAL,HOME,PHI,W (+9),0,26:24,3,11,.273,2,7,.286,0,0,,1,2,3,1,4,0,1,0,8,6.5,+1,Nick Young
+2016-01-03,30-216,LAL,HOME,PHO,W (+20),0,17:56,1,7,.143,1,4,.250,0,0,,0,1,1,0,0,0,0,1,3,-1.6,-2,Nick Young
+2016-01-05,30-218,LAL,HOME,GSW,L (-21),0,15:21,0,6,.000,0,3,.000,1,3,.333,0,3,3,1,1,0,3,1,1,-4.8,-10,Nick Young
+2016-01-10,30-223,LAL,HOME,UTA,L (-12),0,19:35,3,7,.429,0,0,,0,0,,1,0,1,0,0,0,0,1,6,2.6,-11,Nick Young
+2016-01-12,30-225,LAL,HOME,NOP,W (+4),0,8:49,0,2,.000,0,1,.000,0,0,,0,0,0,0,1,1,0,0,0,0.3,-4,Nick Young
+2016-01-16,30-229,LAL,AWAY,UTA,L (-27),0,12:00,1,4,.250,0,2,.000,0,0,,0,2,2,1,0,0,1,0,2,-0.1,+3,Nick Young
+2016-01-23,30-236,LAL,AWAY,POR,L (-18),0,7:27,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,0,0,0,0,-1.4,+3,Nick Young
+2016-01-26,30-239,LAL,HOME,DAL,L (-2),0,25:44,2,6,.333,2,5,.400,2,2,1.000,1,5,6,2,1,0,0,1,8,8.8,+1,Nick Young
+2016-01-28,30-241,LAL,HOME,CHI,L (-23),0,28:40,5,10,.500,3,6,.500,1,2,.500,2,1,3,0,0,0,2,2,14,7.5,-11,Nick Young
+2016-01-29,30-242,LAL,AWAY,LAC,L (-12),0,13:47,1,4,.250,1,3,.333,2,2,1.000,0,2,2,2,0,0,0,1,5,4.2,-4,Nick Young
+2016-01-31,30-244,LAL,HOME,CHO,L (-19),0,25:02,0,6,.000,0,5,.000,2,2,1.000,0,3,3,1,0,0,0,1,2,-1.0,-20,Nick Young
+2016-02-02,30-246,LAL,HOME,MIN,W (+4),0,14:16,1,4,.250,0,2,.000,0,0,,0,0,0,0,1,0,1,2,2,-1.2,-1,Nick Young
+2016-02-04,30-248,LAL,AWAY,NOP,W (+3),0,15:53,2,3,.667,1,2,.500,6,6,1.000,0,4,4,1,1,0,1,1,11,11.2,-13,Nick Young
+2016-02-06,30-250,LAL,AWAY,SAS,L (-4),0,15:54,1,4,.250,1,3,.333,0,0,,0,1,1,1,0,0,0,0,3,1.6,-3,Nick Young
+2016-02-08,30-252,LAL,AWAY,IND,L (-2),0,14:47,1,7,.143,0,5,.000,0,0,,1,3,4,0,0,0,0,2,2,-1.7,+3,Nick Young
+2016-02-19,30-263,LAL,HOME,SAS,L (-6),0,18:43,2,7,.286,1,3,.333,5,5,1.000,0,1,1,2,0,0,0,0,10,7.6,-3,Nick Young
+2016-02-21,30-265,LAL,AWAY,CHI,L (-11),0,20:33,1,6,.167,1,4,.250,0,0,,0,1,1,0,0,0,1,1,3,-1.9,-10,Nick Young
+2016-02-22,30-266,LAL,AWAY,MIL,L (-7),0,23:33,5,12,.417,3,8,.375,6,8,.750,0,3,3,1,0,0,2,0,19,11.4,+13,Nick Young
+2016-02-24,30-268,LAL,AWAY,MEM,L (-9),0,19:03,2,7,.286,2,5,.400,2,3,.667,0,0,0,0,0,0,0,2,8,2.7,-2,Nick Young
+2016-02-26,30-270,LAL,HOME,MEM,L (-17),0,17:05,2,6,.333,1,5,.200,1,2,.500,0,3,3,0,0,2,1,0,6,3.5,-18,Nick Young
+2016-03-01,30-274,LAL,HOME,BRK,W (+6),0,24:27,1,5,.200,1,4,.250,0,1,.000,0,2,2,1,1,0,1,2,3,0.0,+9,Nick Young
+2016-03-02,30-275,LAL,AWAY,DEN,L (-10),0,12:43,2,5,.400,1,4,.250,3,3,1.000,0,3,3,0,0,0,0,1,8,5.8,+1,Nick Young
+2016-03-04,30-277,LAL,HOME,ATL,L (-29),1,25:08,1,9,.111,1,5,.200,2,2,1.000,2,1,3,2,0,0,0,1,5,1.8,-6,Nick Young
+2016-03-06,30-279,LAL,HOME,GSW,W (+17),0,22:27,3,8,.375,2,5,.400,5,5,1.000,0,2,2,2,1,0,1,5,13,8.6,+6,Nick Young
+2016-03-08,30-281,LAL,HOME,ORL,W (+9),1,22:46,0,5,.000,0,3,.000,0,0,,0,1,1,1,0,0,0,0,0,-2.5,+3,Nick Young
+2010-10-28,25-149,WAS,AWAY,ORL,L (-29),0,20:39,1,5,.200,0,2,.000,3,3,1.000,0,2,2,1,0,0,0,0,5,3.2,-4,Nick Young
+2010-10-30,25-151,WAS,AWAY,ATL,L (-4),0,10:32,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,1,0,1,0,-1.1,-2,Nick Young
+2010-11-02,25-154,WAS,HOME,PHI,W (+1),0,23:17,7,11,.636,3,5,.600,3,3,1.000,0,2,2,0,1,0,1,2,20,14.9,+14,Nick Young
+2010-11-05,25-157,WAS,AWAY,NYK,L (-21),0,14:57,1,3,.333,0,1,.000,1,1,1.000,0,1,1,0,0,0,0,0,3,1.6,-18,Nick Young
+2010-11-06,25-158,WAS,HOME,CLE,L (-5),0,5:56,1,3,.333,1,2,.500,0,0,,0,0,0,0,0,0,0,0,3,1.3,-12,Nick Young
+2010-11-10,25-162,WAS,HOME,HOU,W (+7),0,7:56,1,4,.250,1,3,.333,0,0,,0,1,1,0,0,0,0,1,3,0.5,+4,Nick Young
+2010-11-12,25-164,WAS,HOME,CHA,L (-8),0,12:54,4,7,.571,1,3,.333,0,0,,0,0,0,0,0,0,0,3,9,4.5,+4,Nick Young
+2010-11-13,25-165,WAS,AWAY,CHI,L (-7),0,18:55,5,9,.556,1,2,.500,0,0,,0,5,5,2,0,0,0,1,11,9.2,+3,Nick Young
+2010-11-16,25-168,WAS,HOME,TOR,W (+15),0,29:44,8,15,.533,1,4,.250,3,4,.750,0,6,6,0,1,0,2,3,20,11.9,-6,Nick Young
+2010-11-17,25-169,WAS,AWAY,BOS,L (-31),0,29:18,9,15,.600,1,4,.250,1,2,.500,1,0,1,0,1,0,0,0,20,14.4,-20,Nick Young
+2010-11-19,25-171,WAS,HOME,MEM,W (+3),0,21:10,1,8,.125,0,3,.000,3,4,.750,0,1,1,0,1,0,0,0,5,0.7,-8,Nick Young
+2010-11-21,25-173,WAS,AWAY,DET,L (-5),0,30:41,7,10,.700,2,3,.667,2,3,.667,0,1,1,0,0,0,0,3,18,12.5,0,Nick Young
+2010-11-23,25-175,WAS,HOME,PHI,W (+2),0,31:45,7,15,.467,4,8,.500,1,1,1.000,0,3,3,1,1,1,1,1,19,13.2,0,Nick Young
+2010-11-25,25-177,WAS,AWAY,ATL,L (-20),0,25:58,8,14,.571,0,2,.000,4,6,.667,2,2,4,0,0,2,0,3,20,14.8,0,Nick Young
+2010-11-27,25-179,WAS,HOME,ORL,L (-1),0,32:18,8,15,.533,3,4,.750,2,2,1.000,0,1,1,2,1,0,2,1,21,14.0,+7,Nick Young
+2010-11-29,25-181,WAS,AWAY,MIA,L (-11),0,33:14,4,15,.267,0,4,.000,5,6,.833,1,1,2,0,0,0,1,2,13,2.9,-5,Nick Young
+2010-12-01,25-183,WAS,AWAY,TOR,L (-19),0,11:51,2,6,.333,0,0,,5,6,.833,0,0,0,1,0,0,0,1,9,5.5,-11,Nick Young
+2010-12-05,25-187,WAS,AWAY,PHO,L (-17),0,23:22,8,14,.571,2,5,.400,2,3,.667,2,2,4,1,0,1,1,4,20,13.8,-2,Nick Young
+2010-12-07,25-189,WAS,AWAY,LAL,L (-7),0,32:14,10,18,.556,6,11,.545,4,4,1.000,0,3,3,1,3,1,2,4,30,23.1,+9,Nick Young
+2010-12-08,25-190,WAS,AWAY,SAC,L (-25),0,26:01,1,8,.125,0,1,.000,1,1,1.000,0,3,3,1,0,1,3,3,3,-4.1,-8,Nick Young
+2010-12-10,25-192,WAS,HOME,NYK,L (-6),0,32:39,6,13,.462,3,7,.429,2,3,.667,0,4,4,1,1,0,2,2,17,10.0,+11,Nick Young
+2010-12-14,25-196,WAS,HOME,LAL,L (-14),0,31:55,9,21,.429,0,4,.000,3,3,1.000,0,1,1,2,2,0,2,2,21,10.8,-17,Nick Young
+2010-12-16,25-198,WAS,AWAY,NJN,L (-8),0,33:00,6,14,.429,1,3,.333,9,10,.900,1,2,3,0,1,0,2,4,22,12.9,-3,Nick Young
+2010-12-18,25-200,WAS,HOME,MIA,L (-1),1,45:38,13,23,.565,2,2,1.000,2,2,1.000,0,4,4,1,1,0,1,3,30,19.8,-1,Nick Young
+2010-12-20,25-202,WAS,HOME,CHA,W (+33),1,35:06,8,13,.615,3,6,.500,2,2,1.000,0,2,2,1,0,0,5,5,21,9.4,+29,Nick Young
+2010-12-22,25-204,WAS,HOME,CHI,L (-7),1,39:26,9,19,.474,3,6,.500,1,1,1.000,0,1,1,1,2,1,4,4,22,10.4,-11,Nick Young
+2010-12-26,25-208,WAS,AWAY,SAS,L (-14),1,36:08,5,19,.263,0,2,.000,0,0,,2,2,4,1,0,0,2,1,10,-1.0,-7,Nick Young
+2010-12-27,25-209,WAS,AWAY,HOU,L (-7),1,37:43,6,13,.462,2,2,1.000,4,4,1.000,0,0,0,0,2,0,1,3,18,11.1,-14,Nick Young
+2010-12-29,25-211,WAS,HOME,IND,W (+14),1,42:57,10,26,.385,3,9,.333,2,2,1.000,2,7,9,3,3,0,1,0,25,18.4,+9,Nick Young
+2010-12-31,25-213,WAS,AWAY,IND,L (-9),1,29:54,2,11,.182,2,6,.333,2,2,1.000,1,0,1,1,0,0,3,5,8,-2.5,-6,Nick Young
+2011-01-01,25-214,WAS,HOME,NOH,L (-11),1,40:04,9,20,.450,1,5,.200,5,5,1.000,1,4,5,3,1,1,1,5,24,16.3,-13,Nick Young
+2011-01-05,25-218,WAS,AWAY,PHI,L (-12),1,39:01,9,16,.563,2,3,.667,1,1,1.000,0,1,1,1,1,0,0,4,21,13.8,-13,Nick Young
+2011-01-07,25-220,WAS,HOME,NJN,W (+20),1,35:31,6,15,.400,1,4,.250,3,6,.500,0,2,2,5,0,0,2,1,16,8.4,+24,Nick Young
+2011-01-08,25-221,WAS,AWAY,CHA,L (-15),1,23:19,3,8,.375,1,2,.500,0,0,,0,2,2,1,0,0,2,3,7,0.7,-10,Nick Young
+2011-01-11,25-224,WAS,HOME,SAC,W (+3),1,45:27,14,22,.636,7,10,.700,8,9,.889,2,2,4,3,0,0,3,2,43,33.1,+2,Nick Young
+2011-01-13,25-226,WAS,AWAY,MIN,L (-12),1,43:07,5,14,.357,3,6,.500,2,2,1.000,0,4,4,1,1,1,2,0,15,8.8,-10,Nick Young
+2011-01-15,25-228,WAS,HOME,TOR,W (+3),1,40:57,10,19,.526,2,7,.286,7,8,.875,1,5,6,4,1,0,1,2,29,23.5,+6,Nick Young
+2011-01-17,25-230,WAS,HOME,UTA,W (+7),1,37:06,7,12,.583,3,5,.600,8,8,1.000,0,3,3,2,0,1,2,2,25,19.6,+11,Nick Young
+2011-01-19,25-232,WAS,AWAY,MIL,L (-13),1,37:05,9,19,.474,1,4,.250,2,3,.667,1,5,6,5,1,0,0,0,21,17.6,-9,Nick Young
+2011-01-21,25-234,WAS,HOME,PHO,L (-18),1,41:13,10,20,.500,4,8,.500,1,2,.500,1,7,8,2,0,0,2,4,25,15.2,-17,Nick Young
+2011-01-22,25-235,WAS,HOME,BOS,W (+2),1,39:55,1,13,.077,0,3,.000,4,5,.800,0,4,4,2,1,0,1,2,6,-1.3,-6,Nick Young
+2011-01-24,25-237,WAS,AWAY,NYK,L (-9),1,41:25,7,16,.438,2,5,.400,6,7,.857,0,1,1,2,0,0,3,2,22,11.1,-24,Nick Young
+2011-01-25,25-238,WAS,HOME,DEN,L (-11),1,41:26,10,19,.526,0,5,.000,6,8,.750,1,4,5,2,1,1,0,2,26,20.1,-8,Nick Young
+2011-01-28,25-241,WAS,AWAY,OKC,L (-7),1,51:50,13,33,.394,1,4,.250,5,7,.714,1,2,3,1,1,0,1,3,32,14.1,0,Nick Young
+2011-01-29,25-242,WAS,AWAY,MEM,L (-14),1,27:30,2,9,.222,1,1,1.000,3,4,.750,0,0,0,1,2,0,1,1,8,3.4,-2,Nick Young
+2011-01-31,25-244,WAS,AWAY,DAL,L (-10),1,37:47,6,20,.300,0,3,.000,6,9,.667,1,2,3,2,1,1,0,3,18,8.4,-5,Nick Young
+2011-02-01,25-245,WAS,AWAY,NOH,L (-8),1,39:17,9,18,.500,3,7,.429,9,12,.750,1,3,4,2,1,0,1,4,30,21.2,-5,Nick Young
+2011-02-04,25-248,WAS,HOME,ORL,L (-18),1,36:17,7,20,.350,0,2,.000,3,5,.600,0,1,1,2,0,0,3,2,17,2.9,-20,Nick Young
+2011-02-05,25-249,WAS,HOME,ATL,L (-7),1,42:48,7,17,.412,3,6,.500,4,6,.667,0,4,4,0,1,0,2,2,21,10.5,0,Nick Young
+2011-02-09,25-253,WAS,HOME,MIL,W (+15),1,41:23,10,19,.526,3,5,.600,3,3,1.000,0,4,4,1,1,2,3,3,26,16.8,+19,Nick Young
+2011-02-12,25-256,WAS,HOME,SAS,L (-24),1,19:02,2,10,.200,0,3,.000,0,0,,0,0,0,0,0,0,3,4,4,-6.8,-9,Nick Young
+2011-02-13,25-257,WAS,AWAY,CLE,W (+15),1,32:29,14,21,.667,1,1,1.000,2,2,1.000,0,4,4,0,2,0,0,1,31,24.7,+5,Nick Young
+2011-02-22,25-266,WAS,HOME,IND,L (-17),1,32:30,4,15,.267,2,4,.500,6,7,.857,1,4,5,2,0,0,2,3,16,6.8,-7,Nick Young
+2011-02-23,25-267,WAS,AWAY,PHI,L (-23),1,31:49,6,15,.400,2,3,.667,1,1,1.000,0,2,2,0,0,0,1,3,15,5.3,-27,Nick Young
+2011-02-25,25-269,WAS,AWAY,MIA,L (-8),1,36:57,12,19,.632,6,8,.750,8,8,1.000,0,3,3,1,1,0,2,3,38,28.9,+3,Nick Young
+2011-02-26,25-270,WAS,HOME,DAL,L (-6),1,31:27,7,16,.438,0,4,.000,0,0,,0,3,3,2,1,0,2,2,14,6.1,-9,Nick Young
+2011-02-28,25-272,WAS,HOME,CHI,L (-28),1,36:24,6,15,.400,2,6,.333,0,0,,1,4,5,1,1,0,2,1,14,7.1,-17,Nick Young
+2011-03-02,25-274,WAS,HOME,GSW,L (-4),1,43:55,10,24,.417,4,7,.571,7,8,.875,1,1,2,1,1,1,1,3,31,19.0,-1,Nick Young
+2011-03-06,25-278,WAS,AWAY,DET,L (-11),1,41:28,7,16,.438,3,7,.429,4,7,.571,0,4,4,1,1,0,2,4,21,10.7,-7,Nick Young
+2011-03-08,25-280,WAS,HOME,MIL,L (-19),1,33:04,5,13,.385,0,4,.000,0,1,.000,0,3,3,2,1,1,5,3,10,0.3,-7,Nick Young
+2011-03-12,25-284,WAS,HOME,LAC,L (-21),1,31:57,7,17,.412,1,6,.167,0,0,,1,1,2,1,1,0,0,4,15,7.0,-11,Nick Young
+2011-03-14,25-286,WAS,HOME,OKC,L (-27),1,27:01,4,16,.250,0,4,.000,3,4,.750,0,1,1,1,0,0,2,2,11,-0.8,-28,Nick Young
+2011-03-15,25-287,WAS,AWAY,CHI,L (-19),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2011-03-18,25-290,WAS,AWAY,TOR,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2011-03-20,25-292,WAS,HOME,NJN,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2011-03-23,25-295,WAS,AWAY,LAC,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2011-03-25,25-297,WAS,AWAY,DEN,L (-20),0,32:56,4,15,.267,0,3,.000,2,2,1.000,0,1,1,0,1,0,2,2,10,-0.4,-20,Nick Young
+2011-03-27,25-299,WAS,AWAY,GSW,L (-10),1,13:10,3,5,.600,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,7,4.7,+1,Nick Young
+2011-03-28,25-300,WAS,AWAY,UTA,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2011-03-30,25-302,WAS,HOME,MIA,L (-16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2011-04-01,25-304,WAS,HOME,CLE,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2011-04-03,25-306,WAS,AWAY,CHA,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2011-04-05,25-308,WAS,HOME,DET,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2011-04-06,25-309,WAS,AWAY,IND,L (-24),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2011-04-08,25-311,WAS,AWAY,BOS,L (-16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2011-04-09,25-312,WAS,HOME,ATL,W (+32),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2011-04-11,25-314,WAS,HOME,BOS,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2011-04-13,25-316,WAS,AWAY,CLE,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2008-10-29,23-150,WAS,HOME,NJN,L (-10),0,17:44,5,9,.556,0,1,.000,0,0,,0,2,2,3,1,1,2,1,10,7.7,-2,Nick Young
+2008-11-01,23-153,WAS,AWAY,DET,L (-8),0,28:37,6,10,.600,0,2,.000,11,11,1.000,1,1,2,2,1,0,0,5,23,19.8,+9,Nick Young
+2008-11-05,23-157,WAS,AWAY,MIL,L (-8),0,24:44,5,13,.385,0,3,.000,4,4,1.000,1,2,3,3,0,0,1,1,14,8.9,+13,Nick Young
+2008-11-07,23-159,WAS,HOME,NYK,L (-6),0,29:56,7,12,.583,1,3,.333,1,2,.500,0,0,0,2,1,2,1,3,16,11.6,+6,Nick Young
+2008-11-08,23-160,WAS,AWAY,ORL,L (-25),0,30:25,8,12,.667,1,2,.500,3,4,.750,0,3,3,0,1,0,3,2,20,12.5,-10,Nick Young
+2008-11-12,23-164,WAS,HOME,UTA,W (+8),0,31:00,3,10,.300,0,1,.000,4,4,1.000,0,2,2,0,0,2,1,2,10,4.4,+10,Nick Young
+2008-11-14,23-166,WAS,AWAY,MIA,L (-20),0,32:25,4,11,.364,0,1,.000,5,7,.714,1,0,1,1,0,0,2,0,13,5.5,-19,Nick Young
+2008-11-18,23-170,WAS,HOME,MIA,L (-7),0,30:55,4,12,.333,0,1,.000,4,4,1.000,1,2,3,2,2,0,4,4,12,4.3,+5,Nick Young
+2008-11-19,23-171,WAS,AWAY,ATL,L (-4),0,28:23,4,12,.333,0,1,.000,1,2,.500,1,2,3,2,0,0,4,0,9,0.5,-3,Nick Young
+2008-11-21,23-173,WAS,HOME,HOU,L (-12),0,14:57,1,5,.200,0,2,.000,1,2,.500,0,1,1,0,0,0,0,2,3,-1.0,-9,Nick Young
+2008-11-22,23-174,WAS,AWAY,NYK,L (-5),0,19:00,6,10,.600,1,2,.500,4,5,.800,2,2,4,2,0,0,0,4,17,13.8,+3,Nick Young
+2008-11-25,23-177,WAS,HOME,GSW,W (+24),0,21:32,4,7,.571,0,0,,0,0,,1,3,4,0,1,2,1,1,8,7.3,+8,Nick Young
+2008-11-27,23-179,WAS,HOME,ORL,L (-15),0,22:49,3,7,.429,0,1,.000,0,0,,0,0,0,2,0,0,0,0,6,3.7,+5,Nick Young
+2008-11-29,23-181,WAS,HOME,ATL,L (-4),0,17:30,2,5,.400,1,2,.500,0,0,,2,2,4,2,1,0,1,2,5,4.9,+9,Nick Young
+2008-12-02,23-184,WAS,AWAY,NJN,W (+20),0,20:02,5,8,.625,1,1,1.000,1,1,1.000,0,1,1,2,0,0,1,1,12,8.7,-2,Nick Young
+2008-12-03,23-185,WAS,HOME,POR,L (-6),0,20:09,4,9,.444,3,4,.750,0,0,,1,4,5,1,0,0,2,2,11,6.1,-2,Nick Young
+2008-12-05,23-187,WAS,HOME,LAL,L (-2),0,24:05,5,10,.500,1,1,1.000,2,2,1.000,0,2,2,3,1,1,1,2,13,10.6,+25,Nick Young
+2008-12-06,23-188,WAS,AWAY,CHI,L (-7),0,17:41,1,6,.167,0,2,.000,1,2,.500,0,2,2,4,0,0,1,1,3,0.8,-8,Nick Young
+2008-12-09,23-191,WAS,HOME,DET,W (+13),0,17:10,3,6,.500,0,0,,3,3,1.000,0,1,1,2,1,0,0,0,9,8.7,-3,Nick Young
+2008-12-11,23-193,WAS,HOME,BOS,L (-34),0,18:20,0,4,.000,0,1,.000,4,4,1.000,0,2,2,0,0,0,0,0,4,1.8,-29,Nick Young
+2008-12-13,23-195,WAS,AWAY,PHI,L (-15),0,4:12,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-2,Nick Young
+2008-12-15,23-197,WAS,HOME,IND,L (-20),0,5:19,1,4,.250,0,0,,0,0,,0,0,0,0,0,0,1,0,2,-1.4,-5,Nick Young
+2008-12-17,23-199,WAS,AWAY,DET,L (-14),0,15:31,1,9,.111,0,1,.000,0,0,,0,1,1,1,0,0,0,2,2,-3.7,-11,Nick Young
+2008-12-19,23-201,WAS,HOME,PHI,L (-6),0,20:13,5,10,.500,1,3,.333,1,2,.500,0,2,2,3,0,0,0,3,12,8.1,-4,Nick Young
+2008-12-21,23-203,WAS,HOME,DAL,L (-11),0,13:18,0,4,.000,0,0,,4,4,1.000,0,1,1,0,0,0,2,0,4,-0.5,-2,Nick Young
+2008-12-23,23-205,WAS,AWAY,CHA,L (-8),0,20:09,3,10,.300,0,1,.000,0,0,,0,0,0,0,0,0,0,0,6,0.2,+14,Nick Young
+2008-12-25,23-207,WAS,AWAY,CLE,L (-4),0,11:27,1,5,.200,1,1,1.000,0,0,,1,2,3,2,0,0,1,1,3,1.2,-13,Nick Young
+2008-12-27,23-209,WAS,HOME,OKC,W (+9),1,21:55,4,13,.308,0,2,.000,1,2,.500,1,2,3,1,1,0,1,2,9,2.3,-5,Nick Young
+2008-12-29,23-211,WAS,AWAY,HOU,W (+2),1,23:03,6,11,.545,0,2,.000,2,2,1.000,0,2,2,1,0,0,2,3,14,6.8,0,Nick Young
+2008-12-30,23-212,WAS,AWAY,NOH,L (-12),1,21:05,3,8,.375,0,2,.000,1,2,.500,0,1,1,1,0,0,0,0,7,3.2,-9,Nick Young
+2009-01-02,23-215,WAS,AWAY,BOS,L (-25),0,17:10,4,6,.667,0,1,.000,7,7,1.000,1,0,1,0,0,0,0,0,15,13.1,+1,Nick Young
+2009-01-04,23-217,WAS,HOME,CLE,W (+3),0,27:36,4,10,.400,0,2,.000,0,0,,0,2,2,2,1,0,1,3,8,3.4,0,Nick Young
+2009-01-06,23-219,WAS,AWAY,ORL,L (-9),0,17:14,2,6,.333,0,1,.000,0,0,,1,0,1,0,0,0,1,0,4,0.3,-11,Nick Young
+2009-01-07,23-220,WAS,HOME,TOR,L (-6),0,23:57,4,9,.444,1,2,.500,0,0,,1,2,3,3,1,1,2,2,9,6.6,0,Nick Young
+2009-01-09,23-222,WAS,AWAY,CHI,L (-12),0,27:10,12,15,.800,2,4,.500,2,2,1.000,1,2,3,1,0,0,3,2,28,20.5,+4,Nick Young
+2009-01-10,23-223,WAS,HOME,CHA,L (-3),0,25:44,6,9,.667,0,0,,0,0,,0,1,1,2,0,0,1,1,12,8.4,-9,Nick Young
+2009-01-12,23-225,WAS,HOME,MIL,L (-6),0,31:40,12,19,.632,3,6,.500,3,4,.750,0,0,0,2,1,0,3,1,30,20.1,+4,Nick Young
+2009-01-14,23-227,WAS,AWAY,NYK,L (-6),0,33:14,13,17,.765,3,3,1.000,4,4,1.000,1,1,2,0,0,0,1,2,33,25.5,0,Nick Young
+2009-01-16,23-229,WAS,HOME,NYK,W (+7),0,36:18,6,14,.429,1,1,1.000,0,0,,0,3,3,1,0,1,2,1,13,5.5,+11,Nick Young
+2009-01-19,23-232,WAS,AWAY,GSW,L (-21),0,23:08,2,9,.222,1,3,.333,2,3,.667,0,3,3,2,0,0,0,3,7,2.2,-15,Nick Young
+2009-01-21,23-234,WAS,AWAY,SAC,W (+3),0,10:44,2,5,.400,0,1,.000,0,0,,0,1,1,0,0,0,0,1,4,1.2,-7,Nick Young
+2009-01-22,23-235,WAS,AWAY,LAL,L (-20),0,19:40,2,7,.286,0,2,.000,0,0,,0,0,0,1,1,0,0,0,4,1.6,+4,Nick Young
+2009-01-24,23-237,WAS,AWAY,POR,L (-13),0,7:36,1,3,.333,1,2,.500,0,0,,1,1,2,0,0,0,1,0,3,1.3,-8,Nick Young
+2009-01-26,23-239,WAS,HOME,PHO,L (-16),0,15:23,1,6,.167,0,0,,2,2,1.000,0,1,1,1,1,1,1,1,4,1.5,-4,Nick Young
+2009-01-28,23-241,WAS,AWAY,MIA,L (-22),0,19:56,3,7,.429,0,1,.000,0,0,,1,0,1,0,1,0,1,2,6,2.2,-10,Nick Young
+2009-01-30,23-243,WAS,AWAY,PHI,L (-10),0,10:18,1,5,.200,0,0,,0,0,,0,0,0,1,0,0,2,0,2,-2.4,+7,Nick Young
+2009-01-31,23-244,WAS,HOME,LAC,W (+12),0,23:19,8,11,.727,1,2,.500,5,6,.833,0,1,1,0,0,1,2,2,22,15.3,+20,Nick Young
+2009-02-02,23-246,WAS,HOME,MEM,L (-16),0,25:07,5,13,.385,2,5,.400,1,1,1.000,0,0,0,1,1,0,0,0,13,7.6,-8,Nick Young
+2009-02-04,23-248,WAS,HOME,NJN,L (-27),1,34:47,10,20,.500,0,3,.000,1,1,1.000,1,2,3,4,1,0,1,3,21,13.9,-9,Nick Young
+2009-02-06,23-250,WAS,HOME,DEN,L (-21),0,23:22,7,16,.438,3,5,.600,3,4,.750,1,1,2,1,1,0,0,2,20,13.1,-5,Nick Young
+2009-02-08,23-252,WAS,HOME,IND,W (+2),0,31:55,6,9,.667,2,2,1.000,6,7,.857,0,3,3,0,0,0,2,3,20,13.4,+13,Nick Young
+2009-02-10,23-254,WAS,AWAY,ATL,L (-21),0,27:55,4,9,.444,1,3,.333,2,2,1.000,0,1,1,1,0,0,1,4,11,4.7,+3,Nick Young
+2009-02-11,23-255,WAS,AWAY,CHA,L (-12),0,30:39,3,10,.300,1,5,.200,0,0,,1,2,3,1,0,0,0,1,7,2.8,-2,Nick Young
+2009-02-17,23-261,WAS,HOME,MIN,W (+8),0,14:40,0,5,.000,0,2,.000,1,2,.500,0,1,1,0,0,0,1,1,1,-4.0,-2,Nick Young
+2009-02-20,23-264,WAS,AWAY,NJN,W (+11),0,11:22,1,3,.333,0,1,.000,2,2,1.000,0,1,1,1,1,1,1,1,4,3.6,0,Nick Young
+2009-02-21,23-265,WAS,HOME,SAS,L (-31),0,11:50,2,7,.286,0,2,.000,0,0,,0,1,1,0,0,0,1,1,4,-1.2,-13,Nick Young
+2009-02-25,23-269,WAS,HOME,PHI,L (-8),0,23:58,3,10,.300,1,4,.250,2,2,1.000,1,5,6,1,1,0,1,2,9,5.3,-2,Nick Young
+2009-02-27,23-271,WAS,HOME,CHI,W (+23),0,26:16,5,12,.417,1,2,.500,1,1,1.000,0,2,2,0,0,0,1,5,12,3.2,0,Nick Young
+2009-02-28,23-272,WAS,AWAY,MIL,L (-16),0,24:21,3,8,.375,1,1,1.000,6,7,.857,0,2,2,0,1,0,2,1,13,7.4,-4,Nick Young
+2009-03-02,23-274,WAS,HOME,ATL,L (-9),0,13:42,1,5,.200,1,2,.500,0,0,,0,1,1,0,0,0,1,2,3,-1.6,-10,Nick Young
+2009-03-04,23-276,WAS,AWAY,OKC,L (-5),0,18:42,3,13,.231,0,0,,2,3,.667,1,1,2,0,0,0,2,3,8,-2.5,+4,Nick Young
+2009-03-06,23-278,WAS,AWAY,SAS,L (-22),0,31:56,4,13,.308,0,1,.000,3,6,.500,2,4,6,0,0,0,3,3,11,0.7,-9,Nick Young
+2009-03-07,23-279,WAS,AWAY,DAL,L (-16),0,16:57,2,3,.667,1,1,1.000,0,0,,0,1,1,1,0,1,0,2,5,4.6,-16,Nick Young
+2009-03-09,23-281,WAS,AWAY,MIN,W (+11),0,15:36,3,6,.500,1,2,.500,1,3,.333,0,3,3,1,0,0,1,1,8,4.4,+11,Nick Young
+2009-03-11,23-283,WAS,HOME,NOH,L (-11),0,13:08,4,9,.444,0,2,.000,6,6,1.000,0,0,0,0,1,0,1,1,14,8.9,-10,Nick Young
+2009-03-13,23-285,WAS,HOME,ORL,L (-9),0,33:45,8,15,.533,1,2,.500,3,3,1.000,0,5,5,4,0,0,1,5,20,14.0,-2,Nick Young
+2009-03-15,23-287,WAS,HOME,SAC,W (+2),0,24:18,5,10,.500,2,2,1.000,0,0,,0,1,1,2,0,0,3,2,12,4.9,+6,Nick Young
+2009-03-17,23-289,WAS,AWAY,UTA,L (-15),0,28:55,4,10,.400,0,2,.000,6,7,.857,0,1,1,1,3,0,0,2,14,11.4,-1,Nick Young
+2009-03-18,23-290,WAS,AWAY,LAC,L (-15),0,30:48,7,11,.636,1,2,.500,3,4,.750,0,0,0,2,1,0,0,2,18,14.3,-31,Nick Young
+2009-03-20,23-292,WAS,AWAY,DEN,L (-11),0,35:30,7,13,.538,2,4,.500,4,5,.800,0,3,3,1,1,0,4,2,20,11.1,-12,Nick Young
+2009-03-21,23-293,WAS,AWAY,PHO,L (-32),0,28:44,3,11,.273,0,4,.000,5,6,.833,0,2,2,1,1,0,2,3,11,3.2,-16,Nick Young
+2009-03-23,23-295,WAS,HOME,CHI,L (-2),1,28:15,2,12,.167,2,5,.400,4,4,1.000,1,2,3,2,0,0,0,5,10,3.1,-11,Nick Young
+2009-03-25,23-297,WAS,HOME,CHA,W (+2),0,24:45,10,15,.667,1,2,.500,2,2,1.000,0,2,2,2,1,1,1,3,23,18.0,0,Nick Young
+2009-03-28,23-300,WAS,HOME,DET,L (-2),0,23:40,4,7,.571,0,2,.000,5,5,1.000,0,2,2,3,2,1,1,3,13,12.9,+3,Nick Young
+2009-03-29,23-301,WAS,AWAY,IND,L (-9),0,30:28,4,9,.444,0,1,.000,1,2,.500,1,1,2,1,3,1,3,3,9,5.1,+3,Nick Young
+2009-04-01,23-304,WAS,AWAY,MEM,L (-5),0,28:04,6,10,.600,2,4,.500,2,2,1.000,1,1,2,2,1,0,1,4,16,12.2,+11,Nick Young
+2009-04-02,23-305,WAS,HOME,CLE,W (+8),0,25:35,5,9,.556,0,3,.000,0,0,,0,0,0,1,1,0,1,0,10,6.4,+3,Nick Young
+2009-04-04,23-307,WAS,HOME,MIA,L (-14),0,1:22,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7,0,Nick Young
+2009-04-08,23-311,WAS,AWAY,CLE,L (-12),0,34:23,7,16,.438,2,5,.400,0,0,,0,2,2,2,0,1,0,4,16,8.7,+7,Nick Young
+2009-04-10,23-313,WAS,AWAY,TOR,W (+2),0,16:00,3,4,.750,0,0,,3,3,1.000,0,1,1,0,0,0,0,1,9,7.3,+4,Nick Young
+2009-04-13,23-316,WAS,HOME,TOR,L (-1),0,25:58,3,11,.273,0,1,.000,0,0,,0,2,2,1,0,2,2,0,6,0.2,+3,Nick Young
+2009-04-15,23-318,WAS,AWAY,BOS,L (-8),0,26:09,4,10,.400,3,6,.500,6,6,1.000,1,0,1,0,1,0,1,0,17,12.3,-4,Nick Young
+2018-12-14,33-196,DEN,HOME,OKC,W (+11),0,8:54,2,3,.667,2,3,.667,0,0,,0,0,0,0,0,0,0,2,6,3.9,+4,Nick Young
+2018-12-16,33-198,DEN,HOME,TOR,W (+9),0,6:35,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,2,0,3,1.0,-1,Nick Young
+2018-12-18,33-200,DEN,HOME,DAL,W (+8),0,8:35,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,2,0,-0.8,-2,Nick Young
+2018-12-22,33-204,DEN,AWAY,LAC,L (-21),0,13:04,0,4,.000,0,3,.000,0,0,,0,0,0,1,0,1,0,0,0,-1.4,-6,Nick Young
+2013-10-29,28-150,LAL,HOME,LAC,W (+13),1,22:03,3,10,.300,1,4,.250,6,8,.750,0,1,1,0,1,0,2,1,13,5.3,-4,Nick Young
+2013-10-30,28-151,LAL,AWAY,GSW,L (-31),1,19:43,2,9,.222,1,2,.500,1,1,1.000,0,2,2,1,0,0,0,4,6,0.2,-16,Nick Young
+2013-11-01,28-153,LAL,HOME,SAS,L (-6),1,17:41,1,3,.333,0,0,,4,5,.800,0,1,1,0,1,2,1,4,6,4.0,-5,Nick Young
+2013-11-03,28-155,LAL,HOME,ATL,W (+2),0,20:48,5,9,.556,1,4,.250,2,2,1.000,0,4,4,4,0,0,0,0,13,12.7,+2,Nick Young
+2013-11-05,28-157,LAL,AWAY,DAL,L (-19),0,27:00,8,12,.667,1,2,.500,4,7,.571,0,1,1,1,3,0,3,2,21,14.8,-6,Nick Young
+2013-11-07,28-159,LAL,AWAY,HOU,W (+1),1,21:59,3,9,.333,1,5,.200,4,4,1.000,2,2,4,2,2,0,2,3,11,8.1,+11,Nick Young
+2013-11-08,28-160,LAL,AWAY,NOP,L (-11),1,28:27,5,11,.455,1,3,.333,2,2,1.000,1,2,3,0,0,0,3,6,13,3.2,-17,Nick Young
+2013-11-10,28-162,LAL,HOME,MIN,L (-23),1,19:35,3,9,.333,0,3,.000,2,2,1.000,1,3,4,0,0,0,0,2,8,3.7,-20,Nick Young
+2013-11-12,28-164,LAL,HOME,NOP,W (+21),0,23:20,7,11,.636,1,2,.500,2,2,1.000,0,0,0,1,0,0,0,2,17,12.0,+14,Nick Young
+2013-11-13,28-165,LAL,AWAY,DEN,L (-12),0,26:27,4,12,.333,2,6,.333,1,1,1.000,3,2,5,1,0,0,1,2,11,5.8,-13,Nick Young
+2013-11-15,28-167,LAL,HOME,MEM,L (-3),0,32:54,7,14,.500,2,4,.500,2,5,.400,0,1,1,1,1,0,0,0,18,11.8,+6,Nick Young
+2013-11-17,28-169,LAL,HOME,DET,W (+15),0,26:39,7,13,.538,2,5,.400,3,3,1.000,0,0,0,0,1,0,0,0,19,13.7,+13,Nick Young
+2013-11-22,28-174,LAL,HOME,GSW,W (+7),0,31:14,7,15,.467,3,7,.429,4,5,.800,0,1,1,0,2,0,0,3,21,14.0,+12,Nick Young
+2013-11-24,28-176,LAL,HOME,SAC,W (+14),0,28:37,3,11,.273,1,4,.250,0,0,,1,1,2,2,1,1,0,2,7,3.8,+15,Nick Young
+2013-11-26,28-178,LAL,AWAY,WAS,L (-5),0,20:38,6,12,.500,2,4,.500,2,4,.500,0,2,2,3,1,0,0,3,16,11.7,+1,Nick Young
+2013-11-27,28-179,LAL,AWAY,BRK,W (+5),0,32:45,8,16,.500,4,6,.667,6,6,1.000,1,0,1,1,1,1,1,5,26,18.1,+5,Nick Young
+2013-11-29,28-181,LAL,AWAY,DET,W (+4),0,27:51,3,12,.250,0,2,.000,6,7,.857,0,1,1,2,2,0,1,2,12,6.3,+10,Nick Young
+2013-12-01,28-183,LAL,HOME,POR,L (-6),0,22:16,7,14,.500,1,3,.333,2,2,1.000,0,3,3,2,2,0,2,1,17,11.9,-4,Nick Young
+2013-12-06,28-188,LAL,AWAY,SAC,W (+6),0,30:54,6,16,.375,0,6,.000,2,4,.500,0,3,3,3,1,1,1,4,14,6.5,+12,Nick Young
+2013-12-08,28-190,LAL,HOME,TOR,L (-12),0,29:57,7,16,.438,2,7,.286,3,3,1.000,0,3,3,3,0,1,1,2,19,12.5,+1,Nick Young
+2013-12-10,28-192,LAL,HOME,PHO,L (-6),0,27:33,5,12,.417,1,2,.500,2,6,.333,1,2,3,3,0,0,2,4,13,4.8,-1,Nick Young
+2013-12-13,28-195,LAL,AWAY,OKC,L (-25),0,30:47,6,13,.462,4,7,.571,1,1,1.000,0,2,2,2,0,0,1,2,17,10.5,-20,Nick Young
+2013-12-14,28-196,LAL,AWAY,CHA,W (+3),0,32:20,2,10,.200,1,4,.250,8,9,.889,2,1,3,1,0,1,0,1,13,9.1,+14,Nick Young
+2013-12-16,28-198,LAL,AWAY,ATL,L (-14),0,32:43,7,14,.500,5,7,.714,4,4,1.000,1,3,4,1,0,1,1,3,23,16.8,-3,Nick Young
+2013-12-17,28-199,LAL,AWAY,MEM,W (+4),0,33:33,6,11,.545,3,6,.500,3,3,1.000,0,3,3,1,1,1,1,2,18,14.2,+2,Nick Young
+2013-12-20,28-202,LAL,HOME,MIN,W (+13),0,31:14,9,14,.643,4,6,.667,3,3,1.000,0,3,3,4,0,0,5,2,25,16.7,+12,Nick Young
+2013-12-21,28-203,LAL,AWAY,GSW,L (-19),0,30:38,5,18,.278,1,6,.167,9,12,.750,2,2,4,0,1,0,4,3,20,6.0,-13,Nick Young
+2013-12-23,28-205,LAL,AWAY,PHO,L (-27),0,32:31,6,17,.353,2,6,.333,5,5,1.000,0,2,2,1,1,0,2,1,19,9.4,-7,Nick Young
+2013-12-25,28-207,LAL,HOME,MIA,L (-6),0,31:37,7,18,.389,4,7,.571,2,2,1.000,1,1,2,1,0,0,2,2,20,9.1,+3,Nick Young
+2013-12-27,28-209,LAL,AWAY,UTA,L (-2),0,28:35,10,17,.588,1,4,.250,0,1,.000,0,0,0,3,1,1,4,6,21,10.1,-7,Nick Young
+2013-12-29,28-211,LAL,HOME,PHI,L (-7),0,35:54,6,21,.286,2,11,.182,12,12,1.000,2,4,6,2,1,0,6,2,26,11.9,-7,Nick Young
+2013-12-31,28-213,LAL,HOME,MIL,L (-15),1,41:33,8,21,.381,3,8,.375,6,6,1.000,0,6,6,0,0,0,2,3,25,12.1,-9,Nick Young
+2014-01-03,28-216,LAL,HOME,UTA,W (+11),1,35:20,6,14,.429,0,5,.000,4,6,.667,0,2,2,1,0,0,3,3,16,4.9,+3,Nick Young
+2014-01-05,28-218,LAL,HOME,DEN,L (-22),0,36:08,8,15,.533,1,3,.333,4,4,1.000,0,1,1,1,0,0,2,3,21,11.5,-16,Nick Young
+2014-01-07,28-220,LAL,AWAY,DAL,L (-13),0,18:50,1,7,.143,0,4,.000,0,0,,0,3,3,0,0,0,2,1,2,-4.0,-8,Nick Young
+2014-01-08,28-221,LAL,AWAY,HOU,L (-14),0,37:11,10,20,.500,2,6,.333,3,3,1.000,0,6,6,1,0,0,0,4,25,15.9,-11,Nick Young
+2014-01-10,28-223,LAL,AWAY,LAC,L (-36),0,32:03,3,14,.214,0,5,.000,5,5,1.000,1,6,7,0,0,1,3,3,11,1.4,-13,Nick Young
+2014-01-14,28-227,LAL,HOME,CLE,L (-2),0,32:32,7,16,.438,4,8,.500,10,10,1.000,0,1,1,6,0,0,1,3,28,21.9,+16,Nick Young
+2014-01-15,28-228,LAL,AWAY,PHO,L (-7),0,10:46,4,8,.500,0,1,.000,1,1,1.000,0,3,3,1,0,0,0,2,9,5.8,+7,Nick Young
+2014-01-17,28-230,LAL,AWAY,BOS,W (+3),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Nick Young
+2014-01-19,28-232,LAL,AWAY,TOR,W (+6),0,30:31,7,13,.538,5,7,.714,10,11,.909,0,2,2,1,0,0,0,2,29,22.8,+7,Nick Young
+2014-01-20,28-233,LAL,AWAY,CHI,L (-2),0,42:52,11,23,.478,3,6,.500,6,7,.857,0,5,5,1,2,0,4,3,31,17.9,-10,Nick Young
+2014-01-23,28-236,LAL,AWAY,MIA,L (-7),0,33:01,8,20,.400,2,6,.333,1,3,.333,1,2,3,1,3,0,2,4,19,8.8,+6,Nick Young
+2014-01-24,28-237,LAL,AWAY,ORL,L (-9),0,30:02,6,16,.375,1,3,.333,3,6,.500,1,3,4,1,1,0,2,0,16,7.3,-12,Nick Young
+2014-01-26,28-239,LAL,AWAY,NYK,L (-7),1,34:24,5,11,.455,0,2,.000,3,4,.750,1,2,3,2,0,0,3,4,13,5.0,-11,Nick Young
+2014-01-28,28-241,LAL,HOME,IND,L (-12),0,24:01,5,16,.313,1,7,.143,1,2,.500,0,1,1,1,0,0,0,2,12,2.6,-5,Nick Young
+2014-01-31,28-244,LAL,HOME,CHA,L (-10),0,35:50,8,22,.364,2,7,.286,3,4,.750,0,2,2,3,1,0,2,2,21,9.3,-8,Nick Young
+2014-02-04,28-248,LAL,AWAY,MIN,L (-10),0,29:46,4,12,.333,3,7,.429,13,14,.929,0,2,2,0,0,0,4,4,24,11.8,0,Nick Young
+2014-02-05,28-249,LAL,AWAY,CLE,W (+11),0,17:32,1,5,.200,0,2,.000,4,4,1.000,0,4,4,4,0,0,0,0,6,6.9,+13,Nick Young
+2014-02-07,28-251,LAL,AWAY,PHI,W (+14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2014-02-09,28-253,LAL,HOME,CHI,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2014-02-11,28-255,LAL,HOME,UTA,L (-17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2014-02-13,28-257,LAL,HOME,OKC,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2014-02-19,28-263,LAL,HOME,HOU,L (-26),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2014-02-21,28-265,LAL,HOME,BOS,W (+9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2014-02-23,28-267,LAL,HOME,BRK,L (-6),0,19:33,3,4,.750,1,1,1.000,3,5,.600,0,1,1,0,1,0,3,1,10,5.5,0,Nick Young
+2014-02-25,28-269,LAL,AWAY,IND,L (-20),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Nick Young
+2014-02-26,28-270,LAL,AWAY,MEM,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2014-02-28,28-272,LAL,HOME,SAC,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2014-03-03,28-275,LAL,AWAY,POR,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2014-03-04,28-276,LAL,HOME,NOP,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2014-03-06,28-278,LAL,HOME,LAC,L (-48),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2014-03-07,28-279,LAL,AWAY,DEN,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2014-03-09,28-281,LAL,HOME,OKC,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2014-03-13,28-285,LAL,AWAY,OKC,L (-29),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2014-03-14,28-286,LAL,AWAY,SAS,L (-34),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2014-03-19,28-291,LAL,HOME,SAS,L (-16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2014-03-21,28-293,LAL,HOME,WAS,L (-10),0,28:58,7,16,.438,4,9,.444,3,4,.750,1,1,2,1,0,0,1,4,21,11.3,+9,Nick Young
+2014-03-23,28-295,LAL,HOME,ORL,W (+9),0,30:35,8,17,.471,2,4,.500,8,9,.889,0,3,3,1,0,0,1,3,26,16.3,+4,Nick Young
+2014-03-25,28-297,LAL,HOME,NYK,W (+31),0,18:37,6,10,.600,5,6,.833,3,3,1.000,0,4,4,0,0,0,3,3,20,12.4,+15,Nick Young
+2014-03-27,28-299,LAL,AWAY,MIL,L (-3),0,28:47,6,14,.429,3,8,.375,2,2,1.000,1,1,2,3,2,0,3,4,17,10.1,+1,Nick Young
+2014-03-28,28-300,LAL,AWAY,MIN,L (-36),0,27:38,3,12,.250,3,6,.500,2,2,1.000,1,0,1,2,4,0,0,3,11,8.7,-12,Nick Young
+2014-03-30,28-302,LAL,HOME,PHO,W (+16),0,23:35,4,12,.333,1,6,.167,2,3,.667,0,3,3,2,1,0,0,1,11,6.7,-4,Nick Young
+2014-04-01,28-304,LAL,HOME,POR,L (-12),0,32:51,15,26,.577,6,13,.462,4,5,.800,2,2,4,1,2,0,1,0,40,31.1,+3,Nick Young
+2014-04-02,28-305,LAL,AWAY,SAC,L (-5),0,29:57,6,17,.353,4,8,.500,1,1,1.000,2,0,2,1,1,0,1,3,17,8.4,-14,Nick Young
+2014-04-04,28-307,LAL,HOME,DAL,L (-12),0,19:52,5,8,.625,2,4,.500,2,3,.667,0,2,2,0,0,0,2,1,14,8.2,-9,Nick Young
+2014-04-06,28-309,LAL,AWAY,LAC,L (-23),0,26:07,5,15,.333,2,11,.182,6,7,.857,0,2,2,2,2,0,2,3,18,9.9,-12,Nick Young
+2014-04-08,28-311,LAL,HOME,HOU,L (-15),0,22:56,11,19,.579,6,10,.600,4,6,.667,0,1,1,3,0,0,0,4,32,23.1,-3,Nick Young
+2014-04-11,28-314,LAL,HOME,GSW,L (-17),0,30:04,10,20,.500,3,8,.375,2,2,1.000,0,0,0,4,0,0,0,1,25,17.4,-8,Nick Young
+2014-04-13,28-316,LAL,HOME,MEM,L (-12),0,25:31,5,12,.417,4,8,.500,0,0,,0,1,1,0,1,1,0,2,14,8.8,-18,Nick Young
+2014-04-14,28-317,LAL,AWAY,UTA,W (+15),0,34:05,14,23,.609,6,11,.545,7,9,.778,0,3,3,3,0,0,2,2,41,29.9,+22,Nick Young
+2014-04-16,28-319,LAL,AWAY,SAS,W (+13),0,29:50,6,12,.500,2,5,.400,2,3,.667,0,6,6,2,1,0,0,2,16,13.0,+3,Nick Young
+2009-10-30,24-151,WAS,AWAY,ATL,L (-11),0,12:30,0,8,.000,0,2,.000,0,0,,1,0,1,0,0,0,0,1,0,-5.3,-3,Nick Young
+2009-10-31,24-152,WAS,HOME,NJN,W (+19),0,11:40,2,5,.400,1,1,1.000,0,0,,0,0,0,0,0,0,1,1,5,0.9,+3,Nick Young
+2009-11-03,24-155,WAS,AWAY,CLE,L (-12),0,1:38,1,1,1.000,0,0,,2,2,1.000,0,1,1,0,0,0,0,0,4,4.0,+4,Nick Young
+2009-11-06,24-158,WAS,AWAY,IND,L (-16),1,15:03,1,4,.250,1,2,.500,0,0,,0,2,2,0,0,1,0,3,3,0.7,0,Nick Young
+2009-11-10,24-162,WAS,AWAY,MIA,L (-14),0,2:32,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-2,Nick Young
+2009-11-20,24-172,WAS,AWAY,OKC,L (-19),0,1:00,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-2,Nick Young
+2009-11-24,24-176,WAS,HOME,PHI,W (+1),1,32:19,8,16,.500,2,4,.500,2,2,1.000,1,3,4,2,0,0,1,4,20,12.4,+11,Nick Young
+2009-11-27,24-179,WAS,AWAY,MIA,W (+10),1,37:19,10,23,.435,0,3,.000,2,4,.500,2,2,4,5,0,0,3,3,22,10.4,+3,Nick Young
+2009-11-28,24-180,WAS,HOME,CHA,L (-16),1,22:51,4,11,.364,2,4,.500,0,0,,0,1,1,0,1,0,1,4,10,2.6,-7,Nick Young
+2009-12-01,24-183,WAS,AWAY,TOR,W (+4),1,30:04,3,9,.333,0,0,,0,0,,1,2,3,2,1,0,0,1,6,4.2,+5,Nick Young
+2009-12-02,24-184,WAS,HOME,MIL,W (+2),1,34:00,7,12,.583,0,1,.000,7,7,1.000,0,5,5,1,1,0,5,2,21,12.8,0,Nick Young
+2009-12-04,24-186,WAS,HOME,TOR,L (-2),1,24:55,5,11,.455,1,3,.333,2,2,1.000,0,4,4,0,1,0,0,1,13,9.1,-3,Nick Young
+2009-12-06,24-188,WAS,AWAY,DET,L (-4),1,17:47,1,3,.333,0,0,,0,0,,0,1,1,0,0,0,1,2,2,-1.2,+4,Nick Young
+2009-12-10,24-192,WAS,HOME,BOS,L (-2),1,11:57,1,5,.200,0,1,.000,2,2,1.000,0,1,1,1,1,0,0,2,4,2.1,0,Nick Young
+2009-12-12,24-194,WAS,HOME,IND,L (-1),0,13:58,3,3,1.000,2,2,1.000,2,2,1.000,0,2,2,0,2,0,0,0,10,11.7,+14,Nick Young
+2009-12-14,24-196,WAS,AWAY,LAC,L (-2),0,19:23,2,7,.286,0,3,.000,0,0,,1,0,1,1,0,0,1,3,4,-0.9,-9,Nick Young
+2009-12-16,24-198,WAS,AWAY,SAC,L (-3),0,12:20,2,7,.286,1,4,.250,0,0,,0,1,1,0,0,2,0,2,5,1.8,-4,Nick Young
+2009-12-18,24-200,WAS,AWAY,GSW,W (+9),0,23:21,1,4,.250,0,2,.000,5,6,.833,0,2,2,0,1,0,2,4,7,2.2,+12,Nick Young
+2009-12-19,24-201,WAS,AWAY,PHO,L (-26),0,27:55,6,9,.667,2,3,.667,6,6,1.000,0,5,5,1,0,1,0,4,20,17.4,-15,Nick Young
+2009-12-22,24-204,WAS,HOME,PHI,W (+7),0,19:59,5,10,.500,2,5,.400,1,2,.500,0,1,1,0,1,0,0,2,13,8.1,-4,Nick Young
+2009-12-23,24-205,WAS,AWAY,MIL,W (+12),0,20:48,1,1,1.000,1,1,1.000,1,2,.500,0,2,2,0,0,0,0,3,4,2.7,+2,Nick Young
+2009-12-26,24-208,WAS,AWAY,MIN,L (-12),0,7:35,0,2,.000,0,0,,0,0,,0,1,1,0,0,0,1,1,0,-2.5,+2,Nick Young
+2009-12-28,24-210,WAS,AWAY,MEM,L (-5),0,18:05,2,5,.400,1,2,.500,2,3,.667,0,1,1,0,1,0,1,1,7,3.8,0,Nick Young
+2009-12-29,24-211,WAS,HOME,OKC,L (-12),0,5:43,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,5,0,-2.7,-9,Nick Young
+2010-01-05,24-218,WAS,AWAY,PHI,W (+7),0,30:39,9,14,.643,2,2,1.000,1,1,1.000,0,3,3,1,1,0,0,0,21,17.4,+15,Nick Young
+2010-01-06,24-219,WAS,AWAY,CLE,L (-23),1,36:38,5,18,.278,2,6,.333,2,2,1.000,2,1,3,3,1,0,0,4,14,6.6,-19,Nick Young
+2010-01-08,24-221,WAS,HOME,ORL,W (+7),0,13:54,0,3,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-2.1,-14,Nick Young
+2010-01-10,24-223,WAS,HOME,NOH,L (-5),0,36:44,7,10,.700,2,3,.667,4,7,.571,2,4,6,1,1,0,2,4,20,15.3,+2,Nick Young
+2010-01-12,24-225,WAS,HOME,DET,L (-9),1,28:42,2,9,.222,2,4,.500,2,2,1.000,0,1,1,4,0,0,4,4,8,0.0,-4,Nick Young
+2010-01-13,24-226,WAS,AWAY,ATL,L (-12),1,21:12,1,6,.167,0,0,,0,0,,0,0,0,1,0,0,1,2,2,-2.9,-5,Nick Young
+2010-01-15,24-228,WAS,AWAY,CHI,L (-2),0,11:38,2,4,.500,1,2,.500,0,0,,0,1,1,1,0,0,0,4,5,2.4,-2,Nick Young
+2010-01-16,24-229,WAS,HOME,SAC,W (+10),0,22:50,5,10,.500,1,1,1.000,1,2,.500,0,2,2,0,1,0,2,3,12,5.0,+2,Nick Young
+2010-01-18,24-231,WAS,HOME,POR,W (+5),0,2:21,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-10,Nick Young
+2010-01-20,24-233,WAS,HOME,DAL,L (-1),0,1:12,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,-3,Nick Young
+2010-01-22,24-235,WAS,HOME,MIA,L (-24),0,16:44,5,10,.500,3,5,.600,0,0,,0,0,0,0,1,0,1,2,13,7.2,-5,Nick Young
+2010-01-24,24-237,WAS,HOME,LAC,L (-14),0,4:33,0,3,.000,0,1,.000,0,2,.000,0,0,0,1,1,0,0,1,0,-1.6,-1,Nick Young
+2010-01-29,24-242,WAS,AWAY,NJN,W (+2),0,15:37,4,9,.444,1,3,.333,1,2,.500,1,0,1,0,0,0,0,2,10,4.8,+7,Nick Young
+2010-01-30,24-243,WAS,HOME,NYK,W (+10),0,18:35,3,11,.273,2,2,1.000,2,2,1.000,0,2,2,1,1,0,0,2,10,5.0,-10,Nick Young
+2010-02-01,24-245,WAS,HOME,BOS,L (-11),0,13:53,3,5,.600,0,0,,4,5,.800,0,0,0,1,0,0,0,4,10,6.4,-1,Nick Young
+2010-02-03,24-247,WAS,AWAY,NYK,L (-22),0,28:05,5,14,.357,2,8,.250,3,3,1.000,0,1,1,1,0,1,2,0,15,6.9,-10,Nick Young
+2010-02-05,24-249,WAS,AWAY,ORL,W (+1),0,5:20,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.1,+3,Nick Young
+2010-02-09,24-253,WAS,AWAY,CHA,L (-2),0,6:12,1,2,.500,0,0,,0,0,,1,0,1,0,0,0,1,0,2,0.7,-2,Nick Young
+2010-02-17,24-261,WAS,HOME,MIN,W (+9),1,15:18,1,7,.143,1,3,.333,0,0,,0,1,1,1,1,0,0,0,3,0.5,+7,Nick Young
+2010-02-19,24-263,WAS,HOME,DEN,W (+10),0,22:31,5,9,.556,2,3,.667,0,0,,0,2,2,1,0,0,0,4,12,7.4,+18,Nick Young
+2010-02-20,24-264,WAS,AWAY,TOR,L (-5),0,3:44,1,5,.200,0,0,,0,0,,1,0,1,0,0,0,0,2,2,-1.2,-6,Nick Young
+2010-02-22,24-266,WAS,HOME,CHI,W (+6),0,7:44,1,2,.500,0,0,,0,0,,0,0,0,1,0,0,2,0,2,-0.3,-5,Nick Young
+2010-02-24,24-268,WAS,HOME,MEM,L (-5),0,14:41,3,4,.750,0,0,,1,3,.333,0,0,0,1,1,0,0,1,7,5.9,+4,Nick Young
+2010-02-26,24-270,WAS,HOME,NYK,L (-2),0,17:56,2,7,.286,2,4,.500,1,2,.500,0,1,1,1,0,0,1,2,7,1.7,-14,Nick Young
+2010-02-28,24-272,WAS,AWAY,NJN,W (+4),0,6:02,0,2,.000,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-2.4,-6,Nick Young
+2010-03-03,24-275,WAS,AWAY,MIL,L (-13),0,14:33,1,8,.125,0,1,.000,4,4,1.000,0,2,2,0,0,0,0,0,6,1.4,-4,Nick Young
+2010-03-05,24-277,WAS,HOME,MIL,L (-28),0,11:26,1,5,.200,0,2,.000,0,0,,0,1,1,0,0,0,0,2,2,-1.6,-3,Nick Young
+2010-03-07,24-279,WAS,AWAY,BOS,L (-3),0,2:47,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-4,Nick Young
+2010-03-09,24-281,WAS,HOME,HOU,L (-8),0,22:43,6,13,.462,2,4,.500,4,4,1.000,1,0,1,0,0,0,1,2,18,10.2,+3,Nick Young
+2010-03-11,24-283,WAS,HOME,ATL,L (-6),0,28:37,5,11,.455,1,4,.250,6,6,1.000,0,0,0,1,2,1,0,2,17,13.9,+5,Nick Young
+2010-03-12,24-284,WAS,AWAY,DET,L (-14),0,16:15,1,4,.250,0,0,,0,0,,0,1,1,0,0,0,2,3,2,-3.3,-7,Nick Young
+2010-03-13,24-285,WAS,HOME,ORL,L (-14),0,9:10,2,3,.667,0,0,,0,0,,0,0,0,1,0,0,0,1,4,3.0,-1,Nick Young
+2010-03-15,24-287,WAS,AWAY,UTA,L (-23),0,12:02,2,5,.400,0,2,.000,2,2,1.000,0,1,1,1,0,0,1,3,6,2.1,-5,Nick Young
+2010-03-16,24-288,WAS,AWAY,DEN,L (-10),0,16:05,3,6,.500,0,1,.000,2,2,1.000,0,0,0,1,0,0,1,2,8,3.9,+3,Nick Young
+2010-03-19,24-291,WAS,AWAY,POR,L (-2),0,7:25,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.8,-4,Nick Young
+2010-03-21,24-293,WAS,AWAY,LAL,L (-7),0,21:35,7,11,.636,2,5,.400,6,8,.750,0,1,1,0,1,0,1,1,22,16.2,+7,Nick Young
+2010-03-23,24-295,WAS,HOME,CHA,L (-9),0,22:33,3,6,.500,1,3,.333,2,2,1.000,0,2,2,0,0,1,1,2,9,5.5,-1,Nick Young
+2010-03-24,24-296,WAS,AWAY,IND,L (-17),0,24:16,6,11,.545,0,1,.000,0,2,.000,0,1,1,1,1,0,0,4,12,6.3,+2,Nick Young
+2010-03-26,24-298,WAS,AWAY,CHA,L (-11),0,17:47,4,7,.571,2,2,1.000,0,0,,0,1,1,0,1,0,2,4,10,4.4,+10,Nick Young
+2010-03-27,24-299,WAS,HOME,UTA,L (-16),0,26:18,6,13,.462,3,7,.429,1,1,1.000,0,1,1,0,1,0,2,5,16,6.6,-13,Nick Young
+2010-03-30,24-302,WAS,AWAY,HOU,L (-4),1,22:37,2,6,.333,0,2,.000,0,0,,1,2,3,2,0,0,2,4,4,-0.3,-6,Nick Young
+2010-03-31,24-303,WAS,AWAY,NOH,W (+5),1,36:29,3,9,.333,1,1,1.000,2,2,1.000,0,2,2,0,0,0,1,2,9,2.7,+13,Nick Young
+2010-04-02,24-305,WAS,HOME,CHI,L (-8),1,35:10,2,13,.154,2,6,.333,4,4,1.000,0,0,0,1,1,0,0,3,10,2.2,-2,Nick Young
+2010-04-04,24-307,WAS,HOME,NJN,W (+10),1,34:53,7,12,.583,1,1,1.000,1,1,1.000,0,0,0,1,0,1,0,0,16,11.8,+11,Nick Young
+2010-04-06,24-309,WAS,HOME,GSW,W (+18),1,43:50,10,18,.556,5,11,.455,4,6,.667,2,2,4,1,2,0,1,1,29,22.9,+13,Nick Young
+2010-04-07,24-310,WAS,AWAY,ORL,L (-27),1,35:04,9,15,.600,1,3,.333,2,3,.667,1,2,3,2,0,0,0,5,21,14.4,-9,Nick Young
+2010-04-09,24-312,WAS,AWAY,BOS,W (+10),1,40:06,5,15,.333,3,7,.429,6,8,.750,0,3,3,1,0,0,2,3,19,8.1,+2,Nick Young
+2010-04-10,24-313,WAS,HOME,ATL,L (-10),1,40:05,10,19,.526,3,5,.600,0,0,,2,2,4,0,0,0,2,2,23,12.9,-1,Nick Young
+2010-04-12,24-315,WAS,AWAY,NYK,L (-11),1,34:40,6,14,.429,2,5,.400,2,2,1.000,0,1,1,2,0,0,1,1,16,8.9,-1,Nick Young
+2010-04-14,24-317,WAS,HOME,IND,W (+1),1,17:27,2,6,.333,1,3,.333,0,0,,0,1,1,0,0,0,1,2,5,0.1,-2,Nick Young
+2014-11-18,29-170,LAL,AWAY,ATL,W (+5),0,27:46,6,10,.600,2,4,.500,3,5,.600,1,4,5,0,1,0,0,1,17,14.1,+4,Nick Young
+2014-11-19,29-171,LAL,AWAY,HOU,W (+6),0,28:26,6,15,.400,2,8,.250,2,2,1.000,0,4,4,0,2,0,0,3,16,9.9,+9,Nick Young
+2014-11-21,29-173,LAL,AWAY,DAL,L (-34),0,19:22,2,7,.286,1,3,.333,0,0,,0,0,0,2,0,1,0,3,5,1.8,-22,Nick Young
+2014-11-23,29-175,LAL,HOME,DEN,L (-7),0,28:05,2,12,.167,1,5,.200,2,2,1.000,0,3,3,1,0,0,1,2,7,-0.8,-8,Nick Young
+2014-11-26,29-178,LAL,HOME,MEM,L (-6),0,27:12,4,14,.286,2,5,.400,3,3,1.000,0,1,1,1,0,2,0,2,13,6.4,-7,Nick Young
+2014-11-28,29-180,LAL,HOME,MIN,L (-1),0,26:06,6,12,.500,1,3,.333,3,3,1.000,0,1,1,1,0,0,2,5,16,7.0,+4,Nick Young
+2014-11-30,29-182,LAL,HOME,TOR,W (+7),0,31:16,6,11,.545,5,8,.625,3,5,.600,0,4,4,0,0,0,4,2,20,10.3,+3,Nick Young
+2014-12-02,29-184,LAL,AWAY,DET,W (+10),0,20:52,5,13,.385,3,6,.500,6,7,.857,0,1,1,0,0,1,0,0,19,12.5,-2,Nick Young
+2014-12-03,29-185,LAL,AWAY,WAS,L (-16),0,24:29,7,14,.500,5,8,.625,2,2,1.000,0,2,2,0,1,1,1,2,21,14.5,+7,Nick Young
+2014-12-05,29-187,LAL,AWAY,BOS,L (-17),0,22:27,5,14,.357,1,3,.333,5,6,.833,0,3,3,1,0,0,0,2,16,8.6,-1,Nick Young
+2014-12-07,29-189,LAL,HOME,NOP,L (-17),0,23:52,3,13,.231,2,6,.333,5,6,.833,0,2,2,1,0,1,1,1,13,5.3,-11,Nick Young
+2014-12-09,29-191,LAL,HOME,SAC,W (+3),0,22:10,5,13,.385,1,5,.200,1,1,1.000,2,2,4,1,1,1,0,4,12,7.7,+9,Nick Young
+2014-12-12,29-194,LAL,AWAY,SAS,W (+2),0,32:26,9,14,.643,6,9,.667,5,5,1.000,0,1,1,1,0,0,1,1,29,22.4,+5,Nick Young
+2014-12-14,29-196,LAL,AWAY,MIN,W (+6),0,23:43,2,9,.222,1,3,.333,2,2,1.000,1,0,1,0,2,0,0,2,7,3.4,+2,Nick Young
+2014-12-15,29-197,LAL,AWAY,IND,L (-19),0,22:30,6,12,.500,2,6,.333,4,4,1.000,0,3,3,1,1,1,1,2,18,13.5,+3,Nick Young
+2014-12-19,29-201,LAL,HOME,OKC,L (-1),0,13:27,4,8,.500,2,4,.500,0,0,,0,2,2,0,1,0,1,1,10,6.2,-7,Nick Young
+2014-12-21,29-203,LAL,AWAY,SAC,L (-7),0,30:23,7,14,.500,4,9,.444,8,8,1.000,1,4,5,1,2,0,0,4,26,22.0,-2,Nick Young
+2014-12-23,29-205,LAL,HOME,GSW,W (+10),0,30:09,5,13,.385,2,6,.333,3,3,1.000,1,4,5,1,1,1,1,3,15,10.0,+2,Nick Young
+2014-12-25,29-207,LAL,AWAY,CHI,L (-20),0,16:52,1,6,.167,1,3,.333,0,0,,0,1,1,2,0,0,1,2,3,-0.9,-14,Nick Young
+2014-12-26,29-208,LAL,AWAY,DAL,L (-4),0,28:38,5,16,.313,5,8,.625,0,0,,0,5,5,2,1,0,3,1,15,6.3,+6,Nick Young
+2014-12-28,29-210,LAL,HOME,PHO,L (-9),0,25:10,7,15,.467,4,6,.667,3,3,1.000,0,1,1,2,0,0,1,3,21,12.8,-6,Nick Young
+2014-12-30,29-212,LAL,AWAY,DEN,W (+8),0,21:43,2,7,.286,0,2,.000,0,0,,0,1,1,2,0,0,1,1,4,0.2,-10,Nick Young
+2015-01-02,29-215,LAL,HOME,MEM,L (-3),0,24:29,5,10,.500,1,3,.333,3,4,.750,0,1,1,2,1,1,0,2,14,11.2,-3,Nick Young
+2015-01-04,29-217,LAL,HOME,IND,W (+1),0,28:30,4,12,.333,2,5,.400,12,12,1.000,0,3,3,1,1,0,1,2,22,16.0,+7,Nick Young
+2015-01-05,29-218,LAL,AWAY,POR,L (-4),0,26:46,3,13,.231,1,4,.250,4,4,1.000,0,2,2,2,1,0,2,2,11,3.3,-8,Nick Young
+2015-01-07,29-220,LAL,AWAY,LAC,L (-25),0,30:08,4,15,.267,1,6,.167,2,2,1.000,1,4,5,2,1,0,2,0,11,4.4,-1,Nick Young
+2015-01-09,29-222,LAL,HOME,ORL,W (+17),0,19:41,2,13,.154,0,6,.000,5,5,1.000,0,0,0,0,1,0,3,3,9,-2.5,+1,Nick Young
+2015-01-11,29-224,LAL,HOME,POR,L (-12),0,17:35,3,11,.273,1,8,.125,2,2,1.000,0,2,2,0,0,0,0,3,9,1.9,+4,Nick Young
+2015-01-13,29-226,LAL,HOME,MIA,L (-3),0,19:59,2,11,.182,1,4,.250,3,3,1.000,0,1,1,3,1,0,2,2,8,1.7,+3,Nick Young
+2015-01-15,29-228,LAL,HOME,CLE,L (-7),0,22:04,4,13,.308,2,8,.250,4,5,.800,0,2,2,0,0,0,0,4,14,5.1,-8,Nick Young
+2015-01-16,29-229,LAL,AWAY,UTA,L (-9),0,25:28,4,9,.444,2,4,.500,13,13,1.000,2,0,2,0,0,0,0,0,23,19.7,+4,Nick Young
+2015-01-19,29-232,LAL,AWAY,PHO,L (-15),0,26:22,7,12,.583,4,7,.571,6,7,.857,2,2,4,3,2,0,4,3,24,18.9,-8,Nick Young
+2015-01-21,29-234,LAL,AWAY,NOP,L (-16),0,19:11,3,11,.273,2,5,.400,1,1,1.000,0,1,1,1,1,0,1,1,9,3.1,+3,Nick Young
+2015-01-23,29-236,LAL,AWAY,SAS,L (-14),0,20:21,5,11,.455,3,6,.500,4,4,1.000,0,0,0,0,0,0,1,1,17,9.9,-8,Nick Young
+2015-01-25,29-238,LAL,HOME,HOU,L (-12),0,8:26,0,2,.000,0,1,.000,0,0,,1,2,3,0,0,0,3,0,0,-3.1,-8,Nick Young
+2015-01-27,29-240,LAL,HOME,WAS,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2015-01-29,29-242,LAL,HOME,CHI,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2015-02-04,29-248,LAL,AWAY,MIL,L (-8),0,33:40,5,12,.417,2,8,.250,4,7,.571,2,1,3,0,0,0,2,1,16,7.7,+2,Nick Young
+2015-02-06,29-250,LAL,AWAY,ORL,L (-6),0,16:22,0,6,.000,0,3,.000,0,0,,0,1,1,3,0,0,0,1,0,-2.2,+1,Nick Young
+2015-02-08,29-252,LAL,AWAY,CLE,L (-15),0,22:29,3,10,.300,2,7,.286,0,0,,1,0,1,3,0,0,1,3,8,2.8,-8,Nick Young
+2015-02-10,29-254,LAL,HOME,DEN,L (-10),0,26:35,4,13,.308,2,6,.333,2,3,.667,1,3,4,0,0,0,0,4,12,4.1,-9,Nick Young
+2015-02-11,29-255,LAL,AWAY,POR,L (-16),0,14:07,4,12,.333,0,4,.000,1,1,1.000,1,1,2,0,0,0,1,2,9,1.4,-8,Nick Young
+2015-02-20,29-264,LAL,HOME,BRK,L (-9),0,24:35,2,9,.222,1,5,.200,0,0,,0,3,3,0,0,0,1,1,5,-1.0,-2,Nick Young
+2015-02-22,29-266,LAL,HOME,BOS,W (+7),0,26:19,5,9,.556,3,5,.600,6,8,.750,0,1,1,1,1,1,1,1,19,15.2,+15,Nick Young
+2015-02-25,29-269,LAL,AWAY,UTA,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2015-02-27,29-271,LAL,HOME,MIL,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2015-03-01,29-273,LAL,HOME,OKC,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2015-03-03,29-275,LAL,AWAY,CHO,L (-1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2015-03-04,29-276,LAL,AWAY,MIA,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2015-03-06,29-278,LAL,AWAY,MEM,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2015-03-08,29-280,LAL,HOME,DAL,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2015-03-10,29-282,LAL,HOME,DET,W (+8),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Nick Young
+2015-03-12,29-284,LAL,HOME,NYK,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2015-03-15,29-287,LAL,HOME,ATL,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2015-03-16,29-288,LAL,AWAY,GSW,L (-3),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Nick Young
+2015-03-19,29-291,LAL,HOME,UTA,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2015-03-22,29-294,LAL,HOME,PHI,W (+14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2015-03-24,29-296,LAL,AWAY,OKC,L (-10),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Nick Young
+2015-03-25,29-297,LAL,AWAY,MIN,W (+2),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Nick Young
+2015-03-27,29-299,LAL,AWAY,TOR,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2015-03-29,29-301,LAL,AWAY,BRK,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2015-03-30,29-302,LAL,AWAY,PHI,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2015-04-01,29-304,LAL,HOME,NOP,L (-21),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2015-04-03,29-306,LAL,HOME,POR,L (-30),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2015-04-05,29-308,LAL,HOME,LAC,L (-28),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2015-04-07,29-310,LAL,AWAY,LAC,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2015-04-08,29-311,LAL,AWAY,DEN,L (-18),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Nick Young
+2015-04-10,29-313,LAL,HOME,MIN,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2015-04-12,29-315,LAL,HOME,DAL,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young
+2015-04-13,29-316,LAL,AWAY,SAC,L (-10),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Nick Young
+2015-04-15,29-318,LAL,HOME,SAC,L (-23),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Young

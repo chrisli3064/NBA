@@ -1,0 +1,453 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2007-10-31,21-075,CHI,AWAY,NJN,L (-9),1,22:12,1,7,.143,0,0,,2,2,1.000,3,3,6,1,0,0,1,3,4,1.0,+3,Tyrus Thomas
+2007-11-02,21-077,CHI,HOME,PHI,L (-11),1,42:38,10,16,.625,0,0,,1,4,.250,4,8,12,0,2,3,2,5,21,17.9,-3,Tyrus Thomas
+2007-11-03,21-078,CHI,AWAY,MIL,L (-6),1,28:16,1,7,.143,0,0,,0,2,.000,1,5,6,2,0,2,1,5,2,-1.3,-5,Tyrus Thomas
+2007-11-06,21-081,CHI,HOME,LAC,L (-6),1,20:20,2,5,.400,0,0,,2,4,.500,1,2,3,5,2,3,2,3,6,8.2,-2,Tyrus Thomas
+2007-11-08,21-083,CHI,HOME,DET,W (+4),1,36:05,8,12,.667,0,0,,3,5,.600,3,11,14,1,2,2,2,3,19,19.3,-2,Tyrus Thomas
+2007-11-10,21-085,CHI,HOME,TOR,L (-30),1,12:21,2,5,.400,0,0,,0,0,,1,0,1,0,0,0,1,3,4,-0.2,-12,Tyrus Thomas
+2007-11-15,21-090,CHI,AWAY,PHO,L (-10),0,22:47,2,5,.400,0,0,,1,2,.500,3,2,5,0,1,0,0,4,5,4.0,+12,Tyrus Thomas
+2007-11-17,21-092,CHI,AWAY,LAC,W (+19),0,8:07,2,2,1.000,0,0,,0,0,,0,1,1,1,0,0,0,2,4,3.6,+1,Tyrus Thomas
+2007-11-18,21-093,CHI,AWAY,LAL,L (-28),0,13:43,1,6,.167,0,0,,2,3,.667,1,1,2,0,1,0,1,2,4,0.0,-19,Tyrus Thomas
+2007-11-20,21-095,CHI,AWAY,DEN,L (-21),0,10:56,0,1,.000,0,0,,0,1,.000,0,0,0,0,0,0,2,4,0,-4.7,-11,Tyrus Thomas
+2007-11-24,21-099,CHI,AWAY,NYK,L (-7),1,16:58,2,9,.222,0,0,,3,4,.750,1,3,4,1,1,1,1,5,7,2.1,0,Tyrus Thomas
+2007-11-25,21-100,CHI,AWAY,TOR,L (-15),1,16:43,2,4,.500,0,0,,0,1,.000,2,6,8,1,0,0,1,2,4,3.7,-6,Tyrus Thomas
+2007-11-27,21-102,CHI,HOME,ATL,W (+12),1,20:06,3,10,.300,0,0,,2,3,.667,4,8,12,2,1,0,0,3,8,8.2,+7,Tyrus Thomas
+2007-12-01,21-106,CHI,HOME,CHA,W (+16),1,24:54,4,8,.500,0,0,,1,2,.500,1,1,2,2,1,0,1,3,9,5.8,+13,Tyrus Thomas
+2007-12-03,21-108,CHI,HOME,DAL,L (-5),1,7:24,1,4,.250,0,0,,2,2,1.000,0,1,1,0,0,0,0,0,4,1.9,-8,Tyrus Thomas
+2007-12-05,21-110,CHI,AWAY,CHA,W (+9),0,6:05,1,2,.500,0,0,,0,0,,0,2,2,0,0,0,1,1,2,0.2,-3,Tyrus Thomas
+2007-12-11,21-116,CHI,HOME,SEA,W (+27),0,20:29,1,6,.167,0,0,,6,6,1.000,3,6,9,4,2,1,1,1,8,12.2,+15,Tyrus Thomas
+2007-12-12,21-117,CHI,AWAY,IND,L (-15),0,9:03,4,6,.667,0,0,,0,0,,2,1,3,0,0,0,0,0,8,7.1,+12,Tyrus Thomas
+2007-12-14,21-119,CHI,HOME,NYK,W (+5),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Tyrus Thomas
+2007-12-18,21-123,CHI,HOME,LAL,L (-12),0,22:48,4,5,.800,0,0,,2,2,1.000,3,3,6,4,2,3,3,2,10,14.2,+4,Tyrus Thomas
+2007-12-19,21-124,CHI,AWAY,WAS,W (+11),0,27:26,6,13,.462,0,0,,2,2,1.000,0,6,6,2,2,3,1,3,14,12.4,+15,Tyrus Thomas
+2007-12-21,21-126,CHI,AWAY,BOS,L (-25),0,16:05,2,5,.400,0,0,,3,4,.750,1,8,9,2,0,1,3,5,7,4.1,-4,Tyrus Thomas
+2007-12-22,21-127,CHI,HOME,HOU,L (-18),0,6:19,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,-15,Tyrus Thomas
+2007-12-26,21-131,CHI,AWAY,SAS,L (-15),0,6:06,0,2,.000,0,0,,0,0,,0,2,2,0,0,0,0,0,0,-0.8,-3,Tyrus Thomas
+2007-12-28,21-133,CHI,HOME,MIL,W (+4),0,4:12,0,0,,0,0,,0,0,,0,1,1,1,0,0,2,1,0,-1.4,-7,Tyrus Thomas
+2007-12-31,21-136,CHI,HOME,ORL,L (-2),0,5:34,1,2,.500,0,0,,0,0,,1,1,2,0,0,1,0,0,2,2.7,-4,Tyrus Thomas
+2008-01-03,21-139,CHI,HOME,POR,L (-6),0,3:11,1,2,.500,0,0,,0,0,,1,0,1,0,0,0,0,2,2,0.9,+3,Tyrus Thomas
+2008-01-05,21-141,CHI,HOME,SAC,W (+1),0,23:28,5,10,.500,0,0,,4,7,.571,5,4,9,2,1,3,2,2,14,14.2,-3,Tyrus Thomas
+2008-01-08,21-144,CHI,HOME,NYK,L (-5),0,20:59,1,7,.143,0,0,,0,0,,2,3,5,1,0,1,3,3,2,-3.0,+6,Tyrus Thomas
+2008-01-11,21-147,CHI,AWAY,PHI,W (+3),0,16:20,1,5,.200,0,0,,2,2,1.000,1,2,3,1,1,1,0,1,4,4.2,+12,Tyrus Thomas
+2008-01-13,21-149,CHI,AWAY,ATL,L (-21),0,10:05,0,2,.000,0,0,,2,2,1.000,0,0,0,1,0,1,0,0,2,2.0,-7,Tyrus Thomas
+2008-01-15,21-151,CHI,AWAY,ORL,L (-14),0,12:24,1,3,.333,0,0,,2,2,1.000,0,3,3,2,2,1,0,0,4,7.3,+13,Tyrus Thomas
+2008-01-16,21-152,CHI,AWAY,MIA,W (+30),0,7:24,0,2,.000,0,0,,0,0,,1,0,1,1,1,0,1,0,0,0.0,+5,Tyrus Thomas
+2008-01-18,21-154,CHI,HOME,GSW,L (-8),0,1:31,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,+1,Tyrus Thomas
+2008-01-19,21-155,CHI,HOME,DET,W (+16),0,6:39,0,3,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,1,0,-2.2,-2,Tyrus Thomas
+2008-01-21,21-157,CHI,AWAY,MEM,L (-14),0,17:36,2,7,.286,0,0,,1,1,1.000,3,4,7,0,1,1,0,1,5,5.5,0,Tyrus Thomas
+2008-01-23,21-159,CHI,HOME,IND,W (+13),0,11:07,1,1,1.000,0,0,,2,2,1.000,1,3,4,1,0,1,1,1,4,5.3,+13,Tyrus Thomas
+2008-01-25,21-161,CHI,HOME,CHA,L (-13),0,17:43,2,4,.500,0,0,,1,2,.500,2,3,5,3,1,0,0,1,5,7.6,-3,Tyrus Thomas
+2008-01-27,21-163,CHI,HOME,PHO,L (-11),0,31:51,5,15,.333,0,0,,0,0,,5,6,11,0,2,2,1,2,10,8.4,-10,Tyrus Thomas
+2008-01-29,21-165,CHI,HOME,MIN,W (+11),0,18:22,3,8,.375,0,0,,3,4,.750,2,3,5,0,1,1,0,0,9,8.2,-5,Tyrus Thomas
+2008-01-30,21-166,CHI,AWAY,MIN,L (-16),0,17:22,4,8,.500,0,1,.000,0,0,,0,4,4,1,1,0,2,0,8,4.9,-9,Tyrus Thomas
+2008-02-02,21-169,CHI,AWAY,SAC,L (-4),0,15:55,1,6,.167,0,0,,3,3,1.000,0,3,3,0,0,1,1,3,5,0.6,+5,Tyrus Thomas
+2008-02-06,21-173,CHI,AWAY,POR,L (-3),0,13:53,2,2,1.000,0,0,,4,4,1.000,0,1,1,0,0,2,1,3,8,6.9,-5,Tyrus Thomas
+2008-02-07,21-174,CHI,AWAY,GSW,W (+6),0,26:13,4,8,.500,0,0,,7,8,.875,0,5,5,2,1,2,2,3,15,12.7,+10,Tyrus Thomas
+2008-02-09,21-176,CHI,AWAY,UTA,L (-10),0,11:28,2,4,.500,0,0,,1,2,.500,0,0,0,0,1,0,1,4,5,1.0,-22,Tyrus Thomas
+2008-02-12,21-179,CHI,HOME,NOH,L (-14),0,8:02,1,4,.250,0,0,,1,2,.500,0,0,0,0,0,0,1,0,3,-0.8,-1,Tyrus Thomas
+2008-02-14,21-181,CHI,HOME,MIA,W (+7),1,38:27,3,10,.300,0,0,,4,6,.667,3,9,12,1,1,4,3,4,10,8.1,0,Tyrus Thomas
+2008-02-20,21-187,CHI,AWAY,NJN,L (-8),0,24:22,2,8,.250,0,0,,6,8,.750,5,1,6,5,1,3,0,2,10,14.0,-15,Tyrus Thomas
+2008-02-22,21-189,CHI,HOME,DEN,W (+14),1,33:38,9,13,.692,0,0,,0,0,,3,8,11,4,2,3,1,3,18,21.7,+25,Tyrus Thomas
+2008-02-24,21-191,CHI,AWAY,HOU,L (-13),1,26:04,7,11,.636,0,0,,4,4,1.000,1,5,6,5,1,2,2,2,18,18.4,0,Tyrus Thomas
+2008-02-25,21-192,CHI,AWAY,DAL,L (-8),1,27:59,3,8,.375,0,0,,3,4,.750,1,4,5,0,1,0,1,4,9,4.5,-3,Tyrus Thomas
+2008-02-27,21-194,CHI,AWAY,IND,W (+6),1,20:13,3,8,.375,0,0,,0,0,,1,9,10,2,0,2,0,4,6,6.2,-9,Tyrus Thomas
+2008-02-29,21-196,CHI,HOME,WAS,L (-6),1,9:14,1,2,.500,0,0,,0,0,,1,3,4,2,0,0,1,3,2,1.8,+2,Tyrus Thomas
+2008-03-02,21-198,CHI,AWAY,CLE,L (-9),0,24:38,4,6,.667,0,0,,4,6,.667,2,5,7,1,1,1,3,1,12,10.5,+5,Tyrus Thomas
+2008-03-04,21-200,CHI,HOME,MEM,W (+15),0,8:42,0,2,.000,0,0,,0,0,,0,1,1,1,0,0,2,4,0,-4.0,-2,Tyrus Thomas
+2008-03-06,21-202,CHI,HOME,CLE,W (+11),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Tyrus Thomas
+2008-03-09,21-205,CHI,AWAY,DET,L (-7),0,3:49,0,1,.000,0,0,,1,2,.500,1,0,1,0,0,0,1,1,1,-0.8,-4,Tyrus Thomas
+2008-03-11,21-207,CHI,HOME,UTA,W (+12),0,19:05,5,12,.417,0,0,,0,1,.000,1,2,3,2,1,1,0,3,10,6.4,+12,Tyrus Thomas
+2008-03-14,21-210,CHI,HOME,PHI,L (-4),0,16:45,0,3,.000,0,0,,0,0,,2,2,4,1,0,2,0,3,0,0.8,+8,Tyrus Thomas
+2008-03-17,21-213,CHI,AWAY,NOH,L (-11),0,12:59,0,2,.000,0,0,,3,4,.750,1,1,2,1,0,0,0,1,3,2.5,-2,Tyrus Thomas
+2008-03-18,21-214,CHI,HOME,NJN,W (+16),0,7:08,1,5,.200,0,0,,0,0,,1,1,2,0,0,1,0,1,2,0.2,+6,Tyrus Thomas
+2008-03-20,21-216,CHI,HOME,SAS,L (-22),0,14:58,0,4,.000,0,1,.000,7,8,.875,2,3,5,0,0,0,1,2,7,4.3,-2,Tyrus Thomas
+2008-03-22,21-218,CHI,HOME,IND,L (-7),0,17:27,1,1,1.000,0,0,,2,2,1.000,1,3,4,0,0,0,0,0,4,5.3,+5,Tyrus Thomas
+2008-03-25,21-221,CHI,HOME,ATL,W (+9),0,9:35,1,5,.200,0,0,,0,0,,2,2,4,1,0,2,0,0,2,3.0,+1,Tyrus Thomas
+2008-03-26,21-222,CHI,AWAY,PHI,L (-22),0,17:26,2,6,.333,0,1,.000,1,2,.500,2,2,4,2,0,0,1,1,5,3.2,-2,Tyrus Thomas
+2008-03-28,21-224,CHI,AWAY,ATL,L (-3),0,3:36,1,1,1.000,0,0,,0,0,,0,0,0,0,1,0,1,2,2,0.9,-6,Tyrus Thomas
+2008-03-29,21-225,CHI,HOME,MIL,W (+3),1,21:31,2,3,.667,0,0,,6,6,1.000,1,6,7,2,1,0,0,5,10,11.6,+5,Tyrus Thomas
+2008-04-01,21-228,CHI,HOME,BOS,L (-14),1,37:23,9,16,.563,0,0,,6,7,.857,3,4,7,0,1,0,2,4,24,16.7,-18,Tyrus Thomas
+2008-04-03,21-230,CHI,AWAY,CLE,W (+3),1,23:17,1,4,.250,0,0,,0,0,,1,6,7,1,1,3,3,4,2,1.3,-9,Tyrus Thomas
+2008-04-05,21-232,CHI,HOME,WAS,L (-12),1,24:50,5,10,.500,1,1,1.000,1,2,.500,0,1,1,1,1,0,2,2,12,5.8,-8,Tyrus Thomas
+2008-04-08,21-235,CHI,AWAY,MIA,L (-7),1,30:13,2,8,.250,0,0,,0,0,,1,7,8,3,1,1,2,3,4,2.6,-3,Tyrus Thomas
+2008-04-09,21-236,CHI,AWAY,ORL,L (-32),1,26:15,3,7,.429,0,0,,4,5,.800,1,5,6,2,2,5,2,4,10,11.4,-11,Tyrus Thomas
+2008-04-11,21-238,CHI,HOME,CLE,W (+5),1,35:27,9,16,.563,0,0,,2,3,.667,4,10,14,3,0,3,5,5,20,15.0,+6,Tyrus Thomas
+2008-04-13,21-240,CHI,HOME,ORL,L (-20),1,22:10,1,4,.250,0,0,,2,4,.500,0,4,4,2,0,0,0,4,4,1.8,-11,Tyrus Thomas
+2008-04-14,21-241,CHI,AWAY,MIL,W (+16),1,17:53,6,8,.750,0,0,,0,0,,1,7,8,3,0,2,0,5,12,13.1,+11,Tyrus Thomas
+2008-04-16,21-243,CHI,HOME,TOR,W (+10),1,36:00,9,13,.692,0,1,.000,8,10,.800,2,2,4,1,2,0,1,4,26,21.8,+7,Tyrus Thomas
+2006-10-31,20-075,CHI,AWAY,MIA,W (+42),0,16:23,1,4,.250,0,0,,2,6,.333,1,4,5,2,1,2,3,3,4,1.5,+15,Tyrus Thomas
+2006-11-03,20-078,CHI,HOME,SAC,L (-1),0,6:17,1,3,.333,0,0,,0,2,.000,0,1,1,0,1,2,1,4,2,-0.4,+5,Tyrus Thomas
+2006-11-09,20-084,CHI,AWAY,CLE,L (-19),0,11:16,4,9,.444,0,1,.000,1,2,.500,1,2,3,0,0,0,0,0,9,5.2,-8,Tyrus Thomas
+2006-11-11,20-086,CHI,HOME,IND,W (+9),0,2:47,0,0,,0,0,,0,0,,0,2,2,0,0,0,0,2,0,-0.2,+5,Tyrus Thomas
+2006-11-14,20-089,CHI,AWAY,DAL,L (-12),0,2:09,0,1,.000,0,0,,1,2,.500,1,0,1,0,0,0,1,0,1,-0.4,-4,Tyrus Thomas
+2006-11-16,20-091,CHI,AWAY,HOU,L (-1),0,14:03,1,4,.250,0,0,,2,2,1.000,0,1,1,0,0,1,1,4,4,0.0,-5,Tyrus Thomas
+2006-11-19,20-094,CHI,AWAY,LAL,L (-10),0,12:00,0,5,.000,0,0,,0,0,,4,1,5,0,0,2,2,1,0,-1.4,-13,Tyrus Thomas
+2006-11-21,20-096,CHI,AWAY,DEN,L (-4),0,6:06,0,2,.000,0,0,,0,0,,1,0,1,0,1,1,1,0,0,0.0,0,Tyrus Thomas
+2006-11-24,20-099,CHI,AWAY,PHI,L (-15),0,10:44,2,3,.667,0,0,,0,1,.000,0,4,4,1,1,0,1,3,4,3.0,+3,Tyrus Thomas
+2006-11-28,20-103,CHI,HOME,NYK,W (+17),0,3:33,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-2.1,-5,Tyrus Thomas
+2006-12-01,20-106,CHI,AWAY,NOK,W (+3),0,12:20,2,3,.667,0,0,,1,1,1.000,0,1,1,1,1,0,2,0,5,3.7,-6,Tyrus Thomas
+2006-12-02,20-107,CHI,HOME,WAS,W (+18),0,26:56,4,6,.667,0,0,,1,2,.500,5,5,10,2,0,1,2,4,9,9.5,+9,Tyrus Thomas
+2006-12-04,20-109,CHI,HOME,BOS,W (+18),0,23:52,3,6,.500,0,0,,1,2,.500,1,3,4,1,0,1,2,2,7,3.8,+1,Tyrus Thomas
+2006-12-06,20-111,CHI,HOME,PHI,W (+27),0,12:12,4,5,.800,0,0,,3,6,.500,2,2,4,0,2,0,0,2,11,11.1,0,Tyrus Thomas
+2006-12-09,20-114,CHI,HOME,MIN,L (-10),0,6:25,1,3,.333,0,0,,0,0,,2,1,3,0,0,0,3,0,2,-1.0,-2,Tyrus Thomas
+2006-12-11,20-116,CHI,HOME,IND,W (+15),0,1:17,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,1,0,0.3,0,Tyrus Thomas
+2006-12-13,20-118,CHI,HOME,SEA,W (+15),0,1:38,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-4,Tyrus Thomas
+2006-12-15,20-120,CHI,HOME,MIL,W (+6),0,22:38,4,8,.500,0,0,,6,12,.500,5,5,10,1,0,4,1,3,14,13.9,+11,Tyrus Thomas
+2006-12-16,20-121,CHI,AWAY,ATL,W (+2),0,10:32,0,1,.000,0,0,,0,0,,1,1,2,0,0,0,1,1,0,-1.1,+6,Tyrus Thomas
+2006-12-19,20-124,CHI,HOME,LAL,W (+5),0,3:48,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-8,Tyrus Thomas
+2006-12-22,20-127,CHI,AWAY,NYK,L (-11),0,6:22,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,+2,Tyrus Thomas
+2006-12-23,20-128,CHI,HOME,CHA,W (+39),0,18:35,2,3,.667,0,0,,10,13,.769,3,1,4,2,3,1,1,4,14,16.4,+7,Tyrus Thomas
+2006-12-26,20-131,CHI,AWAY,MIN,L (-2),0,4:45,0,0,,0,0,,0,2,.000,1,0,1,0,0,1,1,1,0,-0.8,+4,Tyrus Thomas
+2006-12-27,20-132,CHI,HOME,MIA,W (+6),0,17:00,4,4,1.000,0,0,,2,2,1.000,1,3,4,0,1,1,1,0,10,11.1,+11,Tyrus Thomas
+2006-12-29,20-134,CHI,AWAY,TOR,W (+10),0,11:16,1,1,1.000,0,0,,0,0,,0,3,3,1,0,0,1,5,2,0.3,+17,Tyrus Thomas
+2006-12-30,20-135,CHI,HOME,CLE,W (+7),0,5:36,1,2,.500,0,0,,1,2,.500,0,0,0,0,1,1,0,0,3,3.3,0,Tyrus Thomas
+2007-01-02,20-138,CHI,HOME,PHO,L (-1),0,6:01,1,1,1.000,0,0,,0,0,,0,0,0,1,0,0,1,2,2,0.6,+2,Tyrus Thomas
+2007-01-05,20-141,CHI,AWAY,NJN,L (-5),0,3:27,0,0,,0,0,,0,0,,0,1,1,0,0,2,0,1,0,1.3,-8,Tyrus Thomas
+2007-01-06,20-142,CHI,HOME,DET,W (+17),0,2:20,0,0,,0,0,,0,0,,0,1,1,1,0,1,0,2,0,0.9,-1,Tyrus Thomas
+2007-01-10,20-146,CHI,AWAY,WAS,L (-10),0,5:44,0,1,.000,0,0,,0,0,,1,0,1,0,1,0,1,0,0,0.0,-6,Tyrus Thomas
+2007-01-13,20-149,CHI,HOME,MEM,W (+45),1,19:43,2,5,.400,0,0,,0,0,,0,4,4,2,1,3,4,6,4,0.6,+10,Tyrus Thomas
+2007-01-15,20-151,CHI,HOME,SAS,W (+12),1,22:20,4,8,.500,0,0,,0,2,.000,4,4,8,0,1,5,2,3,8,8.5,+11,Tyrus Thomas
+2007-01-17,20-153,CHI,AWAY,MIL,W (+9),0,18:10,3,6,.500,0,0,,2,2,1.000,2,3,5,0,4,2,2,6,8,8.3,+16,Tyrus Thomas
+2007-01-20,20-156,CHI,HOME,UTA,L (-10),0,11:11,1,3,.333,0,0,,2,4,.500,2,3,5,0,0,3,1,3,4,3.7,-3,Tyrus Thomas
+2007-01-22,20-158,CHI,AWAY,IND,L (-7),0,8:43,0,2,.000,0,0,,0,0,,0,1,1,1,0,0,3,0,0,-3.4,-1,Tyrus Thomas
+2007-01-23,20-159,CHI,HOME,ATL,W (+8),0,17:26,3,5,.600,0,0,,1,4,.250,0,5,5,1,1,2,2,5,7,4.1,-4,Tyrus Thomas
+2007-01-25,20-161,CHI,HOME,DAL,W (+11),0,13:49,0,2,.000,0,0,,3,4,.750,1,3,4,0,1,1,1,3,3,2.3,-14,Tyrus Thomas
+2007-01-27,20-163,CHI,HOME,MIA,W (+3),0,3:50,1,3,.333,0,0,,2,2,1.000,1,0,1,0,0,0,0,0,4,3.0,-3,Tyrus Thomas
+2007-01-31,20-167,CHI,AWAY,LAC,L (-12),0,2:08,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,1,0,-1.1,-5,Tyrus Thomas
+2007-02-02,20-169,CHI,AWAY,SEA,W (+6),0,12:06,1,2,.500,0,0,,2,3,.667,0,3,3,0,0,1,2,2,4,1.4,+2,Tyrus Thomas
+2007-02-03,20-170,CHI,AWAY,POR,W (+2),0,4:29,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,+9,Tyrus Thomas
+2007-02-08,20-175,CHI,AWAY,SAC,L (-9),0,13:17,3,6,.500,0,1,.000,1,3,.333,1,3,4,0,2,0,0,5,7,4.8,+3,Tyrus Thomas
+2007-02-09,20-176,CHI,AWAY,GSW,L (-2),0,10:52,0,3,.000,0,0,,0,0,,0,5,5,2,0,1,2,3,0,-1.7,-4,Tyrus Thomas
+2007-02-11,20-178,CHI,AWAY,PHO,W (+13),1,15:44,4,6,.667,0,0,,1,2,.500,1,3,4,0,0,3,1,5,9,6.7,+10,Tyrus Thomas
+2007-02-13,20-180,CHI,HOME,TOR,L (-1),0,13:17,1,2,.500,0,0,,0,0,,1,3,4,0,2,1,1,4,2,2.7,+19,Tyrus Thomas
+2007-02-14,20-181,CHI,AWAY,CHA,L (-15),0,19:11,1,9,.111,0,0,,2,2,1.000,3,3,6,0,0,3,1,2,4,1.4,-9,Tyrus Thomas
+2007-02-20,20-187,CHI,HOME,ATL,W (+25),0,7:13,2,3,.667,0,0,,2,2,1.000,0,1,1,0,0,0,0,0,6,5.0,+2,Tyrus Thomas
+2007-02-23,20-190,CHI,HOME,WAS,W (+15),0,11:59,0,4,.000,0,0,,2,3,.667,0,3,3,1,0,2,1,3,2,-0.4,+8,Tyrus Thomas
+2007-02-25,20-192,CHI,AWAY,DET,L (-2),0,13:35,3,4,.750,0,0,,1,2,.500,0,2,2,0,0,2,1,1,7,5.6,-5,Tyrus Thomas
+2007-02-26,20-193,CHI,HOME,ORL,L (-7),0,7:42,1,1,1.000,0,0,,0,0,,0,2,2,0,0,1,0,2,2,2.2,+4,Tyrus Thomas
+2007-02-28,20-195,CHI,HOME,GSW,W (+30),0,16:48,5,7,.714,0,0,,4,6,.667,4,2,6,1,2,1,2,5,14,13.1,+6,Tyrus Thomas
+2007-03-02,20-197,CHI,HOME,NOK,W (+11),1,23:34,2,2,1.000,0,0,,6,6,1.000,1,6,7,0,2,3,7,4,10,7.4,+3,Tyrus Thomas
+2007-03-04,20-199,CHI,AWAY,MIL,W (+5),0,23:32,3,5,.600,0,0,,1,4,.250,1,6,7,2,0,1,3,3,7,3.9,-10,Tyrus Thomas
+2007-03-07,20-202,CHI,AWAY,MIA,L (-33),0,21:18,3,6,.500,0,0,,2,2,1.000,1,6,7,0,2,0,3,3,8,5.3,-30,Tyrus Thomas
+2007-03-08,20-203,CHI,AWAY,ORL,W (+24),0,15:25,2,2,1.000,0,0,,2,2,1.000,2,1,3,0,2,2,2,3,6,7.3,+6,Tyrus Thomas
+2007-03-11,20-206,CHI,AWAY,BOS,W (+16),0,18:13,3,10,.300,0,0,,2,6,.333,1,3,4,0,1,2,2,1,8,2.2,+14,Tyrus Thomas
+2007-03-13,20-208,CHI,HOME,BOS,W (+8),0,28:49,9,14,.643,0,0,,5,11,.455,0,9,9,1,0,1,5,5,23,11.5,+12,Tyrus Thomas
+2007-03-14,20-209,CHI,AWAY,PHI,W (+1),0,18:03,1,2,.500,0,0,,3,4,.750,2,2,4,2,0,1,1,3,5,5.5,+2,Tyrus Thomas
+2007-03-17,20-212,CHI,AWAY,MEM,L (-1),0,18:34,3,7,.429,0,0,,2,2,1.000,2,6,8,0,0,2,3,3,8,4.7,+5,Tyrus Thomas
+2007-03-20,20-215,CHI,HOME,LAC,L (-14),0,7:19,1,2,.500,0,0,,0,0,,2,1,3,1,0,0,0,5,2,1.4,-2,Tyrus Thomas
+2007-03-22,20-217,CHI,HOME,DEN,W (+1),0,20:30,4,9,.444,0,0,,1,2,.500,5,6,11,0,1,0,1,2,9,8.4,+7,Tyrus Thomas
+2007-03-25,20-220,CHI,AWAY,IND,W (+2),0,14:41,1,1,1.000,0,0,,2,2,1.000,1,0,1,0,0,1,1,5,4,2.1,+4,Tyrus Thomas
+2007-03-26,20-221,CHI,HOME,POR,W (+11),0,22:14,1,8,.125,0,0,,0,0,,1,3,4,2,0,3,0,1,2,1.5,+12,Tyrus Thomas
+2007-03-29,20-224,CHI,HOME,DET,W (+2),0,27:10,5,9,.556,0,0,,3,4,.750,6,4,10,1,1,1,3,1,13,12.7,0,Tyrus Thomas
+2007-03-31,20-226,CHI,HOME,CLE,L (-4),0,38:49,9,11,.818,0,0,,9,10,.900,2,6,8,1,3,3,1,2,27,29.7,-3,Tyrus Thomas
+2007-04-01,20-227,CHI,AWAY,ATL,W (+8),0,25:31,3,9,.333,0,0,,2,5,.400,2,6,8,3,1,3,0,3,8,8.9,+2,Tyrus Thomas
+2007-04-04,20-230,CHI,AWAY,DET,W (+18),0,10:05,6,10,.600,0,0,,1,2,.500,5,3,8,0,0,0,1,3,13,10.2,+18,Tyrus Thomas
+2007-04-06,20-232,CHI,HOME,NJN,W (+31),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2007-04-08,20-234,CHI,AWAY,TOR,L (-14),0,19:32,2,2,1.000,0,0,,1,2,.500,1,4,5,1,2,0,0,2,5,7.8,+14,Tyrus Thomas
+2007-04-10,20-236,CHI,HOME,NYK,W (+29),0,20:23,2,5,.400,0,0,,1,2,.500,0,2,2,0,3,1,1,2,5,4.4,+4,Tyrus Thomas
+2007-04-13,20-239,CHI,HOME,CHA,W (+19),0,11:06,2,2,1.000,0,0,,2,3,.667,0,1,1,2,0,0,1,1,6,5.3,+9,Tyrus Thomas
+2007-04-15,20-241,CHI,AWAY,WAS,W (+33),0,16:59,1,6,.167,0,0,,3,4,.750,4,6,10,1,0,0,1,2,5,4.3,+8,Tyrus Thomas
+2007-04-18,20-244,CHI,AWAY,NJN,L (-9),0,12:54,0,1,.000,0,0,,2,4,.500,0,2,2,1,1,0,1,2,2,1.0,-4,Tyrus Thomas
+2012-11-02,26-077,CHA,HOME,IND,W (+1),0,16:54,1,9,.111,0,0,,2,2,1.000,0,3,3,1,1,0,1,4,4,-1.9,-11,Tyrus Thomas
+2012-11-03,26-078,CHA,AWAY,DAL,L (-27),0,19:02,4,7,.571,0,0,,1,2,.500,0,2,2,1,1,0,0,3,9,6.4,-18,Tyrus Thomas
+2012-11-07,26-082,CHA,HOME,PHO,L (-7),0,15:32,3,8,.375,0,0,,4,4,1.000,2,0,2,1,1,2,0,2,10,9.3,-1,Tyrus Thomas
+2012-11-09,26-084,CHA,AWAY,NOH,L (-8),0,22:50,2,8,.250,0,0,,2,4,.500,2,3,5,3,0,3,1,4,6,4.3,+1,Tyrus Thomas
+2012-11-10,26-085,CHA,HOME,DAL,W (+4),0,14:47,2,2,1.000,0,0,,0,0,,1,1,2,0,0,0,1,1,4,3.0,-12,Tyrus Thomas
+2012-11-13,26-088,CHA,HOME,WAS,W (+16),0,21:06,2,7,.286,0,0,,6,6,1.000,2,4,6,1,0,2,2,3,10,7.4,+6,Tyrus Thomas
+2012-11-14,26-089,CHA,AWAY,MIN,W (+2),0,17:41,4,6,.667,0,0,,2,2,1.000,0,4,4,0,1,3,2,5,10,7.7,+6,Tyrus Thomas
+2012-11-17,26-092,CHA,HOME,MEM,L (-7),0,14:30,0,6,.000,0,0,,0,0,,1,0,1,1,0,1,0,2,0,-2.9,-3,Tyrus Thomas
+2013-01-04,26-140,CHA,HOME,CLE,L (-2),0,12:33,2,6,.333,0,0,,0,0,,0,4,4,1,1,0,0,2,4,2.7,-7,Tyrus Thomas
+2013-01-06,26-142,CHA,AWAY,DET,W (+7),1,38:05,4,14,.286,0,0,,5,5,1.000,2,3,5,0,1,1,1,2,13,7.0,+5,Tyrus Thomas
+2013-01-09,26-145,CHA,HOME,UTA,L (-10),1,10:03,0,4,.000,0,0,,0,0,,1,1,2,0,0,0,2,0,0,-3.8,-11,Tyrus Thomas
+2013-01-11,26-147,CHA,AWAY,TOR,L (-21),0,7:03,1,1,1.000,0,0,,0,0,,0,0,0,0,0,1,1,0,2,1.4,-6,Tyrus Thomas
+2013-01-15,26-151,CHA,HOME,IND,L (-27),0,3:32,0,2,.000,0,0,,0,0,,0,1,1,0,0,0,0,2,0,-1.9,-3,Tyrus Thomas
+2013-01-21,26-157,CHA,HOME,HOU,L (-6),0,9:22,0,0,,0,0,,0,0,,0,2,2,1,0,0,0,1,0,0.9,0,Tyrus Thomas
+2013-01-26,26-162,CHA,HOME,MIN,W (+1),0,18:03,1,6,.167,0,0,,0,0,,0,6,6,2,1,0,1,4,2,-0.2,-2,Tyrus Thomas
+2013-01-28,26-164,CHA,AWAY,CHI,L (-8),0,6:36,0,3,.000,0,0,,0,0,,1,1,2,0,0,0,0,1,0,-1.5,-11,Tyrus Thomas
+2013-01-30,26-166,CHA,AWAY,SAS,L (-24),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2013-02-02,26-169,CHA,AWAY,HOU,L (-14),0,6:30,1,3,.333,0,0,,0,0,,0,1,1,0,0,0,0,1,2,0.2,-5,Tyrus Thomas
+2013-02-06,26-173,CHA,AWAY,CLE,L (-27),0,24:51,5,9,.556,0,1,.000,0,1,.000,0,2,2,1,0,1,1,3,10,5.1,-2,Tyrus Thomas
+2013-04-01,26-227,CHA,AWAY,MIL,L (-29),0,23:15,5,9,.556,2,4,.500,1,2,.500,1,1,2,2,1,0,1,4,13,9.1,-12,Tyrus Thomas
+2013-04-03,26-229,CHA,HOME,PHI,W (+5),0,11:53,2,9,.222,0,1,.000,2,2,1.000,1,1,2,0,1,0,0,1,6,2.1,-8,Tyrus Thomas
+2013-04-05,26-231,CHA,HOME,MIA,L (-10),0,16:41,3,6,.500,0,1,.000,0,0,,2,0,2,0,1,0,0,1,6,5.0,+2,Tyrus Thomas
+2013-04-06,26-232,CHA,AWAY,BRK,L (-9),0,2:33,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,1,2,1.3,+4,Tyrus Thomas
+2013-04-09,26-235,CHA,AWAY,MEM,L (-19),0,9:48,2,4,.500,0,0,,1,1,1.000,0,3,3,1,1,0,1,1,5,4.2,-1,Tyrus Thomas
+2013-04-12,26-238,CHA,AWAY,DET,L (-20),0,4:44,0,1,.000,0,0,,0,0,,0,0,0,0,2,1,1,2,0,0.2,-6,Tyrus Thomas
+2013-04-15,26-241,CHA,HOME,NYK,W (+11),0,4:37,2,3,.667,1,1,1.000,0,0,,0,0,0,1,0,0,0,0,5,4.4,-7,Tyrus Thomas
+2013-04-17,26-243,CHA,HOME,CLE,W (+7),0,7:26,1,2,.500,0,0,,0,0,,0,1,1,2,1,0,1,1,2,2.3,+13,Tyrus Thomas
+2011-12-26,25-131,CHA,HOME,MIL,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2011-12-28,25-133,CHA,HOME,MIA,L (-1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2011-12-30,25-135,CHA,HOME,ORL,L (-21),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2012-01-01,25-137,CHA,AWAY,MIA,L (-39),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2012-01-03,25-139,CHA,AWAY,CLE,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2012-01-04,25-140,CHA,AWAY,NYK,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2012-01-06,25-142,CHA,HOME,ATL,L (-6),0,34:00,3,9,.333,0,1,.000,1,2,.500,0,5,5,2,1,1,0,2,7,5.3,-8,Tyrus Thomas
+2012-01-07,25-143,CHA,AWAY,IND,L (-22),1,31:45,3,6,.500,0,0,,4,6,.667,1,6,7,0,0,0,2,2,10,5.9,-1,Tyrus Thomas
+2012-01-09,25-145,CHA,AWAY,NYK,L (-4),1,22:19,2,7,.286,0,0,,2,2,1.000,2,2,4,0,0,2,2,5,6,1.3,-3,Tyrus Thomas
+2012-01-10,25-146,CHA,HOME,HOU,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2012-01-12,25-148,CHA,AWAY,ATL,L (-30),1,25:55,3,6,.500,0,0,,3,3,1.000,0,0,0,0,0,3,1,4,9,5.5,-12,Tyrus Thomas
+2012-01-13,25-149,CHA,HOME,DET,L (-17),1,30:07,4,9,.444,0,0,,2,2,1.000,0,7,7,0,0,3,2,2,10,6.7,-16,Tyrus Thomas
+2012-01-14,25-150,CHA,HOME,GSW,W (+12),1,25:58,2,6,.333,0,0,,1,2,.500,0,4,4,1,0,0,0,3,5,1.9,+8,Tyrus Thomas
+2012-01-16,25-152,CHA,HOME,CLE,L (-8),1,16:17,0,3,.000,0,0,,1,2,.500,1,0,1,1,1,3,0,3,1,1.8,-3,Tyrus Thomas
+2012-01-17,25-153,CHA,AWAY,ORL,L (-7),1,27:32,2,10,.200,0,0,,3,4,.750,0,2,2,1,2,1,0,3,7,3.2,-15,Tyrus Thomas
+2012-01-21,25-157,CHA,AWAY,CHI,L (-6),1,29:05,3,4,.750,0,0,,0,0,,1,6,7,2,1,3,3,4,6,6.8,-12,Tyrus Thomas
+2012-01-22,25-158,CHA,AWAY,NJN,L (-10),1,20:08,3,5,.600,0,0,,0,0,,1,5,6,0,1,1,2,3,6,4.4,+2,Tyrus Thomas
+2012-01-24,25-160,CHA,HOME,NYK,L (-33),1,31:29,1,9,.111,0,0,,2,2,1.000,2,2,4,1,2,2,3,4,4,-0.4,-16,Tyrus Thomas
+2012-01-25,25-161,CHA,AWAY,WAS,L (-17),1,32:43,5,9,.556,0,0,,3,4,.750,2,7,9,1,4,9,2,2,13,20.0,-9,Tyrus Thomas
+2012-01-27,25-163,CHA,AWAY,PHI,L (-17),1,32:24,3,8,.375,0,0,,3,4,.750,2,5,7,0,1,2,0,3,9,8.3,-2,Tyrus Thomas
+2012-01-28,25-164,CHA,HOME,WAS,L (-3),1,34:37,6,12,.500,0,0,,1,2,.500,4,6,10,2,0,0,4,3,13,7.4,-6,Tyrus Thomas
+2012-01-31,25-167,CHA,AWAY,LAL,L (-33),1,28:18,2,9,.222,0,0,,2,2,1.000,1,1,2,0,1,1,1,2,6,1.4,-19,Tyrus Thomas
+2012-02-01,25-168,CHA,AWAY,POR,L (-44),1,21:24,2,5,.400,0,0,,3,3,1.000,1,4,5,1,2,2,0,1,7,9.9,-16,Tyrus Thomas
+2012-02-04,25-171,CHA,AWAY,PHO,L (-6),1,26:11,3,14,.214,0,0,,2,2,1.000,2,11,13,0,0,1,2,2,8,2.0,+1,Tyrus Thomas
+2012-02-07,25-174,CHA,AWAY,BOS,L (-10),1,19:52,1,6,.167,0,0,,0,0,,1,2,3,0,0,1,0,1,2,-0.2,-12,Tyrus Thomas
+2012-02-10,25-177,CHA,HOME,CHI,L (-31),1,22:42,1,5,.200,0,0,,0,0,,0,5,5,1,1,3,0,4,2,2.6,-6,Tyrus Thomas
+2012-02-11,25-178,CHA,HOME,LAC,L (-25),0,18:03,5,6,.833,0,0,,1,2,.500,1,4,5,2,0,0,0,3,11,10.5,0,Tyrus Thomas
+2012-02-13,25-180,CHA,HOME,PHI,L (-9),0,8:41,0,3,.000,0,0,,0,0,,0,0,0,0,0,0,0,3,0,-3.3,-6,Tyrus Thomas
+2012-02-15,25-182,CHA,AWAY,MIN,L (-12),0,12:58,2,4,.500,0,0,,0,2,.000,0,0,0,0,1,1,0,3,4,1.7,-2,Tyrus Thomas
+2012-02-17,25-184,CHA,AWAY,TOR,W (+7),0,2:27,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,+4,Tyrus Thomas
+2012-02-19,25-186,CHA,AWAY,IND,L (-35),0,5:51,0,3,.000,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-2.2,-8,Tyrus Thomas
+2012-02-22,25-189,CHA,HOME,IND,L (-14),0,15:13,2,8,.250,0,0,,0,1,.000,3,2,5,0,0,3,1,5,4,0.6,-9,Tyrus Thomas
+2012-02-29,25-196,CHA,AWAY,DET,L (-15),0,13:44,1,6,.167,0,0,,0,0,,2,2,4,0,1,1,1,3,2,-0.3,-7,Tyrus Thomas
+2012-03-02,25-198,CHA,AWAY,SAS,L (-30),0,4:21,1,3,.333,0,0,,0,0,,0,0,0,0,0,0,0,0,2,0.3,0,Tyrus Thomas
+2012-03-04,25-200,CHA,HOME,NJN,L (-3),0,6:42,1,4,.250,0,0,,1,1,1.000,0,2,2,1,1,1,0,1,3,3.2,-2,Tyrus Thomas
+2012-03-06,25-202,CHA,HOME,ORL,W (+16),0,5:58,0,2,.000,0,0,,0,0,,0,0,0,1,0,0,1,0,0,-1.7,-6,Tyrus Thomas
+2012-03-09,25-205,CHA,HOME,NJN,L (-9),1,16:40,3,7,.429,0,0,,0,0,,1,2,3,0,1,0,1,4,6,2.0,-10,Tyrus Thomas
+2012-03-10,25-206,CHA,AWAY,OKC,L (-27),1,20:59,2,7,.286,0,0,,2,2,1.000,3,3,6,0,1,1,2,4,6,3.0,-5,Tyrus Thomas
+2012-03-12,25-208,CHA,AWAY,NOH,W (+2),1,19:44,2,8,.250,0,0,,0,0,,1,6,7,0,1,2,2,2,4,1.3,0,Tyrus Thomas
+2012-03-14,25-210,CHA,AWAY,HOU,L (-20),1,19:01,3,8,.375,0,0,,1,2,.500,0,3,3,2,1,1,0,2,7,5.4,-12,Tyrus Thomas
+2012-03-15,25-211,CHA,AWAY,DAL,L (-5),1,28:26,5,7,.714,0,0,,4,4,1.000,1,7,8,1,0,0,1,4,14,12.0,-1,Tyrus Thomas
+2012-03-17,25-213,CHA,HOME,TOR,W (+4),1,30:26,3,6,.500,0,0,,5,7,.714,1,3,4,1,2,0,3,6,11,6.1,+22,Tyrus Thomas
+2012-03-19,25-215,CHA,HOME,PHI,L (-25),1,14:43,3,10,.300,0,0,,0,0,,0,0,0,1,0,1,0,2,6,0.8,-17,Tyrus Thomas
+2012-03-23,25-219,CHA,HOME,MIL,L (-20),1,25:32,5,11,.455,0,0,,0,0,,2,5,7,3,1,1,0,3,10,9.8,-8,Tyrus Thomas
+2012-03-24,25-220,CHA,AWAY,NJN,L (-13),1,19:20,2,6,.333,0,0,,0,0,,0,2,2,1,3,1,3,2,4,1.8,-12,Tyrus Thomas
+2012-03-26,25-222,CHA,HOME,BOS,L (-7),1,21:17,1,4,.250,0,0,,2,2,1.000,0,6,6,1,0,4,0,4,4,5.3,-27,Tyrus Thomas
+2012-03-30,25-226,CHA,HOME,DEN,L (-11),1,8:26,0,4,.000,0,0,,0,0,,0,3,3,1,0,1,1,4,0,-3.1,+5,Tyrus Thomas
+2012-03-31,25-227,CHA,AWAY,DET,L (-3),0,16:55,5,9,.556,0,0,,0,0,,0,4,4,0,1,0,2,4,10,4.3,-3,Tyrus Thomas
+2012-04-03,25-230,CHA,AWAY,TOR,L (-5),0,5:52,2,3,.667,0,0,,2,4,.500,1,1,2,0,0,0,0,3,6,3.7,-2,Tyrus Thomas
+2012-04-04,25-231,CHA,AWAY,ATL,L (-27),0,6:28,0,0,,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0.7,-5,Tyrus Thomas
+2012-04-06,25-233,CHA,AWAY,MIL,L (-5),0,13:30,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,3,0,-2.9,-7,Tyrus Thomas
+2012-04-07,25-234,CHA,HOME,ATL,L (-20),0,19:50,3,7,.429,0,0,,2,2,1.000,2,2,4,1,2,0,1,1,8,7.6,-10,Tyrus Thomas
+2012-04-09,25-236,CHA,HOME,WAS,L (-28),0,14:35,1,3,.333,0,0,,0,0,,0,2,2,2,1,0,1,6,2,-0.1,-2,Tyrus Thomas
+2012-04-10,25-237,CHA,AWAY,CLE,L (-13),0,11:32,3,8,.375,0,0,,0,0,,2,3,5,0,0,1,0,3,6,3.4,-5,Tyrus Thomas
+2012-04-12,25-239,CHA,HOME,DET,L (-24),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2012-04-13,25-240,CHA,AWAY,MIA,L (-23),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2012-04-15,25-242,CHA,HOME,BOS,L (-12),0,11:28,2,5,.400,0,0,,0,0,,0,1,1,0,1,0,1,2,4,0.8,0,Tyrus Thomas
+2012-04-16,25-243,CHA,HOME,NOH,L (-8),0,20:33,3,10,.300,0,0,,1,2,.500,3,3,6,1,0,0,1,3,7,2.3,-2,Tyrus Thomas
+2012-04-18,25-245,CHA,HOME,CHI,L (-32),0,2:52,0,3,.000,0,0,,0,0,,1,0,1,0,0,0,0,0,0,-1.4,-5,Tyrus Thomas
+2012-04-20,25-247,CHA,HOME,MEM,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2012-04-22,25-249,CHA,HOME,SAC,L (-26),0,11:56,5,6,.833,0,0,,0,0,,2,0,2,1,0,0,3,1,10,6.5,+4,Tyrus Thomas
+2012-04-23,25-250,CHA,AWAY,WAS,L (-28),0,2:58,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,3,2,0,-3.8,-10,Tyrus Thomas
+2012-04-25,25-252,CHA,AWAY,ORL,L (-7),0,22:33,2,4,.500,0,0,,9,10,.900,1,4,5,1,1,1,0,3,13,13.7,+4,Tyrus Thomas
+2012-04-26,25-253,CHA,HOME,NYK,L (-20),1,20:57,4,8,.500,1,1,1.000,0,0,,1,0,1,0,0,1,0,3,9,5.2,-10,Tyrus Thomas
+2010-10-27,24-071,CHA,AWAY,DAL,L (-15),0,29:56,8,15,.533,0,0,,6,7,.857,2,4,6,0,1,0,1,3,22,15.7,+10,Tyrus Thomas
+2010-10-29,24-073,CHA,HOME,IND,L (-3),0,21:06,1,6,.167,0,0,,9,9,1.000,3,2,5,1,1,2,0,4,11,11.4,+2,Tyrus Thomas
+2010-10-30,24-074,CHA,AWAY,MIL,L (-10),0,21:17,3,10,.300,0,0,,2,3,.667,2,5,7,0,2,2,4,4,8,2.5,-10,Tyrus Thomas
+2010-11-03,24-078,CHA,AWAY,NJN,W (+2),0,16:33,3,5,.600,0,0,,0,2,.000,0,3,3,0,1,0,2,2,6,2.0,-6,Tyrus Thomas
+2010-11-05,24-080,CHA,AWAY,DET,L (-7),0,21:40,4,6,.667,0,0,,2,2,1.000,2,3,5,2,2,1,2,1,10,11.4,-13,Tyrus Thomas
+2010-11-06,24-081,CHA,HOME,ORL,L (-3),0,15:00,3,4,.750,0,0,,4,4,1.000,0,4,4,0,0,2,3,4,10,6.4,+5,Tyrus Thomas
+2010-11-08,24-083,CHA,HOME,SAS,L (-4),0,22:32,5,11,.455,0,0,,6,8,.750,5,3,8,0,2,3,2,1,16,15.6,+2,Tyrus Thomas
+2010-11-10,24-085,CHA,AWAY,TOR,W (+5),0,21:15,5,9,.556,0,0,,4,4,1.000,3,1,4,2,1,5,1,4,14,15.4,-3,Tyrus Thomas
+2010-11-12,24-087,CHA,AWAY,WAS,W (+8),0,13:36,1,6,.167,0,0,,2,2,1.000,5,4,9,2,0,0,2,2,4,3.5,-11,Tyrus Thomas
+2010-11-15,24-090,CHA,HOME,MIN,W (+3),0,30:52,8,11,.727,0,0,,4,7,.571,3,7,10,0,2,4,7,3,20,15.1,+12,Tyrus Thomas
+2010-11-19,24-094,CHA,AWAY,MIA,L (-8),0,18:55,2,5,.400,0,0,,5,6,.833,0,3,3,0,0,0,1,3,9,4.6,+2,Tyrus Thomas
+2010-11-20,24-095,CHA,HOME,PHO,W (+18),0,29:16,9,13,.692,0,0,,4,4,1.000,1,5,6,0,1,0,2,4,22,16.1,+14,Tyrus Thomas
+2010-11-23,24-098,CHA,AWAY,NYK,L (-3),0,11:48,1,4,.250,0,0,,3,4,.750,1,2,3,0,2,1,2,2,5,3.4,+3,Tyrus Thomas
+2010-11-24,24-099,CHA,HOME,NYK,L (-4),1,33:58,11,20,.550,0,0,,4,4,1.000,7,4,11,3,0,4,0,2,26,26.6,+6,Tyrus Thomas
+2010-11-26,24-101,CHA,HOME,HOU,W (+10),0,16:23,2,3,.667,0,0,,0,0,,1,4,5,0,1,2,0,2,4,6.2,+8,Tyrus Thomas
+2010-11-27,24-102,CHA,AWAY,MIL,L (-3),0,16:36,3,7,.429,0,0,,2,2,1.000,1,1,2,0,0,0,0,1,8,4.9,-1,Tyrus Thomas
+2010-12-01,24-106,CHA,AWAY,NOH,L (-16),0,21:34,4,8,.500,0,0,,1,1,1.000,2,8,10,0,1,1,0,2,9,9.7,-16,Tyrus Thomas
+2010-12-03,24-108,CHA,HOME,NJN,W (+7),0,20:52,4,7,.571,0,0,,4,6,.667,1,2,3,0,1,2,1,2,12,9.8,+2,Tyrus Thomas
+2010-12-04,24-109,CHA,AWAY,PHI,L (-18),0,17:06,1,4,.250,0,1,.000,0,0,,1,4,5,1,0,2,3,3,2,-0.6,-4,Tyrus Thomas
+2010-12-07,24-112,CHA,HOME,DEN,W (+2),0,15:22,6,8,.750,0,0,,4,4,1.000,2,2,4,1,0,0,2,2,16,12.7,+6,Tyrus Thomas
+2010-12-14,24-119,CHA,HOME,TOR,W (+6),0,21:15,6,12,.500,0,0,,2,3,.667,1,6,7,0,1,2,1,3,14,10.3,+8,Tyrus Thomas
+2010-12-15,24-120,CHA,AWAY,MEM,L (-33),0,17:36,4,6,.667,0,0,,4,5,.800,0,3,3,1,0,1,1,3,12,9.1,-15,Tyrus Thomas
+2010-12-17,24-122,CHA,AWAY,ATL,L (-5),0,16:09,2,9,.222,0,1,.000,3,3,1.000,2,6,8,0,0,1,0,0,7,5.4,-1,Tyrus Thomas
+2010-12-20,24-125,CHA,AWAY,WAS,L (-33),0,20:03,5,7,.714,0,0,,0,0,,1,3,4,0,0,0,2,2,10,5.9,-3,Tyrus Thomas
+2010-12-21,24-126,CHA,HOME,OKC,L (-18),0,19:46,2,9,.222,0,0,,1,2,.500,1,1,2,1,1,2,2,3,5,0.0,-18,Tyrus Thomas
+2010-12-27,24-132,CHA,HOME,DET,W (+5),0,22:48,5,9,.556,0,0,,4,6,.667,2,2,4,2,1,5,6,3,14,9.6,+11,Tyrus Thomas
+2011-01-03,24-139,CHA,HOME,MIA,L (-14),0,21:32,4,14,.286,0,0,,0,0,,1,4,5,1,0,1,2,2,8,0.3,-13,Tyrus Thomas
+2011-01-05,24-141,CHA,AWAY,MIN,W (+3),0,35:48,10,18,.556,0,0,,1,1,1.000,2,9,11,3,1,2,1,4,21,18.4,+5,Tyrus Thomas
+2011-01-08,24-144,CHA,HOME,WAS,W (+15),0,30:45,2,13,.154,0,0,,2,2,1.000,2,2,4,1,0,3,2,3,6,-0.7,+6,Tyrus Thomas
+2011-01-10,24-146,CHA,HOME,MEM,W (+14),0,16:57,2,3,.667,0,0,,2,2,1.000,3,5,8,1,1,4,0,6,6,10.4,+9,Tyrus Thomas
+2011-01-12,24-148,CHA,HOME,CHI,W (+5),0,29:34,7,14,.500,0,0,,3,5,.600,4,9,13,2,0,2,3,4,17,12.9,-7,Tyrus Thomas
+2011-01-14,24-150,CHA,AWAY,BOS,L (-5),0,25:42,3,7,.429,0,0,,2,2,1.000,2,7,9,0,2,0,0,0,8,9.8,+5,Tyrus Thomas
+2011-01-15,24-151,CHA,HOME,NOH,L (-7),0,18:49,2,6,.333,0,0,,4,4,1.000,1,3,4,0,1,1,3,3,8,3.7,-4,Tyrus Thomas
+2011-01-17,24-153,CHA,AWAY,PHI,L (-4),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Tyrus Thomas
+2011-01-18,24-154,CHA,AWAY,CHI,W (+1),0,22:14,3,8,.375,0,0,,2,4,.500,0,2,2,1,2,1,1,4,8,4.2,+11,Tyrus Thomas
+2011-02-25,24-192,CHA,HOME,SAC,W (+12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2011-02-27,24-194,CHA,AWAY,ORL,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2011-03-02,24-197,CHA,AWAY,DEN,L (-40),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2011-03-11,24-206,CHA,HOME,POR,W (+5),0,23:32,1,4,.250,0,1,.000,0,0,,0,6,6,0,0,1,0,1,2,1.7,+3,Tyrus Thomas
+2011-03-13,24-208,CHA,AWAY,TOR,W (+5),0,22:37,1,4,.250,0,0,,2,4,.500,0,4,4,1,0,3,1,5,4,1.8,-10,Tyrus Thomas
+2011-03-16,24-211,CHA,AWAY,HOU,L (-16),0,16:27,2,6,.333,0,0,,2,2,1.000,0,5,5,0,1,2,3,2,6,2.7,-2,Tyrus Thomas
+2011-03-18,24-213,CHA,AWAY,OKC,L (-17),0,12:43,2,4,.500,0,0,,2,3,.667,0,1,1,0,1,1,1,4,6,3.0,-3,Tyrus Thomas
+2011-03-19,24-214,CHA,AWAY,SAS,L (-11),0,18:35,3,5,.600,0,0,,4,5,.800,1,2,3,3,0,0,0,5,10,8.7,+1,Tyrus Thomas
+2011-03-23,24-218,CHA,HOME,IND,L (-23),0,12:35,3,6,.500,0,0,,0,1,.000,0,2,2,0,0,2,0,4,6,3.0,-12,Tyrus Thomas
+2011-03-25,24-220,CHA,AWAY,BOS,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2011-03-26,24-221,CHA,HOME,NYK,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2011-03-28,24-223,CHA,HOME,MIL,W (+1),1,20:00,3,5,.600,0,0,,1,3,.333,0,6,6,0,0,1,1,1,7,5.0,-1,Tyrus Thomas
+2011-03-30,24-225,CHA,HOME,CLE,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2011-04-01,24-227,CHA,AWAY,ORL,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2011-04-03,24-229,CHA,HOME,WAS,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2011-04-05,24-231,CHA,AWAY,CLE,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2011-04-06,24-232,CHA,HOME,ORL,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2011-04-08,24-234,CHA,AWAY,MIA,L (-9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Tyrus Thomas
+2011-04-10,24-236,CHA,HOME,DET,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2011-04-11,24-237,CHA,AWAY,NJN,W (+2),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Tyrus Thomas
+2011-04-13,24-239,CHA,HOME,ATL,W (+11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2008-10-28,22-072,CHI,HOME,MIL,W (+13),1,41:26,5,10,.500,0,0,,5,8,.625,3,7,10,3,2,1,2,3,15,14.6,+3,Tyrus Thomas
+2008-10-31,22-075,CHI,AWAY,BOS,L (-16),1,28:51,2,17,.118,0,1,.000,7,8,.875,2,4,6,0,1,2,3,2,11,0.7,-19,Tyrus Thomas
+2008-11-01,22-076,CHI,HOME,MEM,W (+10),1,26:04,0,5,.000,0,0,,3,4,.750,2,3,5,0,1,5,3,2,3,2.1,+8,Tyrus Thomas
+2008-11-03,22-078,CHI,AWAY,ORL,L (-3),1,16:33,3,7,.429,0,0,,1,1,1.000,2,4,6,0,0,1,4,1,7,2.2,-16,Tyrus Thomas
+2008-11-05,22-080,CHI,AWAY,CLE,L (-14),1,14:49,0,1,.000,0,0,,1,2,.500,0,3,3,0,0,2,1,2,1,0.4,-5,Tyrus Thomas
+2008-11-07,22-082,CHI,HOME,PHO,W (+17),0,26:21,6,12,.500,0,0,,2,4,.500,1,6,7,1,2,2,1,4,14,11.2,+8,Tyrus Thomas
+2008-11-08,22-083,CHI,HOME,CLE,L (-9),1,23:24,3,10,.300,0,0,,1,2,.500,6,2,8,1,1,3,1,5,7,6.4,-20,Tyrus Thomas
+2008-11-11,22-086,CHI,HOME,ATL,L (-5),1,21:28,1,8,.125,0,0,,1,2,.500,2,3,5,1,1,1,3,3,3,-2.1,-9,Tyrus Thomas
+2008-11-13,22-088,CHI,HOME,DAL,W (+7),0,33:53,2,5,.400,0,0,,4,4,1.000,5,3,8,0,2,2,2,4,8,9.5,+17,Tyrus Thomas
+2008-11-15,22-090,CHI,HOME,IND,W (+13),0,6:10,0,3,.000,0,0,,0,0,,0,3,3,0,0,0,0,2,0,-2.0,-4,Tyrus Thomas
+2008-11-18,22-093,CHI,AWAY,LAL,L (-7),0,31:00,3,6,.500,0,0,,3,3,1.000,1,4,5,3,2,3,4,1,9,9.7,+2,Tyrus Thomas
+2008-11-19,22-094,CHI,AWAY,POR,L (-42),0,22:27,2,9,.222,0,0,,3,4,.750,4,3,7,2,2,1,3,3,7,4.7,-19,Tyrus Thomas
+2008-11-21,22-096,CHI,AWAY,GSW,W (+5),0,17:24,2,3,.667,0,0,,3,4,.750,1,0,1,1,2,1,1,3,7,7.2,+8,Tyrus Thomas
+2008-11-23,22-098,CHI,AWAY,DEN,L (-13),0,4:44,2,2,1.000,0,0,,0,0,,0,1,1,0,0,0,1,1,4,2.3,-9,Tyrus Thomas
+2008-11-24,22-099,CHI,AWAY,UTA,W (+1),0,23:01,1,4,.250,0,0,,0,0,,1,7,8,1,0,1,1,3,2,1.6,-1,Tyrus Thomas
+2008-11-26,22-101,CHI,AWAY,SAS,L (-10),0,7:54,1,2,.500,0,0,,0,0,,0,4,4,0,0,0,0,3,2,1.0,-2,Tyrus Thomas
+2008-11-30,22-105,CHI,AWAY,PHI,W (+11),0,24:40,3,5,.600,0,0,,2,4,.500,1,3,4,0,1,2,4,4,8,3.3,+10,Tyrus Thomas
+2008-12-02,22-107,CHI,HOME,PHI,L (-8),0,32:09,4,9,.444,0,0,,6,6,1.000,4,9,13,1,0,3,2,4,14,14.0,-8,Tyrus Thomas
+2008-12-03,22-108,CHI,AWAY,MIL,L (-7),0,22:21,3,6,.500,0,0,,1,2,.500,0,2,2,0,0,2,1,1,7,4.2,-1,Tyrus Thomas
+2008-12-06,22-111,CHI,HOME,WAS,W (+7),0,5:06,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.0,-3,Tyrus Thomas
+2008-12-12,22-117,CHI,AWAY,MEM,L (-7),0,7:09,1,2,.500,0,0,,0,0,,0,1,1,0,0,0,0,0,2,1.3,-10,Tyrus Thomas
+2008-12-13,22-118,CHI,HOME,NJN,W (+9),0,23:55,6,11,.545,0,0,,4,4,1.000,0,5,5,0,3,2,1,3,16,14.4,+12,Tyrus Thomas
+2008-12-16,22-121,CHI,AWAY,CHA,L (-9),0,35:09,9,16,.563,0,0,,4,4,1.000,3,6,9,1,1,2,0,4,22,19.8,-14,Tyrus Thomas
+2008-12-17,22-122,CHI,HOME,LAC,W (+6),0,5:12,1,2,.500,0,0,,0,0,,0,1,1,0,0,1,0,0,2,2.0,+1,Tyrus Thomas
+2008-12-19,22-124,CHI,AWAY,BOS,L (-18),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Tyrus Thomas
+2008-12-23,22-128,CHI,AWAY,DET,L (-6),0,34:02,5,8,.625,1,1,1.000,5,6,.833,3,9,12,2,1,2,0,4,16,19.0,+6,Tyrus Thomas
+2008-12-26,22-131,CHI,AWAY,MIA,L (-13),1,26:03,3,8,.375,0,0,,0,0,,1,5,6,0,4,1,2,2,6,5.7,-6,Tyrus Thomas
+2008-12-27,22-132,CHI,AWAY,ATL,L (-12),1,32:55,4,8,.500,0,0,,7,8,.875,2,7,9,2,2,3,2,4,15,16.0,0,Tyrus Thomas
+2008-12-29,22-134,CHI,AWAY,NJN,W (+13),1,20:15,3,9,.333,0,0,,1,2,.500,1,3,4,0,0,0,1,1,7,1.7,-7,Tyrus Thomas
+2008-12-31,22-136,CHI,HOME,ORL,L (-19),1,20:28,4,5,.800,0,0,,1,2,.500,0,2,2,0,0,0,2,1,9,4.9,-16,Tyrus Thomas
+2009-01-02,22-138,CHI,AWAY,CLE,L (-25),1,27:14,2,6,.333,0,0,,3,3,1.000,1,5,6,1,3,0,1,5,7,6.5,-13,Tyrus Thomas
+2009-01-03,22-139,CHI,HOME,MIN,L (-10),1,33:38,4,9,.444,0,1,.000,7,7,1.000,3,5,8,4,2,8,0,2,15,23.5,-11,Tyrus Thomas
+2009-01-06,22-142,CHI,HOME,SAC,W (+5),1,36:21,5,13,.385,0,0,,4,4,1.000,3,3,6,2,3,0,3,5,14,9.3,-6,Tyrus Thomas
+2009-01-09,22-145,CHI,HOME,WAS,W (+12),1,35:32,5,8,.625,0,0,,6,7,.857,3,7,10,2,2,2,1,3,16,18.8,+12,Tyrus Thomas
+2009-01-10,22-146,CHI,HOME,OKC,L (-11),1,25:36,2,6,.333,0,0,,2,2,1.000,1,1,2,0,0,4,0,2,6,5.6,0,Tyrus Thomas
+2009-01-12,22-148,CHI,HOME,POR,L (-14),1,24:29,0,0,,0,0,,3,5,.600,0,2,2,0,0,2,0,1,3,3.8,-8,Tyrus Thomas
+2009-01-14,22-150,CHI,AWAY,TOR,W (+4),1,21:32,3,8,.375,0,0,,0,0,,2,3,5,4,1,0,0,4,6,6.1,+7,Tyrus Thomas
+2009-01-15,22-151,CHI,HOME,CLE,W (+9),1,36:54,5,10,.500,0,1,.000,5,7,.714,1,6,7,2,0,4,2,5,15,11.9,+4,Tyrus Thomas
+2009-01-17,22-153,CHI,HOME,SAS,L (-5),1,18:41,3,8,.375,0,0,,1,2,.500,0,0,0,0,1,1,1,1,7,2.5,-10,Tyrus Thomas
+2009-01-19,22-155,CHI,AWAY,NYK,L (-4),1,34:36,8,11,.727,0,0,,3,3,1.000,3,7,10,0,0,3,5,3,19,14.6,-9,Tyrus Thomas
+2009-01-20,22-156,CHI,HOME,ATL,L (-3),1,19:04,2,7,.286,0,0,,2,2,1.000,1,0,1,0,0,4,1,5,6,2.4,-23,Tyrus Thomas
+2009-01-23,22-159,CHI,HOME,TOR,L (-20),1,26:35,4,8,.500,0,0,,0,0,,1,2,3,1,1,2,0,3,8,7.2,-33,Tyrus Thomas
+2009-01-25,22-161,CHI,AWAY,MIN,L (-1),1,27:18,3,5,.600,0,0,,5,6,.833,2,7,9,0,2,1,2,3,11,11.3,+3,Tyrus Thomas
+2009-01-28,22-164,CHI,AWAY,LAC,W (+20),1,31:25,5,15,.333,0,0,,6,6,1.000,6,4,10,1,2,1,3,2,16,12.5,+20,Tyrus Thomas
+2009-01-30,22-166,CHI,AWAY,SAC,W (+21),1,30:32,6,10,.600,0,0,,2,6,.333,3,7,10,3,3,2,0,2,14,17.7,+13,Tyrus Thomas
+2009-01-31,22-167,CHI,AWAY,PHO,W (+11),1,25:22,4,9,.444,0,0,,2,2,1.000,2,2,4,0,0,2,0,5,10,6.7,+18,Tyrus Thomas
+2009-02-03,22-170,CHI,AWAY,HOU,L (-7),1,37:25,5,15,.333,1,1,1.000,3,6,.500,3,10,13,4,1,3,3,4,14,10.7,-15,Tyrus Thomas
+2009-02-04,22-171,CHI,AWAY,NOH,W (+14),1,31:32,5,7,.714,0,0,,5,6,.833,2,8,10,0,2,3,2,5,15,15.6,+10,Tyrus Thomas
+2009-02-07,22-174,CHI,AWAY,DAL,L (-1),1,45:03,8,14,.571,1,1,1.000,6,7,.857,4,8,12,2,0,1,2,5,23,19.3,+1,Tyrus Thomas
+2009-02-10,22-177,CHI,HOME,DET,W (+5),1,41:11,6,14,.429,0,0,,10,13,.769,6,4,10,3,3,1,5,2,22,18.8,+4,Tyrus Thomas
+2009-02-12,22-179,CHI,HOME,MIA,L (-2),1,38:01,5,8,.625,0,0,,5,7,.714,0,8,8,3,1,2,6,4,15,9.9,+3,Tyrus Thomas
+2009-02-18,22-185,CHI,AWAY,MIL,W (+9),1,26:13,3,7,.429,0,0,,2,2,1.000,2,2,4,1,2,2,1,4,8,7.8,+4,Tyrus Thomas
+2009-02-20,22-187,CHI,HOME,DEN,W (+17),1,44:34,7,11,.636,0,0,,7,9,.778,3,9,12,2,3,3,3,4,21,22.0,+12,Tyrus Thomas
+2009-02-22,22-189,CHI,AWAY,IND,L (-7),1,30:36,6,10,.600,0,0,,4,4,1.000,1,4,5,0,1,2,2,3,16,12.5,-12,Tyrus Thomas
+2009-02-24,22-191,CHI,HOME,ORL,W (+18),1,23:59,5,9,.556,0,1,.000,1,1,1.000,0,3,3,1,2,1,1,0,11,10.0,-1,Tyrus Thomas
+2009-02-25,22-192,CHI,AWAY,NJN,L (-12),1,24:42,5,16,.313,0,0,,3,4,.750,5,6,11,1,1,2,2,1,13,9.4,-5,Tyrus Thomas
+2009-02-27,22-194,CHI,AWAY,WAS,L (-23),1,20:25,1,6,.167,0,0,,5,8,.625,3,1,4,0,0,1,0,3,7,3.9,-18,Tyrus Thomas
+2009-02-28,22-195,CHI,HOME,HOU,W (+3),1,27:39,9,16,.563,0,1,.000,1,3,.333,4,5,9,0,2,2,1,2,19,16.5,-13,Tyrus Thomas
+2009-03-03,22-198,CHI,AWAY,CHA,L (-16),1,37:12,6,11,.545,0,0,,2,2,1.000,4,8,12,0,3,3,3,2,14,15.2,-5,Tyrus Thomas
+2009-03-04,22-199,CHI,HOME,GSW,W (+22),1,27:09,4,10,.400,0,0,,0,0,,2,5,7,2,1,1,2,3,8,5.4,-2,Tyrus Thomas
+2009-03-06,22-201,CHI,HOME,MIL,W (+15),1,29:40,1,6,.167,0,0,,3,5,.600,1,7,8,1,0,2,2,2,5,2.5,+3,Tyrus Thomas
+2009-03-09,22-204,CHI,AWAY,MIA,L (-3),1,22:06,2,5,.400,0,0,,0,0,,1,4,5,0,0,1,4,4,4,-1.7,+4,Tyrus Thomas
+2009-03-11,22-206,CHI,AWAY,ORL,L (-28),1,36:34,4,13,.308,0,1,.000,1,1,1.000,0,5,5,1,2,2,2,5,9,3.1,-25,Tyrus Thomas
+2009-03-13,22-208,CHI,AWAY,PHI,L (-3),1,23:48,3,8,.375,0,0,,2,3,.667,1,4,5,1,2,1,0,3,8,7.3,-2,Tyrus Thomas
+2009-03-14,22-209,CHI,HOME,NOH,W (+18),1,22:53,4,11,.364,0,0,,0,0,,3,1,4,0,1,1,1,4,8,3.4,-3,Tyrus Thomas
+2009-03-17,22-212,CHI,HOME,BOS,W (+6),1,26:43,4,6,.667,0,0,,10,13,.769,0,5,5,0,0,2,2,4,18,13.5,-16,Tyrus Thomas
+2009-03-18,22-213,CHI,AWAY,OKC,W (+7),1,28:13,4,12,.333,0,0,,4,4,1.000,2,9,11,0,3,0,3,4,12,7.7,0,Tyrus Thomas
+2009-03-21,22-216,CHI,HOME,LAL,L (-8),1,41:46,7,13,.538,0,0,,1,3,.333,3,13,16,1,0,3,1,4,15,14.1,-8,Tyrus Thomas
+2009-03-23,22-218,CHI,AWAY,WAS,W (+2),1,28:37,4,10,.400,0,0,,0,0,,3,3,6,0,0,2,0,1,8,6.6,-2,Tyrus Thomas
+2009-03-24,22-219,CHI,HOME,DET,W (+8),1,39:58,7,13,.538,0,0,,4,5,.800,2,10,12,5,1,1,3,4,18,16.3,+13,Tyrus Thomas
+2009-03-26,22-221,CHI,HOME,MIA,W (+19),1,38:05,6,11,.545,0,0,,3,3,1.000,5,7,12,0,1,3,2,2,15,15.6,+17,Tyrus Thomas
+2009-03-28,22-223,CHI,HOME,IND,W (+6),1,32:00,7,10,.700,0,0,,4,6,.667,2,6,8,1,0,7,0,0,18,21.8,+1,Tyrus Thomas
+2009-03-29,22-224,CHI,AWAY,TOR,L (-5),1,36:20,4,11,.364,0,0,,3,4,.750,1,4,5,2,1,4,1,4,11,9.0,-3,Tyrus Thomas
+2009-03-31,22-226,CHI,AWAY,IND,L (-2),1,30:46,7,10,.700,0,0,,6,6,1.000,0,1,1,0,2,2,3,4,20,14.9,-9,Tyrus Thomas
+2009-04-04,22-230,CHI,HOME,NJN,W (+9),1,27:56,2,8,.250,0,0,,5,6,.833,2,3,5,3,1,3,1,1,9,9.9,+12,Tyrus Thomas
+2009-04-07,22-233,CHI,HOME,NYK,W (+7),1,35:03,7,12,.583,0,0,,4,5,.800,2,4,6,2,2,4,3,1,18,17.4,+3,Tyrus Thomas
+2009-04-09,22-235,CHI,HOME,PHI,W (+14),1,32:56,5,10,.500,0,0,,14,14,1.000,1,3,4,0,2,0,0,3,24,21.4,+8,Tyrus Thomas
+2009-04-11,22-237,CHI,HOME,CHA,W (+7),1,31:44,3,10,.300,0,0,,3,6,.500,2,4,6,0,2,2,2,1,9,5.6,+4,Tyrus Thomas
+2009-04-13,22-239,CHI,AWAY,DET,W (+3),1,33:48,6,12,.500,0,0,,1,2,.500,1,7,8,1,0,2,1,5,13,8.5,+1,Tyrus Thomas
+2009-04-15,22-241,CHI,HOME,TOR,L (-11),1,30:28,6,11,.545,0,0,,0,0,,0,8,8,0,1,3,1,1,12,10.8,-21,Tyrus Thomas
+2009-10-29,23-073,CHI,HOME,SAS,W (+7),1,26:22,5,10,.500,0,0,,3,5,.600,0,6,6,0,0,3,2,2,13,8.3,+9,Tyrus Thomas
+2009-10-30,23-074,CHI,AWAY,BOS,L (-28),1,23:40,3,7,.429,0,0,,4,9,.444,4,4,8,0,3,0,1,3,10,9.1,-19,Tyrus Thomas
+2009-11-01,23-076,CHI,AWAY,MIA,L (-8),1,21:05,1,4,.250,0,0,,2,2,1.000,1,5,6,1,0,3,0,0,4,6.6,+1,Tyrus Thomas
+2009-11-03,23-078,CHI,HOME,MIL,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2009-11-05,23-080,CHI,AWAY,CLE,W (+1),0,12:25,3,6,.500,0,0,,0,0,,0,1,1,0,0,1,0,2,6,3.2,+2,Tyrus Thomas
+2009-11-11,23-086,CHI,AWAY,TOR,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2009-11-14,23-089,CHI,HOME,PHI,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2009-11-17,23-092,CHI,AWAY,SAC,W (+14),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Tyrus Thomas
+2009-11-19,23-094,CHI,AWAY,LAL,L (-15),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Tyrus Thomas
+2009-11-21,23-096,CHI,AWAY,DEN,L (-19),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Tyrus Thomas
+2009-11-23,23-098,CHI,AWAY,POR,L (-24),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Tyrus Thomas
+2009-11-30,23-105,CHI,AWAY,MIL,L (-2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2009-12-02,23-107,CHI,HOME,DET,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2009-12-04,23-109,CHI,AWAY,CLE,L (-14),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Tyrus Thomas
+2009-12-05,23-110,CHI,HOME,TOR,L (-32),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2009-12-08,23-113,CHI,HOME,NJN,L (-2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2009-12-09,23-114,CHI,AWAY,ATL,L (-35),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2009-12-11,23-116,CHI,HOME,GSW,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2009-12-12,23-117,CHI,HOME,BOS,L (-26),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2009-12-15,23-120,CHI,HOME,LAL,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2009-12-17,23-122,CHI,HOME,NYK,W (+9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2009-12-19,23-124,CHI,HOME,ATL,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2009-12-21,23-126,CHI,HOME,SAC,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2009-12-22,23-127,CHI,AWAY,NYK,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tyrus Thomas
+2009-12-26,23-131,CHI,HOME,NOH,W (+11),0,32:15,10,17,.588,0,1,.000,1,3,.333,0,9,9,2,1,2,3,2,21,15.0,0,Tyrus Thomas
+2009-12-29,23-134,CHI,HOME,IND,W (+9),0,31:08,2,10,.200,0,0,,4,4,1.000,2,13,15,3,1,3,5,1,8,6.9,+2,Tyrus Thomas
+2009-12-31,23-136,CHI,AWAY,DET,W (+11),0,27:31,4,6,.667,0,0,,11,14,.786,4,3,7,2,2,1,3,1,19,19.6,-2,Tyrus Thomas
+2010-01-02,23-138,CHI,HOME,ORL,W (+8),0,14:59,3,7,.429,0,0,,0,0,,1,4,5,1,1,0,2,4,6,2.3,+1,Tyrus Thomas
+2010-01-04,23-140,CHI,HOME,OKC,L (-13),0,20:37,3,12,.250,0,0,,1,1,1.000,3,3,6,2,0,1,3,2,7,1.1,-16,Tyrus Thomas
+2010-01-05,23-141,CHI,AWAY,CHA,L (-5),0,22:48,2,5,.400,0,0,,2,6,.333,1,4,5,3,1,2,1,2,6,6.3,+2,Tyrus Thomas
+2010-01-08,23-144,CHI,AWAY,MIL,L (-3),0,29:19,1,4,.250,0,0,,2,2,1.000,0,5,5,2,1,1,1,2,4,4.4,-7,Tyrus Thomas
+2010-01-09,23-145,CHI,HOME,MIN,W (+14),0,21:42,3,7,.429,0,0,,3,4,.750,0,5,5,0,2,3,6,5,9,2.5,+3,Tyrus Thomas
+2010-01-11,23-147,CHI,HOME,DET,W (+33),0,26:09,3,6,.500,0,0,,1,1,1.000,2,4,6,1,6,2,0,1,7,14.3,+22,Tyrus Thomas
+2010-01-14,23-150,CHI,AWAY,BOS,W (+13),0,17:15,2,8,.250,0,0,,1,4,.250,6,1,7,1,4,0,1,3,5,6.0,-5,Tyrus Thomas
+2010-01-15,23-151,CHI,HOME,WAS,W (+2),0,27:33,1,1,1.000,0,0,,2,2,1.000,2,2,4,0,0,2,0,3,4,5.9,-3,Tyrus Thomas
+2010-01-18,23-154,CHI,AWAY,GSW,L (-17),0,19:48,2,7,.286,0,0,,0,0,,1,8,9,0,0,1,1,6,4,0.3,-6,Tyrus Thomas
+2010-01-20,23-156,CHI,AWAY,LAC,L (-7),0,36:19,8,11,.727,0,0,,2,4,.500,0,6,6,1,2,3,1,6,18,15.9,+1,Tyrus Thomas
+2010-01-22,23-158,CHI,AWAY,PHO,W (+11),0,20:56,1,7,.143,0,0,,1,2,.500,0,7,7,2,1,2,0,0,3,4.0,+6,Tyrus Thomas
+2010-01-23,23-159,CHI,AWAY,HOU,W (+7),0,23:35,3,5,.600,0,0,,1,2,.500,0,4,4,1,0,6,2,4,7,6.8,+3,Tyrus Thomas
+2010-01-25,23-161,CHI,AWAY,SAS,W (+5),0,21:33,1,4,.250,0,0,,0,0,,2,5,7,0,1,2,1,0,2,3.9,+3,Tyrus Thomas
+2010-01-27,23-163,CHI,AWAY,OKC,W (+10),0,18:32,6,8,.750,0,0,,1,1,1.000,3,2,5,1,1,2,5,3,13,9.4,+2,Tyrus Thomas
+2010-01-29,23-165,CHI,AWAY,NOH,W (+2),0,20:03,4,6,.667,0,0,,3,5,.600,1,3,4,2,1,1,1,1,11,10.9,-9,Tyrus Thomas
+2010-02-02,23-169,CHI,HOME,LAC,L (-8),0,15:00,1,5,.200,0,0,,7,8,.875,4,5,9,1,1,1,3,2,9,8.4,+7,Tyrus Thomas
+2010-02-03,23-170,CHI,AWAY,PHI,L (-3),0,15:22,6,8,.750,0,0,,0,2,.000,2,4,6,0,1,0,2,1,12,9.2,-4,Tyrus Thomas
+2010-02-05,23-172,CHI,AWAY,ATL,L (-10),0,15:44,2,4,.500,0,0,,0,0,,1,3,4,0,2,0,2,0,4,3.6,-1,Tyrus Thomas
+2010-02-09,23-176,CHI,AWAY,IND,W (+8),0,28:23,4,5,.800,0,0,,1,1,1.000,0,7,7,1,1,1,1,2,9,9.8,+9,Tyrus Thomas
+2010-02-10,23-177,CHI,HOME,ORL,L (-20),0,35:41,7,12,.583,0,0,,2,3,.667,1,5,6,4,2,1,2,2,16,14.9,-5,Tyrus Thomas
+2010-02-16,23-183,CHI,HOME,NYK,W (+33),0,30:29,4,6,.667,0,0,,3,4,.750,0,8,8,2,3,3,2,2,11,14.1,+14,Tyrus Thomas
+2010-02-17,23-184,CHI,AWAY,NYK,W (+6),0,21:53,4,7,.571,0,0,,0,1,.000,1,5,6,0,2,1,1,2,8,7.4,0,Tyrus Thomas
+2010-02-19,23-186,CHA,HOME,CLE,W (+17),0,25:12,3,9,.333,0,0,,3,4,.750,1,11,12,2,0,6,2,4,9,9.5,+12,Tyrus Thomas
+2010-02-20,23-187,CHA,AWAY,MIL,L (-5),0,30:54,5,10,.500,0,0,,2,2,1.000,3,8,11,2,1,4,4,5,12,10.7,+7,Tyrus Thomas
+2010-02-22,23-189,CHA,AWAY,LAC,L (-4),0,25:12,5,9,.556,0,1,.000,0,0,,1,3,4,0,2,3,2,4,10,7.8,-13,Tyrus Thomas
+2010-02-24,23-191,CHA,AWAY,UTA,L (-9),0,30:55,6,8,.750,0,0,,8,9,.889,0,3,3,2,3,1,1,5,20,19.4,+9,Tyrus Thomas
+2010-02-26,23-193,CHA,AWAY,MEM,W (+4),0,21:51,6,7,.857,0,0,,1,4,.250,2,3,5,3,0,3,3,2,13,12.0,+1,Tyrus Thomas
+2010-03-01,23-196,CHA,HOME,DAL,L (-5),0,29:26,7,16,.438,0,1,.000,2,2,1.000,3,9,12,1,1,2,2,4,16,11.9,-8,Tyrus Thomas
+2010-03-03,23-198,CHA,AWAY,BOS,L (-24),0,26:37,5,12,.417,0,0,,5,6,.833,3,7,10,0,1,2,2,5,15,10.8,-21,Tyrus Thomas
+2010-03-05,23-200,CHA,HOME,LAL,W (+15),0,31:17,7,12,.583,0,0,,0,0,,2,7,9,0,0,2,1,4,14,10.7,+1,Tyrus Thomas
+2010-03-06,23-201,CHA,HOME,GSW,W (+11),0,18:20,2,8,.250,0,0,,1,2,.500,2,3,5,3,0,0,1,5,5,1.2,-5,Tyrus Thomas
+2010-03-09,23-204,CHA,HOME,MIA,W (+5),0,26:30,2,7,.286,0,0,,2,4,.500,2,2,4,0,1,1,1,1,6,3.4,+7,Tyrus Thomas
+2010-03-10,23-205,CHA,AWAY,PHI,W (+15),0,23:49,4,6,.667,0,0,,2,4,.500,0,5,5,3,2,1,3,2,10,9.1,-6,Tyrus Thomas
+2010-03-12,23-207,CHA,HOME,LAC,W (+8),0,18:27,3,8,.375,0,0,,0,1,.000,0,4,4,3,2,0,0,1,6,6.1,-1,Tyrus Thomas
+2010-03-14,23-209,CHA,AWAY,ORL,W (+7),0,20:40,3,9,.333,0,0,,3,4,.750,2,7,9,0,2,0,2,3,9,5.8,-7,Tyrus Thomas
+2010-03-16,23-211,CHA,AWAY,IND,L (-5),0,24:22,5,9,.556,0,0,,4,7,.571,3,2,5,0,0,0,1,1,14,9.8,-10,Tyrus Thomas
+2010-03-17,23-212,CHA,HOME,OKC,W (+8),0,20:58,4,11,.364,0,0,,3,6,.500,1,8,9,0,2,2,1,1,11,8.8,+7,Tyrus Thomas
+2010-03-19,23-214,CHA,AWAY,ATL,L (-1),0,20:24,5,10,.500,0,0,,1,1,1.000,1,3,4,0,0,0,2,1,11,5.2,-8,Tyrus Thomas
+2010-03-20,23-215,CHA,AWAY,MIA,L (-6),0,13:14,0,4,.000,0,0,,3,4,.750,1,2,3,0,0,1,2,1,3,-0.6,-6,Tyrus Thomas
+2010-03-23,23-218,CHA,AWAY,WAS,W (+9),0,20:02,3,8,.375,0,0,,1,2,.500,3,4,7,0,0,1,2,1,7,3.8,-4,Tyrus Thomas
+2010-03-24,23-219,CHA,HOME,MIN,W (+13),0,18:59,3,6,.500,0,0,,2,2,1.000,3,5,8,1,3,3,0,4,8,12.8,+21,Tyrus Thomas
+2010-03-26,23-221,CHA,HOME,WAS,W (+11),0,15:38,2,9,.222,0,0,,0,0,,1,3,4,0,0,0,2,1,4,-2.3,-16,Tyrus Thomas
+2010-04-02,23-228,CHA,HOME,MIL,W (+1),0,3:26,0,0,,0,0,,2,2,1.000,0,1,1,1,0,0,0,0,2,3.0,-6,Tyrus Thomas
+2010-04-03,23-229,CHA,AWAY,CHI,L (-8),0,15:59,4,7,.571,0,0,,2,3,.667,2,1,3,0,1,2,1,1,10,9.0,+11,Tyrus Thomas
+2010-04-06,23-232,CHA,HOME,ATL,W (+9),0,11:30,2,5,.400,0,0,,4,4,1.000,1,2,3,0,0,0,2,2,8,3.8,-9,Tyrus Thomas
+2010-04-12,23-238,CHA,AWAY,NJN,W (+10),0,22:01,4,13,.308,0,0,,5,5,1.000,0,3,3,1,0,1,2,4,13,4.2,+13,Tyrus Thomas
+2010-04-14,23-240,CHA,HOME,CHI,L (-9),0,26:33,5,12,.417,0,0,,6,7,.857,2,7,9,1,2,2,1,3,16,14.6,-9,Tyrus Thomas
+2015-01-27,28-163,MEM,AWAY,DAL,W (+19),0,1:25,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1,Tyrus Thomas
+2015-01-29,28-165,MEM,HOME,DEN,W (+30),0,5:06,1,1,1.000,0,0,,2,2,1.000,0,0,0,1,0,0,0,0,4,4.4,0,Tyrus Thomas

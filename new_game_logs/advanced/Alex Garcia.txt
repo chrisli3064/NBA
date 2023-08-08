@@ -1,0 +1,18 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+2004-01-05,23-307,SAS,AWAY,DEN,W (+24),0,7:00,0.0,0.0,0.0,0.0,0.0,0.0,15.2,0.0,20.0,32.1,0,61,-1.8,-16.4,Alex Garcia
+2004-01-06,23-308,SAS,HOME,WAS,W (+22),0,5:41,0.387,0.333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.3,86,92,0.9,-10.2,Alex Garcia
+2004-11-03,24-244,NOH,HOME,DAL,L (-15),0,2:18,.500,.500,54.5,0.0,30.8,0.0,0.0,0.0,33.3,66.6,73,127,0.7,-11.1,Alex Garcia
+2004-11-13,24-254,NOH,AWAY,MIL,L (-3),0,18:10,.700,.700,0.0,6.3,3.3,33.3,0.0,0.0,16.7,15.5,132,113,6.8,6.2,Alex Garcia
+2004-11-17,24-258,NOH,HOME,PHO,L (-11),0,18:13,.400,.400,0.0,32.3,13.3,15.4,0.0,4.8,0.0,12.7,115,114,4.6,0.7,Alex Garcia
+2004-11-20,24-261,NOH,HOME,MIN,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Alex Garcia
+2004-11-26,24-267,NOH,AWAY,PHO,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Alex Garcia
+2004-11-28,24-269,NOH,AWAY,LAL,L (-13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Alex Garcia
+2004-11-29,24-270,NOH,AWAY,DEN,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Alex Garcia
+2004-12-01,24-272,NOH,HOME,SAC,L (-13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Alex Garcia
+2004-12-04,24-275,NOH,HOME,DET,L (-23),0,26:34,.698,.643,3.6,0.0,2.2,21.6,0.0,0.0,20.2,17.4,114,113,6.5,1.1,Alex Garcia
+2004-12-07,24-278,NOH,AWAY,HOU,L (-8),0,20:03,.167,.167,6.9,6.9,6.9,37.5,3.0,0.0,14.3,18.0,60,111,1.2,-6.4,Alex Garcia
+2004-12-08,24-279,NOH,HOME,NYK,L (-7),1,20:35,.190,.143,13.7,0.0,7.5,25.7,0.0,0.0,0.0,17.5,74,108,1.1,-8.1,Alex Garcia
+2004-12-10,24-281,NOH,AWAY,NJN,L (-3),1,22:10,.346,.346,5.6,7.8,6.5,19.8,2.7,0.0,7.1,31.7,80,109,2.3,-12.1,Alex Garcia
+2004-12-12,24-283,NOH,AWAY,WAS,L (-19),1,17:33,.429,.429,0.0,5.2,2.8,0.0,5.5,0.0,22.2,22.0,63,87,1.8,-3.2,Alex Garcia
+2004-12-15,24-286,NOH,HOME,GSW,W (+9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Alex Garcia
+2004-12-19,24-290,NOH,AWAY,SAC,L (-36),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Alex Garcia

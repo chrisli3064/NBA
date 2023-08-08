@@ -1,0 +1,24 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2023-04-19,30-275,MIL,HOME,MIA,W (+16),0,1:16,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4,Thanasis Antetokounmpo
+2023-04-22,30-278,MIL,AWAY,MIA,L (-22),0,3:56,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+4,Thanasis Antetokounmpo
+2022-04-22,29-278,MIL,AWAY,CHI,W (+30),0,8:39,2,3,.667,0,0,,0,1,.000,0,0,0,1,1,0,0,3,4,2.8,-2,Thanasis Antetokounmpo
+2022-04-24,29-280,MIL,AWAY,CHI,W (+24),0,2:47,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2,Thanasis Antetokounmpo
+2022-04-27,29-283,MIL,HOME,CHI,W (+16),0,1:42,0,0,,0,0,,0,0,,0,2,2,0,0,0,0,0,0,0.6,-5,Thanasis Antetokounmpo
+2022-05-01,29-287,MIL,AWAY,BOS,W (+12),0,1:12,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Thanasis Antetokounmpo
+2022-05-03,29-289,MIL,AWAY,BOS,L (-23),0,1:52,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-2,Thanasis Antetokounmpo
+2022-05-09,29-295,MIL,HOME,BOS,L (-8),0,0:43,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2,Thanasis Antetokounmpo
+2022-05-13,29-299,MIL,HOME,BOS,L (-13),0,1:24,0,0,,0,0,,1,2,.500,0,1,1,0,0,0,0,0,1,0.9,0,Thanasis Antetokounmpo
+2022-05-15,29-301,MIL,AWAY,BOS,L (-28),0,2:03,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.7,-4,Thanasis Antetokounmpo
+2021-06-05,28-322,MIL,AWAY,BRK,L (-8),0,3:40,0,0,,0,0,,1,2,.500,1,1,2,2,0,0,0,1,1,2.6,+11,Thanasis Antetokounmpo
+2021-06-07,28-324,MIL,AWAY,BRK,L (-39),0,9:27,0,1,.000,0,0,,2,2,1.000,0,0,0,0,0,0,1,2,2,-0.5,-9,Thanasis Antetokounmpo
+2021-06-10,28-327,MIL,HOME,BRK,W (+3),0,0:25,0,0,,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0.7,0,Thanasis Antetokounmpo
+2021-06-13,28-330,MIL,HOME,BRK,W (+11),0,3:49,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-4,Thanasis Antetokounmpo
+2021-06-15,28-332,MIL,AWAY,BRK,L (-6),0,1:28,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,+1,Thanasis Antetokounmpo
+2021-06-17,28-334,MIL,HOME,BRK,W (+15),0,4:49,0,1,.000,0,0,,2,2,1.000,0,1,1,0,1,1,1,0,2,2.3,-6,Thanasis Antetokounmpo
+2021-06-19,28-336,MIL,AWAY,BRK,W (+4),0,0:51,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,-2,Thanasis Antetokounmpo
+2021-06-25,28-342,MIL,HOME,ATL,W (+34),0,9:57,1,2,.500,0,0,,0,0,,1,1,2,0,1,0,0,2,2,2.2,-2,Thanasis Antetokounmpo
+2021-06-27,28-344,MIL,AWAY,ATL,W (+11),0,0:21,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1,Thanasis Antetokounmpo
+2021-06-29,28-346,MIL,AWAY,ATL,L (-22),0,4:19,1,1,1.000,0,0,,0,0,,0,1,1,1,1,0,1,0,2,2.7,+2,Thanasis Antetokounmpo
+2021-07-01,28-348,MIL,HOME,ATL,W (+11),0,3:16,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,3,0,-0.2,-4,Thanasis Antetokounmpo
+2021-07-03,28-350,MIL,AWAY,ATL,W (+11),0,0:50,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,0,0,1.0,0,Thanasis Antetokounmpo
+2021-07-11,28-358,MIL,HOME,PHO,W (+20),0,1:33,0,2,.000,0,0,,0,0,,1,2,3,0,0,0,0,1,0,-0.5,+1,Thanasis Antetokounmpo

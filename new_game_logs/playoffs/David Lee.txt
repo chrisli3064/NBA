@@ -1,0 +1,48 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2013-04-20,29-356,GSW,AWAY,DEN,L (-2),1,28:58,4,14,.286,0,0,,2,4,.500,2,12,14,2,0,1,4,1,10,3.7,-2,David Lee
+2013-04-23,29-359,GSW,AWAY,DEN,W (+14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,David Lee
+2013-04-26,29-362,GSW,HOME,DEN,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,David Lee
+2013-05-02,30-003,GSW,HOME,DEN,W (+4),0,1:27,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,+1,David Lee
+2013-05-10,30-011,GSW,HOME,SAS,L (-10),0,3:00,2,3,.667,0,0,,1,1,1.000,1,1,2,0,0,0,0,0,5,4.7,+5,David Lee
+2013-05-12,30-013,GSW,HOME,SAS,W (+10),0,7:49,0,2,.000,0,0,,0,0,,1,4,5,0,1,0,0,2,0,0.7,-12,David Lee
+2013-05-14,30-015,GSW,AWAY,SAS,L (-18),0,11:40,3,3,1.000,0,0,,0,0,,0,1,1,1,1,0,0,0,6,7.1,-3,David Lee
+2013-05-16,30-017,GSW,HOME,SAS,L (-12),0,12:24,4,10,.400,0,0,,1,1,1.000,2,3,5,2,1,0,1,2,9,6.5,-3,David Lee
+2017-04-15,33-351,SAS,HOME,MEM,W (+29),0,15:13,2,5,.400,0,1,.000,1,2,.500,1,3,4,0,0,2,0,1,5,4.5,+22,David Lee
+2017-04-17,33-353,SAS,HOME,MEM,W (+14),0,13:53,0,0,,0,0,,2,2,1.000,1,3,4,1,0,1,0,0,2,5.0,0,David Lee
+2017-04-20,33-356,SAS,AWAY,MEM,L (-11),0,15:51,0,3,.000,0,0,,0,0,,0,2,2,0,0,0,1,5,0,-4.5,-9,David Lee
+2017-04-22,33-358,SAS,AWAY,MEM,L (-2),1,33:05,3,5,.600,0,0,,2,2,1.000,2,3,5,2,1,0,0,4,8,8.8,-15,David Lee
+2017-04-25,33-361,SAS,HOME,MEM,W (+13),1,25:57,5,6,.833,0,0,,1,1,1.000,2,6,8,1,1,0,0,3,11,12.5,-1,David Lee
+2017-04-27,33-363,SAS,AWAY,MEM,W (+7),1,26:19,3,4,.750,0,0,,1,2,.500,3,3,6,1,0,0,1,2,7,6.9,+5,David Lee
+2017-05-01,34-002,SAS,HOME,HOU,L (-27),1,28:32,0,2,.000,0,0,,4,6,.667,2,5,7,0,0,0,1,1,4,3.3,-10,David Lee
+2017-05-03,34-004,SAS,HOME,HOU,W (+25),0,10:46,2,3,.667,0,0,,0,0,,2,0,2,2,0,0,0,1,4,5.1,+7,David Lee
+2017-05-05,34-006,SAS,AWAY,HOU,W (+11),0,16:29,2,2,1.000,0,0,,0,0,,0,1,1,2,1,0,1,0,4,5.1,+8,David Lee
+2017-05-07,34-008,SAS,AWAY,HOU,L (-21),0,17:23,1,5,.200,0,0,,0,0,,1,3,4,0,1,0,1,0,2,0.5,+1,David Lee
+2017-05-09,34-010,SAS,HOME,HOU,W (+3),0,10:49,3,4,.750,0,0,,0,0,,1,2,3,0,0,1,0,2,6,5.6,+3,David Lee
+2017-05-11,34-012,SAS,AWAY,HOU,W (+39),0,8:29,1,2,.500,0,0,,0,1,.000,0,2,2,1,0,1,0,0,2,2.6,+17,David Lee
+2017-05-14,34-015,SAS,AWAY,GSW,L (-2),0,15:32,0,1,.000,0,0,,0,0,,3,4,7,1,0,0,1,0,0,2.3,+15,David Lee
+2017-05-16,34-017,SAS,AWAY,GSW,L (-36),0,4:34,1,3,.333,0,0,,0,1,.000,2,0,2,0,0,0,0,0,2,1.3,-7,David Lee
+2017-05-20,34-021,SAS,HOME,GSW,L (-12),0,2:19,2,3,.667,0,0,,0,0,,0,0,0,0,0,0,0,1,4,2.3,+5,David Lee
+2016-04-16,32-353,DAL,AWAY,OKC,L (-38),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,David Lee
+2016-04-21,32-358,DAL,HOME,OKC,L (-29),0,16:54,3,3,1.000,0,0,,0,0,,0,2,2,0,0,0,0,2,6,4.9,-18,David Lee
+2016-04-23,32-360,DAL,HOME,OKC,L (-11),0,15:39,3,5,.600,0,0,,0,0,,1,3,4,1,0,0,0,5,6,4.0,-1,David Lee
+2016-04-25,32-362,DAL,AWAY,OKC,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,David Lee
+2014-04-19,30-355,GSW,AWAY,LAC,W (+4),1,35:34,8,13,0.615,0,0,,4,4,1.0,3,10,13,3,1,0,6,4,20,14.7,3,David Lee
+2014-04-21,30-357,GSW,AWAY,LAC,L (-40),1,20:07,4,8,0.5,0,0,,3,4,0.75,1,3,4,0,0,0,4,2,11,3.4,-29,David Lee
+2014-04-24,30-360,GSW,HOME,LAC,L (-2),1,32:01,6,15,0.4,0,0,,0,0,,8,1,9,4,0,0,0,3,12,11.4,0,David Lee
+2014-04-27,30-363,GSW,HOME,LAC,W (+21),1,37:38,7,11,0.636,0,0,,1,1,1.0,0,6,6,2,2,0,2,5,15,11.3,30,David Lee
+2014-04-29,31-000,GSW,AWAY,LAC,L (-10),1,27:39,8,13,0.615,0,0,,2,4,0.5,5,5,10,4,0,0,1,5,18,16.1,3,David Lee
+2014-05-01,31-002,GSW,HOME,LAC,W (+1),1,26:01,4,8,0.5,0,0,,0,0,,3,6,9,2,1,0,1,6,8,6.9,1,David Lee
+2014-05-03,31-004,GSW,AWAY,LAC,L (-5),1,38:25,4,9,0.444,0,0,,5,6,0.833,4,9,13,3,0,0,3,3,13,11.3,7,David Lee
+2015-05-03,32-004,GSW,HOME,MEM,W (+15),0,3:35,0,3,.000,0,0,,0,0,,2,0,2,0,0,0,0,0,0,-0.7,+2,David Lee
+2015-05-05,32-006,GSW,HOME,MEM,L (-7),0,5:10,0,2,.000,0,0,,1,2,.500,0,2,2,0,0,0,0,0,1,-0.2,-1,David Lee
+2015-05-11,32-012,GSW,AWAY,MEM,W (+17),0,14:37,2,5,.400,0,0,,1,2,.500,1,0,1,1,0,1,0,3,5,2.8,+4,David Lee
+2015-05-13,32-014,GSW,HOME,MEM,W (+20),0,17:26,3,7,.429,0,0,,0,0,,2,5,7,1,1,0,0,3,6,5.7,+18,David Lee
+2015-05-15,32-016,GSW,AWAY,MEM,W (+13),0,14:12,1,3,.333,0,0,,0,0,,2,3,5,0,0,1,0,2,2,2.5,-8,David Lee
+2015-05-19,32-020,GSW,HOME,HOU,W (+4),0,4:24,1,3,.333,0,0,,0,0,,1,2,3,0,0,0,0,0,2,1.6,-7,David Lee
+2015-05-23,32-024,GSW,AWAY,HOU,W (+35),0,4:38,1,2,.500,0,0,,0,0,,1,2,3,0,0,0,0,0,2,2.3,+4,David Lee
+2015-05-25,32-026,GSW,AWAY,HOU,L (-13),0,3:21,0,0,,0,0,,0,0,,0,1,1,0,1,0,1,1,0,-0.1,+4,David Lee
+2015-05-27,32-028,GSW,HOME,HOU,W (+14),0,0:19,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2,David Lee
+2015-06-09,32-041,GSW,AWAY,CLE,L (-5),0,13:17,4,4,1.000,0,0,,3,5,.600,2,2,4,2,1,0,0,5,11,11.4,+17,David Lee
+2015-06-11,32-043,GSW,AWAY,CLE,W (+21),0,15:28,3,7,.429,0,0,,3,6,.500,0,5,5,3,0,0,0,1,9,7.3,+4,David Lee
+2015-06-14,32-046,GSW,HOME,CLE,W (+13),0,9:01,1,3,.333,0,0,,0,0,,0,1,1,1,0,0,1,2,2,-0.5,-7,David Lee
+2015-06-16,32-048,GSW,AWAY,CLE,W (+8),0,1:13,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+2,David Lee

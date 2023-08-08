@@ -1,0 +1,6 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+2021-12-22,22-364,LAC,AWAY,SAC,W (+16),0,1:28,,,0.0,0.0,0.0,77.9,0.0,0.0,,0.0,217,103,0.7,24.2,Moses Wright
+2021-12-27,23-004,LAC,HOME,BRK,L (-16),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Moses Wright
+2022-03-23,23-090,DAL,HOME,HOU,W (+19),0,3:18,.436,.333,35.5,0.0,16.7,0.0,0.0,0.0,0.0,46.5,107,105,2.0,-6.8,Moses Wright
+2022-03-29,23-096,DAL,HOME,LAL,W (+18),0,2:08,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.6,0,128,-0.7,-32.7,Moses Wright
+2022-04-10,23-108,DAL,HOME,SAS,W (+10),0,7:50,1.136,,0.0,30.6,15.7,13.3,0.0,10.6,0.0,4.9,248,114,4.0,11.3,Moses Wright

@@ -1,0 +1,33 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2001-04-22,33-032,MIL,HOME,ORL,W (+13),1,26:48,8,11,.727,0,0,,3,4,.750,7,9,16,0,2,1,4,3,19,19.2,+18,Scott Williams
+2001-04-25,33-035,MIL,HOME,ORL,W (+7),1,20:51,4,10,.400,0,0,,0,0,,5,3,8,0,0,0,0,3,8,5.8,+8,Scott Williams
+2001-04-28,33-038,MIL,AWAY,ORL,L (-5),1,19:08,4,6,.667,0,0,,2,4,.500,1,4,5,1,1,0,1,4,10,7.6,-8,Scott Williams
+2001-05-01,33-041,MIL,AWAY,ORL,W (+8),1,21:04,3,6,.500,0,0,,2,4,.500,3,6,9,1,1,2,0,3,8,10.0,+3,Scott Williams
+2001-05-06,33-046,MIL,HOME,CHH,W (+12),1,21:11,4,8,.500,0,0,,0,0,,1,6,7,0,1,2,0,3,8,7.7,-5,Scott Williams
+2001-05-08,33-048,MIL,HOME,CHH,W (+1),1,21:47,4,6,.667,0,0,,0,2,.000,3,6,9,0,0,3,1,3,8,8.4,+1,Scott Williams
+2001-05-10,33-050,MIL,AWAY,CHH,L (-10),1,23:30,6,10,.600,0,0,,1,2,.500,3,7,10,2,1,1,0,5,13,13.3,-9,Scott Williams
+2001-05-13,33-053,MIL,AWAY,CHH,L (-7),1,16:25,4,5,.800,0,0,,0,2,.000,2,3,5,0,0,1,1,2,8,6.5,-11,Scott Williams
+2001-05-15,33-055,MIL,HOME,CHH,L (-8),1,20:08,2,7,.286,0,0,,0,0,,2,3,5,1,0,0,0,3,4,1.7,-6,Scott Williams
+2001-05-17,33-057,MIL,AWAY,CHH,W (+7),1,25:16,4,9,.444,0,0,,0,0,,1,4,5,0,2,1,1,4,8,5.3,+13,Scott Williams
+2001-05-20,33-060,MIL,HOME,CHH,W (+9),1,26:48,4,8,.500,0,0,,5,6,.833,1,7,8,2,0,3,1,4,13,12.3,+1,Scott Williams
+2001-05-22,33-062,MIL,AWAY,PHI,L (-8),1,22:29,1,3,.333,0,0,,0,0,,3,4,7,2,0,3,0,4,2,5.5,+4,Scott Williams
+2001-05-24,33-064,MIL,AWAY,PHI,W (+14),1,24:00,2,8,.250,0,0,,1,2,.500,2,3,5,0,1,0,0,3,5,1.9,+16,Scott Williams
+2001-05-26,33-066,MIL,HOME,PHI,W (+6),1,27:57,1,6,.167,0,0,,2,2,1.000,2,6,8,1,0,2,0,5,4,3.5,+9,Scott Williams
+2001-05-28,33-068,MIL,HOME,PHI,L (-6),1,25:28,2,6,.333,0,0,,0,0,,4,3,7,0,0,4,0,0,4,7.1,-8,Scott Williams
+2001-05-30,33-070,MIL,AWAY,PHI,L (-1),1,10:10,0,1,.000,0,0,,0,0,,1,0,1,1,0,0,2,4,0,-2.9,-2,Scott Williams
+2001-06-01,33-072,MIL,HOME,PHI,W (+10),1,25:29,6,10,.600,0,0,,0,0,,4,3,7,1,2,1,1,3,12,12.3,+10,Scott Williams
+2001-06-03,33-074,MIL,AWAY,PHI,L (-17),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Scott Williams
+2003-04-19,35-029,PHO,AWAY,SAS,W (+1),1,13:25,1,3,0.333,0,0,,0,0,,1,3,4,0,1,0,1,2,2,1.1,-3,Scott Williams
+2003-04-21,35-031,PHO,AWAY,SAS,L (-8),1,12:04,2,6,0.333,0,0,,0,0,,0,1,1,1,1,0,0,2,4,1.8,-2,Scott Williams
+2003-04-25,35-035,PHO,HOME,SAS,L (-13),1,15:20,2,3,0.667,0,0,,0,0,,0,3,3,0,1,1,0,4,4,3.7,4,Scott Williams
+2003-04-27,35-037,PHO,HOME,SAS,W (+2),1,25:37,5,14,0.357,0,0,,2,2,1.0,4,1,5,0,1,2,0,5,12,7.7,1,Scott Williams
+2003-04-29,35-039,PHO,AWAY,SAS,L (-12),1,7:12,0,1,0.0,0,0,,0,0,,0,1,1,0,0,0,0,2,0,-1.2,-8,Scott Williams
+2003-05-01,35-041,PHO,HOME,SAS,L (-2),1,10:17,1,5,0.2,0,0,,0,0,,1,0,1,0,0,0,0,2,2,-1.2,-1,Scott Williams
+2004-04-20,36-030,DAL,AWAY,SAC,L (-4),0,2:11,0,2,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-1.4,0,Scott Williams
+2004-04-24,36-034,DAL,HOME,SAC,W (+25),0,7:56,0,2,.000,0,0,,0,0,,2,1,3,0,0,1,0,3,0,-0.2,-4,Scott Williams
+2004-04-26,36-036,DAL,HOME,SAC,L (-2),0,0:49,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,0,Scott Williams
+2000-04-23,32-033,MIL,AWAY,IND,L (-3),0,19:47,3,6,0.5,0,0,,0,0,,3,3,6,1,0,4,2,4,6,5.9,2,Scott Williams
+2000-04-27,32-037,MIL,AWAY,IND,W (+13),0,18:26,7,11,0.636,0,0,,1,1,1.0,1,5,6,1,0,0,1,5,15,10.0,2,Scott Williams
+2000-04-29,32-039,MIL,HOME,IND,L (-13),0,13:40,1,3,0.333,0,0,,0,0,,2,1,3,0,0,0,1,2,2,0.2,-12,Scott Williams
+2000-05-01,32-041,MIL,HOME,IND,W (+13),0,25:27,9,13,0.692,0,0,,2,2,1.0,2,6,8,0,2,1,0,3,20,19.2,19,Scott Williams
+2000-05-04,32-044,MIL,AWAY,IND,L (-1),0,15:40,3,3,1.0,0,0,,2,3,0.667,1,4,5,0,0,0,0,2,8,7.8,2,Scott Williams

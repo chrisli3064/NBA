@@ -1,0 +1,151 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2014-11-19,25-180,CHO,AWAY,IND,L (-2),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Jeff Taylor
+2014-11-21,25-182,CHO,HOME,ORL,L (-5),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Jeff Taylor
+2014-11-23,25-184,CHO,AWAY,MIA,L (-1),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Jeff Taylor
+2014-11-24,25-185,CHO,HOME,LAC,L (-21),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Jeff Taylor
+2014-11-26,25-187,CHO,HOME,POR,L (-8),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Jeff Taylor
+2014-12-20,25-211,CHO,HOME,UTA,W (+18),0,3:23,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3,Jeff Taylor
+2014-12-22,25-213,CHO,HOME,DEN,W (+28),0,5:34,0,2,.000,0,1,.000,0,2,.000,0,0,0,0,0,0,0,2,0,-3.0,+1,Jeff Taylor
+2014-12-26,25-217,CHO,AWAY,OKC,L (-23),0,9:05,1,5,.200,0,2,.000,1,2,.500,2,2,4,0,0,0,0,1,3,1.1,+1,Jeff Taylor
+2015-01-10,25-232,CHO,AWAY,NYK,W (+28),0,12:00,1,3,.333,0,0,,0,0,,1,2,3,2,0,0,2,2,2,0.2,-17,Jeff Taylor
+2015-01-19,25-241,CHO,HOME,MIN,W (+25),0,6:55,3,4,.750,2,2,1.000,1,4,.250,1,1,2,0,0,0,0,1,9,6.8,-3,Jeff Taylor
+2015-01-23,25-245,CHO,AWAY,CLE,L (-39),0,6:43,2,3,.667,0,0,,2,2,1.000,0,0,0,2,2,0,0,0,6,8.1,+10,Jeff Taylor
+2015-01-31,25-253,CHO,AWAY,DEN,W (+18),0,9:03,2,4,.500,0,0,,0,2,.000,0,1,1,0,0,0,1,0,4,0.5,-14,Jeff Taylor
+2015-02-07,25-260,CHO,AWAY,PHI,L (-8),0,7:13,2,3,.667,1,2,.500,1,1,1.000,0,1,1,1,0,0,1,0,6,4.7,+1,Jeff Taylor
+2015-02-08,25-261,CHO,HOME,IND,L (-1),1,21:46,2,4,.500,1,2,.500,1,2,.500,0,2,2,1,1,0,1,3,6,3.7,0,Jeff Taylor
+2015-02-10,25-263,CHO,HOME,DET,L (-28),1,31:21,5,8,.625,2,4,.500,0,0,,1,2,3,1,0,1,1,1,12,9.7,-15,Jeff Taylor
+2015-02-21,25-274,CHO,HOME,OKC,L (-7),0,3:21,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,0,0,-1.7,-9,Jeff Taylor
+2015-02-22,25-275,CHO,AWAY,DAL,L (-11),0,5:47,0,2,.000,0,1,.000,4,4,1.000,1,1,2,0,0,0,1,2,4,1.8,-7,Jeff Taylor
+2015-03-03,25-284,CHO,HOME,LAL,W (+1),0,5:52,1,1,1.000,0,0,,1,1,1.000,0,0,0,0,1,0,0,1,3,3.3,-8,Jeff Taylor
+2015-03-04,25-285,CHO,AWAY,BRK,W (+24),0,6:21,0,2,.000,0,2,.000,0,0,,0,1,1,1,0,0,0,1,0,-0.8,-8,Jeff Taylor
+2015-03-08,25-289,CHO,AWAY,DET,W (+7),0,3:29,0,2,.000,0,0,,0,0,,0,0,0,0,1,0,0,1,0,-0.8,-3,Jeff Taylor
+2015-03-09,25-290,CHO,HOME,WAS,L (-26),0,4:36,0,2,.000,0,0,,0,0,,0,1,1,0,0,0,1,0,0,-2.1,-6,Jeff Taylor
+2015-03-16,25-297,CHO,AWAY,UTA,L (-28),0,12:00,0,6,.000,0,1,.000,0,0,,0,2,2,0,1,0,0,0,0,-2.6,+11,Jeff Taylor
+2015-03-27,25-308,CHO,AWAY,WAS,L (-3),0,0:33,0,0,,0,0,,1,2,.500,0,0,0,0,0,0,0,0,1,0.6,-4,Jeff Taylor
+2015-03-28,25-309,CHO,HOME,ATL,W (+15),1,27:03,3,6,.500,0,3,.000,3,4,.750,0,2,2,2,0,0,0,1,9,7.2,+10,Jeff Taylor
+2015-03-30,25-311,CHO,HOME,BOS,L (-12),1,25:54,2,6,.333,1,2,.500,0,0,,1,4,5,0,0,0,1,3,5,1.3,-8,Jeff Taylor
+2015-04-01,25-313,CHO,HOME,DET,W (+24),1,21:33,1,4,.250,0,1,.000,0,0,,1,3,4,2,1,0,1,2,2,1.8,+1,Jeff Taylor
+2015-04-03,25-315,CHO,AWAY,IND,L (-19),1,18:39,0,1,.000,0,0,,0,0,,0,1,1,1,1,0,0,0,0,1.3,0,Jeff Taylor
+2015-04-04,25-316,CHO,HOME,PHI,W (+1),1,26:02,2,4,.500,0,0,,3,3,1.000,3,1,4,3,1,0,1,0,7,9.5,+4,Jeff Taylor
+2015-04-07,25-319,CHO,AWAY,MIA,L (-5),1,19:55,2,2,1.000,0,0,,0,0,,0,1,1,0,1,0,1,3,4,2.5,-6,Jeff Taylor
+2015-04-08,25-320,CHO,HOME,TOR,L (-18),1,18:08,3,6,.500,2,3,.667,0,0,,0,2,2,0,0,0,0,3,8,4.4,-16,Jeff Taylor
+2015-04-10,25-322,CHO,AWAY,ATL,L (-24),1,24:47,2,9,.222,0,3,.000,0,0,,2,4,6,1,1,0,2,3,4,-0.4,-9,Jeff Taylor
+2015-04-12,25-324,CHO,AWAY,DET,L (-39),1,25:23,3,7,.429,0,0,,4,5,.800,0,2,2,0,0,0,2,0,10,4.5,-22,Jeff Taylor
+2015-04-13,25-325,CHO,HOME,HOU,L (-10),1,29:58,6,11,.545,2,4,.500,2,5,.400,0,0,0,2,1,0,0,4,16,10.3,-8,Jeff Taylor
+2015-04-15,25-327,CHO,AWAY,TOR,L (-5),1,38:01,2,6,.333,0,2,.000,2,2,1.000,1,3,4,3,0,0,2,2,6,3.5,0,Jeff Taylor
+2012-11-03,23-164,CHA,AWAY,DAL,L (-27),0,5:51,0,2,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-1.4,-2,Jeff Taylor
+2012-11-07,23-168,CHA,HOME,PHO,L (-7),1,10:04,0,3,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-2.1,+2,Jeff Taylor
+2012-11-09,23-170,CHA,AWAY,NOH,L (-8),1,13:17,3,5,.600,1,3,.333,0,0,,0,0,0,0,0,0,0,2,7,3.9,+3,Jeff Taylor
+2012-11-10,23-171,CHA,HOME,DAL,W (+4),1,31:53,4,10,.400,0,4,.000,0,0,,2,4,6,0,2,2,2,1,8,6.2,-1,Jeff Taylor
+2012-11-13,23-174,CHA,HOME,WAS,W (+16),1,32:20,2,7,.286,0,2,.000,2,2,1.000,3,3,6,4,1,1,3,1,6,6.0,+7,Jeff Taylor
+2012-11-14,23-175,CHA,AWAY,MIN,W (+2),1,25:28,3,7,.429,1,3,.333,0,2,.000,0,1,1,0,0,0,2,3,7,-0.4,-3,Jeff Taylor
+2012-11-17,23-178,CHA,HOME,MEM,L (-7),1,12:12,1,2,.500,0,0,,2,2,1.000,0,1,1,0,0,0,0,0,4,3.3,-5,Jeff Taylor
+2012-11-19,23-180,CHA,HOME,MIL,W (+4),1,32:48,5,11,.455,0,2,.000,0,0,,2,0,2,4,0,1,0,2,10,8.4,+7,Jeff Taylor
+2012-11-21,23-182,CHA,HOME,TOR,W (+1),1,29:59,4,8,.500,1,2,.500,2,2,1.000,3,3,6,0,2,1,0,5,11,10.7,-8,Jeff Taylor
+2012-11-23,23-184,CHA,HOME,ATL,L (-10),1,35:48,5,13,.385,4,6,.667,2,2,1.000,1,1,2,0,3,0,1,1,16,11.5,-2,Jeff Taylor
+2012-11-24,23-185,CHA,AWAY,WAS,W (+2),1,36:30,3,6,.500,2,3,.667,4,6,.667,1,2,3,0,2,0,3,6,12,6.1,+19,Jeff Taylor
+2012-11-26,23-187,CHA,AWAY,OKC,L (-45),1,26:12,4,7,.571,1,3,.333,1,2,.500,1,1,2,0,4,0,1,3,10,9.1,-38,Jeff Taylor
+2012-11-28,23-189,CHA,AWAY,ATL,L (-3),1,21:57,2,4,.500,2,3,.667,0,0,,0,2,2,1,2,0,1,5,6,4.3,-16,Jeff Taylor
+2012-11-30,23-191,CHA,HOME,PHI,L (-6),1,33:07,6,10,.600,2,4,.500,2,2,1.000,1,0,1,2,1,0,1,2,16,12.7,-8,Jeff Taylor
+2012-12-03,23-194,CHA,HOME,POR,L (-6),1,26:49,4,10,.400,1,4,.250,2,2,1.000,1,3,4,2,1,0,0,3,11,8.4,+7,Jeff Taylor
+2012-12-05,23-196,CHA,HOME,NYK,L (-2),1,39:29,2,5,.400,0,1,.000,2,2,1.000,0,3,3,3,0,0,0,2,6,5.5,+6,Jeff Taylor
+2012-12-07,23-198,CHA,AWAY,MIL,L (-15),1,26:48,1,10,.100,0,5,.000,2,2,1.000,1,1,2,1,0,0,0,1,4,-1.3,-3,Jeff Taylor
+2012-12-08,23-199,CHA,HOME,SAS,L (-30),1,31:59,5,7,.714,0,1,.000,0,0,,1,1,2,1,0,1,3,2,10,5.7,-17,Jeff Taylor
+2012-12-10,23-201,CHA,HOME,GSW,L (-8),1,32:37,1,8,.125,0,3,.000,2,3,.667,2,1,3,2,1,0,0,1,4,2.1,-1,Jeff Taylor
+2012-12-12,23-203,CHA,HOME,LAC,L (-6),1,14:47,0,2,.000,0,1,.000,0,0,,0,3,3,2,0,0,0,3,0,-0.3,-2,Jeff Taylor
+2012-12-13,23-204,CHA,AWAY,ATL,L (-23),1,30:03,3,6,.500,2,4,.500,4,4,1.000,0,2,2,0,0,0,1,2,12,7.8,-20,Jeff Taylor
+2012-12-15,23-206,CHA,HOME,ORL,L (-9),0,16:10,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,0,4,3,1.4,-8,Jeff Taylor
+2012-12-18,23-209,CHA,AWAY,LAL,L (-1),0,11:04,0,3,.000,0,1,.000,0,0,,2,0,2,0,0,0,0,1,0,-1.1,-14,Jeff Taylor
+2012-12-19,23-210,CHA,AWAY,PHO,L (-17),0,26:00,3,11,.273,1,3,.333,3,4,.750,2,2,4,0,0,1,0,1,10,5.4,-2,Jeff Taylor
+2012-12-21,23-212,CHA,AWAY,GSW,L (-15),0,6:26,0,1,.000,0,1,.000,0,0,,1,0,1,0,0,0,0,0,0,0.0,-2,Jeff Taylor
+2012-12-22,23-213,CHA,AWAY,DEN,L (-22),1,24:06,2,10,.200,0,2,.000,0,0,,3,5,8,2,3,0,0,1,4,5.4,-4,Jeff Taylor
+2012-12-26,23-217,CHA,HOME,MIA,L (-13),0,7:08,0,0,,0,0,,1,2,.500,1,0,1,1,0,0,1,2,1,0.2,-7,Jeff Taylor
+2012-12-28,23-219,CHA,AWAY,BRK,L (-16),0,19:30,2,4,.500,1,2,.500,4,4,1.000,0,2,2,1,1,0,0,3,9,8.1,+6,Jeff Taylor
+2012-12-29,23-220,CHA,HOME,NOH,L (-3),0,19:59,2,2,1.000,2,2,1.000,0,0,,0,1,1,1,1,0,0,2,6,6.6,+2,Jeff Taylor
+2012-12-31,23-222,CHA,AWAY,CHI,W (+10),1,24:48,2,3,.667,1,2,.500,0,0,,1,3,4,0,0,0,3,2,5,1.5,+6,Jeff Taylor
+2013-01-04,23-226,CHA,HOME,CLE,L (-2),1,26:32,5,10,.500,1,3,.333,0,0,,1,1,2,0,1,0,0,4,11,6.4,+13,Jeff Taylor
+2013-01-06,23-228,CHA,AWAY,DET,W (+7),1,22:40,4,6,.667,0,1,.000,0,1,.000,1,0,1,0,0,0,0,2,8,4.9,+1,Jeff Taylor
+2013-01-09,23-231,CHA,HOME,UTA,L (-10),1,18:13,3,9,.333,0,1,.000,0,0,,0,1,1,0,0,1,1,1,6,0.5,+2,Jeff Taylor
+2013-01-11,23-233,CHA,AWAY,TOR,L (-21),1,17:40,3,6,.500,2,3,.667,2,2,1.000,1,0,1,0,0,0,0,1,10,7.3,-10,Jeff Taylor
+2013-01-12,23-234,CHA,AWAY,IND,L (-8),0,17:12,1,2,.500,1,1,1.000,0,0,,0,0,0,1,0,0,1,0,3,1.7,-13,Jeff Taylor
+2013-01-14,23-236,CHA,AWAY,BOS,L (-11),0,15:01,3,4,.750,2,2,1.000,0,0,,0,0,0,1,2,0,1,3,8,6.9,+6,Jeff Taylor
+2013-01-15,23-237,CHA,HOME,IND,L (-27),0,20:07,1,6,.167,1,4,.250,2,2,1.000,0,2,2,1,1,0,0,2,5,2.7,+4,Jeff Taylor
+2013-01-18,23-240,CHA,AWAY,ORL,W (+6),0,19:05,1,1,1.000,1,1,1.000,0,0,,0,2,2,0,1,0,0,2,3,3.5,-3,Jeff Taylor
+2013-01-19,23-241,CHA,HOME,SAC,L (-4),0,7:19,0,1,.000,0,1,.000,2,2,1.000,1,0,1,0,0,0,0,0,2,2.0,-2,Jeff Taylor
+2013-01-21,23-243,CHA,HOME,HOU,L (-6),0,16:32,3,5,.600,0,0,,1,2,.500,0,1,1,2,2,0,0,3,7,6.8,+6,Jeff Taylor
+2013-01-23,23-245,CHA,HOME,ATL,L (-12),0,24:26,3,8,.375,1,5,.200,2,2,1.000,0,1,1,2,0,0,1,1,9,4.9,-3,Jeff Taylor
+2013-01-26,23-248,CHA,HOME,MIN,W (+1),0,13:03,1,2,.500,1,2,.500,0,0,,0,2,2,0,0,0,1,1,3,1.2,+5,Jeff Taylor
+2013-01-28,23-250,CHA,AWAY,CHI,L (-8),0,1:24,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,-2,Jeff Taylor
+2013-01-30,23-252,CHA,AWAY,SAS,L (-24),0,26:45,4,8,.500,1,5,.200,0,0,,1,2,3,4,2,0,0,5,9,9.1,-6,Jeff Taylor
+2013-02-02,23-255,CHA,AWAY,HOU,L (-14),0,28:36,6,8,.750,2,3,.667,1,2,.500,0,3,3,3,1,1,0,3,15,14.9,-4,Jeff Taylor
+2013-02-04,23-257,CHA,AWAY,MIA,L (-5),1,28:23,4,8,.500,2,5,.400,0,0,,0,2,2,0,1,1,0,4,10,6.7,-10,Jeff Taylor
+2013-02-06,23-259,CHA,AWAY,CLE,L (-27),1,24:28,4,6,.667,2,2,1.000,0,1,.000,0,1,1,0,1,0,1,0,10,7.3,-21,Jeff Taylor
+2013-02-08,23-261,CHA,HOME,LAL,L (-7),0,11:39,1,2,.500,0,1,.000,0,0,,0,0,0,0,1,0,1,2,2,0.2,-11,Jeff Taylor
+2013-02-09,23-262,CHA,AWAY,PHI,L (-11),0,9:46,0,3,.000,0,2,.000,0,0,,1,2,3,2,0,0,1,1,0,-0.8,+5,Jeff Taylor
+2013-02-11,23-264,CHA,HOME,BOS,W (+3),0,13:39,0,2,.000,0,2,.000,2,2,1.000,0,2,2,1,0,0,0,2,2,1.1,+1,Jeff Taylor
+2013-02-13,23-266,CHA,AWAY,IND,L (-24),0,20:56,2,4,.500,1,1,1.000,1,2,.500,1,2,3,1,0,0,1,2,6,3.8,-8,Jeff Taylor
+2013-02-19,23-272,CHA,AWAY,ORL,W (+13),0,10:28,1,2,.500,0,1,.000,0,0,,0,0,0,1,0,0,1,2,2,-0.1,+8,Jeff Taylor
+2013-02-20,23-273,CHA,HOME,DET,L (-6),0,5:52,1,3,.333,0,2,.000,1,2,.500,0,0,0,0,0,0,0,1,3,0.5,-8,Jeff Taylor
+2013-02-22,23-275,CHA,HOME,CHI,L (-30),0,24:11,4,5,.800,0,1,.000,0,2,.000,1,2,3,2,0,1,0,2,8,7.9,-16,Jeff Taylor
+2013-02-23,23-276,CHA,HOME,DEN,L (-14),0,33:18,7,13,.538,0,3,.000,4,6,.667,2,1,3,2,2,2,4,2,18,12.6,-14,Jeff Taylor
+2013-02-26,23-279,CHA,AWAY,LAC,L (-22),0,22:19,2,7,.286,0,3,.000,3,4,.750,1,2,3,0,1,1,1,0,7,4.5,-6,Jeff Taylor
+2013-03-01,23-282,CHA,AWAY,UTA,L (-30),0,19:57,1,5,.200,1,3,.333,0,0,,0,0,0,1,0,0,1,2,3,-1.2,-20,Jeff Taylor
+2013-03-03,23-284,CHA,AWAY,SAC,L (-36),0,19:12,3,8,.375,1,3,.333,2,4,.500,0,0,0,0,1,0,1,2,9,3.0,-18,Jeff Taylor
+2013-03-04,23-285,CHA,AWAY,POR,L (-17),0,14:12,1,2,.500,0,0,,2,3,.667,1,0,1,0,0,0,0,0,4,3.3,-6,Jeff Taylor
+2013-03-06,23-287,CHA,HOME,BRK,L (-21),0,7:50,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-1.4,+3,Jeff Taylor
+2013-03-08,23-289,CHA,HOME,OKC,L (-22),0,17:33,3,8,.375,1,3,.333,1,2,.500,0,0,0,2,0,0,0,1,8,4.2,-2,Jeff Taylor
+2013-03-09,23-290,CHA,AWAY,WAS,L (-17),0,13:35,1,2,.500,1,1,1.000,0,0,,0,1,1,0,0,0,0,1,3,1.9,-4,Jeff Taylor
+2013-03-12,23-293,CHA,HOME,BOS,W (+26),0,4:39,1,2,.500,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.0,+3,Jeff Taylor
+2013-03-15,23-296,CHA,AWAY,TOR,L (-14),0,24:42,2,3,.667,1,1,1.000,3,4,.750,2,2,4,0,0,0,2,2,8,5.5,-6,Jeff Taylor
+2013-03-16,23-297,CHA,AWAY,BOS,L (-17),0,12:33,1,2,.500,0,0,,1,2,.500,0,2,2,0,0,0,1,0,3,1.2,-10,Jeff Taylor
+2013-03-20,23-301,CHA,HOME,TOR,W (+6),0,15:55,0,4,.000,0,0,,2,4,.500,2,0,2,0,1,0,0,2,2,0.0,+11,Jeff Taylor
+2013-03-23,23-304,CHA,HOME,DET,L (-1),0,17:30,1,5,.200,1,2,.500,0,0,,0,2,2,1,1,0,0,1,3,1.8,-5,Jeff Taylor
+2013-03-24,23-305,CHA,AWAY,MIA,L (-32),0,26:51,4,12,.333,0,4,.000,0,0,,3,2,5,1,1,0,1,4,8,3.0,-29,Jeff Taylor
+2013-03-27,23-308,CHA,HOME,ORL,W (+6),0,4:28,1,2,.500,0,1,.000,0,0,,0,1,1,0,0,0,0,0,2,1.3,+9,Jeff Taylor
+2013-03-29,23-310,CHA,AWAY,NYK,L (-9),0,18:34,3,4,.750,0,1,.000,2,2,1.000,1,1,2,0,0,0,2,2,8,4.6,-4,Jeff Taylor
+2013-04-01,23-313,CHA,AWAY,MIL,L (-29),1,28:57,3,7,.429,1,3,.333,0,0,,1,4,5,1,1,1,3,2,7,3.8,-10,Jeff Taylor
+2013-04-03,23-315,CHA,HOME,PHI,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jeff Taylor
+2013-04-05,23-317,CHA,HOME,MIA,L (-10),0,5:31,1,2,.500,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.0,-1,Jeff Taylor
+2013-04-09,23-321,CHA,AWAY,MEM,L (-19),0,4:13,0,1,.000,0,0,,4,5,.800,0,1,1,0,1,0,0,0,4,4.2,+2,Jeff Taylor
+2013-04-12,23-324,CHA,AWAY,DET,L (-20),0,12:11,0,1,.000,0,1,.000,2,2,1.000,0,1,1,1,0,0,0,0,2,2.3,-12,Jeff Taylor
+2013-04-13,23-325,CHA,HOME,MIL,W (+10),0,13:31,4,5,.800,1,1,1.000,0,0,,0,3,3,0,0,0,0,2,9,7.2,+6,Jeff Taylor
+2013-04-15,23-327,CHA,HOME,NYK,W (+11),0,17:06,5,7,.714,2,3,.667,0,0,,0,0,0,3,0,0,0,3,12,10.0,-9,Jeff Taylor
+2013-04-17,23-329,CHA,HOME,CLE,W (+7),0,23:43,3,6,.500,0,1,.000,0,0,,1,4,5,3,1,0,0,3,6,6.8,+12,Jeff Taylor
+2013-10-30,24-160,CHA,AWAY,HOU,L (-13),0,27:46,1,6,.167,0,2,.000,3,4,.750,0,2,2,0,1,1,0,0,5,3.1,-8,Jeff Taylor
+2013-11-01,24-162,CHA,HOME,CLE,W (+6),0,21:36,3,8,.375,0,4,.000,2,4,.500,0,1,1,1,0,0,2,0,8,1.8,-6,Jeff Taylor
+2013-11-02,24-163,CHA,AWAY,NOP,L (-21),0,24:59,1,9,.111,0,3,.000,3,7,.429,0,0,0,1,0,0,0,1,5,-2.2,-10,Jeff Taylor
+2013-11-05,24-166,CHA,AWAY,NYK,W (+5),0,18:24,5,9,.556,2,4,.500,1,2,.500,2,2,4,1,0,0,2,5,13,7.0,0,Jeff Taylor
+2013-11-06,24-167,CHA,HOME,TOR,W (+2),0,28:04,5,10,.500,1,4,.250,2,4,.500,1,2,3,1,0,0,2,3,13,6.0,0,Jeff Taylor
+2013-11-08,24-169,CHA,HOME,NYK,L (-10),0,17:12,2,8,.250,1,4,.250,0,0,,1,1,2,1,0,1,1,2,5,0.8,-6,Jeff Taylor
+2013-11-11,24-172,CHA,HOME,ATL,L (-9),0,25:24,4,10,.400,0,2,.000,2,3,.667,0,6,6,1,0,0,1,4,10,4.1,-13,Jeff Taylor
+2013-11-13,24-174,CHA,AWAY,BOS,W (+6),0,29:23,4,8,.500,0,1,.000,4,4,1.000,0,1,1,1,0,0,0,2,12,8.2,-4,Jeff Taylor
+2013-11-15,24-176,CHA,AWAY,CLE,W (+6),0,28:34,5,11,.455,1,2,.500,0,0,,2,3,5,1,0,0,0,1,11,7.9,+12,Jeff Taylor
+2013-11-16,24-177,CHA,HOME,MIA,L (-16),0,30:14,5,14,.357,2,4,.500,2,5,.400,1,0,1,1,1,0,0,4,14,5.8,-19,Jeff Taylor
+2013-11-18,24-179,CHA,AWAY,CHI,L (-5),0,33:05,9,18,.500,2,4,.500,0,0,,2,3,5,0,1,0,2,4,20,10.7,+6,Jeff Taylor
+2013-11-20,24-181,CHA,HOME,BRK,W (+4),0,17:09,0,4,.000,0,0,,0,0,,0,1,1,2,1,0,1,2,0,-1.9,+4,Jeff Taylor
+2013-11-22,24-183,CHA,HOME,PHO,L (-7),0,17:48,2,4,.500,0,0,,0,0,,0,0,0,0,0,0,2,5,4,-2.0,-12,Jeff Taylor
+2013-11-23,24-184,CHA,AWAY,MIL,W (+24),0,27:27,3,9,.333,1,4,.250,2,4,.500,0,1,1,1,1,0,1,1,9,3.7,+7,Jeff Taylor
+2013-11-25,24-186,CHA,HOME,BOS,L (-10),0,27:19,3,6,.500,1,2,.500,0,0,,0,3,3,0,0,0,1,4,7,2.3,-22,Jeff Taylor
+2013-11-27,24-188,CHA,HOME,IND,L (-25),0,19:42,2,7,.286,0,1,.000,0,0,,0,3,3,0,0,0,0,5,4,-1.2,-12,Jeff Taylor
+2013-11-29,24-190,CHA,HOME,MIL,W (+16),1,28:00,2,7,.286,0,2,.000,0,2,.000,0,0,0,2,0,0,0,1,4,0.1,+10,Jeff Taylor
+2013-12-01,24-192,CHA,AWAY,MIA,L (-1),0,23:24,3,5,.600,1,2,.500,0,0,,0,3,3,0,0,0,4,3,7,0.4,+2,Jeff Taylor
+2013-12-03,24-194,CHA,AWAY,DAL,L (-7),0,3:14,0,2,.000,0,2,.000,0,0,,1,0,1,0,0,0,0,2,0,-1.5,0,Jeff Taylor
+2013-12-06,24-197,CHA,HOME,PHI,W (+17),1,36:52,8,16,.500,2,7,.286,2,2,1.000,3,5,8,1,1,1,0,1,20,17.6,+3,Jeff Taylor
+2013-12-09,24-200,CHA,HOME,GSW,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jeff Taylor
+2013-12-11,24-202,CHA,HOME,ORL,L (-9),1,30:48,3,8,.375,1,2,.500,1,2,.500,0,1,1,2,0,0,0,1,8,4.5,+5,Jeff Taylor
+2013-12-13,24-204,CHA,AWAY,IND,L (-5),1,36:03,4,12,.333,0,2,.000,1,2,.500,0,0,0,2,2,0,2,3,9,2.0,-1,Jeff Taylor
+2013-12-14,24-205,CHA,HOME,LAL,L (-3),1,27:32,3,13,.231,0,4,.000,1,2,.500,2,3,5,0,3,1,0,2,7,3.9,+3,Jeff Taylor
+2013-12-17,24-208,CHA,HOME,SAC,W (+8),1,26:05,3,9,.333,2,4,.500,0,0,,0,3,3,2,1,0,0,3,8,5.0,+3,Jeff Taylor
+2013-12-18,24-209,CHA,AWAY,TOR,W (+2),1,22:31,2,5,.400,1,1,1.000,0,0,,0,1,1,1,1,1,3,3,5,0.8,-15,Jeff Taylor
+2013-12-20,24-211,CHA,AWAY,DET,W (+10),1,0:37,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,-2,Jeff Taylor
+2013-12-21,24-212,CHA,HOME,UTA,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jeff Taylor
+2013-12-23,24-214,CHA,HOME,MIL,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jeff Taylor
+2013-12-27,24-218,CHA,HOME,OKC,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jeff Taylor
+2013-12-28,24-219,CHA,AWAY,ATL,L (-2),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jeff Taylor
+2013-12-30,24-221,CHA,AWAY,UTA,L (-3),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jeff Taylor
+2014-01-01,24-223,CHA,AWAY,LAC,L (-27),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jeff Taylor
+2014-01-02,24-224,CHA,AWAY,POR,L (-30),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jeff Taylor
+2014-01-04,24-226,CHA,AWAY,SAC,W (+10),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jeff Taylor
+2014-01-07,24-229,CHA,HOME,WAS,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jeff Taylor
+2014-01-10,24-232,CHA,AWAY,MIN,L (-27),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jeff Taylor
+2014-01-11,24-233,CHA,AWAY,CHI,L (-6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Jeff Taylor

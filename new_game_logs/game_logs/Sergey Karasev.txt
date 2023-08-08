@@ -1,0 +1,108 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2015-10-30,22-004,BRK,AWAY,SAS,L (-27),0,2:21,0,0,,0,0,,2,2,1.000,0,0,0,0,0,0,1,0,2,1.0,0,Sergey Karasev
+2015-11-04,22-009,BRK,AWAY,ATL,L (-14),0,1:37,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,0,Sergey Karasev
+2015-11-07,22-012,BRK,AWAY,MIL,L (-8),0,1:44,0,0,,0,0,,2,2,1.000,0,1,1,0,0,0,0,0,2,2.3,+7,Sergey Karasev
+2015-11-20,22-025,BRK,AWAY,BOS,L (-25),0,24:03,2,4,.500,1,3,.333,0,0,,0,0,0,1,1,0,1,3,5,2.5,-10,Sergey Karasev
+2015-11-22,22-027,BRK,HOME,BOS,W (+10),0,9:32,0,1,.000,0,1,.000,0,0,,0,3,3,0,0,0,0,0,0,0.2,+6,Sergey Karasev
+2015-11-25,22-030,BRK,AWAY,OKC,L (-11),0,7:39,0,2,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-1.4,+3,Sergey Karasev
+2015-11-28,22-033,BRK,AWAY,CLE,L (-2),0,2:32,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,Sergey Karasev
+2015-11-29,22-034,BRK,HOME,DET,W (+4),0,5:42,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-5,Sergey Karasev
+2015-12-04,22-039,BRK,AWAY,NYK,L (-17),0,8:28,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-1.4,+8,Sergey Karasev
+2015-12-06,22-041,BRK,HOME,GSW,L (-16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Sergey Karasev
+2015-12-14,22-049,BRK,HOME,ORL,L (-23),0,4:05,0,0,,0,0,,0,0,,0,0,0,1,0,0,1,0,0,-0.3,0,Sergey Karasev
+2015-12-16,22-051,BRK,HOME,MIA,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Sergey Karasev
+2015-12-18,22-053,BRK,AWAY,IND,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Sergey Karasev
+2015-12-20,22-055,BRK,HOME,MIN,L (-15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Sergey Karasev
+2015-12-26,22-061,BRK,HOME,WAS,L (-15),0,2:51,1,1,1.000,0,0,,0,0,,0,2,2,0,0,0,0,0,2,2.3,+4,Sergey Karasev
+2016-01-06,22-072,BRK,HOME,TOR,L (-17),0,2:35,0,0,,0,0,,0,0,,0,0,0,1,0,0,1,0,0,-0.3,-1,Sergey Karasev
+2016-01-09,22-075,BRK,AWAY,DET,L (-14),0,4:46,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,-2,Sergey Karasev
+2016-01-11,22-077,BRK,HOME,SAS,L (-27),0,4:41,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,2,2.0,-6,Sergey Karasev
+2016-01-13,22-079,BRK,HOME,NYK,W (+6),0,8:31,0,0,,0,0,,0,0,,1,1,2,0,0,0,1,3,0,-1.2,-5,Sergey Karasev
+2016-01-15,22-081,BRK,HOME,POR,L (-12),0,5:21,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-13,Sergey Karasev
+2016-01-16,22-082,BRK,AWAY,ATL,L (-28),0,2:47,0,0,,0,0,,2,2,1.000,1,1,2,0,0,0,0,0,2,3.0,-1,Sergey Karasev
+2016-01-20,22-086,BRK,HOME,CLE,L (-13),0,6:22,0,1,.000,0,1,.000,0,0,,0,2,2,0,0,0,0,0,0,-0.1,-3,Sergey Karasev
+2016-01-22,22-088,BRK,HOME,UTA,L (-22),0,9:35,4,5,.800,1,2,.500,0,0,,0,1,1,1,0,0,0,0,9,8.1,+7,Sergey Karasev
+2016-01-24,22-090,BRK,HOME,OKC,W (+10),0,5:41,1,2,.500,0,0,,0,0,,0,1,1,0,0,0,1,0,2,0.3,+1,Sergey Karasev
+2016-01-26,22-092,BRK,HOME,MIA,L (-4),0,6:09,0,1,.000,0,0,,0,0,,0,1,1,3,0,0,0,0,0,1.7,-4,Sergey Karasev
+2016-01-29,22-095,BRK,AWAY,DAL,L (-12),0,3:40,0,1,.000,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.0,-10,Sergey Karasev
+2016-02-03,22-100,BRK,HOME,IND,L (-14),0,1:38,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1,Sergey Karasev
+2016-02-08,22-105,BRK,HOME,DEN,W (+1),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Sergey Karasev
+2016-02-10,22-107,BRK,HOME,MEM,L (-19),0,11:42,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,0,0,0.0,+7,Sergey Karasev
+2016-02-25,22-122,BRK,AWAY,PHO,W (+10),0,9:41,1,1,1.000,1,1,1.000,0,0,,0,1,1,1,0,0,0,1,3,3.3,+3,Sergey Karasev
+2016-02-27,22-124,BRK,AWAY,UTA,W (+2),0,19:42,2,3,.667,1,1,1.000,0,0,,0,4,4,1,0,0,0,1,5,5.2,+12,Sergey Karasev
+2016-02-29,22-126,BRK,AWAY,LAC,L (-10),0,12:57,0,1,.000,0,1,.000,0,0,,0,1,1,0,1,1,1,1,0,-0.1,-10,Sergey Karasev
+2016-03-01,22-127,BRK,AWAY,LAL,L (-6),0,5:21,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,0,0,-1.7,-3,Sergey Karasev
+2016-03-05,22-131,BRK,AWAY,MIN,L (-14),0,5:36,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,+2,Sergey Karasev
+2016-03-11,22-137,BRK,AWAY,PHI,L (-6),0,15:39,1,5,.200,1,1,1.000,0,0,,1,1,2,1,0,0,2,1,3,-0.8,+8,Sergey Karasev
+2016-03-13,22-139,BRK,HOME,MIL,L (-9),0,19:30,2,3,.667,2,3,.667,2,2,1.000,0,1,1,1,1,1,1,1,8,8.0,+14,Sergey Karasev
+2016-03-15,22-141,BRK,HOME,PHI,W (+17),0,5:28,0,1,.000,0,1,.000,0,0,,0,1,1,1,1,0,0,0,0,1.3,+4,Sergey Karasev
+2016-03-17,22-143,BRK,AWAY,CHI,L (-16),1,31:50,4,11,.364,1,7,.143,2,2,1.000,0,5,5,5,0,0,1,2,11,8.1,+1,Sergey Karasev
+2016-03-19,22-145,BRK,AWAY,DET,L (-12),0,14:39,1,1,1.000,0,0,,0,0,,0,1,1,1,0,0,0,2,2,1.9,-7,Sergey Karasev
+2016-03-24,22-150,BRK,HOME,CLE,W (+9),1,18:10,1,5,.200,1,3,.333,0,0,,0,4,4,2,0,0,1,1,3,1.1,-6,Sergey Karasev
+2016-03-26,22-152,BRK,HOME,IND,W (+10),1,25:44,5,7,.714,1,3,.333,6,7,.857,2,5,7,4,2,0,3,2,17,17.6,+13,Sergey Karasev
+2016-03-28,22-154,BRK,AWAY,MIA,L (-11),1,18:17,1,2,.500,0,0,,1,2,.500,0,2,2,2,0,0,1,1,3,2.2,+1,Sergey Karasev
+2016-03-29,22-155,BRK,AWAY,ORL,L (-34),1,19:34,1,1,1.000,1,1,1.000,6,6,1.000,0,3,3,1,0,0,1,1,9,8.9,+7,Sergey Karasev
+2016-04-03,22-160,BRK,HOME,NOP,L (-19),0,19:58,1,5,.200,0,1,.000,0,0,,1,4,5,6,0,0,2,2,2,2.2,-26,Sergey Karasev
+2016-04-10,22-167,BRK,AWAY,IND,L (-24),0,13:17,1,3,.333,0,2,.000,3,3,1.000,1,2,3,1,0,0,1,4,5,2.7,-1,Sergey Karasev
+2016-04-11,22-168,BRK,HOME,WAS,L (-9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Sergey Karasev
+2016-04-13,22-170,BRK,HOME,TOR,L (-7),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Sergey Karasev
+2014-10-29,21-003,BRK,AWAY,BOS,L (-16),0,2:52,0,0,,0,0,,0,0,,0,3,3,0,0,0,1,0,0,-0.1,+3,Sergey Karasev
+2014-11-01,21-006,BRK,AWAY,DET,W (+12),0,0:01,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Sergey Karasev
+2014-11-03,21-008,BRK,HOME,OKC,W (+31),0,4:41,0,1,.000,0,1,.000,2,2,1.000,1,0,1,1,0,0,0,0,2,2.7,-2,Sergey Karasev
+2014-11-07,21-012,BRK,HOME,NYK,W (+11),0,6:26,0,0,,0,0,,0,0,,0,0,0,0,1,0,1,0,0,0.0,-8,Sergey Karasev
+2014-11-22,21-027,BRK,AWAY,SAS,L (-12),0,2:30,0,1,.000,0,1,.000,0,0,,0,0,0,2,0,0,0,1,0,0.3,+3,Sergey Karasev
+2014-11-30,21-035,BRK,HOME,CHI,L (-18),0,3:57,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+3,Sergey Karasev
+2014-12-08,21-043,BRK,HOME,CLE,L (-22),0,14:26,4,5,.800,1,1,1.000,2,2,1.000,1,0,1,0,1,0,0,0,11,10.8,-6,Sergey Karasev
+2014-12-10,21-045,BRK,AWAY,CHI,L (-25),1,31:15,3,8,.375,0,3,.000,0,0,,1,5,6,1,1,0,1,5,6,2.5,-6,Sergey Karasev
+2014-12-12,21-047,BRK,HOME,PHI,W (+18),1,27:49,4,9,.444,1,3,.333,2,2,1.000,1,1,2,0,2,0,0,3,11,8.1,+3,Sergey Karasev
+2014-12-13,21-048,BRK,AWAY,CHO,W (+27),1,23:04,1,3,.333,1,2,.500,0,0,,0,1,1,1,1,0,2,4,3,-0.3,+20,Sergey Karasev
+2014-12-16,21-051,BRK,HOME,MIA,L (-4),1,22:26,4,9,.444,1,4,.250,2,3,.667,2,1,3,3,0,1,1,2,11,8.6,-3,Sergey Karasev
+2014-12-17,21-052,BRK,AWAY,TOR,L (-16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Sergey Karasev
+2014-12-19,21-054,BRK,AWAY,CLE,L (-4),1,36:47,5,10,.500,2,4,.500,0,0,,0,4,4,2,2,0,2,3,12,8.4,+1,Sergey Karasev
+2014-12-21,21-056,BRK,HOME,DET,W (+5),1,32:30,2,6,.333,1,3,.333,4,4,1.000,0,1,1,2,2,0,1,2,9,7.5,+5,Sergey Karasev
+2014-12-23,21-058,BRK,HOME,DEN,W (+6),1,31:37,4,8,.500,0,3,.000,4,4,1.000,2,3,5,3,1,0,0,2,12,12.6,+6,Sergey Karasev
+2014-12-26,21-061,BRK,AWAY,BOS,W (+2),1,25:31,3,7,.429,1,2,.500,0,0,,4,1,5,2,1,0,1,2,7,7.0,-8,Sergey Karasev
+2014-12-27,21-062,BRK,HOME,IND,L (-25),1,24:22,5,9,.556,2,4,.500,2,4,.500,2,1,3,1,0,0,0,2,14,10.5,+14,Sergey Karasev
+2014-12-29,21-064,BRK,HOME,SAC,W (+8),1,30:14,1,5,.200,1,3,.333,2,4,.500,3,2,5,3,2,0,1,1,5,6.5,-4,Sergey Karasev
+2014-12-30,21-065,BRK,AWAY,CHI,W (+14),1,23:34,0,5,.000,0,0,,2,2,1.000,1,0,1,1,1,0,1,1,2,-0.5,+2,Sergey Karasev
+2015-01-02,21-068,BRK,AWAY,ORL,W (+2),1,33:32,3,5,.600,1,2,.500,0,2,.000,0,4,4,5,1,0,2,2,7,6.8,-2,Sergey Karasev
+2015-01-04,21-070,BRK,AWAY,MIA,L (-4),1,21:43,1,3,.333,0,1,.000,0,0,,0,2,2,1,1,0,2,3,2,-0.6,-13,Sergey Karasev
+2015-01-05,21-071,BRK,HOME,DAL,L (-8),1,25:38,3,7,.429,0,4,.000,4,5,.800,0,2,2,4,1,0,0,3,10,9.1,+4,Sergey Karasev
+2015-01-07,21-073,BRK,HOME,BOS,L (-8),1,22:46,1,4,.250,0,1,.000,3,4,.750,1,2,3,3,0,0,1,1,5,4.2,+6,Sergey Karasev
+2015-01-09,21-075,BRK,HOME,PHI,L (-2),1,12:22,1,2,.500,0,1,.000,0,0,,0,0,0,1,2,0,1,4,2,1.1,+13,Sergey Karasev
+2015-01-10,21-076,BRK,AWAY,DET,L (-5),0,11:14,1,2,.500,0,0,,0,0,,0,1,1,1,0,0,0,0,2,2.0,-6,Sergey Karasev
+2015-01-12,21-078,BRK,HOME,HOU,L (-14),0,8:52,1,4,.250,0,1,.000,0,0,,0,1,1,1,2,0,0,0,2,2.6,+9,Sergey Karasev
+2015-01-14,21-080,BRK,HOME,MEM,L (-11),0,2:25,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2,Sergey Karasev
+2015-01-22,21-088,BRK,AWAY,LAC,L (-39),0,14:29,1,4,.250,1,1,1.000,0,0,,1,1,2,1,0,0,1,0,3,1.3,-5,Sergey Karasev
+2015-01-24,21-090,BRK,AWAY,UTA,L (-35),0,18:03,2,5,.400,2,4,.500,0,0,,1,2,3,1,1,0,2,2,6,3.5,-10,Sergey Karasev
+2015-01-28,21-094,BRK,AWAY,ATL,L (-11),0,9:38,0,2,.000,0,2,.000,0,0,,0,1,1,1,0,0,0,1,0,-0.8,-11,Sergey Karasev
+2015-02-07,21-104,BRK,AWAY,WAS,L (-37),0,8:34,1,4,.250,0,1,.000,0,0,,0,0,0,2,0,0,1,0,2,0.0,-6,Sergey Karasev
+2015-02-23,21-120,BRK,AWAY,DEN,W (+28),0,9:44,0,1,.000,0,1,.000,0,0,,0,2,2,0,0,0,1,1,0,-1.5,+10,Sergey Karasev
+2015-03-04,21-129,BRK,HOME,CHO,L (-24),0,6:21,3,3,1.000,1,1,1.000,0,0,,0,2,2,2,0,0,0,0,7,8.1,+8,Sergey Karasev
+2015-03-10,21-135,BRK,HOME,NOP,L (-20),0,5:50,0,1,.000,0,0,,0,0,,1,1,2,1,0,0,1,0,0,0.0,-4,Sergey Karasev
+2013-11-02,20-007,CLE,AWAY,IND,L (-15),0,1:05,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Sergey Karasev
+2013-11-08,20-013,CLE,AWAY,PHI,L (-15),0,5:12,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.7,-3,Sergey Karasev
+2013-11-13,20-018,CLE,AWAY,MIN,L (-29),0,14:18,2,5,.400,1,1,1.000,2,2,1.000,0,4,4,2,0,0,0,1,7,6.5,+3,Sergey Karasev
+2013-11-15,20-020,CLE,HOME,CHA,L (-6),0,8:40,0,3,.000,0,2,.000,0,0,,0,0,0,0,0,0,1,0,0,-3.1,-4,Sergey Karasev
+2013-11-16,20-021,CLE,AWAY,WAS,W (+7),0,5:53,1,2,.500,0,1,.000,0,0,,0,0,0,0,0,0,0,0,2,1.0,-10,Sergey Karasev
+2013-11-20,20-025,CLE,HOME,WAS,L (-7),0,1:48,0,1,.000,0,1,.000,2,2,1.000,0,0,0,0,0,0,0,0,2,1.3,0,Sergey Karasev
+2013-11-22,20-027,CLE,AWAY,NOP,L (-4),0,11:11,2,3,.667,2,3,.667,0,0,,0,0,0,0,0,0,1,4,6,2.1,+1,Sergey Karasev
+2013-11-23,20-028,CLE,AWAY,SAS,L (-30),0,21:03,2,6,.333,0,3,.000,4,4,1.000,0,5,5,1,0,0,1,2,8,5.0,-3,Sergey Karasev
+2013-11-27,20-032,CLE,HOME,MIA,L (-11),0,18:51,1,3,.333,1,3,.333,0,0,,0,3,3,0,1,1,2,3,3,0.7,-2,Sergey Karasev
+2013-11-29,20-034,CLE,AWAY,BOS,L (-17),1,15:12,0,1,.000,0,0,,1,2,.500,0,0,0,1,1,0,1,3,1,-0.6,-15,Sergey Karasev
+2013-12-06,20-041,CLE,AWAY,ATL,L (-19),0,2:51,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,0,Sergey Karasev
+2013-12-10,20-045,CLE,HOME,NYK,W (+15),0,1:38,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1,Sergey Karasev
+2013-12-21,20-056,CLE,AWAY,CHI,L (-16),0,8:18,1,3,.333,0,2,.000,0,0,,0,0,0,0,1,0,0,0,2,1.3,+5,Sergey Karasev
+2013-12-23,20-058,CLE,HOME,DET,L (-23),0,8:03,0,0,,0,0,,0,0,,0,1,1,1,0,0,1,0,0,0.0,+3,Sergey Karasev
+2014-01-07,20-073,CLE,HOME,PHI,W (+18),0,7:07,0,2,.000,0,1,.000,0,0,,0,1,1,0,0,0,1,3,0,-3.3,-13,Sergey Karasev
+2014-01-10,20-076,CLE,AWAY,UTA,W (+11),0,0:56,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Sergey Karasev
+2014-01-12,20-078,CLE,AWAY,SAC,L (-44),0,6:02,1,2,.500,0,1,.000,0,0,,0,0,0,0,0,0,0,1,2,0.6,-4,Sergey Karasev
+2014-02-23,20-120,CLE,HOME,WAS,L (-13),0,0:51,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Sergey Karasev
+2014-02-28,20-125,CLE,HOME,UTA,W (+20),0,3:49,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Sergey Karasev
+2014-03-04,20-129,CLE,HOME,SAS,L (-21),0,3:13,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,-1,Sergey Karasev
+2014-03-22,20-147,CLE,HOME,HOU,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Sergey Karasev
+2014-03-23,20-148,CLE,AWAY,NYK,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Sergey Karasev
+2014-03-25,20-150,CLE,HOME,TOR,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Sergey Karasev
+2014-03-26,20-151,CLE,AWAY,DET,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Sergey Karasev
+2014-04-02,20-158,CLE,AWAY,ORL,W (+21),0,2:36,2,2,1.000,0,0,,0,0,,0,0,0,1,0,0,0,1,4,3.7,+2,Sergey Karasev
+2014-04-09,20-165,CLE,HOME,DET,W (+22),0,7:11,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,1,3,0,-2.6,-7,Sergey Karasev

@@ -1,0 +1,17 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2015-04-18,23-190,MIL,AWAY,CHI,L (-12),1,34:03,4,13,0.308,0,0,,1,4,0.25,0,4,4,3,2,1,3,1,9,2.9,-7,Michael Carter-Williams
+2015-04-20,23-192,MIL,AWAY,CHI,L (-9),1,32:51,5,12,0.417,0,1,0.0,2,3,0.667,0,5,5,2,1,1,1,4,12,7.2,-6,Michael Carter-Williams
+2015-04-23,23-195,MIL,HOME,CHI,L (-7),1,43:23,9,21,0.429,0,3,0.0,1,1,1.0,1,3,4,9,2,0,4,4,19,12.2,-21,Michael Carter-Williams
+2015-04-25,23-197,MIL,HOME,CHI,W (+2),1,25:29,4,11,0.364,0,0,,0,0,,0,2,2,5,1,0,2,1,8,4.6,-11,Michael Carter-Williams
+2015-04-27,23-199,MIL,AWAY,CHI,W (+6),1,37:40,10,15,0.667,0,1,0.0,2,2,1.0,0,8,8,9,1,3,4,3,22,22.1,7,Michael Carter-Williams
+2015-04-30,23-202,MIL,HOME,CHI,L (-54),1,17:33,1,6,0.167,0,0,,1,2,0.5,0,4,4,1,0,1,2,1,3,-1.0,-35,Michael Carter-Williams
+2019-04-13,27-185,ORL,AWAY,TOR,W (+3),0,18:25,4,8,0.5,2,3,0.667,0,0,,0,5,5,2,0,0,1,1,10,7.5,-2,Michael Carter-Williams
+2019-04-16,27-188,ORL,AWAY,TOR,L (-29),0,24:32,4,9,0.444,0,1,0.0,0,1,0.0,2,7,9,2,0,0,2,5,8,3.8,-8,Michael Carter-Williams
+2019-04-19,27-191,ORL,HOME,TOR,L (-5),0,15:55,1,5,0.2,0,2,0.0,0,0,,0,4,4,1,0,0,2,2,2,-2.0,-1,Michael Carter-Williams
+2019-04-21,27-193,ORL,HOME,TOR,L (-22),0,15:15,2,4,0.5,0,1,0.0,0,0,,0,2,2,2,1,0,2,0,4,3.0,-1,Michael Carter-Williams
+2019-04-23,27-195,ORL,AWAY,TOR,L (-19),0,18:12,1,5,0.2,0,1,0.0,7,7,1.0,0,0,0,5,2,0,1,4,9,8.8,-3,Michael Carter-Williams
+2017-04-18,25-190,CHI,AWAY,BOS,W (+14),0,4:03,1,3,.333,0,0,,0,0,,0,0,0,0,1,0,0,0,2,1.3,+1,Michael Carter-Williams
+2017-04-21,25-193,CHI,HOME,BOS,L (-17),0,23:20,1,5,.200,0,0,,0,0,,1,3,4,3,1,1,3,3,2,0.1,-3,Michael Carter-Williams
+2017-04-23,25-195,CHI,HOME,BOS,L (-9),0,8:07,0,0,,0,0,,0,0,,0,0,0,1,0,0,2,2,0,-2.1,-11,Michael Carter-Williams
+2017-04-26,25-198,CHI,AWAY,BOS,L (-11),0,3:36,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,-4,Michael Carter-Williams
+2017-04-28,25-200,CHI,HOME,BOS,L (-22),0,13:30,3,6,.500,0,1,.000,2,4,.500,0,0,0,2,0,0,1,1,8,4.2,+8,Michael Carter-Williams

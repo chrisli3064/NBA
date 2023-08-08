@@ -1,0 +1,31 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+2021-01-01,25-012,WAS,AWAY,MIN,W (+21),0,6:19,.000,.000,19.0,0.0,8.8,15.5,0.0,0.0,83.3,39.9,25,110,-5.1,-46.6,Anzejs Pasecniks
+2019-12-18,23-363,WAS,HOME,CHI,L (-1),0,27:33,.514,.429,13.7,14.8,14.3,6.8,0.0,0.0,18.6,16.8,104,108,6.4,-7.0,Anzejs Pasecniks
+2019-12-20,24-000,WAS,AWAY,TOR,L (-4),0,13:50,.000,.000,7.9,28.1,17.1,8.7,0.0,0.0,25.0,12.2,36,118,-1.6,-14.7,Anzejs Pasecniks
+2019-12-21,24-001,WAS,AWAY,PHI,L (-17),0,22:20,.709,.667,4.9,4.6,4.7,7.8,0.0,0.0,0.0,14.6,150,129,8.1,-0.9,Anzejs Pasecniks
+2019-12-23,24-003,WAS,AWAY,NYK,W (+6),0,19:48,.799,.857,4.9,11.3,7.9,0.0,0.0,0.0,0.0,17.5,161,123,12.0,0.4,Anzejs Pasecniks
+2019-12-26,24-006,WAS,AWAY,DET,L (-30),0,23:41,.644,.636,11.1,16.4,13.2,8.5,4.2,0.0,0.0,23.1,143,130,15.0,4.1,Anzejs Pasecniks
+2019-12-28,24-008,WAS,HOME,NYK,L (-7),0,19:19,.347,.250,8.4,16.2,11.8,0.0,0.0,0.0,25.8,16.0,66,109,-0.5,-17.3,Anzejs Pasecniks
+2019-12-30,24-010,WAS,HOME,MIA,W (+18),0,18:21,.347,.500,18.2,44.7,31.1,13.0,2.7,11.6,0.0,7.1,139,96,6.6,2.3,Anzejs Pasecniks
+2020-01-01,24-012,WAS,HOME,ORL,L (-21),0,23:49,.250,.250,12.1,29.4,20.6,20.9,0.0,0.0,11.1,16.0,77,118,2.5,-9.6,Anzejs Pasecniks
+2020-01-03,24-014,WAS,HOME,POR,L (-19),0,17:35,.286,.286,31.0,28.7,30.0,8.4,0.0,0.0,30.0,24.2,71,129,0.3,-20.2,Anzejs Pasecniks
+2020-01-04,24-015,WAS,HOME,DEN,W (+14),0,22:11,.732,.750,17.1,24.6,21.1,5.8,0.0,3.7,10.1,18.8,145,113,11.4,1.9,Anzejs Pasecniks
+2020-01-06,24-017,WAS,HOME,BOS,W (+5),0,22:48,.735,.667,0.0,15.0,8.3,0.0,2.1,3.6,38.7,15.1,86,91,3.2,-6.4,Anzejs Pasecniks
+2020-01-08,24-019,WAS,AWAY,ORL,L (-34),0,35:04,.752,.750,5.7,9.5,7.5,14.8,0.0,4.6,22.0,16.2,120,122,14.0,0.3,Anzejs Pasecniks
+2020-01-10,24-021,WAS,HOME,ATL,W (+10),0,20:29,.307,.250,10.7,15.0,12.4,0.0,2.2,0.0,0.0,17.2,83,93,3.6,-8.7,Anzejs Pasecniks
+2020-01-12,24-023,WAS,HOME,UTA,L (-11),0,1:47,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,135,-0.8,-29.7,Anzejs Pasecniks
+2020-01-15,24-026,WAS,AWAY,CHI,L (-9),0,17:53,.635,.571,20.1,0.0,10.2,20.4,8.2,5.7,27.6,27.4,106,102,9.7,2.7,Anzejs Pasecniks
+2020-01-17,24-028,WAS,AWAY,TOR,L (-29),0,23:14,.671,.667,4.4,27.9,14.8,0.0,0.0,0.0,19.6,16.8,110,132,7.8,-3.8,Anzejs Pasecniks
+2020-01-22,24-033,WAS,AWAY,MIA,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Anzejs Pasecniks
+2020-01-23,24-034,WAS,AWAY,CLE,W (+12),0,15:23,.694,.500,9.5,14.2,12.2,7.1,0.0,5.0,25.8,11.8,128,115,3.5,-5.0,Anzejs Pasecniks
+2020-01-26,24-037,WAS,AWAY,ATL,L (-19),0,15:19,.868,1.000,7.1,8.2,7.6,0.0,0.0,10.8,0.0,7.7,181,140,5.2,-1.8,Anzejs Pasecniks
+2020-01-28,24-039,WAS,AWAY,MIL,L (-20),0,9:29,.333,.333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.8,71,152,-0.1,-16.5,Anzejs Pasecniks
+2020-02-07,24-049,WAS,HOME,DAL,W (+1),0,0:00,,,,,,,,,,,,,0.0,-8.8,Anzejs Pasecniks
+2020-02-11,24-053,WAS,HOME,CHI,W (+12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Anzejs Pasecniks
+2020-03-01,24-072,WAS,AWAY,GSW,W (+14),0,10:38,.798,1.000,0.0,9.6,5.2,0.0,0.0,0.0,0.0,7.9,158,115,1.8,-7.1,Anzejs Pasecniks
+2020-03-03,24-074,WAS,AWAY,SAC,L (-7),0,6:09,,,0.0,0.0,0.0,0.0,0.0,13.0,,0.0,0,124,0.7,-2.5,Anzejs Pasecniks
+2020-03-04,24-075,WAS,AWAY,POR,L (-21),0,15:32,.333,.333,10.7,16.7,13.0,0.0,0.0,6.2,0.0,7.6,100,124,1.4,-12.3,Anzejs Pasecniks
+2020-03-10,24-081,WAS,HOME,NYK,W (+7),0,2:34,.000,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,0,121,-1.2,-29.4,Anzejs Pasecniks
+2020-08-02,24-226,WAS,AWAY,BRK,L (-8),0,3:44,1.000,1.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,23.0,66,126,-0.1,-19.2,Anzejs Pasecniks
+2020-08-05,24-229,WAS,HOME,PHI,L (-9),0,7:36,,,0.0,28.1,14.2,0.0,0.0,0.0,,0.0,0,108,-1.0,-13.4,Anzejs Pasecniks
+2020-08-11,24-235,WAS,HOME,MIL,L (-13),0,20:46,.465,.444,12.6,16.5,14.3,7.8,2.2,0.0,8.5,22.8,101,117,6.6,-5.9,Anzejs Pasecniks

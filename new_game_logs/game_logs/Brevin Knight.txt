@@ -1,0 +1,691 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2008-10-29,32-356,UTA,HOME,DEN,W (+4),0,13:25,2,5,.400,0,0,,0,0,,1,1,2,1,0,0,2,2,4,0.2,-8,Brevin Knight
+2008-11-01,32-359,UTA,HOME,LAC,W (+22),0,21:35,4,6,.667,0,0,,0,2,.000,0,0,0,6,1,0,0,4,8,8.2,+22,Brevin Knight
+2008-11-03,32-361,UTA,AWAY,LAC,W (+16),0,23:04,2,9,.222,0,0,,0,0,,1,1,2,4,1,0,1,4,4,0.7,+19,Brevin Knight
+2008-11-05,32-363,UTA,HOME,POR,W (+7),0,26:45,3,4,.750,0,0,,0,0,,0,1,1,6,3,0,3,0,6,8.9,+10,Brevin Knight
+2008-11-07,32-365,UTA,HOME,OKC,W (+7),0,28:23,1,4,.250,0,0,,2,2,1.000,0,2,2,11,3,0,2,2,4,10.1,+9,Brevin Knight
+2008-11-09,33-001,UTA,AWAY,NYK,L (-8),0,24:00,3,8,.375,0,0,,4,4,1.000,0,5,5,6,0,0,2,3,10,8.1,+1,Brevin Knight
+2008-11-11,33-003,UTA,AWAY,PHI,W (+13),0,11:26,0,3,.000,0,0,,0,0,,0,1,1,1,1,0,1,1,0,-1.5,+11,Brevin Knight
+2008-11-12,33-004,UTA,AWAY,WAS,L (-8),0,7:57,0,1,.000,0,0,,0,0,,0,1,1,1,1,0,1,0,0,0.3,+4,Brevin Knight
+2008-11-14,33-006,UTA,AWAY,CHA,L (-8),0,27:10,2,5,.400,0,0,,4,6,.667,1,2,3,4,2,0,3,6,8,5.2,-6,Brevin Knight
+2008-11-15,33-007,UTA,AWAY,CLE,L (-12),0,23:45,3,5,.600,0,0,,3,3,1.000,1,1,2,6,0,0,1,2,9,10.1,+2,Brevin Knight
+2008-11-17,33-009,UTA,HOME,PHO,W (+12),0,20:57,6,7,.857,0,0,,0,0,,1,1,2,6,1,0,1,0,12,14.7,+19,Brevin Knight
+2008-11-21,33-013,UTA,AWAY,SAS,L (-25),0,10:58,0,1,.000,0,0,,2,2,1.000,0,0,0,1,0,0,1,2,2,0.2,-12,Brevin Knight
+2008-11-22,33-014,UTA,AWAY,MEM,W (+9),0,25:11,3,6,.500,0,0,,0,1,.000,0,1,1,4,2,0,2,2,6,4.9,+10,Brevin Knight
+2008-11-24,33-016,UTA,HOME,CHI,L (-1),0,14:18,2,5,.400,0,0,,0,0,,2,1,3,3,0,0,1,1,4,3.7,-2,Brevin Knight
+2008-12-05,33-027,UTA,HOME,TOR,W (+27),0,20:26,1,4,.250,0,0,,0,0,,0,3,3,3,2,0,1,2,2,2.8,+8,Brevin Knight
+2008-12-06,33-028,UTA,AWAY,PHO,L (-2),0,5:29,0,2,.000,0,0,,0,0,,0,0,0,1,0,0,1,1,0,-2.1,+1,Brevin Knight
+2008-12-09,33-031,UTA,AWAY,MIN,W (+3),0,10:40,1,1,1.000,0,0,,0,0,,0,0,0,0,1,0,1,3,2,0.5,-5,Brevin Knight
+2008-12-11,33-033,UTA,HOME,POR,W (+9),0,8:29,1,1,1.000,0,0,,0,0,,0,0,0,0,4,0,1,1,2,4.3,-5,Brevin Knight
+2008-12-13,33-035,UTA,HOME,ORL,L (-9),0,14:04,1,4,.250,0,1,.000,0,0,,0,2,2,6,2,0,1,1,2,5.0,0,Brevin Knight
+2008-12-15,33-037,UTA,AWAY,BOS,L (-9),0,16:23,0,1,.000,0,0,,3,4,.750,1,0,1,5,3,0,1,1,3,7.7,+6,Brevin Knight
+2008-12-17,33-039,UTA,AWAY,NJN,W (+11),0,14:06,0,1,.000,0,0,,1,2,.500,1,2,3,3,0,0,0,3,1,2.1,+10,Brevin Knight
+2008-12-19,33-041,UTA,AWAY,DET,W (+6),0,12:04,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,1,2,0,-1.8,-11,Brevin Knight
+2008-12-20,33-042,UTA,AWAY,CHI,L (-8),0,13:26,1,3,.333,0,0,,0,0,,0,2,2,3,1,0,1,1,2,2.6,-5,Brevin Knight
+2008-12-23,33-045,UTA,AWAY,MIL,L (-8),0,6:17,0,0,,0,0,,2,2,1.000,0,1,1,2,0,0,0,1,2,3.3,-3,Brevin Knight
+2008-12-26,33-048,UTA,HOME,DAL,W (+9),0,5:04,0,1,.000,0,0,,0,0,,0,2,2,2,0,0,0,1,0,0.9,+8,Brevin Knight
+2008-12-27,33-049,UTA,AWAY,HOU,L (-5),0,13:17,0,4,.000,0,0,,0,0,,0,1,1,6,1,0,1,0,0,1.7,+2,Brevin Knight
+2008-12-29,33-051,UTA,HOME,PHI,W (+17),0,14:43,0,2,.000,0,0,,0,0,,0,1,1,3,1,0,2,1,0,-0.4,-2,Brevin Knight
+2009-01-02,33-055,UTA,AWAY,LAL,L (-13),0,5:20,1,1,1.000,0,0,,0,0,,0,0,0,2,0,0,1,0,2,2.1,-6,Brevin Knight
+2009-01-05,33-058,UTA,HOME,GSW,W (+5),0,12:05,1,2,.500,0,0,,1,2,.500,0,1,1,2,0,0,0,2,3,2.5,-2,Brevin Knight
+2009-01-07,33-060,UTA,HOME,NOH,W (+26),0,19:46,1,4,.250,0,1,.000,1,2,.500,2,2,4,4,2,0,1,1,3,5.6,+9,Brevin Knight
+2009-01-10,33-063,UTA,HOME,DET,W (+17),0,19:13,1,3,.333,0,0,,2,3,.667,0,0,0,1,0,0,3,4,4,-2.0,+8,Brevin Knight
+2009-01-12,33-065,UTA,HOME,IND,W (+7),0,10:07,0,2,.000,0,0,,0,0,,0,3,3,3,0,0,1,1,0,0.2,-12,Brevin Knight
+2009-01-14,33-067,UTA,AWAY,OKC,L (-21),0,14:31,1,4,.250,0,0,,2,2,1.000,0,0,0,4,1,0,0,2,4,4.6,0,Brevin Knight
+2009-01-16,33-069,UTA,AWAY,MEM,W (+10),0,9:06,1,2,.500,0,0,,0,0,,0,2,2,1,0,0,0,1,2,1.9,-2,Brevin Knight
+2009-01-17,33-070,UTA,AWAY,DAL,L (-7),0,10:04,1,1,1.000,0,0,,0,0,,0,1,1,3,3,1,1,1,2,6.4,+9,Brevin Knight
+2009-01-20,33-073,UTA,HOME,MIN,W (+5),0,15:34,2,6,.333,0,1,.000,0,0,,0,2,2,1,0,0,1,3,4,-0.3,-6,Brevin Knight
+2009-01-21,33-074,UTA,AWAY,HOU,L (-9),0,15:17,0,3,.000,0,0,,0,0,,0,0,0,3,3,1,1,1,0,2.3,-9,Brevin Knight
+2009-01-24,33-077,UTA,HOME,CLE,L (-5),0,12:52,0,3,.000,0,0,,0,0,,0,1,1,3,0,0,0,1,0,-0.1,+6,Brevin Knight
+2009-01-25,33-078,UTA,AWAY,DEN,L (-20),0,12:10,0,2,.000,0,0,,0,0,,0,0,0,1,0,0,0,0,0,-0.7,-9,Brevin Knight
+2009-01-27,33-080,UTA,HOME,SAS,L (-6),0,4:09,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1,Brevin Knight
+2009-01-30,33-083,UTA,HOME,OKC,W (+20),0,10:16,0,3,.000,0,0,,0,0,,0,0,0,3,1,0,0,1,0,0.6,-1,Brevin Knight
+2009-01-31,33-084,UTA,AWAY,POR,L (-14),0,7:33,0,0,,0,0,,2,2,1.000,0,3,3,2,0,0,1,1,2,2.9,+4,Brevin Knight
+2009-02-02,33-086,UTA,HOME,CHA,W (+19),0,24:00,0,4,.000,0,1,.000,4,6,.667,0,3,3,7,2,1,1,3,4,6.7,+17,Brevin Knight
+2009-02-05,33-089,UTA,HOME,DAL,W (+28),0,5:21,0,2,.000,0,0,,0,0,,0,1,1,2,0,0,1,1,0,-1.1,+11,Brevin Knight
+2009-02-06,33-090,UTA,AWAY,SAC,W (+4),0,14:00,0,1,.000,0,0,,0,0,,0,1,1,3,2,0,1,2,0,1.9,-5,Brevin Knight
+2009-02-08,33-092,UTA,AWAY,GSW,L (-20),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2009-02-17,33-101,UTA,HOME,MEM,W (+18),0,7:45,1,1,1.000,0,0,,2,2,1.000,0,1,1,1,1,0,0,3,4,4.5,-5,Brevin Knight
+2009-02-19,33-103,UTA,HOME,BOS,W (+5),0,8:03,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-2.1,-3,Brevin Knight
+2009-02-21,33-105,UTA,HOME,NOH,W (+14),0,9:31,0,0,,0,0,,2,2,1.000,0,2,2,2,2,0,0,1,2,5.6,+4,Brevin Knight
+2009-02-23,33-107,UTA,HOME,ATL,W (+19),0,20:21,1,4,.250,0,0,,0,0,,0,3,3,6,1,0,0,1,2,5.3,+4,Brevin Knight
+2009-02-25,33-109,UTA,AWAY,MIN,W (+17),0,11:17,1,2,.500,0,1,.000,1,3,.333,1,2,3,1,2,0,0,1,3,4.8,+8,Brevin Knight
+2009-02-28,33-112,UTA,HOME,SAC,W (+13),0,13:05,1,2,.500,0,0,,0,0,,0,0,0,4,1,0,2,0,2,2.8,+2,Brevin Knight
+2009-03-01,33-113,UTA,AWAY,GSW,W (+8),0,6:06,0,0,,0,0,,0,0,,0,0,0,2,1,0,0,2,0,1.6,0,Brevin Knight
+2009-03-04,33-116,UTA,HOME,HOU,W (+7),0,6:36,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,2,1,2,-0.4,-1,Brevin Knight
+2009-03-06,33-118,UTA,HOME,DEN,W (+6),0,4:45,0,0,,0,0,,0,0,,0,2,2,2,0,0,0,1,0,1.6,-2,Brevin Knight
+2009-03-08,33-120,UTA,AWAY,TOR,W (+8),0,10:14,0,1,.000,0,0,,0,0,,0,0,0,2,0,0,0,0,0,0.7,-2,Brevin Knight
+2009-03-10,33-122,UTA,AWAY,IND,W (+12),0,11:49,1,3,.333,0,0,,0,0,,0,0,0,1,3,0,1,0,2,3.0,-2,Brevin Knight
+2009-03-11,33-123,UTA,AWAY,ATL,L (-7),0,6:47,2,3,.667,0,0,,0,0,,0,0,0,0,0,0,1,1,4,1.3,-6,Brevin Knight
+2009-03-14,33-126,UTA,AWAY,MIA,L (-11),0,11:43,0,3,.000,0,0,,0,0,,0,2,2,3,0,0,1,1,0,-0.8,+6,Brevin Knight
+2009-03-15,33-127,UTA,AWAY,ORL,L (-18),0,7:59,0,2,.000,0,0,,0,0,,0,0,0,3,0,0,0,0,0,0.7,-1,Brevin Knight
+2009-03-17,33-129,UTA,HOME,WAS,W (+15),0,20:21,2,2,1.000,0,0,,0,0,,0,0,0,1,2,0,1,0,4,5.1,-1,Brevin Knight
+2009-03-20,33-132,UTA,AWAY,OKC,W (+7),0,7:04,0,3,.000,0,0,,2,2,1.000,0,0,0,1,1,0,0,1,2,1.2,0,Brevin Knight
+2009-03-24,33-136,UTA,HOME,HOU,W (+13),0,11:20,2,4,.500,0,0,,0,0,,0,2,2,2,0,0,1,2,4,2.2,+7,Brevin Knight
+2009-03-25,33-137,UTA,AWAY,PHO,L (-4),0,8:38,0,1,.000,0,0,,0,0,,0,0,0,1,2,0,3,1,0,-1.4,-7,Brevin Knight
+2009-03-28,33-140,UTA,HOME,PHO,W (+5),0,13:22,0,3,.000,0,0,,2,2,1.000,0,2,2,0,0,0,2,1,2,-1.9,-6,Brevin Knight
+2009-03-30,33-142,UTA,HOME,NYK,W (+8),0,6:27,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,-1,Brevin Knight
+2009-03-31,33-143,UTA,AWAY,POR,L (-21),0,11:42,2,3,.667,0,0,,0,0,,0,1,1,1,0,0,1,0,4,2.7,-3,Brevin Knight
+2009-04-02,33-145,UTA,AWAY,DEN,L (-10),0,7:48,0,0,,0,0,,0,0,,0,2,2,1,1,0,1,2,0,0.5,-3,Brevin Knight
+2009-04-03,33-146,UTA,HOME,MIN,L (-1),0,8:52,0,0,,0,0,,0,0,,0,0,0,3,2,0,0,1,0,3.7,-1,Brevin Knight
+2009-04-05,33-148,UTA,AWAY,NOH,W (+14),0,14:30,1,3,.333,0,0,,2,2,1.000,1,1,2,4,2,0,1,0,4,7.1,+11,Brevin Knight
+2009-04-08,33-151,UTA,AWAY,DAL,L (-29),0,5:05,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,1,1,0,-1.4,-8,Brevin Knight
+2009-04-10,33-153,UTA,AWAY,SAS,L (-6),0,5:31,0,0,,0,0,,2,2,1.000,0,0,0,1,0,0,1,0,2,1.7,-1,Brevin Knight
+2009-04-11,33-154,UTA,HOME,GSW,L (-10),0,8:17,4,5,.800,0,0,,0,0,,0,1,1,3,0,0,0,2,8,7.7,-9,Brevin Knight
+2009-04-13,33-156,UTA,HOME,LAC,W (+21),0,9:10,0,1,.000,0,0,,0,0,,0,0,0,3,2,0,1,1,0,2.0,-3,Brevin Knight
+2009-04-14,33-157,UTA,AWAY,LAL,L (-13),0,8:45,1,2,.500,0,1,.000,2,4,.500,0,1,1,1,1,1,0,1,4,4.5,+6,Brevin Knight
+2001-11-01,25-358,MEM,HOME,DET,L (-10),0,15:32,0,2,.000,0,0,,3,3,1.000,1,3,4,4,0,1,0,2,3,5.9,-1,Brevin Knight
+2001-11-02,25-359,MEM,AWAY,MIN,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2001-11-04,25-361,MEM,HOME,DAL,L (-9),0,10:40,1,1,1.000,0,0,,0,0,,0,0,0,1,0,0,1,3,2,0.2,-15,Brevin Knight
+2001-11-06,25-363,MEM,AWAY,PHO,L (-12),0,13:57,0,3,.000,0,0,,5,6,.833,0,2,2,1,0,0,3,2,5,0.0,-14,Brevin Knight
+2001-11-07,25-364,MEM,AWAY,LAC,L (-16),0,33:04,6,12,.500,0,0,,4,6,.667,0,7,7,6,2,0,3,5,16,12.5,-4,Brevin Knight
+2001-11-09,26-001,MEM,AWAY,LAL,L (-24),0,23:08,2,9,.222,0,0,,5,5,1.000,2,0,2,8,2,0,1,1,9,11.1,-3,Brevin Knight
+2001-11-12,26-004,MEM,HOME,GSW,L (-7),0,26:21,0,6,.000,0,0,,0,0,,0,0,0,3,1,0,5,5,0,-8.1,-15,Brevin Knight
+2001-11-15,26-007,MEM,HOME,POR,L (-16),0,18:10,1,4,.250,0,0,,1,2,.500,0,3,3,7,0,0,0,2,3,5.2,+4,Brevin Knight
+2001-11-17,26-009,MEM,HOME,CLE,W (+5),0,8:28,0,2,.000,0,1,.000,2,2,1.000,1,0,1,0,0,0,0,1,2,0.9,-4,Brevin Knight
+2001-11-21,26-013,MEM,AWAY,CLE,L (-7),0,16:18,3,6,.500,0,0,,1,2,.500,0,0,0,4,4,0,2,2,7,7.6,-3,Brevin Knight
+2001-11-23,26-015,MEM,HOME,PHO,L (-14),0,20:48,2,7,.286,0,0,,2,3,.667,1,3,4,3,5,0,1,2,6,8.4,-7,Brevin Knight
+2001-11-24,26-016,MEM,AWAY,DET,L (-7),0,19:01,3,4,.750,0,0,,0,0,,0,0,0,8,3,0,3,2,6,9.2,+1,Brevin Knight
+2001-11-26,26-018,MEM,HOME,SAC,W (+4),0,20:39,2,4,.500,0,0,,0,0,,0,1,1,11,1,1,1,3,4,9.5,+12,Brevin Knight
+2001-11-29,26-021,MEM,AWAY,TOR,L (-3),0,19:22,4,6,.667,0,0,,0,1,.000,1,0,1,6,1,0,3,2,8,7.1,+8,Brevin Knight
+2001-11-30,26-022,MEM,HOME,HOU,W (+17),0,14:29,2,7,.286,0,0,,0,0,,1,1,2,6,3,0,1,1,4,6.7,+9,Brevin Knight
+2001-12-02,26-024,MEM,AWAY,PHI,W (+6),0,21:16,5,8,.625,0,0,,3,3,1.000,1,2,3,7,1,1,4,5,13,11.3,+14,Brevin Knight
+2001-12-03,26-025,MEM,AWAY,ORL,L (-42),0,18:33,2,7,.286,0,0,,4,4,1.000,0,1,1,2,2,0,0,2,8,6.8,-25,Brevin Knight
+2001-12-06,26-028,MEM,HOME,MIN,L (-25),0,24:52,2,5,.400,0,0,,0,0,,0,0,0,6,1,0,3,2,4,2.7,-11,Brevin Knight
+2001-12-08,26-030,MEM,HOME,PHI,W (+9),0,17:57,1,3,.333,0,1,.000,3,4,.750,0,4,4,4,1,0,1,1,5,6.5,+9,Brevin Knight
+2001-12-11,26-033,MEM,HOME,WAS,L (-10),0,20:37,3,6,.500,0,0,,0,0,,0,0,0,5,2,0,2,3,6,5.3,-3,Brevin Knight
+2001-12-13,26-035,MEM,AWAY,DEN,L (-3),1,35:09,4,10,.400,0,0,,0,1,.000,0,2,2,7,4,0,5,3,8,5.5,-1,Brevin Knight
+2001-12-15,26-037,MEM,AWAY,GSW,L (-9),0,17:27,1,3,.333,0,0,,0,0,,0,3,3,6,0,0,3,2,2,1.6,+3,Brevin Knight
+2001-12-16,26-038,MEM,AWAY,SAC,L (-17),0,19:58,1,3,.333,0,0,,1,2,.500,0,3,3,3,1,0,2,1,3,2.5,-11,Brevin Knight
+2001-12-18,26-040,MEM,HOME,MIL,L (-9),0,12:17,0,3,.000,0,1,.000,0,0,,0,0,0,2,0,0,1,5,0,-3.7,-4,Brevin Knight
+2001-12-20,26-042,MEM,AWAY,NYK,W (+2),0,12:54,2,5,.400,0,0,,3,4,.750,0,0,0,2,4,0,2,3,7,6.1,-8,Brevin Knight
+2001-12-21,26-043,MEM,HOME,LAL,W (+6),0,16:32,9,10,.900,0,0,,2,2,1.000,0,0,0,4,2,0,2,0,20,19.4,+5,Brevin Knight
+2001-12-23,26-045,MEM,AWAY,BOS,L (-5),0,23:44,1,4,.250,0,0,,1,1,1.000,0,4,4,8,5,0,3,3,3,8.2,+11,Brevin Knight
+2001-12-26,26-048,MEM,HOME,CHI,W (+22),0,7:32,0,4,.000,0,0,,0,0,,0,1,1,3,1,0,0,1,0,0.2,0,Brevin Knight
+2001-12-28,26-050,MEM,AWAY,MIA,W (+5),0,6:11,0,1,.000,0,0,,0,1,.000,0,0,0,1,2,0,1,0,0,0.6,0,Brevin Knight
+2001-12-30,26-052,MEM,HOME,SAS,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2002-01-02,26-055,MEM,AWAY,NJN,L (-18),0,26:50,1,7,.143,0,0,,1,1,1.000,0,2,2,5,2,0,0,2,3,3.8,-3,Brevin Knight
+2002-01-04,26-057,MEM,HOME,ATL,L (-4),0,19:25,5,9,.556,0,1,.000,6,7,.857,0,1,1,4,1,0,0,4,16,13.8,+5,Brevin Knight
+2002-01-06,26-059,MEM,HOME,SEA,L (-12),0,19:59,2,3,.667,0,0,,0,0,,0,1,1,3,1,0,2,1,4,3.7,0,Brevin Knight
+2002-01-08,26-061,MEM,HOME,TOR,W (+3),0,12:30,1,4,.250,0,0,,0,2,.000,0,2,2,2,1,0,3,3,2,-2.4,-14,Brevin Knight
+2002-01-10,26-063,MEM,AWAY,PHO,W (+6),0,13:15,0,0,,0,0,,0,0,,0,0,0,3,0,0,3,2,0,-1.7,-7,Brevin Knight
+2002-01-12,26-065,MEM,AWAY,UTA,W (+2),0,18:39,3,7,.429,0,0,,1,1,1.000,0,2,2,5,1,0,2,4,7,4.8,+3,Brevin Knight
+2002-01-14,26-067,MEM,AWAY,LAL,L (-39),0,14:49,0,3,.000,0,0,,0,0,,0,1,1,3,0,0,3,1,0,-3.1,-19,Brevin Knight
+2002-01-17,26-070,MEM,HOME,DAL,L (-11),0,21:03,6,8,.750,0,0,,0,0,,0,1,1,4,2,0,1,5,12,10.9,-9,Brevin Knight
+2002-01-19,26-072,MEM,HOME,ORL,L (-16),0,26:06,2,7,.286,0,1,.000,3,3,1.000,0,1,1,13,1,0,3,6,7,7.9,+2,Brevin Knight
+2002-01-21,26-074,MEM,AWAY,SAC,L (-14),1,37:01,5,10,.500,0,0,,2,2,1.000,0,4,4,10,2,0,2,3,12,14.0,-8,Brevin Knight
+2002-01-23,26-076,MEM,AWAY,GSW,L (-12),0,19:15,3,6,.500,0,0,,1,2,.500,0,2,2,4,1,0,2,3,7,4.8,-6,Brevin Knight
+2002-01-24,26-077,MEM,AWAY,POR,L (-38),0,26:45,10,12,.833,2,2,1.000,0,2,.000,0,3,3,5,3,0,3,4,22,19.6,-16,Brevin Knight
+2002-01-26,26-079,MEM,AWAY,CHI,L (-3),0,15:54,4,8,.500,0,0,,0,0,,1,1,2,7,1,0,1,1,8,9.5,+1,Brevin Knight
+2002-01-28,26-081,MEM,HOME,LAC,W (+4),1,41:56,5,13,.385,0,0,,9,11,.818,1,5,6,15,2,1,1,4,19,23.9,+5,Brevin Knight
+2002-01-30,26-083,MEM,AWAY,IND,L (-1),1,43:03,5,15,.333,0,0,,2,2,1.000,0,6,6,13,2,0,4,2,12,11.6,-1,Brevin Knight
+2002-02-01,26-085,MEM,HOME,LAL,L (-15),1,36:57,5,10,.500,0,0,,3,4,.750,0,3,3,10,2,0,4,3,13,12.3,-13,Brevin Knight
+2002-02-03,26-087,MEM,HOME,CHH,L (-18),1,32:47,3,7,.429,0,0,,2,2,1.000,0,3,3,10,0,0,3,4,8,7.6,-22,Brevin Knight
+2002-02-05,26-089,MEM,HOME,UTA,W (+7),1,21:06,2,4,.500,0,0,,4,9,.444,0,3,3,7,1,0,2,5,8,6.8,+4,Brevin Knight
+2002-02-07,26-091,MEM,AWAY,MIL,L (-4),1,44:11,9,18,.500,0,1,.000,6,7,.857,0,3,3,10,2,2,4,4,24,20.3,+4,Brevin Knight
+2002-02-12,26-096,MEM,AWAY,HOU,L (-7),1,24:38,2,7,.286,0,0,,0,0,,0,5,5,8,2,0,4,3,4,3.8,-7,Brevin Knight
+2002-02-14,26-098,MEM,HOME,DEN,L (-15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2002-02-17,26-101,MEM,AWAY,CHH,W (+14),0,31:38,3,6,.500,0,0,,4,4,1.000,0,4,4,11,2,0,4,4,10,12.3,+19,Brevin Knight
+2002-02-19,26-103,MEM,AWAY,SAS,L (-6),0,42:31,6,17,.353,0,0,,2,2,1.000,0,4,4,14,2,0,2,1,14,15.1,+6,Brevin Knight
+2002-02-21,26-105,MEM,HOME,PHO,L (-6),1,25:59,1,3,.333,0,0,,0,1,.000,0,1,1,4,0,1,4,1,2,-0.7,+10,Brevin Knight
+2002-02-25,26-109,MEM,HOME,LAC,L (-13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2002-02-26,26-110,MEM,AWAY,DAL,L (-13),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Brevin Knight
+2002-03-01,26-113,MEM,AWAY,DEN,L (-13),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Brevin Knight
+2002-03-03,26-115,MEM,HOME,SEA,L (-25),1,1:59,0,0,,0,0,,0,0,,0,1,1,2,0,0,0,0,0,1.7,+2,Brevin Knight
+2002-03-04,26-116,MEM,AWAY,ATL,L (-19),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Brevin Knight
+2002-03-07,26-119,MEM,HOME,IND,W (+11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2002-03-09,26-121,MEM,HOME,MIA,L (-5),0,16:11,1,5,.200,0,0,,1,1,1.000,1,1,2,2,0,0,1,1,3,0.9,-11,Brevin Knight
+2002-03-11,26-123,MEM,HOME,UTA,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2002-03-12,26-124,MEM,AWAY,SAS,L (-14),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Brevin Knight
+2002-03-15,26-127,MEM,HOME,BOS,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2002-03-17,26-129,MEM,HOME,NJN,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2002-03-19,26-131,MEM,HOME,NYK,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2002-03-21,26-133,MEM,HOME,MIN,L (-2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2002-03-25,26-137,MEM,AWAY,POR,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2002-03-27,26-139,MEM,AWAY,SEA,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2002-03-30,26-142,MEM,HOME,GSW,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2002-04-02,26-145,MEM,HOME,SAC,L (-24),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2002-04-03,26-146,MEM,AWAY,MIN,L (-11),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Brevin Knight
+2002-04-05,26-148,MEM,HOME,HOU,W (+18),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2002-04-06,26-149,MEM,AWAY,WAS,L (-3),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Brevin Knight
+2002-04-09,26-152,MEM,HOME,DEN,W (+11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2002-04-11,26-154,MEM,HOME,POR,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2002-04-13,26-156,MEM,HOME,SAS,L (-21),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2002-04-14,26-157,MEM,AWAY,HOU,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2002-04-16,26-159,MEM,AWAY,LAC,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2002-04-17,26-160,MEM,AWAY,SEA,L (-15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2000-12-01,25-023,CLE,AWAY,DET,L (-10),0,17:16,0,2,.000,0,0,,0,0,,0,1,1,2,2,0,2,2,0,-0.5,-3,Brevin Knight
+2000-12-05,25-027,CLE,HOME,CHH,W (+5),0,10:00,1,4,.250,0,0,,0,0,,1,0,1,1,0,0,0,3,2,-0.2,-6,Brevin Knight
+2000-12-06,25-028,CLE,AWAY,CHI,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2000-12-23,25-045,CLE,AWAY,ORL,L (-19),0,19:00,0,1,.000,0,0,,0,0,,0,4,4,7,1,0,3,1,0,3.0,-1,Brevin Knight
+2000-12-26,25-048,CLE,AWAY,CHH,L (-5),0,13:30,1,5,.200,0,0,,1,2,.500,0,0,0,3,1,0,0,3,3,1.4,-12,Brevin Knight
+2000-12-28,25-050,CLE,HOME,MIL,L (-18),0,17:56,0,1,.000,0,0,,0,0,,0,0,0,6,0,1,1,5,0,1.2,+6,Brevin Knight
+2000-12-29,25-051,CLE,AWAY,ATL,W (+12),0,16:00,0,2,.000,0,0,,4,4,1.000,0,1,1,6,2,0,1,3,4,6.9,-1,Brevin Knight
+2001-01-03,25-056,ATL,AWAY,PHI,L (-18),0,24:55,3,11,.273,0,2,.000,0,0,,1,3,4,7,3,0,2,2,6,6.2,-12,Brevin Knight
+2001-01-06,25-059,ATL,HOME,ORL,W (+1),0,19:05,0,2,.000,0,0,,1,2,.500,0,2,2,2,1,0,2,3,1,-1.0,0,Brevin Knight
+2001-01-09,25-062,ATL,HOME,SEA,L (-9),0,27:48,4,7,.571,0,1,.000,0,2,.000,0,5,5,6,2,0,0,4,8,10.0,-2,Brevin Knight
+2001-01-11,25-064,ATL,HOME,GSW,W (+11),1,33:06,3,7,.429,0,0,,1,2,.500,1,2,3,7,1,1,1,3,7,8.6,+7,Brevin Knight
+2001-01-13,25-066,ATL,HOME,LAC,W (+20),1,33:58,6,11,.545,0,0,,2,2,1.000,1,4,5,7,2,0,0,5,14,15.5,+14,Brevin Knight
+2001-01-15,25-068,ATL,HOME,NJN,L (-6),1,26:20,4,6,.667,0,0,,0,0,,0,4,4,2,2,0,5,6,8,2.6,-8,Brevin Knight
+2001-01-18,25-071,ATL,AWAY,IND,L (-8),1,42:53,3,13,.231,0,0,,0,0,,1,5,6,8,3,0,2,4,6,5.3,-8,Brevin Knight
+2001-01-21,25-074,ATL,AWAY,WAS,L (-4),1,39:37,11,24,.458,1,1,1.000,8,9,.889,1,4,5,10,3,0,1,4,31,27.5,+6,Brevin Knight
+2001-01-23,25-076,ATL,AWAY,BOS,L (-1),1,16:12,2,6,.333,0,0,,0,0,,0,2,2,2,4,0,3,0,4,3.6,-1,Brevin Knight
+2001-02-02,25-086,ATL,HOME,MIA,L (-11),0,5:34,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,0,2,0,-0.8,-3,Brevin Knight
+2001-02-03,25-087,ATL,AWAY,ORL,L (-12),1,33:00,3,9,.333,0,0,,1,1,1.000,1,4,5,2,1,0,1,6,7,2.8,-13,Brevin Knight
+2001-02-05,25-089,ATL,HOME,DAL,L (-10),1,43:16,4,12,.333,0,1,.000,3,4,.750,2,6,8,7,3,0,4,3,11,9.7,-12,Brevin Knight
+2001-02-06,25-090,ATL,AWAY,NJN,L (-6),1,22:09,2,6,.333,0,0,,3,4,.750,1,1,2,4,1,0,3,3,7,3.8,-10,Brevin Knight
+2001-02-08,25-092,ATL,AWAY,CHH,L (-17),1,36:16,4,12,.333,0,0,,1,1,1.000,0,6,6,10,0,1,2,3,9,8.5,-8,Brevin Knight
+2001-02-13,25-097,ATL,AWAY,CHI,L (-4),1,37:22,4,11,.364,0,0,,2,2,1.000,0,3,3,9,5,0,2,3,10,12.9,-9,Brevin Knight
+2001-02-14,25-098,ATL,HOME,MIL,L (-4),1,44:56,1,10,.100,0,0,,0,0,,0,4,4,11,2,0,1,5,2,3.3,-3,Brevin Knight
+2001-02-17,25-101,ATL,AWAY,SEA,W (+7),1,6:46,0,1,.000,0,0,,0,0,,0,0,0,6,2,0,1,0,0,4.5,+1,Brevin Knight
+2001-02-18,25-102,ATL,AWAY,GSW,W (+7),1,38:46,4,11,.364,0,0,,0,0,,0,9,9,5,2,1,2,2,8,8.0,+2,Brevin Knight
+2001-02-20,25-104,ATL,AWAY,SAC,L (-14),1,33:49,2,8,.250,0,1,.000,3,4,.750,1,8,9,8,0,0,4,2,7,5.7,-10,Brevin Knight
+2001-02-23,25-107,ATL,AWAY,LAL,L (-7),1,35:17,1,7,.143,0,1,.000,2,2,1.000,1,3,4,8,2,0,2,3,4,5.5,-9,Brevin Knight
+2001-02-24,25-108,ATL,AWAY,DEN,L (-3),1,37:02,2,6,.333,0,1,.000,2,2,1.000,0,3,3,10,2,0,1,4,6,9.9,+3,Brevin Knight
+2001-02-26,25-110,ATL,AWAY,UTA,L (-17),1,26:00,3,8,.375,0,0,,0,2,.000,1,5,6,2,0,0,2,1,6,2.0,-21,Brevin Knight
+2001-02-28,25-112,ATL,HOME,TOR,L (-7),1,41:10,9,15,.600,0,1,.000,2,2,1.000,0,3,3,8,2,0,3,2,20,17.8,-1,Brevin Knight
+2001-03-02,25-114,ATL,HOME,CHH,L (-6),1,22:22,1,5,.200,0,0,,0,0,,1,0,1,6,0,0,0,4,2,2.2,-9,Brevin Knight
+2001-03-03,25-115,ATL,AWAY,SAS,L (-29),1,32:40,6,11,.545,0,0,,0,0,,0,2,2,6,5,0,1,2,12,14.7,-22,Brevin Knight
+2001-03-05,25-117,ATL,HOME,UTA,L (-7),1,40:11,4,9,.444,0,0,,6,6,1.000,0,3,3,6,1,0,3,1,14,12.0,-5,Brevin Knight
+2001-03-07,25-119,ATL,HOME,HOU,L (-6),1,29:05,3,10,.300,0,0,,0,0,,1,3,4,7,3,0,1,5,6,6.7,-6,Brevin Knight
+2001-03-09,25-121,ATL,AWAY,PHI,L (-5),1,28:35,0,4,.000,0,0,,0,0,,0,5,5,8,2,0,0,3,0,5.1,-14,Brevin Knight
+2001-03-10,25-122,ATL,HOME,CHI,W (+3),1,34:28,3,5,.600,0,0,,0,0,,0,5,5,5,2,0,3,0,6,7.7,+12,Brevin Knight
+2001-03-13,25-125,ATL,HOME,VAN,W (+10),1,34:10,4,5,.800,0,0,,2,2,1.000,1,2,3,7,3,0,1,5,10,14.3,+10,Brevin Knight
+2001-03-16,25-128,ATL,AWAY,IND,L (-6),1,6:42,0,1,.000,0,0,,0,0,,0,2,2,1,3,0,0,1,0,3.2,+1,Brevin Knight
+2001-03-17,25-129,ATL,HOME,DET,L (-16),1,37:34,2,7,.286,0,0,,0,0,,0,2,2,2,1,0,2,4,4,-0.7,-6,Brevin Knight
+2001-03-19,25-131,ATL,HOME,LAL,W (+2),1,35:11,4,8,.500,0,0,,0,0,,1,1,2,8,5,0,1,4,8,13.0,0,Brevin Knight
+2001-03-22,25-134,ATL,HOME,SAS,L (-14),1,20:39,0,4,.000,0,0,,0,0,,1,2,3,2,1,0,0,1,0,0.5,-10,Brevin Knight
+2001-03-23,25-135,ATL,AWAY,TOR,L (-26),1,27:56,3,5,.600,0,0,,0,0,,0,1,1,5,0,0,3,1,6,4.1,-25,Brevin Knight
+2001-03-25,25-137,ATL,AWAY,MIL,L (-7),1,27:20,5,11,.455,0,0,,0,0,,0,1,1,7,1,0,3,3,10,6.3,-4,Brevin Knight
+2001-03-27,25-139,ATL,HOME,BOS,L (-3),1,7:26,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,2,2,1.2,-2,Brevin Knight
+2001-03-29,25-141,ATL,HOME,IND,W (+11),1,27:30,1,3,.333,0,0,,0,0,,0,3,3,9,2,0,1,5,2,6.5,+17,Brevin Knight
+2001-03-31,25-143,ATL,HOME,DEN,W (+11),1,17:58,0,2,.000,0,0,,0,0,,1,2,3,4,1,0,2,3,0,0.5,-3,Brevin Knight
+2001-04-05,25-148,ATL,AWAY,DAL,L (-14),1,27:22,6,11,.545,0,1,.000,0,0,,0,2,2,3,2,0,5,2,12,5.6,-15,Brevin Knight
+2001-04-07,25-150,ATL,AWAY,HOU,L (-13),1,22:21,2,7,.286,0,0,,0,0,,0,4,4,7,2,0,0,1,4,7.6,-4,Brevin Knight
+2001-04-09,25-152,ATL,AWAY,DET,L (-12),1,34:14,2,6,.333,0,0,,2,2,1.000,0,4,4,7,2,0,4,3,6,5.5,-8,Brevin Knight
+2001-04-11,25-154,ATL,HOME,CLE,W (+5),1,29:07,2,5,.400,0,0,,0,0,,0,1,1,12,1,0,2,4,4,7.4,-4,Brevin Knight
+2001-04-13,25-156,ATL,AWAY,NYK,L (-36),1,30:03,2,7,.286,0,0,,1,1,1.000,1,1,2,4,4,0,5,3,5,2.5,-29,Brevin Knight
+2001-04-14,25-157,ATL,HOME,DET,L (-5),1,45:02,5,11,.455,0,0,,5,6,.833,1,2,3,11,7,0,2,5,15,20.9,0,Brevin Knight
+2001-04-16,25-159,ATL,AWAY,CHH,L (-23),1,22:05,3,8,.375,0,0,,2,2,1.000,0,2,2,4,1,0,0,2,8,7.2,-25,Brevin Knight
+2001-04-17,25-160,ATL,HOME,WAS,W (+3),1,22:51,3,6,.500,0,0,,0,0,,2,2,4,13,3,0,1,4,6,14.5,+21,Brevin Knight
+2005-11-02,29-359,CHA,AWAY,CHI,L (-4),1,30:19,2,9,.222,0,1,.000,2,3,.667,1,3,4,7,1,0,0,6,6,5.2,+18,Brevin Knight
+2005-11-04,29-361,CHA,AWAY,PHI,W (+17),1,37:56,6,12,.500,0,0,,2,3,.667,0,4,4,15,3,0,2,2,14,19.5,+15,Brevin Knight
+2005-11-05,29-362,CHA,HOME,BOS,W (+2),1,41:28,7,13,.538,0,0,,7,9,.778,0,3,3,7,3,0,4,3,21,17.5,+12,Brevin Knight
+2005-11-07,29-364,CHA,HOME,UTA,L (-4),1,37:11,4,14,.286,0,0,,3,4,.750,1,4,5,1,3,0,2,3,11,4.8,-11,Brevin Knight
+2005-11-09,30-001,CHA,HOME,SAS,L (-8),1,26:42,5,8,.625,0,0,,0,0,,0,1,1,8,3,0,2,6,10,10.9,+5,Brevin Knight
+2005-11-11,30-003,CHA,HOME,DAL,L (-10),1,33:08,1,7,.143,0,0,,5,6,.833,0,0,0,5,5,0,2,5,7,6.6,-7,Brevin Knight
+2005-11-12,30-004,CHA,AWAY,MIA,L (-9),1,26:24,3,7,.429,0,0,,3,4,.750,0,1,1,4,0,0,0,1,9,7.6,-22,Brevin Knight
+2005-11-15,30-007,CHA,AWAY,ORL,L (-8),1,33:38,1,8,.125,0,0,,0,0,,0,2,2,9,0,0,3,5,2,-1.3,-9,Brevin Knight
+2005-11-18,30-010,CHA,AWAY,IND,L (-8),1,33:28,1,9,.111,0,0,,0,0,,1,2,3,14,5,0,3,3,2,8.0,-10,Brevin Knight
+2005-11-19,30-011,CHA,AWAY,MIN,L (-13),1,23:49,2,6,.333,0,0,,6,6,1.000,0,2,2,5,1,0,1,2,10,9.9,-10,Brevin Knight
+2005-11-23,30-015,CHA,HOME,NYK,W (+13),1,35:32,2,7,.286,0,0,,5,6,.833,0,4,4,11,4,0,3,4,9,12.8,+9,Brevin Knight
+2005-11-25,30-017,CHA,AWAY,BOS,L (-1),1,34:16,7,14,.500,0,0,,3,4,.750,1,2,3,8,3,0,3,1,17,16.1,-9,Brevin Knight
+2005-11-26,30-018,CHA,HOME,WAS,W (+18),1,26:45,2,5,.400,0,0,,3,4,.750,1,4,5,9,1,0,1,4,7,10.5,-1,Brevin Knight
+2005-11-29,30-021,CHA,AWAY,SAC,L (-18),1,25:44,3,8,.375,1,1,1.000,0,0,,1,1,2,9,2,0,1,2,7,10.1,-11,Brevin Knight
+2005-11-30,30-022,CHA,AWAY,SEA,L (-10),1,38:08,5,12,.417,0,0,,8,10,.800,1,5,6,11,2,0,2,4,18,19.1,-3,Brevin Knight
+2005-12-02,30-024,CHA,AWAY,GSW,L (-7),1,33:59,6,14,.429,0,1,.000,7,9,.778,0,5,5,9,2,0,0,3,19,19.4,-10,Brevin Knight
+2005-12-04,30-026,CHA,AWAY,LAL,L (-1),1,34:00,7,14,.500,0,0,,3,6,.500,0,2,2,8,4,0,2,2,17,16.2,-6,Brevin Knight
+2005-12-07,30-029,CHA,HOME,NJN,L (-13),1,31:54,10,16,.625,0,0,,3,4,.750,1,5,6,5,4,0,2,2,23,22.3,0,Brevin Knight
+2005-12-09,30-031,CHA,AWAY,PHI,L (-4),1,22:36,4,10,.400,0,0,,0,0,,1,2,3,9,3,0,3,3,8,9.0,-4,Brevin Knight
+2005-12-10,30-032,CHA,HOME,TOR,L (-8),1,39:50,9,16,.563,0,0,,2,3,.667,1,2,3,12,1,0,2,3,20,19.5,-11,Brevin Knight
+2005-12-13,30-035,CHA,HOME,DEN,L (-16),1,34:30,3,12,.250,0,0,,1,2,.500,1,3,4,16,2,0,4,3,7,9.0,-15,Brevin Knight
+2005-12-14,30-036,CHA,AWAY,NJN,W (+8),1,40:08,10,16,.625,0,0,,5,5,1.000,0,5,5,7,5,0,0,2,25,28.4,+12,Brevin Knight
+2005-12-17,30-039,CHA,HOME,DET,L (-25),1,25:16,1,7,.143,0,0,,3,4,.750,1,2,3,8,0,0,2,4,5,3.4,-16,Brevin Knight
+2005-12-20,30-042,CHA,AWAY,CHI,W (+13),1,42:16,8,18,.444,0,0,,4,5,.800,0,3,3,10,2,0,2,5,20,16.1,+12,Brevin Knight
+2005-12-23,30-045,CHA,HOME,LAC,L (-9),1,35:17,6,15,.400,0,0,,9,9,1.000,0,4,4,7,4,0,0,3,21,21.8,-12,Brevin Knight
+2005-12-27,30-049,CHA,AWAY,ATL,W (+3),1,41:11,9,23,.391,0,0,,4,6,.667,1,6,7,5,3,0,2,1,22,15.3,+2,Brevin Knight
+2005-12-28,30-050,CHA,HOME,CHI,W (+13),1,14:26,2,6,.333,0,0,,2,2,1.000,1,1,2,1,1,0,0,1,6,4.9,-5,Brevin Knight
+2005-12-30,30-052,CHA,HOME,PHO,L (-10),1,24:54,3,7,.429,0,0,,4,5,.800,0,1,1,10,1,0,3,6,10,8.8,-2,Brevin Knight
+2006-01-02,30-055,CHA,AWAY,NOK,L (-17),1,39:16,8,15,.533,0,1,.000,3,5,.600,1,2,3,4,1,0,4,5,19,10.0,-8,Brevin Knight
+2006-01-04,30-057,CHA,AWAY,BOS,L (-3),1,39:38,6,16,.375,0,0,,6,6,1.000,0,3,3,12,6,0,1,2,18,22.7,0,Brevin Knight
+2006-01-07,30-060,CHA,AWAY,ORL,L (-16),1,27:31,3,11,.273,0,0,,3,3,1.000,2,2,4,6,2,0,2,0,9,8.7,-24,Brevin Knight
+2006-01-10,30-063,CHA,HOME,HOU,W (+5),1,44:04,5,16,.313,1,2,.500,4,6,.667,2,2,4,18,1,0,1,4,15,18.0,+9,Brevin Knight
+2006-01-11,30-064,CHA,AWAY,TOR,L (-9),1,12:30,0,5,.000,0,0,,1,2,.500,0,2,2,3,1,0,1,1,1,-0.6,-4,Brevin Knight
+2006-01-13,30-066,CHA,HOME,MIL,L (-1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2006-01-14,30-067,CHA,AWAY,DET,L (-23),0,19:52,4,7,.571,0,0,,2,2,1.000,0,0,0,5,1,0,0,1,10,10.8,-6,Brevin Knight
+2006-01-16,30-069,CHA,HOME,NOK,L (-15),1,22:37,1,5,.200,0,0,,3,4,.750,0,4,4,2,1,0,1,5,5,2.1,-12,Brevin Knight
+2006-01-18,30-071,CHA,AWAY,IND,L (-6),1,40:59,5,15,.333,0,0,,5,6,.833,0,4,4,15,5,0,3,3,15,18.6,-8,Brevin Knight
+2006-01-20,30-073,CHA,HOME,ORL,L (-11),1,28:08,7,12,.583,0,0,,3,4,.750,0,2,2,7,3,0,1,3,17,17.3,-14,Brevin Knight
+2006-01-21,30-074,CHA,AWAY,MIL,L (-10),1,39:53,3,11,.273,0,0,,6,7,.857,0,4,4,15,3,0,5,4,12,13.2,-20,Brevin Knight
+2006-01-24,30-077,CHA,AWAY,SAS,L (-28),1,23:04,2,12,.167,0,0,,2,2,1.000,2,1,3,5,0,0,2,3,6,0.4,-14,Brevin Knight
+2006-01-25,30-078,CHA,AWAY,HOU,L (-24),1,31:12,6,9,.667,0,0,,2,2,1.000,1,4,5,7,2,0,5,2,14,13.1,-16,Brevin Knight
+2006-01-27,30-080,CHA,HOME,MIA,L (-6),1,17:28,0,4,.000,0,1,.000,0,0,,0,0,0,3,0,0,2,0,0,-2.7,-5,Brevin Knight
+2006-01-28,30-081,CHA,AWAY,WAS,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2006-01-30,30-083,CHA,HOME,CLE,L (-12),1,35:23,3,10,.300,0,0,,1,2,.500,1,2,3,14,2,2,4,3,7,10.1,-11,Brevin Knight
+2006-02-01,30-085,CHA,HOME,ATL,L (-10),1,39:21,6,17,.353,0,1,.000,7,8,.875,0,4,4,10,3,0,2,2,19,17.5,-6,Brevin Knight
+2006-02-03,30-087,CHA,HOME,LAL,W (+10),1,41:21,4,8,.500,0,0,,7,8,.875,0,4,4,10,6,0,8,5,15,14.8,+9,Brevin Knight
+2006-02-06,30-090,CHA,HOME,SEA,W (+13),1,39:14,6,12,.500,0,0,,3,4,.750,2,5,7,9,6,0,3,4,15,19.2,+12,Brevin Knight
+2006-02-08,30-092,CHA,HOME,PHI,W (+8),1,44:00,5,12,.417,0,0,,3,5,.600,1,5,6,14,2,0,4,3,13,14.6,+12,Brevin Knight
+2006-02-10,30-094,CHA,HOME,TOR,L (-15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2006-02-11,30-095,CHA,AWAY,MIL,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2006-02-13,30-097,CHA,HOME,POR,L (-8),1,42:48,4,11,.364,0,1,.000,6,7,.857,1,5,6,9,2,0,7,2,14,10.2,-6,Brevin Knight
+2006-02-15,30-099,CHA,HOME,NJN,L (-1),1,39:38,10,15,.667,1,1,1.000,7,10,.700,1,1,2,3,1,0,3,3,28,20.2,-3,Brevin Knight
+2006-02-21,30-105,CHA,AWAY,DEN,L (-16),1,32:43,3,12,.250,0,0,,1,3,.333,1,3,4,8,4,0,3,3,7,6.0,-18,Brevin Knight
+2006-02-22,30-106,CHA,AWAY,POR,W (+4),1,39:41,3,10,.300,0,0,,2,2,1.000,0,3,3,13,2,0,1,2,8,12.4,-5,Brevin Knight
+2006-02-25,30-109,CHA,AWAY,PHO,L (-15),0,34:45,4,15,.267,0,0,,0,0,,0,2,2,14,2,0,0,5,8,9.5,-6,Brevin Knight
+2006-02-27,30-111,CHA,AWAY,LAC,L (-8),1,39:36,3,12,.250,0,0,,6,6,1.000,0,3,3,17,2,0,4,2,12,14.8,-8,Brevin Knight
+2006-03-01,30-113,CHA,AWAY,UTA,W (+15),1,34:03,5,8,.625,0,0,,9,9,1.000,0,2,2,10,3,0,3,5,19,21.0,+8,Brevin Knight
+2006-03-03,30-115,CHA,AWAY,DAL,L (-14),1,30:26,2,8,.250,0,0,,3,3,1.000,1,3,4,5,2,0,3,1,7,5.9,-12,Brevin Knight
+2006-03-06,30-118,CHA,HOME,MIA,L (-1),1,48:07,9,20,.450,0,0,,6,6,1.000,3,3,6,11,1,0,4,3,24,20.1,+4,Brevin Knight
+2006-03-08,30-120,CHA,HOME,GSW,W (+3),1,42:21,5,11,.455,0,0,,4,5,.800,0,2,2,10,1,0,3,2,14,12.7,+14,Brevin Knight
+2006-03-11,30-123,CHA,HOME,NYK,W (+7),1,35:41,2,6,.333,0,0,,3,5,.600,0,4,4,15,0,0,3,4,7,9.9,+2,Brevin Knight
+2006-03-12,30-124,CHA,AWAY,DET,L (-16),1,26:44,1,7,.143,0,0,,1,2,.500,0,0,0,10,1,0,2,2,3,3.3,-4,Brevin Knight
+2006-03-14,30-126,CHA,HOME,WAS,L (-5),1,37:18,6,9,.667,0,0,,1,4,.250,0,4,4,8,1,1,2,3,13,13.2,+9,Brevin Knight
+2006-03-15,30-127,CHA,AWAY,WAS,L (-8),1,37:03,2,9,.222,0,0,,3,4,.750,0,1,1,8,1,0,2,2,7,5.2,-5,Brevin Knight
+2006-03-18,30-130,CHA,HOME,DET,L (-5),1,40:12,4,15,.267,0,3,.000,1,2,.500,0,3,3,8,2,0,3,4,9,3.6,-7,Brevin Knight
+2006-03-22,30-134,CHA,AWAY,CLE,L (-2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2006-03-24,30-136,CHA,AWAY,MIA,L (-21),1,28:27,7,12,.583,0,0,,3,3,1.000,1,3,4,6,3,0,1,1,17,18.8,-15,Brevin Knight
+2006-03-26,30-138,CHA,AWAY,MEM,L (-7),1,43:57,5,10,.500,0,0,,7,9,.778,1,2,3,16,3,0,2,3,17,23.5,-8,Brevin Knight
+2006-03-28,30-140,CHA,HOME,ATL,W (+8),1,40:08,5,11,.455,0,0,,4,6,.667,0,3,3,12,3,0,2,3,14,16.6,+14,Brevin Knight
+2006-03-31,30-143,CHA,HOME,CHI,L (-6),1,39:44,3,11,.273,0,0,,9,10,.900,0,4,4,9,0,0,4,3,15,10.4,+4,Brevin Knight
+2006-04-02,30-145,CHA,HOME,CLE,L (-4),1,39:40,3,9,.333,0,0,,3,3,1.000,0,1,1,7,4,0,2,3,9,9.9,0,Brevin Knight
+2006-04-04,30-147,CHA,HOME,MIN,W (+5),1,37:15,9,15,.600,0,0,,6,6,1.000,0,2,2,8,2,1,2,1,24,23.6,+9,Brevin Knight
+2006-04-06,30-149,CHA,AWAY,NJN,L (-11),1,30:02,4,11,.364,0,0,,5,6,.833,0,2,2,4,1,0,3,1,13,7.5,-14,Brevin Knight
+2006-04-09,30-152,CHA,AWAY,TOR,W (+6),1,40:29,6,15,.400,0,0,,7,8,.875,0,3,3,10,3,0,5,5,19,14.4,+15,Brevin Knight
+2006-04-12,30-155,CHA,HOME,MEM,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2006-04-14,30-157,CHA,AWAY,ATL,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2006-04-15,30-158,CHA,HOME,IND,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2006-04-17,30-160,CHA,AWAY,NYK,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2006-04-19,30-162,CHA,HOME,PHI,W (+10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2002-10-30,26-356,MEM,HOME,DAL,L (-11),0,21:28,2,3,.667,0,0,,1,1,1.000,0,3,3,4,1,0,1,3,5,6.2,+2,Brevin Knight
+2002-11-01,26-358,MEM,AWAY,DET,L (-23),0,19:14,4,6,.667,0,0,,0,2,.000,0,4,4,7,0,0,1,0,8,9.7,-11,Brevin Knight
+2002-11-02,26-359,MEM,HOME,SAC,L (-17),0,14:58,1,3,.333,0,0,,0,0,,0,2,2,5,2,0,3,1,2,3.0,+3,Brevin Knight
+2002-11-04,26-361,MEM,HOME,SAS,L (-2),0,13:18,1,6,.167,0,1,.000,1,1,1.000,0,2,2,2,0,0,1,1,3,-0.2,-7,Brevin Knight
+2002-11-06,26-363,MEM,AWAY,POR,L (-6),0,13:04,0,1,.000,0,0,,0,1,.000,0,0,0,2,2,0,1,4,0,-0.3,-7,Brevin Knight
+2002-11-08,27-000,MEM,AWAY,SAC,L (-8),0,25:20,4,8,.500,0,0,,0,0,,1,5,6,8,5,0,5,5,8,9.8,+4,Brevin Knight
+2002-11-09,27-001,MEM,AWAY,DEN,L (-11),0,5:01,1,3,.333,0,0,,0,0,,0,0,0,0,0,0,3,1,2,-3.1,-4,Brevin Knight
+2002-11-11,27-003,MEM,HOME,GSW,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2002-11-15,27-007,MEM,HOME,MIN,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2002-11-19,27-011,MEM,AWAY,MIN,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2002-11-22,27-014,MEM,AWAY,SAS,L (-9),1,17:08,1,2,.500,0,0,,0,0,,0,1,1,4,0,0,3,2,2,0.3,-1,Brevin Knight
+2002-11-23,27-015,MEM,HOME,WAS,W (+11),1,24:05,2,5,.400,0,0,,0,0,,0,1,1,5,2,0,2,3,4,3.9,+2,Brevin Knight
+2002-11-27,27-019,MEM,HOME,SEA,W (+18),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2002-11-29,27-021,MEM,HOME,LAL,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2002-12-01,27-023,MEM,HOME,TOR,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2002-12-04,27-026,MEM,AWAY,PHO,L (-13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2002-12-06,27-028,MEM,AWAY,UTA,L (-33),0,7:16,0,0,,0,0,,2,2,1.000,0,0,0,1,0,0,2,2,2,-0.1,+2,Brevin Knight
+2002-12-08,27-030,MEM,HOME,PHO,W (+8),1,32:34,4,9,.444,0,0,,1,1,1.000,0,2,2,11,5,0,5,4,9,11.0,+13,Brevin Knight
+2002-12-10,27-032,MEM,AWAY,MIA,W (+11),1,34:24,3,5,.600,0,0,,1,2,.500,0,3,3,14,1,0,3,5,7,11.0,+14,Brevin Knight
+2002-12-11,27-033,MEM,HOME,DEN,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2002-12-13,27-035,MEM,HOME,HOU,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2002-12-14,27-036,MEM,AWAY,DAL,L (-17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2002-12-16,27-038,MEM,HOME,GSW,W (+13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2002-12-18,27-040,MEM,AWAY,WAS,L (-18),0,9:24,1,1,1.000,0,0,,0,0,,0,0,0,1,0,0,2,0,2,0.4,-14,Brevin Knight
+2002-12-20,27-042,MEM,HOME,MIL,W (+11),0,13:39,1,2,.500,0,0,,0,0,,0,1,1,3,0,0,1,3,2,1.2,-3,Brevin Knight
+2002-12-22,27-044,MEM,HOME,UTA,L (-29),0,18:44,3,5,.600,0,0,,1,2,.500,0,0,0,3,3,0,1,4,7,6.8,-13,Brevin Knight
+2002-12-27,27-049,MEM,HOME,ORL,W (+13),0,19:28,1,6,.167,0,0,,0,0,,0,2,2,9,3,0,2,1,2,5.7,+9,Brevin Knight
+2002-12-31,27-053,MEM,AWAY,BOS,L (-7),0,10:15,1,2,.500,0,0,,0,0,,1,0,1,2,1,0,1,1,2,2.7,-21,Brevin Knight
+2003-01-03,27-056,MEM,HOME,LAC,W (+5),0,10:28,2,2,1.000,0,0,,0,0,,0,0,0,3,0,0,1,3,4,3.3,-9,Brevin Knight
+2003-01-06,27-059,MEM,HOME,NOH,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2003-01-08,27-061,MEM,AWAY,LAC,L (-8),0,17:55,0,3,.000,0,0,,1,2,.500,0,1,1,3,0,0,2,2,1,-1.9,0,Brevin Knight
+2003-01-10,27-063,MEM,AWAY,PHO,L (-6),0,17:13,3,6,.500,0,1,.000,2,2,1.000,0,2,2,6,2,1,1,2,8,10.7,-5,Brevin Knight
+2003-01-12,27-065,MEM,AWAY,SAC,L (-8),0,17:55,3,9,.333,0,0,,1,2,.500,2,2,4,3,2,0,1,4,7,5.0,+9,Brevin Knight
+2003-01-13,27-066,MEM,AWAY,GSW,W (+2),0,18:07,2,7,.286,0,0,,0,0,,0,0,0,5,0,0,1,4,4,0.8,-3,Brevin Knight
+2003-01-15,27-068,MEM,AWAY,POR,L (-8),0,14:51,1,3,.333,1,1,1.000,0,0,,0,1,1,4,1,0,2,1,3,3.0,0,Brevin Knight
+2003-01-17,27-070,MEM,AWAY,SEA,L (-6),0,28:04,2,8,.250,0,1,.000,0,0,,0,2,2,9,1,0,1,5,4,4.1,-5,Brevin Knight
+2003-01-20,27-073,MEM,HOME,POR,L (-12),0,22:03,5,8,.625,0,1,.000,1,1,1.000,0,2,2,4,2,0,3,3,11,8.6,-1,Brevin Knight
+2003-01-22,27-075,MEM,AWAY,SAS,W (+5),0,13:39,2,5,.400,0,0,,0,0,,0,0,0,1,0,0,2,4,4,-1.6,-4,Brevin Knight
+2003-01-23,27-076,MEM,HOME,SAC,L (-6),0,15:27,0,2,.000,0,0,,0,0,,0,0,0,4,1,0,1,1,0,1.0,-9,Brevin Knight
+2003-01-25,27-078,MEM,HOME,SEA,L (-12),0,28:36,3,7,.429,0,0,,0,0,,1,1,2,5,1,0,2,3,6,4.6,+7,Brevin Knight
+2003-01-27,27-080,MEM,HOME,HOU,L (-5),0,13:00,0,3,.000,0,0,,0,0,,0,1,1,5,0,0,1,1,0,0.3,-5,Brevin Knight
+2003-01-31,27-084,MEM,HOME,NYK,L (-6),0,10:26,2,4,.500,0,1,.000,0,2,.000,1,0,1,0,0,0,1,0,4,0.9,-2,Brevin Knight
+2003-02-02,27-086,MEM,AWAY,DEN,L (-15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2003-02-03,27-087,MEM,AWAY,GSW,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2003-02-26,27-110,MEM,AWAY,PHI,L (-4),0,18:00,3,3,1.000,0,0,,2,2,1.000,0,2,2,4,2,0,2,3,8,9.3,-1,Brevin Knight
+2003-02-28,27-112,MEM,HOME,MIA,W (+10),0,17:36,2,4,.500,0,0,,0,2,.000,0,0,0,8,2,0,1,4,4,6.2,+5,Brevin Knight
+2003-03-01,27-113,MEM,AWAY,DAL,L (-27),0,16:24,1,5,.200,0,0,,0,0,,0,1,1,5,1,0,0,2,2,2.9,-12,Brevin Knight
+2003-03-03,27-115,MEM,HOME,BOS,L (-1),0,17:43,2,4,.500,0,0,,1,2,.500,0,1,1,4,1,0,2,3,5,3.5,-3,Brevin Knight
+2003-03-05,27-117,MEM,HOME,DEN,W (+10),0,14:31,2,5,.400,0,1,.000,0,0,,1,0,1,1,2,0,2,2,4,1.9,-1,Brevin Knight
+2003-03-08,27-120,MEM,AWAY,CLE,W (+26),0,23:00,2,5,.400,0,0,,0,0,,1,4,5,9,4,0,6,1,4,7.1,-4,Brevin Knight
+2003-03-09,27-121,MEM,AWAY,TOR,W (+13),0,13:59,1,2,.500,0,0,,0,0,,1,1,2,6,1,0,0,2,2,6.4,+5,Brevin Knight
+2003-03-11,27-123,MEM,AWAY,NYK,W (+2),0,11:44,1,2,.500,0,0,,0,0,,0,1,1,4,0,0,1,1,2,2.7,-3,Brevin Knight
+2003-03-12,27-124,MEM,HOME,CHI,W (+29),0,23:17,3,5,.600,0,0,,1,2,.500,0,0,0,4,3,1,3,4,7,6.2,+21,Brevin Knight
+2003-03-16,27-128,MEM,HOME,ATL,W (+32),0,22:37,5,8,.625,0,0,,0,0,,0,2,2,6,3,0,2,3,10,11.0,+12,Brevin Knight
+2003-03-18,27-130,MEM,AWAY,MIN,L (-16),0,15:26,1,6,.167,0,0,,0,0,,1,1,2,2,2,0,1,1,2,1.2,-2,Brevin Knight
+2003-03-19,27-131,MEM,HOME,CLE,W (+27),0,6:16,1,2,.500,0,0,,2,2,1.000,0,1,1,4,0,0,1,3,4,3.9,+4,Brevin Knight
+2003-03-21,27-133,MEM,AWAY,IND,L (-9),0,14:59,1,2,.500,0,0,,0,0,,0,0,0,4,1,0,2,1,2,2.4,-14,Brevin Knight
+2003-03-22,27-134,MEM,AWAY,NJN,L (-8),0,11:33,0,1,.000,0,0,,0,0,,0,1,1,1,0,0,2,3,0,-2.9,-15,Brevin Knight
+2003-03-24,27-136,MEM,AWAY,ORL,W (+6),0,13:22,0,1,.000,0,0,,0,0,,0,1,1,2,4,0,4,2,0,0.2,-9,Brevin Knight
+2003-03-26,27-138,MEM,HOME,PHO,L (-2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2003-03-28,27-140,MEM,AWAY,SEA,L (-24),0,19:36,2,5,.400,0,0,,0,0,,0,3,3,6,1,0,1,2,4,5.6,-6,Brevin Knight
+2003-03-30,27-142,MEM,AWAY,LAC,L (-2),0,10:15,0,1,.000,0,0,,0,0,,1,0,1,3,0,0,1,2,0,0.3,-5,Brevin Knight
+2003-04-02,27-145,MEM,HOME,SAS,L (-18),0,15:40,1,2,.500,0,0,,1,2,.500,2,1,3,1,1,0,1,1,3,3.6,-5,Brevin Knight
+2003-04-04,27-147,MEM,HOME,LAL,L (-1),0,11:59,1,4,.250,1,1,1.000,0,0,,0,0,0,4,2,0,1,2,3,3.6,-2,Brevin Knight
+2003-04-05,27-148,MEM,AWAY,ATL,L (-6),0,26:07,1,5,.200,0,0,,0,0,,0,1,1,8,1,0,0,3,2,4.6,+9,Brevin Knight
+2003-04-08,27-151,MEM,HOME,LAC,W (+3),0,19:04,3,4,.750,0,0,,0,0,,2,1,3,4,1,0,0,2,6,9.1,+11,Brevin Knight
+2003-04-11,27-154,MEM,HOME,POR,W (+3),0,11:47,1,2,.500,0,0,,0,2,.000,0,1,1,4,0,0,3,1,2,-0.1,-4,Brevin Knight
+2003-04-13,27-156,MEM,HOME,DET,L (-3),0,15:37,2,4,.500,0,0,,1,2,.500,0,0,0,2,0,0,0,1,5,3.6,+6,Brevin Knight
+2003-04-15,27-158,MEM,AWAY,HOU,L (-11),0,21:56,5,7,.714,0,0,,0,0,,0,4,4,2,2,0,2,0,10,9.7,-7,Brevin Knight
+2003-04-16,27-159,MEM,HOME,MIN,L (-8),0,8:33,1,5,.200,0,0,,0,0,,0,1,1,2,0,0,0,1,2,0.2,-1,Brevin Knight
+2003-10-28,27-354,PHO,AWAY,SAS,L (-1),0,6:22,0,2,.000,0,0,,0,0,,0,0,0,0,2,0,1,0,0,-0.4,-3,Brevin Knight
+2003-10-30,27-356,PHO,HOME,CLE,W (+9),0,11:09,1,1,1.000,0,0,,0,0,,0,3,3,4,1,1,2,1,2,4.7,+9,Brevin Knight
+2003-11-01,27-358,PHO,HOME,LAL,L (-4),0,0:01,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1,Brevin Knight
+2003-11-25,28-017,WAS,AWAY,POR,W (+1),0,18:26,2,4,.500,0,0,,0,0,,0,3,3,2,3,0,1,3,4,5.1,-3,Brevin Knight
+2003-11-26,28-018,WAS,AWAY,LAL,L (-21),0,13:54,2,4,.500,0,0,,0,0,,1,0,1,4,2,0,2,2,4,4.7,+3,Brevin Knight
+2003-11-29,28-021,WAS,HOME,DET,L (-11),0,9:02,0,1,.000,0,0,,0,0,,0,0,0,3,1,0,0,2,0,1.6,+2,Brevin Knight
+2003-12-02,28-024,WAS,AWAY,DAL,L (-25),0,4:56,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-8,Brevin Knight
+2003-12-05,28-027,WAS,AWAY,MEM,L (-15),0,12:43,2,5,.400,0,0,,1,1,1.000,0,0,0,2,0,0,1,0,5,2.7,-6,Brevin Knight
+2003-12-06,28-028,WAS,AWAY,MIL,W (+5),0,23:03,2,4,.500,0,0,,1,2,.500,1,2,3,4,4,0,0,4,5,9.1,+8,Brevin Knight
+2003-12-09,28-031,WAS,AWAY,IND,L (-14),0,9:19,0,0,,0,0,,0,0,,0,0,0,1,1,0,0,0,0,1.7,-5,Brevin Knight
+2003-12-14,28-036,WAS,AWAY,NYK,L (-2),0,26:48,4,6,.667,1,1,1.000,0,0,,0,7,7,5,2,0,2,3,9,10.8,-2,Brevin Knight
+2003-12-16,28-038,WAS,HOME,UTA,W (+4),0,23:12,0,1,.000,0,0,,2,4,.500,0,0,0,4,0,0,0,4,2,1.7,+8,Brevin Knight
+2003-12-19,28-041,WAS,AWAY,NJN,L (-10),0,13:45,0,2,.000,0,0,,0,0,,0,1,1,1,2,0,3,0,0,-1.4,0,Brevin Knight
+2003-12-23,28-045,WAS,AWAY,MIA,L (-7),0,9:33,0,2,.000,0,0,,2,2,1.000,0,0,0,1,0,0,2,1,2,-1.1,-2,Brevin Knight
+2003-12-26,28-048,WAS,HOME,MIA,L (-8),0,15:03,1,2,.500,0,0,,2,2,1.000,1,2,3,1,2,0,2,0,4,5.0,-8,Brevin Knight
+2003-12-27,28-049,WAS,AWAY,CHI,L (-14),0,19:25,3,4,.750,0,1,.000,0,0,,0,2,2,2,0,0,2,1,6,4.0,-11,Brevin Knight
+2004-01-04,28-057,WAS,HOME,MIL,L (-6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Brevin Knight
+2004-01-07,28-060,WAS,AWAY,NOH,L (-10),0,18:04,3,6,.500,0,0,,1,2,.500,0,3,3,4,4,0,1,1,7,9.9,-7,Brevin Knight
+2004-01-09,28-062,WAS,AWAY,ORL,L (-11),0,13:56,3,4,.750,0,0,,0,2,.000,0,1,1,5,3,0,1,3,6,8.2,0,Brevin Knight
+2004-01-10,28-063,WAS,HOME,PHI,W (+7),1,39:20,0,3,.000,0,1,.000,2,2,1.000,1,3,4,6,5,0,4,4,2,5.1,+5,Brevin Knight
+2004-01-13,28-066,WAS,HOME,HOU,L (-13),1,23:12,2,7,.286,0,0,,0,0,,3,3,6,6,2,0,3,0,4,6.1,-16,Brevin Knight
+2004-01-14,28-067,WAS,AWAY,NJN,L (-12),1,21:52,6,10,.600,0,0,,1,2,.500,1,0,1,2,2,0,1,2,13,10.3,-24,Brevin Knight
+2004-01-16,28-069,WAS,AWAY,DET,L (-21),1,26:20,4,7,.571,0,0,,0,0,,0,3,3,3,3,0,4,2,8,5.9,-17,Brevin Knight
+2004-01-17,28-070,WAS,HOME,SEA,W (+15),1,29:44,2,4,.500,0,0,,1,2,.500,1,3,4,9,3,0,0,2,5,12.7,+11,Brevin Knight
+2004-01-23,28-076,WAS,AWAY,BOS,L (-11),1,18:40,1,3,.333,0,0,,0,0,,0,3,3,5,1,0,5,1,2,0.3,-23,Brevin Knight
+2004-01-24,28-077,WAS,HOME,IND,W (+11),1,25:17,3,6,.500,0,0,,2,2,1.000,0,3,3,6,1,0,0,1,8,10.7,+5,Brevin Knight
+2004-01-26,28-079,WAS,HOME,POR,L (-11),1,23:39,5,8,.625,0,0,,0,0,,0,0,0,1,1,0,1,2,10,6.3,-13,Brevin Knight
+2004-01-28,28-081,WAS,HOME,ORL,L (-4),1,31:23,5,12,.417,0,1,.000,1,1,1.000,0,1,1,5,0,0,1,0,11,7.4,+5,Brevin Knight
+2004-01-30,28-083,WAS,HOME,PHO,W (+5),1,23:58,3,8,.375,0,1,.000,3,3,1.000,0,2,2,5,0,0,4,3,9,3.5,+2,Brevin Knight
+2004-02-01,28-085,WAS,HOME,CLE,L (-4),1,23:22,1,5,.200,0,0,,0,0,,0,3,3,5,3,0,0,2,2,5.5,-17,Brevin Knight
+2004-02-04,28-088,WAS,HOME,MEM,L (-2),0,4:13,0,3,.000,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-2.2,-8,Brevin Knight
+2004-02-11,28-095,WAS,AWAY,PHI,L (-25),1,16:57,2,4,.500,0,0,,0,0,,0,0,0,2,0,0,2,2,4,0.6,-13,Brevin Knight
+2004-02-18,28-102,WAS,AWAY,NOH,L (-22),0,9:50,1,3,.333,0,0,,0,0,,1,1,2,0,1,0,0,0,2,2.3,+1,Brevin Knight
+2004-02-25,28-109,WAS,AWAY,TOR,W (+2),0,26:11,0,4,.000,0,0,,0,0,,0,1,1,5,4,0,1,1,0,3.6,-4,Brevin Knight
+2004-02-26,28-110,WAS,HOME,CHI,W (+8),0,15:37,1,4,.250,0,0,,0,0,,1,1,2,2,2,0,1,2,2,2.2,-7,Brevin Knight
+2004-02-28,28-112,WAS,HOME,LAL,L (-12),0,6:56,0,2,.000,0,0,,0,0,,0,0,0,1,0,0,0,1,0,-1.1,-7,Brevin Knight
+2004-03-01,28-114,WAS,HOME,NOH,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2004-03-06,28-119,MIL,AWAY,CLE,L (-9),0,16:21,3,3,1.000,0,0,,0,0,,0,2,2,2,0,0,2,3,6,3.9,+1,Brevin Knight
+2004-03-08,28-121,MIL,AWAY,PHI,L (-5),0,19:39,2,5,.400,0,0,,1,2,.500,0,3,3,7,2,0,2,5,5,5.7,-10,Brevin Knight
+2004-03-10,28-123,MIL,HOME,ATL,W (+14),0,20:23,1,4,.250,0,0,,0,2,.000,0,3,3,4,3,0,1,3,2,3.3,+6,Brevin Knight
+2004-03-12,28-125,MIL,HOME,DEN,L (-6),0,15:43,0,2,.000,0,0,,0,0,,0,0,0,3,0,0,0,3,0,-0.5,-8,Brevin Knight
+2004-03-14,28-127,MIL,HOME,NYK,L (-3),0,15:34,0,3,.000,0,0,,0,0,,0,1,1,4,0,0,0,3,0,-0.2,-2,Brevin Knight
+2004-03-16,28-129,MIL,HOME,POR,L (-1),0,26:36,5,7,.714,0,0,,0,1,.000,1,6,7,9,1,0,2,2,10,13.7,+7,Brevin Knight
+2004-03-20,28-133,MIL,AWAY,PHO,L (-12),0,21:16,3,7,.429,0,0,,6,6,1.000,0,3,3,4,2,0,0,4,12,12.4,+2,Brevin Knight
+2004-03-21,28-134,MIL,AWAY,LAL,L (-1),0,30:50,5,12,.417,1,1,1.000,0,0,,0,2,2,11,1,0,5,1,11,8.5,+3,Brevin Knight
+2004-03-23,28-136,MIL,AWAY,SAC,W (+11),0,19:05,3,5,.600,0,0,,1,2,.500,0,1,1,4,0,0,1,2,7,5.6,+6,Brevin Knight
+2004-03-24,28-137,MIL,AWAY,GSW,L (-9),0,18:41,1,3,.333,0,0,,3,4,.750,0,3,3,2,2,0,0,4,5,5.6,0,Brevin Knight
+2004-03-26,28-139,MIL,AWAY,CHI,W (+10),1,23:22,4,5,.800,0,0,,2,2,1.000,0,2,2,8,2,0,3,2,10,12.5,+9,Brevin Knight
+2004-03-28,28-141,MIL,HOME,HOU,L (-4),0,17:25,2,5,.400,0,1,.000,2,2,1.000,0,2,2,5,0,0,0,6,6,5.0,-6,Brevin Knight
+2004-03-30,28-143,MIL,HOME,IND,W (+9),0,22:44,1,2,.500,0,0,,8,8,1.000,0,2,2,8,2,0,0,0,10,17.2,+7,Brevin Knight
+2004-03-31,28-144,MIL,AWAY,IND,L (-33),0,18:48,3,6,.500,0,0,,1,2,.500,0,1,1,6,1,0,1,0,7,8.1,-10,Brevin Knight
+2004-04-02,28-146,MIL,HOME,CLE,W (+18),0,25:23,1,4,.250,0,0,,3,4,.750,0,3,3,3,2,0,0,0,5,7.2,+11,Brevin Knight
+2004-04-04,28-148,MIL,AWAY,TOR,W (+7),0,20:14,2,9,.222,0,0,,0,0,,0,0,0,2,5,0,0,2,4,4.1,+5,Brevin Knight
+2004-04-06,28-150,MIL,AWAY,NJN,W (+5),0,10:34,2,4,.500,0,0,,0,0,,0,3,3,1,1,0,2,3,4,1.4,+3,Brevin Knight
+2004-04-07,28-151,MIL,HOME,WAS,W (+9),0,25:48,5,7,.714,0,0,,1,1,1.000,1,4,5,5,1,0,1,1,11,13.1,+4,Brevin Knight
+2004-04-10,28-154,MIL,HOME,NOH,L (-5),0,13:07,0,4,.000,0,0,,0,0,,1,0,1,3,1,0,2,5,0,-3.0,+1,Brevin Knight
+2004-04-12,28-156,MIL,AWAY,CLE,L (-4),0,14:47,1,2,.500,0,0,,2,2,1.000,0,1,1,4,1,0,1,4,4,4.5,+8,Brevin Knight
+2004-04-14,28-158,MIL,HOME,TOR,L (-2),0,21:45,2,6,.333,0,1,.000,0,0,,0,3,3,3,2,0,2,3,4,2.4,-6,Brevin Knight
+2006-11-01,30-358,CHA,HOME,IND,L (-7),1,34:33,5,11,.455,0,1,.000,4,4,1.000,2,6,8,7,3,0,3,3,14,15.2,+6,Brevin Knight
+2006-11-03,30-360,CHA,AWAY,MEM,L (-13),1,36:54,4,8,.500,0,0,,4,4,1.000,1,2,3,7,1,0,4,6,12,8.8,-28,Brevin Knight
+2006-11-04,30-361,CHA,HOME,CLE,W (+4),1,39:14,7,13,.538,0,0,,3,4,.750,0,3,3,7,2,0,2,1,17,15.7,+14,Brevin Knight
+2006-11-08,31-000,CHA,AWAY,BOS,L (-2),1,41:17,7,15,.467,0,0,,8,9,.889,0,5,5,7,4,0,2,5,22,20.3,+2,Brevin Knight
+2006-11-10,31-002,CHA,HOME,SEA,L (-14),1,43:31,5,11,.455,0,0,,9,9,1.000,0,4,4,7,1,0,3,2,19,16.6,-8,Brevin Knight
+2006-11-12,31-004,CHA,HOME,DEN,L (-7),1,37:52,7,12,.583,0,0,,7,7,1.000,1,5,6,7,4,0,7,2,21,18.7,-1,Brevin Knight
+2006-11-14,31-006,CHA,AWAY,NOK,L (-9),1,26:05,2,7,.286,0,1,.000,0,0,,0,3,3,3,1,0,3,5,4,-1.1,+3,Brevin Knight
+2006-11-15,31-007,CHA,AWAY,SAS,W (+3),1,45:28,4,10,.400,0,1,.000,2,3,.667,0,3,3,9,2,0,3,5,10,8.4,+3,Brevin Knight
+2006-11-20,31-012,CHA,HOME,DAL,L (-8),1,21:00,0,3,.000,0,0,,5,6,.833,0,3,3,5,1,0,2,2,5,5.1,+1,Brevin Knight
+2006-11-24,31-016,CHA,AWAY,DET,L (-9),1,33:02,6,9,.667,0,1,.000,4,4,1.000,0,3,3,9,1,0,5,2,16,14.5,-20,Brevin Knight
+2006-11-25,31-017,CHA,HOME,MIA,L (-9),1,37:49,2,6,.333,0,1,.000,1,1,1.000,0,1,1,8,1,0,4,3,5,3.3,-14,Brevin Knight
+2006-11-28,31-020,CHA,AWAY,NJN,W (+4),1,34:14,3,11,.273,0,0,,1,4,.250,0,1,1,5,2,0,1,5,7,2.1,-5,Brevin Knight
+2006-11-29,31-021,CHA,AWAY,ATL,L (-9),1,32:50,6,14,.429,0,1,.000,5,5,1.000,0,2,2,3,2,0,1,2,17,12.5,-9,Brevin Knight
+2006-12-01,31-023,CHA,AWAY,WAS,L (-12),1,37:21,8,13,.615,1,1,1.000,5,5,1.000,2,2,4,9,3,1,5,3,22,21.9,-6,Brevin Knight
+2006-12-03,31-025,CHA,HOME,DET,W (+8),1,33:37,4,6,.667,0,0,,0,0,,0,7,7,14,0,0,3,3,8,13.1,+9,Brevin Knight
+2006-12-06,31-028,CHA,HOME,SAS,L (-20),1,10:23,0,1,.000,0,0,,1,1,1.000,1,0,1,1,0,0,0,3,1,0.5,-7,Brevin Knight
+2006-12-13,31-035,CHA,AWAY,CLE,L (-3),1,31:03,5,12,.417,0,1,.000,1,3,.333,0,3,3,14,1,0,2,3,11,12.3,0,Brevin Knight
+2006-12-14,31-036,CHA,HOME,ORL,W (+10),1,33:52,3,9,.333,0,1,.000,2,2,1.000,1,5,6,7,1,0,1,1,8,9.6,+14,Brevin Knight
+2006-12-22,31-044,CHA,HOME,UTA,W (+12),1,18:43,2,6,.333,0,0,,3,3,1.000,0,1,1,9,1,0,1,3,7,9.0,+13,Brevin Knight
+2007-02-09,31-093,CHA,HOME,POR,L (-8),0,26:27,0,5,.000,0,1,.000,1,1,1.000,0,3,3,7,0,0,4,2,1,-1.5,-9,Brevin Knight
+2007-02-10,31-094,CHA,AWAY,HOU,L (-21),0,16:52,0,4,.000,0,0,,0,2,.000,0,1,1,4,1,0,3,0,0,-2.5,-18,Brevin Knight
+2007-02-21,31-105,CHA,AWAY,MIN,W (+5),0,12:32,0,2,.000,0,0,,0,0,,0,1,1,3,1,1,1,1,0,1.3,+3,Brevin Knight
+2007-02-23,31-107,CHA,HOME,PHI,W (+15),0,16:31,1,3,.333,0,1,.000,0,1,.000,0,0,0,3,4,0,2,2,2,3.2,+2,Brevin Knight
+2007-02-26,31-110,CHA,AWAY,LAC,L (-7),0,19:37,6,10,.600,0,0,,0,0,,0,2,2,4,0,0,2,2,12,8.0,-7,Brevin Knight
+2007-02-28,31-112,CHA,AWAY,SAC,L (-15),0,25:13,5,9,.556,0,0,,2,2,1.000,0,0,0,5,1,0,0,4,12,10.6,-21,Brevin Knight
+2007-03-01,31-113,CHA,AWAY,POR,L (-37),0,24:03,2,7,.286,0,0,,1,1,1.000,0,1,1,4,2,0,0,3,5,4.8,-26,Brevin Knight
+2007-03-04,31-116,CHA,AWAY,SEA,L (-7),0,28:29,4,8,.500,0,1,.000,2,2,1.000,0,1,1,3,1,0,3,5,10,4.4,-9,Brevin Knight
+2007-03-05,31-117,CHA,AWAY,UTA,L (-25),0,22:53,1,5,.200,0,1,.000,3,4,.750,0,0,0,2,2,0,0,6,5,2.5,-16,Brevin Knight
+2007-03-07,31-119,CHA,AWAY,PHO,L (-9),0,20:56,5,9,.556,0,0,,4,4,1.000,1,2,3,9,1,0,0,1,14,17.9,-1,Brevin Knight
+2007-03-10,31-122,CHA,HOME,MEM,L (-8),0,35:43,4,10,.400,0,1,.000,1,2,.500,1,5,6,7,2,0,2,3,9,9.1,-6,Brevin Knight
+2007-03-12,31-124,CHA,HOME,ORL,W (+11),0,4:18,0,1,.000,0,0,,0,0,,0,0,0,2,0,0,0,0,0,0.7,+2,Brevin Knight
+2007-03-21,31-133,CHA,AWAY,BOS,W (+8),0,22:27,4,5,.800,0,0,,2,2,1.000,0,7,7,8,0,0,3,3,10,11.6,+23,Brevin Knight
+2007-03-23,31-135,CHA,AWAY,PHI,L (-9),0,27:01,4,11,.364,0,0,,3,5,.600,0,3,3,6,1,0,1,0,11,9.2,+2,Brevin Knight
+2007-03-24,31-136,CHA,HOME,NJN,L (-6),1,36:15,5,12,.417,0,1,.000,5,6,.833,0,2,2,8,2,0,3,4,15,11.8,-10,Brevin Knight
+2007-03-28,31-140,CHA,HOME,ATL,W (+14),0,24:09,1,5,.200,0,1,.000,3,4,.750,0,1,1,9,1,0,4,0,5,5.1,-2,Brevin Knight
+2007-03-30,31-142,CHA,HOME,MIL,W (+16),0,22:23,3,5,.600,0,0,,0,0,,0,0,0,4,2,0,0,2,6,7.7,-9,Brevin Knight
+2007-04-01,31-144,CHA,AWAY,TOR,L (-13),0,24:06,2,6,.333,0,0,,1,2,.500,1,2,3,7,1,0,1,1,5,7.0,-11,Brevin Knight
+2007-04-03,31-146,CHA,HOME,WAS,W (+20),0,25:02,0,5,.000,0,0,,2,2,1.000,1,0,1,12,2,0,2,0,2,7.6,0,Brevin Knight
+2007-04-04,31-147,CHA,AWAY,WAS,W (+8),0,30:11,4,9,.444,0,1,.000,0,0,,0,2,2,6,0,0,2,1,8,5.7,+22,Brevin Knight
+2007-04-06,31-149,CHA,HOME,IND,L (-10),0,29:07,3,9,.333,0,0,,0,0,,1,1,2,6,2,1,0,4,6,7.2,-6,Brevin Knight
+2007-04-08,31-151,CHA,AWAY,MIA,W (+8),1,35:32,4,9,.444,0,0,,5,6,.833,0,4,4,7,3,0,4,4,13,11.4,+14,Brevin Knight
+2007-04-10,31-153,CHA,HOME,MIA,W (+10),1,23:35,1,5,.200,0,0,,0,0,,1,1,2,8,1,0,1,1,2,5.1,+16,Brevin Knight
+2007-04-13,31-156,CHA,AWAY,CHI,L (-19),1,31:46,6,13,.462,0,0,,1,4,.250,0,1,1,5,2,0,3,2,13,7.1,-7,Brevin Knight
+2007-04-14,31-157,CHA,AWAY,MIL,W (+21),1,23:36,2,9,.222,0,1,.000,0,0,,0,2,2,6,1,0,1,2,4,2.5,+11,Brevin Knight
+2007-04-18,31-161,CHA,HOME,NYK,L (-1),1,35:17,5,10,.500,0,0,,2,4,.500,0,0,0,13,3,0,1,1,12,16.9,+5,Brevin Knight
+2007-11-02,31-359,LAC,HOME,GSW,W (+6),0,25:03,0,3,.000,0,0,,2,2,1.000,0,2,2,9,1,0,3,4,2,3.2,+3,Brevin Knight
+2007-11-04,31-361,LAC,HOME,SEA,W (+14),0,15:21,1,3,.333,0,1,.000,0,0,,1,1,2,4,2,0,2,1,2,3.7,-2,Brevin Knight
+2007-11-06,31-363,LAC,AWAY,CHI,W (+6),1,31:02,1,3,.333,0,0,,0,0,,0,0,0,6,3,0,3,5,2,2.5,+7,Brevin Knight
+2007-11-09,32-001,LAC,AWAY,DET,L (-24),0,13:25,1,5,.200,0,0,,0,0,,0,1,1,1,0,0,1,1,2,-1.5,-22,Brevin Knight
+2007-11-11,32-003,LAC,HOME,CLE,L (-8),0,13:30,0,1,.000,0,0,,1,2,.500,0,2,2,3,0,0,2,0,1,0.6,+2,Brevin Knight
+2007-11-14,32-006,LAC,HOME,NYK,W (+3),0,19:44,1,3,.333,0,0,,3,4,.750,0,2,2,4,1,0,1,2,5,5.5,-3,Brevin Knight
+2007-11-16,32-008,LAC,AWAY,GSW,L (-17),0,17:51,2,4,.500,0,0,,1,2,.500,0,0,0,3,1,0,1,1,5,4.3,-3,Brevin Knight
+2007-11-17,32-009,LAC,HOME,CHI,L (-19),1,21:29,4,8,.500,0,0,,0,0,,0,3,3,1,2,0,1,4,8,5.0,-19,Brevin Knight
+2007-11-21,32-013,LAC,HOME,DEN,W (+11),1,14:14,1,3,.333,0,0,,0,0,,0,0,0,7,1,0,2,1,2,3.8,-3,Brevin Knight
+2007-11-24,32-016,LAC,HOME,NOH,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2007-11-26,32-018,LAC,HOME,HOU,L (-17),0,13:21,0,6,.000,0,0,,0,0,,2,2,4,1,0,0,1,2,0,-3.3,-2,Brevin Knight
+2007-11-30,32-022,LAC,AWAY,DEN,L (-16),1,35:18,5,11,.455,0,0,,3,4,.750,0,4,4,6,2,0,1,5,13,11.3,-12,Brevin Knight
+2007-12-02,32-024,LAC,HOME,IND,L (-6),1,26:00,4,8,.500,0,1,.000,0,0,,0,1,1,5,1,0,1,1,8,7.4,-28,Brevin Knight
+2007-12-04,32-026,LAC,HOME,MIL,L (-9),1,28:30,3,4,.750,0,0,,3,4,.750,0,1,1,8,2,0,2,2,9,12.1,+1,Brevin Knight
+2007-12-05,32-027,LAC,AWAY,SEA,L (-7),1,28:53,3,5,.600,0,0,,4,4,1.000,0,4,4,7,0,0,1,1,10,12.4,-7,Brevin Knight
+2007-12-07,32-029,LAC,AWAY,SAC,W (+10),1,36:56,3,9,.333,0,0,,0,0,,0,1,1,3,0,0,0,4,6,1.7,+7,Brevin Knight
+2007-12-09,32-031,LAC,HOME,MIA,L (-6),1,35:37,4,9,.444,0,0,,2,2,1.000,1,2,3,9,0,0,1,4,10,10.3,-5,Brevin Knight
+2007-12-11,32-033,LAC,AWAY,NJN,W (+9),1,29:03,0,3,.000,0,0,,0,0,,0,2,2,7,3,1,1,2,0,5.3,+7,Brevin Knight
+2007-12-12,32-034,LAC,AWAY,CHA,L (-5),1,20:44,1,3,.333,0,0,,0,0,,0,1,1,3,2,0,3,4,2,0.1,-15,Brevin Knight
+2007-12-14,32-036,LAC,AWAY,MEM,W (+7),1,24:53,2,7,.286,0,0,,2,2,1.000,0,1,1,2,4,0,0,2,6,6.8,+5,Brevin Knight
+2007-12-16,32-038,LAC,AWAY,LAL,L (-21),1,24:00,1,6,.167,0,0,,2,2,1.000,0,1,1,4,1,0,0,1,4,3.9,-7,Brevin Knight
+2007-12-18,32-040,LAC,HOME,TOR,L (-3),1,21:55,2,4,.500,0,0,,0,0,,0,3,3,6,1,0,0,3,4,6.9,-6,Brevin Knight
+2007-12-21,32-043,LAC,AWAY,DAL,L (-13),1,26:31,3,7,.429,0,0,,0,0,,0,0,0,8,3,0,1,1,6,9.5,-1,Brevin Knight
+2007-12-22,32-044,LAC,AWAY,SAS,L (-9),1,22:29,2,4,.500,0,0,,0,0,,0,4,4,3,0,2,0,3,4,5.5,-12,Brevin Knight
+2007-12-27,32-049,LAC,HOME,PHO,L (-20),1,18:39,0,1,.000,0,0,,0,0,,1,1,2,4,2,0,0,1,0,4.7,-24,Brevin Knight
+2007-12-28,32-050,LAC,AWAY,PHO,L (-6),0,17:24,4,7,.571,0,0,,2,2,1.000,1,3,4,0,3,1,0,1,10,11.6,-12,Brevin Knight
+2007-12-31,32-053,LAC,HOME,MIN,W (+9),0,20:33,4,6,.667,0,1,.000,0,0,,0,2,2,3,3,0,0,1,8,10.7,+15,Brevin Knight
+2008-01-02,32-055,LAC,HOME,NOH,L (-14),0,28:05,6,10,.600,0,0,,0,0,,0,3,3,7,4,0,0,5,12,15.2,0,Brevin Knight
+2008-01-06,32-059,LAC,HOME,SAS,L (-6),0,23:59,1,4,.250,0,0,,1,1,1.000,0,2,2,6,2,0,0,4,3,5.8,-3,Brevin Knight
+2008-01-09,32-062,LAC,HOME,ORL,L (-7),0,14:55,0,1,.000,0,0,,0,0,,0,2,2,2,1,0,2,2,0,-0.5,+11,Brevin Knight
+2008-01-12,32-065,LAC,HOME,DAL,L (-1),0,23:58,2,3,.667,0,0,,4,4,1.000,0,3,3,3,2,0,2,1,8,9.3,-7,Brevin Knight
+2008-01-15,32-068,LAC,HOME,PHO,W (+7),0,16:12,1,2,.500,0,0,,0,0,,0,3,3,6,0,0,2,1,2,3.7,-8,Brevin Knight
+2008-01-18,32-071,LAC,AWAY,UTA,L (-18),0,15:37,4,6,.667,0,0,,2,3,.667,0,1,1,2,1,0,1,3,10,7.5,-6,Brevin Knight
+2008-01-19,32-072,LAC,HOME,NJN,W (+13),0,13:52,1,3,.333,0,0,,0,0,,0,1,1,4,0,0,0,0,2,3.4,-5,Brevin Knight
+2008-01-21,32-074,LAC,HOME,UTA,L (-16),0,16:14,0,2,.000,0,0,,2,2,1.000,0,0,0,2,2,0,1,1,2,2.6,0,Brevin Knight
+2008-01-23,32-076,LAC,HOME,SAC,W (+26),0,16:07,0,4,.000,0,0,,2,2,1.000,0,0,0,1,3,0,0,1,2,2.5,+11,Brevin Knight
+2008-01-25,32-078,LAC,AWAY,NOH,L (-19),0,14:12,0,1,.000,0,0,,0,0,,0,0,0,4,0,0,0,2,0,1.3,-10,Brevin Knight
+2008-01-26,32-079,LAC,AWAY,MEM,L (-5),0,20:47,2,6,.333,0,0,,0,0,,1,1,2,5,3,0,1,5,4,5.1,+4,Brevin Knight
+2008-01-28,32-081,LAC,HOME,CHA,L (-7),0,14:56,0,1,.000,0,0,,0,0,,0,1,1,2,0,0,2,0,0,-1.0,-13,Brevin Knight
+2008-01-30,32-083,LAC,HOME,ATL,W (+7),0,23:17,0,2,.000,0,0,,0,0,,1,1,2,7,1,0,0,1,0,5.1,+22,Brevin Knight
+2008-02-01,32-085,LAC,AWAY,MIN,L (-21),0,19:54,2,5,.400,0,0,,2,2,1.000,0,0,0,3,0,0,0,0,6,5.4,-7,Brevin Knight
+2008-02-02,32-086,LAC,AWAY,CLE,L (-14),0,21:24,1,2,.500,0,0,,0,0,,0,4,4,6,0,0,1,3,2,4.2,+5,Brevin Knight
+2008-02-04,32-088,LAC,AWAY,NYK,W (+9),0,21:44,1,6,.167,0,0,,0,0,,0,1,1,1,3,0,1,5,2,-0.8,-2,Brevin Knight
+2008-02-06,32-090,LAC,AWAY,BOS,L (-11),0,20:19,2,5,.400,0,1,.000,0,0,,0,1,1,3,1,0,0,3,4,3.5,-2,Brevin Knight
+2008-02-08,32-092,LAC,AWAY,TOR,W (+4),1,33:15,1,3,.333,0,0,,1,1,1.000,0,5,5,5,0,0,2,2,3,3.5,-1,Brevin Knight
+2008-02-09,32-093,LAC,AWAY,PHI,L (-21),0,23:08,0,2,.000,0,0,,0,0,,0,1,1,2,2,0,1,3,0,0.1,-12,Brevin Knight
+2008-02-11,32-095,LAC,AWAY,MIL,W (+7),0,12:23,0,1,.000,0,0,,0,0,,0,0,0,2,2,0,0,1,0,2.3,-3,Brevin Knight
+2008-02-13,32-097,LAC,HOME,WAS,L (-2),0,17:11,0,1,.000,0,0,,0,0,,0,0,0,3,3,0,1,1,0,3.0,-11,Brevin Knight
+2008-02-20,32-104,LAC,HOME,MEM,W (+14),0,28:53,2,5,.400,0,0,,0,1,.000,0,4,4,8,2,0,1,5,4,6.7,+30,Brevin Knight
+2008-02-22,32-106,LAC,HOME,UTA,W (+10),1,21:40,1,4,.250,0,0,,2,2,1.000,0,0,0,4,0,0,0,5,4,2.4,+8,Brevin Knight
+2008-02-23,32-107,LAC,HOME,LAL,L (-18),1,25:44,4,8,.500,0,0,,3,3,1.000,0,3,3,5,2,0,1,3,11,11.2,-20,Brevin Knight
+2008-02-25,32-109,LAC,HOME,BOS,L (-28),1,28:18,5,7,.714,0,1,.000,0,0,,0,1,1,2,0,1,1,3,10,7.3,-14,Brevin Knight
+2008-02-27,32-111,LAC,HOME,POR,L (-2),1,22:05,0,3,.000,0,0,,0,0,,1,2,3,3,3,0,1,2,0,2.5,+3,Brevin Knight
+2008-02-29,32-113,LAC,AWAY,DEN,L (-6),1,35:17,4,7,.571,0,0,,1,2,.500,1,2,3,12,3,0,2,1,9,15.6,-10,Brevin Knight
+2008-03-01,32-114,LAC,HOME,DET,L (-30),1,27:29,2,4,.500,0,0,,4,4,1.000,2,3,5,2,1,0,0,2,8,9.9,-6,Brevin Knight
+2008-03-03,32-116,LAC,HOME,PHI,L (-26),1,29:00,4,7,.571,0,0,,0,0,,0,1,1,7,1,0,0,4,8,9.3,-11,Brevin Knight
+2008-03-05,32-118,LAC,HOME,SAC,W (+7),1,22:59,5,9,.556,0,0,,0,0,,1,0,1,7,2,0,0,2,10,12.5,-2,Brevin Knight
+2008-03-07,32-120,LAC,AWAY,LAL,L (-37),0,21:04,2,5,.400,0,0,,0,0,,0,1,1,3,0,0,2,1,4,1.3,-17,Brevin Knight
+2008-03-08,32-121,LAC,HOME,MIN,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2008-03-10,32-123,LAC,AWAY,MIA,W (+1),1,24:00,2,4,.500,0,0,,0,0,,0,1,1,3,0,0,3,1,4,1.0,-12,Brevin Knight
+2008-03-12,32-125,LAC,AWAY,ORL,L (-22),1,26:01,3,7,.429,0,1,.000,2,2,1.000,0,3,3,4,3,0,0,2,8,10.2,-14,Brevin Knight
+2008-03-14,32-127,LAC,AWAY,ATL,L (-24),1,9:03,1,3,.333,0,0,,0,0,,0,0,0,1,0,0,0,0,2,1.0,-6,Brevin Knight
+2008-03-15,32-128,LAC,AWAY,WAS,L (-10),1,38:56,2,5,.400,0,0,,2,2,1.000,0,7,7,8,1,0,1,3,6,9.8,-4,Brevin Knight
+2008-03-17,32-130,LAC,AWAY,MIN,L (-9),1,28:00,1,3,.333,0,0,,2,3,.667,0,3,3,7,2,0,1,2,4,7.9,+3,Brevin Knight
+2008-03-19,32-132,LAC,HOME,GSW,L (-16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2008-03-21,32-134,LAC,AWAY,POR,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2008-03-22,32-135,LAC,HOME,POR,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2008-03-25,32-138,LAC,AWAY,DAL,L (-13),0,17:20,4,7,.571,0,0,,2,2,1.000,0,3,3,2,1,0,1,2,10,8.2,-4,Brevin Knight
+2008-03-26,32-139,LAC,AWAY,SAS,L (-9),1,30:37,3,6,.500,0,0,,2,2,1.000,1,0,1,3,0,2,0,2,8,8.4,-17,Brevin Knight
+2008-03-28,32-141,LAC,AWAY,UTA,L (-20),1,24:09,4,7,.571,0,0,,0,0,,0,1,1,4,2,1,1,1,8,9.1,-1,Brevin Knight
+2008-03-29,32-142,LAC,HOME,MEM,W (+13),1,35:03,6,8,.750,0,0,,2,2,1.000,0,2,2,11,1,1,1,2,14,19.0,+10,Brevin Knight
+2008-03-31,32-144,LAC,HOME,DAL,L (-7),1,25:52,1,5,.200,0,0,,0,0,,0,2,2,3,2,0,2,4,2,0.0,-8,Brevin Knight
+2008-04-02,32-146,LAC,AWAY,SEA,W (+18),1,16:39,3,7,.429,0,0,,0,0,,0,0,0,1,2,0,0,3,6,3.8,-3,Brevin Knight
+2008-04-03,32-147,LAC,AWAY,SAC,L (-12),0,19:57,0,2,.000,0,0,,0,0,,0,3,3,6,3,1,2,2,0,4.6,-11,Brevin Knight
+2008-04-06,32-150,LAC,HOME,HOU,L (-26),1,25:14,0,4,.000,0,0,,1,1,1.000,0,3,3,9,0,1,0,2,1,5.3,-4,Brevin Knight
+2008-04-08,32-152,LAC,HOME,DEN,L (-18),0,21:54,2,4,.500,0,0,,0,0,,1,2,3,7,1,0,2,4,4,5.6,-12,Brevin Knight
+2008-04-12,32-156,LAC,AWAY,GSW,L (-6),1,19:50,0,4,.000,0,0,,0,0,,0,2,2,2,0,0,2,1,0,-3.2,-22,Brevin Knight
+2008-04-15,32-159,LAC,AWAY,NOH,L (-22),1,18:32,0,1,.000,0,0,,0,0,,0,3,3,9,0,0,1,0,0,5.5,-15,Brevin Knight
+2008-04-16,32-160,LAC,AWAY,HOU,L (-18),0,16:23,1,3,.333,0,0,,0,0,,0,1,1,2,0,0,1,0,2,1.0,-1,Brevin Knight
+1999-11-02,23-359,CLE,AWAY,NYK,L (-8),1,35:13,6,11,.545,1,2,.500,1,1,1.000,1,5,6,4,1,0,6,4,14,7.1,-6,Brevin Knight
+1999-11-03,23-360,CLE,HOME,NJN,W (+7),1,27:09,8,11,.727,0,0,,0,0,,0,2,2,6,1,1,3,5,16,13.0,-4,Brevin Knight
+1999-11-05,23-362,CLE,AWAY,ORL,W (+5),1,26:56,7,12,.583,0,0,,4,5,.800,1,3,4,7,3,0,4,2,18,16.7,-13,Brevin Knight
+1999-11-06,23-363,CLE,HOME,NYK,W (+9),1,34:06,8,17,.471,0,0,,2,2,1.000,0,4,4,7,0,0,3,4,18,10.8,0,Brevin Knight
+1999-11-11,24-003,CLE,HOME,SEA,L (-6),1,30:45,4,9,.444,0,0,,0,0,,0,6,6,7,2,0,2,2,8,9.2,-10,Brevin Knight
+1999-11-13,24-005,CLE,HOME,MIL,W (+5),1,27:36,5,12,.417,0,0,,8,9,.889,1,4,5,12,3,1,0,4,18,23.6,+5,Brevin Knight
+1999-11-17,24-009,CLE,AWAY,BOS,L (-11),1,29:09,3,10,.300,0,0,,3,6,.500,0,2,2,6,0,1,3,4,9,2.9,-3,Brevin Knight
+1999-11-19,24-011,CLE,AWAY,DET,L (-11),1,23:00,0,6,.000,0,0,,3,4,.750,1,0,1,3,2,0,3,2,3,-0.6,-17,Brevin Knight
+1999-11-20,24-012,CLE,HOME,IND,L (-9),1,20:08,3,9,.333,0,0,,2,3,.667,1,1,2,7,1,0,2,4,8,5.8,-9,Brevin Knight
+1999-11-23,24-015,CLE,HOME,POR,W (+3),1,31:49,3,4,.750,0,0,,5,6,.833,0,2,2,12,0,0,2,3,11,14.8,+8,Brevin Knight
+1999-11-26,24-018,CLE,AWAY,PHI,L (-23),1,30:45,4,10,.400,0,0,,2,3,.667,1,3,4,11,0,0,5,3,10,7.3,-12,Brevin Knight
+1999-11-27,24-019,CLE,HOME,CHH,W (+17),1,30:33,3,6,.500,0,0,,3,3,1.000,2,6,8,6,2,0,3,4,9,10.8,+15,Brevin Knight
+1999-11-30,24-022,CLE,HOME,DAL,W (+7),1,38:47,7,15,.467,0,0,,2,2,1.000,3,1,4,10,5,1,2,3,16,20.2,+23,Brevin Knight
+1999-12-01,24-023,CLE,AWAY,WAS,W (+3),1,28:10,4,6,.667,0,0,,6,7,.857,0,2,2,6,1,0,5,5,14,9.8,-1,Brevin Knight
+1999-12-03,24-025,CLE,HOME,PHI,L (-2),1,39:30,5,12,.417,0,0,,0,0,,0,1,1,12,3,1,4,4,10,10.4,-9,Brevin Knight
+1999-12-07,24-029,CLE,AWAY,TOR,L (-3),1,35:08,6,12,.500,0,0,,8,8,1.000,1,4,5,11,1,0,4,5,20,18.6,+3,Brevin Knight
+1999-12-08,24-030,CLE,HOME,CHI,W (+14),1,25:20,7,9,.778,0,0,,4,4,1.000,0,1,1,5,1,0,4,3,18,14.1,+11,Brevin Knight
+1999-12-10,24-032,CLE,AWAY,IND,L (-48),1,24:13,3,8,.375,0,0,,1,2,.500,3,1,4,6,1,0,3,4,7,5.2,-27,Brevin Knight
+1999-12-11,24-033,CLE,HOME,ATL,W (+11),1,32:45,3,8,.375,0,0,,8,11,.727,1,2,3,15,5,0,2,1,14,22.8,+4,Brevin Knight
+1999-12-14,24-036,CLE,HOME,BOS,W (+27),1,27:07,4,11,.364,0,0,,2,2,1.000,2,4,6,8,3,0,3,2,10,11.3,+14,Brevin Knight
+1999-12-15,24-037,CLE,AWAY,NJN,L (-10),1,31:26,6,10,.600,0,0,,1,2,.500,0,2,2,5,1,0,3,4,13,8.5,-17,Brevin Knight
+1999-12-17,24-039,CLE,AWAY,CHH,L (-13),1,23:57,5,9,.556,0,0,,0,0,,1,1,2,3,0,0,1,4,10,6.2,-11,Brevin Knight
+1999-12-18,24-040,CLE,HOME,NJN,L (-24),1,24:55,0,7,.000,0,0,,2,4,.500,0,7,7,11,2,0,4,2,2,3.3,-25,Brevin Knight
+1999-12-20,24-042,CLE,HOME,MIN,L (-6),1,35:02,6,10,.600,0,0,,4,6,.667,0,2,2,6,4,1,4,6,16,13.7,+1,Brevin Knight
+1999-12-23,24-045,CLE,AWAY,ATL,L (-18),1,26:16,3,10,.300,0,1,.000,1,2,.500,1,0,1,5,3,0,0,0,7,8.0,-7,Brevin Knight
+1999-12-26,24-048,CLE,HOME,TOR,L (-3),1,28:52,4,11,.364,0,0,,2,4,.500,0,2,2,9,3,1,0,3,10,12.5,+2,Brevin Knight
+1999-12-29,24-051,CLE,HOME,WAS,W (+2),1,23:44,0,3,.000,0,0,,1,2,.500,0,1,1,9,2,0,3,5,1,2.1,+8,Brevin Knight
+1999-12-30,24-052,CLE,AWAY,MIL,L (-1),1,23:09,4,9,.444,0,0,,1,1,1.000,1,3,4,6,0,0,2,4,9,6.5,0,Brevin Knight
+2000-01-03,24-056,CLE,AWAY,BOS,L (-7),1,34:01,3,12,.250,0,0,,4,4,1.000,0,1,1,10,2,0,2,4,10,8.5,+2,Brevin Knight
+2000-01-04,24-057,CLE,HOME,SAC,L (-4),1,27:25,3,7,.429,0,0,,0,0,,0,3,3,12,0,0,1,4,6,9.0,-17,Brevin Knight
+2000-01-06,24-059,CLE,HOME,GSW,W (+15),1,20:49,1,6,.167,0,0,,2,3,.667,2,3,5,5,2,1,2,2,4,5.5,-13,Brevin Knight
+2000-01-08,24-061,CLE,AWAY,NYK,W (+3),1,34:16,3,11,.273,0,1,.000,5,6,.833,2,1,3,5,1,0,4,2,11,5.5,+4,Brevin Knight
+2000-01-10,24-063,CLE,HOME,LAC,W (+5),1,31:06,2,7,.286,0,0,,7,8,.875,2,2,4,14,2,0,3,3,11,16.1,+1,Brevin Knight
+2000-01-12,24-065,CLE,AWAY,POR,L (-20),1,29:38,3,8,.375,0,0,,1,1,1.000,2,3,5,4,0,0,1,3,7,5.5,-14,Brevin Knight
+2000-01-14,24-067,CLE,AWAY,VAN,W (+2),1,34:45,7,17,.412,0,1,.000,2,2,1.000,0,2,2,3,2,0,1,3,16,9.4,-7,Brevin Knight
+2000-01-16,24-069,CLE,AWAY,SAC,L (-11),1,35:09,7,16,.438,0,0,,1,3,.333,1,2,3,5,4,0,4,3,15,9.4,0,Brevin Knight
+2000-01-18,24-071,CLE,AWAY,SEA,L (-19),1,24:34,2,6,.333,0,0,,0,0,,0,3,3,4,0,0,1,1,4,2.9,-23,Brevin Knight
+2000-01-19,24-072,CLE,AWAY,LAL,L (-9),1,28:52,7,14,.500,0,0,,1,1,1.000,0,4,4,6,1,0,0,2,15,13.6,-8,Brevin Knight
+2000-01-21,24-074,CLE,AWAY,GSW,L (-12),1,24:36,1,11,.091,0,0,,1,2,.500,1,3,4,4,2,0,2,3,3,-1.5,-2,Brevin Knight
+2000-01-22,24-075,CLE,AWAY,PHO,L (-13),1,30:37,4,8,.500,0,0,,1,2,.500,0,2,2,11,1,1,4,4,9,9.0,+5,Brevin Knight
+2000-01-25,24-078,CLE,HOME,DET,W (+9),1,30:05,7,12,.583,0,0,,2,2,1.000,0,5,5,4,3,1,3,3,16,14.2,+7,Brevin Knight
+2000-01-27,24-080,CLE,HOME,ORL,W (+12),1,32:16,3,10,.300,0,1,.000,2,2,1.000,0,6,6,7,5,1,3,2,8,10.8,-3,Brevin Knight
+2000-01-29,24-082,CLE,AWAY,WAS,L (-5),1,32:02,4,13,.308,0,1,.000,1,2,.500,1,2,3,10,4,0,1,3,9,11.2,+1,Brevin Knight
+2000-02-01,24-085,CLE,HOME,WAS,W (+4),1,29:24,1,7,.143,0,0,,0,2,.000,0,1,1,5,3,1,3,3,2,0.0,0,Brevin Knight
+2000-02-04,24-088,CLE,AWAY,DET,L (-9),1,12:26,2,3,.667,0,0,,0,0,,0,3,3,3,1,0,1,1,4,5.3,-2,Brevin Knight
+2000-02-08,24-092,CLE,AWAY,HOU,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2000-02-09,24-093,CLE,AWAY,CHH,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2000-02-15,24-099,CLE,HOME,SAS,W (+11),1,26:35,1,6,.167,0,0,,1,2,.500,0,2,2,7,1,1,0,1,3,5.6,-1,Brevin Knight
+2000-02-18,24-102,CLE,AWAY,PHI,L (-29),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2000-03-12,24-125,CLE,AWAY,MIL,L (-31),0,18:12,4,7,.571,0,0,,1,2,.500,0,1,1,1,0,0,3,1,9,2.9,-10,Brevin Knight
+2000-03-14,24-127,CLE,HOME,PHI,L (-1),0,23:54,3,7,.429,0,0,,3,3,1.000,0,1,1,3,4,1,2,1,9,10.0,+7,Brevin Knight
+2000-03-16,24-129,CLE,HOME,UTA,L (-21),0,19:05,3,8,.375,0,1,.000,0,0,,0,1,1,4,0,1,3,3,6,1.2,-7,Brevin Knight
+2000-03-18,24-131,CLE,HOME,MIA,L (-2),0,29:02,2,10,.200,0,0,,4,6,.667,1,2,3,6,0,0,1,5,8,3.5,+6,Brevin Knight
+2000-03-20,24-133,CLE,HOME,HOU,W (+13),0,24:41,3,9,.333,0,0,,0,0,,0,2,2,10,1,1,2,2,6,7.4,+9,Brevin Knight
+2000-03-21,24-134,CLE,AWAY,MIN,L (-4),0,22:05,3,5,.600,0,0,,3,3,1.000,0,2,2,8,0,0,4,1,9,8.5,-1,Brevin Knight
+2000-03-23,24-136,CLE,AWAY,DAL,W (+6),0,32:06,4,11,.364,0,0,,4,5,.800,0,5,5,11,1,0,3,5,12,10.7,+5,Brevin Knight
+2000-03-25,24-138,CLE,AWAY,SAS,L (-20),0,19:21,1,2,.500,0,0,,2,4,.500,0,2,2,5,3,0,1,1,4,7.9,-15,Brevin Knight
+2000-03-28,24-141,CLE,HOME,TOR,L (-3),0,16:00,1,5,.200,0,0,,1,2,.500,0,2,2,6,2,1,2,2,3,4.2,-8,Brevin Knight
+2000-03-29,24-142,CLE,AWAY,CHI,W (+5),0,24:38,4,8,.500,0,0,,2,3,.667,0,0,0,6,1,0,1,1,10,9.4,+5,Brevin Knight
+2000-04-01,24-145,CLE,HOME,BOS,W (+6),0,26:36,4,8,.500,0,0,,2,2,1.000,2,0,2,12,2,0,3,2,10,14.0,+14,Brevin Knight
+2000-04-02,24-146,CLE,HOME,CHI,L (-9),0,19:26,1,5,.200,0,0,,0,0,,1,0,1,3,0,0,1,2,2,-0.1,-13,Brevin Knight
+2000-04-04,24-148,CLE,AWAY,MIA,L (-26),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Brevin Knight
+2000-04-07,24-151,CLE,AWAY,IND,L (-1),0,16:48,2,3,.667,0,0,,0,0,,0,1,1,5,0,0,2,2,4,3.7,+1,Brevin Knight
+2000-04-08,24-152,CLE,HOME,DET,W (+19),0,18:41,0,2,.000,0,0,,0,0,,0,3,3,4,1,1,1,1,0,2.6,+11,Brevin Knight
+2000-04-10,24-154,CLE,AWAY,TOR,L (-9),0,21:26,4,7,.571,0,0,,1,1,1.000,1,3,4,7,0,0,1,1,9,10.8,+6,Brevin Knight
+2000-04-12,24-156,CLE,HOME,MIL,L (-1),0,28:37,3,7,.429,0,0,,4,6,.667,1,4,5,8,2,1,2,2,10,12.9,+11,Brevin Knight
+2000-04-15,24-159,CLE,HOME,NYK,W (+10),0,20:57,1,4,.250,1,2,.500,2,2,1.000,0,2,2,9,1,0,4,1,5,6.1,+5,Brevin Knight
+2000-04-16,24-160,CLE,AWAY,ATL,L (-3),0,17:31,1,3,.333,0,0,,2,2,1.000,0,1,1,4,1,0,3,3,4,2.2,-6,Brevin Knight
+2000-04-19,24-163,CLE,AWAY,NJN,W (+3),0,29:15,4,6,.667,0,0,,2,2,1.000,0,3,3,12,4,2,2,6,10,17.7,+1,Brevin Knight
+2004-11-04,28-362,CHA,HOME,WAS,L (-7),1,22:04,2,4,.500,0,1,.000,1,1,1.000,0,1,1,6,3,0,2,3,5,7.3,-4,Brevin Knight
+2004-11-06,28-364,CHA,HOME,ORL,W (+11),1,27:41,3,7,.429,0,0,,2,2,1.000,0,3,3,6,0,0,3,2,8,5.6,+17,Brevin Knight
+2004-11-10,29-002,CHA,AWAY,MIL,L (-2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2004-11-12,29-004,CHA,AWAY,BOS,L (-17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2004-11-13,29-005,CHA,HOME,GSW,L (-16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2004-11-16,29-008,CHA,HOME,UTA,L (-2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2004-11-18,29-010,CHA,HOME,CLE,L (-17),1,14:27,3,6,.500,0,0,,2,2,1.000,0,1,1,5,1,0,0,1,8,9.4,-7,Brevin Knight
+2004-11-20,29-012,CHA,AWAY,CLE,L (-16),1,31:06,4,6,.667,0,0,,0,1,.000,0,2,2,8,2,0,3,3,8,9.0,-9,Brevin Knight
+2004-11-21,29-013,CHA,AWAY,DET,L (-1),1,36:18,1,8,.125,0,0,,4,4,1.000,1,4,5,15,1,1,2,3,6,11.7,-6,Brevin Knight
+2004-11-23,29-015,CHA,HOME,DET,W (+2),1,41:03,1,5,.200,0,1,.000,5,7,.714,0,3,3,19,3,0,2,2,7,17.5,+9,Brevin Knight
+2004-11-26,29-018,CHA,AWAY,IND,L (-5),1,26:06,1,4,.250,0,0,,2,2,1.000,0,0,0,5,1,0,3,4,4,1.5,-2,Brevin Knight
+2004-11-27,29-019,CHA,HOME,ATL,W (+15),1,32:37,4,7,.571,0,1,.000,4,5,.800,0,5,5,11,3,1,3,1,12,17.8,+11,Brevin Knight
+2004-11-30,29-022,CHA,AWAY,NJN,L (-13),1,26:06,2,6,.333,0,0,,3,4,.750,0,0,0,6,2,0,0,4,7,7.8,+1,Brevin Knight
+2004-12-04,29-026,CHA,HOME,NYK,W (+6),1,41:58,2,8,.250,0,0,,5,6,.833,0,1,1,18,5,1,2,3,9,19.2,+4,Brevin Knight
+2004-12-06,29-028,CHA,AWAY,LAC,L (-6),1,39:30,4,13,.308,0,0,,0,0,,1,2,3,13,2,0,1,3,8,10.7,-14,Brevin Knight
+2004-12-07,29-029,CHA,AWAY,SAC,L (-17),1,28:04,5,8,.625,0,0,,4,4,1.000,1,2,3,4,1,0,2,2,14,12.7,-5,Brevin Knight
+2004-12-10,29-032,CHA,AWAY,PHO,L (-9),1,30:34,7,13,.538,0,1,.000,3,5,.600,0,2,2,7,0,0,1,1,17,14.0,-15,Brevin Knight
+2004-12-12,29-034,CHA,AWAY,GSW,L (-12),1,34:13,1,7,.143,0,0,,4,4,1.000,3,3,6,11,1,0,3,5,6,8.2,-16,Brevin Knight
+2004-12-14,29-036,CHA,HOME,NOH,W (+1),1,24:10,3,7,.429,0,0,,2,2,1.000,1,0,1,11,3,0,2,0,8,13.7,-3,Brevin Knight
+2004-12-18,29-040,CHA,HOME,HOU,W (+1),1,37:35,3,6,.500,0,0,,1,2,.500,0,4,4,11,2,0,2,4,7,10.9,+10,Brevin Knight
+2004-12-21,29-043,CHA,HOME,NJN,L (-3),1,16:58,1,4,.250,0,0,,2,2,1.000,0,1,1,3,1,0,4,2,4,0.2,-16,Brevin Knight
+2004-12-22,29-044,CHA,AWAY,HOU,W (+3),1,32:41,4,9,.444,0,0,,1,1,1.000,0,1,1,13,3,0,1,1,9,15.3,+5,Brevin Knight
+2004-12-26,29-048,CHA,AWAY,NYK,L (-9),1,23:52,4,11,.364,0,1,.000,0,0,,0,3,3,4,4,0,1,4,8,7.0,-2,Brevin Knight
+2004-12-27,29-049,CHA,AWAY,WAS,L (-19),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2004-12-29,29-051,CHA,HOME,IND,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2004-12-31,29-053,CHA,HOME,SEA,L (-6),1,29:47,2,6,.333,0,0,,0,0,,0,3,3,15,2,0,5,6,4,6.6,-2,Brevin Knight
+2005-01-01,29-054,CHA,AWAY,MIA,L (-23),1,22:48,3,6,.500,0,0,,0,0,,0,0,0,7,1,0,3,4,6,4.3,-10,Brevin Knight
+2005-01-03,29-056,CHA,HOME,CLE,L (-11),1,27:44,1,3,.333,0,0,,0,0,,0,0,0,9,1,0,2,1,2,5.2,-16,Brevin Knight
+2005-01-05,29-058,CHA,HOME,MIN,W (+18),1,30:32,0,4,.000,0,0,,2,2,1.000,0,5,5,8,1,0,0,2,2,6.5,+14,Brevin Knight
+2005-01-07,29-060,CHA,AWAY,ORL,L (-20),1,25:25,3,7,.429,0,0,,1,1,1.000,0,0,0,10,0,0,3,2,7,6.5,-9,Brevin Knight
+2005-01-11,29-064,CHA,AWAY,CLE,L (-2),1,39:43,4,9,.444,0,0,,7,7,1.000,0,3,3,20,2,0,5,3,15,21.0,+3,Brevin Knight
+2005-01-14,29-067,CHA,HOME,MEM,L (-20),1,36:41,2,10,.200,0,0,,3,3,1.000,1,0,1,11,1,0,1,2,7,8.4,-4,Brevin Knight
+2005-01-15,29-068,CHA,AWAY,ATL,L (-8),1,21:26,4,10,.400,0,0,,1,1,1.000,0,1,1,3,2,0,2,3,9,4.8,-5,Brevin Knight
+2005-01-17,29-070,CHA,HOME,MIL,L (-7),1,32:14,4,9,.444,0,0,,2,2,1.000,1,4,5,10,1,0,4,5,10,9.2,-15,Brevin Knight
+2005-01-19,29-072,CHA,HOME,PHI,L (-2),1,3:36,0,1,.000,0,0,,0,0,,1,0,1,2,1,0,0,1,0,2.0,-2,Brevin Knight
+2005-01-21,29-074,CHA,HOME,DAL,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2005-01-23,29-076,CHA,AWAY,TOR,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2005-01-25,29-078,CHA,HOME,BOS,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2005-01-27,29-080,CHA,AWAY,CHI,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2005-01-28,29-081,CHA,HOME,TOR,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2005-01-30,29-083,CHA,AWAY,LAL,L (-11),0,22:26,4,8,.500,0,0,,0,0,,0,3,3,5,0,0,1,1,8,7.0,+7,Brevin Knight
+2005-02-01,29-085,CHA,AWAY,UTA,W (+4),1,28:48,7,12,.583,0,0,,7,8,.875,1,2,3,8,3,0,1,5,21,21.9,+7,Brevin Knight
+2005-02-04,29-088,CHA,AWAY,POR,L (-12),1,34:59,4,10,.400,0,0,,1,1,1.000,1,2,3,11,0,0,1,4,9,10.0,+12,Brevin Knight
+2005-02-05,29-089,CHA,AWAY,SEA,L (-14),1,28:48,2,7,.286,0,0,,1,1,1.000,1,2,3,4,1,0,3,2,5,2.2,-1,Brevin Knight
+2005-02-08,29-092,CHA,HOME,SAS,L (-19),1,32:33,4,10,.400,0,1,.000,2,2,1.000,0,0,0,7,2,0,2,4,10,7.9,-10,Brevin Knight
+2005-02-09,29-093,CHA,AWAY,IND,L (-7),1,30:56,5,10,.500,0,0,,4,4,1.000,0,2,2,6,2,0,4,4,14,10.2,+9,Brevin Knight
+2005-02-11,29-095,CHA,HOME,MIA,L (-10),0,31:12,7,15,.467,1,1,1.000,2,5,.400,0,3,3,5,4,0,3,3,17,12.3,-5,Brevin Knight
+2005-02-13,29-097,CHA,AWAY,NYK,L (-3),1,15:11,0,2,.000,0,0,,0,0,,0,0,0,6,1,0,2,2,0,1.0,-3,Brevin Knight
+2005-02-14,29-098,CHA,HOME,POR,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2005-02-16,29-100,CHA,HOME,DEN,W (+6),0,26:05,5,11,.455,0,0,,1,1,1.000,0,3,3,4,0,0,1,4,11,6.4,+17,Brevin Knight
+2005-02-22,29-106,CHA,HOME,MIL,L (-10),1,28:34,6,11,.545,0,0,,7,7,1.000,1,4,5,4,0,0,1,4,19,15.8,-12,Brevin Knight
+2005-02-25,29-109,CHA,AWAY,NJN,L (-7),1,31:38,5,10,.500,0,1,.000,0,0,,1,4,5,12,3,0,3,1,10,14.9,-6,Brevin Knight
+2005-02-26,29-110,CHA,HOME,CHI,L (-4),1,34:21,3,11,.273,0,0,,4,6,.667,0,2,2,3,1,0,0,4,10,4.8,-10,Brevin Knight
+2005-03-01,29-113,CHA,HOME,SAC,W (+7),1,31:48,7,10,.700,0,0,,3,3,1.000,1,1,2,10,0,0,2,4,17,17.2,+2,Brevin Knight
+2005-03-02,29-114,CHA,AWAY,NOH,L (-9),1,34:26,8,16,.500,0,0,,0,0,,1,3,4,5,1,0,2,3,16,10.9,-10,Brevin Knight
+2005-03-04,29-116,CHA,AWAY,BOS,L (-20),1,6:44,2,3,.667,1,1,1.000,0,0,,0,0,0,2,1,0,1,0,5,5.1,-2,Brevin Knight
+2005-03-05,29-117,CHA,HOME,WAS,L (-2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2005-03-08,29-120,CHA,AWAY,MIN,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2005-03-11,29-123,CHA,AWAY,PHI,L (-32),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brevin Knight
+2005-03-12,29-124,CHA,HOME,LAL,L (-1),0,32:35,6,12,.500,0,1,.000,9,10,.900,0,3,3,17,4,0,0,2,21,30.6,+6,Brevin Knight
+2005-03-14,29-126,CHA,HOME,BOS,L (-9),1,32:39,6,12,.500,0,2,.000,4,5,.800,0,2,2,6,3,0,3,2,16,13.6,-8,Brevin Knight
+2005-03-16,29-128,CHA,AWAY,DEN,L (-19),1,23:21,3,8,.375,0,0,,0,0,,0,2,2,8,2,1,3,3,6,6.3,-3,Brevin Knight
+2005-03-18,29-130,CHA,AWAY,SAS,L (-17),1,23:52,2,5,.400,0,0,,4,6,.667,0,4,4,7,3,0,3,2,8,9.8,+4,Brevin Knight
+2005-03-19,29-131,CHA,AWAY,DAL,L (-11),1,40:27,4,11,.364,0,0,,3,4,.750,1,4,5,13,3,1,5,3,11,13.0,-8,Brevin Knight
+2005-03-21,29-133,CHA,HOME,ORL,W (+5),1,30:43,7,15,.467,0,1,.000,5,5,1.000,0,3,3,8,3,0,1,5,19,17.8,+8,Brevin Knight
+2005-03-23,29-135,CHA,HOME,PHO,L (-15),1,32:22,6,12,.500,0,0,,0,0,,0,4,4,15,2,0,1,3,12,17.5,-18,Brevin Knight
+2005-03-24,29-136,CHA,AWAY,ORL,W (+14),1,37:58,5,16,.313,0,2,.000,5,5,1.000,0,3,3,15,8,0,5,2,15,19.4,+16,Brevin Knight
+2005-03-26,29-138,CHA,HOME,MIA,W (+2),1,34:18,2,9,.222,0,1,.000,1,2,.500,0,2,2,16,1,0,1,3,5,9.7,-7,Brevin Knight
+2005-03-28,29-140,CHA,HOME,NJN,L (-4),1,32:46,4,9,.444,0,0,,8,9,.889,0,4,4,10,1,0,2,5,16,16.1,-3,Brevin Knight
+2005-03-30,29-142,CHA,HOME,CHI,L (-3),1,32:26,1,6,.167,0,0,,4,4,1.000,0,3,3,15,3,0,3,3,6,12.4,+2,Brevin Knight
+2005-04-01,29-144,CHA,HOME,TOR,L (-12),1,32:44,5,11,.455,0,0,,4,4,1.000,0,0,0,10,1,0,2,3,14,13.1,-15,Brevin Knight
+2005-04-02,29-145,CHA,AWAY,CHI,L (-15),1,32:21,2,12,.167,0,0,,2,2,1.000,0,2,2,7,4,0,1,4,6,5.3,-21,Brevin Knight
+2005-04-05,29-148,CHA,HOME,LAC,L (-2),1,31:03,8,14,.571,1,1,1.000,4,4,1.000,0,4,4,13,4,0,1,4,21,26.1,+11,Brevin Knight
+2005-04-06,29-149,CHA,AWAY,PHI,L (-3),1,20:40,4,6,.667,0,0,,1,1,1.000,1,3,4,6,2,0,4,5,9,8.2,-2,Brevin Knight
+2005-04-08,29-151,CHA,AWAY,MIL,L (-18),0,23:48,4,9,.444,0,1,.000,2,2,1.000,0,2,2,4,3,0,3,3,10,7.5,-17,Brevin Knight
+2005-04-10,29-153,CHA,AWAY,MEM,L (-7),1,38:03,8,17,.471,0,0,,6,8,.750,0,4,4,10,2,0,3,3,22,18.5,-5,Brevin Knight
+2005-04-11,29-154,CHA,AWAY,ATL,W (+5),1,40:24,8,19,.421,0,0,,1,2,.500,1,3,4,10,5,0,5,3,17,13.9,-5,Brevin Knight
+2005-04-13,29-156,CHA,HOME,ATL,W (+21),1,16:54,2,2,1.000,0,0,,1,2,.500,1,3,4,5,2,0,3,5,5,6.1,+10,Brevin Knight
+2005-04-16,29-159,CHA,HOME,NYK,L (-2),1,32:10,5,10,.500,0,0,,3,4,.750,0,1,1,7,1,0,2,1,13,11.4,-1,Brevin Knight
+2005-04-17,29-160,CHA,AWAY,WAS,L (-2),1,34:53,4,13,.308,0,2,.000,3,3,1.000,0,3,3,13,3,0,5,4,11,9.9,-17,Brevin Knight
+2005-04-20,29-163,CHA,HOME,DET,W (+11),1,34:36,5,9,.556,0,0,,4,6,.667,0,5,5,13,2,0,2,2,14,18.7,+11,Brevin Knight

@@ -1,0 +1,93 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2001-11-03,32-329,SAC,AWAY,DEN,W (+12),0,2:15,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,-5,Brent Price
+2001-11-04,32-330,SAC,HOME,SAS,W (+20),0,3:20,1,3,.333,0,1,.000,0,0,,1,0,1,0,0,0,1,1,2,-0.4,-3,Brent Price
+2001-11-06,32-332,SAC,AWAY,CLE,W (+16),0,1:36,0,0,,0,0,,2,2,1.000,0,0,0,0,0,0,0,1,2,1.6,+1,Brent Price
+2001-11-16,32-342,SAC,HOME,CHI,W (+34),0,8:23,0,1,.000,0,1,.000,1,2,.500,0,0,0,3,0,0,0,0,1,2.0,+4,Brent Price
+2001-11-19,32-345,SAC,HOME,HOU,W (+36),0,4:08,2,2,1.000,2,2,1.000,0,0,,0,0,0,1,0,0,0,2,6,5.3,+3,Brent Price
+2001-12-04,32-360,SAC,HOME,PHI,W (+10),0,1:07,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,-1,Brent Price
+2001-12-11,33-002,SAC,HOME,ORL,W (+12),0,1:14,1,2,.500,0,1,.000,0,1,.000,0,0,0,0,1,0,1,1,2,0.2,+2,Brent Price
+2001-12-12,33-003,SAC,AWAY,PHO,L (-26),0,5:27,1,2,.500,1,1,1.000,0,0,,2,1,3,0,0,0,0,0,3,3.7,-1,Brent Price
+2001-12-14,33-005,SAC,AWAY,MIN,L (-20),0,3:37,1,1,1.000,0,0,,0,0,,1,0,1,0,1,1,0,0,2,4.1,-3,Brent Price
+2001-12-16,33-007,SAC,HOME,MEM,W (+17),0,3:40,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-7,Brent Price
+2001-12-19,33-010,SAC,AWAY,SEA,L (-12),0,1:13,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,0,Brent Price
+2001-12-22,33-013,SAC,AWAY,LAC,L (-16),0,3:39,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,-1,Brent Price
+2001-12-23,33-014,SAC,HOME,PHO,W (+32),0,7:49,0,2,.000,0,2,.000,3,4,.750,0,0,0,0,1,0,1,3,3,0.0,+2,Brent Price
+2001-12-26,33-017,SAC,HOME,POR,W (+15),0,2:45,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-9,Brent Price
+2001-12-28,33-019,SAC,HOME,MIN,W (+14),0,1:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4,Brent Price
+2001-12-30,33-021,SAC,HOME,BOS,W (+15),0,3:18,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,1,0,-0.4,-6,Brent Price
+2002-01-02,33-024,SAC,HOME,LAC,W (+14),0,1:38,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-6,Brent Price
+2002-01-15,33-037,SAC,HOME,CLE,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brent Price
+2002-01-16,33-038,SAC,AWAY,DEN,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brent Price
+2002-01-18,33-040,SAC,HOME,GSW,W (+24),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brent Price
+2002-01-21,33-043,SAC,HOME,MEM,W (+14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brent Price
+2002-01-22,33-044,SAC,AWAY,POR,L (-6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Brent Price
+2002-01-24,33-046,SAC,HOME,UTA,W (+33),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brent Price
+2002-01-26,33-048,SAC,AWAY,UTA,W (+24),0,4:01,1,2,.500,1,1,1.000,0,0,,0,0,0,1,0,0,1,0,3,1.7,-1,Brent Price
+2002-02-01,33-054,SAC,HOME,DEN,W (+36),0,10:07,0,3,.000,0,1,.000,2,2,1.000,0,2,2,1,0,0,3,2,2,-2.6,+4,Brent Price
+2002-02-04,33-057,SAC,AWAY,NJN,L (-34),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brent Price
+2002-02-06,33-059,SAC,AWAY,BOS,W (+17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brent Price
+2002-02-07,33-060,SAC,AWAY,WAS,L (-7),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Brent Price
+2002-02-12,33-065,SAC,HOME,SAS,W (+13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brent Price
+2002-02-14,33-067,SAC,HOME,WAS,W (+16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brent Price
+2002-02-17,33-070,SAC,HOME,SEA,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brent Price
+2002-02-19,33-072,SAC,HOME,ATL,W (+20),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brent Price
+2002-02-21,33-074,SAC,AWAY,SAS,L (-23),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brent Price
+2002-02-26,33-079,SAC,HOME,UTA,W (+26),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brent Price
+2002-03-01,33-082,SAC,AWAY,GSW,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brent Price
+2002-03-03,33-084,SAC,HOME,IND,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brent Price
+2002-03-04,33-085,SAC,AWAY,POR,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brent Price
+2002-03-08,33-089,SAC,HOME,CHH,W (+12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brent Price
+2002-03-10,33-091,SAC,AWAY,MIL,W (+25),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Brent Price
+2002-03-13,33-094,SAC,AWAY,PHI,W (+4),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Brent Price
+2002-03-14,33-095,SAC,AWAY,NYK,L (-17),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Brent Price
+2002-03-17,33-098,SAC,AWAY,TOR,W (+3),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Brent Price
+2002-04-17,33-129,SAC,AWAY,LAL,L (-14),0,18:00,1,4,.250,0,3,.000,1,2,.500,0,1,1,1,0,0,2,1,3,-1.2,-6,Brent Price
+2001-01-05,32-027,VAN,AWAY,PHO,L (-32),0,5:46,0,1,.000,0,0,,5,6,.833,1,0,1,0,1,0,1,1,5,4.2,-4,Brent Price
+2001-01-17,32-039,VAN,AWAY,DEN,L (-24),0,6:23,1,3,.333,1,1,1.000,0,0,,0,0,0,1,0,0,1,3,3,-0.2,-1,Brent Price
+2001-01-21,32-043,VAN,HOME,MIN,L (-2),0,2:35,0,0,,0,0,,0,0,,0,1,1,1,0,0,1,1,0,-0.4,-6,Brent Price
+2001-01-23,32-045,VAN,AWAY,SAS,L (-33),0,3:30,1,2,.500,0,1,.000,0,0,,0,1,1,0,0,0,0,0,2,1.3,-1,Brent Price
+2001-01-25,32-047,VAN,AWAY,DAL,L (-37),0,6:31,1,3,.333,0,1,.000,0,0,,0,1,1,2,1,0,1,2,2,1.2,-1,Brent Price
+2001-01-26,32-048,VAN,AWAY,HOU,L (-17),0,5:07,0,2,.000,0,1,.000,1,1,1.000,0,0,0,1,0,0,0,1,1,-0.1,+4,Brent Price
+1999-11-02,30-328,VAN,HOME,POR,L (-20),0,11:56,0,2,.000,0,0,,3,3,1.000,0,0,0,0,1,0,1,0,3,1.6,-9,Brent Price
+1999-11-03,30-329,VAN,AWAY,LAL,L (-15),0,13:13,1,4,.250,0,2,.000,2,2,1.000,1,2,3,3,1,0,1,0,4,5.0,+1,Brent Price
+1999-11-06,30-332,VAN,HOME,DEN,W (+15),0,12:44,2,2,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,2,1,5,2.3,+6,Brent Price
+1999-11-10,30-336,VAN,HOME,ATL,W (+5),0,12:52,0,4,.000,0,2,.000,0,0,,0,0,0,3,1,0,0,3,0,-0.9,+3,Brent Price
+1999-11-12,30-338,VAN,HOME,GSW,L (-10),0,18:44,1,5,.200,0,3,.000,0,0,,0,1,1,1,2,0,1,3,2,-0.3,+8,Brent Price
+1999-11-14,30-340,VAN,HOME,LAC,W (+20),0,17:27,4,7,.571,4,5,.800,1,1,1.000,0,0,0,1,2,0,0,3,13,11.2,+8,Brent Price
+1999-11-16,30-342,VAN,AWAY,SAC,L (-4),0,11:16,2,5,.400,2,4,.500,2,2,1.000,0,1,1,3,0,0,1,1,8,6.3,+5,Brent Price
+1999-11-18,30-344,VAN,HOME,SEA,L (-2),0,18:45,3,4,.750,2,2,1.000,2,2,1.000,0,2,2,4,2,0,1,3,10,11.6,+2,Brent Price
+1999-11-21,30-347,VAN,HOME,MIN,L (-24),0,15:04,2,5,.400,2,4,.500,0,2,.000,0,1,1,2,0,0,3,4,6,-0.4,-7,Brent Price
+1999-11-23,30-349,VAN,AWAY,WAS,L (-2),0,14:45,1,4,.250,0,2,.000,1,1,1.000,0,1,1,3,1,0,2,1,3,1.6,+5,Brent Price
+1999-11-24,30-350,VAN,AWAY,CHH,L (-16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brent Price
+1999-11-26,30-352,VAN,AWAY,IND,L (-19),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Brent Price
+1999-11-27,30-353,VAN,AWAY,MIN,L (-31),0,15:44,1,5,.200,0,0,,0,0,,1,1,2,2,0,0,1,3,2,-0.9,-14,Brent Price
+1999-11-29,30-355,VAN,HOME,HOU,L (-8),0,14:23,2,3,.667,2,2,1.000,0,0,,1,2,3,4,1,0,3,2,6,6.0,-3,Brent Price
+1999-12-01,30-357,VAN,HOME,IND,L (-7),0,15:24,1,4,.250,0,2,.000,0,0,,0,1,1,1,0,0,4,1,2,-3.8,-8,Brent Price
+1999-12-03,30-359,VAN,HOME,CHH,L (-19),0,16:25,1,5,.200,1,4,.250,2,2,1.000,0,0,0,1,1,0,2,2,5,0.8,-1,Brent Price
+1999-12-06,30-362,VAN,AWAY,HOU,L (-3),0,14:13,2,7,.286,0,0,,2,4,.500,1,2,3,3,0,0,1,1,6,3.1,+1,Brent Price
+1999-12-07,30-363,VAN,AWAY,DAL,W (+9),0,17:59,3,7,.429,2,4,.500,1,1,1.000,0,0,0,3,2,0,0,2,9,8.6,+5,Brent Price
+1999-12-09,31-000,VAN,AWAY,SAS,L (-8),0,12:18,0,2,.000,0,2,.000,2,2,1.000,0,2,2,2,0,0,1,1,2,1.2,-8,Brent Price
+1999-12-11,31-002,VAN,HOME,LAL,L (-12),0,10:56,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,2,5,0,-5.4,-8,Brent Price
+1999-12-13,31-004,VAN,AWAY,LAC,L (-12),0,15:01,3,6,.500,1,4,.250,1,1,1.000,2,1,3,0,0,0,2,4,8,3.1,0,Brent Price
+1999-12-15,31-006,VAN,HOME,SAC,L (-3),0,9:37,0,3,.000,0,3,.000,0,0,,0,0,0,0,0,1,1,4,0,-4.0,-4,Brent Price
+1999-12-18,31-009,VAN,AWAY,SEA,L (-23),0,3:42,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,1,2,0,-1.8,-2,Brent Price
+1999-12-19,31-010,VAN,HOME,LAC,W (+1),0,2:13,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,+6,Brent Price
+1999-12-26,31-017,VAN,AWAY,DEN,L (-23),0,3:34,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,1,0,2,0.7,+1,Brent Price
+1999-12-29,31-020,VAN,AWAY,UTA,L (-11),0,4:01,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,2,0,-1.2,0,Brent Price
+2000-01-05,31-027,VAN,AWAY,ORL,L (-20),0,4:38,0,2,.000,0,1,.000,2,2,1.000,0,0,0,0,0,0,0,0,2,0.6,-3,Brent Price
+2000-01-26,31-048,VAN,AWAY,UTA,W (+17),0,2:23,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,-4,Brent Price
+2000-02-04,31-057,VAN,HOME,CHI,W (+25),0,4:50,0,2,.000,0,2,.000,0,0,,0,0,0,2,0,0,1,0,0,-1.0,-4,Brent Price
+2000-02-10,31-063,VAN,AWAY,LAC,W (+22),0,1:52,1,1,1.000,0,0,,2,2,1.000,0,0,0,0,0,0,0,0,4,3.7,+1,Brent Price
+2000-02-18,31-071,VAN,AWAY,MIN,L (-12),0,7:57,1,2,.500,0,1,.000,2,2,1.000,1,3,4,4,0,0,0,0,4,7.4,+11,Brent Price
+2000-02-19,31-072,VAN,AWAY,MIL,W (+11),0,10:54,2,3,.667,2,2,1.000,0,0,,0,1,1,7,0,0,0,2,6,9.1,+9,Brent Price
+2000-02-21,31-074,VAN,AWAY,CLE,L (-1),0,5:52,0,1,.000,0,0,,0,0,,0,0,0,4,0,0,0,1,0,1.7,-2,Brent Price
+2000-02-22,31-075,VAN,AWAY,CHI,W (+4),0,5:34,0,2,.000,0,1,.000,2,2,1.000,0,1,1,2,0,0,0,1,2,1.9,0,Brent Price
+2000-02-24,31-077,VAN,HOME,BOS,L (-24),0,10:05,1,2,.500,0,1,.000,1,2,.500,0,0,0,2,0,0,0,1,3,2.6,-7,Brent Price
+2000-02-26,31-079,VAN,HOME,SAC,W (+12),0,3:16,0,1,.000,0,0,,0,0,,0,1,1,1,0,0,0,0,0,0.3,+1,Brent Price
+2000-02-29,31-082,VAN,AWAY,SAC,L (-25),0,5:30,0,1,.000,0,1,.000,0,0,,0,0,0,2,0,0,1,1,0,-0.7,-1,Brent Price
+2000-03-01,31-083,VAN,AWAY,LAL,L (-12),0,10:42,2,3,.667,2,3,.667,0,0,,0,1,1,2,0,0,4,1,6,2.0,+1,Brent Price
+2000-03-03,31-085,VAN,AWAY,POR,L (-10),0,2:19,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+3,Brent Price
+2000-03-07,31-089,VAN,AWAY,NYK,L (-25),0,16:39,1,4,.250,1,3,.333,2,2,1.000,1,0,1,1,1,0,2,3,5,1.8,-9,Brent Price
+2000-03-08,31-090,VAN,AWAY,PHI,L (-17),0,10:53,1,2,.500,1,1,1.000,0,0,,0,1,1,3,0,0,3,2,3,0.6,-2,Brent Price
+2000-03-10,31-092,VAN,AWAY,DET,L (-14),0,9:41,1,1,1.000,1,1,1.000,2,2,1.000,0,0,0,1,2,0,4,2,5,2.6,-11,Brent Price
+2000-03-17,31-099,VAN,HOME,PHO,L (-15),0,6:42,1,3,.333,1,3,.333,2,2,1.000,0,1,1,0,0,0,1,0,5,2.6,+3,Brent Price

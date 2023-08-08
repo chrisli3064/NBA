@@ -1,0 +1,83 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+2007-11-09,21-310,CLE,AWAY,SAC,W (+2),0,8:54,.000,.000,10.4,0.0,6.0,0.0,0.0,9.3,34.7,13.8,17,101,-1.1,-12.9,Cedric Simmons
+2007-11-11,21-312,CLE,AWAY,LAC,W (+8),0,9:06,,,0.0,28.5,12.9,0.0,0.0,7.9,,0.0,0,98,1.3,2.1,Cedric Simmons
+2007-11-12,21-313,CLE,AWAY,DEN,L (-22),0,17:53,.216,.500,9.6,23.0,14.7,0.0,0.0,4.6,17.7,13.0,49,121,-0.6,-11.8,Cedric Simmons
+2007-11-16,21-317,CLE,HOME,UTA,W (+5),0,7:02,.000,.000,15.9,27.9,22.3,0.0,0.0,9.5,0.0,6.2,61,92,1.3,-1.7,Cedric Simmons
+2008-01-30,22-027,CLE,AWAY,POR,W (+1),0,9:28,,,0.0,0.0,0.0,0.0,0.0,7.1,100.0,5.2,0,98,-0.7,-7.2,Cedric Simmons
+2008-02-07,22-035,CLE,AWAY,HOU,L (-15),0,1:29,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35.3,0,125,-0.7,-36.2,Cedric Simmons
+2008-02-10,22-038,CLE,HOME,DEN,L (-30),0,14:32,1.000,1.000,6.6,22.0,13.9,0.0,7.0,0.0,50.0,5.5,93,104,3.1,-1.1,Cedric Simmons
+2008-02-24,22-052,CHI,AWAY,HOU,L (-13),0,2:11,1.000,1.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.3,200,120,1.7,14.5,Cedric Simmons
+2008-03-04,22-061,CHI,HOME,MEM,W (+15),0,1:21,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,115,0.0,-7.0,Cedric Simmons
+2008-03-06,22-063,CHI,HOME,CLE,W (+11),0,1:44,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.8,0,117,-0.7,-30.7,Cedric Simmons
+2008-03-07,22-064,CHI,AWAY,BOS,L (-23),0,4:48,.000,.000,0.0,27.8,11.1,0.0,0.0,0.0,33.3,25.9,0,118,-2.5,-33.0,Cedric Simmons
+2008-04-09,22-097,CHI,AWAY,ORL,L (-32),0,4:37,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.2,0,119,-1.4,-20.7,Cedric Simmons
+2008-04-13,22-101,CHI,HOME,ORL,L (-20),0,3:26,.500,.500,0.0,39.9,17.3,0.0,0.0,0.0,33.3,39.4,57,114,0.3,-14.5,Cedric Simmons
+2008-04-16,22-104,CHI,HOME,TOR,W (+10),0,0:57,.000,,100.0,0.0,58.1,0.0,0.0,0.0,0.0,39.9,54,111,-0.1,-30.4,Cedric Simmons
+2006-11-01,20-302,NOK,AWAY,BOS,W (+4),0,10:47,.725,1.000,8.6,9.7,9.1,0.0,4.4,15.1,42.0,18.7,85,72,3.5,6.2,Cedric Simmons
+2006-11-03,20-304,NOK,AWAY,IND,W (+9),0,14:47,.333,.333,15.5,36.1,26.1,9.6,0.0,0.0,0.0,8.8,120,98,3.1,0.9,Cedric Simmons
+2006-11-05,20-306,NOK,HOME,HOU,W (+6),0,13:55,.000,.000,0.0,0.0,0.0,0.0,0.0,13.3,34.7,9.9,0,106,-2.3,-11.3,Cedric Simmons
+2006-11-07,20-308,NOK,HOME,GSW,W (+4),0,7:50,.258,.000,13.3,15.3,14.3,0.0,0.0,11.1,0.0,21.2,91,100,0.8,-9.6,Cedric Simmons
+2006-11-09,20-310,NOK,AWAY,GSW,L (-5),0,11:28,.000,.000,19.5,0.0,11.2,10.2,0.0,0.0,0.0,7.1,89,135,-0.1,-8.9,Cedric Simmons
+2006-11-10,20-311,NOK,AWAY,POR,L (-1),0,16:00,.532,.000,14.6,30.8,22.5,8.3,0.0,0.0,34.7,8.3,108,104,2.4,-2.8,Cedric Simmons
+2006-11-12,20-313,NOK,AWAY,LAC,L (-16),0,16:45,1.000,1.000,9.0,7.0,7.9,0.0,0.0,4.6,42.9,20.2,98,111,3.9,-0.5,Cedric Simmons
+2006-11-14,20-315,NOK,HOME,CHA,W (+9),0,11:56,.515,.333,15.8,0.0,8.6,26.0,0.0,5.7,20.5,18.3,113,96,3.6,1.8,Cedric Simmons
+2006-11-15,20-316,NOK,AWAY,DET,W (+1),0,18:39,.500,.500,5.6,7.8,6.5,0.0,0.0,4.7,14.3,17.6,98,122,2.5,-7.8,Cedric Simmons
+2006-11-18,20-319,NOK,AWAY,MIN,W (+3),0,22:46,.500,.500,15.1,28.1,21.8,0.0,0.0,3.0,0.0,12.2,123,99,5.6,-1.9,Cedric Simmons
+2006-11-21,20-322,NOK,HOME,MIA,W (+15),0,15:33,.137,.000,17.5,5.7,11.5,0.0,6.5,9.5,0.0,9.9,70,80,3.3,0.1,Cedric Simmons
+2006-11-22,20-323,NOK,AWAY,PHO,L (-9),0,9:17,.000,.000,0.0,16.2,6.4,0.0,0.0,0.0,0.0,5.0,0,108,-2.0,-15.4,Cedric Simmons
+2006-11-24,20-325,NOK,HOME,MIN,L (-7),0,17:16,.500,.500,15.7,13.6,14.8,0.0,0.0,4.5,20.0,14.0,98,97,3.6,-3.7,Cedric Simmons
+2006-11-25,20-326,NOK,AWAY,DAL,L (-12),0,14:25,.000,.000,6.4,23.2,14.0,0.0,3.6,13.3,0.0,15.5,11,80,0.1,-3.9,Cedric Simmons
+2006-11-28,20-329,NOK,HOME,TOR,L (-17),0,18:07,.500,.500,19.4,6.3,12.8,11.0,0.0,4.7,0.0,15.9,125,116,6.0,2.4,Cedric Simmons
+2006-12-01,20-332,NOK,HOME,CHI,L (-3),0,12:05,.347,.500,18.1,18.5,18.3,0.0,0.0,0.0,0.0,10.1,98,115,1.8,-6.1,Cedric Simmons
+2006-12-06,20-337,NOK,AWAY,LAL,W (+16),0,16:48,.500,.500,24.8,16.8,21.4,0.0,0.0,0.0,25.0,20.0,96,100,3.6,-7.3,Cedric Simmons
+2006-12-08,20-339,NOK,AWAY,SEA,L (-20),0,21:41,.429,.429,0.0,17.0,8.3,0.0,0.0,0.0,12.5,16.2,78,101,1.8,-3.8,Cedric Simmons
+2006-12-09,20-340,NOK,AWAY,GSW,L (-21),1,27:20,.429,.429,4.4,0.0,2.2,0.0,0.0,3.2,12.5,14.3,78,116,2.3,-6.3,Cedric Simmons
+2006-12-11,20-342,NOK,HOME,CLE,W (+6),1,19:55,.512,.500,0.0,15.7,9.4,0.0,0.0,3.8,0.0,13.2,108,112,3.8,-2.8,Cedric Simmons
+2006-12-14,20-345,NOK,HOME,SAS,L (-26),1,15:58,.444,.429,7.0,0.0,3.9,0.0,0.0,4.9,0.0,23.6,97,120,3.5,-2.9,Cedric Simmons
+2006-12-16,20-347,NOK,HOME,DAL,L (-11),1,17:07,.167,.167,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.6,34,112,-2.6,-15.4,Cedric Simmons
+2006-12-18,20-349,NOK,AWAY,MIA,L (-2),0,5:28,.333,.333,25.1,0.0,12.9,0.0,0.0,0.0,0.0,25.7,94,125,0.2,-17.3,Cedric Simmons
+2006-12-22,20-353,NOK,HOME,MEM,W (+3),0,3:56,,,27.5,29.9,28.7,0.0,0.0,0.0,,0.0,211,107,0.6,-4.0,Cedric Simmons
+2006-12-23,20-354,NOK,HOME,SAS,L (-35),0,19:02,.167,.167,0.0,0.0,0.0,8.9,0.0,0.0,0.0,14.6,52,136,-1.9,-13.7,Cedric Simmons
+2006-12-27,20-358,NOK,AWAY,POR,L (-15),0,23:28,.579,.500,4.4,19.0,11.5,8.2,0.0,3.1,10.4,20.0,116,116,7.7,-0.5,Cedric Simmons
+2006-12-29,20-360,NOK,HOME,DEN,W (+10),0,26:16,.714,.714,9.4,23.7,17.7,6.3,1.9,0.0,30.0,16.9,99,88,8.9,0.1,Cedric Simmons
+2006-12-30,20-361,NOK,AWAY,DAL,L (-14),0,18:34,.600,.600,12.9,12.6,12.8,25.5,2.9,0.0,16.7,16.0,116,103,6.3,7.0,Cedric Simmons
+2007-01-02,20-364,NOK,HOME,GSW,L (-8),0,5:15,,,0.0,16.6,9.6,0.0,0.0,0.0,,0.0,0,107,-0.1,-6.3,Cedric Simmons
+2007-01-04,21-001,NOK,HOME,DET,L (-24),0,14:01,1.000,1.000,0.0,17.6,7.2,0.0,0.0,0.0,50.0,13.1,80,106,0.4,-10.8,Cedric Simmons
+2007-01-06,21-003,NOK,HOME,IND,L (-7),0,7:33,.500,.500,16.7,35.3,25.8,0.0,0.0,0.0,0.0,12.8,123,113,1.5,-6.0,Cedric Simmons
+2007-01-08,21-005,NOK,HOME,LAC,L (-10),0,5:16,,,0.0,22.8,11.5,0.0,0.0,0.0,,0.0,0,114,-0.1,-8.3,Cedric Simmons
+2007-01-10,21-007,NOK,AWAY,ATL,W (+19),0,6:11,.000,.000,0.0,0.0,0.0,22.8,0.0,9.8,0.0,8.0,55,88,0.7,4.4,Cedric Simmons
+2007-01-19,21-016,NOK,AWAY,SAS,L (-13),0,1:00,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,116,0.0,-4.0,Cedric Simmons
+2007-02-07,21-035,NOK,AWAY,DEN,W (+2),0,7:32,.568,,0.0,28.1,13.7,0.0,6.8,0.0,0.0,4.8,122,93,2.2,5.2,Cedric Simmons
+2007-02-10,21-038,NOK,HOME,MEM,W (+15),0,1:08,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,115,0.0,-5.2,Cedric Simmons
+2007-02-14,21-042,NOK,HOME,SAC,W (+17),0,5:46,.000,.000,0.0,18.5,10.7,0.0,0.0,14.1,0.0,16.1,0,92,-1.2,-18.4,Cedric Simmons
+2007-03-06,21-062,NOK,AWAY,DEN,L (-15),0,2:20,,,0.0,52.7,22.4,0.0,0.0,31.6,,0.0,0,83,0.6,5.4,Cedric Simmons
+2007-03-17,21-073,NOK,AWAY,WAS,L (-22),0,6:30,1.000,1.000,0.0,0.0,0.0,0.0,7.9,0.0,0.0,21.4,200,122,5.3,15.2,Cedric Simmons
+2007-03-19,21-075,NOK,HOME,BOS,W (+18),0,5:26,.694,1.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.4,124,105,0.9,-3.0,Cedric Simmons
+2007-03-27,21-083,NOK,HOME,DAL,L (-16),0,9:15,.000,.000,25.3,16.2,21.3,0.0,0.0,7.9,0.0,14.8,40,123,-0.1,-14.2,Cedric Simmons
+2007-04-03,21-090,NOK,AWAY,MIL,W (+18),0,3:36,.333,.333,40.4,34.2,37.0,0.0,0.0,0.0,25.0,48.6,68,107,0.3,-30.8,Cedric Simmons
+2007-04-16,21-103,NOK,AWAY,SAC,W (+7),0,5:58,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.1,0,129,-1.4,-22.0,Cedric Simmons
+2008-11-07,22-309,CHI,HOME,PHO,W (+17),0,1:49,,,0.0,62.9,33.0,0.0,0.0,0.0,,0.0,0,92,0.3,-1.9,Cedric Simmons
+2008-11-15,22-317,CHI,HOME,IND,W (+13),0,0:59,.500,.500,97.6,0.0,45.6,0.0,0.0,0.0,0.0,85.7,124,102,1.7,18.3,Cedric Simmons
+2008-11-18,22-320,CHI,AWAY,LAL,L (-7),0,2:29,.568,,0.0,40.3,21.2,0.0,0.0,23.3,0.0,13.4,123,88,1.6,15.4,Cedric Simmons
+2008-11-19,22-321,CHI,AWAY,POR,L (-42),0,8:48,.387,.333,0.0,16.5,6.7,24.2,0.0,0.0,0.0,19.0,99,133,1.5,-1.7,Cedric Simmons
+2008-12-19,22-351,CHI,AWAY,BOS,L (-18),0,12:00,.488,.500,0.0,13.3,6.1,12.9,0.0,13.3,0.0,29.5,114,136,5.8,1.9,Cedric Simmons
+2008-12-26,22-358,CHI,AWAY,MIA,L (-13),0,1:20,,,0.0,81.8,37.1,0.0,0.0,0.0,,0.0,0,85,0.3,-0.6,Cedric Simmons
+2008-12-27,22-359,CHI,AWAY,ATL,L (-12),0,4:04,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,151,0.0,-8.5,Cedric Simmons
+2008-12-31,22-363,CHI,HOME,ORL,L (-19),0,5:13,,,0.0,20.4,10.7,0.0,0.0,16.1,,0.0,0,111,1.0,2.3,Cedric Simmons
+2009-01-02,22-365,CHI,AWAY,CLE,L (-25),0,18:00,.483,.500,10.5,12.7,11.5,0.0,2.8,0.0,0.0,22.1,107,120,6.4,0.0,Cedric Simmons
+2009-01-28,23-025,CHI,AWAY,LAC,W (+20),0,2:30,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,97,-0.4,-15.5,Cedric Simmons
+2009-01-30,23-027,CHI,AWAY,SAC,W (+21),0,3:36,.868,1.000,33.3,0.0,16.5,0.0,0.0,0.0,0.0,36.6,172,108,4.3,17.6,Cedric Simmons
+2009-02-18,23-046,CHI,AWAY,MIL,W (+9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Cedric Simmons
+2009-02-23,23-051,SAC,HOME,NOH,L (-7),0,5:50,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.9,0,130,-0.7,-14.3,Cedric Simmons
+2009-02-27,23-055,SAC,HOME,LAC,W (+12),0,3:05,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,102,0.0,-5.4,Cedric Simmons
+2009-02-28,23-056,SAC,AWAY,UTA,L (-13),0,2:39,,,42.1,47.7,44.7,0.0,0.0,0.0,,0.0,217,110,1.0,3.2,Cedric Simmons
+2009-03-08,23-064,SAC,HOME,DEN,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Cedric Simmons
+2009-03-10,23-066,SAC,HOME,OKC,L (-1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Cedric Simmons
+2009-03-15,23-071,SAC,AWAY,WAS,L (-2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Cedric Simmons
+2009-03-17,23-073,SAC,AWAY,ATL,L (-22),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Cedric Simmons
+2009-03-18,23-074,SAC,AWAY,CHA,L (-16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Cedric Simmons
+2009-03-22,23-078,SAC,HOME,PHI,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Cedric Simmons
+2009-04-03,23-090,SAC,AWAY,PHO,L (-28),0,4:38,.174,.000,0.0,22.5,11.5,0.0,0.0,0.0,25.8,35.4,29,135,-1.9,-36.4,Cedric Simmons
+2009-04-07,23-094,SAC,HOME,LAL,L (-18),0,2:59,,,0.0,36.6,16.9,0.0,0.0,0.0,,0.0,0,123,0.3,-4.7,Cedric Simmons
+2009-04-13,23-100,SAC,AWAY,DEN,L (-20),0,2:36,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.2,0,131,-1.1,-31.8,Cedric Simmons
+2009-04-15,23-102,SAC,AWAY,MIN,W (+7),0,1:30,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,31.9,0,113,-1.0,-40.3,Cedric Simmons

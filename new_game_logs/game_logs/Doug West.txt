@@ -1,0 +1,62 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2000-11-20,33-177,VAN,HOME,DEN,L (-3),0,7:18,1,2,.500,0,0,,0,0,,0,0,0,2,1,0,0,2,2,2.6,-2,Doug West
+2000-11-22,33-179,VAN,AWAY,MIN,L (-1),0,9:16,0,1,.000,0,0,,0,0,,2,0,2,2,0,0,2,1,0,-0.3,+4,Doug West
+2000-11-24,33-181,VAN,AWAY,DET,L (-22),0,16:40,2,5,.400,0,1,.000,2,2,1.000,0,1,1,0,0,0,0,3,6,2.4,-22,Doug West
+2000-11-26,33-183,VAN,AWAY,BOS,W (+11),1,15:05,2,6,.333,0,0,,2,2,1.000,0,1,1,3,0,0,0,5,6,3.0,-2,Doug West
+2000-11-27,33-184,VAN,AWAY,NYK,L (-25),1,24:15,2,6,.333,0,0,,1,1,1.000,0,2,2,1,0,0,0,3,5,1.7,-15,Doug West
+2000-11-29,33-186,VAN,HOME,PHO,W (+3),1,22:28,0,4,.000,0,1,.000,0,0,,1,1,2,2,2,0,1,1,0,0.2,+3,Doug West
+2000-12-01,33-188,VAN,HOME,IND,L (-10),1,13:22,1,3,.333,0,0,,0,0,,1,1,2,0,0,0,0,1,2,0.9,-4,Doug West
+2000-12-03,33-190,VAN,HOME,SAS,L (-18),1,12:39,1,2,.500,0,0,,0,0,,0,2,2,0,0,0,0,0,2,1.6,-12,Doug West
+2000-12-05,33-192,VAN,HOME,DET,W (+8),1,11:17,0,2,.000,0,0,,1,2,.500,0,0,0,1,0,0,1,1,1,-1.5,+4,Doug West
+2000-12-07,33-194,VAN,AWAY,UTA,L (-11),0,6:02,0,0,,0,0,,0,0,,0,1,1,0,0,1,0,1,0,0.6,+2,Doug West
+2000-12-09,33-196,VAN,HOME,PHI,L (-4),0,4:06,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-1.5,-5,Doug West
+2000-12-13,33-200,VAN,HOME,SEA,L (-1),0,4:57,1,1,1.000,0,0,,0,0,,0,1,1,0,0,1,0,0,2,2.7,-4,Doug West
+2000-12-15,33-202,VAN,AWAY,LAL,L (-22),0,8:51,1,1,1.000,0,0,,0,0,,0,0,0,2,0,0,0,0,2,3.1,+1,Doug West
+2000-12-17,33-204,VAN,HOME,ORL,L (-10),0,10:07,0,2,.000,0,0,,0,0,,0,1,1,0,0,1,0,1,0,-0.8,-9,Doug West
+2000-12-20,33-207,VAN,HOME,WAS,W (+14),0,6:16,0,2,.000,0,0,,0,0,,0,0,0,1,0,1,0,0,0,0.0,+3,Doug West
+1999-11-03,32-160,VAN,AWAY,LAL,L (-15),0,13:32,1,1,1.000,0,0,,0,0,,1,1,2,0,0,0,0,1,2,2.3,-7,Doug West
+1999-11-06,32-163,VAN,HOME,DEN,W (+15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Doug West
+1999-11-10,32-167,VAN,HOME,ATL,W (+5),0,8:46,1,2,.500,0,0,,0,0,,1,1,2,1,1,0,0,1,2,3.3,+1,Doug West
+1999-11-12,32-169,VAN,HOME,GSW,L (-10),0,4:29,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-3,Doug West
+1999-12-18,32-205,VAN,AWAY,SEA,L (-23),0,15:00,3,5,.600,0,0,,2,2,1.000,1,0,1,0,0,0,0,1,8,6.0,-1,Doug West
+1999-12-19,32-206,VAN,HOME,LAC,W (+1),0,27:00,2,4,.500,0,0,,4,4,1.000,1,1,2,3,0,1,1,5,8,6.8,+7,Doug West
+2000-01-12,32-230,VAN,HOME,PHO,L (-3),0,11:31,2,4,.500,0,0,,4,4,1.000,3,1,4,1,1,0,1,1,8,8.7,-1,Doug West
+2000-01-14,32-232,VAN,HOME,CLE,L (-2),0,21:24,1,5,.200,0,1,.000,1,2,.500,0,2,2,2,1,0,1,3,3,0.3,+7,Doug West
+2000-01-16,32-234,VAN,HOME,MIA,L (-11),0,12:44,2,3,.667,0,0,,0,2,.000,0,1,1,1,0,1,0,3,4,2.4,-2,Doug West
+2000-01-20,32-238,VAN,HOME,UTA,L (-5),0,15:34,0,2,.000,0,0,,2,2,1.000,0,1,1,2,0,0,0,3,2,1.1,+4,Doug West
+2000-01-22,32-240,VAN,HOME,ORL,L (-3),0,21:34,4,8,.500,0,0,,0,0,,1,3,4,1,0,0,1,2,8,4.5,0,Doug West
+2000-01-24,32-242,VAN,AWAY,DEN,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Doug West
+2000-01-27,32-245,VAN,HOME,NJN,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Doug West
+2000-01-31,32-249,VAN,HOME,MIL,L (-5),0,0:19,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Doug West
+2000-02-02,32-251,VAN,AWAY,GSW,L (-6),0,9:06,1,1,1.000,0,0,,0,0,,0,0,0,0,1,0,0,2,2,1.9,-2,Doug West
+2000-02-04,32-253,VAN,HOME,CHI,W (+25),0,24:10,2,4,.500,0,0,,0,0,,0,5,5,4,0,2,0,3,4,6.5,+25,Doug West
+2000-02-06,32-255,VAN,HOME,DAL,L (-4),0,20:10,1,5,.200,0,0,,0,0,,0,1,1,1,0,0,0,6,2,-2.5,-7,Doug West
+2000-02-08,32-257,VAN,AWAY,PHO,L (-18),0,24:43,3,9,.333,0,0,,0,0,,0,2,2,1,0,0,3,3,6,-2.0,-8,Doug West
+2000-02-16,32-265,VAN,HOME,WAS,W (+5),0,17:58,1,3,.333,0,0,,0,0,,0,1,1,1,1,0,0,1,2,1.9,-4,Doug West
+2000-02-18,32-267,VAN,AWAY,MIN,L (-12),0,15:54,0,2,.000,0,0,,0,0,,0,0,0,2,0,0,0,1,0,-0.4,-5,Doug West
+2000-02-19,32-268,VAN,AWAY,MIL,W (+11),0,24:48,5,8,.625,0,1,.000,2,3,.667,0,3,3,4,0,0,0,3,12,10.5,+21,Doug West
+2000-02-21,32-270,VAN,AWAY,CLE,L (-1),0,15:37,2,4,.500,0,0,,0,0,,1,2,3,1,0,0,1,4,4,1.4,0,Doug West
+2000-02-22,32-271,VAN,AWAY,CHI,W (+4),0,9:49,1,2,.500,0,0,,0,0,,0,1,1,0,0,1,0,2,2,1.2,-15,Doug West
+2000-02-24,32-273,VAN,HOME,BOS,L (-24),0,8:14,1,3,.333,0,0,,0,0,,0,1,1,0,0,0,0,1,2,0.2,-1,Doug West
+2000-02-26,32-275,VAN,HOME,SAC,W (+12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Doug West
+2000-02-29,32-278,VAN,AWAY,SAC,L (-25),0,11:06,2,4,.500,0,0,,0,0,,0,0,0,0,0,0,0,0,4,2.0,-3,Doug West
+2000-03-01,32-279,VAN,AWAY,LAL,L (-12),0,9:22,0,3,.000,0,0,,0,0,,0,2,2,2,2,0,1,2,0,0.1,+6,Doug West
+2000-03-03,32-281,VAN,AWAY,POR,L (-10),0,12:13,2,3,.667,0,0,,0,0,,0,2,2,0,0,0,1,4,4,0.7,+11,Doug West
+2000-03-05,32-283,VAN,HOME,TOR,L (-2),0,12:03,1,3,.333,0,0,,2,2,1.000,0,0,0,2,0,0,0,2,4,2.9,-8,Doug West
+2000-03-07,32-285,VAN,AWAY,NYK,L (-25),0,9:40,1,4,.250,0,0,,0,0,,0,0,0,1,1,0,0,2,2,0.5,-3,Doug West
+2000-03-08,32-286,VAN,AWAY,PHI,L (-17),0,20:18,2,5,.400,0,0,,2,2,1.000,1,5,6,2,0,0,2,3,6,3.7,-16,Doug West
+2000-03-10,32-288,VAN,AWAY,DET,L (-14),0,23:13,4,10,.400,0,0,,0,0,,0,0,0,0,0,0,0,3,8,1.4,-17,Doug West
+2000-03-11,32-289,VAN,AWAY,ATL,L (-5),0,22:27,5,7,.714,0,0,,0,0,,1,0,1,0,1,0,2,4,10,5.2,-4,Doug West
+2000-03-13,32-291,VAN,HOME,SEA,L (-10),0,18:17,1,1,1.000,0,0,,0,0,,1,2,3,3,1,0,2,3,2,2.9,+15,Doug West
+2000-03-16,32-294,VAN,AWAY,SEA,L (-14),0,17:35,3,4,.750,0,0,,0,0,,0,4,4,2,0,0,2,4,6,3.4,+2,Doug West
+2000-03-17,32-295,VAN,HOME,PHO,L (-15),0,13:07,1,4,.250,0,0,,1,1,1.000,1,2,3,0,1,0,0,1,3,2.5,-6,Doug West
+2000-03-19,32-297,VAN,HOME,DET,L (-2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Doug West
+2000-03-21,32-299,VAN,HOME,GSW,W (+16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Doug West
+2000-03-25,32-303,VAN,HOME,UTA,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Doug West
+2000-03-31,32-309,VAN,HOME,NYK,L (-6),0,3:21,1,1,1.000,0,0,,0,0,,0,0,0,1,0,1,0,0,2,3.1,+4,Doug West
+2000-04-02,32-311,VAN,HOME,DAL,L (-14),0,9:58,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,1,0,0,-1.4,-7,Doug West
+2000-04-06,32-315,VAN,HOME,POR,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Doug West
+2000-04-12,32-321,VAN,AWAY,PHO,L (-6),0,24:17,1,6,.167,0,0,,6,6,1.000,2,3,5,2,1,0,0,3,8,7.7,+8,Doug West
+2000-04-14,32-323,VAN,HOME,MIN,L (-10),0,27:30,0,5,.000,0,1,.000,0,0,,0,3,3,1,0,1,0,1,0,-1.6,+5,Doug West
+2000-04-16,32-325,VAN,AWAY,DAL,L (-8),0,19:10,1,6,.167,0,0,,6,8,.750,3,2,5,1,0,0,0,1,8,6.4,-6,Doug West
+2000-04-17,32-326,VAN,AWAY,SAS,L (-7),0,7:42,1,2,.500,0,0,,2,2,1.000,0,0,0,1,0,1,0,0,4,4.4,+8,Doug West

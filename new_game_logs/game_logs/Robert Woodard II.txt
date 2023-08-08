@@ -1,0 +1,28 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2020-12-27,21-096,SAC,HOME,PHO,L (-16),0,2:46,1,2,.500,0,1,.000,0,2,.000,0,1,1,0,0,0,1,0,2,-0.5,+5,Robert Woodard II
+2021-01-04,21-104,SAC,AWAY,GSW,L (-31),0,4:45,2,6,.333,0,1,.000,0,0,,3,3,6,0,0,0,0,0,4,3.6,+2,Robert Woodard II
+2021-01-08,21-108,SAC,HOME,TOR,L (-21),0,3:50,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,2,2.0,+3,Robert Woodard II
+2021-01-09,21-109,SAC,HOME,POR,L (-26),0,2:14,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7,+1,Robert Woodard II
+2021-01-15,21-115,SAC,HOME,LAC,L (-38),0,2:51,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,-4,Robert Woodard II
+2021-01-27,21-127,SAC,AWAY,ORL,W (+14),0,0:39,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Robert Woodard II
+2021-03-20,21-179,SAC,AWAY,PHI,L (-24),0,3:28,0,1,.000,0,1,.000,3,6,.500,0,0,0,0,0,0,0,1,3,0.7,-3,Robert Woodard II
+2021-03-25,21-184,SAC,HOME,GSW,W (+22),0,1:00,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,0,Robert Woodard II
+2021-03-29,21-188,SAC,AWAY,SAS,W (+17),0,1:11,0,0,,0,0,,0,0,,0,1,1,0,0,1,0,0,0,1.0,0,Robert Woodard II
+2021-03-31,21-190,SAC,AWAY,SAS,L (-14),0,2:46,0,0,,0,0,,0,0,,0,2,2,0,0,0,0,0,0,0.6,+4,Robert Woodard II
+2021-04-02,21-192,SAC,HOME,LAL,L (-21),0,3:11,1,1,1.000,0,0,,0,0,,0,0,0,0,0,1,0,1,2,2.0,+2,Robert Woodard II
+2021-05-04,21-224,SAC,AWAY,OKC,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Robert Woodard II
+2021-05-14,21-234,SAC,AWAY,MEM,L (-1),0,5:32,0,2,.000,0,2,.000,0,0,,0,2,2,1,0,0,0,1,0,-0.5,0,Robert Woodard II
+2021-05-16,21-236,SAC,HOME,UTA,L (-22),0,11:09,1,4,.250,0,0,,0,0,,1,2,3,1,0,1,0,1,2,1.9,+1,Robert Woodard II
+2021-11-19,22-058,SAC,HOME,TOR,L (-19),0,3:10,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+4,Robert Woodard II
+2021-12-17,22-086,SAC,HOME,MEM,L (-19),0,2:13,0,0,,0,0,,2,2,1.000,0,0,0,0,0,0,1,0,2,1.0,+2,Robert Woodard II
+2021-12-20,22-089,SAC,AWAY,GSW,L (-15),0,1:45,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-1,Robert Woodard II
+2021-12-22,22-091,SAC,HOME,LAC,L (-16),0,1:28,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-1,Robert Woodard II
+2021-12-26,22-095,SAC,HOME,MEM,L (-25),0,2:57,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,2,3,1.9,+2,Robert Woodard II
+2021-12-31,22-100,SAC,HOME,DAL,L (-16),0,1:55,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+9,Robert Woodard II
+2022-01-07,22-107,SAC,AWAY,DEN,L (-10),0,0:45,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,0,Robert Woodard II
+2022-01-09,22-109,SAC,AWAY,POR,L (-15),0,1:10,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+2,Robert Woodard II
+2022-01-12,22-112,SAC,HOME,LAL,W (+9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Robert Woodard II
+2022-01-25,22-125,SAC,AWAY,BOS,L (-53),0,12:00,0,4,.000,0,1,.000,0,0,,2,2,4,1,0,1,0,0,0,0.6,-11,Robert Woodard II
+2022-01-26,22-126,SAC,AWAY,ATL,L (-17),0,3:46,0,1,.000,0,0,,0,0,,1,1,2,0,0,0,0,0,0,0.3,+6,Robert Woodard II
+2022-01-31,22-131,SAC,AWAY,NYK,L (-20),0,3:39,0,3,.000,0,1,.000,0,0,,1,1,2,2,1,0,0,0,0,1.3,+6,Robert Woodard II
+2022-02-08,22-139,SAC,HOME,MIN,L (-20),0,7:23,1,4,.250,0,1,.000,0,0,,1,0,1,0,0,0,0,1,2,-0.1,-3,Robert Woodard II

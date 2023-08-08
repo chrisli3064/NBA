@@ -1,0 +1,143 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+2007-10-31,21-327,WAS,AWAY,IND,L (-9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Oleksiy Pecherov
+2007-11-02,21-329,WAS,AWAY,BOS,L (-20),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Oleksiy Pecherov
+2007-11-03,21-330,WAS,HOME,ORL,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Oleksiy Pecherov
+2007-11-08,21-335,WAS,AWAY,NJN,L (-2),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Oleksiy Pecherov
+2007-11-09,21-336,WAS,HOME,DEN,L (-26),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Oleksiy Pecherov
+2007-11-11,21-338,WAS,AWAY,ATL,W (+11),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Oleksiy Pecherov
+2007-11-14,21-341,WAS,HOME,IND,W (+13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Oleksiy Pecherov
+2007-11-16,21-343,WAS,AWAY,MIN,W (+16),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Oleksiy Pecherov
+2007-11-17,21-344,WAS,HOME,POR,W (+19),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Oleksiy Pecherov
+2007-11-20,21-347,WAS,HOME,PHI,W (+15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Oleksiy Pecherov
+2007-11-21,21-348,WAS,AWAY,CHA,W (+3),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Oleksiy Pecherov
+2007-11-23,21-350,WAS,HOME,GSW,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Oleksiy Pecherov
+2007-11-24,21-351,WAS,AWAY,MEM,L (-6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Oleksiy Pecherov
+2007-11-26,21-353,WAS,AWAY,DAL,W (+12),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Oleksiy Pecherov
+2007-11-28,21-355,WAS,AWAY,SAS,L (-15),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Oleksiy Pecherov
+2007-11-30,21-357,WAS,AWAY,PHI,L (-1),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Oleksiy Pecherov
+2007-12-01,21-358,WAS,HOME,TOR,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Oleksiy Pecherov
+2007-12-05,21-362,WAS,HOME,CLE,W (+19),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Oleksiy Pecherov
+2007-12-09,22-001,WAS,HOME,NJN,W (+15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Oleksiy Pecherov
+2007-12-11,22-003,WAS,HOME,MIN,W (+14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Oleksiy Pecherov
+2007-12-13,22-005,WAS,AWAY,MIA,W (+13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Oleksiy Pecherov
+2007-12-15,22-007,WAS,HOME,SAC,W (+13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Oleksiy Pecherov
+2007-12-19,22-011,WAS,HOME,CHI,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Oleksiy Pecherov
+2007-12-21,22-013,WAS,HOME,ATL,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Oleksiy Pecherov
+2007-12-22,22-014,WAS,AWAY,IND,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Oleksiy Pecherov
+2007-12-26,22-018,WAS,AWAY,CHA,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Oleksiy Pecherov
+2007-12-28,22-020,WAS,AWAY,NJN,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Oleksiy Pecherov
+2007-12-29,22-021,WAS,HOME,MIA,W (+22),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Oleksiy Pecherov
+2008-01-02,22-025,WAS,HOME,DET,L (-13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Oleksiy Pecherov
+2008-01-04,22-027,WAS,AWAY,MIL,W (+24),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Oleksiy Pecherov
+2008-01-11,22-034,WAS,AWAY,ATL,W (+4),0,3:38,.500,.500,0.0,30.4,15.0,0.0,0.0,0.0,33.3,40.7,61,105,-0.1,-22.7,Oleksiy Pecherov
+2008-01-14,22-037,WAS,AWAY,BOS,W (+5),0,2:48,.000,.000,0.0,44.0,23.2,0.0,0.0,0.0,33.3,52.4,0,93,-2.1,-49.9,Oleksiy Pecherov
+2008-01-15,22-038,WAS,AWAY,NYK,L (-12),0,17:45,.571,.643,11.8,15.9,13.5,11.3,0.0,0.0,0.0,20.9,133,131,6.8,6.0,Oleksiy Pecherov
+2008-01-18,22-041,WAS,HOME,NYK,W (+13),0,9:46,.680,.600,16.4,34.3,26.9,0.0,0.0,0.0,0.0,27.4,149,105,6.9,4.4,Oleksiy Pecherov
+2008-01-21,22-044,WAS,HOME,DAL,W (+18),0,12:21,.500,.500,0.0,10.8,5.1,11.1,0.0,6.8,0.0,7.8,123,104,2.3,1.3,Oleksiy Pecherov
+2008-01-23,22-046,WAS,AWAY,CLE,L (-36),0,9:30,.500,.500,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.3,93,147,1.5,-8.1,Oleksiy Pecherov
+2008-01-25,22-048,WAS,HOME,MEM,W (+11),0,5:29,.500,.500,0.0,0.0,0.0,0.0,0.0,17.9,33.3,23.0,64,98,-0.1,-12.5,Oleksiy Pecherov
+2008-01-27,22-050,WAS,AWAY,MIL,L (-3),0,2:21,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,41.0,0,126,-1.7,-51.6,Oleksiy Pecherov
+2008-01-29,22-052,WAS,HOME,TOR,W (+4),0,6:42,.333,.333,0.0,15.8,7.8,0.0,0.0,0.0,0.0,20.2,82,115,0.6,-8.7,Oleksiy Pecherov
+2008-01-30,22-053,WAS,AWAY,TOR,L (-39),0,18:35,.400,.357,6.3,23.5,14.0,0.0,0.0,0.0,18.6,27.7,72,141,1.7,-13.1,Oleksiy Pecherov
+2008-02-03,22-057,WAS,HOME,LAL,L (-12),0,14:47,.581,.583,0.0,11.6,4.8,0.0,0.0,0.0,12.7,26.2,101,128,3.5,-3.8,Oleksiy Pecherov
+2008-02-06,22-060,WAS,HOME,SAS,L (-8),0,9:54,.400,.400,20.6,0.0,11.3,0.0,6.1,9.7,16.7,29.3,81,100,3.4,3.8,Oleksiy Pecherov
+2008-02-08,22-062,WAS,AWAY,DEN,L (-11),0,14:27,.000,.000,0.0,41.5,18.0,8.3,3.5,0.0,0.0,15.3,13,113,-0.6,-12.3,Oleksiy Pecherov
+2008-02-10,22-064,WAS,AWAY,PHO,L (-1),0,4:37,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,121,-0.4,-9.8,Oleksiy Pecherov
+2008-02-13,22-067,WAS,AWAY,LAC,W (+2),0,4:06,.500,.500,0.0,32.5,14.3,0.0,0.0,0.0,0.0,21.4,122,106,1.3,0.4,Oleksiy Pecherov
+2008-02-19,22-073,WAS,HOME,NYK,L (-13),0,5:50,.868,.750,0.0,22.2,10.4,0.0,0.0,0.0,0.0,23.7,183,122,3.9,13.8,Oleksiy Pecherov
+2008-02-23,22-077,WAS,HOME,CHA,W (+15),0,14:41,.455,.500,27.2,19.2,23.9,10.2,3.9,0.0,0.0,29.7,124,108,7.4,-1.3,Oleksiy Pecherov
+2008-02-25,22-079,WAS,AWAY,NOH,W (+3),0,4:37,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.7,0,116,-1.1,-19.4,Oleksiy Pecherov
+2008-02-26,22-080,WAS,AWAY,HOU,L (-25),0,19:10,.564,.500,0.0,31.3,13.6,0.0,2.9,0.0,0.0,24.9,116,103,7.9,8.6,Oleksiy Pecherov
+2008-02-29,22-083,WAS,AWAY,CHI,W (+6),0,4:15,.000,.000,0.0,0.0,0.0,0.0,0.0,19.1,0.0,9.7,0,98,0.0,-4.5,Oleksiy Pecherov
+2008-03-02,22-085,WAS,HOME,NOH,W (+17),0,7:57,.800,.800,14.0,26.8,20.6,0.0,0.0,0.0,0.0,29.7,159,100,6.6,21.4,Oleksiy Pecherov
+2008-03-05,22-088,WAS,HOME,ORL,L (-30),0,23:15,.845,.813,9.8,18.2,13.6,0.0,0.0,0.0,40.3,29.5,89,134,6.9,-8.5,Oleksiy Pecherov
+2008-03-07,22-090,WAS,AWAY,TOR,W (+4),0,3:26,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,118,0.0,-4.5,Oleksiy Pecherov
+2008-03-08,22-091,WAS,HOME,CHA,L (-3),0,6:17,.000,.000,0.0,58.8,27.9,0.0,0.0,0.0,0.0,22.9,0,106,-1.6,-29.0,Oleksiy Pecherov
+2008-03-11,22-094,WAS,HOME,MIL,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Oleksiy Pecherov
+2008-03-15,22-098,WAS,HOME,LAC,W (+10),0,3:07,.532,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27.3,132,117,1.3,-4.8,Oleksiy Pecherov
+2008-03-17,22-100,WAS,HOME,ATL,L (-9),0,0:31,.000,.000,100.0,0.0,100.0,0.0,0.0,0.0,0.0,100.0,39,138,-0.7,-164.5,Oleksiy Pecherov
+2008-03-19,22-102,WAS,AWAY,ORL,W (+1),0,6:09,,,0.0,17.7,8.7,0.0,0.0,0.0,,0.0,0,105,-0.1,-6.8,Oleksiy Pecherov
+2008-03-21,22-104,WAS,AWAY,MIA,W (+17),0,9:56,.551,.500,13.1,0.0,7.0,0.0,0.0,0.0,15.5,32.0,101,111,2.2,-12.8,Oleksiy Pecherov
+2008-03-23,22-106,WAS,HOME,DET,W (+12),0,1:05,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,112,0.0,-1.8,Oleksiy Pecherov
+2008-03-25,22-108,WAS,AWAY,POR,L (-20),0,3:04,.266,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.4,61,132,-0.5,-25.0,Oleksiy Pecherov
+2008-03-31,22-114,WAS,AWAY,UTA,L (-42),0,12:37,.170,.000,0.0,13.6,6.0,0.0,0.0,0.0,0.0,23.6,43,158,-1.6,-24.9,Oleksiy Pecherov
+2008-04-04,22-118,WAS,HOME,MIA,W (+14),0,2:33,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.1,0,129,-0.7,-32.9,Oleksiy Pecherov
+2008-04-11,22-125,WAS,AWAY,DET,L (-28),0,8:46,.000,.000,0.0,32.2,12.2,0.0,6.4,8.8,0.0,15.6,0,100,0.2,-5.3,Oleksiy Pecherov
+2008-04-14,22-128,WAS,HOME,IND,W (+7),0,6:27,.500,.500,16.2,34.6,25.1,0.0,0.0,0.0,16.7,37.1,98,112,1.8,-10.2,Oleksiy Pecherov
+2008-04-16,22-130,WAS,AWAY,ORL,L (-20),0,39:02,.392,.364,16.2,13.4,14.6,11.4,1.5,0.0,7.3,18.1,102,124,9.4,-3.0,Oleksiy Pecherov
+2008-11-05,22-333,WAS,AWAY,MIL,L (-8),0,3:18,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,115,-0.8,-18.1,Oleksiy Pecherov
+2008-11-08,22-336,WAS,AWAY,ORL,L (-25),0,16:10,.375,.375,8.0,37.1,23.1,0.0,0.0,0.0,20.0,14.7,70,115,1.8,-5.4,Oleksiy Pecherov
+2008-11-14,22-342,WAS,AWAY,MIA,L (-20),0,11:59,.479,.500,27.3,19.5,23.6,0.0,4.7,0.0,0.0,43.1,106,106,7.9,11.7,Oleksiy Pecherov
+2008-11-19,22-347,WAS,AWAY,ATL,L (-4),0,4:27,.000,.000,23.4,0.0,11.0,0.0,0.0,0.0,0.0,10.7,58,117,-0.4,-19.9,Oleksiy Pecherov
+2008-12-15,23-007,WAS,HOME,IND,L (-20),0,2:26,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35.3,0,131,-1.8,-47.3,Oleksiy Pecherov
+2009-01-02,23-025,WAS,AWAY,BOS,L (-25),0,9:36,.510,.500,10.0,31.3,18.3,0.0,0.0,0.0,0.0,29.0,109,127,2.2,-10.0,Oleksiy Pecherov
+2009-01-09,23-032,WAS,AWAY,CHI,L (-12),0,4:49,.781,.625,0.0,0.0,0.0,0.0,11.3,0.0,0.0,59.2,160,96,8.0,45.2,Oleksiy Pecherov
+2009-01-14,23-037,WAS,AWAY,NYK,L (-6),0,0:39,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,73.8,0,161,-1.1,-135.2,Oleksiy Pecherov
+2009-01-19,23-042,WAS,AWAY,GSW,L (-21),0,1:22,.000,.000,85.7,0.0,44.5,0.0,0.0,0.0,0.0,31.5,59,140,0.0,-30.3,Oleksiy Pecherov
+2009-01-22,23-045,WAS,AWAY,LAL,L (-20),0,12:00,1.250,1.250,38.1,11.4,26.0,0.0,0.0,0.0,33.3,11.5,153,136,5.7,0.7,Oleksiy Pecherov
+2009-01-28,23-051,WAS,AWAY,MIA,L (-22),0,8:26,.000,.000,0.0,13.6,6.3,0.0,0.0,0.0,0.0,5.4,0,109,-0.8,-11.5,Oleksiy Pecherov
+2009-01-30,23-053,WAS,AWAY,PHI,L (-10),0,0:25,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,126,0.0,-9.1,Oleksiy Pecherov
+2009-02-02,23-056,WAS,HOME,MEM,L (-16),0,6:34,.347,.000,31.8,0.0,17.0,0.0,0.0,0.0,0.0,19.2,117,130,1.6,-12.0,Oleksiy Pecherov
+2009-02-04,23-058,WAS,HOME,NJN,L (-27),0,22:43,.658,.611,13.8,17.6,15.1,0.0,0.0,0.0,0.0,20.7,148,139,11.4,3.4,Oleksiy Pecherov
+2009-02-06,23-060,WAS,HOME,DEN,L (-21),0,21:36,.405,.333,5.2,11.7,8.2,0.0,4.8,0.0,9.2,22.5,85,126,4.0,-8.7,Oleksiy Pecherov
+2009-02-08,23-062,WAS,HOME,IND,W (+2),0,9:24,.250,.250,0.0,0.0,0.0,0.0,0.0,0.0,20.0,24.4,42,134,-2.2,-28.7,Oleksiy Pecherov
+2009-02-10,23-064,WAS,AWAY,ATL,L (-21),0,5:21,1.000,1.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.4,200,127,3.0,8.6,Oleksiy Pecherov
+2009-02-21,23-075,WAS,HOME,SAS,L (-31),0,5:34,1.000,1.000,17.2,26.1,20.8,0.0,0.0,0.0,50.0,17.1,89,117,1.3,-8.9,Oleksiy Pecherov
+2009-02-27,23-081,WAS,HOME,CHI,W (+23),0,6:11,.500,.500,17.6,33.8,25.9,0.0,0.0,13.4,0.0,14.5,134,90,1.8,-4.2,Oleksiy Pecherov
+2009-02-28,23-082,WAS,AWAY,MIL,L (-16),0,1:34,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.5,0,130,-0.7,-35.6,Oleksiy Pecherov
+2009-03-06,23-088,WAS,AWAY,SAS,L (-22),0,8:13,.521,.500,0.0,35.4,15.4,0.0,0.0,0.0,0.0,17.0,107,111,2.2,-0.6,Oleksiy Pecherov
+2009-03-13,23-095,WAS,HOME,ORL,L (-9),0,1:04,,,0.0,100.0,55.6,0.0,0.0,0.0,,0.0,0,90,0.3,1.6,Oleksiy Pecherov
+2009-03-17,23-099,WAS,AWAY,UTA,L (-15),0,18:22,.742,.714,5.1,6.2,5.6,0.0,0.0,3.6,10.2,21.7,140,109,9.6,9.1,Oleksiy Pecherov
+2009-03-18,23-100,WAS,AWAY,LAC,L (-15),0,0:43,,,0.0,100.0,91.7,0.0,0.0,0.0,,0.0,0,110,0.3,0.1,Oleksiy Pecherov
+2009-03-20,23-102,WAS,AWAY,DEN,L (-11),0,16:39,.654,.400,32.8,7.0,20.3,9.2,5.7,0.0,20.7,23.0,130,110,11.0,4.8,Oleksiy Pecherov
+2009-03-21,23-103,WAS,AWAY,PHO,L (-32),0,17:14,.357,.357,19.9,26.5,22.7,8.6,0.0,0.0,12.5,19.2,93,134,4.2,-6.8,Oleksiy Pecherov
+2009-03-23,23-105,WAS,HOME,CHI,L (-2),0,10:31,1.000,1.000,18.3,10.4,14.6,0.0,0.0,7.0,0.0,8.6,207,110,5.8,8.0,Oleksiy Pecherov
+2009-03-25,23-107,WAS,HOME,CHA,W (+2),0,6:02,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.3,0,109,-1.5,-18.4,Oleksiy Pecherov
+2009-03-29,23-111,WAS,AWAY,IND,L (-9),0,5:42,1.500,1.500,0.0,18.7,8.9,0.0,0.0,0.0,50.0,15.1,120,132,2.0,2.8,Oleksiy Pecherov
+2009-04-04,23-117,WAS,HOME,MIA,L (-14),0,1:29,1.500,1.500,0.0,0.0,0.0,0.0,0.0,0.0,0.0,31.2,300,133,2.7,64.5,Oleksiy Pecherov
+2009-04-08,23-121,WAS,AWAY,CLE,L (-12),0,8:06,.205,.000,29.6,37.0,33.7,0.0,0.0,0.0,0.0,29.5,72,107,1.5,-13.7,Oleksiy Pecherov
+2009-04-15,23-128,WAS,AWAY,BOS,L (-8),0,28:40,.322,.300,9.1,34.3,22.0,0.0,0.0,0.0,0.0,17.5,82,120,2.6,-14.4,Oleksiy Pecherov
+2009-10-28,23-324,MIN,HOME,NJN,W (+2),0,5:24,.250,.250,0.0,19.3,8.7,0.0,0.0,0.0,0.0,30.0,60,99,-0.1,-15.3,Oleksiy Pecherov
+2009-10-30,23-326,MIN,HOME,CLE,L (-17),0,10:30,.900,.900,9.5,10.9,10.2,0.0,0.0,0.0,0.0,20.7,175,117,7.7,15.6,Oleksiy Pecherov
+2009-11-01,23-328,MIN,AWAY,PHO,L (-8),1,18:43,.400,.400,11.2,30.5,20.4,7.4,0.0,0.0,0.0,21.9,104,124,4.6,-9.6,Oleksiy Pecherov
+2009-11-02,23-329,MIN,AWAY,LAC,L (-3),1,19:23,.813,.813,5.3,18.1,11.3,0.0,2.8,4.3,0.0,18.5,160,99,11.5,10.3,Oleksiy Pecherov
+2009-11-04,23-331,MIN,HOME,BOS,L (-2),1,34:10,.741,.679,4.1,23.4,14.8,5.3,1.6,0.0,11.0,26.3,132,100,19.1,7.8,Oleksiy Pecherov
+2009-11-06,23-333,MIN,HOME,MIL,L (-15),1,24:37,.167,.167,9.3,29.0,19.7,7.2,0.0,6.3,25.0,15.2,43,89,0.2,-9.2,Oleksiy Pecherov
+2009-11-08,23-335,MIN,AWAY,POR,L (-23),1,13:42,1.000,1.000,0.0,17.1,8.0,11.7,0.0,0.0,0.0,6.5,203,125,3.5,-0.9,Oleksiy Pecherov
+2009-11-09,23-336,MIN,AWAY,GSW,L (-41),0,6:02,.500,.500,16.6,18.5,17.5,0.0,0.0,0.0,33.3,18.2,77,140,1.0,-12.4,Oleksiy Pecherov
+2009-11-11,23-338,MIN,HOME,POR,L (-23),0,2:30,.000,.000,0.0,60.0,27.4,0.0,0.0,0.0,0.0,20.6,0,121,-0.4,-21.6,Oleksiy Pecherov
+2009-11-13,23-340,MIN,HOME,DAL,L (-12),0,15:27,.418,.333,5.4,31.1,17.3,0.0,0.0,0.0,15.7,35.1,75,90,3.3,-6.5,Oleksiy Pecherov
+2009-11-14,23-341,MIN,AWAY,MEM,L (-10),0,12:27,.500,.500,0.0,36.7,18.8,0.0,0.0,0.0,11.1,32.4,84,97,3.4,-5.8,Oleksiy Pecherov
+2009-11-18,23-345,MIN,HOME,HOU,L (-13),0,21:52,.429,.429,5.5,15.7,10.7,8.8,0.0,7.1,12.5,33.3,85,109,5.1,-5.1,Oleksiy Pecherov
+2009-11-21,23-348,MIN,AWAY,POR,L (-28),0,30:27,.470,.364,18.3,20.2,19.2,0.0,0.0,0.0,7.3,22.9,107,128,7.9,-5.9,Oleksiy Pecherov
+2009-11-23,23-350,MIN,AWAY,LAC,L (-4),0,20:09,.530,.500,0.0,21.2,11.3,0.0,0.0,0.0,9.6,23.7,99,104,4.7,-4.0,Oleksiy Pecherov
+2009-11-25,23-352,MIN,HOME,DEN,L (-13),0,20:04,.545,.545,4.8,25.2,13.6,0.0,2.3,0.0,8.3,23.1,108,118,7.4,-0.7,Oleksiy Pecherov
+2009-11-27,23-354,MIN,HOME,PHO,L (-25),0,9:09,.200,.200,10.5,17.5,13.1,0.0,0.0,0.0,0.0,22.8,57,124,-0.5,-17.1,Oleksiy Pecherov
+2009-11-29,23-356,MIN,AWAY,DEN,W (+6),0,4:31,1.000,1.000,25.9,0.0,11.9,0.0,10.9,17.7,66.7,29.5,66,76,1.7,-0.4,Oleksiy Pecherov
+2009-12-04,23-361,MIN,AWAY,NOH,L (-9),0,1:40,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,26.4,0,98,-2.2,-72.1,Oleksiy Pecherov
+2009-12-08,24-000,MIN,AWAY,TOR,L (-6),0,10:59,.000,.000,16.8,64.7,41.2,26.5,0.0,7.4,14.3,27.0,29,72,0.3,-9.2,Oleksiy Pecherov
+2009-12-11,24-003,MIN,AWAY,LAL,L (-12),0,1:39,,,0.0,0.0,0.0,0.0,30.1,0.0,,0.0,0,51,1.0,23.9,Oleksiy Pecherov
+2009-12-12,24-004,MIN,AWAY,SAC,L (-20),0,7:28,.515,.333,12.6,0.0,6.6,0.0,0.0,0.0,0.0,20.7,127,125,3.0,-2.4,Oleksiy Pecherov
+2009-12-14,24-006,MIN,AWAY,UTA,W (+2),0,19:14,.592,.400,17.4,12.2,14.9,0.0,2.5,0.0,22.8,19.4,111,108,5.4,-6.1,Oleksiy Pecherov
+2009-12-18,24-010,MIN,HOME,SAC,W (+16),0,3:18,.000,.000,0.0,30.3,17.3,0.0,0.0,22.7,0.0,25.2,0,74,-0.8,-20.0,Oleksiy Pecherov
+2009-12-20,24-012,MIN,AWAY,BOS,L (-18),0,3:44,.000,.000,0.0,36.7,15.0,0.0,13.2,0.0,33.3,33.6,0,96,-1.1,-24.9,Oleksiy Pecherov
+2009-12-22,24-014,MIN,HOME,ATL,L (-25),0,1:58,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0,0,125,-1.1,-33.8,Oleksiy Pecherov
+2009-12-30,24-022,MIN,HOME,UTA,L (-4),0,8:34,.000,.000,0.0,50.9,28.0,41.0,0.0,7.4,60.0,26.8,32,100,-0.4,-8.8,Oleksiy Pecherov
+2010-01-06,24-029,MIN,HOME,GSW,L (-6),0,8:47,.387,.333,22.8,24.3,23.5,0.0,0.0,7.4,0.0,18.2,107,104,3.6,0.3,Oleksiy Pecherov
+2010-01-09,24-032,MIN,AWAY,CHI,L (-14),0,9:47,.625,.625,0.0,39.8,17.5,0.0,4.9,0.0,0.0,18.1,117,102,4.9,7.0,Oleksiy Pecherov
+2010-01-11,24-034,MIN,AWAY,DEN,L (-11),0,1:19,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.3,0,117,-0.7,-31.4,Oleksiy Pecherov
+2010-01-15,24-038,MIN,AWAY,MEM,L (-25),0,12:27,.630,.333,8.2,22.0,14.1,0.0,0.0,0.0,29.6,23.2,100,140,3.2,-11.6,Oleksiy Pecherov
+2010-01-18,24-041,MIN,HOME,PHI,W (+5),0,1:34,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,59.5,0,110,-2.0,-71.1,Oleksiy Pecherov
+2010-01-23,24-046,MIN,AWAY,MIL,L (-33),0,5:07,.000,.000,19.1,28.4,22.9,0.0,0.0,0.0,50.0,32.6,15,130,-3.2,-43.1,Oleksiy Pecherov
+2010-01-31,24-054,MIN,HOME,NYK,W (+21),0,1:50,.500,.500,0.0,0.0,0.0,0.0,27.2,0.0,0.0,46.3,107,44,2.0,20.3,Oleksiy Pecherov
+2010-02-09,24-063,MIN,AWAY,PHI,L (-22),0,15:35,.872,.833,0.0,18.7,8.7,10.3,0.0,0.0,0.0,10.0,176,127,4.8,1.4,Oleksiy Pecherov
+2010-02-17,24-071,MIN,AWAY,WAS,L (-9),0,14:04,.625,.625,0.0,7.3,3.8,0.0,0.0,0.0,33.3,18.9,81,120,0.5,-10.4,Oleksiy Pecherov
+2010-02-26,24-080,MIN,AWAY,OKC,L (-17),0,3:04,.833,.833,0.0,41.2,17.4,0.0,0.0,0.0,0.0,41.4,151,111,4.0,37.6,Oleksiy Pecherov
+2010-02-27,24-081,MIN,HOME,POR,L (-19),0,6:18,.500,.500,0.0,33.1,17.7,0.0,0.0,0.0,0.0,21.7,100,116,1.9,2.4,Oleksiy Pecherov
+2010-03-03,24-085,MIN,AWAY,DAL,L (-3),0,7:18,.515,.333,18.3,30.6,25.0,0.0,0.0,0.0,20.5,29.4,104,121,2.2,-12.6,Oleksiy Pecherov
+2010-03-12,24-094,MIN,HOME,SAS,L (-18),0,5:42,.000,.000,0.0,20.1,9.8,0.0,0.0,13.4,0.0,33.4,0,106,-1.8,-25.0,Oleksiy Pecherov
+2010-03-14,24-096,MIN,AWAY,SAC,L (-14),0,8:03,.750,.750,0.0,11.3,5.7,0.0,0.0,8.0,0.0,10.2,153,107,2.6,4.4,Oleksiy Pecherov
+2010-03-16,24-098,MIN,AWAY,PHO,L (-38),0,9:19,.546,.500,11.7,12.9,12.3,0.0,0.0,7.7,0.0,32.1,123,151,6.3,0.9,Oleksiy Pecherov
+2010-03-17,24-099,MIN,AWAY,UTA,L (-22),0,3:45,1.000,1.000,29.1,0.0,16.6,0.0,0.0,18.0,0.0,11.7,208,115,3.1,15.3,Oleksiy Pecherov
+2010-03-26,24-108,MIN,AWAY,ORL,L (-9),0,2:14,.500,.500,0.0,97.7,47.8,0.0,0.0,0.0,0.0,40.0,99,84,1.6,7.2,Oleksiy Pecherov
+2010-04-04,24-117,MIN,AWAY,OKC,L (-8),0,3:18,.000,.000,37.3,33.8,35.5,0.0,0.0,0.0,0.0,13.8,70,118,0.3,-13.2,Oleksiy Pecherov

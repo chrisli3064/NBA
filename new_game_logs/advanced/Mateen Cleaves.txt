@@ -1,0 +1,207 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+2001-11-03,24-057,SAC,AWAY,DEN,W (+12),0,2:18,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,45.0,0,113,-1.7,-47.2,Mateen Cleaves
+2001-11-04,24-058,SAC,HOME,SAS,W (+20),0,1:25,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,41.5,0,99,-0.7,-32.0,Mateen Cleaves
+2001-11-06,24-060,SAC,AWAY,CLE,W (+16),0,1:36,.798,1.000,0.0,0.0,0.0,0.0,25.8,0.0,34.7,64.0,83,59,1.9,25.4,Mateen Cleaves
+2001-11-16,24-070,SAC,HOME,CHI,W (+34),0,8:23,1.000,1.000,0.0,0.0,0.0,34.3,0.0,0.0,50.0,11.3,114,84,1.7,-3.5,Mateen Cleaves
+2001-11-19,24-073,SAC,HOME,HOU,W (+36),0,6:31,.500,.500,0.0,34.8,18.4,40.0,0.0,0.0,60.0,37.1,55,84,0.0,-18.7,Mateen Cleaves
+2001-12-04,24-088,SAC,HOME,PHI,W (+10),0,7:10,1.064,1.000,0.0,14.0,6.9,22.7,7.8,0.0,34.7,17.8,138,84,4.3,13.5,Mateen Cleaves
+2001-12-11,24-095,SAC,HOME,ORL,W (+12),0,1:14,,,0.0,0.0,0.0,100.0,0.0,0.0,,0.0,216,113,0.7,14.2,Mateen Cleaves
+2001-12-12,24-096,SAC,AWAY,PHO,L (-26),0,6:36,.167,.167,0.0,0.0,0.0,0.0,0.0,0.0,14.3,43.3,32,131,-2.8,-34.0,Mateen Cleaves
+2001-12-14,24-098,SAC,AWAY,MIN,L (-20),0,3:37,,,0.0,26.7,12.5,0.0,0.0,0.0,100.0,10.3,0,112,-0.7,-19.7,Mateen Cleaves
+2001-12-16,24-100,SAC,HOME,MEM,W (+17),0,4:59,1.000,1.000,0.0,0.0,0.0,44.0,0.0,0.0,33.3,24.0,121,97,3.1,8.8,Mateen Cleaves
+2001-12-19,24-103,SAC,AWAY,SEA,L (-12),0,1:13,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,46.3,0,119,-0.7,-37.6,Mateen Cleaves
+2001-12-22,24-106,SAC,AWAY,LAC,L (-16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2001-12-23,24-107,SAC,HOME,PHO,W (+32),0,7:49,.727,.667,0.0,0.0,0.0,85.7,6.0,0.0,12.7,40.8,151,99,10.2,24.0,Mateen Cleaves
+2001-12-26,24-110,SAC,HOME,POR,W (+15),0,2:45,.532,.000,0.0,0.0,0.0,0.0,0.0,0.0,51.5,58.9,53,90,-1.1,-41.7,Mateen Cleaves
+2001-12-28,24-112,SAC,HOME,MIN,W (+14),0,1:00,.500,.500,0.0,0.0,0.0,0.0,0.0,0.0,0.0,90.0,114,125,1.0,-12.5,Mateen Cleaves
+2001-12-30,24-114,SAC,HOME,BOS,W (+15),0,4:29,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,66.7,27.1,0,110,-3.1,-43.4,Mateen Cleaves
+2002-01-02,24-117,SAC,HOME,LAC,W (+14),0,2:24,.000,.000,0.0,0.0,0.0,0.0,26.0,0.0,33.3,64.8,0,58,-1.4,-32.3,Mateen Cleaves
+2002-01-06,24-121,SAC,HOME,MIL,W (+14),0,4:14,.000,.000,0.0,0.0,0.0,26.1,0.0,0.0,50.0,22.0,31,121,-1.0,-24.6,Mateen Cleaves
+2002-01-13,24-128,SAC,HOME,PHO,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2002-01-15,24-130,SAC,HOME,CLE,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2002-01-16,24-131,SAC,AWAY,DEN,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2002-01-18,24-133,SAC,HOME,GSW,W (+24),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2002-01-21,24-136,SAC,HOME,MEM,W (+14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2002-01-22,24-137,SAC,AWAY,POR,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2002-01-24,24-139,SAC,HOME,UTA,W (+33),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2002-01-31,24-146,SAC,AWAY,SEA,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2002-02-01,24-147,SAC,HOME,DEN,W (+36),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2002-02-04,24-150,SAC,AWAY,NJN,L (-34),0,5:50,.250,.250,16.3,0.0,8.9,0.0,0.0,0.0,20.0,33.5,52,126,-0.7,-15.7,Mateen Cleaves
+2002-02-06,24-152,SAC,AWAY,BOS,W (+17),0,3:32,,,0.0,0.0,0.0,43.2,0.0,0.0,,0.0,222,97,0.7,1.1,Mateen Cleaves
+2002-02-07,24-153,SAC,AWAY,WAS,L (-7),0,2:28,.333,.333,0.0,0.0,0.0,72.7,0.0,0.0,0.0,46.6,89,127,1.0,-6.0,Mateen Cleaves
+2002-02-12,24-158,SAC,HOME,SAS,W (+13),0,2:07,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,20.7,0,103,-1.0,-30.5,Mateen Cleaves
+2002-02-14,24-160,SAC,HOME,WAS,W (+16),0,3:34,1.000,1.000,0.0,0.0,0.0,59.3,0.0,0.0,0.0,14.1,204,102,2.4,13.4,Mateen Cleaves
+2002-02-17,24-163,SAC,HOME,SEA,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2002-02-19,24-165,SAC,HOME,ATL,W (+20),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2002-02-21,24-167,SAC,AWAY,SAS,L (-23),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2002-03-19,24-193,SAC,HOME,HOU,W (+23),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2002-03-21,24-195,SAC,HOME,DEN,W (+36),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2002-03-24,24-198,SAC,HOME,LAL,L (-1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2002-03-26,24-200,SAC,HOME,LAC,W (+17),0,1:28,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,111,0.0,-9.1,Mateen Cleaves
+2002-03-28,24-202,SAC,AWAY,HOU,W (+27),0,6:10,.000,.000,0.0,0.0,0.0,19.5,0.0,0.0,0.0,7.1,52,95,0.0,-9.9,Mateen Cleaves
+2002-04-02,24-207,SAC,AWAY,MEM,W (+24),0,6:10,.000,.000,0.0,0.0,0.0,17.0,0.0,0.0,50.0,28.1,14,95,-3.1,-32.6,Mateen Cleaves
+2002-04-03,24-208,SAC,AWAY,DET,W (+21),0,4:34,.500,.500,0.0,21.3,12.3,86.2,10.1,0.0,33.3,27.4,98,73,3.0,15.0,Mateen Cleaves
+2002-04-07,24-212,SAC,HOME,NYK,W (+34),0,8:08,.750,.750,0.0,13.3,6.2,0.0,0.0,0.0,0.0,10.5,153,92,2.3,1.3,Mateen Cleaves
+2002-04-09,24-214,SAC,HOME,MIN,W (+19),0,2:15,.333,.333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,65.5,73,117,0.3,-26.2,Mateen Cleaves
+2002-04-12,24-217,SAC,AWAY,LAC,W (+19),0,2:03,1.000,1.000,0.0,0.0,0.0,82.8,0.0,0.0,50.0,46.1,107,124,1.0,-6.7,Mateen Cleaves
+2002-04-14,24-219,SAC,HOME,DAL,L (-13),0,2:30,1.042,1.000,0.0,0.0,0.0,84.2,0.0,0.0,0.0,21.0,216,134,3.4,36.8,Mateen Cleaves
+2002-04-16,24-221,SAC,HOME,GSW,W (+14),0,12:00,.667,.667,0.0,8.5,4.6,12.1,3.9,0.0,14.3,23.7,113,100,6.0,2.6,Mateen Cleaves
+2002-04-17,24-222,SAC,AWAY,LAL,L (-14),0,24:08,.500,.500,0.0,0.0,0.0,15.4,2.0,0.0,18.8,29.3,87,116,5.7,-3.3,Mateen Cleaves
+2000-10-31,23-054,DET,AWAY,TOR,W (+9),0,11:21,.500,.500,0.0,0.0,0.0,12.4,4.5,0.0,20.0,19.3,88,99,2.3,-2.9,Mateen Cleaves
+2000-11-01,23-055,DET,AWAY,BOS,L (-20),0,13:44,.296,.000,0.0,0.0,0.0,10.4,3.6,0.0,22.8,25.0,61,106,-0.2,-10.1,Mateen Cleaves
+2000-11-03,23-057,DET,HOME,SAC,L (-7),0,10:10,.000,.000,0.0,8.9,5.2,14.5,0.0,0.0,50.0,8.6,25,113,-1.9,-18.2,Mateen Cleaves
+2000-11-04,23-058,DET,AWAY,MIL,L (-9),0,21:42,.586,.500,5.1,0.0,2.7,26.1,2.3,0.0,0.0,31.8,128,105,14.3,13.6,Mateen Cleaves
+2000-11-08,23-062,DET,AWAY,PHI,L (-9),0,14:43,1.000,1.000,6.7,9.4,7.8,28.4,3.4,0.0,75.0,10.8,69,109,1.2,-7.2,Mateen Cleaves
+2000-11-09,23-063,DET,AWAY,NJN,W (+14),0,13:48,1.000,1.000,0.0,14.0,8.0,20.1,0.0,0.0,60.0,15.9,78,103,0.4,-14.6,Mateen Cleaves
+2000-11-11,23-065,DET,AWAY,IND,L (-10),0,11:44,.434,.250,0.0,8.3,3.9,42.9,4.2,0.0,14.8,24.1,93,97,3.8,1.5,Mateen Cleaves
+2000-11-12,23-066,DET,HOME,SEA,W (+9),0,13:30,.425,.400,0.0,7.2,4.0,22.0,0.0,0.0,0.0,20.1,108,108,2.8,-7.8,Mateen Cleaves
+2000-11-15,23-069,DET,HOME,IND,L (-4),0,19:49,.704,.600,0.0,10.0,5.5,73.7,7.5,0.0,31.9,28.7,111,86,12.2,13.0,Mateen Cleaves
+2000-11-17,23-071,DET,AWAY,CHH,W (+7),0,16:10,.546,.500,7.3,6.7,7.0,48.0,0.0,0.0,29.1,28.9,95,100,4.6,-3.6,Mateen Cleaves
+2000-11-19,23-073,DET,HOME,CHH,L (-9),0,13:46,.500,.500,7.1,21.4,14.3,41.6,3.6,0.0,14.3,20.5,110,103,5.1,1.0,Mateen Cleaves
+2000-11-21,23-075,DET,AWAY,CLE,L (-19),0,22:01,.628,.571,8.2,6.8,7.7,24.9,2.4,0.0,10.2,18.4,131,128,9.9,0.4,Mateen Cleaves
+2000-11-24,23-078,DET,HOME,VAN,W (+22),0,18:44,1.000,1.000,7.9,0.0,3.3,36.1,5.1,0.0,66.7,13.7,98,100,5.9,3.6,Mateen Cleaves
+2000-11-26,23-080,DET,HOME,UTA,L (-15),0,21:44,.500,.500,0.0,23.6,10.4,36.8,0.0,0.0,42.9,14.4,78,106,3.3,-5.7,Mateen Cleaves
+2000-11-29,23-083,DET,HOME,NJN,W (+21),1,25:08,.405,.333,0.0,8.7,4.4,0.0,2.1,0.0,16.8,21.6,75,88,1.3,-10.5,Mateen Cleaves
+2000-12-01,23-085,DET,HOME,CLE,W (+10),0,22:34,.825,.857,0.0,4.1,2.5,39.8,6.6,0.0,11.3,18.5,155,94,16.2,16.7,Mateen Cleaves
+2000-12-03,23-087,DET,HOME,WAS,W (+6),0,10:20,.000,.000,0.0,0.0,0.0,15.0,5.2,0.0,20.0,22.0,13,95,-2.5,-18.3,Mateen Cleaves
+2000-12-05,23-089,DET,AWAY,VAN,L (-8),0,5:49,1.000,1.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,16.4,75,114,0.7,-8.3,Mateen Cleaves
+2000-12-06,23-090,DET,AWAY,SEA,W (+13),0,7:57,.258,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.3,70,112,-1.3,-23.0,Mateen Cleaves
+2000-12-09,23-093,DET,AWAY,POR,L (-31),0,30:11,.389,.389,0.0,13.7,6.0,34.5,3.2,0.0,25.0,16.5,74,110,5.3,-0.8,Mateen Cleaves
+2000-12-10,23-094,DET,AWAY,LAL,L (-24),0,21:35,.509,.500,0.0,9.7,4.6,28.7,0.0,0.0,0.0,14.0,115,118,6.2,-2.9,Mateen Cleaves
+2000-12-13,23-097,DET,HOME,ATL,W (+23),0,22:46,.398,.300,0.0,4.0,2.2,50.8,0.0,0.0,15.0,26.1,90,81,6.0,-1.6,Mateen Cleaves
+2000-12-15,23-099,DET,HOME,MIN,L (-9),0,23:03,.625,.600,0.0,37.5,14.9,24.3,11.0,0.0,29.4,18.2,95,79,10.9,10.2,Mateen Cleaves
+2000-12-17,23-101,DET,HOME,DAL,L (-9),0,14:39,.333,.333,0.0,9.1,4.0,40.7,3.5,0.0,14.3,20.5,80,108,1.8,-5.9,Mateen Cleaves
+2000-12-19,23-103,DET,AWAY,PHO,W (+5),0,16:33,.515,.333,0.0,16.3,8.7,20.0,0.0,0.0,43.6,17.1,69,91,0.4,-11.5,Mateen Cleaves
+2000-12-20,23-104,DET,AWAY,DEN,L (-2),0,18:37,.799,.857,6.8,0.0,3.1,27.2,2.6,0.0,18.6,24.3,128,115,11.7,6.4,Mateen Cleaves
+2000-12-23,23-107,DET,HOME,CHI,W (+13),0,15:08,.510,.600,0.0,0.0,0.0,22.5,3.5,0.0,25.4,24.7,82,103,1.3,-10.6,Mateen Cleaves
+2000-12-26,23-110,DET,HOME,BOS,W (+5),0,16:09,.286,.286,0.0,12.8,7.6,20.0,0.0,0.0,36.4,29.6,47,99,-3.3,-21.3,Mateen Cleaves
+2000-12-28,23-112,DET,AWAY,ORL,L (-6),0,20:15,.496,.429,10.0,5.2,7.7,37.2,2.4,3.0,22.9,27.2,96,103,7.1,2.1,Mateen Cleaves
+2000-12-30,23-114,DET,HOME,MIA,L (-8),0,16:12,.425,.400,0.0,14.1,7.3,11.7,0.0,0.0,25.4,22.5,71,111,-0.4,-14.9,Mateen Cleaves
+2000-12-31,23-115,DET,AWAY,WAS,L (-14),0,22:21,.463,.333,9.3,0.0,5.1,27.1,2.1,0.0,10.4,18.0,108,118,5.6,-3.7,Mateen Cleaves
+2001-01-03,23-118,DET,AWAY,DAL,W (+3),0,14:01,.500,.500,6.5,8.0,7.1,32.4,3.6,0.0,25.0,23.5,92,106,3.5,-1.7,Mateen Cleaves
+2001-01-04,23-119,DET,AWAY,HOU,L (-10),0,12:45,.429,.429,0.0,20.5,9.3,57.0,0.0,0.0,22.2,30.9,85,118,2.1,-10.4,Mateen Cleaves
+2001-01-06,23-121,DET,AWAY,SAS,L (-7),0,12:47,.000,.000,7.0,34.3,19.2,0.0,3.8,0.0,0.0,13.2,20,100,-1.1,-14.7,Mateen Cleaves
+2001-01-10,23-125,DET,HOME,TOR,L (-25),0,28:13,.349,.357,0.0,4.8,1.9,25.2,1.7,0.0,11.3,26.8,68,114,2.6,-8.1,Mateen Cleaves
+2001-01-12,23-127,DET,HOME,SAS,L (-21),1,26:34,.286,.286,0.0,10.8,4.8,21.9,3.9,0.0,30.0,17.1,59,120,1.9,-8.6,Mateen Cleaves
+2001-01-14,23-129,DET,HOME,POR,L (-7),1,14:00,.667,.667,0.0,15.6,8.3,12.2,0.0,0.0,25.0,12.6,104,110,2.2,-5.9,Mateen Cleaves
+2001-01-16,23-131,DET,AWAY,MIA,L (-8),1,19:27,.184,.200,0.0,6.5,2.7,54.5,2.8,0.0,15.5,15.7,68,103,2.9,-3.0,Mateen Cleaves
+2001-01-18,23-133,DET,AWAY,CHI,W (+6),1,26:53,.868,.833,0.0,10.5,4.9,21.5,0.0,0.0,25.8,19.8,131,126,12.0,-0.7,Mateen Cleaves
+2001-01-19,23-134,DET,HOME,NYK,L (-6),1,26:56,.600,.600,0.0,13.3,7.1,15.0,2.0,0.0,37.5,14.1,78,108,2.8,-7.2,Mateen Cleaves
+2001-01-21,23-136,DET,HOME,MIL,L (-4),1,10:01,.000,.000,0.0,0.0,0.0,25.9,0.0,0.0,66.7,14.5,36,118,-2.1,-20.5,Mateen Cleaves
+2001-01-24,23-139,DET,HOME,PHO,L (-33),1,26:25,.225,.125,5.4,5.8,5.5,14.1,0.0,0.0,10.1,16.0,61,125,0.5,-13.5,Mateen Cleaves
+2001-01-26,23-141,DET,AWAY,PHI,L (-16),0,2:23,.532,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.9,135,129,1.3,2.9,Mateen Cleaves
+2001-01-27,23-142,DET,AWAY,MIL,W (+5),0,7:34,.000,.000,0.0,0.0,0.0,17.1,0.0,0.0,66.7,16.1,17,117,-2.0,-21.7,Mateen Cleaves
+2001-01-31,23-146,DET,AWAY,NJN,W (+9),0,9:41,.727,.667,0.0,31.3,16.0,0.0,0.0,0.0,46.6,25.9,67,106,0.4,-18.1,Mateen Cleaves
+2001-02-02,23-148,DET,HOME,BOS,L (-7),0,16:14,.929,.929,0.0,8.3,3.6,17.6,0.0,0.0,30.0,26.8,111,112,7.3,3.4,Mateen Cleaves
+2001-02-03,23-149,DET,AWAY,CLE,W (+7),0,11:12,.000,.000,0.0,0.0,0.0,41.3,0.0,0.0,75.0,16.6,27,96,-2.4,-22.4,Mateen Cleaves
+2001-02-06,23-152,DET,HOME,DEN,W (+11),0,30:23,.484,.462,0.0,11.2,5.5,5.6,0.0,0.0,13.0,23.7,87,99,4.3,-8.5,Mateen Cleaves
+2001-02-08,23-154,DET,HOME,HOU,L (-13),0,24:08,.538,.500,0.0,5.7,2.3,30.0,4.3,0.0,11.8,29.7,106,107,9.8,4.5,Mateen Cleaves
+2001-02-14,23-160,DET,HOME,NJN,W (+19),0,3:44,.102,.000,0.0,0.0,0.0,0.0,0.0,0.0,29.1,69.7,18,100,-4.2,-66.9,Mateen Cleaves
+2001-02-15,23-161,DET,AWAY,IND,L (-9),0,0:22,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,44.9,0,108,-0.7,-77.5,Mateen Cleaves
+2001-02-19,23-165,DET,HOME,LAC,L (-5),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Mateen Cleaves
+2001-02-21,23-167,DET,HOME,NYK,W (+5),0,5:54,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.8,0,106,-0.7,-14.6,Mateen Cleaves
+2001-02-23,23-169,DET,HOME,PHI,L (-21),0,6:08,.205,.250,0.0,19.0,7.5,0.0,0.0,0.0,17.0,39.8,38,108,-2.3,-24.2,Mateen Cleaves
+2001-02-25,23-171,DET,HOME,CLE,L (-7),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Mateen Cleaves
+2001-02-28,23-174,DET,AWAY,MIN,L (-11),0,19:17,.510,.400,0.0,7.0,3.5,23.0,2.6,0.0,25.4,18.7,91,116,3.9,-7.1,Mateen Cleaves
+2001-03-02,23-176,DET,HOME,MIA,L (-4),0,9:46,.500,.500,0.0,11.3,5.6,17.8,0.0,0.0,50.0,19.6,56,111,-0.4,-16.0,Mateen Cleaves
+2001-03-04,23-178,DET,HOME,ORL,W (+9),0,7:44,.667,.667,0.0,0.0,0.0,37.5,6.6,0.0,0.0,15.9,150,92,4.4,16.2,Mateen Cleaves
+2001-03-05,23-179,DET,AWAY,MIA,L (-3),0,21:53,.300,.300,0.0,5.0,2.6,15.7,0.0,0.0,16.7,13.3,71,112,0.2,-8.6,Mateen Cleaves
+2001-03-07,23-181,DET,AWAY,ORL,L (-10),0,12:18,.000,.000,0.0,8.3,4.1,10.8,3.8,0.0,0.0,6.9,25,104,0.2,-8.8,Mateen Cleaves
+2001-03-09,23-183,DET,HOME,CHI,W (+33),0,28:41,.825,.786,0.0,0.0,0.0,37.1,0.0,0.0,20.2,15.4,145,88,13.7,8.0,Mateen Cleaves
+2001-03-11,23-185,DET,HOME,IND,W (+17),0,14:10,.210,.000,0.0,0.0,0.0,31.2,0.0,0.0,0.0,15.8,74,97,0.0,-10.4,Mateen Cleaves
+2001-03-14,23-188,DET,AWAY,WAS,L (-7),0,22:18,.410,.250,4.2,0.0,2.6,26.7,2.3,0.0,23.5,25.3,82,113,3.1,-8.9,Mateen Cleaves
+2001-03-15,23-189,DET,HOME,LAL,L (-6),0,2:53,,,0.0,0.0,0.0,45.3,0.0,0.0,,0.0,213,122,0.7,3.0,Mateen Cleaves
+2001-03-17,23-191,DET,AWAY,ATL,W (+16),0,14:39,.563,.500,0.0,0.0,0.0,52.5,0.0,0.0,40.3,22.0,93,109,3.8,-4.1,Mateen Cleaves
+2001-03-18,23-192,DET,HOME,MIL,L (-4),0,8:27,.333,.333,11.3,0.0,6.5,18.2,0.0,0.0,0.0,15.1,106,115,0.5,-8.7,Mateen Cleaves
+2001-03-20,23-194,DET,AWAY,UTA,L (-5),0,6:06,.333,.333,0.0,0.0,0.0,34.8,0.0,0.0,0.0,21.7,93,112,1.0,-1.2,Mateen Cleaves
+2001-03-22,23-196,DET,AWAY,SAC,L (-5),0,17:18,.000,.000,0.0,0.0,0.0,30.5,0.0,0.0,34.0,13.4,34,110,-2.5,-16.0,Mateen Cleaves
+2001-03-24,23-198,DET,AWAY,GSW,L (-8),0,24:44,.455,.364,0.0,23.2,11.7,40.7,0.0,0.0,7.0,22.8,104,100,9.6,-0.3,Mateen Cleaves
+2001-03-27,23-201,DET,AWAY,LAC,L (-7),0,21:52,.564,.500,0.0,5.1,2.4,41.5,0.0,0.0,15.8,25.0,112,112,7.0,-1.4,Mateen Cleaves
+2001-03-30,23-204,DET,HOME,ORL,W (+3),0,16:03,.125,.125,9.1,0.0,5.4,56.3,6.1,0.0,11.1,21.0,69,95,3.4,1.8,Mateen Cleaves
+2001-04-01,23-206,DET,HOME,GSW,W (+17),0,20:15,.667,.667,0.0,29.0,17.3,27.3,0.0,0.0,40.0,11.3,102,85,5.6,-2.0,Mateen Cleaves
+2001-04-03,23-208,DET,AWAY,CHI,W (+27),0,23:20,.714,.500,0.0,12.0,6.9,48.3,2.1,0.0,54.3,17.2,97,88,7.8,-0.8,Mateen Cleaves
+2001-04-04,23-209,DET,HOME,PHI,L (-6),0,20:06,.467,.286,0.0,4.8,2.7,25.5,0.0,0.0,29.3,31.4,78,104,2.5,-8.4,Mateen Cleaves
+2001-04-07,23-212,DET,AWAY,CHH,W (+5),0,10:55,.000,.000,9.1,15.6,12.6,12.1,0.0,0.0,80.0,19.5,19,102,-3.1,-25.9,Mateen Cleaves
+2001-04-09,23-214,DET,HOME,ATL,W (+12),0,18:02,.000,.000,14.8,4.6,9.5,19.8,0.0,0.0,37.5,18.2,26,81,-3.5,-17.2,Mateen Cleaves
+2001-04-11,23-216,DET,HOME,TOR,W (+12),0,18:16,.317,.286,0.0,20.5,10.9,25.3,8.3,0.0,20.2,24.3,64,76,4.4,-1.5,Mateen Cleaves
+2001-04-14,23-219,DET,AWAY,ATL,W (+5),0,16:03,.381,.286,13.3,31.3,22.5,9.1,0.0,0.0,11.3,22.0,92,107,4.1,-6.8,Mateen Cleaves
+2001-04-15,23-220,DET,HOME,CHH,L (-9),0,9:34,.300,.300,0.0,0.0,0.0,0.0,0.0,0.0,16.7,24.9,55,114,-1.1,-14.3,Mateen Cleaves
+2001-04-18,23-223,DET,AWAY,NYK,L (-6),0,13:11,.387,.333,0.0,8.6,4.0,0.0,3.9,0.0,20.5,34.0,61,96,0.3,-10.8,Mateen Cleaves
+2005-11-04,28-058,SEA,HOME,MIN,W (+5),0,10:07,.667,.667,0.0,0.0,0.0,42.7,0.0,0.0,25.0,17.5,117,117,1.9,-4.6,Mateen Cleaves
+2005-11-08,28-062,SEA,AWAY,MEM,L (-25),0,18:49,.515,.417,0.0,0.0,0.0,57.0,0.0,0.0,11.4,22.2,111,114,4.8,1.3,Mateen Cleaves
+2005-11-09,28-063,SEA,AWAY,CLE,L (-27),0,5:42,.333,.333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.9,69,143,-0.1,-17.9,Mateen Cleaves
+2005-11-11,28-065,SEA,AWAY,WAS,L (-41),0,13:12,.250,.250,0.0,0.0,0.0,39.9,0.0,0.0,0.0,13.1,93,149,0.5,-12.6,Mateen Cleaves
+2005-11-15,28-069,SEA,AWAY,NJN,L (-10),0,9:47,.521,.500,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.3,105,131,1.2,-9.3,Mateen Cleaves
+2005-11-16,28-070,SEA,AWAY,BOS,W (+13),0,10:40,.333,.333,0.0,0.0,0.0,25.7,0.0,0.0,0.0,25.1,97,120,1.6,-12.5,Mateen Cleaves
+2005-11-18,28-072,SEA,HOME,CHI,W (+14),0,15:55,.922,.875,0.0,19.2,10.9,43.2,0.0,0.0,17.0,18.2,163,100,9.7,10.5,Mateen Cleaves
+2005-11-20,28-074,SEA,HOME,SAC,W (+2),0,14:29,.400,.400,0.0,0.0,0.0,39.7,0.0,0.0,0.0,15.7,119,123,3.7,-4.6,Mateen Cleaves
+2005-11-22,28-076,SEA,HOME,UTA,L (-6),0,13:52,.945,.833,0.0,10.8,4.7,0.0,0.0,0.0,17.4,19.9,157,117,5.8,4.0,Mateen Cleaves
+2005-11-24,28-078,SEA,AWAY,LAL,L (-12),0,21:19,.557,.500,0.0,0.0,0.0,46.9,0.0,0.0,23.3,27.7,103,128,6.0,-2.2,Mateen Cleaves
+2005-11-26,28-080,SEA,HOME,NOK,L (-6),0,9:15,.250,.250,0.0,0.0,0.0,30.7,0.0,0.0,20.0,23.2,65,125,-0.4,-16.9,Mateen Cleaves
+2005-12-09,28-093,SEA,AWAY,UTA,W (+16),0,1:35,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,50.0,56.0,0,113,-1.7,-69.5,Mateen Cleaves
+2005-12-10,28-094,SEA,HOME,SAC,L (-19),0,7:46,.431,.000,0.0,23.8,9.2,32.5,6.9,0.0,17.7,31.1,95,125,3.1,0.5,Mateen Cleaves
+2005-12-16,28-100,SEA,AWAY,POR,W (+12),0,0:37,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,119,0.0,-8.9,Mateen Cleaves
+2005-12-20,28-104,SEA,AWAY,PHO,L (-28),0,6:57,.000,.000,0.0,35.4,15.2,0.0,7.6,0.0,0.0,17.5,0,104,-0.5,-10.0,Mateen Cleaves
+2005-12-23,28-107,SEA,HOME,DAL,L (-3),0,1:57,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,124,0.0,-8.8,Mateen Cleaves
+2005-12-26,28-110,SEA,HOME,BOS,W (+7),0,4:46,.000,.000,0.0,28.0,12.6,25.8,0.0,15.3,0.0,8.8,63,104,0.2,-2.6,Mateen Cleaves
+2005-12-28,28-112,SEA,AWAY,MIN,L (-13),0,5:58,.500,.500,18.7,0.0,10.4,59.7,0.0,0.0,33.3,21.5,103,120,1.7,-1.4,Mateen Cleaves
+2005-12-29,28-113,SEA,AWAY,DEN,W (+7),0,4:23,,,0.0,0.0,0.0,30.4,0.0,0.0,,0.0,236,115,0.7,0.0,Mateen Cleaves
+2006-02-01,28-147,SEA,HOME,GSW,W (+4),0,5:22,.000,.000,0.0,20.8,10.6,22.4,0.0,0.0,0.0,8.0,55,112,-0.1,-10.5,Mateen Cleaves
+2006-02-03,28-149,SEA,AWAY,HOU,L (-23),0,12:00,.000,.000,0.0,17.8,8.9,0.0,0.0,5.3,50.0,7.6,0,107,-0.4,-9.6,Mateen Cleaves
+2006-02-04,28-150,SEA,AWAY,DAL,L (-19),0,0:56,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0,0,130,-0.7,-47.0,Mateen Cleaves
+2006-02-06,28-152,SEA,AWAY,CHA,L (-13),0,14:37,.174,.000,9.1,9.4,9.3,17.3,3.4,0.0,25.8,11.2,67,120,1.2,-6.8,Mateen Cleaves
+2006-02-08,28-154,SEA,AWAY,NOK,L (-7),0,6:08,.258,.000,0.0,0.0,0.0,38.2,0.0,0.0,0.0,28.3,88,128,0.5,-15.2,Mateen Cleaves
+2006-02-10,28-156,SEA,HOME,ATL,W (+8),0,0:32,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,110,0.0,-10.2,Mateen Cleaves
+2006-02-12,28-158,SEA,HOME,DEN,L (-8),0,5:30,.667,.667,0.0,0.0,0.0,84.8,0.0,0.0,0.0,23.0,165,128,3.7,12.0,Mateen Cleaves
+2006-02-14,28-160,SEA,AWAY,MIL,L (-15),0,8:18,.500,.500,0.0,0.0,0.0,59.4,0.0,0.0,33.3,17.3,104,129,1.7,-3.8,Mateen Cleaves
+2002-10-29,25-052,SAC,HOME,CLE,W (+27),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2002-10-31,25-054,SAC,HOME,POR,W (+28),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2002-11-02,25-056,SAC,AWAY,MEM,W (+17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2002-11-03,25-057,SAC,AWAY,MIA,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2002-11-05,25-059,SAC,AWAY,ORL,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2002-11-06,25-060,SAC,AWAY,NYK,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2002-11-08,25-062,SAC,HOME,MEM,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2002-11-10,25-064,SAC,HOME,ATL,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2002-11-13,25-067,SAC,AWAY,GSW,W (+11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2002-11-17,25-071,SAC,HOME,ORL,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2002-11-19,25-073,SAC,HOME,CHI,W (+13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2002-11-20,25-074,SAC,AWAY,LAC,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2002-11-22,25-076,SAC,HOME,PHO,W (+17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2002-11-23,25-077,SAC,AWAY,POR,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2002-11-27,25-081,SAC,AWAY,MIN,L (-16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2002-11-29,25-083,SAC,HOME,LAC,W (+13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2002-12-01,25-085,SAC,HOME,HOU,W (+19),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2002-12-03,25-087,SAC,HOME,MIN,W (+12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2002-12-04,25-088,SAC,AWAY,DEN,W (+2),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Mateen Cleaves
+2002-12-06,25-090,SAC,HOME,DEN,W (+21),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Mateen Cleaves
+2002-12-08,25-092,SAC,AWAY,SAS,W (+24),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Mateen Cleaves
+2002-12-15,25-099,SAC,HOME,NOH,W (+15),0,2:03,.568,,0.0,0.0,0.0,57.1,0.0,0.0,0.0,21.0,149,113,1.3,13.0,Mateen Cleaves
+2002-12-17,25-101,SAC,HOME,PHO,W (+9),0,2:27,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,42.8,0,99,-1.4,-34.8,Mateen Cleaves
+2003-01-05,25-120,SAC,HOME,MIA,W (+26),0,6:47,.000,.000,0.0,30.3,18.4,0.0,0.0,0.0,40.0,32.8,0,67,-3.6,-39.2,Mateen Cleaves
+2003-01-07,25-122,SAC,AWAY,MIL,W (+25),0,2:47,,,0.0,0.0,0.0,39.0,0.0,0.0,,0.0,215,99,0.7,5.8,Mateen Cleaves
+2003-01-09,25-124,SAC,AWAY,NJN,W (+36),0,8:01,.250,.250,0.0,0.0,0.0,30.0,0.0,0.0,33.3,32.5,52,95,-1.4,-22.7,Mateen Cleaves
+2003-01-15,25-130,SAC,HOME,DAL,W (+29),0,3:40,1.064,1.000,0.0,25.0,14.0,33.3,12.2,0.0,61.5,52.6,81,71,1.9,-4.0,Mateen Cleaves
+2003-01-20,25-135,SAC,AWAY,GSW,W (+22),0,4:24,.000,.000,0.0,20.0,12.1,55.8,13.1,0.0,0.0,11.6,87,59,1.6,11.1,Mateen Cleaves
+2003-01-30,25-145,SAC,AWAY,SEA,W (+18),0,1:29,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,93,0.0,-7.6,Mateen Cleaves
+2003-02-02,25-148,SAC,AWAY,HOU,L (-16),0,6:17,.875,.875,0.0,0.0,0.0,0.0,0.0,0.0,42.9,50.2,70,117,2.4,-2.3,Mateen Cleaves
+2003-02-05,25-151,SAC,AWAY,NOH,L (-24),0,8:12,.200,.200,0.0,13.6,6.5,0.0,0.0,0.0,16.7,32.3,38,124,-2.2,-27.0,Mateen Cleaves
+2003-02-11,25-157,SAC,HOME,WAS,W (+19),0,3:43,.000,.000,25.5,0.0,11.1,57.1,0.0,0.0,33.3,32.5,49,97,-0.3,-14.0,Mateen Cleaves
+2003-02-14,25-160,SAC,HOME,SEA,W (+29),0,5:01,.000,.000,0.0,18.8,12.0,20.9,0.0,0.0,66.7,29.3,22,91,-1.7,-27.0,Mateen Cleaves
+2004-03-29,26-204,CLE,AWAY,SAS,L (-8),0,13:12,0.0,0.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0,7.1,52,121,-0.8,-11.7,Mateen Cleaves
+2004-03-30,26-205,CLE,AWAY,DAL,L (-17),0,22:52,0.4,0.4,0.0,4.7,2.3,31.4,2.1,2.6,28.6,12.2,89,126,3.5,-3.6,Mateen Cleaves
+2004-04-02,26-208,CLE,AWAY,MIL,L (-18),1,33:10,0.5,0.5,0.0,6.9,3.8,35.1,1.6,0.0,11.1,13.0,114,119,9.0,-1.2,Mateen Cleaves
+2004-04-03,26-209,CLE,HOME,GSW,L (-3),1,22:07,0.169,0.125,3.8,20.2,9.7,19.6,4.7,3.7,18.4,19.5,52,107,0.6,-8.9,Mateen Cleaves
+2004-11-05,27-059,SEA,HOME,ATL,W (+21),0,1:58,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,111,-0.4,-16.5,Mateen Cleaves
+2004-11-07,27-061,SEA,HOME,SAS,W (+19),0,0:19,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,119,0.0,-2.8,Mateen Cleaves
+2004-11-09,27-063,SEA,AWAY,DEN,W (+20),0,1:29,1.000,1.000,0.0,100.0,64.9,0.0,0.0,0.0,0.0,43.8,200,81,2.0,30.6,Mateen Cleaves
+2004-11-10,27-064,SEA,HOME,SAC,W (+30),0,3:49,,,29.3,0.0,12.9,35.3,13.3,0.0,,0.0,221,72,2.4,33.6,Mateen Cleaves
+2004-11-21,27-075,SEA,AWAY,BOS,L (-19),0,1:52,,,0.0,0.0,0.0,85.7,0.0,0.0,100.0,23.3,34,122,-0.3,-17.9,Mateen Cleaves
+2004-11-24,27-078,SEA,AWAY,MEM,W (+9),0,0:32,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,113,0.0,-4.1,Mateen Cleaves
+2004-11-26,27-080,SEA,HOME,NJN,W (+13),0,1:30,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,104,0.0,-4.8,Mateen Cleaves
+2004-12-04,27-088,SEA,HOME,POR,W (+10),0,0:55,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,113,0.0,-7.6,Mateen Cleaves
+2005-01-31,27-146,SEA,HOME,SAS,L (-19),0,1:54,,,0.0,0.0,0.0,80.0,0.0,0.0,,0.0,213,131,0.7,10.8,Mateen Cleaves
+2005-02-05,27-151,SEA,HOME,CHA,W (+14),0,1:22,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,118,0.0,-7.4,Mateen Cleaves
+2005-04-08,27-213,SEA,HOME,LAL,L (-23),0,3:34,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.8,0,145,-1.1,-28.6,Mateen Cleaves
+2005-04-09,27-214,SEA,AWAY,DEN,L (-16),0,12:00,.387,.333,0.0,14.8,5.6,33.3,0.0,0.0,0.0,13.7,115,136,3.3,-2.9,Mateen Cleaves
+2005-04-15,27-220,SEA,HOME,NOH,W (+25),0,2:35,.000,.000,0.0,0.0,0.0,47.1,0.0,0.0,0.0,16.0,59,96,0.0,-9.9,Mateen Cleaves
+2005-04-20,27-225,SEA,AWAY,HOU,L (-28),0,30:46,.450,.375,3.9,10.3,6.6,0.0,2.0,0.0,10.1,16.8,90,134,4.9,-6.6,Mateen Cleaves

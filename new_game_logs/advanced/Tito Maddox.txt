@@ -1,0 +1,12 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+2002-11-29,21-175,HOU,AWAY,SEA,W (+11),0,0:02,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,96,0.0,-6.8,Tito Maddox
+2002-12-01,21-177,HOU,AWAY,SAC,L (-19),0,7:09,.868,1.000,0.0,16.3,8.9,0.0,7.6,0.0,25.8,27.1,109,102,4.3,11.1,Tito Maddox
+2002-12-06,21-182,HOU,AWAY,NOH,L (-2),0,2:29,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,107,0.0,-5.8,Tito Maddox
+2003-02-21,21-259,HOU,HOME,DAL,L (-15),0,3:05,.515,.333,0.0,0.0,0.0,0.0,18.2,0.0,0.0,55.8,127,83,3.3,33.7,Tito Maddox
+2003-02-22,21-260,HOU,HOME,MEM,W (+11),0,10:50,.000,.000,0.0,19.4,9.5,33.6,0.0,5.8,0.0,20.7,37,88,-0.9,-10.2,Tito Maddox
+2003-02-27,21-265,HOU,AWAY,WAS,L (-2),0,0:30,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,115,0.0,-6.5,Tito Maddox
+2003-03-08,21-274,HOU,HOME,NJN,W (+12),0,2:02,.568,,0.0,53.3,26.7,0.0,0.0,0.0,0.0,21.2,122,74,0.9,5.8,Tito Maddox
+2003-03-14,21-280,HOU,HOME,CHI,W (+30),0,3:56,.266,.000,0.0,53.3,32.4,29.3,0.0,0.0,0.0,21.9,86,87,1.2,-9.2,Tito Maddox
+2003-03-16,21-282,HOU,HOME,PHO,W (+10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tito Maddox
+2003-03-27,21-293,HOU,AWAY,SAS,L (-13),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Tito Maddox
+2003-04-06,21-303,HOU,HOME,ORL,W (+21),0,3:58,.000,.000,35.3,0.0,16.2,30.0,12.4,0.0,66.7,31.6,37,79,-1.1,-19.3,Tito Maddox

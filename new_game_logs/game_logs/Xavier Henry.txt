@@ -1,0 +1,227 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2012-11-02,21-232,NOH,HOME,UTA,W (+2),0,7:54,1,2,.500,0,0,,0,1,.000,1,1,2,0,0,0,1,0,2,0.6,-9,Xavier Henry
+2012-11-03,21-233,NOH,AWAY,CHI,W (+7),0,3:08,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3,Xavier Henry
+2012-11-07,21-237,NOH,HOME,PHI,L (-15),0,14:24,2,5,.400,0,0,,1,2,.500,0,2,2,1,0,0,0,0,5,3.2,+9,Xavier Henry
+2012-11-14,21-244,NOH,AWAY,HOU,L (-4),0,15:29,1,2,.500,0,0,,0,0,,0,1,1,0,0,0,0,2,2,0.5,+9,Xavier Henry
+2012-11-20,21-250,NOH,HOME,NYK,L (-22),0,18:56,2,6,.333,0,0,,0,0,,0,4,4,0,1,0,1,0,4,1.8,-10,Xavier Henry
+2012-11-23,21-253,NOH,AWAY,PHO,L (-3),0,11:23,2,5,.400,1,1,1.000,0,0,,0,0,0,0,0,0,0,2,5,1.5,-17,Xavier Henry
+2012-11-25,21-255,NOH,AWAY,DEN,L (-18),0,11:38,2,6,.333,0,0,,1,3,.333,1,1,2,0,0,0,0,1,5,1.4,+5,Xavier Henry
+2012-12-01,21-261,NOH,HOME,OKC,L (-21),0,10:52,1,3,.333,0,0,,2,4,.500,0,2,2,0,2,0,1,4,4,1.5,-2,Xavier Henry
+2012-12-03,21-263,NOH,HOME,MIL,W (+21),0,20:22,1,6,.167,0,0,,0,0,,2,0,2,1,0,0,0,3,2,-0.9,+17,Xavier Henry
+2012-12-05,21-265,NOH,HOME,LAL,L (-16),0,19:15,2,5,.400,1,1,1.000,3,5,.600,1,5,6,3,1,0,1,2,8,8.0,-7,Xavier Henry
+2012-12-07,21-267,NOH,HOME,MEM,L (-7),1,20:45,4,6,.667,1,1,1.000,3,4,.750,0,3,3,0,1,0,0,3,12,9.7,-2,Xavier Henry
+2012-12-08,21-268,NOH,AWAY,MIA,L (-16),1,21:06,2,2,1.000,0,0,,1,1,1.000,0,2,2,1,0,0,0,2,5,4.9,-6,Xavier Henry
+2012-12-12,21-272,NOH,AWAY,OKC,L (-4),0,12:14,2,6,.333,0,0,,2,4,.500,2,1,3,0,0,0,2,2,6,0.7,-6,Xavier Henry
+2012-12-14,21-274,NOH,HOME,MIN,L (-11),0,6:15,2,2,1.000,0,0,,0,1,.000,0,1,1,0,0,0,1,0,4,2.3,0,Xavier Henry
+2012-12-16,21-276,NOH,AWAY,POR,L (-1),0,15:20,0,2,.000,0,0,,0,0,,0,1,1,0,1,0,2,1,0,-2.5,-1,Xavier Henry
+2012-12-19,21-279,NOH,AWAY,LAC,L (-16),0,6:08,0,0,,0,0,,2,2,1.000,0,2,2,0,0,0,0,0,2,2.6,+8,Xavier Henry
+2012-12-21,21-281,NOH,AWAY,SAS,L (-5),0,13:34,2,3,.667,0,0,,4,5,.800,1,3,4,0,1,0,2,2,8,6.1,+5,Xavier Henry
+2012-12-22,21-282,NOH,HOME,IND,L (-6),0,20:04,2,5,.400,0,0,,1,2,.500,3,2,5,0,0,1,1,3,5,3.1,-1,Xavier Henry
+2012-12-26,21-286,NOH,AWAY,ORL,W (+3),0,3:26,1,2,.500,0,0,,0,0,,0,1,1,0,1,0,0,0,2,2.3,0,Xavier Henry
+2012-12-28,21-288,NOH,HOME,TOR,L (-7),0,4:41,0,0,,0,0,,2,2,1.000,0,0,0,0,0,0,0,0,2,2.0,-3,Xavier Henry
+2012-12-29,21-289,NOH,AWAY,CHA,W (+3),0,9:14,1,5,.200,0,1,.000,0,0,,0,0,0,1,0,0,0,1,2,-0.8,-18,Xavier Henry
+2013-01-11,21-302,NOH,HOME,MIN,W (+12),0,4:43,0,0,,0,0,,0,0,,1,0,1,1,0,0,0,0,0,1.4,-2,Xavier Henry
+2013-01-13,21-304,NOH,AWAY,NYK,L (-13),0,9:03,3,4,.750,0,0,,0,0,,0,0,0,0,0,0,1,1,6,3.0,+3,Xavier Henry
+2013-01-15,21-306,NOH,AWAY,PHI,W (+12),0,14:46,4,7,.571,1,2,.500,2,2,1.000,2,2,4,1,2,0,0,4,11,10.8,+8,Xavier Henry
+2013-01-16,21-307,NOH,AWAY,BOS,W (+12),0,17:39,0,2,.000,0,1,.000,0,0,,0,3,3,0,0,0,0,1,0,-0.9,0,Xavier Henry
+2013-01-19,21-310,NOH,HOME,GSW,L (-4),0,7:31,0,1,.000,0,0,,1,2,.500,0,0,0,0,0,0,1,0,1,-1.1,-5,Xavier Henry
+2013-01-23,21-314,NOH,AWAY,SAS,L (-4),0,4:15,1,2,.500,0,0,,0,2,.000,1,0,1,1,0,0,0,2,2,0.8,+7,Xavier Henry
+2013-01-25,21-316,NOH,HOME,HOU,L (-18),0,7:05,0,0,,0,0,,0,0,,0,2,2,1,0,0,0,2,0,0.5,-5,Xavier Henry
+2013-01-30,21-321,NOH,AWAY,UTA,L (-5),0,13:25,1,2,.500,0,1,.000,1,4,.250,0,1,1,0,0,0,1,1,3,-0.3,-12,Xavier Henry
+2013-02-01,21-323,NOH,AWAY,DEN,L (-15),0,24:18,3,4,.750,0,0,,0,0,,0,3,3,0,0,0,1,5,6,2.3,-10,Xavier Henry
+2013-02-02,21-324,NOH,AWAY,MIN,L (-29),0,16:20,2,5,.400,0,0,,2,3,.667,0,2,2,0,1,0,1,4,6,1.9,-13,Xavier Henry
+2013-02-06,21-328,NOH,HOME,PHO,W (+9),0,17:37,2,6,.333,0,1,.000,0,0,,0,1,1,0,1,0,0,0,4,1.9,+4,Xavier Henry
+2013-02-08,21-330,NOH,AWAY,ATL,W (+11),0,3:04,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-5,Xavier Henry
+2013-02-10,21-332,NOH,AWAY,TOR,L (-13),0,0:48,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Xavier Henry
+2013-02-13,21-335,NOH,HOME,POR,W (+36),0,1:43,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-1,Xavier Henry
+2013-02-20,21-342,NOH,AWAY,CLE,L (-5),0,6:57,0,1,.000,0,0,,0,0,,0,1,1,0,0,1,0,0,0,0.3,-4,Xavier Henry
+2013-02-24,21-346,NOH,HOME,SAC,W (+15),0,0:59,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-5,Xavier Henry
+2013-02-27,21-349,NOH,AWAY,OKC,L (-45),0,23:36,2,6,.333,0,1,.000,5,6,.833,1,0,1,0,0,0,2,2,9,3.1,-27,Xavier Henry
+2013-03-01,21-351,NOH,HOME,DET,W (+5),0,6:53,0,0,,0,0,,0,0,,0,1,1,0,1,0,1,0,0,0.3,-2,Xavier Henry
+2013-03-04,21-354,NOH,HOME,ORL,L (-3),0,15:49,3,6,.500,0,1,.000,2,2,1.000,0,3,3,1,0,1,0,0,8,7.3,+6,Xavier Henry
+2013-03-25,22-010,NOH,HOME,DEN,W (+24),0,10:55,1,4,.250,0,0,,0,0,,0,0,0,0,0,0,1,2,2,-2.2,+2,Xavier Henry
+2013-03-31,22-016,NOH,HOME,CLE,W (+20),0,0:27,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Xavier Henry
+2013-04-03,22-019,NOH,AWAY,GSW,L (-10),0,1:32,0,0,,0,0,,1,4,.250,0,1,1,0,0,0,0,0,1,0.1,+6,Xavier Henry
+2013-04-05,22-021,NOH,AWAY,UTA,L (-12),0,17:29,0,5,.000,0,0,,3,4,.750,1,1,2,0,1,0,1,0,3,0.1,-22,Xavier Henry
+2013-04-07,22-023,NOH,AWAY,PHO,W (+3),0,17:34,3,6,.500,0,0,,2,2,1.000,2,4,6,0,0,1,0,1,8,7.9,-4,Xavier Henry
+2013-04-09,22-025,NOH,AWAY,LAL,L (-8),0,28:34,3,4,.750,0,0,,0,0,,0,4,4,1,1,1,2,5,6,4.0,+7,Xavier Henry
+2013-04-10,22-026,NOH,AWAY,SAC,L (-11),0,27:54,5,7,.714,0,0,,5,8,.625,1,3,4,0,0,0,2,2,15,9.7,-10,Xavier Henry
+2013-04-12,22-028,NOH,HOME,LAC,L (-3),0,18:38,2,5,.400,0,0,,0,2,.000,0,1,1,0,0,0,1,5,4,-2.2,-2,Xavier Henry
+2013-04-14,22-030,NOH,HOME,DAL,L (-18),0,19:38,0,6,.000,0,0,,8,10,.800,0,1,1,0,1,0,1,3,8,2.1,-20,Xavier Henry
+2013-04-17,22-033,NOH,AWAY,DAL,L (-12),0,19:49,1,5,.200,0,0,,4,5,.800,1,3,4,0,0,0,3,3,6,-0.1,-5,Xavier Henry
+2014-10-28,23-227,LAL,HOME,HOU,L (-18),0,18:28,0,4,.000,0,0,,3,4,.750,1,0,1,0,1,0,0,1,3,1.1,-6,Xavier Henry
+2014-10-31,23-230,LAL,HOME,LAC,L (-7),0,5:18,0,0,,0,0,,2,4,.500,0,0,0,0,0,0,0,0,2,1.2,+1,Xavier Henry
+2014-11-01,23-231,LAL,AWAY,GSW,L (-23),0,9:25,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-13,Xavier Henry
+2014-11-09,23-239,LAL,HOME,CHO,W (+15),0,7:22,0,2,.000,0,0,,0,0,,0,0,0,0,1,0,1,0,0,-1.4,+2,Xavier Henry
+2014-11-11,23-241,LAL,AWAY,MEM,L (-5),0,6:20,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,1,1,2,-0.4,-3,Xavier Henry
+2014-11-12,23-242,LAL,AWAY,NOP,L (-7),0,10:18,1,2,.500,0,0,,0,2,.000,0,0,0,1,1,0,0,1,2,1.5,+14,Xavier Henry
+2014-11-14,23-244,LAL,HOME,SAS,L (-13),0,4:23,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,+11,Xavier Henry
+2014-11-16,23-246,LAL,HOME,GSW,L (-21),0,12:00,1,1,1.000,0,0,,6,8,.750,1,1,2,2,0,0,1,3,8,7.1,+15,Xavier Henry
+2014-11-21,23-251,LAL,AWAY,DAL,L (-34),0,12:00,0,1,.000,0,0,,3,6,.500,0,0,0,0,0,0,0,0,3,1.1,-7,Xavier Henry
+2014-11-26,23-256,LAL,HOME,MEM,L (-6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Xavier Henry
+2014-11-28,23-258,LAL,HOME,MIN,L (-1),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Xavier Henry
+2014-11-30,23-260,LAL,HOME,TOR,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Xavier Henry
+2014-12-02,23-262,LAL,AWAY,DET,W (+10),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Xavier Henry
+2014-12-03,23-263,LAL,AWAY,WAS,L (-16),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Xavier Henry
+2014-12-05,23-265,LAL,AWAY,BOS,L (-17),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Xavier Henry
+2014-12-07,23-267,LAL,HOME,NOP,L (-17),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Xavier Henry
+2014-12-09,23-269,LAL,HOME,SAC,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Xavier Henry
+2014-12-12,23-272,LAL,AWAY,SAS,W (+2),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Xavier Henry
+2014-12-14,23-274,LAL,AWAY,MIN,W (+6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Xavier Henry
+2014-12-15,23-275,LAL,AWAY,IND,L (-19),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Xavier Henry
+2014-12-19,23-279,LAL,HOME,OKC,L (-1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Xavier Henry
+2014-12-23,23-283,LAL,HOME,GSW,W (+10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Xavier Henry
+2014-12-25,23-285,LAL,AWAY,CHI,L (-20),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Xavier Henry
+2014-12-26,23-286,LAL,AWAY,DAL,L (-4),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Xavier Henry
+2012-01-01,20-292,MEM,AWAY,CHI,L (-40),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Xavier Henry
+2012-01-03,20-294,MEM,HOME,SAC,W (+17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Xavier Henry
+2012-01-25,20-316,NOH,AWAY,OKC,L (-10),0,13:00,1,5,.200,0,0,,1,2,.500,0,0,0,1,0,0,1,1,3,-1.2,+1,Xavier Henry
+2012-01-27,20-318,NOH,HOME,ORL,W (+26),0,8:50,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,1,2,2,-0.1,+4,Xavier Henry
+2012-01-29,20-320,NOH,HOME,ATL,L (-22),0,6:50,1,3,.333,1,1,1.000,1,2,.500,0,1,1,0,0,0,0,0,4,2.2,-5,Xavier Henry
+2012-01-30,20-321,NOH,AWAY,MIA,L (-14),0,15:06,1,4,.250,1,2,.500,0,0,,0,2,2,1,0,0,2,2,3,-0.9,0,Xavier Henry
+2012-02-06,20-328,NOH,HOME,SAC,L (-8),0,10:28,4,7,.571,0,0,,0,1,.000,1,1,2,0,1,1,0,1,8,6.6,+3,Xavier Henry
+2012-02-08,20-330,NOH,HOME,CHI,L (-23),0,18:56,2,4,.500,0,0,,0,1,.000,0,0,0,3,0,0,2,0,4,1.7,+3,Xavier Henry
+2012-02-10,20-332,NOH,HOME,POR,L (-8),0,13:50,1,3,.333,0,1,.000,2,4,.500,0,0,0,0,0,1,0,1,4,1.8,-7,Xavier Henry
+2012-02-13,20-335,NOH,HOME,UTA,W (+6),0,14:02,1,3,.333,0,1,.000,2,7,.286,0,0,0,0,2,0,2,1,4,-0.1,+4,Xavier Henry
+2012-02-15,20-337,NOH,AWAY,MIL,W (+3),0,13:16,3,3,1.000,0,0,,0,0,,1,3,4,0,0,0,2,1,6,4.3,-6,Xavier Henry
+2012-02-17,20-339,NOH,AWAY,NYK,W (+4),0,10:02,0,1,.000,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0.0,+4,Xavier Henry
+2012-02-20,20-342,NOH,AWAY,OKC,L (-8),0,16:29,1,6,.167,0,0,,4,4,1.000,2,1,3,1,0,0,0,0,6,4.6,-2,Xavier Henry
+2012-02-21,20-343,NOH,AWAY,IND,L (-9),0,12:31,2,3,.667,0,1,.000,1,3,.333,1,2,3,0,0,0,0,0,5,4.2,+1,Xavier Henry
+2012-02-22,20-344,NOH,AWAY,CLE,W (+5),0,11:29,1,4,.250,0,0,,0,0,,0,2,2,2,0,0,0,2,2,0.8,-7,Xavier Henry
+2012-02-28,20-350,NOH,AWAY,CHI,L (-4),0,18:26,3,10,.300,0,1,.000,6,7,.857,1,5,6,0,1,0,1,2,12,7.2,+9,Xavier Henry
+2012-02-29,20-351,NOH,HOME,TOR,L (-11),0,5:56,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-14,Xavier Henry
+2012-03-02,20-353,NOH,HOME,DAL,W (+5),0,24:22,8,12,.667,1,1,1.000,2,2,1.000,3,1,4,2,2,0,1,0,19,18.6,+6,Xavier Henry
+2012-03-03,20-354,NOH,HOME,IND,L (-18),0,26:16,4,11,.364,1,2,.500,0,1,.000,3,3,6,2,1,0,0,3,9,6.7,+2,Xavier Henry
+2012-03-05,20-356,NOH,AWAY,POR,L (-12),0,18:05,4,6,.667,1,1,1.000,0,0,,0,2,2,0,0,0,1,0,9,6.0,+10,Xavier Henry
+2012-03-07,20-358,NOH,AWAY,SAC,L (-1),0,15:02,1,1,1.000,0,0,,0,0,,0,1,1,1,0,0,1,2,2,0.9,+4,Xavier Henry
+2012-03-09,20-360,NOH,AWAY,DEN,L (-13),0,24:58,4,14,.286,0,1,.000,4,4,1.000,2,3,5,1,2,0,1,4,12,6.2,-6,Xavier Henry
+2012-03-10,20-361,NOH,AWAY,MIN,W (+6),0,19:52,2,8,.250,0,0,,0,0,,0,4,4,2,0,0,0,0,4,1.8,+10,Xavier Henry
+2012-03-12,20-363,NOH,HOME,CHA,L (-2),0,14:19,1,3,.333,0,0,,0,0,,0,0,0,2,0,0,0,0,2,1.7,-12,Xavier Henry
+2012-03-14,20-365,NOH,HOME,LAL,L (-6),0,6:07,0,2,.000,0,0,,0,2,.000,0,1,1,0,0,1,1,1,0,-2.6,-1,Xavier Henry
+2012-03-15,21-000,NOH,HOME,WAS,L (-10),0,5:06,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-6,Xavier Henry
+2012-03-17,21-002,NOH,AWAY,NJN,W (+8),0,14:44,1,3,.333,0,0,,2,2,1.000,1,1,2,0,0,1,0,1,4,3.6,-1,Xavier Henry
+2012-03-21,21-006,NOH,HOME,GSW,L (-9),0,25:33,6,14,.429,0,0,,1,2,.500,0,3,3,2,1,0,1,0,13,7.5,-12,Xavier Henry
+2012-03-22,21-007,NOH,HOME,LAC,W (+7),0,25:34,3,4,.750,1,1,1.000,5,6,.833,0,3,3,1,0,0,0,1,12,11.2,+7,Xavier Henry
+2012-03-24,21-009,NOH,HOME,SAS,L (-3),0,16:57,0,4,.000,0,0,,0,0,,0,2,2,1,0,0,0,1,0,-1.9,0,Xavier Henry
+2012-03-26,21-011,NOH,AWAY,LAC,L (-12),0,21:44,2,5,.400,0,1,.000,4,6,.667,0,2,2,0,1,0,0,1,8,5.7,-1,Xavier Henry
+2012-03-28,21-013,NOH,AWAY,GSW,W (+15),0,22:26,3,8,.375,0,1,.000,2,4,.500,0,1,1,0,1,0,0,2,8,3.3,+9,Xavier Henry
+2012-03-29,21-014,NOH,AWAY,POR,L (-6),0,26:57,1,7,.143,0,0,,0,0,,0,3,3,1,2,0,0,1,2,0.7,-16,Xavier Henry
+2012-03-31,21-016,NOH,AWAY,LAL,L (-3),0,19:48,4,6,.667,0,0,,0,2,.000,1,4,5,2,0,0,1,1,8,6.5,+7,Xavier Henry
+2012-04-01,21-017,NOH,AWAY,PHO,L (-17),0,21:46,1,4,.250,0,0,,2,4,.500,0,1,1,0,1,0,2,2,4,-0.7,-6,Xavier Henry
+2012-04-04,21-020,NOH,HOME,DEN,W (+2),0,16:15,4,7,.571,0,0,,0,0,,1,2,3,1,0,1,0,1,8,7.0,-2,Xavier Henry
+2012-04-06,21-022,NOH,AWAY,SAS,L (-25),0,23:08,3,6,.500,0,0,,2,3,.667,1,2,3,0,1,1,0,3,8,6.4,-12,Xavier Henry
+2012-04-07,21-023,NOH,HOME,MIN,W (+9),0,16:55,2,6,.333,0,0,,0,0,,0,2,2,1,1,0,2,1,4,0.5,-9,Xavier Henry
+2012-04-09,21-025,NOH,HOME,LAL,L (-2),0,22:36,1,8,.125,0,1,.000,0,0,,2,4,6,2,2,0,0,1,2,2.4,-1,Xavier Henry
+2012-04-11,21-027,NOH,HOME,SAC,W (+9),0,23:57,6,7,.857,0,0,,2,2,1.000,0,3,3,1,1,0,1,2,14,12.3,+19,Xavier Henry
+2012-04-13,21-029,NOH,HOME,UTA,W (+11),0,12:29,2,3,.667,1,1,1.000,1,2,.500,1,2,3,1,1,0,1,4,6,4.7,0,Xavier Henry
+2012-04-15,21-031,NOH,HOME,MEM,W (+13),0,22:11,2,5,.400,0,0,,0,0,,1,1,2,0,1,0,0,1,4,2.9,-6,Xavier Henry
+2012-04-16,21-032,NOH,AWAY,CHA,W (+8),0,17:34,0,5,.000,0,0,,2,2,1.000,1,5,6,2,1,1,0,2,2,3.0,+7,Xavier Henry
+2012-04-18,21-034,NOH,AWAY,MEM,L (-12),0,24:48,1,3,.333,0,0,,1,4,.250,0,2,2,1,0,0,5,2,3,-4.4,-4,Xavier Henry
+2012-04-19,21-035,NOH,HOME,HOU,W (+6),0,16:42,0,2,.000,0,0,,0,0,,0,4,4,0,1,0,2,2,0,-2.0,-3,Xavier Henry
+2012-04-22,21-038,NOH,AWAY,LAC,L (-9),0,16:38,2,4,.500,0,0,,4,4,1.000,1,3,4,1,1,0,2,3,8,6.1,+1,Xavier Henry
+2012-04-24,21-040,NOH,AWAY,GSW,W (+2),0,7:05,0,1,.000,0,0,,1,2,.500,0,0,0,0,1,0,2,2,1,-1.9,-3,Xavier Henry
+2013-10-29,22-228,LAL,HOME,LAC,W (+13),0,26:24,8,13,.615,3,4,.750,3,8,.375,2,4,6,2,1,0,1,1,22,17.7,+15,Xavier Henry
+2013-10-30,22-229,LAL,AWAY,GSW,L (-31),0,35:31,4,11,.364,0,1,.000,6,9,.667,0,4,4,1,0,0,4,5,14,2.6,-20,Xavier Henry
+2013-11-01,22-231,LAL,HOME,SAS,L (-6),0,22:00,0,6,.000,0,2,.000,3,6,.500,0,3,3,1,0,0,0,4,3,-2.4,+5,Xavier Henry
+2013-11-03,22-233,LAL,HOME,ATL,W (+2),1,25:56,5,11,.455,2,4,.500,6,8,.750,0,0,0,1,0,0,1,1,18,10.8,+4,Xavier Henry
+2013-11-05,22-235,LAL,AWAY,DAL,L (-19),1,21:00,2,8,.250,0,4,.000,1,2,.500,0,0,0,1,3,2,0,1,5,4.5,-13,Xavier Henry
+2013-11-07,22-237,LAL,AWAY,HOU,W (+1),0,13:56,1,5,.200,0,0,,1,2,.500,1,0,1,1,1,0,3,3,3,-2.3,-10,Xavier Henry
+2013-11-08,22-238,LAL,AWAY,NOP,L (-11),0,16:23,2,5,.400,0,0,,2,2,1.000,1,1,2,1,0,0,1,1,6,3.6,+6,Xavier Henry
+2013-11-10,22-240,LAL,HOME,MIN,L (-23),0,14:15,1,8,.125,0,0,,0,4,.000,3,5,8,1,1,0,0,0,2,0.5,-11,Xavier Henry
+2013-11-12,22-242,LAL,HOME,NOP,W (+21),0,22:09,6,8,.750,3,3,1.000,0,0,,0,2,2,1,3,0,5,3,15,9.9,+20,Xavier Henry
+2013-11-13,22-243,LAL,AWAY,DEN,L (-12),0,15:50,2,5,.400,1,2,.500,1,2,.500,1,0,1,0,0,0,1,2,6,1.8,-14,Xavier Henry
+2013-11-15,22-245,LAL,HOME,MEM,L (-3),0,6:53,0,2,.000,0,0,,0,0,,1,0,1,1,0,0,1,0,0,-1.0,+1,Xavier Henry
+2013-11-17,22-247,LAL,HOME,DET,W (+15),0,19:48,2,4,.500,0,1,.000,0,0,,0,2,2,0,1,0,0,3,4,2.4,+11,Xavier Henry
+2013-11-22,22-252,LAL,HOME,GSW,W (+7),0,20:06,1,5,.200,0,0,,1,4,.250,1,3,4,0,2,0,1,0,3,1.3,+18,Xavier Henry
+2013-11-24,22-254,LAL,HOME,SAC,W (+14),0,20:58,7,11,.636,2,4,.500,5,6,.833,0,2,2,0,0,0,3,1,21,12.9,+9,Xavier Henry
+2013-11-26,22-256,LAL,AWAY,WAS,L (-5),0,11:37,2,5,.400,1,2,.500,3,3,1.000,1,3,4,0,0,0,0,0,8,6.9,0,Xavier Henry
+2013-11-27,22-257,LAL,AWAY,BRK,W (+5),0,12:38,1,1,1.000,0,0,,3,4,.750,0,1,1,0,0,0,0,1,5,4.2,+11,Xavier Henry
+2013-11-29,22-259,LAL,AWAY,DET,W (+4),0,13:26,1,3,.333,0,0,,1,3,.333,0,1,1,1,2,0,0,4,3,1.9,+4,Xavier Henry
+2013-12-01,22-261,LAL,HOME,POR,L (-6),0,29:01,9,12,.750,2,4,.500,7,11,.636,1,4,5,1,1,0,1,2,27,22.4,+23,Xavier Henry
+2013-12-06,22-266,LAL,AWAY,SAC,W (+6),0,17:05,2,4,.500,0,0,,0,0,,0,1,1,3,1,0,3,1,4,2.0,-1,Xavier Henry
+2013-12-08,22-268,LAL,HOME,TOR,L (-12),0,14:08,6,8,.750,2,3,.667,3,3,1.000,0,2,2,2,1,0,0,2,17,16.0,+9,Xavier Henry
+2013-12-10,22-270,LAL,HOME,PHO,L (-6),0,28:44,5,13,.385,1,4,.250,1,1,1.000,0,1,1,0,2,0,0,4,12,5.6,+1,Xavier Henry
+2013-12-13,22-273,LAL,AWAY,OKC,L (-25),0,27:05,3,7,.429,0,1,.000,9,16,.563,0,4,4,2,1,0,2,2,15,9.3,-16,Xavier Henry
+2013-12-14,22-274,LAL,AWAY,CHA,W (+3),0,20:59,1,6,.167,0,2,.000,2,2,1.000,0,1,1,2,0,1,0,0,4,2.6,+5,Xavier Henry
+2013-12-16,22-276,LAL,AWAY,ATL,L (-14),0,26:46,6,14,.429,0,2,.000,6,6,1.000,2,4,6,3,3,0,2,1,18,15.9,-5,Xavier Henry
+2013-12-17,22-277,LAL,AWAY,MEM,W (+4),0,19:40,2,8,.250,0,3,.000,1,2,.500,0,3,3,1,2,1,2,3,5,0.9,+1,Xavier Henry
+2013-12-20,22-280,LAL,HOME,MIN,W (+13),1,41:54,8,19,.421,1,3,.333,4,6,.667,0,4,4,4,3,0,3,1,21,13.7,+11,Xavier Henry
+2013-12-21,22-281,LAL,AWAY,GSW,L (-19),1,35:59,2,9,.222,0,3,.000,9,10,.900,0,3,3,2,2,0,3,2,13,7.6,-19,Xavier Henry
+2013-12-23,22-283,LAL,AWAY,PHO,L (-27),1,34:11,3,12,.250,0,2,.000,7,14,.500,1,5,6,0,1,1,1,3,13,4.7,-34,Xavier Henry
+2013-12-25,22-285,LAL,HOME,MIA,L (-6),0,25:57,5,8,.625,0,1,.000,4,7,.571,2,3,5,2,2,0,4,3,14,9.7,-6,Xavier Henry
+2013-12-27,22-287,LAL,AWAY,UTA,L (-2),0,30:07,5,7,.714,2,3,.667,0,2,.000,1,1,2,2,0,0,0,4,12,9.1,+2,Xavier Henry
+2013-12-29,22-289,LAL,HOME,PHI,L (-7),0,4:26,0,2,.000,0,1,.000,0,0,,0,1,1,0,0,0,1,0,0,-2.1,-5,Xavier Henry
+2013-12-31,22-291,LAL,HOME,MIL,L (-15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Xavier Henry
+2014-01-03,22-294,LAL,HOME,UTA,W (+11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Xavier Henry
+2014-01-05,22-296,LAL,HOME,DEN,L (-22),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Xavier Henry
+2014-01-07,22-298,LAL,AWAY,DAL,L (-13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Xavier Henry
+2014-01-08,22-299,LAL,AWAY,HOU,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Xavier Henry
+2014-01-10,22-301,LAL,AWAY,LAC,L (-36),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Xavier Henry
+2014-01-14,22-305,LAL,HOME,CLE,L (-2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Xavier Henry
+2014-01-15,22-306,LAL,AWAY,PHO,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Xavier Henry
+2014-01-17,22-308,LAL,AWAY,BOS,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Xavier Henry
+2014-01-19,22-310,LAL,AWAY,TOR,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Xavier Henry
+2014-01-20,22-311,LAL,AWAY,CHI,L (-2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Xavier Henry
+2014-01-23,22-314,LAL,AWAY,MIA,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Xavier Henry
+2014-01-24,22-315,LAL,AWAY,ORL,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Xavier Henry
+2014-01-26,22-317,LAL,AWAY,NYK,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Xavier Henry
+2014-01-28,22-319,LAL,HOME,IND,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Xavier Henry
+2014-01-31,22-322,LAL,HOME,CHA,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Xavier Henry
+2014-02-19,22-341,LAL,HOME,HOU,L (-26),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Xavier Henry
+2014-03-03,22-353,LAL,AWAY,POR,W (+1),0,4:54,0,2,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-1.4,-6,Xavier Henry
+2014-03-04,22-354,LAL,HOME,NOP,L (-7),0,14:22,4,7,.571,1,1,1.000,3,4,.750,0,1,1,2,0,0,1,2,12,8.2,+3,Xavier Henry
+2014-03-06,22-356,LAL,HOME,LAC,L (-48),0,19:19,5,10,.500,3,3,1.000,2,2,1.000,0,5,5,3,1,0,1,2,15,12.8,-14,Xavier Henry
+2014-03-07,22-357,LAL,AWAY,DEN,L (-8),0,31:20,3,7,.429,0,0,,4,4,1.000,1,4,5,3,2,0,3,4,10,7.7,+10,Xavier Henry
+2014-03-09,22-359,LAL,HOME,OKC,W (+4),0,12:51,1,3,.333,0,1,.000,2,2,1.000,0,0,0,0,0,0,2,1,4,-0.1,-11,Xavier Henry
+2014-03-13,22-363,LAL,AWAY,OKC,L (-29),0,21:53,3,14,.214,0,2,.000,1,2,.500,2,3,5,3,3,0,1,1,7,4.0,-9,Xavier Henry
+2014-03-14,22-364,LAL,AWAY,SAS,L (-34),0,16:36,1,7,.143,0,2,.000,4,4,1.000,1,1,2,1,1,1,0,0,6,4.9,-14,Xavier Henry
+2014-03-19,23-004,LAL,HOME,SAS,L (-16),0,32:16,9,22,.409,1,5,.200,5,7,.714,1,3,4,0,0,0,1,3,24,10.8,-9,Xavier Henry
+2014-03-21,23-006,LAL,HOME,WAS,L (-10),0,23:20,6,10,.600,0,1,.000,0,0,,1,2,3,2,2,0,2,3,12,8.9,0,Xavier Henry
+2014-03-23,23-008,LAL,HOME,ORL,W (+9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Xavier Henry
+2014-03-25,23-010,LAL,HOME,NYK,W (+31),0,23:20,8,11,.727,3,4,.750,3,5,.600,1,2,3,0,2,1,2,1,22,18.3,+16,Xavier Henry
+2014-03-27,23-012,LAL,AWAY,MIL,L (-3),0,19:59,2,8,.250,0,3,.000,3,4,.750,0,0,0,1,0,0,1,3,7,0.3,-11,Xavier Henry
+2014-03-28,23-013,LAL,AWAY,MIN,L (-36),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Xavier Henry
+2014-03-30,23-015,LAL,HOME,PHO,W (+16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Xavier Henry
+2014-04-01,23-017,LAL,HOME,POR,L (-12),0,13:08,0,4,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-3.2,+7,Xavier Henry
+2014-04-02,23-018,LAL,AWAY,SAC,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Xavier Henry
+2014-04-04,23-020,LAL,HOME,DAL,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Xavier Henry
+2010-10-27,19-226,MEM,HOME,ATL,L (-15),0,14:29,3,3,1.000,0,0,,0,0,,1,1,2,0,0,0,0,1,6,5.7,+2,Xavier Henry
+2010-10-29,19-228,MEM,AWAY,DAL,W (+1),0,12:27,1,7,.143,0,1,.000,4,6,.667,0,1,1,0,0,0,0,3,6,-0.2,-8,Xavier Henry
+2010-11-02,19-232,MEM,AWAY,LAL,L (-19),0,11:56,3,7,.429,0,1,.000,4,7,.571,2,1,3,0,0,0,0,2,10,6.0,-11,Xavier Henry
+2010-11-03,19-233,MEM,AWAY,GSW,L (-6),0,11:51,0,2,.000,0,1,.000,0,0,,0,1,1,1,1,0,2,4,0,-3.0,-5,Xavier Henry
+2010-11-06,19-236,MEM,AWAY,SAC,W (+9),0,15:07,3,6,.500,0,2,.000,3,4,.750,1,1,2,0,0,0,0,0,9,6.6,-5,Xavier Henry
+2010-11-08,19-238,MEM,HOME,PHO,W (+10),0,25:18,4,9,.444,0,1,.000,6,7,.857,0,0,0,0,2,0,1,0,14,9.9,0,Xavier Henry
+2010-11-10,19-240,MEM,HOME,DAL,L (-15),0,20:05,3,10,.300,0,1,.000,1,2,.500,1,2,3,1,0,0,0,1,7,2.4,-4,Xavier Henry
+2010-11-13,19-243,MEM,HOME,BOS,L (-6),0,3:57,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,-3,Xavier Henry
+2010-11-15,19-245,MEM,AWAY,ORL,L (-17),0,15:17,1,3,.333,0,1,.000,0,1,.000,0,0,0,0,0,0,0,2,2,-0.9,-11,Xavier Henry
+2010-11-16,19-246,MEM,HOME,POR,L (-1),0,5:40,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+5,Xavier Henry
+2010-11-19,19-249,MEM,AWAY,WAS,L (-3),0,10:34,1,4,.250,0,0,,0,2,.000,1,0,1,0,0,0,0,0,2,-0.5,+5,Xavier Henry
+2010-11-20,19-250,MEM,HOME,MIA,W (+2),1,26:18,1,9,.111,0,2,.000,4,4,1.000,0,2,2,3,0,0,0,1,6,2.4,+5,Xavier Henry
+2010-11-24,19-254,MEM,HOME,DET,W (+21),1,12:16,1,1,1.000,0,0,,0,2,.000,0,1,1,0,0,0,0,4,2,-0.4,-3,Xavier Henry
+2010-11-26,19-256,MEM,HOME,GSW,W (+5),1,18:26,3,5,.600,0,0,,0,0,,0,1,1,2,0,0,0,1,6,5.0,0,Xavier Henry
+2010-11-27,19-257,MEM,AWAY,CLE,L (-6),1,22:15,4,9,.444,1,1,1.000,0,0,,1,1,2,0,0,1,1,1,9,4.6,-13,Xavier Henry
+2010-11-30,19-260,MEM,HOME,LAL,W (+2),1,26:09,6,11,.545,0,1,.000,0,0,,0,0,0,1,0,0,0,3,12,6.2,+8,Xavier Henry
+2010-12-01,19-261,MEM,AWAY,ATL,L (-3),1,22:34,1,4,.250,0,0,,1,3,.333,0,0,0,1,0,1,0,3,3,0.0,+1,Xavier Henry
+2010-12-03,19-263,MEM,HOME,HOU,L (-16),1,16:14,3,4,.750,0,0,,2,2,1.000,1,0,1,1,0,0,3,3,8,3.6,-5,Xavier Henry
+2010-12-05,19-265,MEM,AWAY,DEN,L (-1),1,27:29,8,12,.667,1,2,.500,0,0,,0,2,2,3,0,0,0,3,17,13.3,+10,Xavier Henry
+2010-12-06,19-266,MEM,AWAY,UTA,L (-9),1,24:14,0,2,.000,0,0,,2,2,1.000,0,3,3,0,0,0,0,1,2,1.1,-5,Xavier Henry
+2010-12-08,19-268,MEM,AWAY,PHO,W (+6),1,33:08,4,11,.364,0,1,.000,0,0,,0,1,1,1,0,1,1,3,8,1.4,+9,Xavier Henry
+2010-12-11,19-271,MEM,AWAY,LAC,W (+1),1,14:48,0,0,,0,0,,2,2,1.000,0,1,1,0,0,0,1,3,2,0.1,+1,Xavier Henry
+2010-12-13,19-273,MEM,HOME,POR,W (+13),1,17:37,1,5,.200,0,2,.000,0,0,,1,0,1,2,1,0,2,1,2,-0.4,-5,Xavier Henry
+2010-12-15,19-275,MEM,HOME,CHA,W (+33),1,21:41,3,7,.429,0,0,,1,1,1.000,0,1,1,1,2,0,1,3,7,4.1,+1,Xavier Henry
+2010-12-17,19-277,MEM,AWAY,HOU,L (-16),1,13:46,0,3,.000,0,0,,0,0,,0,2,2,0,1,0,0,0,0,-0.5,+9,Xavier Henry
+2010-12-18,19-278,MEM,AWAY,SAS,L (-6),0,8:45,0,2,.000,0,0,,0,0,,0,1,1,0,1,0,0,1,0,-0.5,0,Xavier Henry
+2010-12-21,19-281,MEM,HOME,NJN,L (-7),1,19:03,5,6,.833,0,0,,1,2,.500,0,2,2,1,1,0,1,1,11,9.3,-2,Xavier Henry
+2010-12-26,19-286,MEM,AWAY,IND,W (+14),1,15:20,2,6,.333,0,0,,1,2,.500,0,2,2,0,0,0,0,1,5,1.4,+6,Xavier Henry
+2011-01-01,19-292,MEM,AWAY,UTA,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Xavier Henry
+2011-01-04,19-295,MEM,HOME,OKC,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Xavier Henry
+2011-01-28,19-319,MEM,AWAY,PHI,W (+5),0,7:01,1,3,.333,0,0,,1,1,1.000,0,0,0,0,0,0,0,0,3,1.3,+1,Xavier Henry
+2011-01-29,19-320,MEM,HOME,WAS,W (+14),0,5:15,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,0,0,1.0,-2,Xavier Henry
+2011-01-31,19-322,MEM,HOME,ORL,W (+3),0,2:52,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,Xavier Henry
+2011-02-02,19-324,MEM,AWAY,MIN,W (+18),0,1:09,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-5,Xavier Henry
+2011-02-04,19-326,MEM,HOME,CLE,W (+7),0,0:41,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-4,Xavier Henry
+2011-02-05,19-327,MEM,AWAY,HOU,L (-2),0,2:55,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,Xavier Henry
+2011-02-07,19-329,MEM,HOME,LAL,L (-9),0,0:36,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+3,Xavier Henry
+2011-02-08,19-330,MEM,AWAY,OKC,W (+4),0,11:57,0,2,.000,0,0,,0,2,.000,0,1,1,0,1,0,0,2,0,-1.7,-20,Xavier Henry
+2011-02-15,19-337,MEM,HOME,PHI,W (+11),0,0:06,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,Xavier Henry
+2011-02-22,19-344,MEM,AWAY,DEN,L (-13),0,8:13,2,4,.500,0,0,,0,0,,0,0,0,0,0,0,0,0,4,2.0,+2,Xavier Henry

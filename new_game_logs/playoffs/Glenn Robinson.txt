@@ -1,0 +1,40 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2001-04-22,28-102,MIL,HOME,ORL,W (+13),1,33:19,6,19,0.316,1,3,0.333,1,1,1.0,5,7,12,7,1,1,2,4,14,11.7,7,Glenn Robinson
+2001-04-25,28-105,MIL,HOME,ORL,W (+7),1,36:35,5,15,0.333,1,2,0.5,3,4,0.75,2,2,4,4,0,2,4,1,14,6.9,15,Glenn Robinson
+2001-04-28,28-108,MIL,AWAY,ORL,L (-5),1,39:16,5,13,0.385,2,3,0.667,2,2,1.0,1,4,5,2,2,1,3,6,14,7.5,-13,Glenn Robinson
+2001-05-01,28-111,MIL,AWAY,ORL,W (+8),1,36:37,7,19,0.368,1,3,0.333,2,2,1.0,3,5,8,2,0,2,1,1,17,11.5,7,Glenn Robinson
+2001-05-06,28-116,MIL,HOME,CHH,W (+12),1,33:38,5,14,0.357,1,3,0.333,4,4,1.0,0,5,5,11,1,0,2,4,15,13.8,3,Glenn Robinson
+2001-05-08,28-118,MIL,HOME,CHH,W (+1),1,34:49,6,15,0.4,1,1,1.0,6,6,1.0,2,2,4,2,0,3,1,1,19,15.0,0,Glenn Robinson
+2001-05-10,28-120,MIL,AWAY,CHH,L (-10),1,38:51,10,22,0.455,1,5,0.2,2,2,1.0,1,7,8,5,2,1,1,1,23,19.2,-14,Glenn Robinson
+2001-05-13,28-123,MIL,AWAY,CHH,L (-7),1,39:18,7,19,0.368,2,4,0.5,1,1,1.0,3,9,12,3,1,2,6,3,17,8.6,-11,Glenn Robinson
+2001-05-15,28-125,MIL,HOME,CHH,L (-8),1,37:22,9,17,0.529,0,2,0.0,4,6,0.667,1,2,3,2,0,0,3,1,22,12.2,-7,Glenn Robinson
+2001-05-17,28-127,MIL,AWAY,CHH,W (+7),1,38:26,11,21,0.524,1,1,1.0,6,6,1.0,1,5,6,2,0,2,4,4,29,18.1,10,Glenn Robinson
+2001-05-20,28-130,MIL,HOME,CHH,W (+9),1,40:15,10,17,0.588,3,5,0.6,6,6,1.0,1,4,5,1,0,1,1,4,29,21.8,7,Glenn Robinson
+2001-05-22,28-132,MIL,AWAY,PHI,L (-8),1,37:51,7,22,0.318,1,6,0.167,0,0,,1,4,5,1,1,0,2,1,15,3.6,-6,Glenn Robinson
+2001-05-24,28-134,MIL,AWAY,PHI,W (+14),1,36:09,7,15,0.467,2,5,0.4,0,0,,2,1,3,4,0,2,1,3,16,12.0,15,Glenn Robinson
+2001-05-26,28-136,MIL,HOME,PHI,W (+6),1,39:20,8,18,0.444,2,5,0.4,0,0,,2,6,8,0,3,1,5,3,18,9.3,2,Glenn Robinson
+2001-05-28,28-138,MIL,HOME,PHI,L (-6),1,38:38,9,22,0.409,2,5,0.4,0,0,,0,10,10,5,0,3,3,1,20,13.4,-6,Glenn Robinson
+2001-05-30,28-140,MIL,AWAY,PHI,L (-1),1,44:21,9,20,0.45,2,4,0.5,2,4,0.5,1,7,8,0,0,1,3,2,22,10.5,2,Glenn Robinson
+2001-06-01,28-142,MIL,HOME,PHI,W (+10),1,37:38,8,17,0.471,1,2,0.5,5,6,0.833,0,3,3,5,0,0,2,3,22,14.1,12,Glenn Robinson
+2001-06-03,28-144,MIL,AWAY,PHI,L (-17),1,45:59,9,17,0.529,0,3,0.0,6,6,1.0,0,7,7,4,0,2,2,0,24,20.0,-17,Glenn Robinson
+2000-04-23,27-104,MIL,AWAY,IND,L (-3),1,40:58,4,17,0.235,0,1,0.0,3,4,0.75,0,7,7,0,3,3,4,3,11,2.3,-5,Glenn Robinson
+2000-04-27,27-108,MIL,AWAY,IND,W (+13),1,29:54,5,9,0.556,0,0,,1,1,1.0,0,4,4,3,1,1,3,4,11,7.1,19,Glenn Robinson
+2000-04-29,27-110,MIL,HOME,IND,L (-13),1,39:59,11,21,0.524,1,4,0.25,3,3,1.0,0,5,5,3,0,0,1,4,26,16.7,-4,Glenn Robinson
+2000-05-01,27-112,MIL,HOME,IND,W (+13),1,31:51,8,16,0.5,1,1,1.0,1,1,1.0,0,3,3,5,4,0,4,3,18,13.2,17,Glenn Robinson
+2000-05-04,27-115,MIL,AWAY,IND,L (-1),1,31:21,4,16,0.25,0,1,0.0,3,4,0.75,0,2,2,2,0,0,3,4,11,-1.6,-9,Glenn Robinson
+2005-04-24,32-104,SAS,HOME,DEN,L (-6),0,6:32,1,3,.333,0,1,.000,0,0,,0,0,0,0,0,0,1,2,2,-1.5,0,Glenn Robinson
+2005-04-27,32-107,SAS,HOME,DEN,W (+28),0,12:44,2,5,.400,0,1,.000,3,4,.750,0,4,4,0,0,0,0,2,7,4.3,+1,Glenn Robinson
+2005-05-02,32-112,SAS,AWAY,DEN,W (+11),0,10:43,1,2,.500,1,1,1.000,2,2,1.000,0,1,1,0,1,0,1,3,5,3.1,-5,Glenn Robinson
+2005-05-04,32-114,SAS,HOME,DEN,W (+10),0,13:46,2,6,.333,1,2,.500,2,2,1.000,0,1,1,0,0,0,0,3,7,2.7,+11,Glenn Robinson
+2005-05-08,32-118,SAS,HOME,SEA,W (+22),0,13:37,5,8,.625,1,2,.500,5,6,.833,0,5,5,0,0,1,2,2,16,11.4,+18,Glenn Robinson
+2005-05-10,32-120,SAS,HOME,SEA,W (+17),0,19:57,1,5,.200,0,0,,2,2,1.000,0,1,1,0,2,1,0,6,4,1.5,+10,Glenn Robinson
+2005-05-12,32-122,SAS,AWAY,SEA,L (-1),0,4:23,0,1,.000,0,0,,0,0,,0,1,1,0,0,1,0,1,0,-0.1,-2,Glenn Robinson
+2005-05-15,32-125,SAS,AWAY,SEA,L (-12),0,12:55,3,6,.500,0,1,.000,1,1,1.000,1,2,3,1,0,0,1,1,7,4.6,0,Glenn Robinson
+2005-05-17,32-127,SAS,HOME,SEA,W (+13),0,4:56,0,3,.000,0,1,.000,0,0,,1,1,2,0,0,1,0,0,0,-0.4,0,Glenn Robinson
+2005-05-19,32-129,SAS,AWAY,SEA,W (+2),0,1:12,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-2,Glenn Robinson
+2005-05-22,32-132,SAS,AWAY,PHO,W (+7),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Glenn Robinson
+2005-05-24,32-134,SAS,AWAY,PHO,W (+3),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Glenn Robinson
+2005-05-28,32-138,SAS,HOME,PHO,W (+10),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Glenn Robinson
+2005-06-09,32-150,SAS,HOME,DET,W (+15),0,6:10,1,2,.500,0,0,,0,0,,0,3,3,0,0,3,0,0,2,4.0,+11,Glenn Robinson
+2005-06-12,32-153,SAS,HOME,DET,W (+21),0,2:19,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.7,-1,Glenn Robinson
+2005-06-14,32-155,SAS,AWAY,DET,L (-17),0,5:24,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-1.4,-7,Glenn Robinson

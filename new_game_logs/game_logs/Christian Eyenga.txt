@@ -1,0 +1,55 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2011-01-02,21-194,CLE,HOME,DAL,L (-9),0,15:00,2,6,.333,0,4,.000,0,0,,0,3,3,0,0,0,1,2,4,-0.3,-7,Christian Eyenga
+2011-01-05,21-197,CLE,HOME,TOR,L (-15),0,28:18,7,10,.700,1,4,.250,1,1,1.000,0,2,2,0,0,1,2,3,16,9.9,-16,Christian Eyenga
+2011-01-07,21-199,CLE,AWAY,GSW,L (-18),0,27:16,2,6,.333,0,2,.000,0,0,,1,3,4,3,1,2,2,0,4,4.7,-7,Christian Eyenga
+2011-01-09,21-201,CLE,AWAY,PHO,L (-8),1,27:25,4,10,.400,0,2,.000,0,0,,1,4,5,0,1,2,2,3,8,3.7,-6,Christian Eyenga
+2011-01-11,21-203,CLE,AWAY,LAL,L (-55),0,6:45,2,3,.667,0,0,,0,0,,0,1,1,0,0,0,0,1,4,2.6,-10,Christian Eyenga
+2011-01-14,21-206,CLE,AWAY,UTA,L (-22),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Christian Eyenga
+2011-01-15,21-207,CLE,AWAY,DEN,L (-28),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Christian Eyenga
+2011-01-19,21-211,CLE,HOME,PHO,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Christian Eyenga
+2011-01-21,21-213,CLE,HOME,MIL,L (-14),0,24:56,3,6,.500,2,2,1.000,1,1,1.000,1,3,4,1,1,0,0,4,9,7.7,-1,Christian Eyenga
+2011-01-22,21-214,CLE,AWAY,CHI,L (-13),1,32:21,2,9,.222,0,2,.000,3,4,.750,2,3,5,3,0,0,3,5,7,0.5,-14,Christian Eyenga
+2011-01-24,21-216,CLE,AWAY,NJN,L (-2),1,18:41,1,5,.200,0,2,.000,0,0,,1,2,3,1,1,0,2,4,2,-1.7,-8,Christian Eyenga
+2011-01-25,21-217,CLE,AWAY,BOS,L (-17),1,27:55,6,15,.400,1,3,.333,2,2,1.000,1,2,3,0,0,1,1,4,15,6.3,-9,Christian Eyenga
+2011-01-28,21-220,CLE,HOME,DEN,L (-14),1,30:50,3,9,.333,0,1,.000,0,0,,2,1,3,0,0,2,1,4,6,1.4,-18,Christian Eyenga
+2011-01-30,21-222,CLE,AWAY,ORL,L (-16),1,24:19,4,9,.444,1,3,.333,0,0,,0,1,1,2,0,2,3,1,9,4.0,-19,Christian Eyenga
+2011-01-31,21-223,CLE,AWAY,MIA,L (-27),1,29:55,3,6,.500,1,3,.333,1,2,.500,2,2,4,2,3,2,3,2,8,8.6,-1,Christian Eyenga
+2011-02-02,21-225,CLE,HOME,IND,L (-5),1,36:42,5,11,.455,1,3,.333,1,2,.500,1,3,4,5,2,2,2,3,12,11.2,+4,Christian Eyenga
+2011-02-04,21-227,CLE,AWAY,MEM,L (-7),1,35:34,4,7,.571,1,4,.250,1,1,1.000,0,2,2,1,3,2,1,4,10,9.8,-10,Christian Eyenga
+2011-02-05,21-228,CLE,HOME,POR,L (-6),1,27:42,5,12,.417,1,2,.500,1,2,.500,3,3,6,3,2,1,0,0,12,13.0,-5,Christian Eyenga
+2011-02-07,21-230,CLE,AWAY,DAL,L (-3),1,27:52,7,15,.467,1,3,.333,0,0,,1,3,4,0,0,0,0,1,15,8.5,-7,Christian Eyenga
+2011-02-09,21-232,CLE,HOME,DET,L (-9),1,26:06,4,9,.444,0,1,.000,0,0,,1,2,3,1,0,2,1,2,8,4.9,-2,Christian Eyenga
+2011-02-11,21-234,CLE,HOME,LAC,W (+7),1,19:23,3,9,.333,0,2,.000,0,0,,0,4,4,0,2,0,0,1,6,3.7,-1,Christian Eyenga
+2011-02-13,21-236,CLE,HOME,WAS,L (-15),1,20:07,3,5,.600,0,1,.000,0,1,.000,1,1,2,0,2,0,3,1,6,2.9,-19,Christian Eyenga
+2011-02-16,21-239,CLE,HOME,LAL,W (+5),1,26:41,5,7,.714,0,2,.000,0,0,,0,2,2,0,3,0,1,2,10,8.9,+6,Christian Eyenga
+2011-02-23,21-246,CLE,HOME,HOU,L (-5),1,17:17,3,8,.375,0,1,.000,0,0,,1,2,3,0,1,0,0,4,6,2.3,-18,Christian Eyenga
+2011-02-25,21-248,CLE,HOME,NYK,W (+6),1,22:10,2,8,.250,0,1,.000,0,0,,1,7,8,0,0,1,0,2,4,1.9,+16,Christian Eyenga
+2011-02-27,21-250,CLE,HOME,PHI,L (-4),1,22:12,0,4,.000,0,1,.000,0,0,,1,1,2,1,0,1,0,2,0,-1.2,+3,Christian Eyenga
+2011-03-02,21-253,CLE,HOME,SAS,L (-10),0,16:07,4,7,.571,3,3,1.000,0,0,,0,2,2,0,0,1,0,1,11,8.6,+3,Christian Eyenga
+2011-03-04,21-255,CLE,AWAY,NYK,W (+4),0,24:29,5,7,.714,3,3,1.000,0,0,,1,3,4,0,0,0,1,2,13,9.9,-6,Christian Eyenga
+2011-03-06,21-257,CLE,HOME,NOH,L (-15),0,16:24,1,5,.200,1,2,.500,0,0,,1,2,3,2,1,0,2,1,3,1.2,+2,Christian Eyenga
+2011-03-08,21-259,CLE,HOME,GSW,L (-10),0,27:33,3,7,.429,0,2,.000,2,2,1.000,1,4,5,0,1,0,1,1,8,5.8,0,Christian Eyenga
+2011-03-09,21-260,CLE,AWAY,MIL,L (-20),0,20:40,5,8,.625,1,2,.500,0,0,,0,0,0,2,1,0,1,2,11,8.0,+2,Christian Eyenga
+2011-03-13,21-264,CLE,HOME,OKC,L (-20),0,22:29,2,6,.333,0,1,.000,0,0,,0,2,2,0,1,0,1,2,4,0.4,-15,Christian Eyenga
+2011-03-16,21-267,CLE,AWAY,SAC,W (+4),0,20:28,1,4,.250,0,1,.000,0,0,,0,2,2,1,1,0,0,0,2,1.9,-3,Christian Eyenga
+2011-03-17,21-268,CLE,AWAY,POR,L (-41),0,24:51,1,5,.200,0,2,.000,1,1,1.000,0,5,5,1,1,0,2,3,3,-0.1,-12,Christian Eyenga
+2011-03-19,21-270,CLE,AWAY,LAC,L (-8),0,10:11,1,6,.167,0,1,.000,0,0,,0,1,1,0,0,1,0,0,2,-0.8,-11,Christian Eyenga
+2011-03-21,21-272,CLE,HOME,ORL,L (-11),0,22:24,5,9,.556,2,3,.667,0,0,,0,1,1,0,1,0,2,0,12,7.0,+1,Christian Eyenga
+2011-03-23,21-274,CLE,HOME,NJN,L (-4),0,14:13,2,4,.500,0,2,.000,0,0,,0,2,2,1,1,0,2,1,4,1.9,-4,Christian Eyenga
+2011-03-25,21-276,CLE,HOME,DET,W (+6),0,13:46,1,4,.250,0,1,.000,0,0,,1,0,1,0,0,1,2,1,2,-1.4,-3,Christian Eyenga
+2011-03-27,21-278,CLE,HOME,ATL,L (-16),0,17:04,1,6,.167,1,4,.250,0,1,.000,0,3,3,1,1,1,1,3,3,-0.1,-10,Christian Eyenga
+2011-03-29,21-280,CLE,HOME,MIA,W (+12),0,20:26,3,6,.500,1,2,.500,0,2,.000,0,3,3,0,2,0,1,2,7,4.3,-9,Christian Eyenga
+2011-03-30,21-281,CLE,AWAY,CHA,L (-1),0,14:22,1,3,.333,0,1,.000,0,0,,0,0,0,0,0,0,0,0,2,0.3,+4,Christian Eyenga
+2011-04-01,21-283,CLE,AWAY,WAS,L (-8),0,16:20,1,5,.200,0,2,.000,0,0,,0,2,2,0,0,1,0,0,2,0.2,-8,Christian Eyenga
+2011-04-03,21-285,CLE,AWAY,NYK,L (-16),0,11:44,2,3,.667,0,1,.000,1,2,.500,0,1,1,0,0,0,2,1,5,1.2,-15,Christian Eyenga
+2011-04-05,21-287,CLE,HOME,CHA,W (+10),0,7:03,2,4,.500,0,1,.000,0,0,,1,0,1,1,0,0,0,1,4,3.0,+3,Christian Eyenga
+2011-04-09,21-291,CLE,AWAY,MIL,L (-7),0,12:50,1,3,.333,1,1,1.000,2,2,1.000,0,2,2,2,0,2,0,1,5,6.3,+7,Christian Eyenga
+2011-04-11,21-293,CLE,AWAY,DET,W (+9),0,21:51,6,11,.545,1,5,.200,0,0,,1,2,3,1,1,0,1,0,13,9.7,+11,Christian Eyenga
+2011-04-13,21-295,CLE,HOME,WAS,W (+7),0,16:12,2,4,.500,1,2,.500,1,2,.500,0,2,2,0,0,0,0,1,6,3.8,+8,Christian Eyenga
+2012-01-03,22-195,CLE,HOME,CHA,W (+14),0,1:07,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+4,Christian Eyenga
+2012-02-07,22-230,CLE,AWAY,MIA,L (-16),0,20:48,0,4,.000,0,0,,0,0,,2,2,4,1,1,1,0,3,0,0.4,-19,Christian Eyenga
+2012-02-08,22-231,CLE,HOME,LAC,W (+7),0,16:04,2,3,.667,1,1,1.000,1,2,.500,1,1,2,0,0,2,1,2,6,4.9,0,Christian Eyenga
+2012-02-10,22-233,CLE,HOME,MIL,L (-1),0,13:42,1,5,.200,0,1,.000,0,2,.000,0,1,1,1,1,0,1,1,2,-1.3,-15,Christian Eyenga
+2012-02-11,22-234,CLE,HOME,PHI,L (-15),0,18:09,0,3,.000,0,0,,1,2,.500,0,2,2,1,0,1,0,1,1,0.1,-10,Christian Eyenga
+2012-02-17,22-240,CLE,HOME,MIA,L (-24),0,13:27,0,4,.000,0,0,,0,0,,0,3,3,1,1,0,0,0,0,-0.2,0,Christian Eyenga
+2012-04-26,22-309,LAL,AWAY,SAC,L (-17),0,19:14,3,6,.500,0,1,.000,2,2,1.000,1,1,2,1,0,1,1,0,8,6.4,+3,Christian Eyenga

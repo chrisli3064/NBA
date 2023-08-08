@@ -1,0 +1,17 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2022-10-24,19-137,MIA,HOME,TOR,L (-8),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Nikola Jovic
+2022-10-26,19-139,MIA,AWAY,POR,W (+21),0,13:43,1,3,.333,0,1,.000,0,0,,1,1,2,0,1,0,1,5,2,-0.7,+3,Nikola Jovic
+2022-10-27,19-140,MIA,AWAY,GSW,L (-13),0,7:36,2,4,.500,0,2,.000,0,0,,0,0,0,1,1,0,0,0,4,3.7,-2,Nikola Jovic
+2022-10-29,19-142,MIA,AWAY,SAC,L (-6),0,0:50,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-5,Nikola Jovic
+2022-11-12,19-156,MIA,HOME,CHO,W (+17),0,1:38,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,1,0,3,1.7,0,Nikola Jovic
+2022-11-16,19-160,MIA,AWAY,TOR,L (-8),1,23:49,4,8,.500,1,3,.333,4,4,1.000,1,2,3,1,1,0,2,1,13,9.6,-3,Nikola Jovic
+2022-11-18,19-162,MIA,AWAY,WAS,L (-1),1,30:14,4,10,.400,1,3,.333,9,10,.900,2,4,6,0,0,0,0,2,18,14.0,+6,Nikola Jovic
+2022-11-20,19-164,MIA,AWAY,CLE,L (-26),1,32:13,2,9,.222,1,6,.167,2,2,1.000,2,2,4,5,1,0,1,2,7,6.2,-7,Nikola Jovic
+2022-11-21,19-165,MIA,AWAY,MIN,L (-4),1,22:53,1,5,.200,0,3,.000,2,2,1.000,1,4,5,3,1,0,1,1,4,4.5,-2,Nikola Jovic
+2022-11-23,19-167,MIA,HOME,WAS,W (+8),1,12:28,3,7,.429,1,3,.333,0,0,,0,5,5,0,0,0,2,0,7,2.8,-8,Nikola Jovic
+2022-11-25,19-169,MIA,HOME,WAS,W (+3),1,14:28,3,6,.500,0,3,.000,1,1,1.000,0,1,1,0,1,1,0,1,7,5.6,-1,Nikola Jovic
+2022-12-06,19-180,MIA,HOME,DET,L (-20),0,9:00,2,4,.500,1,3,.333,0,0,,1,0,1,0,0,0,1,1,5,2.3,-9,Nikola Jovic
+2022-12-17,19-191,MIA,AWAY,SAS,W (+10),1,14:47,1,3,.333,1,2,.500,0,0,,0,1,1,0,1,0,1,2,3,0.8,+10,Nikola Jovic
+2022-12-20,19-194,MIA,HOME,CHI,L (-10),0,1:21,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+4,Nikola Jovic
+2022-12-26,19-200,MIA,HOME,MIN,W (+3),1,18:57,4,8,.500,1,4,.250,0,0,,1,2,3,0,0,1,0,4,9,5.4,-2,Nikola Jovic
+2022-12-28,19-202,MIA,HOME,LAL,W (+14),0,0:27,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Nikola Jovic

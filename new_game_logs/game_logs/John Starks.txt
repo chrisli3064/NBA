@@ -1,0 +1,196 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2001-10-30,36-081,UTA,HOME,MIL,L (-7),0,39:17,8,13,.615,2,4,.500,2,2,1.000,1,2,3,4,0,0,1,5,20,15.2,-4,John Starks
+2001-11-01,36-083,UTA,HOME,LAL,L (-4),0,17:16,0,8,.000,0,1,.000,2,2,1.000,0,0,0,3,0,0,0,1,2,-1.9,-3,John Starks
+2001-11-03,36-085,UTA,AWAY,SEA,W (+17),0,6:52,2,5,.400,1,1,1.000,0,0,,0,1,1,0,1,0,0,2,5,2.8,+3,John Starks
+2001-11-04,36-086,UTA,AWAY,LAL,L (-4),0,8:35,1,4,.250,0,1,.000,2,2,1.000,0,0,0,0,0,0,1,0,4,0.6,+5,John Starks
+2001-11-06,36-088,UTA,AWAY,POR,L (-18),0,10:05,4,7,.571,0,1,.000,0,0,,0,0,0,1,0,0,0,1,8,5.0,+3,John Starks
+2001-11-07,36-089,UTA,HOME,ATL,W (+7),0,19:12,3,9,.333,0,0,,0,0,,0,1,1,2,2,0,0,3,6,3.4,+4,John Starks
+2001-11-10,36-092,UTA,HOME,TOR,L (-21),0,0:48,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,2,0,-1.8,0,John Starks
+2001-11-12,36-094,UTA,HOME,ORL,W (+7),0,3:23,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,1,2,2,-0.1,-6,John Starks
+2001-11-14,36-096,UTA,AWAY,ATL,L (-32),0,6:23,1,6,.167,0,1,.000,0,0,,1,1,2,1,1,0,0,0,2,0.9,-11,John Starks
+2001-11-21,36-103,UTA,HOME,NJN,L (-1),0,20:50,1,4,.250,0,1,.000,0,0,,0,1,1,0,1,0,3,1,2,-2.5,-1,John Starks
+2001-11-23,36-105,UTA,HOME,LAC,W (+5),0,10:30,0,4,.000,0,1,.000,1,2,.500,0,0,0,0,1,0,0,2,1,-2.0,+6,John Starks
+2001-11-26,36-108,UTA,HOME,PHO,L (-7),0,22:04,4,9,.444,0,1,.000,2,3,.667,1,2,3,1,0,0,1,6,10,3.5,+4,John Starks
+2001-11-28,36-110,UTA,HOME,SEA,W (+24),0,26:20,5,11,.455,1,5,.200,0,0,,0,1,1,1,1,0,1,3,11,5.1,+14,John Starks
+2001-11-30,36-112,UTA,AWAY,PHO,L (-22),0,22:35,4,10,.400,1,3,.333,0,0,,2,1,3,1,2,0,4,0,9,4.0,-23,John Starks
+2001-12-01,36-113,UTA,HOME,IND,L (-3),0,30:48,5,10,.500,2,5,.400,1,2,.500,0,1,1,0,2,0,1,2,13,8.1,+2,John Starks
+2001-12-04,36-116,UTA,HOME,CHH,W (+4),0,16:59,2,7,.286,0,2,.000,0,0,,0,0,0,2,0,0,1,2,4,-0.5,-15,John Starks
+2001-12-07,36-119,UTA,AWAY,LAC,W (+16),0,7:54,0,3,.000,0,1,.000,1,2,.500,0,0,0,1,0,0,1,2,1,-2.6,-4,John Starks
+2001-12-08,36-120,UTA,HOME,GSW,W (+10),0,16:21,1,2,.500,0,0,,0,0,,0,2,2,0,1,0,2,2,2,-0.2,+5,John Starks
+2001-12-10,36-122,UTA,HOME,DAL,W (+9),0,5:33,1,3,.333,0,0,,0,0,,0,0,0,0,1,0,0,0,2,1.3,-4,John Starks
+2001-12-12,36-124,UTA,HOME,MIN,L (-11),0,18:03,2,3,.667,1,1,1.000,2,2,1.000,0,2,2,2,1,0,2,1,7,6.3,+12,John Starks
+2001-12-14,36-126,UTA,HOME,POR,W (+8),0,22:44,3,7,.429,3,5,.600,0,0,,1,1,2,6,0,0,2,4,9,6.9,+5,John Starks
+2001-12-15,36-127,UTA,AWAY,SAS,L (-20),0,4:59,0,4,.000,0,0,,0,0,,1,0,1,0,0,0,0,1,0,-2.5,-6,John Starks
+2001-12-18,36-130,UTA,AWAY,MIA,W (+39),0,12:38,2,8,.250,1,2,.500,0,0,,0,2,2,1,1,0,0,1,5,2.1,+20,John Starks
+2001-12-19,36-131,UTA,AWAY,ORL,L (-8),0,8:35,0,2,.000,0,0,,0,0,,0,0,0,1,1,0,1,1,0,-1.1,-3,John Starks
+2001-12-21,36-133,UTA,AWAY,BOS,L (-6),0,6:59,1,3,.333,0,0,,0,0,,0,0,0,2,0,0,1,3,2,-0.5,-1,John Starks
+2001-12-26,36-138,UTA,HOME,BOS,W (+13),0,4:29,0,0,,0,0,,0,0,,0,1,1,1,0,0,1,0,0,0.0,-1,John Starks
+2002-01-08,36-151,UTA,HOME,PHO,W (+14),0,2:12,0,3,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-2.1,-5,John Starks
+2002-01-12,36-155,UTA,HOME,MEM,L (-2),0,15:52,1,2,.500,1,1,1.000,0,0,,0,0,0,1,0,0,1,1,3,1.3,+1,John Starks
+2002-01-14,36-157,UTA,HOME,DEN,W (+9),0,18:03,2,5,.400,1,1,1.000,0,0,,0,2,2,3,0,0,1,2,5,3.2,-2,John Starks
+2002-01-16,36-159,UTA,HOME,SEA,W (+15),0,26:39,3,9,.333,0,4,.000,0,0,,1,2,3,3,2,0,0,0,6,6.3,+3,John Starks
+2002-01-17,36-160,UTA,AWAY,SAS,L (-4),0,15:43,2,3,.667,1,2,.500,0,0,,0,0,0,1,0,0,2,3,5,1.2,-10,John Starks
+2002-01-19,36-162,UTA,AWAY,DAL,L (-3),0,20:14,1,6,.167,0,3,.000,1,2,.500,1,2,3,3,0,0,1,4,3,-0.4,-8,John Starks
+2002-01-21,36-164,UTA,AWAY,GSW,W (+2),0,2:23,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-4,John Starks
+2002-01-23,36-166,UTA,HOME,SAS,L (-6),0,1:19,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-2,John Starks
+2002-01-24,36-167,UTA,AWAY,SAC,L (-33),1,12:10,2,3,.667,0,0,,0,0,,1,1,2,1,0,0,0,4,4,2.8,-2,John Starks
+2002-01-26,36-169,UTA,HOME,SAC,L (-24),0,10:34,0,2,.000,0,1,.000,2,2,1.000,0,1,1,0,0,0,1,0,2,-0.1,-6,John Starks
+2002-02-02,36-176,UTA,HOME,POR,W (+1),0,1:12,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-1,John Starks
+2002-02-05,36-179,UTA,AWAY,MEM,L (-7),0,12:52,1,6,.167,0,1,.000,0,0,,0,4,4,0,1,0,0,4,2,-1.2,-5,John Starks
+2002-02-12,36-186,UTA,AWAY,IND,W (+16),0,21:37,2,6,.333,1,3,.333,0,0,,1,0,1,1,1,0,1,2,5,2.2,+12,John Starks
+2002-02-14,36-188,UTA,AWAY,PHI,W (+7),0,27:34,4,6,.667,1,2,.500,0,0,,2,2,4,2,1,0,1,4,9,8.2,-9,John Starks
+2002-02-15,36-189,UTA,AWAY,TOR,W (+9),0,24:33,1,4,.250,0,1,.000,1,2,.500,0,2,2,3,1,0,1,5,3,0.9,+4,John Starks
+2002-02-17,36-191,UTA,AWAY,NYK,W (+3),0,34:00,3,7,.429,0,2,.000,1,2,.500,0,2,2,2,1,0,0,4,7,4.3,+11,John Starks
+2002-02-18,36-192,UTA,AWAY,CLE,W (+11),0,15:40,3,5,.600,2,2,1.000,2,2,1.000,0,0,0,1,0,0,1,3,10,6.2,+8,John Starks
+2002-02-20,36-194,UTA,AWAY,DEN,W (+11),0,25:17,4,5,.800,2,3,.667,0,0,,0,3,3,2,3,0,1,5,10,10.4,+4,John Starks
+2002-02-26,36-200,UTA,AWAY,SAC,L (-26),0,18:21,4,8,.500,1,3,.333,0,0,,0,0,0,2,1,0,1,5,9,4.4,-11,John Starks
+2002-02-28,36-202,UTA,HOME,MEM,W (+44),0,14:23,3,6,.500,0,1,.000,0,0,,0,0,0,2,0,0,2,0,6,2.4,+11,John Starks
+2002-03-02,36-204,UTA,HOME,MIN,L (-11),0,11:53,0,4,.000,0,2,.000,0,0,,0,0,0,0,0,0,0,1,0,-3.2,-20,John Starks
+2002-03-04,36-206,UTA,HOME,DEN,W (+18),0,17:59,2,6,.333,0,1,.000,4,4,1.000,0,2,2,2,1,0,2,3,8,4.4,+8,John Starks
+2002-03-06,36-208,UTA,HOME,LAL,W (+8),0,7:34,4,6,.667,0,0,,0,0,,0,0,0,0,0,0,1,2,8,3.6,0,John Starks
+2002-03-08,36-210,UTA,HOME,NYK,L (-6),0,11:35,0,5,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,2,0,-4.0,-10,John Starks
+2002-03-14,36-216,UTA,AWAY,CHH,L (-18),0,10:58,3,4,.750,1,2,.500,2,2,1.000,0,0,0,0,0,0,0,0,9,7.4,+2,John Starks
+2002-03-15,36-217,UTA,AWAY,DET,W (+3),0,25:59,6,8,.750,3,4,.750,0,0,,0,0,0,2,0,0,1,5,15,10.2,+8,John Starks
+2002-03-17,36-219,UTA,AWAY,MIN,W (+7),0,18:52,1,6,.167,1,3,.333,2,2,1.000,0,1,1,1,1,0,0,2,5,2.4,+3,John Starks
+2002-03-19,36-221,UTA,HOME,DET,L (-7),0,21:50,1,4,.250,0,2,.000,0,0,,0,2,2,2,0,0,2,2,2,-1.2,-2,John Starks
+2002-03-21,36-223,UTA,HOME,WAS,W (+15),0,16:41,4,8,.500,0,2,.000,0,0,,0,0,0,2,0,0,0,3,8,4.2,+8,John Starks
+2002-03-23,36-225,UTA,HOME,GSW,W (+9),0,8:53,0,3,.000,0,0,,0,0,,0,1,1,0,2,0,0,0,0,0.2,-1,John Starks
+2002-03-25,36-227,UTA,AWAY,SEA,L (-14),0,11:41,0,4,.000,0,1,.000,1,2,.500,0,1,1,0,1,0,3,3,1,-5.1,-8,John Starks
+2002-03-26,36-228,UTA,HOME,HOU,W (+4),0,5:04,0,2,.000,0,0,,0,0,,0,0,0,1,0,0,0,2,0,-1.5,+1,John Starks
+2002-03-28,36-230,UTA,HOME,CLE,W (+21),0,12:23,3,6,.500,2,3,.667,0,0,,0,2,2,1,0,0,0,1,8,5.9,-1,John Starks
+2002-04-02,36-235,UTA,AWAY,DEN,L (-8),0,2:13,0,2,.000,0,1,.000,0,0,,0,0,0,0,1,0,0,0,0,-0.4,+1,John Starks
+2002-04-05,36-238,UTA,HOME,SAC,L (-8),0,5:00,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-8,John Starks
+2002-04-09,36-242,UTA,AWAY,LAL,L (-30),0,7:41,0,1,.000,0,1,.000,2,2,1.000,0,0,0,0,0,0,0,0,2,1.3,-2,John Starks
+2002-04-11,36-244,UTA,AWAY,PHO,W (+1),0,17:14,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,2,2,1.2,+1,John Starks
+2002-04-13,36-246,UTA,AWAY,GSW,W (+8),0,17:59,2,6,.333,0,2,.000,0,0,,1,1,2,2,0,0,3,1,4,-0.4,+2,John Starks
+2002-04-16,36-249,UTA,AWAY,DAL,L (-9),0,4:28,0,2,.000,0,1,.000,2,2,1.000,1,0,1,0,0,0,1,0,2,0.3,-5,John Starks
+2002-04-17,36-250,UTA,HOME,SAS,L (-2),0,3:34,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-1,John Starks
+2000-10-31,35-082,UTA,HOME,LAC,W (+13),1,28:45,7,17,.412,1,3,.333,3,5,.600,0,1,1,1,3,0,0,3,18,10.9,+17,John Starks
+2000-11-01,35-083,UTA,AWAY,LAL,W (+5),1,28:00,3,7,.429,0,0,,4,4,1.000,0,3,3,3,1,0,3,5,10,5.3,-1,John Starks
+2000-11-04,35-086,UTA,AWAY,DAL,W (+6),1,31:45,5,8,.625,2,4,.500,2,2,1.000,1,0,1,2,1,0,0,3,14,12.3,+8,John Starks
+2000-11-06,35-088,UTA,HOME,MIN,W (+6),1,33:37,5,10,.500,2,3,.667,4,4,1.000,0,4,4,1,0,1,1,5,16,10.6,+12,John Starks
+2000-11-08,35-090,UTA,AWAY,LAC,W (+6),1,35:29,3,12,.250,0,3,.000,2,2,1.000,1,1,2,3,0,0,1,6,8,0.5,+6,John Starks
+2000-11-10,35-092,UTA,HOME,MIA,L (-7),1,34:46,2,10,.200,1,5,.200,0,0,,1,0,1,1,0,0,1,2,5,-1.6,-10,John Starks
+2000-11-14,35-096,UTA,AWAY,SAS,L (-7),1,22:18,3,6,.500,0,1,.000,0,0,,1,1,2,0,0,0,1,2,6,2.2,-12,John Starks
+2000-11-16,35-098,UTA,HOME,ORL,W (+15),1,28:24,4,8,.500,0,0,,7,8,.875,0,0,0,1,1,0,0,5,15,10.3,+6,John Starks
+2000-11-22,35-104,UTA,HOME,DEN,W (+38),1,27:59,5,13,.385,1,5,.200,5,5,1.000,1,4,5,2,1,0,0,0,16,13.2,+20,John Starks
+2000-11-24,35-106,UTA,HOME,NJN,W (+12),1,30:04,4,14,.286,0,3,.000,1,2,.500,0,0,0,2,2,1,3,1,9,1.1,+11,John Starks
+2000-11-26,35-108,UTA,AWAY,DET,W (+15),1,27:34,6,12,.500,1,3,.333,0,1,.000,1,0,1,1,0,0,0,2,13,7.2,-11,John Starks
+2000-11-28,35-110,UTA,AWAY,NJN,W (+6),1,34:02,6,13,.462,0,0,,6,8,.750,0,4,4,3,0,0,2,0,18,11.8,+7,John Starks
+2000-11-29,35-111,UTA,AWAY,ORL,W (+2),1,21:50,2,4,.500,1,1,1.000,0,0,,0,1,1,3,2,0,1,1,5,6.0,+4,John Starks
+2000-12-01,35-113,UTA,AWAY,MIA,W (+2),1,23:28,1,8,.125,1,3,.333,3,5,.600,2,1,3,1,0,0,2,3,6,-0.8,-4,John Starks
+2000-12-02,35-114,UTA,AWAY,CHH,L (-5),1,27:24,3,10,.300,1,3,.333,0,0,,0,0,0,2,0,0,2,3,7,-0.6,-8,John Starks
+2000-12-05,35-117,UTA,HOME,TOR,W (+14),1,33:08,4,7,.571,0,0,,0,0,,0,3,3,3,2,0,1,0,8,8.7,+26,John Starks
+2000-12-07,35-119,UTA,HOME,VAN,W (+11),1,32:01,4,9,.444,0,1,.000,0,0,,0,2,2,0,1,0,2,4,8,1.3,+2,John Starks
+2000-12-09,35-121,UTA,HOME,GSW,W (+11),1,25:17,3,6,.500,0,2,.000,2,2,1.000,0,1,1,2,0,1,3,3,8,3.2,+2,John Starks
+2000-12-11,35-123,UTA,HOME,SAS,L (-8),1,30:07,1,9,.111,0,5,.000,1,2,.500,0,2,2,5,1,0,1,3,3,-0.4,-9,John Starks
+2000-12-13,35-125,UTA,HOME,MIL,L (-9),1,25:39,0,3,.000,0,1,.000,0,0,,0,2,2,2,1,0,2,4,0,-2.7,+11,John Starks
+2000-12-15,35-127,UTA,AWAY,NYK,W (+31),1,30:16,7,13,.538,3,5,.600,1,2,.500,1,2,3,2,1,0,3,0,18,12.0,+19,John Starks
+2000-12-16,35-128,UTA,AWAY,CLE,L (-7),1,29:20,5,13,.385,1,4,.250,0,0,,0,1,1,0,0,0,1,4,11,1.6,-8,John Starks
+2000-12-19,35-131,UTA,AWAY,TOR,L (-8),1,22:09,3,11,.273,1,2,.500,0,0,,1,1,2,0,1,0,0,0,7,2.5,-11,John Starks
+2000-12-20,35-132,UTA,AWAY,PHI,W (+2),1,25:18,0,7,.000,0,2,.000,0,0,,1,1,2,1,0,0,1,1,0,-4.6,-8,John Starks
+2000-12-22,35-134,UTA,AWAY,IND,W (+8),1,39:15,9,16,.563,1,1,1.000,0,0,,1,4,5,4,1,0,0,4,19,15.5,+19,John Starks
+2000-12-23,35-135,UTA,AWAY,MIN,W (+6),1,28:37,2,4,.500,0,1,.000,1,2,.500,0,1,1,1,0,0,1,0,5,2.6,-20,John Starks
+2000-12-26,35-138,UTA,HOME,PHI,L (-6),1,25:06,7,14,.500,0,5,.000,0,0,,1,2,3,0,1,0,3,2,14,5.5,-7,John Starks
+2000-12-28,35-140,UTA,HOME,POR,L (-1),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,John Starks
+2000-12-29,35-141,UTA,AWAY,GSW,L (-11),1,34:45,5,11,.455,2,4,.500,1,2,.500,0,2,2,6,2,0,1,3,13,11.5,-9,John Starks
+2001-01-03,35-146,UTA,AWAY,LAL,L (-11),1,29:54,2,9,.222,1,1,1.000,0,0,,0,0,0,1,1,1,0,3,5,0.7,-8,John Starks
+2001-01-05,35-148,UTA,AWAY,DEN,L (-13),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,John Starks
+2001-01-06,35-149,UTA,AWAY,HOU,W (+2),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,John Starks
+2001-01-09,35-152,UTA,HOME,IND,W (+4),1,39:02,5,11,.455,0,0,,2,2,1.000,0,3,3,6,0,0,0,4,12,9.8,+1,John Starks
+2001-01-13,35-156,UTA,HOME,LAL,W (+8),1,38:28,10,16,.625,1,2,.500,0,0,,4,4,8,0,2,0,1,3,21,17.6,+15,John Starks
+2001-01-15,35-158,UTA,HOME,HOU,W (+12),1,43:43,8,13,.615,1,1,1.000,2,2,1.000,0,2,2,1,0,0,1,3,19,12.2,+10,John Starks
+2001-01-17,35-160,UTA,HOME,MIN,L (-8),1,32:08,2,9,.222,0,3,.000,3,5,.600,0,1,1,5,1,0,3,3,7,1.3,-7,John Starks
+2001-01-21,35-164,UTA,HOME,PHO,W (+11),1,35:14,2,5,.400,0,0,,0,0,,0,1,1,7,1,1,2,6,4,3.8,+10,John Starks
+2001-01-23,35-166,UTA,HOME,GSW,W (+22),1,28:24,3,5,.600,0,1,.000,0,0,,0,3,3,6,0,1,3,2,6,5.7,+18,John Starks
+2001-01-25,35-168,UTA,HOME,DEN,W (+2),1,30:16,5,12,.417,2,4,.500,0,0,,0,0,0,3,2,0,1,3,12,7.5,+4,John Starks
+2001-01-27,35-170,UTA,HOME,SAS,L (-13),1,30:25,3,9,.333,2,6,.333,0,0,,0,3,3,1,0,0,0,4,8,2.9,-18,John Starks
+2001-01-29,35-172,UTA,AWAY,DEN,W (+6),1,27:13,4,10,.400,0,0,,0,0,,0,1,1,3,4,1,0,4,8,8.1,+15,John Starks
+2001-01-30,35-173,UTA,AWAY,SEA,W (+14),1,27:56,5,11,.455,1,3,.333,2,2,1.000,0,2,2,4,3,0,4,3,13,8.5,+10,John Starks
+2001-02-01,35-175,UTA,HOME,CHH,W (+11),1,23:07,2,6,.333,2,4,.500,3,4,.750,0,2,2,1,0,0,2,3,9,3.3,-4,John Starks
+2001-02-07,35-181,UTA,AWAY,VAN,W (+10),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,John Starks
+2001-02-13,35-187,UTA,HOME,SAC,L (-3),1,23:32,3,10,.300,0,4,.000,0,0,,0,2,2,2,1,0,1,3,6,1.0,-5,John Starks
+2001-02-14,35-188,UTA,HOME,NYK,W (+16),1,27:16,5,10,.500,5,6,.833,1,4,.250,0,1,1,2,0,0,1,4,16,8.9,+5,John Starks
+2001-02-18,35-192,UTA,AWAY,SAC,W (+4),1,31:42,1,9,.111,0,3,.000,4,4,1.000,0,2,2,2,1,0,3,2,6,-0.7,+8,John Starks
+2001-02-19,35-193,UTA,HOME,BOS,W (+15),1,23:16,2,4,.500,1,2,.500,3,4,.750,0,2,2,3,1,0,0,4,8,7.7,+2,John Starks
+2001-02-22,35-196,UTA,AWAY,POR,W (+6),1,32:17,2,6,.333,1,1,1.000,2,2,1.000,1,1,2,2,1,0,1,5,7,4.0,-1,John Starks
+2001-02-23,35-197,UTA,AWAY,SEA,W (+12),1,30:21,4,13,.308,1,3,.333,3,3,1.000,0,1,1,4,3,0,0,4,12,9.0,+2,John Starks
+2001-02-25,35-199,UTA,AWAY,PHO,L (-10),1,32:17,4,9,.444,0,1,.000,0,0,,0,0,0,1,3,0,1,4,8,4.4,-2,John Starks
+2001-02-26,35-200,UTA,HOME,ATL,W (+17),1,24:00,3,8,.375,1,2,.500,0,0,,0,2,2,2,4,0,1,1,7,7.2,+5,John Starks
+2001-02-28,35-202,UTA,HOME,VAN,W (+18),1,33:42,2,8,.250,0,0,,0,0,,0,1,1,4,0,0,0,3,4,1.1,+20,John Starks
+2001-03-02,35-204,UTA,AWAY,BOS,L (-4),1,16:01,1,3,.333,0,0,,0,0,,0,2,2,1,2,0,1,3,2,1.4,-4,John Starks
+2001-03-04,35-206,UTA,AWAY,WAS,W (+20),1,27:54,8,10,.800,3,4,.750,0,0,,0,1,1,1,1,1,1,3,19,15.7,+16,John Starks
+2001-03-05,35-207,UTA,AWAY,ATL,W (+7),1,30:18,7,13,.538,0,0,,0,0,,0,2,2,0,0,0,0,4,14,6.7,+1,John Starks
+2001-03-07,35-209,UTA,HOME,SEA,W (+4),1,27:50,2,8,.250,1,1,1.000,4,4,1.000,1,1,2,7,0,0,0,0,9,10.1,+4,John Starks
+2001-03-09,35-211,UTA,HOME,PHO,W (+12),1,28:15,4,6,.667,1,1,1.000,0,0,,0,1,1,3,2,0,5,3,9,4.6,+14,John Starks
+2001-03-11,35-213,UTA,AWAY,SAC,L (-15),1,32:35,9,16,.563,3,6,.500,0,0,,1,3,4,4,2,0,1,5,21,16.8,-18,John Starks
+2001-03-14,35-216,UTA,AWAY,GSW,W (+19),1,28:07,3,11,.273,1,4,.250,2,2,1.000,0,2,2,2,0,0,1,3,9,2.3,+9,John Starks
+2001-03-16,35-218,UTA,AWAY,POR,L (-3),1,28:51,2,8,.250,1,4,.250,2,2,1.000,0,4,4,4,3,0,2,4,7,5.6,+6,John Starks
+2001-03-18,35-220,UTA,AWAY,LAC,W (+15),1,28:19,3,11,.273,3,6,.500,0,0,,0,1,1,3,0,0,0,3,9,3.7,+4,John Starks
+2001-03-20,35-222,UTA,HOME,DET,W (+5),1,18:14,3,10,.300,1,4,.250,0,0,,1,1,2,0,0,0,0,5,7,0.2,+6,John Starks
+2001-03-22,35-224,UTA,HOME,POR,L (-2),1,23:37,0,5,.000,0,1,.000,0,0,,0,1,1,4,0,1,2,3,0,-2.9,+2,John Starks
+2001-03-24,35-226,UTA,HOME,WAS,W (+26),1,23:41,4,8,.500,2,3,.667,0,0,,0,2,2,2,0,0,0,3,10,6.8,+26,John Starks
+2001-03-26,35-228,UTA,HOME,DAL,L (-8),1,28:10,2,13,.154,2,5,.400,2,2,1.000,1,2,3,1,1,0,0,4,8,1.1,-14,John Starks
+2001-03-27,35-229,UTA,AWAY,HOU,L (-23),1,21:41,3,5,.600,2,3,.667,2,2,1.000,0,2,2,3,1,0,1,2,10,9.6,-4,John Starks
+2001-03-29,35-231,UTA,AWAY,SAS,L (-18),1,19:36,1,7,.143,0,2,.000,0,0,,0,3,3,0,0,1,1,2,2,-2.7,-15,John Starks
+2001-03-30,35-232,UTA,HOME,CLE,W (+7),0,31:55,4,8,.500,0,0,,0,0,,0,1,1,5,1,0,1,2,8,7.0,+10,John Starks
+2001-04-01,35-234,UTA,AWAY,VAN,W (+19),0,29:16,6,11,.545,2,5,.400,0,0,,1,2,3,3,2,0,3,2,14,10.3,+7,John Starks
+2001-04-03,35-236,UTA,HOME,LAL,L (-8),0,20:07,2,4,.500,0,0,,0,0,,1,0,1,2,0,0,2,2,4,1.3,-6,John Starks
+2001-04-05,35-238,UTA,HOME,SAC,L (-6),0,23:08,4,9,.444,1,3,.333,0,0,,1,1,2,2,3,0,1,4,9,7.1,+5,John Starks
+2001-04-07,35-240,UTA,AWAY,DAL,W (+13),0,34:35,6,12,.500,2,4,.500,2,2,1.000,0,4,4,2,1,0,0,3,16,12.4,+12,John Starks
+2001-04-09,35-242,UTA,HOME,HOU,W (+15),0,18:34,1,6,.167,0,0,,1,2,.500,2,2,4,1,0,0,2,4,3,-2.1,-3,John Starks
+2001-04-12,35-245,UTA,AWAY,MIL,L (-22),0,20:04,2,3,.667,0,0,,0,0,,0,0,0,2,0,0,0,4,4,2.5,-11,John Starks
+2001-04-13,35-246,UTA,AWAY,CHI,W (+11),0,31:27,4,6,.667,1,2,.500,0,0,,0,4,4,4,1,0,4,2,9,6.6,+11,John Starks
+2001-04-15,35-248,UTA,AWAY,MIN,L (-7),0,25:39,2,10,.200,0,3,.000,2,2,1.000,1,1,2,2,0,0,1,2,6,0.4,-17,John Starks
+2001-04-17,35-250,UTA,HOME,LAC,W (+5),0,29:30,2,6,.333,0,3,.000,4,4,1.000,1,4,5,3,0,0,1,4,8,6.0,+3,John Starks
+2001-04-18,35-251,UTA,AWAY,PHO,L (-5),0,18:01,2,9,.222,0,1,.000,0,1,.000,0,0,0,5,3,0,3,1,4,1.2,-13,John Starks
+1999-11-02,34-084,GSW,AWAY,DAL,L (-12),0,35:47,8,14,.571,3,5,.600,1,2,.500,0,4,4,4,1,0,3,3,20,13.8,-5,John Starks
+1999-11-04,34-086,GSW,AWAY,SAS,L (-23),0,23:45,2,8,.250,1,2,.500,2,2,1.000,0,4,4,2,0,0,4,2,7,0.0,-12,John Starks
+1999-11-06,34-088,GSW,HOME,DAL,L (-23),0,22:44,2,11,.182,1,4,.250,0,0,,1,3,4,5,1,1,2,3,5,1.7,-4,John Starks
+1999-11-09,34-091,GSW,HOME,SAS,L (-29),1,22:54,1,5,.200,0,2,.000,1,1,1.000,0,2,2,5,1,0,2,2,3,2.2,-21,John Starks
+1999-11-12,34-094,GSW,AWAY,VAN,W (+10),1,34:46,8,15,.533,3,5,.600,3,4,.750,0,2,2,0,1,0,0,0,22,15.9,+11,John Starks
+1999-11-13,34-095,GSW,HOME,HOU,L (-8),1,27:17,2,12,.167,1,5,.200,2,2,1.000,0,0,0,4,1,0,0,2,7,2.4,-11,John Starks
+1999-11-16,34-098,GSW,HOME,CHI,W (+20),1,28:47,4,12,.333,1,3,.333,0,0,,0,1,1,4,1,1,1,3,9,4.8,+16,John Starks
+1999-11-17,34-099,GSW,AWAY,SEA,L (-3),1,25:21,2,10,.200,1,1,1.000,0,0,,0,1,1,4,2,0,1,3,5,1.7,-17,John Starks
+1999-11-20,34-102,GSW,HOME,NYK,L (-7),1,29:42,3,10,.300,0,2,.000,4,5,.800,1,3,4,5,4,0,3,6,10,7.5,-10,John Starks
+1999-11-24,34-106,GSW,HOME,NJN,L (-8),1,30:52,4,19,.211,1,4,.250,0,0,,0,0,0,8,1,0,0,3,9,2.7,-2,John Starks
+1999-11-26,34-108,GSW,AWAY,SAC,L (-29),1,27:58,7,17,.412,2,3,.667,0,0,,1,1,2,2,0,0,2,3,16,6.1,-20,John Starks
+1999-11-27,34-109,GSW,HOME,TOR,L (-18),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,John Starks
+1999-12-01,34-113,GSW,AWAY,LAL,L (-18),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,John Starks
+1999-12-02,34-114,GSW,HOME,SEA,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,John Starks
+1999-12-04,34-116,GSW,HOME,UTA,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,John Starks
+1999-12-07,34-119,GSW,AWAY,NYK,L (-6),1,30:09,3,12,.250,0,1,.000,1,1,1.000,0,3,3,3,1,0,1,5,7,0.8,+4,John Starks
+1999-12-08,34-120,GSW,AWAY,CHH,L (-7),1,40:26,11,23,.478,5,9,.556,1,1,1.000,2,1,3,9,0,0,2,2,28,21.5,+14,John Starks
+1999-12-10,34-122,GSW,AWAY,ATL,W (+8),1,37:23,8,17,.471,1,4,.250,0,0,,0,6,6,7,0,1,2,5,17,11.7,+1,John Starks
+1999-12-11,34-123,GSW,AWAY,MIN,W (+28),1,34:45,10,20,.500,4,7,.571,3,4,.750,0,2,2,6,0,0,1,1,27,20.0,+28,John Starks
+1999-12-14,34-126,GSW,HOME,MIA,W (+5),1,39:09,9,18,.500,2,6,.333,1,2,.500,2,3,5,10,2,0,2,3,21,19.7,+10,John Starks
+1999-12-16,34-128,GSW,HOME,DET,L (-8),1,42:39,9,17,.529,3,8,.375,1,2,.500,0,3,3,6,1,0,2,5,22,15.4,-3,John Starks
+1999-12-17,34-129,GSW,AWAY,LAC,L (-1),1,40:04,7,19,.368,2,6,.333,2,2,1.000,0,2,2,7,2,0,4,0,18,11.0,-2,John Starks
+1999-12-20,34-132,GSW,HOME,SAC,W (+12),1,37:51,9,20,.450,0,4,.000,2,2,1.000,0,5,5,12,0,0,2,0,20,17.5,+14,John Starks
+1999-12-22,34-134,GSW,HOME,LAC,L (-4),1,37:03,9,19,.474,4,8,.500,0,0,,0,2,2,6,0,0,2,4,22,13.5,-5,John Starks
+1999-12-23,34-135,GSW,AWAY,POR,L (-20),1,33:54,8,21,.381,2,8,.250,0,0,,0,1,1,4,0,0,0,4,18,8.0,-14,John Starks
+1999-12-26,34-138,GSW,AWAY,PHO,L (-20),1,35:12,6,18,.333,1,5,.200,1,3,.333,0,0,0,7,3,0,2,3,14,7.7,-20,John Starks
+1999-12-27,34-139,GSW,HOME,SAS,L (-22),1,43:10,12,26,.462,2,3,.667,1,2,.500,0,4,4,5,3,0,1,1,27,19.5,-17,John Starks
+1999-12-29,34-141,GSW,HOME,PHI,L (-3),1,42:02,7,20,.350,3,11,.273,0,0,,0,8,8,4,0,0,5,5,17,4.0,+2,John Starks
+2000-01-03,34-146,GSW,AWAY,WAS,L (-12),1,41:04,7,22,.318,2,9,.222,0,0,,0,2,2,7,2,0,5,3,16,4.7,-11,John Starks
+2000-01-05,34-148,GSW,AWAY,PHI,L (-21),1,29:13,2,12,.167,0,5,.000,1,1,1.000,0,2,2,5,3,0,2,1,5,2.1,-12,John Starks
+2000-02-01,34-175,GSW,AWAY,LAC,W (+31),1,31:00,7,13,.538,4,5,.800,2,2,1.000,0,1,1,6,1,0,1,1,20,17.8,+27,John Starks
+2000-02-02,34-176,GSW,HOME,VAN,W (+6),1,36:18,4,14,.286,2,4,.500,7,7,1.000,2,3,5,3,1,0,3,5,17,9.2,+14,John Starks
+2000-02-04,34-178,GSW,HOME,DEN,W (+2),1,34:51,5,13,.385,1,5,.200,2,2,1.000,0,3,3,3,1,0,1,2,13,8.1,+2,John Starks
+2000-02-06,34-180,GSW,AWAY,NJN,L (-20),1,31:57,3,14,.214,1,4,.250,0,0,,0,1,1,4,1,0,2,4,7,-1.1,-1,John Starks
+2000-02-07,34-181,GSW,AWAY,ORL,L (-20),1,22:51,2,9,.222,1,2,.500,2,2,1.000,1,2,3,2,1,0,2,3,7,2.0,-19,John Starks
+2000-02-09,34-183,GSW,AWAY,MIA,L (-15),1,38:21,5,16,.313,0,5,.000,4,4,1.000,0,3,3,6,1,0,2,3,14,7.7,-1,John Starks
+2000-02-15,34-189,GSW,HOME,POR,L (-9),1,39:00,6,12,.500,2,6,.333,1,1,1.000,0,3,3,5,1,0,2,3,15,11.2,-4,John Starks
+2000-02-19,34-193,CHI,HOME,LAC,W (+2),0,14:27,0,6,.000,0,4,.000,2,2,1.000,0,3,3,2,1,0,0,2,2,0.3,+6,John Starks
+2000-02-22,34-196,CHI,HOME,VAN,L (-4),0,26:18,6,9,.667,2,2,1.000,3,3,1.000,0,2,2,4,1,1,2,4,17,14.6,0,John Starks
+2000-02-24,34-198,CHI,AWAY,IND,L (-17),0,30:17,5,13,.385,1,3,.333,0,0,,0,4,4,3,3,0,0,3,11,9.0,-15,John Starks
+2000-02-25,34-199,CHI,HOME,SAS,L (-13),0,11:43,0,6,.000,0,1,.000,0,0,,0,1,1,2,0,0,1,0,0,-3.5,+5,John Starks
+2000-02-27,34-201,CHI,AWAY,DET,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,John Starks
+2000-02-29,34-203,CHI,AWAY,TOR,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,John Starks
+2000-03-02,34-205,CHI,HOME,CLE,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,John Starks
+2000-03-04,34-207,CHI,HOME,PHI,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,John Starks
+2000-03-05,34-208,CHI,AWAY,CHH,L (-6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,John Starks
+2000-03-07,34-210,CHI,HOME,ATL,W (+7),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,John Starks
+2000-03-08,34-211,CHI,AWAY,ORL,L (-36),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,John Starks
+2000-03-10,34-213,CHI,AWAY,BOS,L (-30),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,John Starks
+2000-03-13,34-216,CHI,HOME,UTA,L (-8),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,John Starks

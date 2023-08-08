@@ -96,7 +96,6 @@ def isNumHyph(s):
 def get_game_logs(_name = None,year = None, playoffs=False, ask_matches=True,suffix = None,advanced = False):
     if not suffix:
         name = lookup(_name, ask_matches)
-        print(name)
         suffix = get_player_suffix(name)[:-5]
     if advanced:
         selector = 'pgl_advanced'
@@ -143,7 +142,7 @@ def get_game_logs(_name = None,year = None, playoffs=False, ask_matches=True,suf
                 
 
     else:
-        print('getting big batch')
+        # print('getting big batch')
         r = RetriableRequest.get(f'https://www.basketball-reference.com/{suffix}.html')
         html_content = r.text
         html_content = html_content.replace("<!--", "")
@@ -155,7 +154,6 @@ def get_game_logs(_name = None,year = None, playoffs=False, ask_matches=True,suf
         game_log_years = set([tag.text for tag in soup.find_all('a', href=lambda href: href and suffix in href and 'gamelog' in href) if isNumHyph(tag.text) ])
         
         
-        print(game_log_years)
         for season in game_log_years:
             # print(f'getting 20{season[-2:]} logs', end='\r')
             values = get_game_logs(suffix=suffix, playoffs=True, year=f'20{season[-2:]}')

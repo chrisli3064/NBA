@@ -1,0 +1,131 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2001-11-01,33-285,MEM,HOME,DET,L (-10),0,22:03,2,7,.286,1,4,.250,0,0,,0,2,2,3,0,0,2,3,5,0.4,-1,Nick Anderson
+2001-11-02,33-286,MEM,AWAY,MIN,L (-9),0,18:59,4,10,.400,1,6,.167,0,1,.000,0,5,5,2,0,1,2,2,9,4.0,-1,Nick Anderson
+2001-11-04,33-288,MEM,HOME,DAL,L (-9),0,17:45,1,5,.200,1,4,.250,2,2,1.000,0,4,4,0,0,1,1,2,5,2.0,-14,Nick Anderson
+2001-11-06,33-290,MEM,AWAY,PHO,L (-12),0,25:15,5,14,.357,5,10,.500,2,4,.500,0,1,1,1,1,0,0,0,17,10.4,-11,Nick Anderson
+2001-11-07,33-291,MEM,AWAY,LAC,L (-16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Anderson
+2001-11-12,33-296,MEM,HOME,GSW,L (-7),0,5:28,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,1,1,1,0,-0.7,-10,Nick Anderson
+2001-11-15,33-299,MEM,HOME,POR,L (-16),0,28:58,2,9,.222,2,5,.400,0,0,,1,5,6,4,1,2,4,1,6,3.5,-3,Nick Anderson
+2001-11-17,33-301,MEM,HOME,CLE,W (+5),0,7:33,1,3,.333,1,2,.500,0,0,,0,1,1,0,1,0,1,0,3,1.6,-4,Nick Anderson
+2001-11-21,33-305,MEM,AWAY,CLE,L (-7),0,18:18,0,4,.000,0,2,.000,1,2,.500,0,2,2,0,1,1,0,1,1,-0.3,-6,Nick Anderson
+2001-11-23,33-307,MEM,HOME,PHO,L (-14),0,13:14,1,4,.250,1,3,.333,0,0,,0,2,2,1,1,0,0,0,3,2.9,-14,Nick Anderson
+2001-11-24,33-308,MEM,AWAY,DET,L (-7),0,15:23,2,6,.333,0,3,.000,0,0,,0,1,1,0,0,0,0,1,4,0.5,+7,Nick Anderson
+2001-11-26,33-310,MEM,HOME,SAC,W (+4),0,17:05,1,5,.200,0,1,.000,0,0,,0,5,5,1,1,0,2,1,2,-0.3,-1,Nick Anderson
+2001-11-30,33-314,MEM,HOME,HOU,W (+17),0,11:24,1,2,.500,0,1,.000,0,0,,0,1,1,0,0,0,0,2,2,0.5,+9,Nick Anderson
+2001-12-02,33-316,MEM,AWAY,PHI,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Anderson
+2001-12-03,33-317,MEM,AWAY,ORL,L (-42),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Anderson
+2001-12-06,33-320,MEM,HOME,MIN,L (-25),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Anderson
+2001-12-08,33-322,MEM,HOME,PHI,W (+9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Anderson
+2001-12-11,33-325,MEM,HOME,WAS,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Anderson
+2001-12-16,33-330,MEM,AWAY,SAC,L (-17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Anderson
+2002-01-02,33-347,MEM,AWAY,NJN,L (-18),0,8:51,0,2,.000,0,2,.000,0,0,,0,1,1,0,0,0,0,2,0,-1.9,-7,Nick Anderson
+2002-01-14,33-359,MEM,AWAY,LAL,L (-39),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Anderson
+2002-01-17,33-362,MEM,HOME,DAL,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Anderson
+2002-01-21,34-001,MEM,AWAY,SAC,L (-14),0,6:54,1,3,.333,1,3,.333,0,0,,0,1,1,0,0,0,1,0,3,0.6,-4,Nick Anderson
+2002-01-26,34-006,MEM,AWAY,CHI,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Anderson
+2002-01-30,34-010,MEM,AWAY,IND,L (-1),0,3:08,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,1,0,-0.4,-1,Nick Anderson
+2000-10-31,32-285,SAC,AWAY,CHI,W (+19),0,7:13,1,2,.500,1,2,.500,0,0,,0,2,2,0,0,1,0,0,3,3.3,+2,Nick Anderson
+2000-11-01,32-286,SAC,AWAY,CLE,L (-2),0,6:02,1,2,.500,1,1,1.000,0,0,,1,1,2,0,0,0,0,0,3,3.0,+3,Nick Anderson
+2000-11-03,32-288,SAC,AWAY,DET,W (+7),0,9:19,0,0,,0,0,,0,0,,0,0,0,0,3,0,1,1,0,1.6,+4,Nick Anderson
+2000-11-04,32-289,SAC,AWAY,MIN,L (-8),0,5:15,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-6,Nick Anderson
+2000-11-06,32-291,SAC,HOME,POR,W (+4),0,7:44,1,3,.333,1,2,.500,0,0,,1,0,1,0,0,0,0,0,3,2.0,+7,Nick Anderson
+2000-11-08,32-293,SAC,HOME,GSW,W (+31),0,18:35,2,6,.333,1,4,.250,0,0,,0,4,4,1,3,1,0,0,5,7.2,+5,Nick Anderson
+2000-11-10,32-295,SAC,AWAY,GSW,W (+7),0,14:05,1,5,.200,0,3,.000,0,0,,0,1,1,0,0,0,0,4,2,-2.4,-5,Nick Anderson
+2000-11-12,32-297,SAC,HOME,DAL,W (+25),0,3:57,0,1,.000,0,0,,0,0,,0,3,3,1,0,0,1,1,0,-0.5,-3,Nick Anderson
+2000-11-14,32-299,SAC,HOME,ORL,W (+14),0,4:39,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,2,0,0,-2.7,+2,Nick Anderson
+2000-11-16,32-301,SAC,HOME,LAL,L (-2),0,7:26,1,3,.333,1,2,.500,0,0,,0,0,0,2,1,0,0,0,3,3.7,+1,Nick Anderson
+2000-11-22,32-307,SAC,HOME,CHI,W (+29),0,6:25,0,1,.000,0,1,.000,0,0,,0,1,1,0,1,1,0,0,0,1.3,0,Nick Anderson
+2000-12-01,32-316,SAC,HOME,PHO,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Anderson
+2000-12-13,32-328,SAC,AWAY,CHH,L (-11),0,5:19,0,3,.000,0,3,.000,0,0,,0,1,1,0,0,0,0,3,0,-3.0,0,Nick Anderson
+2000-12-15,32-330,SAC,AWAY,BOS,W (+23),0,7:58,1,3,.333,1,3,.333,0,0,,0,0,0,0,0,0,0,1,3,0.9,-1,Nick Anderson
+2000-12-19,32-334,SAC,HOME,WAS,W (+34),0,9:37,2,6,.333,1,4,.250,0,0,,0,1,1,1,1,0,1,0,5,2.6,+6,Nick Anderson
+2001-01-23,33-003,SAC,HOME,NJN,W (+26),0,6:18,1,4,.250,1,3,.333,0,0,,1,0,1,0,0,0,0,0,3,1.3,0,Nick Anderson
+2001-01-30,33-010,SAC,HOME,GSW,W (+26),0,7:09,1,5,.200,1,5,.200,0,0,,0,1,1,0,0,0,1,0,3,-0.8,-9,Nick Anderson
+2001-02-06,33-017,SAC,AWAY,MIL,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Anderson
+2001-02-07,33-018,SAC,AWAY,MIN,L (-29),0,12:00,0,3,.000,0,1,.000,0,0,,0,5,5,5,1,0,0,1,0,3.5,0,Nick Anderson
+2001-02-15,33-026,SAC,AWAY,POR,L (-24),0,17:30,1,3,.333,1,3,.333,0,0,,0,0,0,2,0,1,1,1,3,2.0,+4,Nick Anderson
+2001-02-16,33-027,SAC,HOME,DEN,W (+33),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Anderson
+2001-04-05,33-075,SAC,AWAY,UTA,W (+6),0,4:06,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-6,Nick Anderson
+2001-04-06,33-076,SAC,AWAY,VAN,W (+28),0,8:03,1,5,.200,0,1,.000,0,0,,0,1,1,1,0,0,0,0,2,-0.1,-1,Nick Anderson
+2001-04-16,33-086,SAC,HOME,VAN,W (+10),0,1:29,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,-5,Nick Anderson
+1999-11-05,31-289,SAC,HOME,MIN,W (+5),1,36:19,6,12,.500,5,7,.714,0,0,,1,9,10,5,0,0,1,1,17,16.5,+2,Nick Anderson
+1999-11-06,31-290,SAC,AWAY,MIN,L (-13),1,31:39,3,9,.333,1,3,.333,0,0,,0,1,1,1,0,1,1,2,7,1.8,-11,Nick Anderson
+1999-11-12,31-296,SAC,HOME,UTA,W (+13),1,30:51,5,11,.455,2,4,.500,0,0,,1,3,4,1,1,0,0,0,12,9.6,+4,Nick Anderson
+1999-11-14,31-298,SAC,HOME,DEN,W (+10),1,30:17,3,12,.250,2,7,.286,0,0,,0,4,4,5,0,0,2,2,8,2.7,-2,Nick Anderson
+1999-11-16,31-300,SAC,HOME,VAN,W (+4),1,24:39,1,11,.091,0,6,.000,0,0,,2,4,6,1,2,0,0,3,2,-1.2,+4,Nick Anderson
+1999-11-18,31-302,SAC,AWAY,HOU,W (+18),1,26:19,3,9,.333,2,6,.333,0,0,,1,2,3,1,2,0,0,2,8,6.1,-9,Nick Anderson
+1999-11-19,31-303,SAC,AWAY,DAL,W (+9),1,24:00,0,7,.000,0,6,.000,0,0,,0,6,6,1,1,0,1,1,0,-2.8,-8,Nick Anderson
+1999-11-21,31-305,SAC,HOME,HOU,W (+5),1,32:54,4,12,.333,2,6,.333,0,0,,2,6,8,3,0,1,2,1,10,6.8,+7,Nick Anderson
+1999-11-23,31-307,SAC,HOME,NJN,W (+13),1,33:48,6,13,.462,4,9,.444,0,2,.000,3,4,7,1,3,0,0,2,16,14.7,+8,Nick Anderson
+1999-11-26,31-310,SAC,HOME,GSW,W (+29),1,24:00,5,12,.417,3,7,.429,0,0,,0,1,1,0,1,1,1,0,13,7.6,+4,Nick Anderson
+1999-11-29,31-313,SAC,AWAY,MIA,L (-10),1,23:35,4,12,.333,1,6,.167,0,1,.000,1,5,6,0,2,0,2,1,9,3.6,-18,Nick Anderson
+1999-11-30,31-314,SAC,AWAY,ORL,W (+9),1,34:35,6,13,.462,5,9,.556,1,1,1.000,3,8,11,5,3,1,1,0,18,22.0,+8,Nick Anderson
+1999-12-02,31-316,SAC,AWAY,ATL,L (-10),1,31:42,5,8,.625,1,3,.333,0,0,,0,4,4,0,1,0,0,2,11,8.8,-1,Nick Anderson
+1999-12-04,31-318,SAC,AWAY,WAS,W (+10),1,27:41,5,9,.556,0,3,.000,2,3,.667,0,2,2,0,3,0,0,2,12,10.1,+5,Nick Anderson
+1999-12-06,31-320,SAC,AWAY,NJN,L (-14),1,28:27,3,6,.500,0,2,.000,0,0,,0,4,4,0,1,0,2,2,6,2.4,-2,Nick Anderson
+1999-12-08,31-322,SAC,HOME,LAL,W (+12),1,33:18,5,15,.333,1,5,.200,1,4,.250,4,5,9,1,3,0,0,3,12,9.1,+2,Nick Anderson
+1999-12-10,31-324,SAC,HOME,MIA,L (-10),1,34:05,6,17,.353,4,12,.333,0,0,,1,4,5,2,1,1,1,5,16,8.5,-7,Nick Anderson
+1999-12-11,31-325,SAC,HOME,POR,L (-5),1,31:36,3,11,.273,1,6,.167,0,0,,1,4,5,1,0,0,2,2,7,0.3,-11,Nick Anderson
+1999-12-15,31-329,SAC,AWAY,VAN,W (+3),1,22:59,0,6,.000,0,5,.000,0,0,,1,3,4,1,1,0,1,1,0,-2.3,-12,Nick Anderson
+1999-12-16,31-330,SAC,AWAY,DEN,L (-10),1,24:03,0,6,.000,0,2,.000,0,0,,1,3,4,2,0,1,1,2,0,-2.3,-8,Nick Anderson
+1999-12-18,31-332,SAC,AWAY,PHO,L (-16),1,32:43,4,8,.500,2,5,.400,0,0,,1,3,4,4,4,0,2,1,10,12.0,-3,Nick Anderson
+1999-12-20,31-334,SAC,AWAY,GSW,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Anderson
+1999-12-21,31-335,SAC,HOME,MIL,W (+13),1,23:07,0,3,.000,0,2,.000,0,0,,1,1,2,0,4,0,2,1,0,0.5,+12,Nick Anderson
+1999-12-23,31-337,SAC,AWAY,LAC,L (-6),1,27:02,1,5,.200,1,4,.250,0,2,.000,1,6,7,1,1,0,1,2,3,1.5,+5,Nick Anderson
+1999-12-26,31-340,SAC,HOME,DAL,W (+7),1,30:14,3,5,.600,3,4,.750,0,0,,0,3,3,3,2,0,0,0,9,11.7,+11,Nick Anderson
+1999-12-28,31-342,SAC,HOME,BOS,W (+13),1,20:42,4,10,.400,2,7,.286,0,0,,0,3,3,1,2,0,0,1,10,7.8,+12,Nick Anderson
+1999-12-29,31-343,SAC,AWAY,SEA,W (+9),1,25:41,3,9,.333,1,6,.167,0,0,,0,3,3,0,0,0,1,0,7,1.8,-5,Nick Anderson
+2000-01-04,31-349,SAC,AWAY,CLE,W (+4),1,22:45,3,6,.500,2,4,.500,1,2,.500,2,0,2,2,1,0,1,2,9,7.6,+2,Nick Anderson
+2000-01-06,31-351,SAC,AWAY,TOR,L (-12),1,28:29,1,7,.143,0,2,.000,0,0,,1,3,4,0,1,1,3,1,2,-2.6,-7,Nick Anderson
+2000-01-07,31-352,SAC,AWAY,BOS,L (-8),1,35:30,9,16,.563,6,11,.545,0,0,,2,5,7,2,5,0,4,2,24,20.9,+10,Nick Anderson
+2000-01-09,31-354,SAC,HOME,IND,W (+3),1,40:36,10,16,.625,4,4,1.000,1,2,.500,2,6,8,1,2,0,3,1,25,19.9,+12,Nick Anderson
+2000-01-11,31-356,SAC,HOME,HOU,W (+17),1,27:20,5,11,.455,1,5,.200,0,0,,1,1,2,1,2,1,1,1,11,8.3,+10,Nick Anderson
+2000-01-13,31-358,SAC,HOME,SAS,W (+4),1,29:56,3,13,.231,1,5,.200,3,5,.600,2,3,5,1,1,0,1,2,10,3.5,+4,Nick Anderson
+2000-01-15,31-360,SAC,AWAY,GSW,W (+15),1,27:22,2,9,.222,1,6,.167,0,0,,4,2,6,2,0,0,0,0,5,4.3,+7,Nick Anderson
+2000-01-16,31-361,SAC,HOME,CLE,W (+11),1,30:05,5,12,.417,2,7,.286,0,0,,0,2,2,2,0,0,2,2,12,4.8,+16,Nick Anderson
+2000-01-18,31-363,SAC,HOME,LAC,W (+6),1,31:09,8,15,.533,2,6,.333,1,3,.333,2,2,4,2,1,0,2,1,19,12.9,+10,Nick Anderson
+2000-01-20,32-000,SAC,HOME,ORL,W (+8),1,25:23,4,10,.400,3,9,.333,0,0,,0,5,5,3,3,0,4,2,11,7.4,-3,Nick Anderson
+2000-01-22,32-002,SAC,HOME,UTA,L (-3),1,34:01,6,14,.429,3,5,.600,0,2,.000,3,5,8,1,1,0,1,4,15,9.5,+8,Nick Anderson
+2000-01-25,32-005,SAC,AWAY,CHH,W (+11),1,37:52,11,16,.688,3,3,1.000,4,4,1.000,1,2,3,4,2,0,5,0,29,23.3,+23,Nick Anderson
+2000-01-26,32-006,SAC,AWAY,MIL,L (-8),1,31:22,8,18,.444,5,10,.500,3,4,.750,0,5,5,3,0,1,2,2,24,15.7,-12,Nick Anderson
+2000-01-28,32-008,SAC,AWAY,CHI,W (+12),1,33:50,5,13,.385,3,9,.333,0,0,,1,3,4,1,2,1,3,2,13,7.1,+9,Nick Anderson
+2000-01-30,32-010,SAC,AWAY,NYK,L (-9),1,28:12,4,10,.400,0,4,.000,0,0,,1,4,5,2,1,0,2,3,8,3.7,-13,Nick Anderson
+2000-01-31,32-011,SAC,AWAY,MIN,L (-15),1,26:58,4,13,.308,2,5,.400,0,0,,4,2,6,0,4,0,0,2,10,9.1,-19,Nick Anderson
+2000-02-02,32-013,SAC,AWAY,DET,W (+3),1,30:57,4,14,.286,0,7,.000,0,0,,1,3,4,4,1,0,1,3,8,3.0,-1,Nick Anderson
+2000-02-04,32-015,SAC,AWAY,IND,L (-10),1,32:00,2,9,.222,0,2,.000,0,0,,1,2,3,3,0,0,1,2,4,0.1,-8,Nick Anderson
+2000-02-06,32-017,SAC,AWAY,PHI,L (-11),1,18:25,2,7,.286,1,2,.500,0,0,,1,1,2,2,1,0,1,1,5,2.9,-24,Nick Anderson
+2000-02-08,32-019,SAC,HOME,CHI,W (+39),1,24:16,7,13,.538,5,10,.500,0,0,,1,0,1,2,1,0,0,1,19,15.4,+11,Nick Anderson
+2000-02-10,32-021,SAC,HOME,DEN,W (+12),1,29:13,8,19,.421,3,9,.333,1,2,.500,0,7,7,2,1,1,1,1,20,13.3,+11,Nick Anderson
+2000-02-15,32-026,SAC,HOME,PHO,L (-9),1,33:11,5,12,.417,3,8,.375,2,4,.500,3,2,5,5,1,1,4,3,15,10.5,-11,Nick Anderson
+2000-02-17,32-028,SAC,AWAY,UTA,L (-11),1,28:46,4,9,.444,1,2,.500,2,4,.500,1,5,6,0,1,0,3,1,11,5.3,+3,Nick Anderson
+2000-02-18,32-029,SAC,HOME,SEA,W (+33),1,23:54,5,13,.385,1,7,.143,0,0,,0,3,3,0,1,1,1,3,11,4.3,+4,Nick Anderson
+2000-02-20,32-031,SAC,HOME,POR,L (-5),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Nick Anderson
+2000-02-21,32-032,SAC,AWAY,DEN,L (-6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Nick Anderson
+2000-02-23,32-034,SAC,HOME,ATL,L (-6),1,18:06,3,4,.750,0,1,.000,0,0,,2,1,3,1,0,0,1,2,6,5.0,-8,Nick Anderson
+2000-02-26,32-037,SAC,AWAY,VAN,L (-12),1,32:03,7,15,.467,4,9,.444,0,0,,1,1,2,3,2,0,2,2,18,12.6,-1,Nick Anderson
+2000-02-29,32-040,SAC,HOME,VAN,W (+25),1,24:00,5,7,.714,2,3,.667,1,1,1.000,0,1,1,2,0,0,1,2,13,10.0,-4,Nick Anderson
+2000-03-02,32-042,SAC,AWAY,HOU,L (-3),1,33:27,6,14,.429,2,7,.286,0,0,,3,5,8,3,1,0,3,3,14,9.1,-3,Nick Anderson
+2000-03-04,32-044,SAC,AWAY,SAS,W (+5),1,35:37,4,12,.333,2,5,.400,0,2,.000,1,4,5,2,0,0,2,2,10,2.9,+5,Nick Anderson
+2000-03-06,32-046,SAC,HOME,DAL,W (+21),1,33:18,6,11,.545,5,7,.714,0,0,,0,4,4,2,1,0,0,2,17,14.5,+7,Nick Anderson
+2000-03-08,32-048,SAC,HOME,CHH,W (+13),1,22:38,5,12,.417,1,2,.500,0,1,.000,2,4,6,1,0,0,0,0,11,7.5,+3,Nick Anderson
+2000-03-10,32-050,SAC,HOME,TOR,W (+15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Anderson
+2000-03-12,32-052,SAC,AWAY,LAL,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Anderson
+2000-03-14,32-054,SAC,AWAY,POR,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Anderson
+2000-03-15,32-055,SAC,HOME,LAC,W (+20),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Anderson
+2000-03-18,32-058,SAC,AWAY,LAC,W (+21),1,23:22,3,11,.273,1,5,.200,0,0,,0,5,5,2,1,0,2,0,7,2.4,+4,Nick Anderson
+2000-03-21,32-061,SAC,HOME,WAS,W (+12),1,31:19,2,7,.286,0,3,.000,1,2,.500,0,4,4,3,2,1,0,0,5,6.5,-2,Nick Anderson
+2000-03-22,32-062,SAC,AWAY,PHO,L (-21),1,26:23,5,13,.385,0,4,.000,0,2,.000,2,3,5,0,0,0,2,3,10,1.2,-30,Nick Anderson
+2000-03-24,32-064,SAC,HOME,DET,W (+10),1,41:14,11,21,.524,6,15,.400,0,0,,2,9,11,0,0,0,1,4,28,19.2,+15,Nick Anderson
+2000-03-26,32-066,SAC,HOME,LAL,L (-1),1,32:41,3,13,.231,2,9,.222,0,1,.000,2,2,4,0,0,0,1,2,8,-0.1,+7,Nick Anderson
+2000-03-28,32-068,SAC,HOME,NYK,W (+8),1,21:17,1,3,.333,0,2,.000,0,0,,0,5,5,3,0,0,1,1,2,2.5,-6,Nick Anderson
+2000-03-31,32-071,SAC,AWAY,SEA,L (-15),1,23:33,0,7,.000,0,3,.000,0,0,,0,1,1,1,3,0,0,2,0,-1.7,-21,Nick Anderson
+2000-04-02,32-073,SAC,HOME,PHI,W (+22),1,26:33,4,10,.400,2,6,.333,1,2,.500,1,2,3,3,2,0,1,2,11,8.8,+15,Nick Anderson
+2000-04-04,32-075,SAC,AWAY,DAL,L (-3),1,24:00,1,7,.143,0,3,.000,0,0,,0,3,3,1,3,0,1,0,2,1.1,-3,Nick Anderson
+2000-04-05,32-076,SAC,AWAY,SAS,W (+10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Anderson
+2000-04-07,32-078,SAC,HOME,MIN,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Nick Anderson
+2000-04-09,32-080,SAC,HOME,PHO,L (-5),1,25:36,1,7,.143,0,4,.000,0,0,,2,2,4,1,0,0,0,2,2,-0.6,+1,Nick Anderson
+2000-04-11,32-082,SAC,HOME,SAS,L (-6),1,37:18,6,13,.462,2,6,.333,2,4,.500,0,7,7,2,3,0,0,3,16,13.8,+4,Nick Anderson
+2000-04-13,32-084,SAC,HOME,GSW,W (+23),1,23:44,4,10,.400,0,2,.000,5,8,.625,0,5,5,3,2,0,1,0,13,11.0,+27,Nick Anderson
+2000-04-14,32-085,SAC,AWAY,LAL,L (-7),1,30:40,7,14,.500,3,6,.500,5,6,.833,4,2,6,3,2,1,3,2,22,19.0,-7,Nick Anderson
+2000-04-16,32-087,SAC,AWAY,POR,L (-7),1,36:20,5,13,.385,2,5,.400,0,2,.000,1,5,6,2,0,0,1,2,12,5.9,-6,Nick Anderson
+2000-04-18,32-089,SAC,HOME,SEA,L (-7),1,33:10,4,12,.333,3,6,.500,0,0,,1,7,8,0,1,1,2,1,11,6.3,-3,Nick Anderson

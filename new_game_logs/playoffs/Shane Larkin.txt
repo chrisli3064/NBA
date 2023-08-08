@@ -1,0 +1,21 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2018-04-15,25-195,BOS,HOME,MIL,W (+6),0,16:25,2,4,.500,1,3,.333,0,0,,0,1,1,2,1,0,4,2,5,0.9,+12,Shane Larkin
+2018-04-17,25-197,BOS,HOME,MIL,W (+14),0,20:31,5,8,.625,1,3,.333,0,0,,0,0,0,3,0,0,0,2,11,8.7,-8,Shane Larkin
+2018-04-20,25-200,BOS,AWAY,MIL,L (-24),0,18:39,1,5,.200,0,3,.000,0,0,,0,0,0,0,0,0,0,3,2,-2.3,-19,Shane Larkin
+2018-04-22,25-202,BOS,AWAY,MIL,L (-2),0,16:32,0,1,.000,0,0,,0,0,,0,0,0,4,0,0,0,0,0,2.1,-14,Shane Larkin
+2018-04-24,25-204,BOS,HOME,MIL,W (+5),0,14:14,2,2,1.000,0,0,,0,0,,1,1,2,2,2,0,1,2,4,6.0,+3,Shane Larkin
+2018-04-26,25-206,BOS,AWAY,MIL,L (-11),0,9:03,1,1,1.000,0,0,,0,0,,0,1,1,2,0,0,0,0,2,3.4,+1,Shane Larkin
+2018-04-28,25-208,BOS,HOME,MIL,W (+16),0,14:23,2,5,.400,1,2,.500,3,3,1.000,0,1,1,2,1,0,0,1,8,7.6,+11,Shane Larkin
+2018-04-30,25-210,BOS,HOME,PHI,W (+16),0,18:07,1,6,.167,1,1,1.000,2,2,1.000,0,3,3,4,0,0,0,3,5,3.7,+10,Shane Larkin
+2018-05-03,25-213,BOS,HOME,PHI,W (+5),0,9:56,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,1,1,2,0.3,-12,Shane Larkin
+2018-05-05,25-215,BOS,AWAY,PHI,W (+3),0,14:26,1,2,.500,0,1,.000,0,0,,0,3,3,1,1,0,0,1,2,3.2,+3,Shane Larkin
+2018-05-07,25-217,BOS,AWAY,PHI,L (-11),0,1:45,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1,Shane Larkin
+2018-05-09,25-219,BOS,HOME,PHI,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Shane Larkin
+2018-05-13,25-223,BOS,HOME,CLE,W (+25),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Shane Larkin
+2018-05-15,25-225,BOS,HOME,CLE,W (+13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Shane Larkin
+2018-05-19,25-229,BOS,AWAY,CLE,L (-30),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Shane Larkin
+2018-05-21,25-231,BOS,AWAY,CLE,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Shane Larkin
+2018-05-23,25-233,BOS,HOME,CLE,W (+13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Shane Larkin
+2018-05-27,25-237,BOS,HOME,CLE,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Shane Larkin
+2014-04-23,21-203,DAL,AWAY,SAS,W (+21),0,2:09,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-1.4,+1,Shane Larkin
+2014-05-04,21-214,DAL,AWAY,SAS,L (-23),0,7:21,0,1,.000,0,0,,0,0,,0,1,1,2,0,0,1,0,0,0.0,+2,Shane Larkin

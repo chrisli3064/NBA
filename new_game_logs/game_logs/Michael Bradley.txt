@@ -1,0 +1,191 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2001-10-30,22-195,TOR,AWAY,ORL,L (-29),0,7:01,0,1,.000,0,1,.000,1,4,.250,0,0,0,0,0,0,2,1,1,-3.3,-9,Michael Bradley
+2001-10-31,22-196,TOR,AWAY,MIA,L (-5),0,3:44,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+5,Michael Bradley
+2001-11-02,22-198,TOR,HOME,DAL,W (+17),0,3:37,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-5,Michael Bradley
+2001-11-04,22-200,TOR,HOME,IND,W (+13),0,1:33,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Michael Bradley
+2001-11-07,22-203,TOR,HOME,GSW,W (+17),0,5:56,2,3,.667,0,0,,0,0,,1,1,2,0,0,0,0,0,4,3.7,-2,Michael Bradley
+2001-11-10,22-206,TOR,AWAY,UTA,W (+21),0,4:38,1,2,.500,0,0,,0,0,,1,0,1,0,0,1,0,0,2,2.4,-6,Michael Bradley
+2001-11-14,22-210,TOR,AWAY,GSW,W (+7),0,1:46,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,-1,Michael Bradley
+2001-12-12,22-238,TOR,AWAY,SAS,L (-13),0,7:01,2,3,.667,0,0,,0,0,,0,0,0,0,0,0,0,1,4,2.3,+3,Michael Bradley
+2001-12-23,22-249,TOR,HOME,MIA,W (+7),0,2:42,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-8,Michael Bradley
+2001-12-29,22-255,TOR,AWAY,SEA,L (-26),0,12:00,0,1,.000,0,1,.000,0,0,,0,4,4,1,0,0,1,0,0,0.2,-3,Michael Bradley
+2002-01-02,22-259,TOR,AWAY,POR,W (+11),0,1:20,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3,Michael Bradley
+2002-01-04,22-261,TOR,HOME,CLE,W (+10),0,3:17,0,1,.000,0,0,,0,0,,0,2,2,1,0,0,0,0,0,0.6,-6,Michael Bradley
+2002-01-06,22-263,TOR,HOME,LAL,L (-20),0,2:37,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,2,2.0,0,Michael Bradley
+2002-01-25,22-282,TOR,HOME,MIN,W (+7),0,3:18,0,0,,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0.7,-8,Michael Bradley
+2002-02-04,22-292,TOR,AWAY,PHI,W (+7),0,1:10,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+5,Michael Bradley
+2002-02-07,22-295,TOR,HOME,SAS,W (+6),0,1:22,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-2,Michael Bradley
+2002-02-12,22-300,TOR,AWAY,CLE,L (-18),0,3:37,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,0,Michael Bradley
+2002-02-15,22-303,TOR,HOME,UTA,L (-9),0,10:23,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,1,0,0.3,-1,Michael Bradley
+2002-02-18,22-306,TOR,AWAY,DET,L (-13),0,2:11,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,+2,Michael Bradley
+2002-03-19,22-335,TOR,AWAY,MIN,L (-32),0,5:31,1,1,1.000,0,0,,2,2,1.000,0,0,0,0,0,0,1,2,4,1.9,-3,Michael Bradley
+2002-03-22,22-338,TOR,AWAY,CLE,W (+14),0,3:08,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,-2,Michael Bradley
+2002-03-28,22-344,TOR,AWAY,ATL,W (+2),0,4:20,0,0,,0,0,,1,2,.500,0,1,1,0,0,1,0,2,1,0.8,-7,Michael Bradley
+2002-04-12,22-359,TOR,HOME,ATL,W (+39),0,13:02,3,6,.500,0,0,,0,0,,2,4,6,0,0,2,1,2,6,5.2,+10,Michael Bradley
+2002-04-14,22-361,TOR,HOME,NJN,W (+19),0,9:42,1,3,.333,0,0,,0,0,,1,1,2,0,0,1,0,0,2,2.0,-7,Michael Bradley
+2002-04-16,22-363,TOR,AWAY,MIL,L (-16),0,1:07,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.7,+2,Michael Bradley
+2002-04-17,22-364,TOR,HOME,CLE,W (+18),0,1:36,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.0,+2,Michael Bradley
+2005-11-15,26-211,PHI,HOME,TOR,W (+12),0,4:31,2,2,1.000,0,0,,0,0,,1,0,1,1,0,1,0,0,4,5.5,+6,Michael Bradley
+2005-11-16,26-212,PHI,AWAY,TOR,W (+6),0,3:45,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,-5,Michael Bradley
+2005-11-18,26-214,PHI,AWAY,MIA,L (-10),0,4:50,0,1,.000,0,0,,0,0,,1,0,1,0,0,0,0,1,0,-0.4,-8,Michael Bradley
+2005-11-19,26-215,PHI,HOME,CLE,L (-3),0,5:40,0,0,,0,0,,0,0,,1,0,1,1,0,0,2,1,0,-1.0,-3,Michael Bradley
+2005-11-26,26-222,PHI,AWAY,NYK,L (-3),0,8:38,1,1,1.000,0,0,,0,0,,1,0,1,0,0,1,1,1,2,1.7,+4,Michael Bradley
+2005-11-29,26-225,PHI,HOME,POR,W (+24),0,6:21,2,3,.667,0,0,,2,2,1.000,1,2,3,0,0,0,0,1,6,5.6,+2,Michael Bradley
+2005-11-30,26-226,PHI,AWAY,BOS,L (-7),0,5:51,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,+2,Michael Bradley
+2005-12-02,26-228,PHI,AWAY,NOK,L (-2),0,4:58,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,1,0,0.3,-7,Michael Bradley
+2005-12-07,26-233,PHI,HOME,MIL,L (-3),0,4:44,0,0,,0,0,,0,0,,0,2,2,0,1,0,1,0,0,0.6,+1,Michael Bradley
+2005-12-09,26-235,PHI,HOME,CHA,W (+4),0,13:37,0,2,.000,0,0,,0,0,,3,3,6,1,1,2,0,1,0,4.3,-1,Michael Bradley
+2005-12-10,26-236,PHI,AWAY,NJN,W (+12),0,16:55,3,3,1.000,0,0,,0,0,,1,3,4,0,0,1,1,0,6,6.4,+6,Michael Bradley
+2005-12-21,26-247,PHI,HOME,GSW,W (+11),0,5:19,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,-5,Michael Bradley
+2006-01-04,26-261,PHI,AWAY,PHO,L (-20),0,5:02,1,1,1.000,0,0,,0,0,,0,2,2,0,0,0,0,0,2,2.3,+5,Michael Bradley
+2006-01-06,26-263,PHI,AWAY,LAL,L (-26),0,5:01,1,3,.333,0,0,,0,0,,1,3,4,0,0,0,0,1,2,1.5,-7,Michael Bradley
+2006-01-13,26-270,PHI,HOME,BOS,W (+1),0,14:04,2,4,.500,0,0,,0,0,,3,0,3,1,0,0,0,2,4,4.0,+6,Michael Bradley
+2006-01-16,26-273,PHI,AWAY,WAS,L (-28),0,17:48,0,3,.000,0,0,,0,0,,3,1,4,2,0,0,1,1,0,0.3,+1,Michael Bradley
+2006-01-18,26-275,PHI,HOME,NJN,L (-11),0,17:20,2,2,1.000,0,0,,0,0,,2,8,10,0,0,0,0,1,4,6.8,+8,Michael Bradley
+2006-01-20,26-277,PHI,HOME,MEM,W (+3),0,12:45,1,2,.500,0,0,,0,0,,0,6,6,1,2,0,2,1,2,3.1,+3,Michael Bradley
+2006-01-22,26-279,PHI,AWAY,MIN,W (+2),0,2:08,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,0,Michael Bradley
+2006-01-24,26-281,PHI,HOME,SAC,W (+6),0,8:54,2,3,.667,0,0,,0,0,,3,2,5,2,0,0,0,3,4,5.6,-4,Michael Bradley
+2006-01-26,26-283,PHI,HOME,ORL,L (-4),0,2:19,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,3,0,-1.2,-1,Michael Bradley
+2006-01-28,26-285,PHI,HOME,NYK,W (+15),0,8:59,0,3,.000,0,0,,0,0,,2,1,3,0,0,0,0,0,0,-0.4,-1,Michael Bradley
+2006-01-29,26-286,PHI,AWAY,ORL,W (+8),0,4:54,1,3,.333,0,1,.000,0,0,,0,2,2,0,0,0,0,1,2,0.5,+2,Michael Bradley
+2006-01-31,26-288,PHI,HOME,PHO,L (-24),0,7:08,1,3,.333,0,0,,0,0,,2,1,3,0,0,0,2,0,2,0.0,-3,Michael Bradley
+2006-02-03,26-291,PHI,HOME,DET,L (-7),0,6:24,0,1,.000,0,0,,0,0,,1,3,4,1,0,0,0,0,0,1.6,-5,Michael Bradley
+2006-02-04,26-292,PHI,AWAY,CLE,W (+5),0,13:42,2,3,.667,0,0,,0,0,,1,1,2,0,0,0,0,1,4,3.3,+2,Michael Bradley
+2006-02-06,26-294,PHI,HOME,HOU,L (-6),0,11:50,1,4,.250,0,1,.000,0,0,,0,6,6,0,0,0,0,2,2,0.6,+2,Michael Bradley
+2006-02-08,26-296,PHI,AWAY,CHA,L (-8),0,10:10,2,3,.667,0,0,,0,0,,1,3,4,2,1,0,0,3,4,5.5,0,Michael Bradley
+2006-02-12,26-300,PHI,AWAY,WAS,L (-10),0,3:47,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-2.1,+4,Michael Bradley
+2006-02-15,26-303,PHI,HOME,SAS,W (+3),0,13:53,0,2,.000,0,0,,0,0,,2,3,5,0,0,1,0,2,0,0.8,0,Michael Bradley
+2006-02-16,26-304,PHI,AWAY,CHI,L (-33),0,11:54,1,3,.333,0,0,,0,0,,1,0,1,1,0,0,1,1,2,0.3,-13,Michael Bradley
+2006-02-24,26-312,PHI,AWAY,MIL,W (+5),0,4:27,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,1,0,-1.1,-2,Michael Bradley
+2006-02-25,26-313,PHI,HOME,CHI,W (+6),1,22:14,2,5,.400,0,0,,0,0,,1,3,4,0,0,0,3,1,4,-0.5,-12,Michael Bradley
+2006-03-01,26-317,PHI,AWAY,HOU,W (+5),0,0:28,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Michael Bradley
+2006-03-16,26-332,PHI,AWAY,SEA,L (-4),0,2:01,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Michael Bradley
+2006-03-17,26-333,PHI,AWAY,LAC,L (-10),0,9:27,1,2,.500,1,1,1.000,0,0,,1,1,2,1,0,0,0,0,3,3.7,+2,Michael Bradley
+2006-03-22,26-338,PHI,HOME,ATL,W (+9),0,4:12,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-11,Michael Bradley
+2006-03-29,26-345,PHI,HOME,DET,L (-10),0,10:35,0,0,,0,0,,0,0,,0,3,3,0,0,0,1,0,0,-0.1,-7,Michael Bradley
+2006-03-31,26-347,PHI,AWAY,NYK,W (+5),0,2:37,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-1,Michael Bradley
+2006-04-02,26-349,PHI,HOME,NYK,W (+19),0,5:37,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.0,-4,Michael Bradley
+2006-04-04,26-351,PHI,AWAY,CLE,L (-33),0,4:40,0,2,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-1.4,-2,Michael Bradley
+2006-04-08,26-355,PHI,AWAY,CHI,W (+14),0,4:28,1,1,1.000,0,0,,0,0,,1,1,2,0,0,0,0,0,2,2.7,+1,Michael Bradley
+2006-04-10,26-357,PHI,HOME,WAS,W (+8),0,1:05,0,2,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-1.4,-3,Michael Bradley
+2006-04-12,26-359,PHI,AWAY,NJN,W (+20),0,5:59,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-8,Michael Bradley
+2006-04-18,27-000,PHI,HOME,NJN,W (+3),0,16:02,1,3,.333,0,0,,0,0,,4,4,8,1,0,1,0,2,2,4.9,+9,Michael Bradley
+2006-04-19,27-001,PHI,AWAY,CHA,L (-10),0,10:26,2,4,.500,0,1,.000,0,1,.000,1,1,2,1,0,0,1,2,4,1.5,-7,Michael Bradley
+2002-10-30,23-195,TOR,HOME,WAS,W (+6),0,7:42,1,1,1.000,0,0,,0,1,.000,0,4,4,1,1,0,0,2,2,3.4,-10,Michael Bradley
+2002-11-01,23-197,TOR,AWAY,SAS,L (-19),0,11:07,2,2,1.000,0,0,,1,2,.500,3,1,4,0,0,0,1,5,5,3.4,-15,Michael Bradley
+2002-11-02,23-198,TOR,AWAY,HOU,L (-12),0,23:46,3,5,.600,0,0,,2,2,1.000,1,6,7,0,1,0,2,4,8,5.6,+10,Michael Bradley
+2002-11-04,23-200,TOR,HOME,CHI,W (+4),0,10:12,0,1,.000,0,0,,0,0,,0,3,3,0,0,0,2,2,0,-2.6,-2,Michael Bradley
+2002-11-06,23-202,TOR,HOME,DAL,L (-14),0,18:53,2,4,.500,0,1,.000,0,0,,2,5,7,1,0,0,1,4,4,3.0,0,Michael Bradley
+2002-11-09,23-205,TOR,AWAY,IND,L (-24),0,24:32,5,10,.500,0,0,,0,0,,5,5,10,0,0,2,0,0,10,11.4,-11,Michael Bradley
+2002-11-12,23-208,TOR,AWAY,ORL,W (+6),0,15:45,0,1,.000,0,0,,0,0,,1,1,2,1,0,0,0,1,0,0.6,-10,Michael Bradley
+2002-11-15,23-211,TOR,HOME,DEN,W (+5),0,10:58,2,2,1.000,0,0,,0,0,,1,2,3,1,0,0,1,0,4,4.4,-7,Michael Bradley
+2002-11-17,23-213,TOR,HOME,UTA,L (-4),0,10:30,2,3,.667,0,1,.000,0,0,,0,2,2,0,0,1,1,2,4,2.2,+1,Michael Bradley
+2002-11-18,23-214,TOR,AWAY,ATL,L (-25),0,22:33,1,4,.250,0,0,,5,6,.833,2,3,5,1,1,1,3,2,7,5.1,-7,Michael Bradley
+2002-11-20,23-216,TOR,HOME,IND,L (-2),0,6:27,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,+3,Michael Bradley
+2002-11-22,23-218,TOR,AWAY,PHI,L (-10),0,9:45,1,1,1.000,0,0,,0,0,,0,1,1,0,1,1,1,1,2,2.3,-10,Michael Bradley
+2002-11-24,23-220,TOR,HOME,PHI,L (-10),0,10:06,0,2,.000,0,0,,1,2,.500,1,2,3,1,0,1,0,3,1,0.7,-12,Michael Bradley
+2002-11-27,23-223,TOR,HOME,NYK,L (-6),0,28:35,3,7,.429,0,0,,0,0,,2,2,4,1,0,0,2,4,6,1.4,+1,Michael Bradley
+2002-11-29,23-225,TOR,AWAY,BOS,W (+3),0,5:53,1,2,.500,0,0,,0,0,,1,0,1,1,0,1,1,0,2,2.1,-6,Michael Bradley
+2002-12-01,23-227,TOR,AWAY,MEM,W (+5),0,22:55,4,5,.800,0,0,,0,0,,3,6,9,1,2,0,0,3,8,11.5,-3,Michael Bradley
+2002-12-02,23-228,TOR,AWAY,DAL,L (-11),0,17:45,4,9,.444,0,1,.000,0,0,,4,4,8,1,0,0,1,0,8,7.0,-6,Michael Bradley
+2002-12-04,23-230,TOR,AWAY,NOH,L (-15),0,15:50,1,3,.333,0,0,,0,0,,1,5,6,0,0,0,1,2,2,0.7,-4,Michael Bradley
+2002-12-06,23-232,TOR,HOME,CHI,W (+14),0,18:31,0,2,.000,0,0,,0,2,.000,3,3,6,0,0,1,3,3,0,-2.7,+2,Michael Bradley
+2002-12-08,23-234,TOR,HOME,POR,L (-13),0,16:34,3,6,.500,0,0,,2,3,.667,5,5,10,1,0,0,2,4,8,6.7,-3,Michael Bradley
+2002-12-11,23-237,TOR,AWAY,CLE,L (-13),0,17:35,0,3,.000,0,0,,2,2,1.000,1,4,5,2,0,0,0,2,2,2.4,-9,Michael Bradley
+2002-12-13,23-239,TOR,HOME,SEA,L (-12),0,17:06,0,0,,0,0,,0,0,,0,2,2,0,0,0,3,3,0,-3.6,+1,Michael Bradley
+2002-12-15,23-241,TOR,HOME,WAS,L (-13),0,20:29,0,3,.000,0,0,,0,0,,1,4,5,1,0,0,0,3,0,-0.7,+6,Michael Bradley
+2002-12-17,23-243,TOR,AWAY,MIL,W (+5),0,14:30,1,4,.250,0,0,,1,1,1.000,0,2,2,2,0,2,0,1,3,3.6,0,Michael Bradley
+2002-12-18,23-244,TOR,AWAY,CHI,L (-13),0,13:41,0,4,.000,0,0,,0,0,,2,3,5,2,0,1,1,3,0,-0.6,-9,Michael Bradley
+2002-12-20,23-246,TOR,HOME,MIA,L (-20),0,16:35,3,5,.600,0,0,,1,2,.500,4,2,6,1,1,0,2,1,7,7.0,-6,Michael Bradley
+2002-12-22,23-248,TOR,HOME,LAL,L (-2),0,20:41,3,4,.750,0,0,,0,0,,1,4,5,0,0,1,1,3,6,4.8,+6,Michael Bradley
+2002-12-26,23-252,TOR,AWAY,SEA,L (-9),0,14:14,2,3,.667,0,0,,0,2,.000,4,1,5,2,0,0,1,0,4,5.4,-10,Michael Bradley
+2002-12-27,23-253,TOR,AWAY,GSW,L (-5),0,23:39,5,9,.556,0,0,,0,0,,7,8,15,3,1,1,0,2,10,16.0,+6,Michael Bradley
+2002-12-29,23-255,TOR,AWAY,LAL,L (-16),0,22:18,3,5,.600,0,0,,5,7,.714,1,3,4,3,1,1,3,2,11,9.5,-9,Michael Bradley
+2002-12-30,23-256,TOR,AWAY,UTA,L (-22),0,6:06,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-2.1,-12,Michael Bradley
+2003-01-01,23-258,TOR,AWAY,NYK,L (-20),0,12:50,0,4,.000,0,0,,2,2,1.000,1,0,1,0,0,0,0,1,2,-0.5,-15,Michael Bradley
+2003-01-03,23-260,TOR,HOME,CLE,L (-1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Michael Bradley
+2003-01-05,23-262,TOR,HOME,NOH,L (-15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Michael Bradley
+2003-01-06,23-263,TOR,AWAY,DET,L (-8),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Michael Bradley
+2003-01-10,23-267,TOR,HOME,NJN,L (-15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Michael Bradley
+2003-01-12,23-269,TOR,HOME,MIN,W (+14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Michael Bradley
+2003-01-14,23-271,TOR,AWAY,WAS,W (+9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Michael Bradley
+2003-01-15,23-272,TOR,HOME,MIL,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Michael Bradley
+2003-01-17,23-274,TOR,AWAY,NJN,L (-11),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Michael Bradley
+2003-01-19,23-276,TOR,HOME,ORL,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Michael Bradley
+2003-01-20,23-277,TOR,AWAY,MIN,L (-8),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Michael Bradley
+2003-01-22,23-279,TOR,AWAY,IND,L (-3),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Michael Bradley
+2003-01-26,23-283,TOR,HOME,SAC,W (+4),0,10:31,5,5,1.000,0,0,,0,0,,2,5,7,2,0,0,1,1,10,11.4,+1,Michael Bradley
+2003-01-29,23-286,TOR,AWAY,NOH,L (-21),0,15:49,0,3,.000,0,0,,0,0,,0,4,4,0,1,1,1,1,0,-0.6,-5,Michael Bradley
+2003-01-31,23-288,TOR,HOME,IND,W (+12),0,15:44,3,7,.429,0,0,,0,0,,2,4,6,0,0,0,1,2,6,3.1,+7,Michael Bradley
+2003-02-02,23-290,TOR,HOME,LAC,W (+14),0,20:55,4,5,.800,0,1,.000,0,0,,6,5,11,0,0,0,2,3,8,8.6,+11,Michael Bradley
+2003-02-04,23-292,TOR,AWAY,MIL,W (+3),0,13:27,1,1,1.000,0,0,,0,0,,1,1,2,1,0,0,2,0,2,1.4,+6,Michael Bradley
+2003-02-12,23-300,TOR,HOME,ATL,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Michael Bradley
+2003-02-14,23-302,TOR,HOME,GSW,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Michael Bradley
+2003-02-16,23-304,TOR,HOME,ORL,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Michael Bradley
+2003-02-21,23-309,TOR,HOME,PHO,W (+3),0,14:08,4,5,.800,0,0,,0,0,,3,2,5,1,0,0,0,1,8,9.1,0,Michael Bradley
+2003-02-26,23-314,TOR,AWAY,CHI,L (-8),0,3:23,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-1,Michael Bradley
+2003-02-28,23-316,TOR,AWAY,BOS,L (-5),0,14:34,1,3,.333,0,0,,2,2,1.000,0,2,2,0,0,3,0,2,4,4.2,-7,Michael Bradley
+2003-03-02,23-318,TOR,HOME,BOS,W (+12),0,25:14,1,5,.200,0,0,,0,0,,6,7,13,2,0,2,6,3,2,0.8,-12,Michael Bradley
+2003-03-04,23-320,TOR,AWAY,WAS,W (+3),0,19:50,3,7,.429,0,0,,0,1,.000,4,3,7,1,0,0,1,3,6,4.1,-6,Michael Bradley
+2003-03-05,23-321,TOR,HOME,HOU,L (-2),0,17:20,1,3,.333,0,0,,1,2,.500,2,3,5,0,0,0,1,1,3,1.8,-8,Michael Bradley
+2003-03-08,23-324,TOR,AWAY,ATL,W (+9),0,14:15,0,0,,0,0,,0,0,,1,5,6,0,0,0,2,2,0,-0.6,+6,Michael Bradley
+2003-03-09,23-325,TOR,HOME,MEM,L (-13),0,19:55,0,1,.000,0,0,,0,0,,1,4,5,1,0,2,0,1,0,2.9,-8,Michael Bradley
+2003-03-11,23-327,TOR,AWAY,DEN,L (-8),0,28:46,1,8,.125,1,1,1.000,2,2,1.000,3,9,12,1,0,0,3,2,5,1.5,0,Michael Bradley
+2003-03-12,23-328,TOR,AWAY,POR,L (-22),0,24:39,7,8,.875,0,0,,0,4,.000,4,6,10,2,0,0,2,2,14,12.8,-2,Michael Bradley
+2003-03-14,23-330,TOR,AWAY,SAC,L (-35),0,14:01,3,7,.429,0,0,,0,2,.000,5,4,9,0,0,1,0,2,6,6.1,-5,Michael Bradley
+2003-03-16,23-332,TOR,AWAY,LAC,L (-1),0,14:05,1,2,.500,0,0,,0,0,,0,4,4,2,0,0,0,0,2,3.6,-5,Michael Bradley
+2003-03-17,23-333,TOR,AWAY,PHO,L (-4),0,13:25,1,2,.500,0,0,,0,0,,2,1,3,1,0,0,1,0,2,2.4,-9,Michael Bradley
+2003-03-19,23-335,TOR,HOME,ATL,W (+1),0,21:51,2,4,.500,0,0,,2,4,.500,4,1,5,0,1,0,2,3,6,4.1,+3,Michael Bradley
+2003-03-21,23-337,TOR,AWAY,MIA,L (-9),0,29:13,4,5,.800,0,0,,0,3,.000,3,3,6,1,0,0,1,0,8,7.6,-4,Michael Bradley
+2003-03-23,23-339,TOR,HOME,PHI,L (-17),1,31:43,5,5,1.000,0,0,,0,0,,2,6,8,1,0,0,3,3,10,8.2,-11,Michael Bradley
+2003-03-24,23-340,TOR,AWAY,NYK,L (-10),1,41:50,5,6,.833,0,0,,0,0,,1,7,8,2,0,0,0,2,10,11.2,-4,Michael Bradley
+2003-03-26,23-342,TOR,HOME,CLE,W (+6),1,29:14,2,7,.286,0,0,,0,0,,3,4,7,2,0,0,0,3,4,3.4,+15,Michael Bradley
+2003-03-28,23-344,TOR,HOME,NOH,L (-9),1,37:22,3,10,.300,0,0,,0,0,,9,2,11,2,1,1,0,2,6,9.4,-4,Michael Bradley
+2003-03-30,23-346,TOR,HOME,NYK,W (+9),1,39:51,6,11,.545,0,0,,0,2,.000,2,9,11,2,0,1,1,4,12,9.5,+12,Michael Bradley
+2003-04-01,23-348,TOR,HOME,DET,L (-7),1,36:59,5,10,.500,0,0,,0,0,,6,8,14,2,1,1,0,4,10,13.1,-6,Michael Bradley
+2003-04-02,23-349,TOR,AWAY,DET,W (+11),1,35:38,7,11,.636,0,0,,2,3,.667,5,4,9,1,0,3,4,3,16,13.0,+16,Michael Bradley
+2003-04-04,23-351,TOR,HOME,SAS,L (-26),1,28:07,2,7,.286,0,0,,0,0,,4,4,8,2,0,1,1,1,4,4.6,-25,Michael Bradley
+2003-04-06,23-353,TOR,HOME,NJN,L (-9),1,17:59,3,5,.600,0,0,,0,0,,3,4,7,0,0,0,0,2,6,6.2,-5,Michael Bradley
+2003-04-08,23-355,TOR,AWAY,MIA,L (-6),1,21:10,4,8,.500,0,0,,0,0,,4,4,8,0,0,0,0,1,8,7.6,+1,Michael Bradley
+2003-04-09,23-356,TOR,AWAY,ORL,L (-6),1,25:16,2,6,.333,0,1,.000,0,2,.000,3,6,9,1,0,0,2,1,4,2.0,-17,Michael Bradley
+2003-04-11,23-358,TOR,HOME,MIL,L (-2),0,27:09,3,6,.500,0,0,,0,0,,3,7,10,4,1,0,2,2,6,8.2,-3,Michael Bradley
+2003-04-12,23-359,TOR,AWAY,NJN,L (-8),0,27:06,2,7,.286,0,0,,3,4,.750,3,4,7,2,0,1,2,1,7,5.5,+2,Michael Bradley
+2003-04-15,23-362,TOR,HOME,MIA,L (-4),0,22:18,4,10,.400,0,0,,0,0,,6,3,9,2,0,1,0,2,8,9.0,-13,Michael Bradley
+2003-04-16,23-363,TOR,AWAY,CLE,L (-10),0,30:42,4,9,.444,0,0,,1,2,.500,2,8,10,2,2,0,0,0,9,11.1,-4,Michael Bradley
+2004-02-20,24-308,TOR,HOME,NJN,L (-19),0,9:16,0,0,,0,0,,0,0,,0,5,5,1,1,0,1,1,0,1.8,+2,Michael Bradley
+2004-02-22,24-310,TOR,HOME,SAC,L (-15),0,5:13,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-1.1,-2,Michael Bradley
+2004-02-24,24-312,TOR,AWAY,NJN,L (-12),0,9:59,1,2,.500,0,0,,1,2,.500,1,2,3,0,0,0,0,1,3,2.5,+6,Michael Bradley
+2004-02-25,24-313,TOR,HOME,WAS,L (-2),0,3:31,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,0,0,-0.7,0,Michael Bradley
+2004-02-27,24-315,TOR,AWAY,BOS,L (-13),0,9:28,0,0,,0,0,,0,0,,0,2,2,0,0,0,1,3,0,-1.6,-5,Michael Bradley
+2004-03-19,24-336,ATL,AWAY,WAS,L (-10),0,6:03,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.8,-2,Michael Bradley
+2004-03-20,24-337,ATL,HOME,UTA,L (-6),0,5:55,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,1,0,-1.1,-4,Michael Bradley
+2004-03-22,24-339,ATL,AWAY,NYK,L (-12),0,5:26,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.0,+5,Michael Bradley
+2004-03-27,24-344,ATL,HOME,CHI,W (+9),0,4:05,0,0,,0,0,,0,0,,1,2,3,0,0,0,1,2,0,-0.5,+2,Michael Bradley
+2004-03-29,24-346,ATL,HOME,MEM,L (-3),0,2:39,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,+1,Michael Bradley
+2004-03-31,24-348,ATL,HOME,MIA,L (-3),0,3:09,0,1,.000,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.0,+5,Michael Bradley
+2004-04-04,24-352,ATL,AWAY,NJN,L (-17),0,3:09,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-1,Michael Bradley
+2004-04-09,24-357,ATL,AWAY,CHI,W (+15),0,2:33,0,0,,0,0,,0,0,,1,0,1,0,0,0,1,0,0,-0.3,-2,Michael Bradley
+2004-04-10,24-358,ATL,HOME,BOS,W (+11),0,4:10,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.7,-3,Michael Bradley
+2004-04-12,24-360,ATL,HOME,NJN,W (+22),0,12:48,0,3,.000,0,0,,0,0,,0,1,1,0,0,0,0,2,0,-2.6,-5,Michael Bradley
+2004-04-14,24-362,ATL,AWAY,BOS,L (-5),1,10:49,5,5,1.000,0,0,,0,0,,1,1,2,0,2,0,1,1,10,10.1,-13,Michael Bradley
+2004-11-05,25-201,ORL,AWAY,NOH,W (+1),0,5:43,0,1,.000,0,0,,0,0,,0,2,2,0,0,0,0,0,0,-0.1,+1,Michael Bradley
+2004-11-09,25-205,ORL,HOME,DAL,W (+10),0,2:14,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4,Michael Bradley
+2004-11-10,25-206,ORL,AWAY,WAS,L (-10),0,14:28,1,2,.500,0,0,,0,0,,1,3,4,2,0,0,1,0,2,3.0,+23,Michael Bradley
+2004-12-08,25-234,ORL,AWAY,UTA,W (+6),0,4:24,0,1,.000,0,0,,0,0,,1,0,1,0,0,1,0,1,0,0.3,-1,Michael Bradley
+2004-12-12,25-238,ORL,AWAY,LAL,L (-7),0,6:43,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,2,2.0,+5,Michael Bradley
+2004-12-13,25-239,ORL,AWAY,PHO,L (-21),0,2:09,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,0,Michael Bradley
+2004-12-15,25-241,ORL,AWAY,SAS,L (-3),0,13:51,0,1,.000,0,0,,0,0,,1,4,5,0,1,0,0,3,0,1.0,-3,Michael Bradley
+2004-12-18,25-244,ORL,HOME,DEN,W (+22),0,4:25,0,0,,0,0,,0,0,,0,1,1,0,0,1,0,0,0,1.0,-3,Michael Bradley
+2005-01-11,25-268,SAC,HOME,DEN,W (+9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Michael Bradley
+2005-01-13,25-270,SAC,HOME,UTA,W (+14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Michael Bradley
+2005-01-20,25-277,SAC,HOME,CLE,W (+27),0,3:56,2,2,1.000,0,0,,0,0,,0,1,1,1,0,0,0,1,4,4.0,+1,Michael Bradley
+2005-01-23,25-280,SAC,HOME,SAS,L (-30),0,5:39,1,1,1.000,0,0,,0,0,,1,2,3,0,0,0,0,0,2,3.0,-2,Michael Bradley
+2005-01-25,25-282,SAC,HOME,NJN,W (+20),0,3:25,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-2,Michael Bradley
+2005-01-27,25-284,SAC,AWAY,SAS,L (-10),0,0:46,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Michael Bradley
+2005-01-30,25-287,SAC,AWAY,MIN,W (+10),0,6:06,0,2,.000,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-2.8,-6,Michael Bradley
+2005-02-01,25-289,SAC,HOME,SEA,L (-5),0,10:21,2,2,1.000,0,0,,2,4,.500,2,2,4,1,0,0,2,4,6,3.7,-1,Michael Bradley
+2005-02-02,25-290,SAC,AWAY,GSW,W (+4),0,8:53,2,3,.667,0,0,,0,2,.000,1,0,1,0,0,0,0,1,4,2.2,-3,Michael Bradley
+2005-02-04,25-292,SAC,HOME,NYK,W (+1),0,7:29,1,2,.500,0,0,,0,0,,1,0,1,0,0,0,0,1,2,1.3,+3,Michael Bradley
+2005-02-24,25-312,PHI,AWAY,NYK,L (-12),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Michael Bradley
+2005-03-01,25-317,PHI,AWAY,MIL,W (+7),0,0:48,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-3,Michael Bradley
+2005-04-20,26-002,PHI,HOME,ATL,W (+24),0,15:00,4,5,.800,0,1,.000,1,2,.500,0,3,3,1,0,0,1,0,9,7.3,+5,Michael Bradley

@@ -1,0 +1,22 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2021-12-17,22-157,SAC,HOME,MEM,L (-19),0,7:44,0,4,.000,0,0,,0,0,,3,2,5,1,0,1,0,1,0,0.9,-9,Neemias Queta
+2021-12-20,22-160,SAC,AWAY,GSW,L (-15),0,1:45,0,0,,0,0,,0,0,,0,0,0,1,0,0,1,0,0,-0.3,-1,Neemias Queta
+2022-01-05,22-176,SAC,HOME,ATL,L (-6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Neemias Queta
+2022-01-07,22-178,SAC,AWAY,DEN,L (-10),0,0:45,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Neemias Queta
+2022-01-10,22-181,SAC,HOME,CLE,L (-1),0,24:06,4,7,.571,0,0,,3,4,.750,1,4,5,1,1,0,1,4,11,8.3,+8,Neemias Queta
+2022-01-12,22-183,SAC,HOME,LAL,W (+9),0,0:48,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-3,Neemias Queta
+2022-01-14,22-185,SAC,HOME,HOU,W (+12),0,4:39,1,3,.333,0,0,,0,0,,2,1,3,0,0,0,0,2,2,1.2,-2,Neemias Queta
+2022-01-25,22-196,SAC,AWAY,BOS,L (-53),0,8:15,3,4,.750,0,0,,0,1,.000,1,1,2,0,0,2,0,2,6,5.6,-8,Neemias Queta
+2022-01-26,22-197,SAC,AWAY,ATL,L (-17),0,3:46,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+6,Neemias Queta
+2022-01-29,22-200,SAC,AWAY,PHI,L (-2),0,0:33,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,2,0,-1.8,-2,Neemias Queta
+2022-01-31,22-202,SAC,AWAY,NYK,L (-20),0,3:39,1,3,.333,0,0,,0,0,,4,0,4,1,0,1,1,0,2,3.5,+6,Neemias Queta
+2022-03-23,22-253,SAC,AWAY,IND,W (+1),0,0:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,,Neemias Queta
+2022-03-28,22-258,SAC,AWAY,MIA,L (-23),0,15:21,1,1,1.000,0,0,,1,2,.500,1,0,1,0,0,0,0,0,3,3.0,-6,Neemias Queta
+2022-04-05,22-266,SAC,HOME,NOP,L (-14),0,10:53,1,3,.333,0,0,,3,4,.750,1,3,4,0,0,0,1,1,5,3.1,-2,Neemias Queta
+2022-04-09,22-270,SAC,AWAY,LAC,L (-19),0,19:21,3,7,.429,0,0,,4,6,.667,1,0,1,2,0,2,1,3,10,6.8,-2,Neemias Queta
+2022-04-10,22-271,SAC,AWAY,PHO,W (+7),0,18:01,3,4,.750,0,0,,0,0,,0,6,6,0,0,2,0,3,6,6.4,+8,Neemias Queta
+2022-12-13,23-153,SAC,AWAY,PHI,L (-20),0,2:22,0,0,,0,0,,0,0,,1,0,1,1,0,0,0,3,0,0.2,-6,Neemias Queta
+2022-12-19,23-159,SAC,HOME,CHO,L (-6),0,7:16,1,3,.333,0,0,,0,0,,2,2,4,0,0,1,1,0,2,2.0,-12,Neemias Queta
+2022-12-21,23-161,SAC,HOME,LAL,W (+14),0,10:39,5,5,1.000,0,0,,0,2,.000,1,2,3,0,0,0,0,3,10,7.8,-6,Neemias Queta
+2022-12-23,23-163,SAC,HOME,WAS,L (-14),0,4:13,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,-7,Neemias Queta
+2023-04-09,23-270,SAC,AWAY,DEN,L (-14),0,4:11,0,1,.000,0,0,,0,0,,1,1,2,0,0,1,0,0,0,1.0,+1,Neemias Queta

@@ -1,0 +1,75 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+2015-11-05,25-097,DEN,HOME,UTA,L (-12),0,1:12,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,119,0.0,-6.9,Kostas Papanikolaou
+2015-11-06,25-098,DEN,AWAY,GSW,L (-15),0,1:46,,,0.0,57.8,28.0,0.0,0.0,0.0,,0.0,0,106,0.3,-3.2,Kostas Papanikolaou
+2015-11-09,25-101,DEN,HOME,POR,W (+4),0,12:35,1.250,1.250,10.3,15.6,13.3,11.8,3.9,0.0,0.0,7.3,238,103,7.0,15.8,Kostas Papanikolaou
+2015-11-11,25-103,DEN,HOME,MIL,W (+1),0,10:26,.750,.750,11.8,30.7,20.0,0.0,0.0,0.0,33.3,13.3,100,121,1.9,-6.7,Kostas Papanikolaou
+2015-11-13,25-105,DEN,HOME,HOU,W (+9),0,3:51,.000,.000,0.0,29.7,14.5,0.0,0.0,0.0,50.0,22.1,0,101,-1.4,-26.2,Kostas Papanikolaou
+2015-11-14,25-106,DEN,AWAY,PHO,L (-24),0,19:58,.571,.571,0.0,5.6,2.4,9.9,2.4,0.0,0.0,17.0,118,106,6.5,1.8,Kostas Papanikolaou
+2015-11-17,25-109,DEN,AWAY,NOP,W (+17),0,13:08,.500,.500,10.2,18.3,14.4,0.0,0.0,6.1,20.0,17.6,91,109,2.6,-7.1,Kostas Papanikolaou
+2015-11-18,25-110,DEN,AWAY,SAS,L (-11),0,0:54,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,126,0.0,-9.3,Kostas Papanikolaou
+2015-11-20,25-112,DEN,HOME,PHO,L (-7),0,5:39,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.6,0,128,-0.7,-15.4,Kostas Papanikolaou
+2015-11-22,25-114,DEN,HOME,GSW,L (-13),0,2:10,,,0.0,0.0,0.0,0.0,21.4,0.0,,0.0,0,73,1.0,20.2,Kostas Papanikolaou
+2015-11-24,25-116,DEN,HOME,LAC,L (-17),0,1:54,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,23.7,0,122,-1.0,-29.0,Kostas Papanikolaou
+2015-11-27,25-119,DEN,HOME,SAS,L (-11),0,3:32,.000,.000,0.0,40.0,17.2,0.0,0.0,0.0,0.0,13.5,0,101,-0.4,-12.9,Kostas Papanikolaou
+2015-11-28,25-120,DEN,AWAY,DAL,L (-11),0,2:26,1.136,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.9,250,112,2.0,17.5,Kostas Papanikolaou
+2015-11-30,25-122,DEN,AWAY,MIL,L (-18),0,9:35,.000,.000,12.5,12.2,12.4,17.9,0.0,0.0,20.0,24.1,20,106,-2.9,-22.9,Kostas Papanikolaou
+2015-12-14,25-136,DEN,HOME,HOU,W (+6),0,13:48,.625,.625,9.7,0.0,4.5,0.0,3.7,7.4,33.3,18.8,86,107,2.2,-4.1,Kostas Papanikolaou
+2015-12-15,25-137,DEN,AWAY,MIN,W (+12),0,19:49,.581,.500,0.0,12.4,6.9,14.4,0.0,0.0,12.7,19.3,119,121,4.8,-7.3,Kostas Papanikolaou
+2015-12-18,25-140,DEN,AWAY,UTA,L (-9),0,11:28,.266,.000,0.0,24.6,10.1,0.0,4.7,0.0,51.5,15.6,27,104,-0.5,-11.2,Kostas Papanikolaou
+2015-12-20,25-142,DEN,HOME,NOP,L (-5),0,20:22,.000,.000,0.0,14.3,6.3,10.5,0.0,0.0,0.0,6.4,50,141,-0.9,-14.1,Kostas Papanikolaou
+2015-12-22,25-144,DEN,HOME,LAL,L (-4),1,11:14,.900,.900,0.0,0.0,0.0,0.0,4.5,0.0,0.0,19.4,167,113,6.9,16.2,Kostas Papanikolaou
+2015-12-23,25-145,DEN,AWAY,PHO,W (+8),1,32:37,.521,.500,3.1,12.0,7.7,11.3,3.0,4.7,10.4,12.5,113,94,10.0,4.9,Kostas Papanikolaou
+2015-12-26,25-148,DEN,AWAY,SAS,L (-15),1,25:24,.200,.200,4.8,14.9,9.8,10.5,6.3,2.7,37.5,14.6,43,100,2.2,-3.0,Kostas Papanikolaou
+2015-12-27,25-149,DEN,AWAY,OKC,L (-10),1,13:20,.750,.750,0.0,0.0,0.0,25.5,7.9,0.0,50.0,13.0,95,123,4.1,8.6,Kostas Papanikolaou
+2015-12-29,25-151,DEN,HOME,CLE,L (-6),1,21:55,.000,.000,4.7,17.9,11.4,5.9,0.0,0.0,40.0,9.8,21,100,-2.3,-12.4,Kostas Papanikolaou
+2015-12-30,25-152,DEN,AWAY,POR,L (-7),1,11:55,.000,.000,0.0,18.3,8.9,0.0,0.0,0.0,50.0,14.7,0,120,-2.8,-22.5,Kostas Papanikolaou
+2016-01-02,25-155,DEN,AWAY,GSW,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Kostas Papanikolaou
+2016-01-03,25-156,DEN,HOME,POR,L (-6),0,12:06,.500,.500,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.9,108,129,0.5,-9.2,Kostas Papanikolaou
+2016-01-06,25-159,DEN,AWAY,MIN,W (+4),0,10:56,.500,.500,0.0,21.4,10.2,0.0,0.0,0.0,20.0,22.1,74,94,1.6,-6.3,Kostas Papanikolaou
+2014-10-28,24-089,HOU,AWAY,LAL,W (+18),0,19:52,.333,.333,6.2,27.5,17.5,36.9,5.3,0.0,25.0,17.9,85,87,3.6,-1.8,Kostas Papanikolaou
+2014-10-29,24-090,HOU,AWAY,UTA,W (+11),0,22:14,.857,.857,0.0,10.8,6.3,27.5,2.5,3.4,0.0,14.9,189,105,13.8,23.7,Kostas Papanikolaou
+2014-11-01,24-093,HOU,HOME,BOS,W (+14),0,23:11,.375,.375,5.2,3.9,4.5,27.7,4.2,0.0,60.0,18.7,53,94,0.0,-6.1,Kostas Papanikolaou
+2014-11-03,24-095,HOU,AWAY,PHI,W (+11),0,19:34,.375,.375,6.5,12.3,9.4,8.3,2.6,0.0,20.0,11.2,84,103,2.2,-5.3,Kostas Papanikolaou
+2014-11-04,24-096,HOU,AWAY,MIA,W (+17),0,36:46,.400,.400,4.4,18.7,12.7,21.0,0.0,5.7,0.0,13.6,124,108,8.8,1.2,Kostas Papanikolaou
+2014-11-06,24-098,HOU,HOME,SAS,W (+17),0,26:18,.000,.000,9.9,7.6,8.6,16.1,0.0,0.0,50.0,6.8,64,92,-0.1,-4.8,Kostas Papanikolaou
+2014-11-08,24-100,HOU,HOME,GSW,L (-11),1,29:28,.111,.111,20.7,10.9,16.3,5.7,4.8,0.0,35.7,19.5,40,93,-1.0,-8.6,Kostas Papanikolaou
+2014-11-12,24-104,HOU,AWAY,MIN,W (+12),0,24:01,.751,.750,0.0,0.0,0.0,22.8,0.0,0.0,9.7,18.7,146,116,9.4,5.4,Kostas Papanikolaou
+2014-11-14,24-106,HOU,HOME,PHI,W (+1),0,16:53,.000,.000,12.6,11.8,12.2,19.6,5.8,0.0,33.3,14.8,33,87,-0.2,-8.9,Kostas Papanikolaou
+2014-11-16,24-108,HOU,AWAY,OKC,W (+4),0,15:01,.000,.000,11.4,14.9,12.9,0.0,0.0,13.0,14.3,20.9,11,78,-1.8,-8.6,Kostas Papanikolaou
+2014-11-17,24-109,HOU,AWAY,MEM,L (-26),0,23:39,.571,.571,5.3,17.4,11.1,39.2,0.0,5.9,36.4,20.6,88,126,7.2,1.5,Kostas Papanikolaou
+2014-11-19,24-111,HOU,HOME,LAL,L (-6),0,33:40,.839,.800,0.0,18.6,10.1,13.3,1.5,0.0,15.0,18.8,135,104,15.4,7.0,Kostas Papanikolaou
+2014-11-22,24-114,HOU,HOME,DAL,W (+3),0,37:54,.337,.273,5.3,12.9,9.1,9.2,2.7,0.0,0.0,13.8,96,98,5.8,-0.7,Kostas Papanikolaou
+2014-11-24,24-116,HOU,HOME,NYK,W (+5),0,25:04,.291,.333,9.3,15.5,12.3,20.4,2.2,7.1,42.1,22.7,55,96,1.2,-9.1,Kostas Papanikolaou
+2014-11-26,24-118,HOU,HOME,SAC,W (+13),0,28:35,.425,.400,3.3,13.3,7.5,21.7,0.0,0.0,0.0,9.4,125,106,5.4,-5.8,Kostas Papanikolaou
+2014-11-28,24-120,HOU,HOME,LAC,L (-17),0,23:11,.200,.200,0.0,10.4,4.9,27.7,0.0,0.0,37.5,16.1,48,118,-1.9,-12.5,Kostas Papanikolaou
+2014-11-29,24-121,HOU,AWAY,MIL,W (+14),0,28:34,1.000,1.000,4.5,8.6,6.6,18.9,1.9,0.0,14.3,11.0,177,118,12.3,8.0,Kostas Papanikolaou
+2014-12-03,24-125,HOU,HOME,MEM,W (+9),0,24:49,.429,.429,7.4,9.9,8.5,19.7,2.0,0.0,0.0,22.4,119,104,8.9,-0.4,Kostas Papanikolaou
+2014-12-05,24-127,HOU,AWAY,MIN,W (+2),0,26:27,.833,.833,16.7,4.1,9.4,7.2,0.0,2.3,0.0,10.6,179,109,10.0,5.8,Kostas Papanikolaou
+2014-12-18,24-140,HOU,HOME,NOP,L (-9),0,22:36,.410,.250,0.0,9.9,4.8,27.5,0.0,0.0,0.0,9.7,117,116,5.0,-0.4,Kostas Papanikolaou
+2014-12-20,24-142,HOU,HOME,ATL,L (-7),0,17:13,.340,.300,5.8,8.7,7.0,26.8,0.0,0.0,0.0,14.9,108,118,3.6,-1.0,Kostas Papanikolaou
+2014-12-22,24-144,HOU,HOME,POR,W (+15),0,16:49,.000,.000,0.0,7.1,3.7,0.0,0.0,0.0,50.0,15.3,0,104,-6.4,-25.3,Kostas Papanikolaou
+2014-12-31,24-153,HOU,HOME,CHO,W (+19),0,2:29,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.9,0,99,-0.7,-22.7,Kostas Papanikolaou
+2015-01-02,24-155,HOU,AWAY,NOP,L (-28),0,22:29,.300,.300,0.0,5.8,2.5,26.0,2.2,0.0,0.0,9.5,95,119,2.8,-2.8,Kostas Papanikolaou
+2015-01-03,24-156,HOU,HOME,MIA,W (+36),0,23:09,.167,.167,24.7,10.6,17.9,5.3,4.5,0.0,25.0,14.9,73,85,2.6,-5.0,Kostas Papanikolaou
+2015-01-05,24-158,HOU,AWAY,CHI,L (-9),0,7:26,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.4,0,128,-1.1,-15.3,Kostas Papanikolaou
+2015-01-07,24-160,HOU,AWAY,CLE,W (+12),0,6:03,1.500,1.500,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,300,115,2.7,12.8,Kostas Papanikolaou
+2015-01-08,24-161,HOU,AWAY,NYK,W (+24),0,17:20,.000,.000,7.9,14.2,11.2,6.8,2.8,0.0,50.0,10.1,38,100,-0.4,-9.1,Kostas Papanikolaou
+2015-01-10,24-163,HOU,HOME,UTA,W (+15),0,13:43,.500,.500,0.0,10.3,4.7,0.0,3.7,0.0,50.0,19.8,42,89,-0.4,-9.1,Kostas Papanikolaou
+2015-01-12,24-165,HOU,AWAY,BRK,W (+14),0,12:00,.625,.625,0.0,9.8,4.8,0.0,4.2,0.0,0.0,14.7,129,102,3.5,1.3,Kostas Papanikolaou
+2015-01-15,24-168,HOU,HOME,OKC,W (+11),0,6:36,1.250,1.250,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.7,250,115,3.2,7.7,Kostas Papanikolaou
+2015-01-17,24-170,HOU,HOME,GSW,L (-25),0,13:15,.500,.500,0.0,26.5,12.3,24.4,3.4,0.0,0.0,15.1,114,119,5.6,7.1,Kostas Papanikolaou
+2015-01-19,24-172,HOU,HOME,IND,W (+12),0,10:49,.000,.000,0.0,10.3,5.4,0.0,4.5,0.0,75.0,16.8,0,98,-2.4,-16.9,Kostas Papanikolaou
+2015-01-21,24-174,HOU,AWAY,GSW,L (-13),0,14:59,.500,.500,0.0,14.2,7.0,28.4,0.0,0.0,50.0,10.7,79,129,1.3,-5.8,Kostas Papanikolaou
+2015-01-23,24-176,HOU,AWAY,PHO,W (+2),0,17:14,.000,.000,0.0,23.2,13.1,12.7,0.0,4.6,0.0,10.4,33,111,-0.7,-10.5,Kostas Papanikolaou
+2015-01-25,24-178,HOU,AWAY,LAL,W (+12),0,9:30,.000,.000,0.0,10.5,5.1,0.0,0.0,0.0,0.0,4.6,0,97,-0.8,-12.5,Kostas Papanikolaou
+2015-01-31,24-184,HOU,AWAY,DET,L (-13),0,12:00,.800,.800,9.3,10.0,9.6,14.8,8.5,0.0,0.0,18.5,164,109,9.0,21.8,Kostas Papanikolaou
+2015-02-10,24-194,HOU,AWAY,PHO,W (+9),0,20:56,1.000,1.000,0.0,5.1,2.7,5.6,2.3,3.8,0.0,7.8,204,120,8.7,8.9,Kostas Papanikolaou
+2015-02-11,24-195,HOU,AWAY,LAC,L (-15),0,19:48,.340,.200,4.8,6.2,5.4,30.7,2.5,4.1,14.5,14.7,93,110,5.0,2.9,Kostas Papanikolaou
+2015-02-20,24-204,HOU,AWAY,DAL,L (-11),0,1:08,,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0,117,0.0,-6.2,Kostas Papanikolaou
+2015-02-21,24-205,HOU,HOME,TOR,W (+22),0,5:04,.000,.000,0.0,0.0,0.0,27.1,0.0,0.0,50.0,15.7,24,87,-1.0,-12.7,Kostas Papanikolaou
+2015-02-23,24-207,HOU,HOME,MIN,W (+11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Kostas Papanikolaou
+2015-03-06,24-218,HOU,HOME,DET,W (+10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Kostas Papanikolaou
+2015-03-07,24-219,HOU,AWAY,DEN,W (+14),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Kostas Papanikolaou
+2015-04-05,24-248,HOU,AWAY,OKC,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Kostas Papanikolaou
+2015-04-08,24-251,HOU,AWAY,SAS,L (-12),0,5:39,,,20.2,19.3,19.8,0.0,0.0,0.0,100.0,8.2,54,120,0.0,-11.8,Kostas Papanikolaou
+2015-04-15,24-258,HOU,HOME,UTA,W (+26),0,12:00,.000,.000,0.0,6.8,4.3,9.8,0.0,0.0,50.0,14.7,17,96,-3.2,-19.9,Kostas Papanikolaou

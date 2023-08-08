@@ -1,0 +1,47 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+1999-11-02,39-088,MIL,AWAY,HOU,W (+5),0,17:22,2,6,.333,1,3,.333,0,0,,1,2,3,1,0,0,0,0,5,3.6,-2,Dale Ellis
+1999-11-04,39-090,MIL,AWAY,ATL,W (+10),0,17:08,2,5,.400,1,2,.500,0,0,,0,0,0,0,0,0,1,2,5,0.5,+10,Dale Ellis
+1999-11-06,39-092,MIL,HOME,DET,W (+10),0,28:35,5,8,.625,2,4,.500,1,2,.500,0,5,5,0,3,0,1,1,13,12.1,+19,Dale Ellis
+1999-11-08,39-094,MIL,AWAY,NYK,L (-10),0,21:21,3,6,.500,2,4,.500,4,4,1.000,0,3,3,0,1,0,1,2,12,9.1,+3,Dale Ellis
+1999-11-10,39-096,MIL,AWAY,CHH,L (-6),0,17:11,3,4,.750,3,4,.750,0,0,,1,1,2,0,0,0,0,1,9,8.0,+1,Dale Ellis
+1999-11-12,39-098,MIL,HOME,PHO,W (+15),0,17:46,2,5,.400,1,4,.250,0,0,,1,2,3,0,0,0,0,1,5,3.2,+5,Dale Ellis
+1999-11-13,39-099,MIL,AWAY,CLE,L (-5),0,14:40,2,9,.222,1,6,.167,0,1,.000,1,1,2,1,0,0,0,1,5,0.4,-5,Dale Ellis
+1999-11-18,39-104,MIL,HOME,SAS,W (+11),0,19:48,5,8,.625,3,6,.500,0,0,,1,1,2,0,0,0,1,1,13,9.0,+14,Dale Ellis
+1999-11-20,39-106,MIL,HOME,UTA,L (-11),0,20:24,4,7,.571,0,2,.000,0,1,.000,0,1,1,0,0,0,0,3,8,3.4,-9,Dale Ellis
+1999-11-21,39-107,MIL,AWAY,DET,L (-19),0,15:15,2,4,.500,0,1,.000,1,1,1.000,0,1,1,0,0,0,0,3,5,2.1,-16,Dale Ellis
+1999-11-24,39-110,MIL,HOME,CHI,W (+7),0,24:00,7,12,.583,3,6,.500,0,0,,1,0,1,0,0,0,1,1,17,10.7,+13,Dale Ellis
+1999-11-26,39-112,MIL,AWAY,BOS,W (+2),0,19:37,1,2,.500,0,1,.000,0,0,,1,5,6,0,1,0,1,2,2,2.4,+11,Dale Ellis
+1999-11-27,39-113,MIL,HOME,PHI,L (-3),0,17:31,2,5,.400,1,4,.250,0,0,,0,2,2,0,0,0,1,2,5,1.1,+5,Dale Ellis
+1999-12-02,39-118,MIL,HOME,NYK,L (-4),0,23:17,1,7,.143,0,6,.000,0,0,,0,0,0,2,0,0,0,1,2,-1.5,+3,Dale Ellis
+1999-12-04,39-120,MIL,AWAY,CHI,W (+1),0,6:00,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-0.4,+6,Dale Ellis
+1999-12-07,39-123,MIL,HOME,DET,L (-4),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Dale Ellis
+1999-12-08,39-124,MIL,AWAY,NJN,L (-17),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Dale Ellis
+2000-01-04,39-151,MIL,HOME,ATL,W (+3),0,20:18,4,7,.571,3,6,.500,0,0,,0,1,1,1,1,0,0,0,11,9.7,+10,Dale Ellis
+2000-01-06,39-153,MIL,AWAY,DET,L (-6),0,16:31,2,3,.667,2,3,.667,0,0,,0,1,1,0,0,0,0,2,6,4.2,-7,Dale Ellis
+2000-01-08,39-155,MIL,HOME,WAS,W (+1),0,7:42,0,2,.000,0,2,.000,0,0,,0,0,0,1,0,0,0,0,0,-0.7,0,Dale Ellis
+2000-01-15,39-162,MIL,HOME,TOR,W (+21),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Dale Ellis
+2000-01-19,39-166,CHH,AWAY,CHI,W (+10),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Dale Ellis
+2000-01-20,39-167,CHH,HOME,PHI,W (+9),0,6:09,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,+2,Dale Ellis
+2000-01-22,39-169,CHH,HOME,BOS,W (+14),0,13:05,1,4,.250,0,1,.000,0,0,,0,2,2,0,0,0,1,1,2,-1.2,+4,Dale Ellis
+2000-01-25,39-172,CHH,HOME,SAC,L (-11),0,18:51,2,5,.400,2,4,.500,0,0,,1,1,2,1,1,0,2,2,6,3.2,+1,Dale Ellis
+2000-01-27,39-174,CHH,HOME,DET,W (+15),0,6:37,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-1.5,+6,Dale Ellis
+2000-01-29,39-176,CHH,HOME,PHO,W (+21),0,1:24,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,-2,Dale Ellis
+2000-02-01,39-179,CHH,AWAY,HOU,L (-16),0,8:08,0,2,.000,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-1.5,+6,Dale Ellis
+2000-02-03,39-181,CHH,AWAY,DAL,L (-10),0,7:51,1,2,.500,1,1,1.000,0,0,,0,0,0,0,0,0,0,1,3,1.6,-4,Dale Ellis
+2000-02-05,39-183,CHH,AWAY,WAS,W (+8),0,11:46,1,3,.333,1,3,.333,1,2,.500,1,1,2,2,0,0,1,0,4,3.3,+6,Dale Ellis
+2000-02-07,39-185,CHH,HOME,NYK,W (+10),0,13:10,2,5,.400,1,2,.500,0,0,,1,0,1,1,0,0,1,2,5,1.9,-5,Dale Ellis
+2000-02-09,39-187,CHH,HOME,CLE,W (+8),0,8:12,1,4,.250,0,2,.000,0,0,,0,0,0,1,1,0,0,0,2,1.3,+7,Dale Ellis
+2000-02-15,39-193,CHH,AWAY,PHI,W (+2),0,4:26,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,1,0,-1.1,-3,Dale Ellis
+2000-02-18,39-196,CHH,HOME,LAC,W (+28),0,12:00,1,5,.200,1,4,.250,0,0,,0,2,2,0,0,0,0,0,3,0.5,+2,Dale Ellis
+2000-02-20,39-198,CHH,HOME,MIA,L (-5),0,6:31,1,1,1.000,1,1,1.000,0,0,,1,1,2,0,0,0,0,0,3,3.7,-1,Dale Ellis
+2000-02-22,39-200,CHH,HOME,HOU,W (+5),0,8:13,1,2,.500,0,0,,0,0,,0,0,0,0,1,0,0,0,2,2.0,+2,Dale Ellis
+2000-02-24,39-202,CHH,HOME,SAS,L (-2),0,10:34,1,3,.333,1,3,.333,0,0,,0,1,1,0,0,0,0,0,3,1.6,-5,Dale Ellis
+2000-02-26,39-204,CHH,AWAY,NJN,L (-11),1,9:31,0,2,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,2,0,-1.9,+1,Dale Ellis
+2000-02-28,39-206,CHH,HOME,SEA,L (-3),0,4:19,0,0,,0,0,,0,0,,0,0,0,1,1,0,0,1,0,1.3,-1,Dale Ellis
+2000-02-29,39-207,CHH,AWAY,MIN,W (+5),1,6:29,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,0,0,0,0.0,-4,Dale Ellis
+2000-03-02,39-209,CHH,AWAY,ORL,L (-8),1,19:32,3,6,.500,3,4,.750,0,0,,1,2,3,0,1,0,2,3,9,5.1,-2,Dale Ellis
+2000-03-03,39-210,CHH,HOME,UTA,L (-2),1,21:01,2,3,.667,2,2,1.000,0,0,,0,1,1,0,0,0,1,2,6,3.2,-3,Dale Ellis
+2000-03-05,39-212,CHH,HOME,CHI,W (+6),1,23:20,2,6,.333,1,4,.250,2,2,1.000,1,1,2,1,1,0,1,2,7,4.5,+10,Dale Ellis
+2000-03-07,39-214,CHH,AWAY,GSW,W (+3),0,10:28,0,2,.000,0,2,.000,0,0,,0,1,1,0,0,0,0,1,0,-1.5,-13,Dale Ellis
+2000-03-08,39-215,CHH,AWAY,SAC,L (-13),0,4:49,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,-2,Dale Ellis
+2000-03-15,39-222,CHH,HOME,CHI,W (+3),0,6:23,0,1,.000,0,0,,0,0,,0,0,0,0,1,0,0,0,0,0.3,+1,Dale Ellis

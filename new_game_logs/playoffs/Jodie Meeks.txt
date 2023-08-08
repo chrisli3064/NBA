@@ -1,0 +1,43 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2019-04-13,31-235,TOR,HOME,ORL,L (-3),0,2:46,1,2,.500,0,0,,1,1,1.000,0,0,0,1,0,0,0,0,3,2.7,+4,Jodie Meeks
+2019-04-16,31-238,TOR,HOME,ORL,W (+29),0,8:28,0,3,.000,0,3,.000,0,0,,0,1,1,0,0,0,1,1,0,-3.2,-5,Jodie Meeks
+2019-04-19,31-241,TOR,AWAY,ORL,W (+5),0,2:25,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,1,0,0.6,-3,Jodie Meeks
+2019-04-21,31-243,TOR,AWAY,ORL,W (+22),0,5:00,0,1,.000,0,0,,0,0,,0,2,2,0,0,0,0,0,0,-0.1,+1,Jodie Meeks
+2019-04-23,31-245,TOR,HOME,ORL,W (+19),0,13:50,2,8,.250,0,3,.000,1,2,.500,0,3,3,0,0,1,0,3,5,0.2,-15,Jodie Meeks
+2019-04-27,31-249,TOR,HOME,PHI,W (+13),0,4:27,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.8,-9,Jodie Meeks
+2019-04-29,31-251,TOR,HOME,PHI,L (-5),0,1:30,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,0,0,-1.7,-4,Jodie Meeks
+2019-05-02,31-254,TOR,AWAY,PHI,L (-21),0,4:48,2,3,.667,0,1,.000,0,0,,0,1,1,0,1,0,0,0,4,4.0,+3,Jodie Meeks
+2019-05-07,31-259,TOR,HOME,PHI,W (+36),0,6:47,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7,+6,Jodie Meeks
+2019-05-09,31-261,TOR,AWAY,PHI,L (-11),0,3:33,1,2,.500,0,1,.000,0,0,,0,0,0,0,1,0,0,0,2,2.0,+8,Jodie Meeks
+2019-05-17,31-269,TOR,AWAY,MIL,L (-22),0,8:17,2,5,.400,1,2,.500,0,0,,0,0,0,0,1,0,1,1,5,1.9,-1,Jodie Meeks
+2019-05-19,31-271,TOR,HOME,MIL,W (+6),0,0:42,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,Jodie Meeks
+2019-05-21,31-273,TOR,HOME,MIL,W (+18),0,3:05,0,2,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-1.1,-3,Jodie Meeks
+2019-06-05,31-288,TOR,AWAY,GSW,W (+14),0,0:51,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2,Jodie Meeks
+2018-04-14,30-236,WAS,AWAY,TOR,L (-8),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Jodie Meeks
+2018-04-17,30-239,WAS,AWAY,TOR,L (-11),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Jodie Meeks
+2018-04-20,30-242,WAS,HOME,TOR,W (+19),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Jodie Meeks
+2018-04-22,30-244,WAS,HOME,TOR,W (+8),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Jodie Meeks
+2018-04-25,30-247,WAS,AWAY,TOR,L (-10),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Jodie Meeks
+2016-04-20,28-243,DET,AWAY,CLE,L (-17),0,1:41,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,-3,Jodie Meeks
+2012-04-28,24-251,PHI,AWAY,CHI,L (-12),1,10:49,0,1,0.0,0,0,,2,2,1.0,0,0,0,1,0,0,1,1,2,0.6,-6,Jodie Meeks
+2012-05-01,24-254,PHI,AWAY,CHI,W (+17),0,1:09,0,1,0.0,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,0,Jodie Meeks
+2012-05-04,24-257,PHI,HOME,CHI,W (+5),0,5:14,0,0,,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0.7,-5,Jodie Meeks
+2012-05-06,24-259,PHI,HOME,CHI,W (+7),0,7:36,0,1,0.0,0,1,0.0,2,2,1.0,0,0,0,1,0,0,0,1,2,1.6,1,Jodie Meeks
+2012-05-08,24-261,PHI,AWAY,CHI,L (-8),0,1:40,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,Jodie Meeks
+2012-05-10,24-263,PHI,HOME,CHI,W (+1),0,5:44,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,0,Jodie Meeks
+2012-05-12,24-265,PHI,AWAY,BOS,L (-1),0,5:45,1,1,1.0,1,1,1.0,0,0,,0,0,0,0,0,0,0,1,3,2.3,-5,Jodie Meeks
+2012-05-14,24-267,PHI,AWAY,BOS,W (+1),0,6:22,1,2,0.5,0,1,0.0,2,2,1.0,0,0,0,1,0,0,0,0,4,3.7,-1,Jodie Meeks
+2012-05-16,24-269,PHI,HOME,BOS,L (-16),0,16:46,4,9,0.444,1,4,0.25,4,4,1.0,2,0,2,1,0,0,0,1,13,10.0,-1,Jodie Meeks
+2012-05-18,24-271,PHI,HOME,BOS,W (+9),0,11:36,2,3,0.667,1,2,0.5,4,4,1.0,0,1,1,0,3,0,1,2,9,9.2,15,Jodie Meeks
+2012-05-21,24-274,PHI,AWAY,BOS,L (-16),0,11:34,0,3,0.0,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-2.2,-4,Jodie Meeks
+2012-05-23,24-276,PHI,HOME,BOS,W (+7),0,12:39,0,1,0.0,0,1,0.0,0,0,,0,0,0,0,0,0,2,0,0,-2.7,-2,Jodie Meeks
+2012-05-26,24-279,PHI,AWAY,BOS,L (-10),0,5:19,1,4,0.25,0,3,0.0,0,0,,0,0,0,0,0,0,0,3,2,-1.6,1,Jodie Meeks
+2013-04-21,25-243,LAL,AWAY,SAS,L (-12),0,19:32,1,4,.250,0,2,.000,2,2,1.000,1,1,2,0,1,0,2,2,4,0.8,-10,Jodie Meeks
+2013-04-24,25-246,LAL,AWAY,SAS,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jodie Meeks
+2013-04-26,25-248,LAL,HOME,SAS,L (-31),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jodie Meeks
+2013-04-28,25-250,LAL,HOME,SAS,L (-21),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Jodie Meeks
+2011-04-16,23-238,PHI,AWAY,MIA,L (-8),1,26:57,3,6,0.5,2,3,0.667,1,2,0.5,0,1,1,0,1,0,0,2,9,6.1,-4,Jodie Meeks
+2011-04-18,23-240,PHI,AWAY,MIA,L (-21),1,26:29,2,6,0.333,1,2,0.5,2,2,1.0,0,3,3,1,0,0,1,1,7,3.8,-9,Jodie Meeks
+2011-04-21,23-243,PHI,HOME,MIA,L (-6),1,28:10,2,8,0.25,2,6,0.333,0,0,,1,2,3,2,2,0,0,1,6,5.5,1,Jodie Meeks
+2011-04-24,23-246,PHI,HOME,MIA,W (+4),1,20:26,2,3,0.667,1,1,1.0,0,0,,1,2,3,1,0,0,0,0,5,5.7,8,Jodie Meeks
+2011-04-27,23-249,PHI,AWAY,MIA,L (-6),1,22:39,4,8,0.5,2,6,0.333,2,2,1.0,0,0,0,0,0,0,1,2,12,6.2,-10,Jodie Meeks

@@ -1,0 +1,354 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2001-10-31,25-166,CHI,HOME,IND,L (-25),1,41:23,10,20,.500,0,1,.000,2,2,1.000,0,5,5,5,1,2,4,2,22,14.6,-18,Ron Mercer
+2001-11-02,25-168,CHI,AWAY,BOS,L (-14),1,40:26,8,19,.421,2,4,.500,4,8,.500,1,1,2,2,0,0,4,2,22,7.9,-2,Ron Mercer
+2001-11-03,25-169,CHI,HOME,NYK,W (+5),1,45:09,7,18,.389,2,4,.500,1,3,.333,0,3,3,4,2,0,3,4,17,7.5,+4,Ron Mercer
+2001-11-07,25-173,CHI,HOME,DET,L (-24),1,34:11,4,15,.267,0,1,.000,1,1,1.000,2,1,3,4,2,0,4,2,9,1.8,-18,Ron Mercer
+2001-11-08,25-174,CHI,AWAY,MIN,L (-53),1,29:13,7,14,.500,1,4,.250,0,0,,1,2,3,1,1,0,1,2,15,9.2,-44,Ron Mercer
+2001-11-10,25-176,CHI,HOME,CHH,L (-4),1,37:50,6,18,.333,0,0,,0,0,,3,3,6,3,0,0,0,4,12,5.3,-5,Ron Mercer
+2001-11-13,25-179,CHI,AWAY,DEN,L (-8),1,37:29,9,17,.529,0,1,.000,0,0,,0,1,1,5,1,1,0,3,18,14.0,-4,Ron Mercer
+2001-11-14,25-180,CHI,AWAY,LAC,L (-4),1,33:03,7,21,.333,0,1,.000,3,4,.750,0,2,2,1,0,0,3,1,17,2.6,-10,Ron Mercer
+2001-11-16,25-182,CHI,AWAY,SAC,L (-34),1,28:34,7,14,.500,0,0,,0,0,,1,3,4,3,0,0,3,1,14,7.3,-21,Ron Mercer
+2001-11-17,25-183,CHI,AWAY,GSW,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ron Mercer
+2001-11-21,25-187,CHI,AWAY,MIL,L (-4),1,40:37,14,27,.519,2,5,.400,1,6,.167,0,3,3,1,0,0,1,1,31,15.9,-17,Ron Mercer
+2001-11-24,25-190,CHI,AWAY,NYK,L (-7),1,42:09,5,17,.294,1,1,1.000,3,4,.750,1,6,7,1,2,1,4,1,14,5.2,-2,Ron Mercer
+2001-11-27,25-193,CHI,AWAY,NJN,L (-32),1,30:48,2,11,.182,0,1,.000,0,0,,0,4,4,0,0,1,3,2,4,-4.8,-25,Ron Mercer
+2001-11-29,25-195,CHI,HOME,MIA,W (+6),1,39:45,6,13,.462,0,1,.000,7,8,.875,1,0,1,3,2,1,2,2,19,14.6,+7,Ron Mercer
+2001-12-01,25-197,CHI,HOME,PHI,L (-17),1,36:50,4,16,.250,0,0,,2,2,1.000,4,2,6,2,3,0,1,1,10,6.8,-22,Ron Mercer
+2001-12-04,25-200,CHI,HOME,HOU,W (+28),1,37:29,11,22,.500,0,0,,0,0,,1,4,5,5,0,0,2,1,22,14.0,+17,Ron Mercer
+2001-12-05,25-201,CHI,AWAY,ORL,L (-28),1,36:46,6,14,.429,0,1,.000,3,4,.750,3,0,3,1,1,0,6,1,15,4.6,-39,Ron Mercer
+2001-12-07,25-203,CHI,AWAY,IND,L (-15),1,34:42,4,15,.267,0,1,.000,2,2,1.000,0,2,2,5,2,0,1,1,10,5.8,-16,Ron Mercer
+2001-12-08,25-204,CHI,HOME,BOS,W (+3),1,39:43,5,16,.313,0,1,.000,1,2,.500,1,4,5,6,0,1,0,2,11,7.4,+4,Ron Mercer
+2001-12-11,25-207,CHI,HOME,NJN,L (-14),1,39:16,9,18,.500,0,0,,0,0,,0,3,3,2,1,0,2,2,18,9.5,-9,Ron Mercer
+2001-12-14,25-210,CHI,AWAY,BOS,L (-6),1,43:23,9,23,.391,3,5,.600,2,2,1.000,0,6,6,3,0,0,1,4,23,11.8,-1,Ron Mercer
+2001-12-15,25-211,CHI,HOME,ATL,L (-1),1,36:39,7,19,.368,0,1,.000,1,1,1.000,1,3,4,3,0,0,1,1,15,6.8,+6,Ron Mercer
+2001-12-18,25-214,CHI,AWAY,CLE,L (-18),1,39:16,8,21,.381,1,3,.333,6,8,.750,0,1,1,3,1,0,2,0,23,12.1,-30,Ron Mercer
+2001-12-20,25-216,CHI,AWAY,TOR,L (-5),1,40:45,5,15,.333,0,1,.000,4,4,1.000,1,3,4,3,1,0,3,3,14,6.0,-6,Ron Mercer
+2001-12-22,25-218,CHI,HOME,MIN,L (-21),1,32:53,6,15,.400,0,0,,0,0,,0,2,2,2,0,0,2,1,12,3.5,-21,Ron Mercer
+2001-12-26,25-222,CHI,AWAY,MEM,L (-22),1,41:48,11,24,.458,0,1,.000,0,0,,2,3,5,3,0,0,0,2,22,13.2,-22,Ron Mercer
+2001-12-27,25-223,CHI,AWAY,DAL,L (-15),1,38:39,9,20,.450,0,0,,1,1,1.000,4,0,4,4,0,0,4,2,19,9.4,-14,Ron Mercer
+2001-12-29,25-225,CHI,HOME,CLE,W (+23),1,33:14,6,16,.375,0,0,,3,4,.750,1,5,6,3,1,0,0,1,15,10.7,+14,Ron Mercer
+2001-12-31,25-227,CHI,HOME,MIL,W (+7),1,38:17,9,20,.450,0,1,.000,2,2,1.000,2,5,7,7,0,0,0,2,20,16.6,+4,Ron Mercer
+2002-01-02,25-229,CHI,HOME,DAL,L (-10),1,36:39,5,16,.313,0,1,.000,4,4,1.000,0,2,2,0,1,0,2,1,14,4.0,-13,Ron Mercer
+2002-01-04,25-231,CHI,AWAY,WAS,L (-6),1,41:45,11,21,.524,1,3,.333,2,2,1.000,1,2,3,3,2,2,1,2,25,19.7,-12,Ron Mercer
+2002-01-05,25-232,CHI,HOME,UTA,L (-2),1,49:30,10,21,.476,1,2,.500,8,8,1.000,1,3,4,6,2,0,1,3,29,23.9,-1,Ron Mercer
+2002-01-07,25-234,CHI,HOME,SEA,L (-12),1,34:56,8,17,.471,0,2,.000,0,0,,0,6,6,6,0,0,2,4,16,9.7,+10,Ron Mercer
+2002-01-09,25-236,CHI,HOME,TOR,L (-12),1,35:06,6,19,.316,0,3,.000,1,2,.500,3,2,5,2,1,0,1,1,13,5.4,-9,Ron Mercer
+2002-01-11,25-238,CHI,AWAY,IND,L (-7),1,42:10,10,26,.385,0,0,,2,2,1.000,2,4,6,4,1,1,1,5,22,11.9,-2,Ron Mercer
+2002-01-12,25-239,CHI,HOME,LAL,W (+2),1,43:05,10,24,.417,1,2,.500,7,8,.875,2,1,3,1,1,0,3,5,28,13.2,-4,Ron Mercer
+2002-01-15,25-242,CHI,HOME,CHH,L (-8),1,39:55,5,18,.278,0,0,,2,4,.500,2,0,2,3,0,0,0,6,12,1.7,0,Ron Mercer
+2002-01-17,25-244,CHI,AWAY,ATL,W (+3),1,37:15,7,16,.438,0,2,.000,5,6,.833,0,6,6,2,0,0,4,2,19,8.6,+5,Ron Mercer
+2002-01-19,25-246,CHI,HOME,WAS,L (-8),1,36:05,6,16,.375,2,2,1.000,0,0,,2,1,3,2,0,0,2,3,14,5.1,-3,Ron Mercer
+2002-01-21,25-248,CHI,HOME,IND,L (-12),1,41:33,7,19,.368,0,1,.000,4,4,1.000,1,3,4,3,1,0,3,3,18,8.0,-7,Ron Mercer
+2002-01-22,25-249,CHI,AWAY,MIA,L (-13),1,15:22,0,6,.000,0,0,,0,0,,0,4,4,1,0,0,2,0,0,-4.3,+6,Ron Mercer
+2002-03-07,25-293,IND,AWAY,MEM,L (-11),0,6:58,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-1.5,-9,Ron Mercer
+2002-03-17,25-303,IND,HOME,ATL,W (+17),0,15:26,1,4,.250,0,0,,0,0,,1,2,3,3,0,1,1,1,2,2.3,+6,Ron Mercer
+2002-03-20,25-306,IND,AWAY,CHH,L (-6),0,8:26,1,3,.333,0,0,,0,0,,1,1,2,0,0,0,0,0,2,1.3,-3,Ron Mercer
+2002-03-22,25-308,IND,AWAY,MIA,W (+10),0,18:49,6,9,.667,0,0,,5,5,1.000,0,2,2,0,0,0,1,1,17,12.3,+9,Ron Mercer
+2002-03-24,25-310,IND,HOME,CHH,L (-15),0,8:29,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-9,Ron Mercer
+2002-03-26,25-312,IND,HOME,DET,L (-19),0,24:00,7,12,.583,1,1,1.000,0,0,,0,2,2,0,1,0,2,3,15,7.8,-16,Ron Mercer
+2002-03-29,25-315,IND,AWAY,ORL,L (-8),0,28:13,3,11,.273,0,3,.000,0,0,,1,4,5,1,0,0,1,4,6,-0.5,-1,Ron Mercer
+2002-04-02,25-319,IND,HOME,BOS,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ron Mercer
+2002-04-04,25-321,IND,AWAY,ATL,L (-1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ron Mercer
+2002-04-07,25-324,IND,AWAY,TOR,L (-10),0,14:07,1,4,.250,0,0,,0,0,,0,0,0,1,0,0,1,0,2,-0.7,-7,Ron Mercer
+2002-04-08,25-325,IND,HOME,CLE,L (-12),1,31:27,1,5,.200,0,0,,4,4,1.000,0,3,3,2,0,0,0,5,6,3.2,-2,Ron Mercer
+2002-04-10,25-327,IND,HOME,TOR,W (+16),0,2:20,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-10,Ron Mercer
+2002-04-14,25-331,IND,AWAY,WAS,W (+6),0,20:04,5,9,.556,0,1,.000,0,0,,1,1,2,2,0,2,0,1,10,9.1,+7,Ron Mercer
+2002-04-16,25-333,IND,AWAY,CLE,W (+4),0,20:32,0,7,.000,0,0,,0,0,,2,2,4,0,0,0,2,3,0,-6.1,-6,Ron Mercer
+2002-04-17,25-334,IND,HOME,PHI,W (+23),0,15:22,0,2,.000,0,0,,2,2,1.000,0,0,0,1,1,0,1,1,2,0.9,+5,Ron Mercer
+2000-10-31,24-166,CHI,HOME,SAC,L (-19),1,38:42,6,15,.400,0,0,,7,8,.875,0,0,0,2,0,1,3,3,19,8.4,-21,Ron Mercer
+2000-11-03,24-169,CHI,HOME,NJN,L (-10),1,39:32,4,11,.364,0,0,,2,2,1.000,0,2,2,6,2,0,1,2,10,8.9,-5,Ron Mercer
+2000-11-04,24-170,CHI,AWAY,IND,L (-13),1,41:26,5,14,.357,1,1,1.000,4,5,.800,0,4,4,5,0,0,6,3,15,4.3,-3,Ron Mercer
+2000-11-07,24-173,CHI,HOME,WAS,L (-5),1,38:26,3,15,.200,0,4,.000,2,4,.500,2,3,5,4,0,0,1,3,8,0.8,-6,Ron Mercer
+2000-11-09,24-175,CHI,HOME,ORL,W (+5),1,40:02,9,18,.500,0,0,,5,8,.625,4,6,10,2,1,2,5,3,23,15.0,+7,Ron Mercer
+2000-11-11,24-177,CHI,HOME,TOR,L (-23),1,33:18,7,16,.438,0,0,,3,4,.750,0,2,2,3,0,0,1,4,17,8.3,-14,Ron Mercer
+2000-11-14,24-180,CHI,AWAY,HOU,L (-27),1,35:50,4,15,.267,0,0,,1,2,.500,5,2,7,0,2,0,3,1,9,2.4,-21,Ron Mercer
+2000-11-16,24-182,CHI,AWAY,DEN,L (-4),1,42:10,6,19,.316,0,2,.000,5,6,.833,0,5,5,5,2,2,2,3,17,10.9,0,Ron Mercer
+2000-11-18,24-184,CHI,AWAY,UTA,L (-45),1,37:14,8,19,.421,0,0,,0,1,.000,1,1,2,1,2,0,3,1,16,5.8,-32,Ron Mercer
+2000-11-19,24-185,CHI,AWAY,LAL,L (-8),1,42:33,13,25,.520,0,0,,1,1,1.000,1,5,6,5,0,0,1,2,27,18.6,-2,Ron Mercer
+2000-11-21,24-187,CHI,AWAY,GSW,L (-12),1,44:24,6,20,.300,0,1,.000,7,7,1.000,1,4,5,8,0,0,3,4,19,10.3,-10,Ron Mercer
+2000-11-22,24-188,CHI,AWAY,SAC,L (-29),1,35:24,3,12,.250,0,0,,4,4,1.000,2,0,2,1,0,1,2,2,10,2.8,-12,Ron Mercer
+2000-11-26,24-192,CHI,AWAY,TOR,L (-12),1,33:50,4,13,.308,0,0,,2,2,1.000,1,4,5,4,0,0,2,4,10,3.6,-11,Ron Mercer
+2000-11-28,24-194,CHI,HOME,MIN,L (-20),1,39:53,8,15,.533,0,0,,4,5,.800,0,2,2,2,0,0,3,1,20,10.9,-12,Ron Mercer
+2000-11-30,24-196,CHI,AWAY,ATL,W (+9),1,45:32,13,18,.722,0,0,,4,5,.800,1,3,4,1,2,0,3,3,30,22.3,+13,Ron Mercer
+2000-12-01,24-197,CHI,HOME,NYK,L (-5),1,42:42,5,11,.455,0,0,,6,7,.857,2,1,3,2,2,2,1,2,16,14.6,-5,Ron Mercer
+2000-12-05,24-201,CHI,AWAY,MIN,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ron Mercer
+2000-12-06,24-202,CHI,HOME,CLE,L (-4),1,44:25,14,24,.583,0,0,,6,9,.667,3,4,7,3,1,2,1,0,34,28.4,-1,Ron Mercer
+2000-12-08,24-204,CHI,AWAY,DAL,L (-19),1,41:20,6,18,.333,1,2,.500,3,4,.750,0,4,4,1,0,1,3,1,16,4.6,-22,Ron Mercer
+2000-12-09,24-205,CHI,AWAY,SAS,L (-24),1,33:23,8,17,.471,2,2,1.000,0,0,,0,2,2,4,2,0,1,2,18,12.9,-24,Ron Mercer
+2000-12-11,24-207,CHI,HOME,PHO,L (-6),1,47:32,11,26,.423,0,1,.000,4,4,1.000,1,2,3,1,4,0,6,6,26,9.8,-5,Ron Mercer
+2000-12-13,24-209,CHI,AWAY,BOS,W (+18),1,42:56,12,23,.522,0,1,.000,3,3,1.000,2,1,3,6,7,1,2,3,27,26.1,+20,Ron Mercer
+2000-12-15,24-211,CHI,HOME,ATL,L (-11),1,44:59,9,22,.409,0,1,.000,4,4,1.000,3,3,6,1,1,2,0,6,22,13.9,-9,Ron Mercer
+2000-12-16,24-212,CHI,HOME,PHI,L (-8),1,44:59,9,22,.409,1,2,.500,1,1,1.000,2,0,2,7,4,0,0,4,20,16.9,-5,Ron Mercer
+2000-12-19,24-215,CHI,HOME,IND,L (-5),1,44:49,6,21,.286,0,0,,3,4,.750,1,4,5,3,2,1,1,4,15,6.4,-13,Ron Mercer
+2000-12-21,24-217,CHI,AWAY,ORL,L (-11),1,44:57,11,23,.478,0,0,,3,4,.750,0,5,5,2,3,2,2,3,25,17.0,-10,Ron Mercer
+2000-12-23,24-219,CHI,AWAY,DET,L (-13),1,45:47,13,26,.500,0,0,,3,4,.750,1,2,3,1,3,1,2,2,29,18.5,-11,Ron Mercer
+2000-12-28,24-224,CHI,HOME,SAS,W (+1),1,43:48,13,22,.591,0,0,,7,8,.875,0,2,2,3,2,0,2,2,33,24.3,+2,Ron Mercer
+2000-12-29,24-225,CHI,AWAY,NYK,L (-27),1,37:02,6,15,.400,1,1,1.000,6,6,1.000,0,4,4,2,0,0,1,0,19,12.5,-20,Ron Mercer
+2000-12-31,24-227,CHI,HOME,NJN,W (+9),1,44:27,7,19,.368,0,0,,4,8,.500,1,4,5,4,2,1,1,4,18,10.7,+10,Ron Mercer
+2001-01-02,24-229,CHI,HOME,MIL,L (-34),1,30:52,6,13,.462,0,0,,4,4,1.000,1,4,5,0,0,0,5,1,16,5.8,-31,Ron Mercer
+2001-01-04,24-231,CHI,HOME,WAS,W (+2),1,42:44,7,16,.438,1,1,1.000,3,4,.750,2,4,6,3,0,0,5,3,18,7.7,+4,Ron Mercer
+2001-01-08,24-235,CHI,HOME,DAL,L (-13),1,47:00,2,12,.167,0,0,,0,2,.000,0,2,2,2,1,1,1,2,4,-2.5,-15,Ron Mercer
+2001-01-09,24-236,CHI,AWAY,CHH,L (-7),1,58:29,12,32,.375,0,3,.000,3,4,.750,1,5,6,3,2,1,3,3,27,11.8,-12,Ron Mercer
+2001-01-12,24-239,CHI,HOME,CHH,L (-1),1,43:27,8,14,.571,0,0,,5,7,.714,0,2,2,2,0,0,0,1,21,15.2,-5,Ron Mercer
+2001-01-14,24-241,CHI,AWAY,MIA,L (-9),1,43:45,7,17,.412,0,1,.000,5,6,.833,0,1,1,1,0,0,1,2,19,8.7,-12,Ron Mercer
+2001-01-15,24-242,CHI,AWAY,ORL,L (-9),1,44:57,8,20,.400,0,0,,11,11,1.000,2,2,4,9,1,1,3,3,27,22.0,-11,Ron Mercer
+2001-01-17,24-244,CHI,AWAY,PHI,L (-11),1,38:58,6,21,.286,0,2,.000,0,0,,0,1,1,3,2,0,4,4,12,-1.5,-6,Ron Mercer
+2001-01-18,24-245,CHI,HOME,DET,L (-6),1,41:15,15,23,.652,0,1,.000,3,3,1.000,0,2,2,4,3,0,1,4,33,26.7,-2,Ron Mercer
+2001-01-20,24-247,CHI,AWAY,NJN,L (-20),1,40:46,10,17,.588,1,1,1.000,1,1,1.000,0,3,3,1,1,0,3,1,22,13.3,-17,Ron Mercer
+2001-01-23,24-250,CHI,HOME,POR,L (-4),1,48:00,16,25,.640,2,2,1.000,5,5,1.000,2,5,7,7,5,0,4,1,39,36.3,-4,Ron Mercer
+2001-01-24,24-251,CHI,AWAY,CLE,L (-8),1,44:40,5,20,.250,0,2,.000,1,2,.500,2,1,3,3,4,0,4,2,11,1.6,-5,Ron Mercer
+2001-01-27,24-254,CHI,HOME,TOR,L (-10),1,48:00,9,16,.563,0,0,,5,6,.833,0,3,3,3,0,0,1,1,23,16.6,-10,Ron Mercer
+2001-01-30,24-257,CHI,AWAY,POR,L (-11),1,44:32,8,20,.400,2,3,.667,4,4,1.000,1,3,4,3,4,0,1,0,22,17.9,-14,Ron Mercer
+2001-02-01,24-259,CHI,AWAY,SEA,L (-6),1,41:51,14,24,.583,1,1,1.000,1,2,.500,0,4,4,1,0,0,3,1,30,16.9,-12,Ron Mercer
+2001-02-03,24-261,CHI,AWAY,VAN,L (-7),1,48:00,7,22,.318,0,4,.000,3,3,1.000,3,3,6,8,1,0,0,3,17,12.8,-7,Ron Mercer
+2001-02-05,24-263,CHI,AWAY,LAC,L (-20),1,41:10,7,21,.333,0,0,,1,1,1.000,1,3,4,3,0,0,1,1,15,5.4,-5,Ron Mercer
+2001-02-06,24-264,CHI,AWAY,PHO,L (-17),1,38:29,6,14,.429,0,0,,3,4,.750,0,3,3,2,1,1,3,1,15,7.8,-17,Ron Mercer
+2001-02-13,24-271,CHI,HOME,ATL,W (+4),1,41:42,9,17,.529,0,1,.000,1,2,.500,1,3,4,4,0,0,2,4,19,11.1,+4,Ron Mercer
+2001-02-17,24-275,CHI,HOME,MIA,W (+7),1,44:17,11,17,.647,0,0,,5,5,1.000,0,4,4,6,1,0,2,1,27,23.5,-1,Ron Mercer
+2001-02-20,24-278,CHI,HOME,MIL,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ron Mercer
+2001-02-22,24-280,CHI,HOME,LAC,L (-13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ron Mercer
+2001-02-24,24-282,CHI,HOME,VAN,W (+15),1,14:23,1,5,.200,0,0,,0,0,,0,0,0,4,1,0,1,0,2,1.7,+5,Ron Mercer
+2001-02-26,24-284,CHI,HOME,GSW,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ron Mercer
+2001-02-28,24-286,CHI,HOME,HOU,L (-17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ron Mercer
+2001-03-02,24-288,CHI,HOME,NYK,W (+9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ron Mercer
+2001-03-03,24-289,CHI,AWAY,MIL,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ron Mercer
+2001-03-06,24-292,CHI,HOME,CLE,W (+13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ron Mercer
+2001-03-09,24-295,CHI,AWAY,DET,L (-33),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ron Mercer
+2001-03-10,24-296,CHI,AWAY,ATL,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ron Mercer
+2001-03-12,24-298,CHI,AWAY,CHH,L (-8),1,37:28,9,14,.643,0,0,,2,3,.667,1,3,4,5,0,0,1,3,20,16.3,-11,Ron Mercer
+2001-03-14,24-300,CHI,HOME,PHI,L (-18),1,33:36,8,20,.400,0,0,,0,0,,3,1,4,2,0,0,0,2,16,8.2,-14,Ron Mercer
+2001-03-16,24-302,CHI,HOME,SEA,L (-10),1,42:31,6,14,.429,0,0,,0,0,,2,2,4,1,1,2,1,4,12,7.1,-10,Ron Mercer
+2001-03-17,24-303,CHI,AWAY,NYK,L (-21),1,41:37,8,23,.348,0,2,.000,2,2,1.000,2,1,3,2,1,0,0,2,18,8.4,-27,Ron Mercer
+2001-03-20,24-306,CHI,HOME,ORL,L (-8),1,40:55,7,17,.412,0,0,,4,4,1.000,3,2,5,10,1,1,3,3,18,16.1,-5,Ron Mercer
+2001-03-21,24-307,CHI,AWAY,MIA,L (-28),1,32:17,5,10,.500,0,0,,3,4,.750,0,2,2,2,1,0,1,2,13,8.8,-23,Ron Mercer
+2001-03-23,24-309,CHI,HOME,CHH,W (+3),1,50:31,13,22,.591,0,1,.000,4,4,1.000,2,4,6,1,1,0,1,3,30,21.9,+5,Ron Mercer
+2001-03-25,24-311,CHI,AWAY,BOS,L (-4),1,43:43,14,19,.737,1,1,1.000,0,0,,3,3,6,6,1,0,7,6,29,20.1,-10,Ron Mercer
+2001-03-26,24-312,CHI,HOME,DEN,L (-5),1,49:20,13,27,.481,0,1,.000,4,4,1.000,3,2,5,2,0,0,3,1,30,17.0,+2,Ron Mercer
+2001-03-29,24-315,CHI,HOME,BOS,L (-2),1,46:03,8,19,.421,0,1,.000,1,1,1.000,2,5,7,4,0,1,1,3,17,11.1,-5,Ron Mercer
+2001-03-31,24-317,CHI,HOME,MIA,L (-7),1,37:42,6,16,.375,0,0,,0,0,,1,0,1,5,1,0,1,2,12,6.6,-11,Ron Mercer
+2001-04-03,24-320,CHI,HOME,DET,L (-27),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ron Mercer
+2001-04-05,24-322,CHI,HOME,LAL,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ron Mercer
+2001-04-06,24-323,CHI,AWAY,IND,L (-7),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Ron Mercer
+2001-04-08,24-325,CHI,AWAY,TOR,L (-12),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Ron Mercer
+2001-04-10,24-327,CHI,AWAY,MIL,L (-21),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Ron Mercer
+2001-04-11,24-328,CHI,AWAY,WAS,W (+4),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Ron Mercer
+2001-04-13,24-330,CHI,HOME,UTA,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ron Mercer
+2001-04-15,24-332,CHI,HOME,IND,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ron Mercer
+2001-04-17,24-334,CHI,AWAY,NJN,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ron Mercer
+2001-04-18,24-335,CHI,AWAY,PHI,W (+6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Ron Mercer
+2002-10-30,26-165,IND,HOME,HOU,W (+9),0,38:22,6,15,.400,0,0,,0,0,,1,3,4,4,2,1,0,3,12,9.8,+13,Ron Mercer
+2002-11-01,26-167,IND,AWAY,NJN,L (-11),0,39:01,6,13,.462,0,0,,4,4,1.000,0,3,3,5,1,0,1,4,16,12.1,-8,Ron Mercer
+2002-11-02,26-168,IND,HOME,MIN,W (+7),0,15:28,2,5,.400,0,0,,0,0,,0,1,1,3,0,0,1,1,4,2.3,-4,Ron Mercer
+2002-11-05,26-171,IND,AWAY,MIA,W (+4),0,28:00,5,8,.625,0,0,,2,4,.500,0,3,3,0,0,0,1,4,12,5.9,-7,Ron Mercer
+2002-11-08,26-174,IND,HOME,NYK,W (+13),0,18:14,3,7,.429,0,0,,0,0,,0,2,2,0,2,0,1,1,6,3.5,-6,Ron Mercer
+2002-11-09,26-175,IND,HOME,TOR,W (+24),0,18:47,2,5,.400,0,0,,2,3,.667,0,3,3,0,0,0,2,1,6,1.4,+3,Ron Mercer
+2002-11-12,26-178,IND,HOME,CLE,W (+20),0,24:23,6,9,.667,1,2,.500,2,2,1.000,0,1,1,1,3,0,3,2,15,11.3,+4,Ron Mercer
+2002-11-15,26-181,IND,HOME,MIL,W (+3),0,31:40,5,11,.455,0,0,,1,1,1.000,0,2,2,4,0,0,2,3,11,5.5,-10,Ron Mercer
+2002-11-16,26-182,IND,AWAY,MIN,W (+6),0,26:41,7,11,.636,0,0,,8,8,1.000,1,2,3,2,2,0,0,1,22,21.4,+6,Ron Mercer
+2002-11-20,26-186,IND,AWAY,TOR,W (+2),0,39:41,7,13,.538,0,1,.000,0,0,,1,1,2,0,0,0,1,2,14,6.9,+4,Ron Mercer
+2002-11-22,26-188,IND,HOME,ORL,W (+36),0,19:56,5,11,.455,0,0,,1,1,1.000,1,1,2,2,2,0,0,1,11,9.3,+13,Ron Mercer
+2002-11-23,26-189,IND,HOME,DET,L (-15),0,26:57,4,9,.444,0,0,,2,3,.667,0,1,1,1,1,0,0,2,10,6.1,-16,Ron Mercer
+2002-11-26,26-192,IND,AWAY,WAS,W (+4),0,24:32,4,9,.444,0,0,,1,2,.500,0,1,1,3,0,0,1,1,9,4.9,0,Ron Mercer
+2002-11-28,26-194,IND,HOME,DAL,W (+12),0,15:46,0,4,.000,0,0,,0,0,,0,1,1,1,1,0,0,2,0,-1.6,-10,Ron Mercer
+2002-11-29,26-195,IND,HOME,WAS,W (+16),0,40:03,5,12,.417,0,0,,1,2,.500,0,3,3,5,0,0,0,4,11,7.0,+23,Ron Mercer
+2002-12-01,26-197,IND,AWAY,LAC,W (+5),1,39:37,8,15,.533,0,0,,4,4,1.000,1,3,4,4,0,0,3,1,20,13.7,+10,Ron Mercer
+2002-12-02,26-198,IND,AWAY,UTA,L (-11),1,36:00,5,13,.385,0,1,.000,4,4,1.000,2,1,3,2,2,0,0,1,14,11.6,-8,Ron Mercer
+2002-12-04,26-200,IND,AWAY,SEA,W (+3),0,9:05,2,4,.500,1,1,1.000,0,1,.000,0,1,1,0,0,0,0,2,5,2.1,-10,Ron Mercer
+2002-12-06,26-202,IND,AWAY,PHO,L (-6),0,20:16,2,6,.333,0,0,,0,0,,0,1,1,1,2,0,0,2,4,2.8,-1,Ron Mercer
+2002-12-07,26-203,IND,AWAY,DEN,L (-11),0,8:52,0,2,.000,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-2.4,-10,Ron Mercer
+2002-12-11,26-207,IND,AWAY,MIL,W (+7),0,23:42,3,6,.500,0,0,,2,2,1.000,0,1,1,1,1,0,1,4,8,4.4,-4,Ron Mercer
+2002-12-13,26-209,IND,HOME,DEN,W (+22),0,30:09,7,13,.538,0,0,,5,5,1.000,0,4,4,3,0,0,2,1,19,13.6,+23,Ron Mercer
+2002-12-15,26-211,IND,HOME,PHI,W (+10),0,24:10,3,8,.375,0,0,,0,0,,0,2,2,3,1,1,2,1,6,3.6,+6,Ron Mercer
+2002-12-17,26-213,IND,AWAY,DAL,L (-21),0,28:37,3,10,.300,0,0,,0,0,,1,1,2,0,1,1,1,3,6,0.7,-3,Ron Mercer
+2002-12-18,26-214,IND,AWAY,HOU,L (-12),0,11:52,0,4,.000,0,0,,0,0,,1,0,1,0,0,0,0,1,0,-2.5,-3,Ron Mercer
+2002-12-20,26-216,IND,HOME,CHI,W (+15),0,31:56,8,13,.615,0,0,,0,2,.000,0,1,1,1,0,0,1,3,16,8.1,+7,Ron Mercer
+2002-12-21,26-217,IND,AWAY,CHI,L (-7),0,44:53,7,22,.318,0,1,.000,0,3,.000,2,7,9,2,0,2,1,6,14,3.1,-4,Ron Mercer
+2002-12-23,26-219,IND,HOME,ATL,W (+15),0,17:24,0,3,.000,0,0,,0,0,,0,1,1,1,0,0,0,2,0,-1.9,-2,Ron Mercer
+2002-12-27,26-223,IND,AWAY,CLE,W (+24),0,24:43,7,16,.438,0,1,.000,0,0,,1,1,2,2,0,0,1,2,14,6.2,+9,Ron Mercer
+2002-12-28,26-224,IND,HOME,NOH,W (+7),0,20:05,0,4,.000,0,0,,0,0,,0,2,2,0,1,2,1,1,0,-1.2,-8,Ron Mercer
+2002-12-31,26-227,IND,AWAY,NOH,W (+3),0,14:48,2,7,.286,0,0,,0,0,,0,0,0,0,1,0,0,1,4,0.5,0,Ron Mercer
+2003-01-03,26-230,IND,AWAY,NYK,L (-2),0,20:51,4,6,.667,0,0,,0,2,.000,0,0,0,0,1,1,1,1,8,4.9,-6,Ron Mercer
+2003-01-04,26-231,IND,AWAY,WAS,L (-3),0,26:47,1,7,.143,0,0,,0,0,,0,5,5,4,2,0,2,3,2,0.6,+10,Ron Mercer
+2003-01-06,26-233,IND,AWAY,PHI,W (+1),0,24:27,5,10,.500,0,1,.000,0,0,,1,0,1,3,2,0,1,1,10,8.4,-12,Ron Mercer
+2003-01-08,26-235,IND,HOME,NYK,W (+2),0,38:21,9,16,.563,0,0,,1,2,.500,0,2,2,2,3,0,0,1,19,15.6,+6,Ron Mercer
+2003-01-10,26-237,IND,AWAY,ORL,W (+4),0,26:12,3,10,.300,0,1,.000,0,0,,1,4,5,3,3,1,2,3,6,4.7,+2,Ron Mercer
+2003-01-11,26-238,IND,HOME,GSW,W (+12),0,23:25,4,9,.444,0,0,,0,0,,0,2,2,3,1,0,1,3,8,4.8,-3,Ron Mercer
+2003-01-15,26-242,IND,HOME,MIA,W (+23),0,17:28,3,6,.500,0,0,,0,0,,0,3,3,0,0,0,0,1,6,3.5,+13,Ron Mercer
+2003-01-17,26-244,IND,AWAY,BOS,L (-5),0,22:16,6,12,.500,0,0,,0,0,,1,2,3,2,0,0,1,1,12,7.3,+11,Ron Mercer
+2003-01-18,26-245,IND,HOME,DET,W (+2),0,10:02,0,0,,0,0,,0,0,,0,0,0,1,0,0,1,2,0,-1.1,-12,Ron Mercer
+2003-01-20,26-247,IND,AWAY,DET,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ron Mercer
+2003-01-22,26-249,IND,HOME,TOR,W (+3),0,25:47,5,9,.556,0,0,,0,0,,0,2,2,4,1,1,0,3,10,9.6,+5,Ron Mercer
+2003-01-24,26-251,IND,HOME,SEA,W (+13),0,26:06,6,15,.400,0,0,,2,2,1.000,1,0,1,1,1,0,0,1,14,7.9,+3,Ron Mercer
+2003-01-26,26-253,IND,HOME,LAC,W (+7),0,18:27,3,7,.429,0,0,,0,0,,1,2,3,1,0,0,0,1,6,3.9,+4,Ron Mercer
+2003-01-27,26-254,IND,AWAY,MIA,W (+7),0,21:25,1,5,.200,0,0,,0,0,,0,4,4,1,0,0,0,2,2,0.0,+11,Ron Mercer
+2003-01-29,26-256,IND,HOME,SAS,L (-9),1,20:53,1,8,.125,0,0,,0,0,,0,1,1,1,0,0,0,2,2,-3.0,-12,Ron Mercer
+2003-01-31,26-258,IND,AWAY,TOR,L (-12),0,27:24,4,12,.333,0,0,,5,5,1.000,1,2,3,0,0,0,0,1,13,7.1,-5,Ron Mercer
+2003-02-01,26-259,IND,HOME,BOS,W (+9),0,22:29,4,8,.500,0,0,,2,2,1.000,0,1,1,1,0,0,1,5,10,4.0,-3,Ron Mercer
+2003-02-04,26-262,IND,HOME,LAL,L (-3),0,16:29,0,4,.000,0,0,,0,0,,1,1,2,0,0,0,3,0,0,-4.8,-4,Ron Mercer
+2003-02-11,26-269,IND,HOME,CLE,W (+11),0,24:14,5,13,.385,0,0,,0,0,,3,2,5,3,1,0,1,1,10,7.3,-9,Ron Mercer
+2003-02-12,26-270,IND,AWAY,NOH,W (+11),0,19:28,1,5,.200,0,0,,4,4,1.000,0,1,1,0,0,0,0,1,6,2.8,+4,Ron Mercer
+2003-02-14,26-272,IND,HOME,ATL,W (+1),0,18:06,2,6,.333,0,0,,0,0,,0,1,1,0,0,0,1,2,4,-0.9,+8,Ron Mercer
+2003-02-16,26-274,IND,AWAY,ATL,L (-13),0,31:59,4,12,.333,0,2,.000,2,2,1.000,0,2,2,1,1,0,0,0,10,5.5,-6,Ron Mercer
+2003-02-18,26-276,IND,AWAY,MEM,L (-5),0,25:06,2,9,.222,0,0,,0,0,,1,2,3,1,1,0,2,1,4,-0.9,-7,Ron Mercer
+2003-02-20,26-278,IND,AWAY,NJN,L (-7),0,7:12,0,2,.000,0,0,,0,0,,0,1,1,0,0,0,1,2,0,-2.9,-1,Ron Mercer
+2003-02-22,26-280,IND,AWAY,SAS,L (-9),0,7:09,1,3,.333,0,0,,0,0,,0,0,0,1,0,0,2,0,2,-1.0,-9,Ron Mercer
+2003-02-25,26-283,IND,HOME,WAS,L (-5),0,20:47,2,6,.333,0,0,,0,0,,0,1,1,1,0,0,0,1,4,1.2,0,Ron Mercer
+2003-02-26,26-284,IND,AWAY,BOS,L (-2),0,11:09,0,4,.000,0,0,,0,0,,0,1,1,2,0,0,0,2,0,-1.9,-12,Ron Mercer
+2003-03-04,26-290,IND,AWAY,GSW,L (-7),0,13:34,3,6,.500,0,1,.000,0,0,,0,0,0,0,1,0,1,1,6,2.6,-1,Ron Mercer
+2003-03-05,26-291,IND,AWAY,LAL,L (-2),0,16:01,2,7,.286,0,0,,0,0,,2,2,4,0,0,0,2,1,4,-0.5,-16,Ron Mercer
+2003-03-08,26-294,IND,AWAY,POR,L (-14),0,33:45,4,15,.267,0,1,.000,0,0,,0,4,4,4,1,0,0,2,8,3.3,-7,Ron Mercer
+2003-03-09,26-295,IND,AWAY,SAC,L (-19),0,33:32,3,13,.231,0,1,.000,0,0,,2,1,3,1,1,1,0,2,6,1.4,-6,Ron Mercer
+2003-03-11,26-297,IND,HOME,NOH,L (-10),0,11:04,2,3,.667,1,1,1.000,0,0,,0,1,1,0,2,0,0,0,5,6.0,+6,Ron Mercer
+2003-03-12,26-298,IND,AWAY,PHI,L (-3),0,19:32,3,8,.375,0,0,,2,2,1.000,1,2,3,1,0,1,1,2,8,4.5,-2,Ron Mercer
+2003-03-14,26-300,IND,HOME,UTA,W (+20),0,26:02,4,6,.667,0,1,.000,2,2,1.000,0,6,6,3,1,1,1,0,10,12.0,+13,Ron Mercer
+2003-03-17,26-303,IND,HOME,POR,L (-7),0,16:42,2,2,1.000,0,0,,0,0,,1,0,1,2,0,0,0,0,4,5.5,0,Ron Mercer
+2003-03-19,26-305,IND,HOME,BOS,W (+30),0,21:00,1,4,.250,0,0,,0,0,,0,1,1,3,0,0,0,2,2,1.2,+16,Ron Mercer
+2003-03-21,26-307,IND,HOME,MEM,W (+9),0,17:47,1,5,.200,0,0,,0,0,,0,1,1,2,0,0,1,0,2,-0.4,-4,Ron Mercer
+2003-03-22,26-308,IND,AWAY,ATL,L (-3),0,20:02,5,10,.500,0,0,,0,0,,0,2,2,1,0,0,0,2,10,5.5,-2,Ron Mercer
+2003-03-26,26-312,IND,HOME,PHI,L (-6),0,18:43,3,4,.750,0,0,,0,0,,0,0,0,3,1,0,0,2,6,6.7,-7,Ron Mercer
+2003-03-28,26-314,IND,HOME,CHI,W (+51),0,22:16,4,7,.571,0,0,,0,0,,2,1,3,3,0,0,0,1,8,8.1,+33,Ron Mercer
+2003-04-08,26-325,IND,AWAY,CHI,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ron Mercer
+2003-04-11,26-328,IND,HOME,ORL,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ron Mercer
+2003-04-15,26-332,IND,AWAY,NYK,W (+16),0,26:47,7,11,.636,0,0,,3,4,.750,0,3,3,0,1,0,1,3,17,11.4,+17,Ron Mercer
+2003-04-16,26-333,IND,HOME,NJN,W (+7),0,26:09,0,4,.000,0,0,,3,3,1.000,1,2,3,2,1,1,0,1,3,4.2,+1,Ron Mercer
+2003-10-28,27-163,SAS,HOME,PHO,W (+1),0,23:38,5,11,.455,0,1,.000,1,1,1.000,0,1,1,4,2,0,1,1,11,9.0,+1,Ron Mercer
+2003-10-29,27-164,SAS,AWAY,DEN,L (-8),0,33:33,7,13,.538,0,0,,0,0,,1,4,5,1,2,1,3,3,14,8.8,-2,Ron Mercer
+2003-11-01,27-167,SAS,HOME,NYK,W (+12),0,7:46,2,5,.400,0,0,,2,2,1.000,0,0,0,1,0,0,0,1,6,3.6,+2,Ron Mercer
+2003-11-03,27-169,SAS,AWAY,MEM,L (-8),0,18:53,5,12,.417,0,0,,0,0,,0,5,5,1,2,0,3,1,10,4.4,-2,Ron Mercer
+2003-11-04,27-170,SAS,HOME,MIA,W (+7),0,10:45,1,4,.250,0,0,,0,0,,0,0,0,1,1,0,0,0,2,1.3,-6,Ron Mercer
+2003-11-06,27-172,SAS,HOME,LAL,L (-3),0,13:23,3,5,.600,0,0,,0,0,,0,1,1,1,0,0,0,1,6,4.3,-3,Ron Mercer
+2003-11-26,27-192,SAS,HOME,CHI,W (+11),0,16:35,6,10,.600,0,0,,0,0,,0,1,1,0,1,0,1,2,12,6.9,-1,Ron Mercer
+2003-11-28,27-194,SAS,AWAY,LAL,L (-16),0,22:15,1,5,.200,0,0,,2,2,1.000,0,1,1,1,0,0,1,1,4,0.5,+4,Ron Mercer
+2003-11-29,27-195,SAS,AWAY,GSW,L (-2),0,6:58,0,3,.000,0,0,,0,0,,0,1,1,1,0,0,0,1,0,-1.5,-4,Ron Mercer
+2003-12-01,27-197,SAS,AWAY,LAC,L (-8),0,9:42,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-2.1,-12,Ron Mercer
+2003-12-05,27-201,SAS,AWAY,ORL,W (+11),0,16:54,5,9,.556,0,0,,1,1,1.000,0,2,2,0,0,0,0,3,11,6.1,+16,Ron Mercer
+2003-12-06,27-202,SAS,AWAY,MIA,W (+16),0,7:49,0,3,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-2.1,-4,Ron Mercer
+2003-12-08,27-204,SAS,AWAY,CHI,W (+14),0,4:19,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-4,Ron Mercer
+2003-12-10,27-206,SAS,HOME,POR,W (+25),0,6:07,0,2,.000,0,0,,0,0,,0,0,0,2,0,0,0,0,0,0.0,+5,Ron Mercer
+2003-12-11,27-207,SAS,AWAY,HOU,W (+4),0,6:37,1,3,.333,0,0,,0,0,,1,0,1,0,0,0,0,0,2,1.0,-3,Ron Mercer
+2003-12-13,27-209,SAS,HOME,HOU,W (+13),0,8:24,2,5,.400,0,0,,0,0,,0,0,0,0,0,0,1,1,4,-0.1,-10,Ron Mercer
+2003-12-15,27-211,SAS,HOME,MEM,W (+11),0,8:23,0,2,.000,0,0,,2,2,1.000,0,1,1,0,0,0,0,1,2,0.5,-4,Ron Mercer
+2003-12-17,27-213,SAS,HOME,TOR,W (+3),0,22:42,4,7,.571,0,0,,0,0,,1,1,2,0,2,0,0,2,8,6.9,+10,Ron Mercer
+2003-12-20,27-216,SAS,AWAY,POR,W (+10),0,8:18,3,4,.750,0,0,,0,0,,0,0,0,0,0,0,0,0,6,4.4,-3,Ron Mercer
+2003-12-23,27-219,SAS,HOME,LAC,W (+21),0,22:19,5,10,.500,0,0,,0,0,,0,0,0,0,0,0,2,2,10,2.2,+11,Ron Mercer
+2003-12-26,27-222,SAS,HOME,ORL,W (+15),0,4:38,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+3,Ron Mercer
+2004-01-03,27-230,SAS,HOME,PHI,L (-6),0,19:30,3,7,.429,1,1,1.000,0,0,,0,1,1,1,1,0,1,1,7,3.9,+7,Ron Mercer
+2004-01-05,27-232,SAS,AWAY,DEN,W (+24),0,22:07,6,10,.600,0,1,.000,1,2,.500,2,2,4,1,1,0,1,2,13,9.9,+20,Ron Mercer
+2004-01-06,27-233,SAS,HOME,WAS,W (+22),0,23:46,7,12,.583,0,0,,0,0,,1,2,3,0,0,0,2,0,14,7.7,+20,Ron Mercer
+2004-01-09,27-236,SAS,AWAY,NOH,W (+10),0,23:37,5,9,.556,0,0,,2,4,.500,0,4,4,0,0,1,2,4,12,5.2,-15,Ron Mercer
+2004-01-10,27-237,SAS,HOME,IND,W (+1),0,28:59,4,9,.444,0,0,,0,0,,1,5,6,2,1,1,3,1,8,5.2,-5,Ron Mercer
+2004-01-13,27-240,SAS,AWAY,ATL,L (-9),0,14:45,1,6,.167,0,2,.000,0,0,,0,0,0,0,0,0,0,1,2,-2.2,-12,Ron Mercer
+2004-01-14,27-241,SAS,HOME,MIN,L (-7),0,5:31,0,2,.000,0,0,,0,0,,1,1,2,0,0,0,0,0,0,-0.4,+1,Ron Mercer
+2004-01-16,27-243,SAS,AWAY,IND,L (-10),0,9:11,3,5,.600,0,0,,0,0,,0,1,1,0,0,0,1,2,6,2.2,+5,Ron Mercer
+2004-01-18,27-245,SAS,AWAY,BOS,W (+17),0,15:59,2,4,.500,1,1,1.000,0,0,,1,1,2,2,0,1,1,1,5,4.7,-2,Ron Mercer
+2004-01-19,27-246,SAS,AWAY,DET,L (-8),0,6:02,2,3,.667,0,0,,0,0,,0,0,0,0,0,0,0,0,4,2.7,0,Ron Mercer
+2004-01-21,27-248,SAS,HOME,NJN,W (+23),0,10:11,3,5,.600,0,0,,0,0,,0,0,0,0,1,0,0,0,6,4.7,+3,Ron Mercer
+2004-01-23,27-250,SAS,AWAY,PHO,W (+2),0,6:57,0,3,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-1.8,-2,Ron Mercer
+2004-01-24,27-251,SAS,HOME,NOH,L (-2),0,13:35,1,4,.250,0,0,,0,0,,0,0,0,1,0,0,2,1,2,-2.1,+1,Ron Mercer
+2004-01-26,27-253,SAS,AWAY,MIL,L (-1),0,6:50,0,2,.000,0,1,.000,0,0,,0,1,1,1,0,1,0,0,0,0.3,-11,Ron Mercer
+2004-02-18,27-276,SAS,AWAY,TOR,W (+4),0,7:26,1,5,.200,0,0,,1,1,1.000,1,0,1,0,0,0,0,1,3,0.2,-4,Ron Mercer
+2004-02-20,27-278,SAS,AWAY,CLE,L (-2),0,9:00,1,4,.250,0,0,,1,2,.500,0,1,1,0,0,0,0,0,3,0.5,-4,Ron Mercer
+2004-02-24,27-282,SAS,HOME,HOU,W (+9),0,1:54,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-5,Ron Mercer
+2004-02-26,27-284,SAS,AWAY,DAL,L (-24),0,13:29,1,6,.167,0,0,,0,0,,0,0,0,1,0,0,0,2,2,-1.9,-2,Ron Mercer
+1999-11-02,23-168,DEN,HOME,PHO,W (+5),1,46:46,6,17,.353,0,1,.000,4,5,.800,0,6,6,4,1,0,1,1,16,10.3,+7,Ron Mercer
+1999-11-05,23-171,DEN,AWAY,POR,L (-12),1,33:51,6,13,.462,0,0,,3,3,1.000,0,3,3,1,0,0,4,3,15,4.7,-17,Ron Mercer
+1999-11-06,23-172,DEN,AWAY,VAN,L (-15),1,36:59,11,17,.647,5,8,.625,4,4,1.000,1,3,4,1,0,0,3,1,31,22.4,-3,Ron Mercer
+1999-11-08,23-174,DEN,HOME,ATL,W (+15),1,35:35,8,19,.421,1,3,.333,2,2,1.000,1,0,1,0,1,1,2,5,19,7.3,+5,Ron Mercer
+1999-11-12,23-178,DEN,HOME,POR,L (-15),1,36:09,2,11,.182,0,1,.000,0,0,,0,4,4,1,1,0,2,2,4,-2.8,-27,Ron Mercer
+1999-11-14,23-180,DEN,AWAY,SAC,L (-10),1,38:36,6,16,.375,0,2,.000,6,6,1.000,1,3,4,4,3,0,5,3,18,10.4,-6,Ron Mercer
+1999-11-16,23-182,DEN,HOME,NYK,L (-7),1,46:49,12,25,.480,2,3,.667,4,4,1.000,1,6,7,3,1,0,3,3,30,18.7,-3,Ron Mercer
+1999-11-18,23-184,DEN,HOME,LAL,W (+11),1,40:06,9,17,.529,1,1,1.000,5,5,1.000,0,3,3,5,1,2,4,3,24,17.3,+8,Ron Mercer
+1999-11-20,23-186,DEN,HOME,CHI,W (+9),1,39:24,8,16,.500,2,2,1.000,1,4,.250,2,3,5,2,0,1,1,1,19,12.8,+18,Ron Mercer
+1999-11-24,23-190,DEN,HOME,TOR,W (+25),1,33:39,6,20,.300,0,1,.000,1,1,1.000,3,2,5,1,2,0,0,0,13,6.8,+14,Ron Mercer
+1999-11-26,23-192,DEN,HOME,MIN,W (+9),1,39:41,11,18,.611,0,0,,5,9,.556,1,4,5,0,2,1,4,3,27,16.6,+12,Ron Mercer
+1999-11-27,23-193,DEN,AWAY,SAS,L (-19),1,45:33,12,24,.500,0,0,,2,2,1.000,0,4,4,2,1,0,2,0,26,15.6,-19,Ron Mercer
+1999-11-30,23-196,DEN,AWAY,MIN,L (-17),1,34:41,6,15,.400,0,0,,4,6,.667,0,3,3,1,0,0,4,1,16,4.3,-17,Ron Mercer
+1999-12-01,23-197,DEN,HOME,DET,W (+4),1,37:37,9,18,.500,1,1,1.000,4,4,1.000,0,2,2,0,1,0,4,3,23,10.4,0,Ron Mercer
+1999-12-03,23-199,DEN,HOME,ORL,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ron Mercer
+1999-12-05,23-201,DEN,AWAY,NYK,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ron Mercer
+1999-12-08,23-204,DEN,AWAY,BOS,L (-25),1,24:15,1,6,.167,0,0,,0,2,.000,0,1,1,1,1,0,2,2,2,-3.4,-25,Ron Mercer
+1999-12-10,23-206,DEN,AWAY,CHH,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ron Mercer
+1999-12-11,23-207,DEN,AWAY,MIL,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ron Mercer
+1999-12-14,23-210,DEN,AWAY,SEA,L (-25),1,26:47,4,15,.267,0,0,,1,2,.500,1,1,2,1,1,0,2,0,9,0.4,-19,Ron Mercer
+1999-12-16,23-212,DEN,HOME,SAC,W (+10),1,44:02,9,19,.474,0,0,,7,8,.875,0,6,6,4,1,0,5,3,25,14.3,0,Ron Mercer
+1999-12-18,23-214,DEN,HOME,SAS,W (+2),1,43:29,9,21,.429,0,3,.000,7,8,.875,2,6,8,2,1,0,2,2,25,16.3,0,Ron Mercer
+1999-12-20,23-216,DEN,HOME,POR,W (+9),1,44:16,11,21,.524,0,0,,0,1,.000,2,5,7,4,2,1,2,0,22,17.7,+10,Ron Mercer
+1999-12-23,23-219,DEN,AWAY,VAN,L (-2),1,40:36,8,16,.500,0,3,.000,2,2,1.000,0,6,6,0,1,0,2,1,18,10.4,-7,Ron Mercer
+1999-12-26,23-222,DEN,HOME,VAN,W (+23),1,31:56,5,12,.417,0,1,.000,3,4,.750,0,3,3,3,1,1,0,0,13,10.9,+29,Ron Mercer
+1999-12-28,23-224,DEN,HOME,LAC,W (+23),1,33:35,7,15,.467,0,0,,6,9,.667,1,5,6,5,1,0,0,1,20,17.4,0,Ron Mercer
+1999-12-30,23-226,DEN,HOME,BOS,L (-8),1,38:02,5,14,.357,0,0,,10,11,.909,2,2,4,1,1,1,1,4,20,13.6,-10,Ron Mercer
+2000-01-03,23-230,DEN,AWAY,UTA,L (-20),1,37:17,4,11,.364,0,0,,2,6,.333,1,4,5,3,0,0,3,1,10,2.9,-15,Ron Mercer
+2000-01-04,23-231,DEN,HOME,DAL,W (+2),1,40:03,7,18,.389,0,0,,0,0,,2,1,3,2,0,0,2,3,14,4.1,+9,Ron Mercer
+2000-01-06,23-233,DEN,HOME,IND,L (-15),1,37:10,3,10,.300,0,0,,1,1,1.000,0,3,3,3,1,1,3,3,7,1.7,-5,Ron Mercer
+2000-01-08,23-235,DEN,HOME,CHH,W (+5),1,40:29,7,20,.350,0,0,,10,11,.909,0,1,1,6,1,0,2,4,24,14.3,+9,Ron Mercer
+2000-01-10,23-237,DEN,AWAY,LAL,L (-35),1,34:41,9,20,.450,0,1,.000,0,0,,0,2,2,3,0,0,0,2,18,9.5,-28,Ron Mercer
+2000-01-12,23-239,DEN,HOME,SEA,L (-10),1,44:01,12,20,.600,0,0,,1,1,1.000,1,3,4,6,0,1,1,4,25,19.7,-11,Ron Mercer
+2000-01-14,23-241,DEN,HOME,MIA,L (-5),1,38:03,5,13,.385,0,0,,2,2,1.000,1,5,6,5,4,0,4,0,12,10.6,+2,Ron Mercer
+2000-01-16,23-243,DEN,AWAY,PHO,L (-13),1,45:43,10,23,.435,0,1,.000,5,5,1.000,0,4,4,5,1,0,5,3,25,12.4,-15,Ron Mercer
+2000-01-20,23-247,DEN,AWAY,HOU,L (-7),1,43:08,11,21,.524,0,0,,0,0,,1,4,5,3,0,0,0,2,22,14.9,-4,Ron Mercer
+2000-01-21,23-248,DEN,HOME,PHO,L (-2),1,33:23,4,11,.364,0,0,,2,2,1.000,1,2,3,3,0,0,4,1,10,2.9,-19,Ron Mercer
+2000-01-24,23-251,DEN,HOME,VAN,W (+12),1,35:15,9,17,.529,1,2,.500,5,5,1.000,2,2,4,6,1,3,2,1,24,22.6,+16,Ron Mercer
+2000-01-28,23-255,DEN,HOME,HOU,W (+6),1,42:04,8,18,.444,1,3,.333,7,8,.875,1,5,6,4,0,2,1,4,24,18.0,+15,Ron Mercer
+2000-01-29,23-256,DEN,AWAY,DAL,L (-11),1,23:47,5,9,.556,0,0,,3,8,.375,0,5,5,1,1,0,2,2,13,7.1,-18,Ron Mercer
+2000-01-31,23-258,DEN,HOME,PHI,W (+3),1,38:48,7,16,.438,1,2,.500,0,0,,1,1,2,8,0,0,3,3,15,9.0,+4,Ron Mercer
+2000-02-01,23-259,ORL,AWAY,NYK,W (+21),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Ron Mercer
+2000-02-05,23-263,ORL,HOME,IND,W (+5),1,29:30,4,12,.333,0,0,,0,0,,1,3,4,3,1,0,2,3,8,2.7,+4,Ron Mercer
+2000-02-07,23-265,ORL,HOME,GSW,W (+20),1,21:04,7,15,.467,0,0,,4,5,.800,0,2,2,1,3,0,0,4,18,12.6,+22,Ron Mercer
+2000-02-09,23-267,ORL,HOME,WAS,W (+11),1,26:45,7,16,.438,0,1,.000,0,0,,4,0,4,2,2,1,2,0,14,10.5,+1,Ron Mercer
+2000-02-16,23-274,ORL,HOME,LAC,W (+33),1,26:55,6,17,.353,0,2,.000,5,5,1.000,1,3,4,4,0,2,2,1,17,10.9,+20,Ron Mercer
+2000-02-18,23-276,ORL,HOME,LAL,L (-8),1,35:09,5,12,.417,0,0,,1,2,.500,2,3,5,1,0,0,2,5,11,3.2,-13,Ron Mercer
+2000-02-22,23-280,ORL,AWAY,SEA,L (-36),1,17:39,2,11,.182,0,0,,0,2,.000,3,1,4,2,1,0,2,0,4,-0.9,-16,Ron Mercer
+2000-02-24,23-282,ORL,AWAY,POR,L (-19),1,31:53,4,15,.267,0,0,,1,1,1.000,1,2,3,1,0,0,2,2,9,-0.7,-6,Ron Mercer
+2000-02-25,23-283,ORL,AWAY,UTA,L (-8),1,37:18,6,14,.429,0,0,,7,12,.583,1,4,5,3,1,2,1,1,19,14.6,+5,Ron Mercer
+2000-02-27,23-285,ORL,AWAY,MIL,L (-7),1,35:28,6,16,.375,0,1,.000,1,1,1.000,0,3,3,3,1,0,2,6,13,3.8,-8,Ron Mercer
+2000-02-29,23-287,ORL,HOME,SEA,W (+9),1,34:09,12,21,.571,0,0,,3,3,1.000,0,3,3,2,1,0,1,4,27,17.8,+9,Ron Mercer
+2000-03-02,23-289,ORL,HOME,CHH,W (+8),1,33:17,6,12,.500,0,0,,7,8,.875,1,5,6,0,2,1,4,2,19,12.7,+7,Ron Mercer
+2000-03-05,23-292,ORL,AWAY,BOS,L (-6),1,10:50,1,6,.167,0,0,,1,2,.500,0,0,0,0,2,0,0,2,3,0.0,-4,Ron Mercer
+2000-03-06,23-293,ORL,AWAY,WAS,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ron Mercer
+2000-03-08,23-295,ORL,HOME,CHI,W (+36),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ron Mercer
+2000-03-11,23-298,ORL,HOME,DEN,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ron Mercer
+2000-03-12,23-299,ORL,AWAY,NJN,L (-38),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Ron Mercer
+2000-03-14,23-301,ORL,HOME,WAS,W (+9),1,29:23,6,15,.400,0,0,,6,6,1.000,2,1,3,3,1,0,5,3,18,8.5,+9,Ron Mercer
+2000-03-15,23-302,ORL,AWAY,DET,L (-22),1,37:45,7,17,.412,0,0,,5,6,.833,0,4,4,2,1,0,2,4,19,9.5,-20,Ron Mercer
+2000-03-17,23-304,ORL,AWAY,TOR,L (-4),1,35:11,5,17,.294,0,0,,0,0,,1,3,4,2,0,0,2,2,10,0.3,+8,Ron Mercer
+2000-03-19,23-306,ORL,AWAY,PHI,L (-4),1,38:46,10,19,.526,0,0,,6,6,1.000,0,2,2,2,2,0,6,2,26,13.9,-2,Ron Mercer
+2000-03-20,23-307,ORL,AWAY,CHI,W (+2),1,37:50,7,18,.389,0,0,,5,6,.833,1,2,3,1,2,0,2,2,19,10.0,+6,Ron Mercer
+2000-03-22,23-309,ORL,HOME,ATL,W (+13),1,28:10,5,13,.385,0,0,,5,8,.625,2,0,2,1,1,0,0,3,15,8.6,+15,Ron Mercer
+2000-03-24,23-311,ORL,HOME,HOU,W (+16),1,28:47,5,15,.333,0,0,,4,5,.800,1,1,2,0,0,0,1,0,14,5.1,+21,Ron Mercer
+2000-03-26,23-313,ORL,HOME,MIA,W (+25),1,26:05,4,11,.364,0,0,,2,3,.667,0,0,0,0,0,0,2,2,10,0.7,+10,Ron Mercer
+2000-03-28,23-315,ORL,HOME,BOS,W (+35),1,27:38,11,22,.500,0,0,,1,1,1.000,2,1,3,2,0,0,2,3,23,11.9,+34,Ron Mercer
+2000-03-31,23-318,ORL,HOME,NJN,W (+6),1,37:37,11,20,.550,0,0,,0,0,,1,2,3,2,1,0,2,2,22,13.3,+9,Ron Mercer
+2000-04-04,23-322,ORL,HOME,SAS,W (+10),1,37:53,3,8,.375,0,0,,0,0,,1,2,3,2,2,0,0,1,6,5.9,+17,Ron Mercer
+2000-04-07,23-325,ORL,HOME,NYK,L (-7),1,34:53,3,15,.200,0,3,.000,5,7,.714,1,2,3,0,4,2,2,6,11,3.2,-2,Ron Mercer
+2000-04-09,23-327,ORL,HOME,PHI,W (+12),1,34:37,8,22,.364,0,0,,1,2,.500,1,3,4,2,2,0,3,1,17,6.0,+11,Ron Mercer
+2000-04-10,23-328,ORL,AWAY,MIL,L (-17),1,25:33,7,12,.583,0,0,,0,0,,0,0,0,1,1,0,1,1,14,8.7,-15,Ron Mercer
+2000-04-12,23-330,ORL,AWAY,BOS,L (-4),1,38:01,5,16,.313,0,0,,4,4,1.000,1,1,2,3,1,0,2,2,14,6.1,-2,Ron Mercer
+2000-04-14,23-332,ORL,AWAY,NJN,W (+8),1,38:48,9,22,.409,0,2,.000,4,4,1.000,1,2,3,2,4,0,3,3,22,12.7,+7,Ron Mercer
+2000-04-16,23-334,ORL,AWAY,MIA,L (-11),1,23:30,4,12,.333,0,0,,0,2,.000,1,1,2,2,3,0,2,2,8,3.0,-8,Ron Mercer
+2000-04-17,23-335,ORL,HOME,MIL,L (-2),1,33:36,3,13,.231,0,0,,7,8,.875,4,5,9,2,2,0,2,4,13,8.8,+2,Ron Mercer
+2000-04-19,23-337,ORL,HOME,TOR,W (+6),1,33:18,9,14,.643,0,0,,9,10,.900,1,2,3,3,1,0,5,3,27,18.6,+10,Ron Mercer
+2004-11-03,28-169,NJN,HOME,MIA,L (-23),1,32:28,4,11,.364,0,0,,1,1,1.000,0,2,2,1,0,1,1,2,9,3.1,-19,Ron Mercer
+2004-11-05,28-171,NJN,AWAY,CHI,W (+5),1,41:28,3,12,.250,0,0,,0,0,,2,6,8,2,3,0,5,1,6,1.0,+3,Ron Mercer
+2004-11-06,28-172,NJN,HOME,PHO,L (-32),1,32:40,6,13,.462,0,0,,1,1,1.000,1,0,1,4,1,0,2,0,13,8.8,-15,Ron Mercer
+2004-11-09,28-175,NJN,HOME,POR,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ron Mercer
+2004-11-10,28-176,NJN,AWAY,PHI,L (-8),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Ron Mercer
+2004-12-21,28-217,NJN,AWAY,CHA,W (+3),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Ron Mercer
+2004-12-22,28-218,NJN,HOME,CLE,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ron Mercer
+2004-12-27,28-223,NJN,AWAY,DET,L (-10),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Ron Mercer
+2005-02-02,28-260,NJN,AWAY,BOS,L (-21),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Ron Mercer
+2005-02-05,28-263,NJN,HOME,DET,W (+22),0,12:15,1,3,.333,0,0,,0,0,,0,1,1,0,0,0,0,0,2,0.6,+9,Ron Mercer
+2005-02-07,28-265,NJN,HOME,PHI,W (+10),0,23:11,7,12,.583,0,0,,0,0,,1,1,2,2,2,0,1,0,14,11.8,+14,Ron Mercer
+2005-02-09,28-267,NJN,HOME,LAL,L (-1),0,10:12,1,5,.200,0,0,,0,0,,0,2,2,0,0,0,1,1,2,-1.9,+1,Ron Mercer
+2005-02-11,28-269,NJN,HOME,SAS,L (-10),0,20:52,1,4,.250,0,0,,0,0,,0,2,2,2,0,0,1,4,2,-1.0,-16,Ron Mercer
+2005-02-13,28-271,NJN,HOME,DEN,W (+15),0,18:23,6,10,.600,0,0,,0,0,,2,3,5,0,1,0,0,0,12,10.7,0,Ron Mercer
+2005-02-15,28-273,NJN,AWAY,MIN,L (-11),0,29:39,9,14,.643,0,2,.000,0,0,,1,5,6,0,1,0,0,2,18,14.2,-20,Ron Mercer
+2005-02-16,28-274,NJN,HOME,SAC,W (+11),0,12:01,2,4,.500,0,0,,0,0,,0,0,0,0,0,1,0,1,4,2.3,-7,Ron Mercer
+2005-02-22,28-280,NJN,HOME,TOR,L (-18),0,24:12,3,9,.333,0,0,,0,0,,1,2,3,3,3,0,2,0,6,5.3,-14,Ron Mercer
+2005-02-23,28-281,NJN,AWAY,MIL,L (-19),0,26:40,3,12,.250,0,0,,1,2,.500,0,1,1,2,3,0,0,2,7,3.3,-8,Ron Mercer
+2005-02-25,28-283,NJN,HOME,CHA,W (+7),0,17:24,1,8,.125,0,1,.000,1,2,.500,0,1,1,1,0,0,1,1,3,-3.0,+6,Ron Mercer
+2005-02-27,28-285,NJN,HOME,CLE,W (+6),0,19:07,4,8,.500,0,0,,2,2,1.000,1,0,1,1,1,0,0,2,10,7.6,0,Ron Mercer
+2005-03-02,28-288,NJN,AWAY,PHI,W (+6),0,19:27,2,10,.200,0,0,,0,0,,0,3,3,2,1,0,0,1,4,0.7,+4,Ron Mercer
+2005-03-03,28-289,NJN,HOME,MIA,L (-16),0,17:46,6,9,.667,0,0,,0,0,,0,0,0,0,0,0,0,3,12,6.9,-11,Ron Mercer
+2005-03-05,28-291,NJN,HOME,ORL,L (-24),0,20:05,5,11,.455,0,0,,0,0,,0,1,1,0,0,0,0,0,10,4.6,-1,Ron Mercer
+2005-03-08,28-294,NJN,AWAY,SAS,L (-16),0,12:17,1,3,.333,0,0,,1,2,.500,0,1,1,0,0,0,0,0,3,1.2,-6,Ron Mercer
+2005-03-12,28-298,NJN,AWAY,MIA,L (-25),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Ron Mercer

@@ -1,0 +1,94 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2009-04-18,29-156,HOU,AWAY,POR,W (+27),1,30:58,7,12,0.583,2,6,0.333,1,1,1.0,0,1,1,4,0,0,1,0,17,13.5,25,Metta World Peace
+2009-04-21,29-159,HOU,AWAY,POR,L (-4),1,35:57,8,20,0.4,1,8,0.125,2,2,1.0,1,4,5,2,0,0,1,2,19,9.7,-4,Metta World Peace
+2009-04-24,29-162,HOU,HOME,POR,W (+3),1,37:46,3,8,0.375,1,1,1.0,2,2,1.0,2,3,5,4,2,1,4,0,9,8.4,-3,Metta World Peace
+2009-04-26,29-164,HOU,HOME,POR,W (+1),1,38:08,5,20,0.25,1,5,0.2,1,3,0.333,2,1,3,9,1,0,3,2,12,4.4,5,Metta World Peace
+2009-04-28,29-166,HOU,AWAY,POR,L (-11),1,39:31,3,9,0.333,2,5,0.4,2,2,1.0,1,3,4,5,2,0,4,1,10,7.6,-16,Metta World Peace
+2009-04-30,29-168,HOU,HOME,POR,W (+16),1,38:32,11,21,0.524,3,11,0.273,2,2,1.0,0,1,1,2,1,0,1,2,27,17.6,14,Metta World Peace
+2009-05-04,29-172,HOU,AWAY,LAL,W (+8),1,40:05,8,15,0.533,3,6,0.5,2,3,0.667,1,2,3,7,1,0,2,2,21,17.7,19,Metta World Peace
+2009-05-06,29-174,HOU,AWAY,LAL,L (-13),1,33:33,8,14,0.571,4,7,0.571,5,6,0.833,0,3,3,5,2,0,2,4,25,20.8,-15,Metta World Peace
+2009-05-08,29-176,HOU,HOME,LAL,L (-14),1,37:25,10,23,0.435,2,8,0.25,3,4,0.75,2,4,6,1,0,1,4,4,25,10.9,-17,Metta World Peace
+2009-05-10,29-178,HOU,HOME,LAL,W (+12),1,43:33,4,19,0.211,0,6,0.0,0,0,,2,8,10,6,1,0,2,2,8,2.5,16,Metta World Peace
+2009-05-12,29-180,HOU,AWAY,LAL,L (-40),1,29:18,4,15,0.267,1,7,0.143,0,0,,1,3,4,1,1,1,4,3,9,-1.1,-25,Metta World Peace
+2009-05-14,29-182,HOU,HOME,LAL,W (+15),1,44:25,6,17,0.353,2,7,0.286,0,2,0.0,0,3,3,3,2,0,3,3,14,4.5,19,Metta World Peace
+2009-05-17,29-185,HOU,AWAY,LAL,L (-19),1,38:49,3,10,0.3,1,6,0.167,0,1,0.0,0,8,8,5,1,0,1,2,7,5.9,-24,Metta World Peace
+2002-04-20,22-158,IND,AWAY,NJN,W (+6),1,43:12,4,14,0.286,2,3,0.667,2,4,0.5,1,5,6,4,4,0,2,3,12,8.8,9,Metta World Peace
+2002-04-22,22-160,IND,AWAY,NJN,L (-16),1,29:36,1,11,0.091,0,3,0.0,2,2,1.0,2,4,6,1,2,1,3,4,4,-1.9,-8,Metta World Peace
+2002-04-26,22-164,IND,HOME,NJN,L (-1),1,28:36,4,8,0.5,1,3,0.333,2,4,0.5,0,5,5,2,2,0,1,2,11,9.3,-3,Metta World Peace
+2002-04-30,22-168,IND,HOME,NJN,W (+23),1,34:28,7,12,0.583,2,2,1.0,2,2,1.0,2,6,8,5,4,2,1,4,18,21.9,20,Metta World Peace
+2002-05-02,22-170,IND,AWAY,NJN,L (-11),1,29:57,6,9,0.667,1,2,0.5,1,1,1.0,1,4,5,4,1,0,2,6,14,11.4,-5,Metta World Peace
+2006-04-22,26-160,SAC,AWAY,SAS,L (-34),1,35:33,7,21,.333,2,6,.333,0,1,.000,0,2,2,4,1,0,0,4,16,6.5,-25,Metta World Peace
+2006-04-25,26-163,SAC,AWAY,SAS,L (-9),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Metta World Peace
+2006-04-28,26-166,SAC,HOME,SAS,W (+1),1,43:41,8,15,.533,1,4,.250,5,10,.500,3,9,12,1,1,2,1,2,22,18.8,+6,Metta World Peace
+2006-04-30,26-168,SAC,HOME,SAS,W (+18),1,33:08,6,13,.462,2,5,.400,0,0,,3,1,4,2,1,0,1,2,14,10.3,+26,Metta World Peace
+2006-05-02,26-170,SAC,AWAY,SAS,L (-11),1,46:12,8,21,.381,4,8,.500,4,4,1.000,1,3,4,4,5,1,0,2,24,21.8,-5,Metta World Peace
+2006-05-05,26-173,SAC,HOME,SAS,L (-22),1,39:12,2,11,.182,0,4,.000,7,8,.875,1,2,3,4,0,1,3,5,11,3.5,-18,Metta World Peace
+2003-04-19,23-157,IND,HOME,BOS,L (-3),1,40:54,8,12,0.667,1,3,0.333,9,9,1.0,0,5,5,2,4,0,2,6,26,23.3,3,Metta World Peace
+2003-04-21,23-159,IND,HOME,BOS,W (+12),1,47:29,5,16,0.313,1,4,0.25,2,4,0.5,1,4,5,6,1,2,4,2,13,6.7,12,Metta World Peace
+2003-04-24,23-162,IND,AWAY,BOS,L (-18),1,40:33,6,18,0.333,3,5,0.6,5,8,0.625,3,5,8,2,4,0,4,4,20,12.0,-16,Metta World Peace
+2003-04-27,23-165,IND,AWAY,BOS,L (-10),1,36:08,3,11,0.273,1,6,0.167,2,2,1.0,0,2,2,1,4,0,1,3,9,5.6,-11,Metta World Peace
+2003-04-29,23-167,IND,HOME,BOS,W (+5),1,46:17,7,15,0.467,2,3,0.667,10,11,0.909,5,5,10,1,1,4,4,4,26,21.8,3,Metta World Peace
+2003-05-01,23-169,IND,AWAY,BOS,L (-20),1,41:16,6,18,0.333,4,10,0.4,4,6,0.667,2,3,5,1,1,0,1,6,20,9.6,-22,Metta World Peace
+2010-04-18,30-156,LAL,HOME,OKC,W (+8),1,39:50,3,11,.273,1,8,.125,0,0,,1,2,3,2,1,0,1,5,7,1.2,+5,Metta World Peace
+2010-04-20,30-158,LAL,HOME,OKC,W (+3),1,40:31,2,10,.200,1,6,.167,0,0,,2,2,4,4,4,2,2,2,5,6.2,0,Metta World Peace
+2010-04-22,30-160,LAL,AWAY,OKC,L (-5),1,42:07,5,10,.500,1,5,.200,0,0,,0,3,3,1,1,0,0,3,11,7.4,-2,Metta World Peace
+2010-04-24,30-162,LAL,AWAY,OKC,L (-21),1,28:35,2,9,.222,0,4,.000,1,2,.500,1,2,3,1,0,0,0,3,5,-0.1,-15,Metta World Peace
+2010-04-27,30-165,LAL,HOME,OKC,W (+24),1,31:00,6,11,.545,2,4,.500,0,0,,1,1,2,5,2,2,0,2,14,15.8,+24,Metta World Peace
+2010-04-30,30-168,LAL,AWAY,OKC,W (+1),1,39:34,3,10,.300,1,5,.200,0,0,,1,2,3,3,2,1,1,2,7,5.5,-6,Metta World Peace
+2010-05-02,30-170,LAL,HOME,UTA,W (+5),1,32:47,4,9,.444,0,3,.000,0,0,,0,0,0,3,0,0,0,4,8,3.8,+8,Metta World Peace
+2010-05-04,30-172,LAL,HOME,UTA,W (+8),1,31:05,7,17,.412,1,7,.143,1,2,.500,5,1,6,3,3,0,1,2,16,13.6,+8,Metta World Peace
+2010-05-08,30-176,LAL,AWAY,UTA,W (+1),1,39:10,7,13,.538,4,7,.571,2,2,1.000,1,2,3,2,1,1,2,3,20,14.9,-1,Metta World Peace
+2010-05-10,30-178,LAL,AWAY,UTA,W (+15),1,35:13,2,8,.250,1,3,.333,0,2,.000,2,2,4,3,1,0,0,1,5,4.1,+17,Metta World Peace
+2010-05-17,30-185,LAL,HOME,PHO,W (+21),1,39:34,6,14,.429,1,5,.200,1,2,.500,0,5,5,5,2,1,0,0,14,13.9,+12,Metta World Peace
+2010-05-19,30-187,LAL,HOME,PHO,W (+12),1,40:14,6,9,.667,3,6,.500,3,4,.750,1,4,5,3,2,0,2,4,18,16.1,+6,Metta World Peace
+2010-05-23,30-191,LAL,AWAY,PHO,L (-9),1,40:55,4,13,.308,2,7,.286,2,2,1.000,1,5,6,0,0,0,2,3,12,3.5,-8,Metta World Peace
+2010-05-25,30-193,LAL,AWAY,PHO,L (-9),1,35:19,6,13,.462,1,5,.200,0,0,,1,2,3,1,0,0,1,4,13,5.7,+10,Metta World Peace
+2010-05-27,30-195,LAL,HOME,PHO,W (+2),1,31:08,2,9,.222,0,3,.000,0,0,,2,3,5,2,3,1,2,4,4,2.3,-4,Metta World Peace
+2010-05-29,30-197,LAL,AWAY,PHO,W (+8),1,40:49,10,16,.625,4,7,.571,1,2,.500,2,2,4,2,3,0,0,1,25,23.4,+2,Metta World Peace
+2010-06-03,30-202,LAL,HOME,BOS,W (+13),1,32:53,5,10,.500,3,5,.600,2,2,1.000,1,3,4,1,2,1,0,4,15,13.4,+26,Metta World Peace
+2010-06-06,30-205,LAL,HOME,BOS,L (-9),1,40:31,1,10,.100,1,6,.167,3,8,.375,2,3,5,1,2,0,3,6,6,-3.0,0,Metta World Peace
+2010-06-08,30-207,LAL,AWAY,BOS,W (+7),1,23:21,1,4,.250,0,2,.000,0,0,,1,2,3,1,0,1,1,2,2,0.5,-12,Metta World Peace
+2010-06-10,30-209,LAL,AWAY,BOS,L (-7),1,41:54,4,10,.400,0,1,.000,1,1,1.000,4,3,7,3,0,1,0,2,9,9.3,+1,Metta World Peace
+2010-06-13,30-212,LAL,AWAY,BOS,L (-6),1,34:15,2,9,.222,2,5,.400,1,4,.250,1,1,2,2,1,0,1,4,7,1.1,0,Metta World Peace
+2010-06-15,30-214,LAL,HOME,BOS,W (+22),1,32:05,6,11,.545,3,6,.500,0,0,,0,6,6,0,0,1,2,3,15,9.0,+26,Metta World Peace
+2010-06-17,30-216,LAL,HOME,BOS,W (+4),1,46:01,7,18,.389,2,7,.286,4,5,.800,3,2,5,1,5,0,4,3,20,13.0,-1,Metta World Peace
+2004-04-17,24-156,IND,HOME,BOS,W (+16),1,39:46,8,21,.381,1,4,.250,7,8,.875,1,5,6,5,0,2,4,4,24,13.6,+15,Metta World Peace
+2004-04-20,24-159,IND,HOME,BOS,W (+13),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Metta World Peace
+2004-04-23,24-162,IND,AWAY,BOS,W (+23),1,29:19,6,17,.353,1,6,.167,2,2,1.000,1,5,6,5,2,0,2,0,15,11.2,+5,Metta World Peace
+2004-04-25,24-164,IND,AWAY,BOS,W (+15),1,35:42,9,17,.529,2,3,.667,2,3,.667,0,3,3,3,1,0,1,0,22,16.3,+18,Metta World Peace
+2004-05-06,24-175,IND,HOME,MIA,W (+13),1,38:41,7,17,.412,1,4,.250,10,13,.769,2,4,6,4,0,0,2,3,25,16.9,+21,Metta World Peace
+2004-05-08,24-177,IND,HOME,MIA,W (+11),1,34:35,8,16,.500,1,3,.333,3,5,.600,0,4,4,5,1,3,3,2,20,15.2,+15,Metta World Peace
+2004-05-10,24-179,IND,AWAY,MIA,L (-7),1,38:45,4,18,.222,2,7,.286,4,7,.571,2,4,6,4,3,0,3,6,14,4.8,-1,Metta World Peace
+2004-05-12,24-181,IND,AWAY,MIA,L (-12),1,43:43,12,22,.545,2,2,1.000,2,2,1.000,6,2,8,1,2,2,3,4,28,21.7,-6,Metta World Peace
+2004-05-15,24-184,IND,HOME,MIA,W (+11),1,40:25,5,12,.417,2,3,.667,2,3,.667,0,3,3,6,0,0,4,4,14,6.7,+3,Metta World Peace
+2004-05-18,24-187,IND,AWAY,MIA,W (+3),1,41:57,8,15,.533,1,3,.333,10,15,.667,2,4,6,1,0,3,5,2,27,17.3,+3,Metta World Peace
+2004-05-22,24-191,IND,HOME,DET,W (+4),1,43:16,6,23,.261,1,5,.200,4,5,.800,4,3,7,1,3,3,1,1,17,11.0,+1,Metta World Peace
+2004-05-24,24-193,IND,HOME,DET,L (-5),1,40:10,5,21,.238,0,4,.000,3,4,.750,1,6,7,0,1,0,4,6,13,-3.0,+1,Metta World Peace
+2004-05-26,24-195,IND,AWAY,DET,L (-7),1,38:19,4,13,.308,0,5,.000,5,6,.833,2,3,5,1,3,1,1,5,13,8.8,-13,Metta World Peace
+2004-05-28,24-197,IND,AWAY,DET,W (+15),1,39:22,8,19,.421,2,5,.400,2,4,.500,1,9,10,4,2,1,2,2,20,15.2,+10,Metta World Peace
+2004-05-30,24-199,IND,HOME,DET,L (-18),1,38:41,4,15,.267,1,5,.200,4,6,.667,2,9,11,3,1,1,0,3,13,10.0,-15,Metta World Peace
+2004-06-01,24-201,IND,AWAY,DET,L (-4),1,43:35,4,13,.308,2,7,.286,1,2,.500,0,10,10,5,2,0,2,3,11,8.4,-2,Metta World Peace
+2011-04-17,31-155,LAL,HOME,NOH,L (-9),1,36:05,4,8,.500,2,3,.667,6,6,1.000,5,6,11,1,0,0,2,5,16,14.0,+3,Metta World Peace
+2011-04-20,31-158,LAL,HOME,NOH,W (+9),1,33:10,6,14,.429,2,5,.400,1,1,1.000,3,3,6,2,2,2,1,1,15,14.0,-6,Metta World Peace
+2011-04-22,31-160,LAL,AWAY,NOH,W (+14),1,29:34,4,8,.500,0,1,.000,1,1,1.000,2,0,2,2,0,0,0,3,9,6.6,+11,Metta World Peace
+2011-04-24,31-162,LAL,AWAY,NOH,L (-5),1,34:53,7,10,.700,2,4,.500,0,2,.000,1,3,4,0,2,0,1,2,16,12.8,-1,Metta World Peace
+2011-04-26,31-164,LAL,HOME,NOH,W (+16),1,32:35,4,8,.500,1,3,.333,2,2,1.000,1,1,2,2,0,0,2,2,11,6.6,+2,Metta World Peace
+2011-04-28,31-166,LAL,AWAY,NOH,W (+18),1,29:46,2,6,.333,0,2,.000,0,0,,2,3,5,5,1,1,0,2,4,7.3,+18,Metta World Peace
+2011-05-02,31-170,LAL,HOME,DAL,L (-2),1,31:14,1,8,.125,0,3,.000,0,0,,1,2,3,4,3,1,1,0,2,3.6,+1,Metta World Peace
+2011-05-04,31-172,LAL,HOME,DAL,L (-12),1,31:08,4,10,.400,1,4,.250,2,4,.500,2,4,6,2,0,3,0,4,11,9.3,-9,Metta World Peace
+2011-05-06,31-174,LAL,AWAY,DAL,L (-6),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Metta World Peace
+2011-05-08,31-176,LAL,AWAY,DAL,L (-36),1,28:17,3,7,.429,1,3,.333,4,5,.800,0,2,2,2,2,0,2,4,11,7.3,-14,Metta World Peace
+2012-04-29,32-168,LAL,HOME,DEN,W (+15),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Metta World Peace
+2012-05-01,32-170,LAL,HOME,DEN,W (+4),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Metta World Peace
+2012-05-04,32-173,LAL,AWAY,DEN,L (-15),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Metta World Peace
+2012-05-06,32-175,LAL,AWAY,DEN,W (+4),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Metta World Peace
+2012-05-12,32-181,LAL,HOME,DEN,W (+9),1,43:41,5,15,.333,4,11,.364,1,2,.500,1,4,5,2,4,2,1,2,15,13.0,+18,Metta World Peace
+2012-05-14,32-183,LAL,AWAY,OKC,L (-29),1,32:02,4,10,.400,2,4,.500,2,2,1.000,0,2,2,2,1,0,0,2,12,8.8,-26,Metta World Peace
+2012-05-16,32-185,LAL,AWAY,OKC,L (-2),1,40:10,2,10,.200,1,3,.333,3,4,.750,1,4,5,2,3,0,2,2,8,4.9,-3,Metta World Peace
+2012-05-18,32-187,LAL,HOME,OKC,W (+3),1,38:18,3,10,.300,2,8,.250,2,2,1.000,0,0,0,1,1,2,0,4,10,5.7,+14,Metta World Peace
+2012-05-19,32-188,LAL,HOME,OKC,L (-3),1,43:11,4,10,.400,4,8,.500,2,4,.500,1,5,6,2,2,0,2,4,14,9.8,-4,Metta World Peace
+2012-05-21,32-190,LAL,AWAY,OKC,L (-16),1,38:15,4,5,.800,1,2,.500,2,2,1.000,0,3,3,5,2,0,0,4,11,13.9,-16,Metta World Peace
+2013-04-21,33-159,LAL,AWAY,SAS,L (-12),1,32:28,2,9,.222,1,5,.200,0,0,,3,3,6,2,1,0,1,1,5,3.5,+4,Metta World Peace
+2013-04-24,33-162,LAL,AWAY,SAS,L (-11),1,34:36,5,13,.385,1,6,.167,2,2,1.000,3,2,5,2,1,1,2,4,13,8.1,-2,Metta World Peace
+2013-04-26,33-164,LAL,HOME,SAS,L (-31),1,17:23,0,6,.000,0,3,.000,0,0,,0,0,0,1,0,0,0,0,0,-3.5,-6,Metta World Peace
+2013-04-28,33-166,LAL,HOME,SAS,L (-21),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Metta World Peace

@@ -1,0 +1,3 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+2015-12-28,24-024,SAC,AWAY,GSW,L (-19),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Duje Dukan
+2016-04-13,24-131,SAC,AWAY,HOU,L (-35),0,24:14,.300,.300,7.1,8.3,7.6,7.1,2.0,0.0,0.0,16.7,78,117,2.7,-7.0,Duje Dukan

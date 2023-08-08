@@ -1,0 +1,5 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2015-04-21,30-073,DAL,AWAY,HOU,L (-12),0,1:51,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+3,Bernard James
+2015-04-26,30-078,DAL,HOME,HOU,W (+12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Bernard James
+2014-04-23,29-075,DAL,AWAY,SAS,W (+21),0,2:08,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.7,+1,Bernard James
+2014-05-04,29-086,DAL,AWAY,SAS,L (-23),0,5:47,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,0,0,1.0,+6,Bernard James

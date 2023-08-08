@@ -1,0 +1,157 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+2001-10-30,38-255,WAS,AWAY,NYK,L (-2),1,36:42,.402,.333,9.3,6.0,7.6,28.9,5.6,0.0,11.3,33.3,89,98,13.4,1.4,Michael Jordan
+2001-11-01,38-257,WAS,AWAY,ATL,W (+10),1,40:23,.475,.433,0.0,16.4,7.7,30.8,2.6,0.0,3.0,35.9,110,94,21.0,8.8,Michael Jordan
+2001-11-03,38-259,WAS,HOME,PHI,W (+14),1,38:06,.401,.333,5.7,12.3,8.9,53.7,3.0,2.0,7.4,34.8,95,89,16.1,5.8,Michael Jordan
+2001-11-04,38-260,WAS,AWAY,DET,L (-22),1,22:29,.492,.444,0.0,44.8,19.2,26.4,2.3,0.0,4.9,43.5,96,104,13.0,11.4,Michael Jordan
+2001-11-07,38-263,WAS,AWAY,BOS,L (-9),1,40:34,.526,.462,5.9,16.7,11.4,10.2,2.7,0.0,14.1,42.4,97,115,18.6,0.4,Michael Jordan
+2001-11-09,38-265,WAS,HOME,GSW,L (-9),1,38:17,.477,.433,0.0,11.8,5.3,21.6,3.9,0.0,8.2,42.3,91,108,17.2,1.1,Michael Jordan
+2001-11-11,38-267,WAS,HOME,SEA,L (-15),1,38:53,.279,.192,8.4,27.7,17.6,21.5,1.3,4.1,3.4,33.7,77,102,7.2,-3.0,Michael Jordan
+2001-11-14,38-270,WAS,HOME,MIL,L (-9),1,40:40,.563,.500,3.3,11.3,7.1,14.7,2.6,2.3,9.8,35.2,111,117,20.8,4.5,Michael Jordan
+2001-11-16,38-272,WAS,HOME,UTA,L (-9),1,41:03,.581,.530,6.8,14.6,9.8,29.0,1.4,0.0,0.0,40.9,136,120,33.3,20.1,Michael Jordan
+2001-11-20,38-276,WAS,HOME,CHH,L (-7),1,41:03,.606,.587,0.0,10.0,5.8,39.5,2.8,0.0,16.8,34.0,111,110,19.5,7.8,Michael Jordan
+2001-11-22,38-278,WAS,AWAY,IND,L (-7),1,39:39,.372,.308,0.0,14.6,6.5,21.6,2.5,1.4,9.6,32.5,85,113,11.0,-3.5,Michael Jordan
+2001-11-24,38-280,WAS,HOME,BOS,W (+4),1,44:41,.336,.292,2.6,22.6,13.4,25.5,1.2,0.0,7.3,28.5,75,84,8.7,-1.9,Michael Jordan
+2001-11-27,38-283,WAS,AWAY,CLE,L (-19),1,30:44,.375,.375,3.0,14.1,7.4,48.2,1.8,0.0,0.0,35.2,88,110,10.1,5.6,Michael Jordan
+2001-11-28,38-284,WAS,AWAY,PHI,W (+7),1,38:04,.478,.407,0.0,18.5,9.4,38.3,7.1,2.0,3.1,41.0,106,86,25.3,14.5,Michael Jordan
+2001-11-30,38-286,WAS,AWAY,MIA,W (+9),1,37:44,.516,.500,3.2,16.1,10.3,31.0,0.0,0.0,8.6,32.2,108,97,14.8,4.8,Michael Jordan
+2001-12-01,38-287,WAS,HOME,ORL,L (-9),1,33:25,.369,.316,0.0,23.1,10.9,43.8,0.0,4.3,9.0,29.4,89,106,8.9,2.4,Michael Jordan
+2001-12-04,38-290,WAS,AWAY,SAS,L (-15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Michael Jordan
+2001-12-06,38-292,WAS,AWAY,HOU,W (+3),1,32:51,.391,.391,0.0,17.5,9.2,40.9,0.0,0.0,14.8,39.3,82,98,7.4,-2.5,Michael Jordan
+2001-12-08,38-294,WAS,AWAY,DAL,W (+7),1,35:05,.421,.333,8.3,31.2,21.4,19.3,6.3,0.0,3.9,34.7,111,96,17.3,3.9,Michael Jordan
+2001-12-11,38-297,WAS,AWAY,MEM,W (+10),1,30:40,.421,.421,0.0,17.9,10.0,52.4,0.0,0.0,0.0,29.0,101,92,13.2,4.3,Michael Jordan
+2001-12-12,38-298,WAS,HOME,MIA,W (+2),1,34:07,.449,.391,0.0,22.3,11.6,48.7,1.7,2.2,3.5,44.1,104,96,18.3,10.0,Michael Jordan
+2001-12-14,38-300,WAS,HOME,NYK,W (+16),1,33:35,.468,.421,0.0,18.0,9.6,31.7,1.6,4.2,19.7,35.3,87,87,10.7,-1.7,Michael Jordan
+2001-12-16,38-302,WAS,AWAY,TOR,W (+5),1,35:37,.444,.381,5.8,6.5,6.1,18.8,4.5,0.0,14.5,34.6,90,99,11.0,-0.1,Michael Jordan
+2001-12-19,38-305,WAS,HOME,ATL,W (+27),1,26:49,.592,.579,4.7,9.2,7.4,41.9,2.1,2.3,9.3,37.7,120,91,18.8,10.8,Michael Jordan
+2001-12-21,38-307,WAS,AWAY,ORL,W (+18),1,33:33,.322,.188,11.4,7.3,8.9,35.6,1.8,0.0,13.9,30.3,98,98,8.2,-2.5,Michael Jordan
+2001-12-22,38-308,WAS,AWAY,NYK,W (+1),1,36:20,.518,.500,0.0,3.4,1.7,30.0,1.6,0.0,13.8,39.1,94,109,12.4,-0.6,Michael Jordan
+2001-12-26,38-312,WAS,AWAY,CHH,L (-6),1,34:54,.457,.411,3.4,15.8,8.3,48.2,1.6,0.0,8.9,48.8,91,116,15.3,-1.3,Michael Jordan
+2001-12-27,38-313,WAS,AWAY,IND,L (-27),1,25:13,.276,.250,7.7,8.7,8.2,28.3,0.0,0.0,26.9,27.0,60,125,-0.2,-12.0,Michael Jordan
+2001-12-29,38-315,WAS,HOME,CHH,W (+17),1,38:13,.601,.553,6.8,13.7,10.7,32.7,4.3,0.0,8.6,59.0,121,98,35.9,13.5,Michael Jordan
+2001-12-31,38-317,WAS,HOME,NJN,W (+22),1,38:28,.597,.516,0.0,24.6,13.4,49.8,4.4,0.0,7.4,45.8,138,81,35.7,26.9,Michael Jordan
+2002-01-04,38-321,WAS,HOME,CHI,W (+6),1,37:56,.488,.375,0.0,16.1,9.5,18.4,2.9,3.4,14.4,45.7,90,89,16.0,0.6,Michael Jordan
+2002-01-08,38-325,WAS,HOME,LAC,W (+8),1,42:22,.368,.375,6.3,22.3,14.8,33.0,1.3,0.0,14.1,32.5,83,95,10.4,-2.7,Michael Jordan
+2002-01-11,38-328,WAS,AWAY,MIL,L (-19),1,32:37,.427,.417,0.0,12.1,5.3,23.6,1.7,0.0,18.9,42.9,79,124,5.6,-9.8,Michael Jordan
+2002-01-12,38-329,WAS,HOME,MIN,L (-8),1,40:09,.529,.467,0.0,16.7,8.0,23.8,1.4,1.8,13.1,42.2,105,122,20.1,3.4,Michael Jordan
+2002-01-15,38-332,WAS,HOME,SAS,L (-5),1,40:16,.357,.238,0.0,3.1,1.4,19.2,0.0,2.2,12.5,35.4,83,116,4.7,-6.1,Michael Jordan
+2002-01-16,38-333,WAS,AWAY,NJN,L (-44),1,18:01,.336,.286,0.0,14.4,5.7,16.3,2.9,3.9,6.3,37.1,80,116,3.4,3.3,Michael Jordan
+2002-01-19,38-336,WAS,AWAY,CHI,W (+8),1,40:41,.338,.333,0.0,24.2,14.5,29.6,2.8,3.0,27.6,37.5,59,69,1.7,-8.6,Michael Jordan
+2002-01-21,38-338,WAS,AWAY,MIN,L (-4),1,39:40,.401,.368,10.9,42.4,23.3,15.9,0.0,0.0,2.7,43.3,100,121,16.1,-0.2,Michael Jordan
+2002-01-22,38-339,WAS,HOME,PHI,L (-7),1,41:38,.547,.537,5.4,18.0,11.4,40.3,2.7,1.8,15.4,35.9,106,105,20.2,6.6,Michael Jordan
+2002-01-24,38-341,WAS,HOME,CLE,W (+9),1,39:53,.623,.621,3.0,18.7,11.3,14.6,3.0,0.0,0.0,37.8,134,99,31.1,18.8,Michael Jordan
+2002-01-26,38-343,WAS,HOME,PHO,W (+10),1,39:54,.604,.567,6.5,5.5,5.9,45.2,2.6,0.0,5.6,39.8,131,113,32.1,11.7,Michael Jordan
+2002-01-29,38-346,WAS,HOME,DET,L (-3),1,41:27,.477,.433,0.0,15.9,7.1,41.8,2.7,0.0,8.2,41.5,104,103,20.8,8.8,Michael Jordan
+2002-01-31,38-348,WAS,AWAY,CLE,W (+1),1,39:35,.452,.407,3.4,12.6,8.2,38.7,1.4,0.0,12.2,39.2,100,111,16.0,0.2,Michael Jordan
+2002-02-01,38-349,WAS,HOME,ATL,W (+7),1,37:52,.493,.417,0.0,13.0,6.1,41.5,3.0,4.6,3.4,37.4,113,105,22.8,9.7,Michael Jordan
+2002-02-03,38-351,WAS,HOME,IND,W (+20),1,40:42,.605,.605,2.9,13.8,7.8,22.6,0.0,0.0,0.0,22.3,145,113,19.4,6.4,Michael Jordan
+2002-02-05,38-353,WAS,HOME,TOR,W (+5),1,39:29,.505,.476,2.6,23.2,10.9,22.2,0.0,0.0,8.1,29.2,119,121,14.7,-1.1,Michael Jordan
+2002-02-07,38-355,WAS,HOME,SAC,W (+7),1,40:47,.411,.400,5.0,10.0,7.5,32.0,1.3,0.0,3.2,32.7,106,114,16.9,2.5,Michael Jordan
+2002-02-12,38-360,WAS,AWAY,LAL,L (-9),1,41:02,.468,.400,0.0,13.3,7.2,29.7,2.7,1.7,14.5,32.9,91,116,14.4,0.8,Michael Jordan
+2002-02-14,38-362,WAS,AWAY,SAC,L (-16),1,32:28,.388,.333,0.0,3.0,1.5,20.6,1.5,0.0,12.7,32.2,74,113,6.1,-5.5,Michael Jordan
+2002-02-15,38-363,WAS,AWAY,PHO,W (+1),1,36:36,.479,.368,0.0,17.7,9.6,17.3,2.8,3.8,17.9,35.3,87,98,13.3,-0.1,Michael Jordan
+2002-02-18,39-001,WAS,HOME,HOU,L (-13),1,36:21,.427,.417,2.6,20.8,9.6,48.4,0.0,0.0,13.4,19.9,100,124,11.3,-0.4,Michael Jordan
+2002-02-20,39-003,WAS,AWAY,DET,L (-7),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Michael Jordan
+2002-02-21,39-004,WAS,HOME,NJN,L (-11),1,37:29,.447,.412,0.0,15.8,7.8,32.5,4.5,0.0,18.3,28.5,88,102,10.8,1.7,Michael Jordan
+2002-02-23,39-006,WAS,HOME,MIA,L (-2),1,37:40,.611,.540,3.4,14.4,8.8,43.0,0.0,0.0,11.7,45.1,120,117,25.5,8.4,Michael Jordan
+2002-02-24,39-007,WAS,AWAY,MIA,L (-12),1,29:35,.335,.346,0.0,22.9,10.3,33.6,5.6,0.0,30.9,31.6,61,101,3.0,-6.0,Michael Jordan
+2002-02-27,39-010,WAS,HOME,POR,L (-4),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Michael Jordan
+2002-03-01,39-012,WAS,AWAY,CHI,L (-9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Michael Jordan
+2002-03-03,39-014,WAS,HOME,ORL,W (+5),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Michael Jordan
+2002-03-05,39-016,WAS,HOME,CHI,W (+25),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Michael Jordan
+2002-03-07,39-018,WAS,HOME,DET,L (-3),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Michael Jordan
+2002-03-08,39-019,WAS,AWAY,ORL,L (-3),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Michael Jordan
+2002-03-10,39-021,WAS,AWAY,BOS,L (-7),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Michael Jordan
+2002-03-11,39-022,WAS,HOME,BOS,L (-5),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Michael Jordan
+2002-03-13,39-024,WAS,AWAY,LAC,L (-21),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Michael Jordan
+2002-03-15,39-026,WAS,AWAY,SEA,W (+5),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Michael Jordan
+2002-03-16,39-027,WAS,AWAY,POR,L (-15),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Michael Jordan
+2002-03-18,39-029,WAS,AWAY,GSW,W (+3),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Michael Jordan
+2002-03-20,39-031,WAS,AWAY,DEN,W (+32),0,16:24,.339,.222,0.0,7.5,3.7,18.2,6.4,0.0,16.2,34.5,69,77,3.2,-6.9,Michael Jordan
+2002-03-21,39-032,WAS,AWAY,UTA,L (-15),0,22:00,.400,.333,0.0,20.3,9.0,50.5,2.5,0.0,6.8,30.9,91,104,7.8,6.2,Michael Jordan
+2002-03-24,39-035,WAS,AWAY,TOR,L (-1),0,22:39,.391,.353,0.0,14.6,7.7,17.8,4.6,0.0,14.4,40.9,78,98,4.2,-8.1,Michael Jordan
+2002-03-26,39-037,WAS,HOME,DEN,W (+16),0,20:04,.436,.444,6.2,11.7,9.0,47.4,0.0,0.0,8.8,24.8,106,101,7.2,0.2,Michael Jordan
+2002-03-29,39-040,WAS,HOME,MIL,W (+9),0,26:09,.623,.545,0.0,14.2,7.2,8.9,0.0,0.0,0.0,45.5,137,109,23.8,13.0,Michael Jordan
+2002-03-31,39-042,WAS,HOME,DAL,L (-7),0,27:41,.336,.286,4.0,9.3,6.4,23.7,2.0,3.0,11.8,28.2,81,125,5.9,-5.9,Michael Jordan
+2002-04-02,39-044,WAS,HOME,LAL,L (-20),0,12:16,.200,.200,0.0,32.4,15.0,36.4,0.0,0.0,0.0,19.1,69,123,1.5,-7.9,Michael Jordan
+2002-10-30,39-255,WAS,AWAY,TOR,L (-6),0,24:30,.269,.286,0.0,12.0,5.6,11.8,6.4,0.0,11.8,31.2,52,75,0.4,-4.0,Michael Jordan
+2002-10-31,39-256,WAS,HOME,BOS,W (+45),0,21:26,.610,.533,0.0,17.6,10.2,46.2,5.0,4.6,0.0,36.3,147,68,20.7,22.7,Michael Jordan
+2002-11-02,39-258,WAS,HOME,NJN,L (-8),0,27:25,.538,.469,0.0,9.4,4.1,19.2,3.9,0.0,0.0,32.7,117,95,15.0,14.7,Michael Jordan
+2002-11-05,39-261,WAS,AWAY,MIN,L (-4),0,28:53,.357,.357,0.0,7.4,3.6,7.6,1.8,0.0,6.7,23.7,71,101,2.7,-7.8,Michael Jordan
+2002-11-06,39-262,WAS,HOME,CLE,W (+7),0,24:16,.410,.333,6.5,9.5,8.2,25.8,6.1,0.0,12.0,15.4,103,96,7.1,0.7,Michael Jordan
+2002-11-08,39-264,WAS,HOME,LAL,W (+1),0,29:50,.648,.643,0.0,12.3,6.2,22.2,3.6,0.0,9.4,33.1,124,109,18.2,10.8,Michael Jordan
+2002-11-09,39-265,WAS,AWAY,CLE,W (+14),0,31:31,.505,.455,7.6,19.0,13.8,35.4,0.0,4.0,0.0,17.7,127,88,13.9,6.2,Michael Jordan
+2002-11-12,39-268,WAS,HOME,SEA,L (-6),0,30:35,.590,.591,4.3,22.1,13.1,28.3,1.8,2.4,14.9,41.0,103,112,18.7,6.8,Michael Jordan
+2002-11-14,39-270,WAS,HOME,UTA,W (+3),0,33:42,.495,.412,0.0,25.7,12.6,6.4,1.5,0.0,13.5,30.1,90,109,8.8,-6.0,Michael Jordan
+2002-11-16,39-272,WAS,HOME,MIA,W (+30),0,18:48,.800,.800,0.0,26.9,15.4,20.3,5.9,0.0,16.7,16.1,133,64,8.8,11.2,Michael Jordan
+2002-11-17,39-273,WAS,AWAY,PHI,L (-16),0,27:49,.594,.594,0.0,9.3,5.0,35.3,1.9,0.0,23.8,36.9,88,115,9.7,-0.5,Michael Jordan
+2002-11-22,39-278,WAS,AWAY,HOU,L (-7),0,29:28,.267,.267,0.0,9.1,4.1,5.6,0.0,0.0,6.3,27.4,57,121,-1.4,-19.0,Michael Jordan
+2002-11-23,39-279,WAS,AWAY,MEM,L (-11),0,31:37,.530,.500,6.3,20.7,11.7,40.5,3.7,0.0,13.7,32.4,105,101,15.7,11.7,Michael Jordan
+2002-11-26,39-282,WAS,HOME,IND,L (-4),0,33:41,.571,.548,0.0,3.6,1.7,19.0,4.8,0.0,3.9,34.8,113,102,19.0,12.4,Michael Jordan
+2002-11-29,39-285,WAS,AWAY,IND,L (-16),0,30:20,.441,.400,0.0,15.6,7.5,7.5,1.8,0.0,5.9,25.1,93,114,7.0,-2.4,Michael Jordan
+2002-11-30,39-286,WAS,HOME,PHI,L (-1),1,37:07,.400,.400,3.4,13.0,7.6,9.7,0.0,2.2,9.1,28.3,96,119,5.7,-7.6,Michael Jordan
+2002-12-03,39-289,WAS,HOME,MIL,W (+25),1,29:44,.531,.450,0.0,22.4,11.9,27.1,0.0,0.0,4.1,35.8,117,86,17.7,6.5,Michael Jordan
+2002-12-04,39-290,WAS,AWAY,DET,W (+5),1,38:38,.499,.357,6.0,22.7,14.0,19.8,8.4,5.2,12.5,29.6,103,77,21.1,13.5,Michael Jordan
+2002-12-06,39-292,WAS,AWAY,ORL,L (-10),1,38:50,.366,.333,2.5,17.1,8.7,0.0,0.0,0.0,12.1,29.1,68,100,2.1,-7.6,Michael Jordan
+2002-12-07,39-293,WAS,HOME,NYK,W (+3),1,37:04,.506,.500,0.0,29.9,16.4,10.2,4.3,0.0,9.2,28.4,95,101,14.1,-1.9,Michael Jordan
+2002-12-10,39-296,WAS,HOME,POR,L (-19),1,28:31,.643,.600,8.4,15.1,11.4,7.2,1.9,2.7,8.4,20.4,124,110,13.1,6.6,Michael Jordan
+2002-12-13,39-299,WAS,AWAY,NJN,L (-14),1,40:14,.287,.250,0.0,15.8,7.7,24.0,2.8,0.0,16.1,30.9,57,91,1.5,-5.1,Michael Jordan
+2002-12-15,39-301,WAS,AWAY,TOR,W (+13),1,39:32,.111,.111,6.0,18.5,12.2,29.3,2.9,2.2,0.0,11.0,91,97,7.5,-2.0,Michael Jordan
+2002-12-17,39-303,WAS,AWAY,ATL,W (+10),1,37:47,.727,.667,0.0,9.5,5.1,10.2,0.0,0.0,4.6,27.9,145,118,22.3,3.8,Michael Jordan
+2002-12-18,39-304,WAS,HOME,MEM,W (+18),1,35:28,.678,.652,0.0,18.5,11.1,9.9,4.7,0.0,11.0,38.5,122,110,25.4,3.1,Michael Jordan
+2002-12-21,39-307,WAS,AWAY,SAS,L (-11),1,41:00,.400,.400,0.0,18.3,8.0,14.9,0.0,1.9,9.1,28.3,77,117,7.1,-4.9,Michael Jordan
+2002-12-23,39-309,WAS,AWAY,DAL,L (-6),1,36:05,.409,.367,0.0,19.0,9.9,47.8,0.0,3.9,15.9,25.5,84,103,9.4,3.7,Michael Jordan
+2002-12-26,39-312,WAS,HOME,DET,L (-5),1,41:13,.453,.412,3.2,8.0,5.8,6.2,0.0,3.8,17.6,29.3,84,114,5.6,-6.0,Michael Jordan
+2002-12-28,39-314,WAS,HOME,ATL,W (+8),1,34:43,.460,.400,3.4,9.8,6.6,31.6,1.7,2.4,0.0,17.1,112,95,10.6,2.0,Michael Jordan
+2002-12-30,39-316,WAS,AWAY,ORL,L (-17),1,38:54,.547,.471,0.0,31.8,15.1,50.0,4.0,0.0,17.2,29.0,103,113,18.4,5.4,Michael Jordan
+2002-12-31,39-317,WAS,HOME,SAS,W (+2),1,34:55,.535,.500,3.8,18.3,11.9,16.2,1.5,0.0,11.2,23.9,106,110,12.5,0.6,Michael Jordan
+2003-01-02,39-319,WAS,AWAY,CHI,W (+25),1,30:01,.421,.364,5.0,12.1,9.4,25.3,3.4,0.0,20.2,22.7,91,85,7.9,-0.7,Michael Jordan
+2003-01-04,39-321,WAS,HOME,IND,W (+3),1,52:48,.655,.596,7.3,20.5,14.1,18.5,3.2,0.0,6.0,30.3,137,98,35.4,13.7,Michael Jordan
+2003-01-06,39-323,WAS,AWAY,BOS,W (+5),1,39:33,.470,.389,0.0,33.0,17.1,33.9,5.2,0.0,16.5,29.2,90,90,16.6,2.5,Michael Jordan
+2003-01-08,39-325,WAS,HOME,CHI,W (+3),1,33:26,.461,.385,0.0,33.8,15.6,34.3,1.5,0.0,11.6,22.1,103,99,11.8,2.3,Michael Jordan
+2003-01-10,39-327,WAS,HOME,GSW,L (-5),1,40:37,.412,.412,0.0,5.0,2.9,18.4,0.0,1.5,0.0,19.6,102,127,9.3,-4.0,Michael Jordan
+2003-01-11,39-328,WAS,AWAY,NYK,W (+5),1,41:26,.397,.320,12.5,12.2,12.3,17.0,1.4,0.0,6.5,34.5,96,102,13.2,-0.8,Michael Jordan
+2003-01-14,39-331,WAS,HOME,TOR,L (-9),1,40:40,.429,.348,4.4,9.2,6.4,23.9,4.1,3.7,7.2,31.1,96,95,16.2,7.7,Michael Jordan
+2003-01-16,39-333,WAS,HOME,ORL,W (+15),1,39:02,.544,.480,3.0,16.2,9.3,34.9,3.0,0.0,3.3,36.0,135,109,26.1,10.2,Michael Jordan
+2003-01-18,39-335,WAS,HOME,PHI,L (-8),1,42:13,.452,.400,6.0,16.3,11.4,38.9,6.6,1.7,6.7,32.6,108,91,21.3,11.4,Michael Jordan
+2003-01-20,39-337,WAS,HOME,DEN,W (+15),1,41:33,.526,.500,2.9,11.7,7.3,33.6,1.3,1.5,11.2,31.6,105,89,17.2,3.4,Michael Jordan
+2003-01-22,39-339,WAS,AWAY,NOH,L (-9),1,38:03,.429,.429,0.0,12.3,6.5,14.2,4.1,0.0,8.7,28.9,83,111,10.8,-3.6,Michael Jordan
+2003-01-24,39-341,WAS,AWAY,CHI,L (-7),1,39:33,.349,.286,5.0,10.3,7.2,12.3,1.4,1.7,6.0,18.9,87,120,6.7,-6.3,Michael Jordan
+2003-01-25,39-342,WAS,HOME,MIN,L (-8),1,40:35,.450,.444,0.0,24.6,12.0,22.8,2.7,1.7,17.5,26.6,86,105,11.8,0.9,Michael Jordan
+2003-01-27,39-344,WAS,HOME,PHO,W (+5),1,37:58,.638,.643,0.0,22.1,11.2,4.9,2.6,0.0,25.2,24.6,88,96,11.8,-1.8,Michael Jordan
+2003-01-29,39-346,WAS,AWAY,NJN,L (-8),1,37:12,.250,.250,0.0,13.8,7.4,27.2,0.0,0.0,15.8,25.3,53,101,-0.4,-9.9,Michael Jordan
+2003-01-30,39-347,WAS,AWAY,MIL,L (-7),1,39:04,.474,.458,5.9,6.5,6.2,21.9,1.5,0.0,7.3,32.2,107,122,14.6,2.2,Michael Jordan
+2003-02-01,39-349,WAS,HOME,NOH,W (+5),1,43:53,.602,.545,2.7,6.4,4.4,30.6,1.2,1.7,5.1,40.4,125,118,31.9,7.6,Michael Jordan
+2003-02-04,39-352,WAS,HOME,CLE,W (+9),1,42:35,.511,.500,0.0,10.4,5.2,41.6,5.0,1.7,7.0,31.8,105,90,22.3,7.2,Michael Jordan
+2003-02-11,39-359,WAS,AWAY,SAC,L (-19),1,30:30,.302,.263,5.1,16.5,10.0,14.6,0.0,0.0,4.8,27.9,70,106,4.0,-4.0,Michael Jordan
+2003-02-12,39-360,WAS,AWAY,LAC,W (+4),1,39:30,.411,.333,6.7,13.0,9.8,50.7,2.8,2.0,6.7,36.2,111,117,17.9,-0.4,Michael Jordan
+2003-02-14,39-362,WAS,AWAY,UTA,L (-32),1,29:12,.387,.250,3.7,4.7,4.1,23.6,0.0,0.0,12.3,27.8,84,141,4.9,-7.5,Michael Jordan
+2003-02-19,40-002,WAS,AWAY,NOH,L (-12),1,39:17,.390,.348,8.2,9.0,8.6,12.9,0.0,3.7,10.5,36.2,79,108,9.1,-1.0,Michael Jordan
+2003-02-21,40-004,WAS,HOME,NJN,W (+3),1,43:01,.641,.600,0.0,22.8,13.0,25.9,5.4,1.6,2.9,41.7,134,93,36.8,22.3,Michael Jordan
+2003-02-23,40-006,WAS,HOME,DAL,L (-5),1,51:33,.558,.538,4.7,21.0,11.9,11.9,2.1,1.7,18.2,31.3,96,110,18.5,-0.6,Michael Jordan
+2003-02-25,40-008,WAS,AWAY,IND,W (+5),1,40:48,.467,.440,0.0,15.6,7.6,18.4,1.5,0.0,3.6,35.1,100,98,14.6,2.7,Michael Jordan
+2003-02-27,40-010,WAS,HOME,HOU,W (+2),1,49:56,.602,.577,0.0,27.1,16.2,23.5,0.0,0.0,9.4,35.2,114,108,25.3,3.1,Michael Jordan
+2003-03-01,40-012,WAS,HOME,CHI,W (+8),1,42:46,.430,.389,0.0,20.3,11.0,36.9,0.0,0.0,9.2,23.9,98,105,12.0,-3.9,Michael Jordan
+2003-03-02,40-013,WAS,AWAY,MIA,L (-10),1,38:45,.371,.333,2.9,21.5,11.9,14.5,1.5,5.7,0.0,35.9,88,107,12.2,1.2,Michael Jordan
+2003-03-04,40-015,WAS,HOME,TOR,L (-3),1,14:48,.400,.400,9.1,15.2,12.5,27.1,0.0,0.0,37.5,24.8,65,107,0.6,-11.4,Michael Jordan
+2003-03-05,40-016,WAS,HOME,LAC,W (+19),1,24:23,.336,.286,15.0,24.5,20.2,0.0,0.0,0.0,6.3,29.5,87,89,3.9,-9.4,Michael Jordan
+2003-03-07,40-018,WAS,HOME,MIL,L (-3),1,42:58,.507,.458,0.0,24.5,12.3,20.0,2.4,0.0,3.6,31.2,100,92,19.2,4.6,Michael Jordan
+2003-03-09,40-020,WAS,AWAY,NYK,L (-1),1,42:58,.682,.591,2.7,18.6,10.6,6.0,1.3,0.0,9.5,34.5,133,112,28.3,8.4,Michael Jordan
+2003-03-11,40-022,WAS,HOME,ORL,W (+1),1,39:40,.595,.556,0.0,13.7,7.6,9.2,2.6,0.0,31.8,33.3,78,114,8.4,-11.1,Michael Jordan
+2003-03-14,40-025,WAS,AWAY,DET,L (-10),1,39:48,.380,.333,2.4,12.3,6.8,20.2,2.7,2.1,0.0,23.7,89,103,11.0,2.9,Michael Jordan
+2003-03-15,40-026,WAS,HOME,MIA,W (+7),1,39:29,.515,.500,6.0,16.8,11.6,6.2,2.9,3.7,14.0,27.6,95,95,13.1,-0.8,Michael Jordan
+2003-03-18,40-029,WAS,HOME,DET,L (-4),1,50:08,.430,.400,2.3,23.6,12.7,12.0,0.0,0.0,7.0,28.6,91,105,12.1,-2.2,Michael Jordan
+2003-03-21,40-032,WAS,AWAY,PHO,L (-26),1,35:38,.478,.333,6.3,11.1,8.5,10.0,1.5,1.9,12.0,21.5,98,123,10.6,-2.4,Michael Jordan
+2003-03-23,40-034,WAS,AWAY,GSW,L (-6),1,41:59,.512,.500,0.0,12.2,6.3,13.7,2.4,0.0,11.3,26.5,105,119,14.8,-2.7,Michael Jordan
+2003-03-25,40-036,WAS,AWAY,POR,W (+4),1,41:10,.602,.579,0.0,13.9,7.3,29.1,2.8,0.0,4.6,27.3,127,106,21.5,6.7,Michael Jordan
+2003-03-26,40-037,WAS,AWAY,SEA,W (+6),1,43:49,.557,.545,2.7,23.4,13.3,24.4,2.8,1.9,14.6,31.8,102,86,18.7,7.5,Michael Jordan
+2003-03-28,40-039,WAS,AWAY,LAL,L (-14),1,40:37,.528,.500,0.0,0.0,0.0,17.2,1.3,0.0,4.4,25.7,110,127,15.0,1.5,Michael Jordan
+2003-03-30,40-041,WAS,AWAY,DEN,L (-16),1,37:34,.398,.391,3.0,13.3,7.9,18.1,1.6,0.0,17.3,37.8,74,112,5.0,-6.2,Michael Jordan
+2003-04-02,40-044,WAS,HOME,SAC,L (-6),1,42:00,.475,.471,0.0,2.7,1.4,16.4,0.0,0.0,5.3,20.0,97,118,9.2,-3.2,Michael Jordan
+2003-04-03,40-045,WAS,AWAY,ATL,L (-2),1,42:38,.461,.435,2.7,40.3,20.0,29.1,2.6,0.0,0.0,25.2,116,100,20.6,7.9,Michael Jordan
+2003-04-06,40-048,WAS,AWAY,BOS,W (+1),1,46:52,.526,.477,5.4,29.5,17.5,26.6,2.4,0.0,7.8,27.1,115,103,22.0,5.9,Michael Jordan
+2003-04-08,40-050,WAS,AWAY,CLE,W (+9),1,45:38,.613,.553,7.6,17.0,12.4,12.7,3.5,1.4,4.5,22.2,129,96,25.7,8.1,Michael Jordan
+2003-04-09,40-051,WAS,HOME,BOS,L (-4),1,42:35,.560,.500,0.0,25.4,13.4,5.3,2.8,0.0,5.1,24.4,111,102,16.2,3.2,Michael Jordan
+2003-04-11,40-053,WAS,AWAY,MIA,W (+4),1,39:43,.458,.423,3.1,3.3,3.2,19.4,2.8,0.0,3.5,33.5,103,102,15.2,1.9,Michael Jordan
+2003-04-12,40-054,WAS,HOME,ATL,L (-1),1,29:51,.504,.500,6.7,23.4,14.4,34.0,1.8,2.4,10.6,27.9,106,111,14.5,4.0,Michael Jordan
+2003-04-14,40-056,WAS,HOME,NYK,L (-14),1,37:33,.450,.409,2.7,24.5,12.2,6.4,1.5,0.0,7.9,33.6,85,105,11.3,-2.7,Michael Jordan
+2003-04-16,40-058,WAS,AWAY,PHI,L (-20),1,28:10,.447,.400,0.0,17.6,8.4,28.9,0.0,0.0,10.7,30.5,96,126,8.5,-1.5,Michael Jordan

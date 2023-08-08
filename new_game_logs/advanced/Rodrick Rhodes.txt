@@ -1,0 +1,5 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GAME_SCORE,BPM,PLAYER
+1999-11-02,26-039,PHI,AWAY,SAS,L (-13),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Rodrick Rhodes
+1999-11-04,26-041,PHI,AWAY,PHO,L (-4),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Rodrick Rhodes
+1999-11-05,26-042,PHI,AWAY,LAC,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Rodrick Rhodes
+2000-04-14,26-203,DAL,HOME,SEA,W (+14),0,8:09,.000,.000,13.6,0.0,6.1,0.0,12.4,0.0,40.0,25.6,14,90,-1.4,-14.9,Rodrick Rhodes

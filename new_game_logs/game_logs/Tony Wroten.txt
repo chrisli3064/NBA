@@ -1,0 +1,166 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2015-12-05,22-236,PHI,HOME,DEN,L (-3),0,13:02,2,7,.286,0,0,,0,0,,0,0,0,3,0,0,5,2,4,-3.8,+6,Tony Wroten
+2015-12-07,22-238,PHI,HOME,SAS,L (-51),0,13:46,0,5,.000,0,1,.000,2,4,.500,0,1,1,2,0,0,1,2,2,-2.4,-22,Tony Wroten
+2015-12-10,22-241,PHI,AWAY,BRK,L (-9),1,16:54,3,5,.600,0,1,.000,3,6,.500,1,3,4,2,1,0,2,0,9,7.5,-3,Tony Wroten
+2015-12-11,22-242,PHI,HOME,DET,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tony Wroten
+2015-12-14,22-245,PHI,AWAY,CHI,L (-19),1,17:44,4,11,.364,2,4,.500,2,4,.500,0,3,3,0,1,0,2,0,12,5.0,-11,Tony Wroten
+2015-12-16,22-247,PHI,AWAY,ATL,L (-21),0,15:52,4,10,.400,1,4,.250,3,5,.600,0,2,2,0,0,0,4,1,12,2.0,-23,Tony Wroten
+2015-12-18,22-249,PHI,HOME,NYK,L (-10),0,23:15,5,10,.500,0,1,.000,5,8,.625,0,3,3,3,1,0,7,2,15,5.0,-7,Tony Wroten
+2015-12-20,22-251,PHI,AWAY,CLE,L (-22),0,14:59,2,8,.250,0,4,.000,2,2,1.000,0,3,3,3,0,0,3,1,6,0.8,-7,Tony Wroten
+2015-12-22,22-253,PHI,HOME,MEM,L (-14),1,28:46,2,9,.222,0,2,.000,3,8,.375,1,4,5,7,0,0,5,3,7,0.1,-1,Tony Wroten
+2015-12-23,22-254,PHI,AWAY,MIL,L (-13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tony Wroten
+2014-10-29,21-199,PHI,AWAY,IND,L (-12),1,35:10,9,21,.429,1,4,.250,3,8,.375,1,7,8,7,3,0,1,2,22,17.8,+8,Tony Wroten
+2014-10-31,21-201,PHI,AWAY,MIL,L (-12),1,34:59,4,11,.364,0,2,.000,6,11,.545,2,1,3,6,3,0,8,4,14,5.2,-6,Tony Wroten
+2014-11-01,21-202,PHI,HOME,MIA,L (-18),1,33:09,6,11,.545,1,4,.250,8,11,.727,0,3,3,10,1,1,4,1,21,19.7,-11,Tony Wroten
+2014-11-03,21-204,PHI,HOME,HOU,L (-11),1,30:55,7,16,.438,2,3,.667,4,6,.667,1,4,5,4,5,0,5,3,20,14.3,-9,Tony Wroten
+2014-11-05,21-206,PHI,HOME,ORL,L (-2),1,35:01,9,16,.563,4,6,.667,5,7,.714,0,3,3,8,5,2,8,4,27,21.9,+5,Tony Wroten
+2014-11-07,21-208,PHI,HOME,CHI,L (-3),1,33:44,11,27,.407,3,10,.300,6,8,.750,2,3,5,7,1,0,2,6,31,19.5,0,Tony Wroten
+2014-11-09,21-210,PHI,AWAY,TOR,L (-32),1,31:36,6,16,.375,1,4,.250,5,7,.714,0,3,3,5,1,0,3,3,18,9.6,-26,Tony Wroten
+2014-11-13,21-214,PHI,AWAY,DAL,L (-53),1,24:45,3,7,.429,2,5,.400,3,6,.500,1,3,4,2,0,0,5,4,11,2.5,-19,Tony Wroten
+2014-11-14,21-215,PHI,AWAY,HOU,L (-1),1,35:21,7,16,.438,2,6,.333,3,6,.500,2,2,4,8,1,0,4,3,19,12.8,-15,Tony Wroten
+2014-11-17,21-218,PHI,AWAY,SAS,L (-25),1,30:22,4,14,.286,0,3,.000,0,0,,1,0,1,3,1,0,4,0,8,-0.4,-27,Tony Wroten
+2014-11-19,21-220,PHI,HOME,BOS,L (-11),0,28:10,7,19,.368,1,6,.167,6,9,.667,1,2,3,7,1,0,2,1,21,14.1,-4,Tony Wroten
+2014-11-21,21-222,PHI,HOME,PHO,L (-26),1,24:38,6,8,.750,0,1,.000,1,2,.500,1,1,2,1,0,0,2,3,13,7.9,-25,Tony Wroten
+2014-11-22,21-223,PHI,AWAY,NYK,L (-8),1,37:00,2,9,.222,0,3,.000,1,2,.500,0,2,2,7,2,0,4,4,5,1.0,-4,Tony Wroten
+2014-11-24,21-225,PHI,HOME,POR,L (-10),1,38:26,7,18,.389,0,3,.000,6,9,.667,1,1,2,9,3,1,3,3,20,15.8,-12,Tony Wroten
+2014-11-26,21-227,PHI,HOME,BRK,L (-8),1,35:14,6,18,.333,0,4,.000,6,8,.750,0,2,2,11,2,0,8,5,18,7.3,-3,Tony Wroten
+2014-12-12,21-243,PHI,AWAY,BRK,L (-18),0,21:40,2,10,.200,1,4,.250,7,8,.875,0,3,3,3,1,0,4,0,12,5.4,-11,Tony Wroten
+2014-12-13,21-244,PHI,HOME,MEM,L (-5),0,19:13,7,11,.636,2,3,.667,1,2,.500,1,1,2,5,0,1,3,1,17,13.5,+7,Tony Wroten
+2014-12-15,21-246,PHI,HOME,BOS,L (-18),0,29:49,0,3,.000,0,2,.000,0,0,,1,3,4,1,0,0,4,3,0,-5.0,-14,Tony Wroten
+2014-12-19,21-250,PHI,HOME,CHO,L (-18),0,24:23,5,10,.500,4,6,.667,5,6,.833,0,1,1,3,0,1,3,4,19,12.1,-9,Tony Wroten
+2014-12-21,21-252,PHI,AWAY,ORL,W (+8),0,30:56,3,11,.273,1,6,.167,3,5,.600,0,1,1,7,3,0,3,0,10,7.9,+9,Tony Wroten
+2014-12-23,21-254,PHI,AWAY,MIA,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tony Wroten
+2014-12-26,21-257,PHI,AWAY,POR,L (-21),0,27:11,7,13,.538,1,4,.250,7,9,.778,1,3,4,4,2,0,2,2,22,18.5,-12,Tony Wroten
+2014-12-27,21-258,PHI,AWAY,UTA,L (-17),0,31:47,8,17,.471,1,6,.167,3,5,.600,2,4,6,0,2,0,3,2,20,11.3,+2,Tony Wroten
+2014-12-30,21-261,PHI,AWAY,GSW,L (-40),0,19:40,4,13,.308,1,5,.200,1,1,1.000,0,1,1,3,2,1,5,0,10,2.6,-32,Tony Wroten
+2015-01-02,21-264,PHI,AWAY,PHO,L (-16),0,33:12,10,19,.526,4,9,.444,4,9,.444,0,2,2,3,3,0,5,2,28,16.6,0,Tony Wroten
+2015-01-03,21-265,PHI,AWAY,LAC,L (-36),1,38:55,8,21,.381,2,8,.250,9,10,.900,1,3,4,7,1,0,6,1,27,16.2,-16,Tony Wroten
+2015-01-05,21-267,PHI,HOME,CLE,W (+3),0,27:42,8,18,.444,0,6,.000,4,6,.667,1,0,1,8,0,0,5,1,20,10.7,+11,Tony Wroten
+2015-01-07,21-269,PHI,HOME,MIL,L (-20),0,23:28,4,19,.211,0,7,.000,4,4,1.000,0,0,0,1,0,0,1,2,12,-0.8,-22,Tony Wroten
+2015-01-09,21-271,PHI,AWAY,BRK,W (+2),0,28:19,5,13,.385,0,3,.000,2,4,.500,0,2,2,4,3,1,0,1,12,10.8,+12,Tony Wroten
+2015-01-10,21-272,PHI,HOME,IND,W (+1),0,28:59,6,17,.353,2,5,.400,6,7,.857,2,2,4,9,2,0,4,4,20,14.8,-3,Tony Wroten
+2015-01-13,21-275,PHI,HOME,ATL,L (-18),0,20:50,4,12,.333,1,4,.250,1,4,.250,0,1,1,4,0,0,2,3,10,1.9,-8,Tony Wroten
+2015-01-14,21-276,PHI,AWAY,TOR,L (-16),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Tony Wroten
+2015-01-16,21-278,PHI,HOME,NOP,W (+15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tony Wroten
+2015-01-17,21-279,PHI,AWAY,DET,L (-18),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Tony Wroten
+2015-01-19,21-281,PHI,AWAY,WAS,L (-35),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Tony Wroten
+2015-01-21,21-283,PHI,HOME,NYK,L (-7),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Tony Wroten
+2012-11-07,19-208,MEM,AWAY,MIL,W (+18),0,3:05,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-3,Tony Wroten
+2012-11-11,19-212,MEM,HOME,MIA,W (+18),0,3:30,0,3,.000,0,0,,0,0,,1,0,1,0,1,0,0,1,0,-0.8,-9,Tony Wroten
+2012-11-16,19-217,MEM,HOME,NYK,W (+10),0,1:03,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-4,Tony Wroten
+2012-12-22,19-253,MEM,AWAY,HOU,L (-25),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tony Wroten
+2013-01-02,19-264,MEM,AWAY,BOS,W (+10),0,2:28,0,0,,0,0,,0,0,,0,0,0,1,0,0,1,0,0,-0.3,-3,Tony Wroten
+2013-01-06,19-268,MEM,AWAY,PHO,W (+11),0,0:16,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,0,Tony Wroten
+2013-01-07,19-269,MEM,AWAY,SAC,W (+32),0,3:24,1,2,.500,0,0,,0,0,,0,0,0,1,0,0,1,0,2,0.7,-1,Tony Wroten
+2013-01-14,19-276,MEM,HOME,LAC,L (-26),0,14:19,2,7,.286,0,1,.000,4,4,1.000,2,3,5,3,0,0,0,0,8,8.3,-2,Tony Wroten
+2013-01-16,19-278,MEM,AWAY,SAS,L (-21),0,6:48,0,1,.000,0,0,,1,2,.500,0,1,1,0,0,0,0,1,1,-0.2,-2,Tony Wroten
+2013-01-23,19-285,MEM,HOME,LAL,W (+13),0,18:09,4,13,.308,0,3,.000,1,1,1.000,3,2,5,2,1,1,0,1,9,6.9,+16,Tony Wroten
+2013-01-25,19-287,MEM,HOME,BRK,W (+24),0,23:01,5,9,.556,0,0,,1,2,.500,3,1,4,2,0,0,3,1,11,6.7,+17,Tony Wroten
+2013-01-27,19-289,MEM,HOME,NOH,L (-8),0,25:34,1,7,.143,0,0,,0,0,,0,1,1,4,1,2,2,1,2,0.6,-3,Tony Wroten
+2013-01-28,19-290,MEM,AWAY,PHI,W (+3),0,12:54,2,2,1.000,0,0,,2,3,.667,0,2,2,1,1,0,2,2,6,4.5,-4,Tony Wroten
+2013-01-31,19-293,MEM,AWAY,OKC,L (-17),0,9:12,1,2,.500,0,1,.000,4,4,1.000,0,0,0,4,2,0,0,2,6,9.0,-4,Tony Wroten
+2013-02-01,19-294,MEM,HOME,WAS,W (+9),0,2:43,0,0,,0,0,,0,0,,0,0,0,0,0,0,2,0,0,-2.0,-4,Tony Wroten
+2013-02-06,19-299,MEM,AWAY,ATL,L (-11),0,8:35,2,5,.400,1,2,.500,0,0,,0,0,0,3,0,1,1,1,5,3.7,+3,Tony Wroten
+2013-02-10,19-303,MEM,HOME,MIN,W (+17),0,10:37,2,4,.500,0,1,.000,3,4,.750,0,0,0,3,0,0,0,2,7,5.9,-2,Tony Wroten
+2013-02-12,19-305,MEM,HOME,SAC,W (+7),0,4:11,0,0,,0,0,,0,0,,0,0,0,1,0,0,1,0,0,-0.3,-5,Tony Wroten
+2013-02-19,19-312,MEM,AWAY,DET,W (+14),0,6:29,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,-14,Tony Wroten
+2013-02-20,19-313,MEM,AWAY,TOR,W (+6),0,5:21,1,1,1.000,1,1,1.000,0,0,,0,1,1,1,0,0,0,1,3,3.3,+3,Tony Wroten
+2013-02-22,19-315,MEM,HOME,ORL,W (+6),0,5:56,0,0,,0,0,,0,2,.000,0,0,0,1,0,0,1,2,0,-1.9,-3,Tony Wroten
+2013-02-24,19-317,MEM,AWAY,BRK,W (+4),0,2:52,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-5,Tony Wroten
+2013-03-03,19-324,MEM,AWAY,ORL,W (+26),0,17:13,3,6,.500,2,3,.667,0,0,,0,0,0,5,0,0,4,4,8,2.9,+4,Tony Wroten
+2013-03-06,19-327,MEM,HOME,POR,W (+6),0,14:10,3,5,.600,0,1,.000,0,0,,2,2,4,4,0,0,1,1,6,7.1,-3,Tony Wroten
+2013-03-08,19-329,MEM,AWAY,CLE,W (+11),0,7:07,2,3,.667,0,0,,1,1,1.000,1,0,1,1,1,0,1,0,5,5.1,0,Tony Wroten
+2013-03-09,19-330,MEM,HOME,NOH,W (+11),0,7:06,1,5,.200,0,1,.000,0,0,,1,0,1,0,0,0,0,0,2,-0.4,-9,Tony Wroten
+2013-03-12,19-333,MEM,AWAY,POR,W (+5),0,12:38,0,1,.000,0,0,,1,2,.500,0,0,0,2,0,0,1,2,1,-0.5,+7,Tony Wroten
+2013-03-13,19-334,MEM,AWAY,LAC,W (+11),0,4:57,0,0,,0,0,,0,0,,0,0,0,0,0,0,2,4,0,-3.6,+2,Tony Wroten
+2013-03-15,19-336,MEM,AWAY,DEN,L (-7),0,7:49,2,4,.500,0,0,,0,0,,0,0,0,2,0,0,0,0,4,3.4,-4,Tony Wroten
+2013-03-16,19-337,MEM,AWAY,UTA,L (-6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Tony Wroten
+2013-03-18,19-339,MEM,HOME,MIN,W (+15),0,6:13,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,0,0,-1.7,-3,Tony Wroten
+2013-03-20,19-341,MEM,HOME,OKC,W (+1),0,5:12,0,0,,0,0,,2,2,1.000,0,0,0,1,0,0,2,2,2,-0.1,-3,Tony Wroten
+2013-03-22,19-343,MEM,AWAY,NOH,L (-7),0,4:21,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,-3,Tony Wroten
+2013-03-30,19-351,MEM,AWAY,MIN,W (+13),0,0:58,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-1,Tony Wroten
+2013-04-01,19-353,MEM,HOME,SAS,W (+2),0,6:00,0,2,.000,0,0,,1,2,.500,0,0,0,0,1,0,0,1,1,-0.2,-9,Tony Wroten
+2013-04-07,19-359,MEM,AWAY,SAC,W (+2),0,5:20,1,1,1.000,0,0,,0,0,,0,1,1,1,0,0,1,2,2,0.9,0,Tony Wroten
+2013-04-09,19-361,MEM,HOME,CHA,W (+19),0,2:27,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,2,0,-0.8,-6,Tony Wroten
+2013-10-30,20-200,PHI,HOME,MIA,W (+4),0,23:23,6,9,.667,1,3,.333,1,2,.500,1,3,4,2,1,0,2,1,14,11.3,+3,Tony Wroten
+2013-11-01,20-202,PHI,AWAY,WAS,W (+7),0,19:01,4,10,.400,0,2,.000,2,3,.667,1,4,5,1,1,0,4,1,10,3.4,+5,Tony Wroten
+2013-11-02,20-203,PHI,HOME,CHI,W (+3),0,22:41,4,11,.364,3,6,.500,0,2,.000,0,5,5,0,1,1,1,3,11,5.1,-9,Tony Wroten
+2013-11-04,20-205,PHI,HOME,GSW,L (-20),0,22:19,6,14,.429,1,5,.200,1,5,.200,1,2,3,1,0,0,0,1,14,6.6,-10,Tony Wroten
+2013-11-06,20-207,PHI,HOME,WAS,L (-14),0,18:01,1,6,.167,0,3,.000,0,0,,0,3,3,3,0,0,2,1,2,-1.2,+5,Tony Wroten
+2013-11-08,20-209,PHI,HOME,CLE,W (+15),0,26:09,7,14,.500,2,8,.250,2,2,1.000,0,4,4,4,1,0,2,0,18,14.0,+7,Tony Wroten
+2013-11-09,20-210,PHI,AWAY,CLE,L (-2),0,16:21,1,7,.143,0,2,.000,2,2,1.000,0,0,0,2,1,0,2,1,4,-0.5,-4,Tony Wroten
+2013-11-11,20-212,PHI,HOME,SAS,L (-24),0,21:13,5,9,.556,1,3,.333,2,3,.667,1,1,2,3,0,1,2,3,13,8.9,-8,Tony Wroten
+2013-11-13,20-214,PHI,HOME,HOU,W (+6),1,41:14,7,18,.389,0,2,.000,4,7,.571,5,5,10,11,0,1,4,5,18,14.4,+4,Tony Wroten
+2013-11-15,20-216,PHI,AWAY,ATL,L (-10),1,37:34,9,19,.474,0,3,.000,4,6,.667,0,0,0,6,1,0,1,4,22,14.1,-19,Tony Wroten
+2013-11-16,20-217,PHI,AWAY,NOP,L (-37),1,35:24,6,16,.375,2,5,.400,5,6,.833,2,1,3,2,2,0,3,4,19,10.3,-33,Tony Wroten
+2013-11-18,20-219,PHI,AWAY,DAL,L (-3),1,36:35,8,17,.471,0,4,.000,3,9,.333,1,2,3,3,5,0,4,3,19,11.1,-1,Tony Wroten
+2013-11-20,20-221,PHI,HOME,TOR,L (-10),0,28:02,3,11,.273,0,3,.000,3,4,.750,1,1,2,4,0,0,2,2,9,3.1,-12,Tony Wroten
+2013-11-22,20-223,PHI,HOME,MIL,W (+8),0,11:00,1,4,.250,0,1,.000,1,2,.500,0,1,1,6,1,0,2,1,3,3.3,+3,Tony Wroten
+2013-11-23,20-224,PHI,AWAY,IND,L (-8),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Tony Wroten
+2013-11-27,20-228,PHI,AWAY,ORL,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tony Wroten
+2013-11-29,20-230,PHI,HOME,NOP,L (-16),0,23:44,9,13,.692,1,2,.500,5,9,.556,1,2,3,1,0,0,4,3,24,13.7,+2,Tony Wroten
+2013-12-01,20-232,PHI,AWAY,DET,L (-15),0,20:41,2,6,.333,0,1,.000,1,2,.500,1,0,1,3,3,0,3,0,5,4.0,-14,Tony Wroten
+2013-12-03,20-234,PHI,HOME,ORL,W (+1),0,13:18,1,2,.500,0,0,,0,0,,0,2,2,1,0,0,3,1,2,-1.1,-13,Tony Wroten
+2013-12-06,20-237,PHI,AWAY,CHA,L (-17),1,34:44,10,22,.455,0,4,.000,1,4,.250,3,5,8,9,1,1,2,4,21,16.4,-5,Tony Wroten
+2013-12-07,20-238,PHI,HOME,DEN,L (-11),1,32:43,10,20,.500,0,2,.000,0,0,,2,3,5,1,0,1,3,2,20,9.9,-12,Tony Wroten
+2013-12-09,20-240,PHI,HOME,LAC,L (-11),1,36:29,2,12,.167,1,5,.200,4,6,.667,1,9,10,7,1,0,4,3,9,4.7,-8,Tony Wroten
+2013-12-11,20-242,PHI,AWAY,MIN,L (-7),1,28:07,8,13,.615,1,3,.333,3,4,.750,2,1,3,4,1,1,3,6,20,14.5,-5,Tony Wroten
+2013-12-13,20-244,PHI,AWAY,TOR,L (-8),1,37:19,8,17,.471,5,8,.625,2,4,.500,1,2,3,5,1,0,5,0,23,14.3,-5,Tony Wroten
+2013-12-14,20-245,PHI,HOME,POR,L (-34),1,24:17,5,15,.333,2,4,.500,6,10,.600,2,4,6,7,0,1,2,2,18,13.3,-17,Tony Wroten
+2013-12-16,20-247,PHI,AWAY,BRK,L (-36),1,24:22,5,13,.385,1,5,.200,2,4,.500,0,2,2,3,3,0,6,5,13,2.8,-38,Tony Wroten
+2013-12-20,20-251,PHI,HOME,BRK,W (+1),0,23:32,8,17,.471,2,8,.250,1,1,1.000,0,3,3,3,0,0,4,2,19,8.5,+1,Tony Wroten
+2013-12-21,20-252,PHI,AWAY,MIL,L (-10),0,19:31,3,7,.429,1,3,.333,1,2,.500,0,5,5,1,1,0,3,1,8,3.7,-9,Tony Wroten
+2013-12-28,20-259,PHI,AWAY,PHO,L (-14),0,29:41,7,17,.412,2,4,.500,6,8,.750,1,1,2,2,2,0,3,4,22,11.9,-3,Tony Wroten
+2013-12-29,20-260,PHI,AWAY,LAL,W (+7),0,19:26,2,12,.167,0,5,.000,4,4,1.000,1,0,1,1,1,0,2,2,8,0.0,-4,Tony Wroten
+2014-01-01,20-263,PHI,AWAY,DEN,W (+12),0,19:43,3,6,.500,1,3,.333,0,3,.000,1,4,5,1,1,0,2,1,7,4.0,+14,Tony Wroten
+2014-01-02,20-264,PHI,AWAY,SAC,W (+9),0,31:29,6,13,.462,1,3,.333,8,13,.615,0,4,4,3,1,0,1,3,21,14.4,+14,Tony Wroten
+2014-01-04,20-266,PHI,AWAY,POR,W (+2),0,25:35,4,10,.400,0,1,.000,4,7,.571,0,3,3,3,1,0,2,2,12,6.6,-1,Tony Wroten
+2014-01-06,20-268,PHI,HOME,MIN,L (-31),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Tony Wroten
+2014-01-07,20-269,PHI,AWAY,CLE,L (-18),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Tony Wroten
+2014-01-10,20-272,PHI,HOME,DET,L (-10),0,21:18,1,6,.167,0,1,.000,3,6,.500,2,0,2,3,1,2,4,2,5,1.1,-11,Tony Wroten
+2014-01-11,20-273,PHI,HOME,NYK,L (-10),0,11:31,4,9,.444,1,1,1.000,2,5,.400,1,1,2,4,0,0,1,1,11,7.5,-8,Tony Wroten
+2014-01-15,20-277,PHI,HOME,CHA,W (+3),0,18:23,4,10,.400,0,1,.000,1,3,.333,0,3,3,2,1,0,5,2,9,0.3,-1,Tony Wroten
+2014-01-17,20-279,PHI,HOME,MIA,L (-15),0,25:49,4,13,.308,1,5,.200,4,8,.500,1,2,3,3,2,1,3,2,13,6.2,+3,Tony Wroten
+2014-01-18,20-280,PHI,AWAY,CHI,L (-25),0,8:16,1,4,.250,0,0,,0,0,,1,0,1,2,0,0,1,0,2,0.7,-9,Tony Wroten
+2014-01-20,20-282,PHI,AWAY,WAS,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tony Wroten
+2014-01-22,20-284,PHI,AWAY,NYK,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tony Wroten
+2014-01-24,20-286,PHI,HOME,TOR,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tony Wroten
+2014-01-25,20-287,PHI,HOME,OKC,L (-12),0,16:32,3,8,.375,0,3,.000,3,4,.750,0,1,1,2,0,0,3,1,9,2.5,-6,Tony Wroten
+2014-01-27,20-289,PHI,HOME,PHO,L (-11),0,11:06,1,6,.167,0,1,.000,4,4,1.000,2,0,2,1,2,0,3,4,6,1.7,+2,Tony Wroten
+2014-01-29,20-291,PHI,AWAY,BOS,W (+1),0,14:18,3,6,.500,0,1,.000,2,2,1.000,0,1,1,0,3,0,2,0,8,6.3,-16,Tony Wroten
+2014-01-31,20-293,PHI,HOME,ATL,L (-26),0,18:42,1,13,.077,0,4,.000,4,4,1.000,0,1,1,3,1,0,2,1,6,-1.7,-11,Tony Wroten
+2014-02-01,20-294,PHI,AWAY,DET,L (-17),1,35:18,8,19,.421,0,3,.000,2,2,1.000,2,1,3,5,1,0,6,3,18,6.9,-11,Tony Wroten
+2014-02-03,20-296,PHI,AWAY,BRK,L (-6),0,25:16,6,8,.750,0,0,,6,9,.667,1,5,6,3,1,0,4,2,18,14.1,+12,Tony Wroten
+2014-02-05,20-298,PHI,HOME,BOS,L (-6),0,28:21,5,13,.385,1,2,.500,7,8,.875,1,1,2,4,1,0,3,2,18,11.5,-14,Tony Wroten
+2014-02-07,20-300,PHI,HOME,LAL,L (-14),0,17:56,6,9,.667,1,1,1.000,3,4,.750,2,2,4,0,0,0,4,0,16,9.7,-3,Tony Wroten
+2014-02-09,20-302,PHI,AWAY,LAC,L (-45),0,23:08,7,11,.636,0,2,.000,7,9,.778,0,3,3,2,3,0,3,0,21,17.6,-5,Tony Wroten
+2014-02-10,20-303,PHI,AWAY,GSW,L (-43),0,25:50,4,12,.333,0,0,,1,2,.500,3,2,5,1,0,0,4,0,9,1.2,-28,Tony Wroten
+2014-02-12,20-305,PHI,AWAY,UTA,L (-5),0,17:30,0,0,,0,0,,0,0,,0,2,2,1,0,0,1,2,0,-0.5,-26,Tony Wroten
+2014-02-18,20-311,PHI,HOME,CLE,L (-29),0,23:44,5,13,.385,0,2,.000,2,5,.400,2,1,3,1,1,0,4,1,12,2.7,-12,Tony Wroten
+2014-02-21,20-314,PHI,HOME,DAL,L (-12),0,28:47,6,14,.429,0,2,.000,9,13,.692,2,2,4,2,1,0,5,2,21,10.6,-2,Tony Wroten
+2014-02-24,20-317,PHI,HOME,MIL,L (-20),1,29:41,9,15,.600,0,0,,1,1,1.000,2,0,2,5,1,0,2,3,19,14.8,-10,Tony Wroten
+2014-02-26,20-319,PHI,HOME,ORL,L (-11),0,25:50,4,9,.444,0,0,,7,9,.778,1,4,5,0,0,2,1,1,15,11.4,-5,Tony Wroten
+2014-03-01,20-322,PHI,HOME,WAS,L (-19),0,27:28,5,12,.417,0,2,.000,9,12,.750,1,2,3,2,1,1,2,2,19,13.0,-5,Tony Wroten
+2014-03-02,20-323,PHI,AWAY,ORL,L (-11),0,25:02,5,14,.357,1,3,.333,1,2,.500,3,2,5,1,1,0,5,3,12,2.0,-12,Tony Wroten
+2014-03-04,20-325,PHI,AWAY,OKC,L (-33),0,22:05,3,12,.250,0,2,.000,2,5,.400,2,1,3,2,3,0,2,3,8,2.5,-7,Tony Wroten
+2014-03-08,20-329,PHI,HOME,UTA,L (-12),0,31:27,12,15,.800,0,2,.000,6,8,.750,0,1,1,1,4,0,3,0,30,25.5,-19,Tony Wroten
+2014-03-10,20-331,PHI,AWAY,NYK,L (-13),0,28:36,8,18,.444,0,1,.000,7,8,.875,2,3,5,3,0,0,5,1,23,12.2,-15,Tony Wroten
+2014-03-12,20-333,PHI,HOME,SAC,L (-17),0,23:45,5,11,.455,0,1,.000,0,0,,1,2,3,2,2,0,3,3,10,4.8,-10,Tony Wroten
+2014-03-14,20-335,PHI,HOME,IND,L (-7),0,13:18,1,4,.250,0,1,.000,6,6,1.000,0,1,1,0,3,0,1,2,8,7.1,-3,Tony Wroten
+2014-03-15,20-336,PHI,HOME,MEM,L (-26),0,27:59,6,11,.545,0,1,.000,1,2,.500,1,3,4,2,1,1,3,3,13,7.8,-16,Tony Wroten
+2014-03-17,20-338,PHI,AWAY,IND,L (-9),1,36:08,7,18,.389,0,3,.000,3,3,1.000,2,2,4,4,0,1,3,4,17,8.1,-3,Tony Wroten
+2014-03-19,20-340,PHI,HOME,CHI,L (-8),1,42:39,6,16,.375,4,6,.667,1,6,.167,0,6,6,7,2,0,2,2,17,12.1,-8,Tony Wroten
+2014-03-21,20-342,PHI,HOME,NYK,L (-1),1,32:46,4,9,.444,2,6,.333,2,6,.333,1,2,3,4,0,0,1,1,12,8.4,-7,Tony Wroten
+2014-03-22,20-343,PHI,AWAY,CHI,L (-10),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Tony Wroten
+2014-03-24,20-345,PHI,AWAY,SAS,L (-22),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Tony Wroten
+2014-03-27,20-348,PHI,AWAY,HOU,L (-22),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Tony Wroten
+2014-03-29,20-350,PHI,HOME,DET,W (+25),0,21:07,2,6,.333,1,3,.333,1,2,.500,1,5,6,9,0,0,1,0,6,9.7,+15,Tony Wroten
+2014-03-31,20-352,PHI,AWAY,ATL,L (-8),0,17:58,3,8,.375,0,3,.000,0,0,,0,1,1,3,0,0,5,4,6,-2.6,-7,Tony Wroten
+2014-04-02,20-354,PHI,HOME,CHA,L (-30),0,20:32,2,8,.250,0,4,.000,4,6,.667,0,0,0,4,0,0,1,2,8,3.4,-17,Tony Wroten
+2014-04-04,20-356,PHI,AWAY,BOS,W (+9),0,23:58,4,8,.500,0,2,.000,0,0,,0,1,1,5,2,0,3,2,8,6.0,-2,Tony Wroten
+2014-04-05,20-357,PHI,HOME,BRK,L (-4),0,30:43,6,13,.462,0,2,.000,3,6,.500,0,4,4,4,1,1,4,2,15,8.0,+6,Tony Wroten
+2014-04-09,20-361,PHI,AWAY,TOR,L (-11),0,19:02,4,7,.571,0,0,,3,3,1.000,0,2,2,3,0,0,1,3,11,8.2,0,Tony Wroten
+2014-04-11,20-363,PHI,AWAY,MEM,L (-22),0,20:30,6,14,.429,0,3,.000,6,8,.750,2,0,2,3,1,0,1,3,18,12.1,-12,Tony Wroten
+2014-04-12,20-364,PHI,AWAY,CHA,L (-6),0,18:02,4,8,.500,0,0,,2,4,.500,0,5,5,1,0,0,1,3,10,5.2,-1,Tony Wroten
+2014-04-14,21-001,PHI,HOME,BOS,W (+5),0,28:18,7,12,.583,0,1,.000,6,7,.857,1,1,2,4,2,0,7,4,20,11.2,+9,Tony Wroten
+2014-04-16,21-003,PHI,AWAY,MIA,W (+13),0,22:24,2,6,.333,0,2,.000,0,0,,0,1,1,6,5,0,6,4,4,2.5,+9,Tony Wroten

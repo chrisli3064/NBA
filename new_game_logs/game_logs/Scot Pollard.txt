@@ -1,0 +1,516 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2001-10-30,26-260,SAC,HOME,SEA,W (+6),1,34:33,3,6,.500,0,0,,1,2,.500,2,7,9,2,0,3,1,2,7,8.8,+5,Scot Pollard
+2001-11-03,26-264,SAC,AWAY,DEN,W (+12),1,23:03,1,1,1.000,0,0,,3,4,.750,2,5,7,0,0,0,2,1,5,4.8,-1,Scot Pollard
+2001-11-04,26-265,SAC,HOME,SAS,W (+20),1,28:12,5,7,.714,0,0,,0,1,.000,1,8,9,1,2,3,0,2,10,13.8,+25,Scot Pollard
+2001-11-06,26-267,SAC,AWAY,CLE,W (+16),1,29:49,2,7,.286,0,0,,0,0,,0,3,3,0,1,1,3,3,4,-1.7,+2,Scot Pollard
+2001-11-07,26-268,SAC,AWAY,IND,L (-12),1,17:07,2,5,.400,0,0,,0,1,.000,3,2,5,1,1,0,2,4,4,1.7,-1,Scot Pollard
+2001-11-09,26-270,SAC,AWAY,ORL,L (-10),1,32:46,3,7,.429,0,0,,4,5,.800,3,9,12,1,1,0,2,3,10,9.2,+3,Scot Pollard
+2001-11-10,26-271,SAC,AWAY,MIA,W (+15),1,30:24,2,7,.286,0,0,,2,3,.667,3,2,5,1,1,1,2,2,6,3.8,+7,Scot Pollard
+2001-11-13,26-274,SAC,HOME,TOR,W (+9),1,31:58,2,3,.667,0,0,,2,4,.500,6,6,12,3,2,0,1,2,6,12.2,+5,Scot Pollard
+2001-11-16,26-277,SAC,HOME,CHI,W (+34),1,29:29,2,3,.667,0,0,,1,2,.500,1,3,4,0,4,2,0,3,5,9.1,+22,Scot Pollard
+2001-11-18,26-279,SAC,AWAY,LAL,L (-8),1,22:20,1,3,.333,0,0,,2,4,.500,3,3,6,1,1,1,0,2,4,6.1,-3,Scot Pollard
+2001-11-19,26-280,SAC,HOME,HOU,W (+36),1,35:35,5,9,.556,0,0,,2,3,.667,3,11,14,0,0,0,1,3,12,10.5,+22,Scot Pollard
+2001-11-21,26-282,SAC,HOME,POR,W (+12),1,27:19,0,2,.000,0,0,,0,0,,5,5,10,2,1,1,1,4,0,4.1,+2,Scot Pollard
+2001-11-24,26-285,SAC,HOME,NJN,W (+1),1,27:08,1,4,.250,0,0,,2,4,.500,1,4,5,1,1,1,0,3,4,3.9,+5,Scot Pollard
+2001-11-26,26-287,SAC,AWAY,MEM,L (-4),1,36:33,4,7,.571,0,0,,1,4,.250,4,8,12,2,3,3,1,3,9,14.0,0,Scot Pollard
+2001-11-27,26-288,SAC,AWAY,HOU,W (+5),1,32:42,1,4,.250,0,0,,0,0,,1,10,11,3,1,1,0,4,2,5.5,+7,Scot Pollard
+2001-11-29,26-290,SAC,AWAY,DAL,W (+12),1,34:21,4,9,.444,0,0,,1,4,.250,8,9,17,1,1,2,3,2,9,10.7,+8,Scot Pollard
+2001-11-30,26-291,SAC,AWAY,SAS,W (+3),1,13:24,3,4,.750,0,0,,0,0,,1,2,3,1,0,0,0,4,6,4.8,-4,Scot Pollard
+2001-12-02,26-293,SAC,HOME,DAL,L (-6),1,13:27,2,5,.400,0,0,,1,1,1.000,3,2,5,0,0,0,0,2,5,4.2,-15,Scot Pollard
+2001-12-04,26-295,SAC,HOME,PHI,W (+10),1,38:56,2,6,.333,0,0,,2,2,1.000,6,7,13,1,2,7,1,3,6,14.3,+25,Scot Pollard
+2001-12-07,26-298,SAC,HOME,LAL,W (+6),1,32:26,5,7,.714,0,0,,0,1,.000,2,4,6,0,2,0,1,4,10,8.7,+7,Scot Pollard
+2001-12-09,26-300,SAC,HOME,MIA,W (+7),0,27:08,3,6,.500,0,0,,3,3,1.000,2,6,8,1,1,4,0,3,9,12.5,+5,Scot Pollard
+2001-12-11,26-302,SAC,HOME,ORL,W (+12),0,15:04,1,1,1.000,0,0,,0,0,,0,0,0,1,0,1,0,1,2,2.7,+14,Scot Pollard
+2001-12-12,26-303,SAC,AWAY,PHO,L (-26),0,18:21,2,2,1.000,0,0,,0,0,,0,4,4,1,0,0,2,2,4,2.5,-8,Scot Pollard
+2001-12-14,26-305,SAC,AWAY,MIN,L (-20),0,17:48,1,3,.333,0,0,,2,5,.400,2,2,4,0,0,1,0,2,4,3.0,-6,Scot Pollard
+2001-12-16,26-307,SAC,HOME,MEM,W (+17),0,23:52,0,3,.000,0,0,,0,0,,3,7,10,1,1,0,1,0,0,2.8,+4,Scot Pollard
+2001-12-18,26-309,SAC,HOME,DET,W (+4),0,18:52,2,4,.500,0,0,,0,0,,2,4,6,0,0,0,1,2,4,2.8,-4,Scot Pollard
+2001-12-19,26-310,SAC,AWAY,SEA,L (-12),1,23:58,3,3,1.000,0,0,,0,0,,3,4,7,0,0,0,0,3,6,7.2,-9,Scot Pollard
+2001-12-22,26-313,SAC,AWAY,LAC,L (-16),1,32:48,2,5,.400,0,0,,1,2,.500,2,8,10,0,0,1,0,3,5,5.2,-18,Scot Pollard
+2001-12-23,26-314,SAC,HOME,PHO,W (+32),1,20:46,4,5,.800,0,0,,1,4,.250,1,7,8,2,1,0,2,5,9,7.1,+10,Scot Pollard
+2001-12-26,26-317,SAC,HOME,POR,W (+15),0,28:32,0,5,.000,0,0,,0,2,.000,6,4,10,1,3,1,0,3,0,4.3,+16,Scot Pollard
+2001-12-28,26-319,SAC,HOME,MIN,W (+14),0,26:52,3,6,.500,0,0,,5,6,.833,3,2,5,0,1,1,0,2,11,11.2,+9,Scot Pollard
+2001-12-30,26-321,SAC,HOME,BOS,W (+15),0,22:12,3,3,1.000,0,0,,0,2,.000,2,9,11,0,1,0,0,2,6,8.6,-1,Scot Pollard
+2002-01-02,26-324,SAC,HOME,LAC,W (+14),0,24:09,4,7,.571,0,0,,3,4,.750,3,3,6,3,1,0,0,3,11,12.2,+9,Scot Pollard
+2002-01-05,26-327,SAC,AWAY,PHO,W (+6),1,31:53,3,5,.600,0,0,,4,4,1.000,3,10,13,1,0,2,1,2,10,13.1,+14,Scot Pollard
+2002-01-06,26-328,SAC,HOME,MIL,W (+14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2002-01-13,26-335,SAC,HOME,PHO,W (+3),1,28:23,2,4,.500,0,0,,1,1,1.000,1,5,6,0,2,0,3,3,5,3.0,+3,Scot Pollard
+2002-01-15,26-337,SAC,HOME,CLE,W (+7),0,20:09,2,3,.667,0,0,,4,5,.800,0,4,4,0,2,0,0,3,8,8.3,+15,Scot Pollard
+2002-01-16,26-338,SAC,AWAY,DEN,W (+5),0,18:02,2,6,.333,0,0,,0,0,,3,2,5,0,0,2,0,1,4,4.3,-3,Scot Pollard
+2002-01-18,26-340,SAC,HOME,GSW,W (+24),0,12:34,3,5,.600,0,0,,0,0,,2,0,2,1,1,2,0,5,6,6.2,+12,Scot Pollard
+2002-01-21,26-343,SAC,HOME,MEM,W (+14),0,25:12,7,11,.636,0,0,,0,0,,4,7,11,0,1,0,1,3,14,12.8,+6,Scot Pollard
+2002-01-22,26-344,SAC,AWAY,POR,L (-6),0,18:20,0,2,.000,0,0,,0,0,,1,3,4,0,1,0,0,3,0,0.0,-8,Scot Pollard
+2002-01-24,26-346,SAC,HOME,UTA,W (+33),0,25:06,2,3,.667,0,0,,0,0,,3,5,8,1,3,0,2,4,4,6.4,+15,Scot Pollard
+2002-01-26,26-348,SAC,AWAY,UTA,W (+24),0,31:44,5,6,.833,0,0,,0,0,,5,10,15,1,2,0,0,0,10,17.0,+28,Scot Pollard
+2002-01-31,26-353,SAC,AWAY,SEA,W (+4),1,30:27,4,4,1.000,0,0,,2,4,.500,1,5,6,0,1,2,1,2,10,10.8,+6,Scot Pollard
+2002-02-01,26-354,SAC,HOME,DEN,W (+36),0,20:44,2,6,.333,0,0,,0,0,,4,6,10,0,1,1,1,2,4,5.1,+6,Scot Pollard
+2002-02-03,26-356,SAC,AWAY,MIN,W (+5),0,20:52,4,4,1.000,0,0,,1,1,1.000,1,1,2,0,1,2,0,1,9,10.8,+4,Scot Pollard
+2002-02-04,26-357,SAC,AWAY,NJN,L (-34),0,22:03,2,3,.667,0,0,,6,6,1.000,3,1,4,0,0,0,1,2,10,9.3,-16,Scot Pollard
+2002-02-06,26-359,SAC,AWAY,BOS,W (+17),1,35:51,4,6,.667,0,0,,1,2,.500,1,8,9,1,0,2,2,4,9,7.6,+4,Scot Pollard
+2002-02-07,26-360,SAC,AWAY,WAS,L (-7),0,18:38,0,4,.000,0,0,,2,2,1.000,2,4,6,0,0,0,0,0,2,1.8,-9,Scot Pollard
+2002-02-12,27-000,SAC,HOME,SAS,W (+13),0,24:21,3,4,.750,0,0,,4,4,1.000,3,8,11,0,0,0,1,5,10,9.9,+9,Scot Pollard
+2002-02-14,27-002,SAC,HOME,WAS,W (+16),0,24:37,2,2,1.000,0,0,,3,6,.500,2,9,11,0,0,0,0,0,7,9.3,+10,Scot Pollard
+2002-02-17,27-005,SAC,HOME,SEA,L (-10),0,7:14,1,2,.500,0,0,,0,0,,0,0,0,0,1,0,0,0,2,2.0,-4,Scot Pollard
+2002-02-19,27-007,SAC,HOME,ATL,W (+20),0,9:24,1,1,1.000,0,0,,2,2,1.000,0,1,1,0,0,0,0,1,4,3.6,+7,Scot Pollard
+2002-02-21,27-009,SAC,AWAY,SAS,L (-23),0,21:14,4,4,1.000,0,0,,2,2,1.000,1,4,5,2,3,4,1,3,10,15.7,+7,Scot Pollard
+2002-02-23,27-011,SAC,AWAY,DAL,L (-14),0,21:00,1,2,.500,0,0,,2,2,1.000,1,4,5,1,0,1,1,1,4,4.9,-10,Scot Pollard
+2002-02-26,27-014,SAC,HOME,UTA,W (+26),0,21:18,4,5,.800,0,0,,0,1,.000,4,3,7,1,3,1,2,3,8,10.6,+7,Scot Pollard
+2002-03-01,27-017,SAC,AWAY,GSW,W (+8),0,14:11,3,3,1.000,0,0,,0,0,,2,6,8,1,1,2,5,5,6,4.4,+15,Scot Pollard
+2002-03-03,27-019,SAC,HOME,IND,L (-11),0,25:41,2,3,.667,0,0,,1,1,1.000,2,3,5,1,2,1,0,3,5,8.2,-1,Scot Pollard
+2002-03-04,27-020,SAC,AWAY,POR,L (-12),0,24:51,1,2,.500,0,0,,1,1,1.000,0,3,3,1,0,1,0,2,3,3.5,-1,Scot Pollard
+2002-03-08,27-024,SAC,HOME,CHH,W (+12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2002-03-10,27-026,SAC,AWAY,MIL,W (+25),0,14:42,1,1,1.000,0,0,,0,0,,1,1,2,1,0,0,0,0,2,3.4,+2,Scot Pollard
+2002-03-11,27-027,SAC,AWAY,CHI,W (+4),0,16:03,3,4,.750,0,0,,1,1,1.000,2,2,4,3,0,0,1,5,7,6.5,+16,Scot Pollard
+2002-03-13,27-029,SAC,AWAY,PHI,W (+4),0,20:26,1,4,.250,0,0,,0,0,,2,4,6,0,0,3,1,3,2,2.1,+2,Scot Pollard
+2002-03-14,27-030,SAC,AWAY,NYK,L (-17),1,33:10,3,7,.429,0,0,,2,4,.500,8,8,16,0,1,1,2,5,8,9.2,-18,Scot Pollard
+2002-03-17,27-033,SAC,AWAY,TOR,W (+3),0,17:44,2,4,.500,0,0,,3,5,.600,2,2,4,0,2,0,1,3,7,6.0,-6,Scot Pollard
+2002-03-19,27-035,SAC,HOME,HOU,W (+23),0,26:24,2,4,.500,0,0,,0,0,,2,5,7,0,0,2,0,3,4,5.1,+13,Scot Pollard
+2002-03-21,27-037,SAC,HOME,DEN,W (+36),0,14:37,1,3,.333,0,0,,4,4,1.000,2,3,5,0,0,0,1,6,6,3.2,-10,Scot Pollard
+2002-03-24,27-040,SAC,HOME,LAL,L (-1),0,14:44,0,1,.000,0,0,,0,0,,0,2,2,0,2,0,0,3,0,0.7,-9,Scot Pollard
+2002-03-26,27-042,SAC,HOME,LAC,W (+17),0,27:52,1,5,.200,0,0,,4,5,.800,3,4,7,1,0,2,1,0,6,6.9,-4,Scot Pollard
+2002-03-28,27-044,SAC,AWAY,HOU,W (+27),0,24:52,1,6,.167,0,0,,3,4,.750,2,6,8,0,0,1,0,2,5,3.9,+18,Scot Pollard
+2002-03-29,27-045,SAC,AWAY,CHH,W (+5),0,22:27,1,3,.333,0,0,,0,0,,1,5,6,1,1,1,2,5,2,0.9,-4,Scot Pollard
+2002-03-31,27-047,SAC,AWAY,ATL,W (+1),0,22:22,4,5,.800,0,0,,1,1,1.000,3,6,9,0,1,1,0,1,9,12.3,+15,Scot Pollard
+2002-04-02,27-049,SAC,AWAY,MEM,W (+24),0,20:53,3,3,1.000,0,0,,2,2,1.000,2,8,10,0,0,2,0,2,8,11.5,-4,Scot Pollard
+2002-04-03,27-050,SAC,AWAY,DET,W (+21),0,18:13,2,2,1.000,0,0,,0,0,,2,6,8,1,0,0,1,2,4,5.5,0,Scot Pollard
+2002-04-05,27-052,SAC,AWAY,UTA,W (+8),0,6:40,1,2,.500,0,0,,0,0,,1,1,2,0,0,0,1,2,2,0.2,0,Scot Pollard
+2002-04-07,27-054,SAC,HOME,NYK,W (+34),0,19:22,4,6,.667,0,0,,4,4,1.000,4,5,9,0,0,0,1,2,12,11.9,+25,Scot Pollard
+2002-04-09,27-056,SAC,HOME,MIN,W (+19),0,20:04,3,8,.375,0,0,,5,6,.833,5,3,8,0,2,0,1,2,11,10.8,+4,Scot Pollard
+2002-04-10,27-057,SAC,AWAY,GSW,W (+2),0,15:56,3,6,.500,0,0,,4,4,1.000,1,2,3,0,0,0,1,5,10,5.3,-6,Scot Pollard
+2002-04-12,27-059,SAC,AWAY,LAC,W (+19),0,20:59,5,6,.833,0,0,,0,0,,2,2,4,0,1,1,0,2,10,10.7,+10,Scot Pollard
+2002-04-14,27-061,SAC,HOME,DAL,L (-13),0,15:11,1,1,1.000,0,0,,2,3,.667,1,1,2,0,0,1,0,0,4,5.0,-4,Scot Pollard
+2002-04-16,27-063,SAC,HOME,GSW,W (+14),1,36:00,9,12,.750,0,0,,5,6,.833,5,9,14,3,0,2,2,2,23,24.7,+3,Scot Pollard
+2002-04-17,27-064,SAC,AWAY,LAL,L (-14),0,27:12,4,6,.667,0,0,,0,0,,1,10,11,0,2,1,3,2,8,8.0,-1,Scot Pollard
+2000-10-31,25-262,SAC,AWAY,CHI,W (+19),0,17:30,2,4,.500,0,0,,0,0,,1,6,7,1,1,0,0,4,4,4.6,+11,Scot Pollard
+2000-11-01,25-263,SAC,AWAY,CLE,L (-2),0,36:38,3,6,.500,0,0,,6,9,.667,2,4,6,0,2,2,1,4,12,11.2,+6,Scot Pollard
+2000-11-03,25-265,SAC,AWAY,DET,W (+7),0,31:02,7,15,.467,0,0,,1,2,.500,8,6,14,1,0,1,2,2,15,12.9,+9,Scot Pollard
+2000-11-04,25-266,SAC,AWAY,MIN,L (-8),0,12:18,0,7,.000,0,0,,0,0,,3,3,6,0,0,1,2,4,0,-4.8,+7,Scot Pollard
+2000-11-06,25-268,SAC,HOME,POR,W (+4),0,9:23,2,4,.500,0,0,,3,3,1.000,2,1,3,0,0,2,0,3,7,6.9,-3,Scot Pollard
+2000-11-08,25-270,SAC,HOME,GSW,W (+31),0,26:22,2,6,.333,0,0,,0,1,.000,3,2,5,2,1,2,2,2,4,3.9,+20,Scot Pollard
+2000-11-10,25-272,SAC,AWAY,GSW,W (+7),0,16:17,1,1,1.000,0,0,,4,5,.800,0,1,1,0,0,0,0,5,6,3.6,+4,Scot Pollard
+2000-11-12,25-274,SAC,HOME,DAL,W (+25),0,17:15,1,2,.500,0,0,,0,0,,3,5,8,1,0,1,0,1,2,5.6,+9,Scot Pollard
+2000-11-14,25-276,SAC,HOME,ORL,W (+14),1,33:45,10,11,.909,0,0,,2,2,1.000,2,2,4,1,1,1,3,4,22,18.1,+27,Scot Pollard
+2000-11-16,25-278,SAC,HOME,LAL,L (-2),0,11:51,0,0,,0,0,,0,0,,1,1,2,0,0,0,0,4,0,-0.6,-9,Scot Pollard
+2000-11-22,25-284,SAC,HOME,CHI,W (+29),0,12:52,1,3,.333,0,0,,0,0,,1,1,2,0,1,1,2,1,2,0.6,+3,Scot Pollard
+2000-11-25,25-287,SAC,HOME,SEA,W (+24),0,9:09,1,2,.500,0,0,,1,1,1.000,2,2,4,1,0,0,0,1,3,4.3,-2,Scot Pollard
+2000-11-28,25-290,SAC,AWAY,HOU,W (+7),0,17:40,2,4,.500,0,0,,0,0,,1,1,2,0,2,1,2,5,4,1.7,-6,Scot Pollard
+2000-11-29,25-291,SAC,AWAY,SAS,L (-3),0,17:39,1,3,.333,0,0,,0,0,,1,1,2,0,0,1,3,6,2,-3.4,+10,Scot Pollard
+2000-12-01,25-293,SAC,HOME,PHO,W (+7),0,23:07,5,6,.833,0,0,,4,4,1.000,1,3,4,1,0,3,1,2,14,14.4,+6,Scot Pollard
+2000-12-05,25-297,SAC,HOME,SAS,W (+6),0,20:12,2,8,.250,0,0,,0,0,,5,2,7,1,0,1,1,5,4,1.7,+7,Scot Pollard
+2000-12-08,25-300,SAC,HOME,HOU,W (+13),0,15:38,3,5,.600,0,1,.000,4,4,1.000,2,2,4,0,0,1,2,3,10,7.2,+11,Scot Pollard
+2000-12-10,25-302,SAC,HOME,MIA,W (+4),0,30:13,3,6,.500,0,1,.000,4,4,1.000,4,4,8,0,2,2,0,5,10,12.4,+7,Scot Pollard
+2000-12-12,25-304,SAC,AWAY,ATL,L (-8),0,15:21,1,5,.200,0,0,,0,0,,4,3,7,0,1,1,1,3,2,2.1,-7,Scot Pollard
+2000-12-13,25-305,SAC,AWAY,CHH,L (-11),0,21:25,0,3,.000,0,0,,0,0,,0,6,6,1,2,0,0,0,0,2.4,+3,Scot Pollard
+2000-12-15,25-307,SAC,AWAY,BOS,W (+23),0,21:27,1,6,.167,0,0,,2,2,1.000,4,2,6,1,1,0,1,3,4,3.1,+8,Scot Pollard
+2000-12-17,25-309,SAC,AWAY,NJN,W (+16),0,24:59,3,6,.500,0,0,,1,3,.333,2,4,6,0,1,3,1,6,7,5.5,+7,Scot Pollard
+2000-12-19,25-311,SAC,HOME,WAS,W (+34),0,18:01,2,5,.400,0,0,,0,1,.000,1,7,8,0,1,4,1,2,4,5.7,+24,Scot Pollard
+2000-12-20,25-312,SAC,AWAY,SEA,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2000-12-22,25-314,SAC,AWAY,VAN,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2000-12-23,25-315,SAC,HOME,SEA,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2000-12-28,25-320,SAC,HOME,CHH,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2000-12-30,25-322,SAC,HOME,PHI,L (-3),0,33:00,1,2,.500,0,0,,4,4,1.000,1,5,6,3,1,2,1,3,6,9.5,+18,Scot Pollard
+2001-01-02,25-325,SAC,HOME,PHO,W (+4),0,26:56,2,5,.400,0,0,,1,1,1.000,2,5,7,1,1,1,2,5,5,3.6,+13,Scot Pollard
+2001-01-05,25-328,SAC,HOME,IND,L (-2),0,10:02,0,0,,0,0,,1,2,.500,0,1,1,0,0,0,0,2,1,0.1,-5,Scot Pollard
+2001-01-08,25-331,SAC,HOME,MIN,W (+3),0,16:33,2,4,.500,0,0,,2,2,1.000,2,1,3,0,2,2,1,1,6,7.7,+4,Scot Pollard
+2001-01-10,25-333,SAC,HOME,CLE,W (+5),0,30:19,3,3,1.000,0,0,,0,0,,3,7,10,2,1,5,1,4,6,12.6,+7,Scot Pollard
+2001-01-12,25-335,SAC,AWAY,DEN,L (-13),0,18:57,4,6,.667,0,0,,1,2,.500,2,1,3,0,0,2,0,2,9,8.3,-7,Scot Pollard
+2001-01-13,25-336,SAC,AWAY,HOU,W (+3),0,5:41,0,1,.000,0,0,,0,0,,1,0,1,1,0,0,1,2,0,-1.1,+5,Scot Pollard
+2001-01-15,25-338,SAC,AWAY,DAL,W (+11),0,17:23,1,4,.250,0,0,,0,0,,0,3,3,0,1,1,1,2,2,0.4,-4,Scot Pollard
+2001-01-17,25-340,SAC,HOME,BOS,W (+5),0,13:10,2,3,.667,0,0,,1,1,1.000,0,1,1,1,0,0,0,5,5,2.7,-7,Scot Pollard
+2001-01-20,25-343,SAC,AWAY,POR,W (+10),0,12:21,0,1,.000,0,0,,0,0,,1,0,1,1,0,0,0,4,0,-0.9,+7,Scot Pollard
+2001-01-21,25-344,SAC,AWAY,SEA,L (-2),0,1:58,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,2,2,0.9,-6,Scot Pollard
+2001-01-23,25-346,SAC,HOME,NJN,W (+26),0,15:01,3,4,.750,0,0,,8,8,1.000,4,2,6,0,2,2,0,3,14,18.0,+13,Scot Pollard
+2001-01-25,25-348,SAC,HOME,SAS,L (-6),0,17:17,1,3,.333,0,0,,0,0,,1,3,4,0,0,0,0,2,2,1.1,+3,Scot Pollard
+2001-01-27,25-350,SAC,AWAY,LAC,W (+12),0,17:15,4,6,.667,0,0,,5,6,.833,0,3,3,0,1,0,0,1,13,11.5,-1,Scot Pollard
+2001-01-30,25-353,SAC,HOME,GSW,W (+26),0,19:10,5,8,.625,0,0,,1,1,1.000,3,9,12,0,0,4,1,1,11,13.6,+27,Scot Pollard
+2001-02-02,25-356,SAC,HOME,VAN,W (+10),0,18:34,0,1,.000,0,0,,3,4,.750,1,2,3,1,0,0,2,1,3,1.5,+2,Scot Pollard
+2001-02-04,25-358,SAC,AWAY,LAL,L (-6),0,26:50,5,9,.556,0,0,,3,3,1.000,3,3,6,0,0,0,0,3,13,10.5,+16,Scot Pollard
+2001-02-06,25-360,SAC,AWAY,MIL,L (-3),0,25:33,2,5,.400,0,0,,1,2,.500,2,7,9,1,0,3,1,2,5,6.4,+5,Scot Pollard
+2001-02-07,25-361,SAC,AWAY,MIN,L (-29),0,17:05,1,4,.250,0,0,,0,2,.000,0,4,4,0,1,1,1,0,2,0.7,-11,Scot Pollard
+2001-02-13,26-001,SAC,AWAY,UTA,W (+3),0,34:00,1,5,.200,0,0,,2,4,.500,3,5,8,0,5,1,3,6,4,4.0,-3,Scot Pollard
+2001-02-15,26-003,SAC,AWAY,POR,L (-24),0,24:52,3,10,.300,0,0,,2,2,1.000,2,5,7,3,1,1,2,1,8,6.5,0,Scot Pollard
+2001-02-16,26-004,SAC,HOME,DEN,W (+33),0,23:05,4,7,.571,0,0,,1,2,.500,3,8,11,0,0,2,0,2,9,10.4,+15,Scot Pollard
+2001-02-18,26-006,SAC,HOME,UTA,L (-4),0,21:12,1,4,.250,0,0,,0,0,,2,3,5,0,0,1,5,6,2,-4.8,-1,Scot Pollard
+2001-02-20,26-008,SAC,HOME,ATL,W (+14),1,38:35,5,11,.455,0,0,,0,0,,2,9,11,3,1,1,1,3,10,10.0,+8,Scot Pollard
+2001-02-22,26-010,SAC,AWAY,WAS,W (+5),1,34:24,3,9,.333,0,0,,1,2,.500,4,10,14,1,0,1,0,3,7,7.5,+6,Scot Pollard
+2001-02-23,26-011,SAC,AWAY,TOR,W (+1),1,56:09,7,14,.500,0,0,,5,6,.833,5,12,17,2,0,4,1,2,19,21.1,+8,Scot Pollard
+2001-02-25,26-013,SAC,AWAY,NYK,L (-2),1,41:20,5,8,.625,0,0,,0,0,,2,11,13,1,0,1,1,1,10,11.1,+5,Scot Pollard
+2001-02-27,26-015,SAC,HOME,LAC,W (+13),1,42:33,7,11,.636,0,0,,3,5,.600,3,8,11,2,1,2,2,2,17,16.8,+18,Scot Pollard
+2001-02-28,26-016,SAC,AWAY,GSW,W (+21),1,31:44,4,10,.400,0,0,,5,5,1.000,4,6,10,2,1,2,2,0,13,14.0,+7,Scot Pollard
+2001-03-02,26-018,SAC,AWAY,LAC,L (-7),1,42:41,4,8,.500,0,0,,7,7,1.000,4,14,18,1,0,1,1,3,15,17.2,+3,Scot Pollard
+2001-03-06,26-022,SAC,HOME,TOR,W (+7),0,24:08,1,4,.250,0,0,,1,4,.250,2,4,6,0,0,0,0,4,3,0.4,+4,Scot Pollard
+2001-03-07,26-023,SAC,AWAY,PHO,W (+11),0,16:29,4,6,.667,0,0,,0,0,,3,4,7,1,0,1,1,0,8,9.1,+13,Scot Pollard
+2001-03-09,26-025,SAC,HOME,DEN,W (+6),0,15:48,0,6,.000,0,0,,2,2,1.000,4,2,6,0,0,2,0,3,2,1.4,+5,Scot Pollard
+2001-03-11,26-027,SAC,HOME,UTA,W (+15),0,14:44,2,4,.500,0,0,,4,6,.667,1,3,4,0,0,0,0,4,8,5.2,+5,Scot Pollard
+2001-03-13,26-029,SAC,AWAY,ORL,W (+6),0,8:32,0,1,.000,0,0,,3,4,.750,0,2,2,0,1,1,0,4,3,2.6,-1,Scot Pollard
+2001-03-14,26-030,SAC,AWAY,MIA,L (-10),Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Player Suspended,Scot Pollard
+2001-03-16,26-032,SAC,AWAY,PHI,W (+21),0,30:41,5,5,1.000,0,0,,0,0,,4,5,9,0,1,5,1,1,10,15.9,+10,Scot Pollard
+2001-03-18,26-034,SAC,AWAY,IND,L (-6),0,15:07,1,2,.500,0,0,,0,0,,1,2,3,0,0,1,0,1,2,2.6,-8,Scot Pollard
+2001-03-20,26-036,SAC,HOME,HOU,W (+16),0,11:38,2,3,.667,0,0,,0,0,,1,1,2,0,0,1,0,5,4,2.4,-12,Scot Pollard
+2001-03-22,26-038,SAC,HOME,DET,W (+5),0,22:23,1,4,.250,0,0,,1,2,.500,1,1,2,1,0,1,1,5,3,-0.4,0,Scot Pollard
+2001-03-25,26-041,SAC,HOME,LAL,L (-12),0,14:59,2,3,.667,0,0,,2,2,1.000,4,2,6,1,0,2,1,5,6,7.2,-7,Scot Pollard
+2001-03-27,26-043,SAC,HOME,NYK,W (+7),0,18:38,1,3,.333,0,0,,0,0,,1,2,3,0,1,0,0,1,2,2.2,-11,Scot Pollard
+2001-03-28,26-044,SAC,AWAY,LAL,W (+24),0,15:17,0,2,.000,0,0,,0,0,,1,1,2,1,1,1,0,3,0,0.8,+14,Scot Pollard
+2001-03-30,26-046,SAC,HOME,MIN,W (+12),0,25:02,4,9,.444,0,0,,10,12,.833,7,6,13,2,4,5,2,3,18,24.9,+9,Scot Pollard
+2001-04-01,26-048,SAC,HOME,DAL,L (-12),0,7:10,1,2,.500,0,0,,0,0,,0,0,0,0,1,1,0,1,2,2.3,-3,Scot Pollard
+2001-04-03,26-050,SAC,HOME,MIL,L (-6),0,20:28,3,8,.375,0,0,,1,1,1.000,4,2,6,0,0,2,0,1,7,7.0,-10,Scot Pollard
+2001-04-05,26-052,SAC,AWAY,UTA,W (+6),0,22:40,1,2,.500,0,0,,0,0,,3,3,6,0,1,1,0,3,2,4.5,+9,Scot Pollard
+2001-04-06,26-053,SAC,AWAY,VAN,W (+28),0,28:00,3,4,.750,0,0,,3,4,.750,3,7,10,1,1,0,0,2,9,12.1,+7,Scot Pollard
+2001-04-08,26-055,SAC,HOME,POR,W (+9),0,22:21,4,9,.444,0,0,,2,5,.400,5,1,6,0,0,1,0,2,10,7.8,+4,Scot Pollard
+2001-04-10,26-057,SAC,HOME,LAC,W (+7),0,18:13,2,2,1.000,0,0,,4,5,.800,2,5,7,0,0,1,1,1,8,9.2,-3,Scot Pollard
+2001-04-12,26-059,SAC,AWAY,SAS,W (+2),0,17:00,0,3,.000,0,0,,0,0,,1,3,4,0,1,1,2,1,0,-1.2,+3,Scot Pollard
+2001-04-13,26-060,SAC,AWAY,DAL,L (-4),0,21:02,3,10,.300,0,0,,2,2,1.000,3,1,4,1,0,1,0,0,8,6.0,-12,Scot Pollard
+2001-04-15,26-062,SAC,AWAY,PHO,L (-2),0,15:58,1,2,.500,0,0,,2,4,.500,1,5,6,1,0,0,1,2,4,3.3,-6,Scot Pollard
+2001-04-16,26-063,SAC,HOME,VAN,W (+10),0,22:24,2,6,.333,0,0,,0,2,.000,3,4,7,0,0,0,0,2,4,2.3,+8,Scot Pollard
+2001-04-18,26-065,SAC,AWAY,DEN,L (-10),0,38:11,8,10,.800,0,0,,2,4,.500,5,9,14,1,1,1,1,3,18,19.8,-14,Scot Pollard
+2005-11-09,30-270,IND,HOME,MIA,W (+5),0,6:32,1,2,.500,0,0,,2,2,1.000,3,0,3,0,1,0,0,2,4,5.3,+3,Scot Pollard
+2005-11-12,30-273,IND,AWAY,MIL,L (-1),1,23:52,2,4,.500,0,0,,1,1,1.000,2,4,6,0,3,0,0,4,5,7.0,+4,Scot Pollard
+2005-11-16,30-277,IND,AWAY,CHA,L (-32),1,15:39,3,3,1.000,0,0,,1,2,.500,1,2,3,0,1,0,0,4,7,6.4,+1,Scot Pollard
+2005-11-18,30-279,IND,HOME,CHA,W (+8),1,7:05,0,0,,0,0,,0,0,,0,0,0,0,0,1,1,0,0,-0.3,+6,Scot Pollard
+2005-11-20,30-281,IND,HOME,HOU,W (+11),1,23:14,1,4,.250,0,0,,0,0,,1,6,7,0,1,0,1,4,2,0.5,-2,Scot Pollard
+2005-11-24,30-285,IND,HOME,CLE,W (+22),1,11:19,1,3,.333,0,0,,0,0,,1,3,4,0,0,0,0,2,2,1.1,-3,Scot Pollard
+2005-12-04,30-295,IND,AWAY,SEA,L (-5),1,20:16,3,3,1.000,0,0,,0,0,,1,3,4,0,2,1,0,2,6,8.6,-2,Scot Pollard
+2005-12-08,30-299,IND,HOME,WAS,W (+24),0,2:23,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-6,Scot Pollard
+2005-12-14,30-305,IND,AWAY,BOS,L (-14),0,4:48,0,0,,0,0,,0,0,,2,1,3,0,0,1,1,1,0,1.0,+1,Scot Pollard
+2005-12-26,30-317,IND,AWAY,DAL,L (-22),0,6:43,0,1,.000,0,0,,0,0,,2,1,3,0,0,0,0,0,0,1.0,+6,Scot Pollard
+2005-12-27,30-318,IND,AWAY,SAS,L (-13),0,17:45,1,3,.333,0,0,,1,1,1.000,0,5,5,0,1,0,0,3,3,2.6,-13,Scot Pollard
+2006-01-02,30-324,IND,HOME,SEA,W (+19),0,10:42,0,1,.000,0,0,,1,2,.500,2,1,3,1,0,0,2,3,1,-0.9,-1,Scot Pollard
+2006-01-04,30-326,IND,AWAY,DEN,L (-20),0,24:47,4,7,.571,0,0,,0,0,,1,2,3,0,1,1,0,2,8,6.9,+3,Scot Pollard
+2006-01-08,30-330,IND,AWAY,SAC,W (+25),0,13:56,2,5,.400,0,0,,0,0,,2,2,4,0,2,0,1,2,4,3.5,-4,Scot Pollard
+2006-01-13,30-335,IND,HOME,WAS,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2006-01-14,30-336,IND,AWAY,CHI,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2006-01-16,30-338,IND,AWAY,NJN,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2006-01-18,30-340,IND,HOME,CHA,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2006-01-20,30-342,IND,AWAY,MIN,L (-5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2006-01-23,30-345,IND,AWAY,ATL,L (-10),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Scot Pollard
+2006-01-24,30-346,IND,AWAY,CLE,L (-30),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Scot Pollard
+2006-01-27,30-349,IND,HOME,CLE,L (-4),1,16:58,3,6,.500,0,0,,0,0,,0,1,1,1,0,0,0,3,6,2.8,0,Scot Pollard
+2006-01-31,30-353,IND,AWAY,WAS,L (-5),0,26:44,3,5,.600,0,0,,1,1,1.000,5,7,12,0,0,0,3,3,7,6.1,-4,Scot Pollard
+2006-02-01,30-354,IND,HOME,LAL,W (+26),1,14:42,1,1,1.000,0,0,,0,0,,1,0,1,2,2,0,0,5,2,3.8,+15,Scot Pollard
+2006-02-04,30-357,IND,HOME,DET,W (+8),1,30:34,3,9,.333,0,0,,0,0,,3,11,14,0,1,1,0,1,6,7.6,+5,Scot Pollard
+2006-02-08,30-361,IND,HOME,POR,W (+32),1,21:34,3,7,.429,0,0,,0,0,,6,10,16,2,1,1,1,3,6,10.4,+20,Scot Pollard
+2006-02-10,30-363,IND,HOME,GSW,W (+12),1,20:20,2,2,1.000,0,0,,5,6,.833,1,2,3,2,1,0,0,5,9,9.7,+24,Scot Pollard
+2006-02-12,31-000,IND,HOME,SAS,L (-4),1,32:19,3,7,.429,0,0,,3,4,.750,3,4,7,1,3,2,2,6,9,8.9,-7,Scot Pollard
+2006-02-15,31-003,IND,HOME,MIL,W (+11),1,23:01,1,5,.200,0,0,,0,0,,1,4,5,1,0,1,0,1,2,1.8,+2,Scot Pollard
+2006-02-21,31-009,IND,HOME,NOK,W (+22),1,24:38,1,5,.200,0,0,,0,0,,3,6,9,1,1,0,0,2,2,3.7,+15,Scot Pollard
+2006-02-23,31-011,IND,AWAY,DET,L (-5),1,28:16,2,7,.286,0,0,,1,2,.500,6,5,11,2,0,0,2,3,5,4.4,-16,Scot Pollard
+2006-02-24,31-012,IND,HOME,ATL,L (-5),1,21:14,2,4,.500,0,0,,0,0,,3,2,5,1,0,0,1,3,4,3.2,-14,Scot Pollard
+2006-02-26,31-014,IND,AWAY,NJN,W (+10),1,13:31,0,1,.000,0,0,,0,0,,0,3,3,0,0,0,1,4,0,-2.4,+6,Scot Pollard
+2006-03-01,31-017,IND,AWAY,WAS,W (+6),1,20:29,2,6,.333,0,0,,0,0,,0,2,2,0,1,1,0,1,4,2.5,+6,Scot Pollard
+2006-03-03,31-019,IND,AWAY,BOS,L (-1),1,18:27,2,5,.400,0,0,,1,1,1.000,0,3,3,2,0,1,0,0,5,5.3,+1,Scot Pollard
+2006-03-05,31-021,IND,AWAY,PHI,W (+1),1,23:30,3,5,.600,0,0,,0,0,,1,4,5,2,1,0,1,3,6,5.8,+4,Scot Pollard
+2006-03-07,31-023,IND,HOME,NYK,L (-15),1,19:18,2,7,.286,0,0,,1,2,.500,4,5,9,0,2,0,1,3,5,4.6,+3,Scot Pollard
+2006-03-08,31-024,IND,AWAY,HOU,L (-4),1,30:27,2,7,.286,0,0,,0,0,,1,1,2,1,4,1,0,4,4,4.7,+1,Scot Pollard
+2006-03-10,31-026,IND,AWAY,NOK,W (+2),1,24:57,4,4,1.000,0,0,,1,1,1.000,3,6,9,0,0,2,0,5,9,11.1,-5,Scot Pollard
+2006-03-12,31-028,IND,AWAY,TOR,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2006-03-13,31-029,IND,HOME,ORL,W (+14),1,14:57,1,3,.333,0,0,,0,0,,0,2,2,2,0,0,2,3,2,-0.9,-10,Scot Pollard
+2006-03-15,31-031,IND,HOME,DEN,L (-2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2006-03-17,31-033,IND,HOME,SAC,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2006-03-19,31-035,IND,HOME,BOS,L (-15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2006-03-21,31-037,IND,AWAY,MEM,L (-30),1,19:56,1,4,.250,0,0,,0,0,,0,4,4,1,0,0,0,2,2,0.7,-11,Scot Pollard
+2006-03-27,31-043,IND,AWAY,MIA,L (-5),1,26:41,3,3,1.000,0,0,,0,0,,3,4,7,0,2,1,1,4,6,8.5,-13,Scot Pollard
+2006-03-29,31-045,IND,AWAY,ATL,L (-1),0,3:16,1,1,1.000,0,0,,2,3,.667,2,0,2,0,0,0,1,0,4,3.7,+4,Scot Pollard
+2006-03-30,31-046,IND,HOME,PHO,L (-10),1,4:54,1,3,.333,0,0,,0,0,,0,1,1,1,0,0,0,0,2,1.3,-8,Scot Pollard
+2006-04-01,31-048,IND,AWAY,MIL,L (-7),0,5:40,1,1,1.000,0,0,,2,2,1.000,0,2,2,0,0,0,0,1,4,3.9,-2,Scot Pollard
+2006-04-07,31-054,IND,AWAY,NYK,L (-2),1,15:31,1,1,1.000,0,0,,1,2,.500,0,3,3,0,2,2,1,2,3,4.8,-4,Scot Pollard
+2006-04-10,31-057,IND,HOME,NYK,W (+19),1,12:50,1,1,1.000,0,0,,2,2,1.000,1,4,5,0,1,2,1,4,4,5.4,-3,Scot Pollard
+2006-04-12,31-059,IND,HOME,BOS,W (+5),0,5:49,0,2,.000,0,0,,2,2,1.000,1,0,1,0,1,0,1,1,2,0.9,0,Scot Pollard
+2006-04-14,31-061,IND,HOME,MIN,W (+12),1,15:47,0,1,.000,0,0,,0,0,,3,4,7,0,1,0,0,2,0,2.8,+4,Scot Pollard
+2006-04-15,31-062,IND,AWAY,CHA,L (-1),1,20:01,1,3,.333,0,0,,0,0,,1,6,7,0,1,1,0,2,2,3.7,+14,Scot Pollard
+2006-04-17,31-064,IND,AWAY,TOR,W (+25),1,17:47,1,1,1.000,0,0,,1,2,.500,2,6,8,0,0,0,0,4,3,3.9,+24,Scot Pollard
+2006-04-19,31-066,IND,HOME,ORL,W (+6),0,8:17,1,1,1.000,0,0,,0,0,,1,3,4,1,0,0,1,5,2,1.0,+7,Scot Pollard
+2002-10-29,27-259,SAC,HOME,CLE,W (+27),0,18:25,1,2,.500,0,0,,0,0,,1,3,4,0,1,1,0,3,2,3.1,+8,Scot Pollard
+2002-10-31,27-261,SAC,HOME,POR,W (+28),0,5:23,0,0,,0,0,,0,0,,0,1,1,0,1,0,1,3,0,-0.9,+2,Scot Pollard
+2002-11-02,27-263,SAC,AWAY,MEM,W (+17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2002-11-03,27-264,SAC,AWAY,MIA,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2002-11-05,27-266,SAC,AWAY,ORL,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2002-11-06,27-267,SAC,AWAY,NYK,L (-7),0,10:18,0,3,.000,0,0,,1,2,.500,0,1,1,0,0,0,1,1,1,-2.6,-7,Scot Pollard
+2002-11-08,27-269,SAC,HOME,MEM,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2002-11-10,27-271,SAC,HOME,ATL,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2002-11-13,27-274,SAC,AWAY,GSW,W (+11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2002-11-17,27-278,SAC,HOME,ORL,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2002-11-19,27-280,SAC,HOME,CHI,W (+13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2002-11-20,27-281,SAC,AWAY,LAC,W (+4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2002-11-22,27-283,SAC,HOME,PHO,W (+17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2002-11-23,27-284,SAC,AWAY,POR,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2002-11-27,27-288,SAC,AWAY,MIN,L (-16),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2002-11-29,27-290,SAC,HOME,LAC,W (+13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2002-12-01,27-292,SAC,HOME,HOU,W (+19),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2002-12-03,27-294,SAC,HOME,MIN,W (+12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2002-12-04,27-295,SAC,AWAY,DEN,W (+2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2002-12-06,27-297,SAC,HOME,DEN,W (+21),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2002-12-08,27-299,SAC,AWAY,SAS,W (+24),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2002-12-10,27-301,SAC,AWAY,HOU,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2003-01-26,27-348,SAC,AWAY,TOR,L (-4),0,3:51,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,2,0,-1.2,+2,Scot Pollard
+2003-01-28,27-350,SAC,HOME,UTA,L (-10),0,11:29,1,1,1.000,0,0,,1,2,.500,0,1,1,0,1,1,1,3,3,2.1,+9,Scot Pollard
+2003-01-31,27-353,SAC,HOME,LAL,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2003-02-02,27-355,SAC,AWAY,HOU,L (-16),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Scot Pollard
+2003-02-04,27-357,SAC,AWAY,DAL,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2003-02-05,27-358,SAC,AWAY,NOH,L (-24),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Scot Pollard
+2003-02-11,27-364,SAC,HOME,WAS,W (+19),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2003-03-03,28-019,SAC,HOME,PHI,W (+8),0,5:13,1,1,1.000,0,0,,0,0,,0,0,0,0,0,1,0,3,2,1.2,-2,Scot Pollard
+2003-03-05,28-021,SAC,HOME,MIN,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2003-03-09,28-025,SAC,HOME,IND,W (+19),0,4:59,0,0,,0,0,,0,0,,1,1,2,0,0,0,0,0,0,1.0,-2,Scot Pollard
+2003-03-13,28-029,SAC,AWAY,PHO,L (-25),0,11:33,0,0,,0,0,,0,0,,0,2,2,0,0,1,0,2,0,0.5,-10,Scot Pollard
+2003-03-14,28-030,SAC,HOME,TOR,W (+35),0,25:58,6,8,.750,0,0,,2,3,.667,2,4,6,1,3,2,1,1,14,16.7,+17,Scot Pollard
+2003-03-18,28-034,SAC,HOME,GSW,W (+26),0,22:46,7,13,.538,0,0,,1,2,.500,6,6,12,0,1,0,1,1,15,13.9,+26,Scot Pollard
+2003-03-20,28-036,SAC,HOME,LAL,W (+8),0,10:18,3,5,.600,0,0,,0,0,,3,3,6,0,1,0,1,4,6,5.1,-1,Scot Pollard
+2003-03-22,28-038,SAC,AWAY,POR,W (+9),0,10:40,1,4,.250,0,0,,0,0,,0,2,2,2,0,0,0,3,2,0.4,+7,Scot Pollard
+2003-03-23,28-039,SAC,HOME,HOU,W (+1),0,26:30,3,6,.500,0,0,,0,0,,3,5,8,1,0,3,0,5,6,7.4,+5,Scot Pollard
+2003-03-27,28-043,SAC,HOME,LAC,W (+10),0,15:51,0,3,.000,0,0,,0,0,,2,3,5,1,1,1,1,1,0,1.2,-3,Scot Pollard
+2003-03-29,28-045,SAC,AWAY,CHI,W (+15),0,23:11,4,7,.571,0,0,,3,5,.600,5,8,13,1,1,2,1,2,11,14.1,+6,Scot Pollard
+2003-04-01,28-048,SAC,AWAY,IND,W (+5),0,26:55,3,7,.429,0,0,,7,10,.700,8,8,16,0,1,1,1,4,13,15.2,+18,Scot Pollard
+2003-04-02,28-049,SAC,AWAY,WAS,W (+6),0,14:13,2,4,.500,0,0,,2,4,.500,2,1,3,0,1,0,0,3,6,4.7,+14,Scot Pollard
+2003-04-04,28-051,SAC,AWAY,BOS,W (+1),0,12:43,1,1,1.000,0,0,,3,4,.750,1,1,2,0,0,1,4,1,5,1.6,-2,Scot Pollard
+2003-04-06,28-053,SAC,AWAY,PHI,W (+16),0,6:05,0,2,.000,0,0,,0,0,,2,0,2,0,0,0,0,2,0,-0.8,-6,Scot Pollard
+2003-04-08,28-055,SAC,HOME,SEA,W (+22),0,12:43,1,2,.500,0,0,,1,2,.500,2,2,4,0,0,1,0,0,3,4.3,+7,Scot Pollard
+2003-04-10,28-057,SAC,AWAY,LAL,L (-13),0,7:52,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,4,0,-2.0,-4,Scot Pollard
+2003-04-11,28-058,SAC,HOME,DEN,W (+2),0,18:05,3,7,.429,0,0,,0,0,,3,5,8,0,1,0,0,1,6,6.5,+2,Scot Pollard
+2003-04-16,28-063,SAC,HOME,UTA,W (+11),0,18:54,3,9,.333,0,0,,2,4,.500,5,1,6,0,0,0,2,1,8,3.5,+8,Scot Pollard
+2003-10-29,28-259,IND,AWAY,DET,W (+2),1,18:40,1,7,.143,0,0,,0,0,,2,2,4,0,1,2,0,4,2,0.3,+2,Scot Pollard
+2003-10-31,28-261,IND,HOME,MIL,L (-14),1,14:28,1,4,.250,0,0,,0,0,,3,1,4,0,1,0,0,2,2,2.2,-17,Scot Pollard
+2003-11-01,28-262,IND,AWAY,ATL,W (+4),0,15:05,0,3,.000,0,0,,1,2,.500,2,3,5,1,1,0,1,3,1,0.3,+8,Scot Pollard
+2003-11-04,28-265,IND,HOME,DEN,W (+11),0,5:27,0,1,.000,0,0,,0,0,,0,0,0,0,1,0,0,0,0,0.3,-7,Scot Pollard
+2003-11-06,28-267,IND,AWAY,NJN,W (+6),0,10:22,1,3,.333,0,0,,0,0,,1,1,2,0,0,0,1,4,2,-1.3,0,Scot Pollard
+2003-11-07,28-268,IND,HOME,CLE,W (+1),0,11:05,0,0,,0,0,,0,0,,0,1,1,0,1,0,1,3,0,-0.9,-7,Scot Pollard
+2003-11-09,28-270,IND,AWAY,PHI,W (+11),0,9:03,0,1,.000,0,0,,2,2,1.000,0,1,1,0,0,2,0,2,2,2.2,-3,Scot Pollard
+2003-11-11,28-272,IND,HOME,BOS,L (-2),0,10:43,0,1,.000,0,0,,0,0,,1,4,5,0,0,3,0,0,0,3.3,-1,Scot Pollard
+2003-11-14,28-275,IND,HOME,SEA,W (+23),0,10:56,0,2,.000,0,0,,0,0,,0,2,2,0,1,2,0,1,0,1.2,-7,Scot Pollard
+2003-11-15,28-276,IND,AWAY,NYK,W (+1),0,5:23,1,2,.500,0,0,,0,0,,0,1,1,0,0,0,0,1,2,0.9,-3,Scot Pollard
+2003-11-19,28-280,IND,HOME,LAC,W (+13),0,13:13,1,4,.250,0,0,,0,0,,2,4,6,1,1,0,0,2,2,3.1,+5,Scot Pollard
+2003-11-21,28-282,IND,AWAY,NOH,W (+1),0,9:27,3,3,1.000,0,0,,1,2,.500,1,1,2,0,1,0,0,1,7,7.3,+6,Scot Pollard
+2003-11-24,28-285,IND,AWAY,ORL,W (+11),0,8:57,1,2,.500,0,0,,0,0,,1,1,2,0,0,0,0,1,2,1.6,-7,Scot Pollard
+2003-11-27,28-288,IND,HOME,NYK,W (+23),0,18:20,0,1,.000,0,0,,0,0,,2,1,3,1,1,1,1,3,0,1.2,-1,Scot Pollard
+2003-11-28,28-289,IND,HOME,PHI,W (+13),0,12:48,1,3,.333,0,0,,0,0,,4,2,6,1,0,0,1,2,2,2.6,-10,Scot Pollard
+2003-11-30,28-291,IND,AWAY,LAL,L (-22),0,21:15,2,3,.667,0,0,,1,1,1.000,1,2,3,0,1,1,1,3,5,4.5,-10,Scot Pollard
+2003-12-01,28-292,IND,AWAY,PHO,W (+7),0,8:38,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,1,0,-1.1,-10,Scot Pollard
+2003-12-03,28-294,IND,AWAY,POR,L (-2),0,9:40,0,2,.000,0,0,,0,0,,0,1,1,0,0,0,0,3,0,-2.3,+2,Scot Pollard
+2003-12-05,28-296,IND,AWAY,SEA,W (+7),0,2:34,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,0,1,2,0.6,-2,Scot Pollard
+2003-12-07,28-298,IND,AWAY,SAC,L (-3),1,10:48,1,2,.500,0,0,,0,0,,1,0,1,0,2,1,1,1,2,3.0,-4,Scot Pollard
+2003-12-12,28-303,IND,HOME,ATL,W (+11),0,3:13,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,1,2,0,-2.2,0,Scot Pollard
+2003-12-15,28-306,IND,HOME,CLE,W (+10),0,8:30,1,3,.333,0,0,,0,0,,1,1,2,0,1,0,0,3,2,1.1,+7,Scot Pollard
+2003-12-20,28-311,IND,AWAY,MIN,L (-22),0,12:58,1,3,.333,0,0,,0,0,,1,3,4,0,0,0,0,1,2,1.5,+9,Scot Pollard
+2003-12-23,28-314,IND,AWAY,HOU,W (+8),0,14:53,1,3,.333,0,0,,0,0,,3,2,5,0,0,0,1,5,2,0.0,-6,Scot Pollard
+2003-12-26,28-317,IND,AWAY,MIL,L (-5),0,4:31,0,0,,0,0,,0,0,,0,2,2,0,0,0,0,1,0,0.2,+1,Scot Pollard
+2004-01-03,28-325,IND,HOME,NOH,W (+7),0,12:17,0,1,.000,0,0,,0,0,,1,3,4,0,1,0,0,2,0,1.1,+4,Scot Pollard
+2004-01-06,28-328,IND,HOME,ORL,W (+7),0,7:35,0,1,.000,0,0,,0,0,,1,1,2,1,0,0,0,2,0,0.2,-12,Scot Pollard
+2004-01-10,28-332,IND,AWAY,SAS,L (-1),0,18:33,0,1,.000,0,0,,0,0,,1,3,4,0,0,0,0,1,0,0.5,-5,Scot Pollard
+2004-01-14,28-336,IND,HOME,ATL,W (+7),0,13:24,1,4,.250,0,0,,0,0,,2,2,4,0,0,0,1,1,2,0.2,-10,Scot Pollard
+2004-01-16,28-338,IND,HOME,SAS,W (+10),0,13:39,1,3,.333,0,0,,1,2,.500,2,2,4,0,0,1,0,3,3,2.4,-1,Scot Pollard
+2004-01-17,28-339,IND,AWAY,NJN,W (+6),0,4:57,1,1,1.000,0,0,,0,0,,2,0,2,0,1,0,1,1,2,2.7,-9,Scot Pollard
+2004-01-19,28-341,IND,AWAY,ATL,W (+3),0,17:03,2,2,1.000,0,0,,0,0,,1,4,5,0,0,2,1,0,4,5.7,+2,Scot Pollard
+2004-01-20,28-342,IND,HOME,DET,W (+12),0,13:41,0,0,,0,0,,0,0,,1,0,1,0,0,3,1,3,0,0.6,-8,Scot Pollard
+2004-01-23,28-345,IND,HOME,HOU,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2004-01-24,28-346,IND,AWAY,WAS,L (-11),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Scot Pollard
+2004-01-28,28-350,IND,HOME,PHO,W (+22),0,18:05,1,5,.200,0,0,,2,2,1.000,0,3,3,0,0,1,0,2,4,1.7,+9,Scot Pollard
+2004-01-31,28-353,IND,HOME,BOS,W (+1),0,14:40,1,2,.500,0,0,,0,0,,2,1,3,0,1,0,0,0,2,3.7,0,Scot Pollard
+2004-02-02,28-355,IND,HOME,LAL,W (+13),0,9:27,0,1,.000,0,0,,0,0,,0,1,1,0,1,0,0,2,0,-0.2,-3,Scot Pollard
+2004-02-03,28-356,IND,AWAY,NYK,L (-7),0,5:57,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,3,2,0.5,-3,Scot Pollard
+2004-02-06,28-359,IND,AWAY,TOR,W (+6),0,7:57,0,2,.000,0,0,,0,0,,2,0,2,0,0,1,0,0,0,0.7,+2,Scot Pollard
+2004-02-08,28-361,IND,HOME,MIA,W (+6),0,17:27,3,4,.750,0,0,,0,2,.000,6,3,9,0,1,0,1,2,6,7.9,+11,Scot Pollard
+2004-02-10,28-363,IND,AWAY,CHI,W (+19),0,20:23,2,2,1.000,0,0,,0,0,,2,6,8,0,1,0,1,2,4,5.8,+8,Scot Pollard
+2004-02-17,29-005,IND,HOME,NOH,L (-14),0,13:50,1,1,1.000,0,0,,0,0,,0,0,0,1,1,1,0,3,2,2.9,-2,Scot Pollard
+2004-02-20,29-008,IND,AWAY,WAS,W (+9),0,11:58,0,0,,0,0,,1,2,.500,1,2,3,0,0,0,0,2,1,1.1,0,Scot Pollard
+2004-02-22,29-010,IND,HOME,UTA,W (+14),0,13:50,3,3,1.000,0,0,,1,1,1.000,1,2,3,1,0,0,0,0,7,8.1,+7,Scot Pollard
+2004-02-24,29-012,IND,HOME,GSW,W (+11),0,13:08,0,1,.000,0,0,,0,0,,4,2,6,0,0,2,1,0,0,3.1,+12,Scot Pollard
+2004-02-27,29-015,IND,AWAY,NOH,L (-12),0,17:09,2,6,.333,0,0,,0,2,.000,4,3,7,0,0,0,0,2,4,2.7,-7,Scot Pollard
+2004-02-28,29-016,IND,HOME,PHI,W (+7),0,12:31,1,1,1.000,0,0,,0,0,,1,0,1,1,0,0,0,3,2,1.9,-8,Scot Pollard
+2004-03-02,29-019,IND,AWAY,GSW,W (+8),0,8:30,0,0,,0,0,,0,0,,0,3,3,0,0,0,0,4,0,-0.7,-7,Scot Pollard
+2004-03-03,29-020,IND,AWAY,LAC,W (+7),0,4:52,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,1,0,2,0.7,-3,Scot Pollard
+2004-03-05,29-022,IND,AWAY,UTA,W (+8),0,4:44,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,-0.1,+3,Scot Pollard
+2004-03-12,29-029,IND,AWAY,BOS,W (+18),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2004-03-17,29-034,IND,HOME,POR,W (+9),0,4:21,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-5,Scot Pollard
+2004-03-19,29-036,IND,HOME,SAC,L (-2),0,5:06,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,2,0,-0.5,+5,Scot Pollard
+2004-03-20,29-037,IND,AWAY,MEM,L (-4),0,5:16,0,1,.000,0,0,,0,0,,1,1,2,0,0,0,1,1,0,-1.1,-4,Scot Pollard
+2004-03-22,29-039,IND,HOME,CHI,W (+24),0,11:31,0,1,.000,0,0,,0,0,,1,1,2,1,2,1,1,1,0,2.3,0,Scot Pollard
+2004-03-24,29-041,IND,HOME,DAL,W (+4),0,6:00,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,2,2.0,-6,Scot Pollard
+2004-03-26,29-043,IND,AWAY,ORL,W (+15),0,16:06,2,3,.667,0,0,,2,3,.667,1,0,1,0,1,0,0,1,6,5.6,+7,Scot Pollard
+2004-03-28,29-045,IND,HOME,MIA,W (+7),0,5:19,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,+7,Scot Pollard
+2004-03-30,29-047,IND,AWAY,MIL,L (-9),0,11:44,0,1,.000,0,0,,0,0,,1,2,3,0,0,0,1,2,0,-1.2,+9,Scot Pollard
+2004-04-02,29-050,IND,HOME,TOR,W (+20),0,5:27,0,1,.000,0,0,,0,0,,0,2,2,0,0,0,1,3,0,-2.3,-5,Scot Pollard
+2004-04-04,29-052,IND,AWAY,DET,L (-18),0,6:47,1,1,1.000,0,0,,0,0,,1,2,3,0,0,0,0,3,2,1.8,-6,Scot Pollard
+2004-04-06,29-054,IND,HOME,NYK,W (+21),0,14:51,1,1,1.000,0,0,,0,0,,0,3,3,0,0,0,0,3,2,1.4,+2,Scot Pollard
+2004-04-14,29-062,IND,HOME,CHI,W (+5),0,20:11,4,4,1.000,0,0,,0,0,,2,4,6,1,0,2,0,4,8,9.9,-7,Scot Pollard
+2006-11-03,31-264,CLE,AWAY,SAS,W (+7),0,1:56,0,2,.000,0,0,,0,0,,2,0,2,0,0,0,0,2,0,-0.8,+1,Scot Pollard
+2006-11-18,31-279,CLE,AWAY,WAS,L (-12),0,7:20,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,+10,Scot Pollard
+2006-12-02,31-293,CLE,AWAY,HOU,L (-18),0,3:23,0,1,.000,0,0,,0,0,,1,2,3,0,0,0,0,0,0,0.6,-1,Scot Pollard
+2006-12-13,31-304,CLE,HOME,CHA,W (+3),0,0:15,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0,Scot Pollard
+2006-12-21,31-312,CLE,HOME,DET,L (-16),0,2:07,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2,Scot Pollard
+2007-01-17,31-339,CLE,AWAY,POR,L (-18),0,5:20,0,1,.000,0,0,,1,2,.500,0,1,1,0,1,0,0,1,1,0.8,+2,Scot Pollard
+2007-01-22,31-344,CLE,HOME,ORL,L (-11),0,1:02,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,Scot Pollard
+2007-01-24,31-346,CLE,HOME,PHI,L (-3),0,1:06,0,1,.000,0,0,,0,0,,1,0,1,0,0,0,0,0,0,0.0,0,Scot Pollard
+2007-01-30,31-352,CLE,HOME,GSW,W (+27),0,5:28,1,3,.333,0,0,,1,2,.500,4,0,4,0,0,0,0,0,3,3.7,+3,Scot Pollard
+2007-02-01,31-354,CLE,AWAY,MIA,L (-3),0,5:17,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,1,4,2,-1.6,-9,Scot Pollard
+2007-02-02,31-355,CLE,HOME,CHA,W (+20),0,5:57,2,3,.667,0,0,,0,0,,0,1,1,0,1,0,0,1,4,3.6,-1,Scot Pollard
+2007-02-09,31-362,CLE,HOME,MIA,W (+24),0,2:34,0,1,.000,0,0,,0,0,,0,1,1,1,0,0,0,3,0,-0.9,-2,Scot Pollard
+2007-02-14,32-002,CLE,AWAY,UTA,L (-1),0,7:08,1,1,1.000,0,0,,0,0,,1,0,1,0,0,0,0,0,2,2.4,0,Scot Pollard
+2007-02-15,32-003,CLE,AWAY,LAL,W (+6),0,6:44,0,0,,0,0,,0,0,,1,1,2,0,0,0,0,3,0,-0.2,-4,Scot Pollard
+2007-02-21,32-009,CLE,AWAY,TOR,W (+1),0,3:55,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-1.4,0,Scot Pollard
+2007-02-22,32-010,CLE,HOME,CHI,L (-6),0,5:23,0,1,.000,0,0,,0,0,,1,1,2,0,1,0,1,1,0,-0.1,-7,Scot Pollard
+2007-02-25,32-013,CLE,AWAY,MIA,L (-5),0,1:55,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-2,Scot Pollard
+2007-03-23,32-039,CLE,HOME,NYK,W (+22),0,4:32,0,1,.000,0,0,,0,0,,0,0,0,0,1,0,0,0,0,0.3,+1,Scot Pollard
+2007-03-28,32-044,CLE,AWAY,NYK,L (-4),0,3:52,2,2,1.000,0,0,,0,0,,2,0,2,0,0,0,0,2,4,4.0,-2,Scot Pollard
+2007-04-01,32-048,CLE,AWAY,BOS,L (-2),0,11:05,2,4,.500,0,0,,0,0,,2,2,4,2,0,1,1,1,4,4.7,+6,Scot Pollard
+2007-04-03,32-050,CLE,AWAY,MIN,W (+13),0,1:39,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-0.4,-1,Scot Pollard
+2007-04-05,32-052,CLE,HOME,MIA,L (-4),0,10:18,1,1,1.000,0,0,,0,0,,0,3,3,0,0,0,0,5,2,0.6,+3,Scot Pollard
+2007-04-06,32-053,CLE,AWAY,WAS,W (+5),0,0:42,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-2,Scot Pollard
+2007-04-14,32-061,CLE,HOME,ATL,W (+34),0,9:47,1,1,1.000,0,0,,0,0,,0,2,2,0,0,0,0,2,2,1.5,+1,Scot Pollard
+2007-11-02,32-263,BOS,HOME,WAS,W (+20),0,8:53,0,1,.000,0,0,,0,0,,0,0,0,0,0,1,0,3,0,-1.2,+9,Scot Pollard
+2007-11-04,32-265,BOS,AWAY,TOR,W (+3),0,3:39,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-8,Scot Pollard
+2007-11-13,32-274,BOS,AWAY,IND,W (+15),0,10:36,2,3,.667,0,0,,1,2,.500,2,0,2,0,0,0,0,2,5,3.9,+3,Scot Pollard
+2007-11-16,32-277,BOS,HOME,MIA,W (+1),0,7:24,1,1,1.000,0,0,,1,1,1.000,1,4,5,0,0,0,0,2,3,3.8,-3,Scot Pollard
+2007-11-18,32-279,BOS,AWAY,ORL,L (-2),0,6:01,1,1,1.000,0,0,,0,0,,0,2,2,0,0,0,0,2,2,1.5,+7,Scot Pollard
+2007-11-21,32-282,BOS,HOME,GSW,W (+23),0,9:20,0,1,.000,0,0,,4,6,.667,2,2,4,0,0,0,0,0,4,4.5,+1,Scot Pollard
+2007-11-23,32-284,BOS,HOME,LAL,W (+13),0,1:28,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7,-2,Scot Pollard
+2007-11-24,32-285,BOS,AWAY,CHA,W (+1),0,10:55,0,1,.000,0,0,,5,6,.833,0,2,2,0,0,1,1,2,5,3.4,-4,Scot Pollard
+2007-11-27,32-288,BOS,AWAY,CLE,L (-5),0,4:53,1,2,.500,0,0,,0,0,,0,1,1,0,0,0,0,3,2,0.1,0,Scot Pollard
+2007-11-30,32-291,BOS,AWAY,MIA,W (+10),0,11:19,0,1,.000,0,0,,0,0,,1,3,4,1,0,0,1,3,0,-0.6,0,Scot Pollard
+2007-12-12,32-303,BOS,HOME,SAC,W (+12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2007-12-14,32-305,BOS,HOME,MIL,W (+22),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2007-12-19,32-310,BOS,HOME,DET,L (-2),0,7:11,0,0,,0,0,,0,0,,0,1,1,0,1,0,0,2,0,0.5,0,Scot Pollard
+2007-12-21,32-312,BOS,HOME,CHI,W (+25),0,5:18,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,4,0,-1.6,+8,Scot Pollard
+2007-12-23,32-314,BOS,HOME,ORL,W (+12),0,7:52,0,0,,0,0,,1,2,.500,0,0,0,0,0,1,0,1,1,0.9,-10,Scot Pollard
+2007-12-26,32-317,BOS,AWAY,SAC,W (+20),0,10:33,1,2,.500,0,0,,0,0,,3,2,5,1,0,0,0,2,2,3.6,0,Scot Pollard
+2007-12-27,32-318,BOS,AWAY,SEA,W (+8),0,13:33,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,4,0,-2.6,+2,Scot Pollard
+2007-12-30,32-321,BOS,AWAY,LAL,W (+19),0,11:09,0,1,.000,0,0,,0,0,,0,1,1,0,1,1,0,3,0,0.1,+17,Scot Pollard
+2008-01-02,32-324,BOS,HOME,HOU,W (+4),0,13:44,4,5,.800,0,0,,2,3,.667,2,3,5,1,1,0,1,6,10,8.3,+3,Scot Pollard
+2008-01-04,32-326,BOS,HOME,MEM,W (+4),0,3:53,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,0,Scot Pollard
+2008-01-05,32-327,BOS,AWAY,DET,W (+7),0,5:09,1,1,1.000,0,0,,0,0,,1,1,2,0,0,1,0,1,2,3.0,-1,Scot Pollard
+2008-01-09,32-331,BOS,HOME,CHA,L (-12),0,9:54,0,0,,0,0,,0,0,,0,1,1,0,0,1,0,0,0,1.0,+1,Scot Pollard
+2008-01-25,32-347,BOS,HOME,MIN,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2008-02-22,33-010,BOS,AWAY,PHO,L (-8),0,3:28,0,2,.000,0,0,,1,2,.500,1,0,1,0,0,0,1,0,1,-1.1,+4,Scot Pollard
+2008-02-24,33-012,BOS,AWAY,POR,W (+10),0,6:41,0,0,,0,0,,0,0,,1,0,1,0,0,0,0,1,0,0.3,-13,Scot Pollard
+1999-11-05,24-266,SAC,HOME,MIN,W (+5),0,14:34,1,2,.500,0,0,,2,2,1.000,3,3,6,0,2,1,0,0,4,8.7,+9,Scot Pollard
+1999-11-06,24-267,SAC,AWAY,MIN,L (-13),0,16:13,3,4,.750,0,0,,1,2,.500,1,2,3,0,0,0,0,3,7,5.1,-5,Scot Pollard
+1999-11-12,24-273,SAC,HOME,UTA,W (+13),0,17:31,1,2,.500,0,0,,2,2,1.000,1,4,5,1,1,2,0,5,4,6.0,+1,Scot Pollard
+1999-11-14,24-275,SAC,HOME,DEN,W (+10),0,8:22,1,2,.500,0,0,,0,0,,0,2,2,0,0,0,0,1,2,1.2,+2,Scot Pollard
+1999-11-16,24-277,SAC,HOME,VAN,W (+4),0,14:44,3,6,.500,0,0,,1,3,.333,3,2,5,1,0,4,1,1,7,8.0,-4,Scot Pollard
+1999-11-18,24-279,SAC,AWAY,HOU,W (+18),0,28:09,2,7,.286,0,0,,4,4,1.000,5,4,9,1,3,2,2,5,8,9.7,+19,Scot Pollard
+1999-11-19,24-280,SAC,AWAY,DAL,W (+9),0,18:43,1,3,.333,0,0,,2,2,1.000,4,8,12,0,0,0,0,2,4,6.7,+11,Scot Pollard
+1999-11-21,24-282,SAC,HOME,HOU,W (+5),0,21:51,6,10,.600,0,0,,0,0,,5,2,7,0,0,1,0,3,12,11.0,+6,Scot Pollard
+1999-11-23,24-284,SAC,HOME,NJN,W (+13),1,9:45,0,2,.000,0,0,,2,2,1.000,1,2,3,0,0,0,0,0,2,1.9,-4,Scot Pollard
+1999-11-26,24-287,SAC,HOME,GSW,W (+29),0,23:10,5,5,1.000,0,0,,4,6,.667,1,4,5,0,1,2,0,3,14,14.8,+16,Scot Pollard
+1999-11-29,24-290,SAC,AWAY,MIA,L (-10),0,12:05,1,3,.333,0,0,,0,0,,0,5,5,0,0,0,0,4,2,0.2,+2,Scot Pollard
+1999-11-30,24-291,SAC,AWAY,ORL,W (+9),0,9:08,0,1,.000,0,0,,0,0,,0,0,0,0,0,1,0,0,0,0.0,-2,Scot Pollard
+1999-12-02,24-293,SAC,AWAY,ATL,L (-10),0,8:31,3,4,.750,0,0,,0,0,,2,3,5,1,0,0,0,1,6,7.0,-1,Scot Pollard
+1999-12-04,24-295,SAC,AWAY,WAS,W (+10),0,12:21,0,0,,0,0,,2,2,1.000,2,4,6,0,0,0,1,6,2,1.2,+4,Scot Pollard
+1999-12-06,24-297,SAC,AWAY,NJN,L (-14),0,9:52,3,3,1.000,0,0,,0,0,,2,0,2,0,0,0,0,0,6,6.5,-5,Scot Pollard
+1999-12-08,24-299,SAC,HOME,LAL,W (+12),0,17:41,1,2,.500,0,0,,1,2,.500,2,3,5,2,2,0,1,4,3,4.7,+12,Scot Pollard
+1999-12-10,24-301,SAC,HOME,MIA,L (-10),0,23:25,5,5,1.000,0,0,,1,1,1.000,3,3,6,0,0,0,0,2,11,11.7,+7,Scot Pollard
+1999-12-11,24-302,SAC,HOME,POR,L (-5),0,19:47,0,1,.000,0,0,,2,4,.500,2,5,7,0,3,0,2,1,2,4.0,+4,Scot Pollard
+1999-12-15,24-306,SAC,AWAY,VAN,W (+3),0,17:09,1,1,1.000,0,0,,1,2,.500,1,4,5,0,1,1,0,3,3,4.7,+3,Scot Pollard
+1999-12-16,24-307,SAC,AWAY,DEN,L (-10),0,17:56,0,2,.000,0,0,,4,6,.667,2,2,4,0,1,1,2,2,4,2.7,-8,Scot Pollard
+1999-12-18,24-309,SAC,AWAY,PHO,L (-16),0,12:08,1,4,.250,0,0,,1,2,.500,2,3,5,0,0,0,0,4,3,0.9,-16,Scot Pollard
+1999-12-20,24-311,SAC,AWAY,GSW,L (-12),0,13:57,4,5,.800,0,0,,0,0,,5,4,9,0,0,1,2,5,8,7.5,-5,Scot Pollard
+1999-12-21,24-312,SAC,HOME,MIL,W (+13),1,22:49,3,6,.500,0,0,,6,8,.750,5,5,10,0,0,0,2,5,12,9.2,+9,Scot Pollard
+1999-12-23,24-314,SAC,AWAY,LAC,L (-6),0,13:25,0,0,,0,0,,0,2,.000,1,0,1,0,0,1,0,2,0,-0.2,-11,Scot Pollard
+1999-12-26,24-317,SAC,HOME,DAL,W (+7),0,16:58,5,6,.833,0,0,,3,4,.750,2,4,6,1,0,0,0,1,13,13.3,-15,Scot Pollard
+1999-12-28,24-319,SAC,HOME,BOS,W (+13),0,13:45,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,1,6,0,-3.8,+7,Scot Pollard
+1999-12-29,24-320,SAC,AWAY,SEA,W (+9),0,11:47,1,1,1.000,0,0,,0,0,,1,3,4,2,1,0,2,1,2,3.3,+5,Scot Pollard
+2000-01-04,24-326,SAC,AWAY,CLE,W (+4),0,3:49,0,1,.000,0,0,,2,2,1.000,2,0,2,0,0,1,0,0,2,3.4,-5,Scot Pollard
+2000-01-06,24-328,SAC,AWAY,TOR,L (-12),0,14:45,2,3,.667,0,0,,2,2,1.000,0,2,2,0,0,1,0,2,6,5.2,-11,Scot Pollard
+2000-01-07,24-329,SAC,AWAY,BOS,L (-8),0,20:37,1,2,.500,0,0,,0,0,,2,2,4,2,0,0,1,3,2,2.2,-5,Scot Pollard
+2000-01-09,24-331,SAC,HOME,IND,W (+3),0,12:22,2,2,1.000,0,0,,0,0,,0,3,3,0,0,2,0,3,4,4.5,-6,Scot Pollard
+2000-01-11,24-333,SAC,HOME,HOU,W (+17),0,21:32,2,3,.667,0,0,,3,4,.750,0,5,5,1,5,0,0,3,7,11.3,+5,Scot Pollard
+2000-01-13,24-335,SAC,HOME,SAS,W (+4),0,14:26,0,3,.000,0,0,,0,0,,2,4,6,1,0,1,0,5,0,-0.1,-5,Scot Pollard
+2000-01-15,24-337,SAC,AWAY,GSW,W (+15),0,6:34,0,1,.000,0,0,,0,2,.000,1,1,2,1,0,0,0,3,0,-1.0,+2,Scot Pollard
+2000-01-16,24-338,SAC,HOME,CLE,W (+11),0,22:16,5,5,1.000,0,0,,1,2,.500,1,5,6,0,1,3,0,5,11,12.4,+6,Scot Pollard
+2000-01-18,24-340,SAC,HOME,LAC,W (+6),0,8:27,2,2,1.000,0,0,,2,2,1.000,0,2,2,0,0,0,0,1,6,5.6,+6,Scot Pollard
+2000-01-20,24-342,SAC,HOME,ORL,W (+8),0,13:20,0,1,.000,0,0,,2,2,1.000,2,4,6,1,1,0,1,3,2,3.4,+13,Scot Pollard
+2000-01-22,24-344,SAC,HOME,UTA,L (-3),0,12:04,2,3,.667,0,0,,1,1,1.000,2,3,5,0,0,2,0,2,5,6.6,-8,Scot Pollard
+2000-01-25,24-347,SAC,AWAY,CHH,W (+11),0,18:46,0,2,.000,0,0,,0,0,,1,3,4,2,1,1,2,5,0,-0.7,-3,Scot Pollard
+2000-01-26,24-348,SAC,AWAY,MIL,L (-8),0,25:58,3,9,.333,0,0,,3,4,.750,6,2,8,2,0,0,0,2,9,8.9,+5,Scot Pollard
+2000-01-28,24-350,SAC,AWAY,CHI,W (+12),0,11:36,1,4,.250,0,0,,1,2,.500,2,1,3,0,2,0,1,2,3,2.1,+1,Scot Pollard
+2000-01-30,24-352,SAC,AWAY,NYK,L (-9),0,18:12,2,4,.500,0,0,,2,2,1.000,3,2,5,0,0,1,1,6,6,4.0,+8,Scot Pollard
+2000-01-31,24-353,SAC,AWAY,MIN,L (-15),0,24:44,5,7,.714,0,0,,3,4,.750,2,2,4,3,1,2,3,2,13,12.4,+6,Scot Pollard
+2000-02-02,24-355,SAC,AWAY,DET,W (+3),0,13:45,0,0,,0,0,,4,6,.667,0,3,3,0,1,0,1,2,4,3.3,-4,Scot Pollard
+2000-02-04,24-357,SAC,AWAY,IND,L (-10),0,13:26,0,2,.000,0,0,,0,0,,1,3,4,0,1,1,0,1,0,1.5,-6,Scot Pollard
+2000-02-06,24-359,SAC,AWAY,PHI,L (-11),0,23:53,6,6,1.000,0,0,,5,6,.833,5,4,9,0,2,2,1,2,17,21.1,+2,Scot Pollard
+2000-02-08,24-361,SAC,HOME,CHI,W (+39),0,17:46,1,2,.500,0,0,,2,2,1.000,1,5,6,0,0,1,1,4,4,3.3,+16,Scot Pollard
+2000-02-10,24-363,SAC,HOME,DEN,W (+12),0,9:50,1,1,1.000,0,0,,0,0,,1,1,2,0,0,0,0,5,2,0.7,+7,Scot Pollard
+2000-02-15,25-003,SAC,HOME,PHO,L (-9),0,4:31,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+4,Scot Pollard
+2000-02-17,25-005,SAC,AWAY,UTA,L (-11),0,27:28,2,4,.500,0,0,,3,4,.750,3,6,9,0,1,0,0,4,7,7.9,+4,Scot Pollard
+2000-02-18,25-006,SAC,HOME,SEA,W (+33),0,24:21,2,6,.333,0,0,,4,4,1.000,3,11,14,0,1,2,1,4,8,9.8,+19,Scot Pollard
+2000-02-20,25-008,SAC,HOME,POR,L (-5),0,29:18,1,2,.500,0,0,,4,7,.571,3,4,7,2,1,1,2,3,6,7.0,-4,Scot Pollard
+2000-02-21,25-009,SAC,AWAY,DEN,L (-6),0,32:04,4,12,.333,0,0,,0,0,,6,8,14,3,2,3,1,5,8,11.0,+9,Scot Pollard
+2000-02-23,25-011,SAC,HOME,ATL,L (-6),0,12:22,2,5,.400,0,0,,3,3,1.000,4,6,10,0,0,1,0,1,7,9.2,-1,Scot Pollard
+2000-02-26,25-014,SAC,AWAY,VAN,L (-12),0,7:35,2,3,.667,0,0,,0,0,,3,1,4,0,0,0,0,0,4,5.1,+3,Scot Pollard
+2000-02-29,25-017,SAC,HOME,VAN,W (+25),0,24:53,5,6,.833,0,0,,0,0,,3,7,10,3,1,0,0,3,10,13.9,+27,Scot Pollard
+2000-03-02,25-019,SAC,AWAY,HOU,L (-3),0,35:41,4,6,.667,0,0,,2,3,.667,3,7,10,3,3,1,1,3,10,14.8,0,Scot Pollard
+2000-03-04,25-021,SAC,AWAY,SAS,W (+5),0,30:49,5,7,.714,0,0,,3,4,.750,4,5,9,0,3,0,0,5,13,15.0,+7,Scot Pollard
+2000-03-06,25-023,SAC,HOME,DAL,W (+21),0,11:57,3,5,.600,0,0,,0,3,.000,3,0,3,0,0,0,1,1,6,3.2,+2,Scot Pollard
+2000-03-21,25-038,SAC,HOME,WAS,W (+12),0,14:00,0,0,,0,0,,0,0,,2,3,5,0,1,0,3,1,0,-0.1,+9,Scot Pollard
+2000-03-22,25-039,SAC,AWAY,PHO,L (-21),0,22:52,3,5,.600,0,0,,2,3,.667,1,3,4,0,1,2,1,1,8,7.9,-3,Scot Pollard
+2000-03-24,25-041,SAC,HOME,DET,W (+10),0,15:09,1,2,.500,0,0,,4,6,.667,4,4,8,0,1,0,3,3,6,5.0,+9,Scot Pollard
+2000-03-26,25-043,SAC,HOME,LAL,L (-1),0,19:32,1,5,.200,0,0,,3,4,.750,5,2,7,1,0,0,1,4,5,3.7,-6,Scot Pollard
+2000-03-28,25-045,SAC,HOME,NYK,W (+8),0,15:08,1,1,1.000,0,0,,1,2,.500,0,0,0,0,2,1,0,1,3,4.6,+12,Scot Pollard
+2000-03-31,25-048,SAC,AWAY,SEA,L (-15),0,21:23,1,3,.333,0,0,,2,2,1.000,2,2,4,1,1,3,2,3,4,4.9,+6,Scot Pollard
+2000-04-02,25-050,SAC,HOME,PHI,W (+22),0,9:50,0,3,.000,0,0,,0,0,,1,1,2,1,0,0,0,3,0,-1.6,-5,Scot Pollard
+2000-04-04,25-052,SAC,AWAY,DAL,L (-3),0,15:06,3,6,.500,0,0,,1,1,1.000,4,6,10,2,0,1,0,1,7,10.3,-3,Scot Pollard
+2000-04-05,25-053,SAC,AWAY,SAS,W (+10),1,38:34,3,12,.250,0,0,,1,3,.333,3,2,5,3,2,2,1,5,7,4.2,+14,Scot Pollard
+2000-04-07,25-055,SAC,HOME,MIN,L (-3),1,31:47,4,7,.571,0,0,,3,3,1.000,5,3,8,0,1,0,1,3,11,10.9,-16,Scot Pollard
+2000-04-09,25-057,SAC,HOME,PHO,L (-5),0,14:38,1,5,.200,0,0,,0,0,,3,1,4,0,0,1,0,3,2,0.8,-3,Scot Pollard
+2000-04-11,25-059,SAC,HOME,SAS,L (-6),0,18:01,0,2,.000,0,0,,0,0,,2,1,3,0,0,0,1,5,0,-2.7,-12,Scot Pollard
+2000-04-13,25-061,SAC,HOME,GSW,W (+23),0,24:10,3,3,1.000,0,0,,3,5,.600,1,4,5,1,2,0,1,5,9,8.9,+1,Scot Pollard
+2000-04-14,25-062,SAC,AWAY,LAL,L (-7),0,14:25,2,2,1.000,0,0,,2,2,1.000,1,3,4,0,0,1,0,4,6,6.1,-2,Scot Pollard
+2000-04-16,25-064,SAC,AWAY,POR,L (-7),0,16:00,3,4,.750,0,0,,1,1,1.000,2,1,3,1,1,2,1,3,7,8.0,-7,Scot Pollard
+2000-04-18,25-066,SAC,HOME,SEA,L (-7),0,28:29,3,7,.429,0,0,,0,0,,6,5,11,0,1,3,0,4,6,9.5,+6,Scot Pollard
+2000-04-19,25-067,SAC,AWAY,UTA,L (-9),1,17:39,4,8,.500,0,0,,0,0,,1,1,2,0,0,0,1,4,8,2.4,-13,Scot Pollard
+2004-11-03,29-265,IND,AWAY,CLE,W (+5),1,45:40,5,9,.556,0,0,,0,3,.000,5,5,10,1,1,3,0,3,10,12.1,+11,Scot Pollard
+2004-11-05,29-267,IND,AWAY,BOS,W (+6),1,18:16,1,2,.500,0,0,,2,2,1.000,2,5,7,0,1,0,3,1,4,3.5,-7,Scot Pollard
+2004-11-06,29-268,IND,HOME,CHI,W (+10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2004-11-09,29-271,IND,AWAY,MIN,W (+1),1,24:59,3,6,.500,0,0,,2,2,1.000,8,3,11,1,0,0,2,4,8,8.6,+7,Scot Pollard
+2004-11-10,29-272,IND,HOME,LAC,L (-34),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2004-11-12,29-274,IND,AWAY,PHI,L (-2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2004-11-13,29-275,IND,HOME,NYK,W (+6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2004-11-17,29-279,IND,HOME,ATL,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2004-11-19,29-281,IND,AWAY,DET,W (+15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2004-11-23,29-285,IND,HOME,BOS,W (+10),0,25:05,4,8,.500,0,0,,4,4,1.000,3,3,6,1,1,2,2,3,12,10.9,+16,Scot Pollard
+2004-11-25,29-287,IND,HOME,MIN,W (+4),0,30:59,6,13,.462,0,0,,1,1,1.000,3,1,4,2,3,1,3,5,13,8.8,+4,Scot Pollard
+2004-11-26,29-288,IND,HOME,CHA,W (+5),1,15:09,2,5,.400,0,0,,0,0,,3,1,4,0,1,0,0,2,4,3.9,+3,Scot Pollard
+2004-12-01,29-293,IND,AWAY,LAC,L (-12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2005-01-14,29-337,IND,HOME,PHO,W (+18),0,16:00,3,5,.600,0,0,,0,0,,4,3,7,1,0,0,1,5,6,5.1,-6,Scot Pollard
+2005-01-15,29-338,IND,HOME,ORL,L (-1),0,15:11,1,4,.250,0,0,,0,0,,2,1,3,1,0,1,1,4,2,0.1,-2,Scot Pollard
+2005-01-18,29-341,IND,AWAY,HOU,W (+13),0,25:25,0,1,.000,0,0,,0,2,.000,0,4,4,0,0,0,0,6,0,-2.7,+3,Scot Pollard
+2005-01-21,29-344,IND,AWAY,MIA,W (+6),1,35:36,4,9,.444,0,0,,0,0,,4,5,9,1,2,0,0,5,8,8.3,+8,Scot Pollard
+2005-01-22,29-345,IND,HOME,WAS,L (-2),0,21:53,2,4,.500,0,0,,2,2,1.000,4,3,7,1,0,1,1,4,6,6.5,+4,Scot Pollard
+2005-01-26,29-349,IND,AWAY,BOS,L (-14),0,15:37,2,2,1.000,0,0,,2,3,.667,1,5,6,0,1,0,0,2,6,7.4,-12,Scot Pollard
+2005-01-27,29-350,IND,HOME,DET,L (-12),0,7:50,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-9,Scot Pollard
+2005-01-29,29-352,IND,HOME,DEN,L (-7),0,17:51,3,5,.600,0,0,,0,0,,4,2,6,0,1,2,0,1,6,9.1,-14,Scot Pollard
+2005-01-31,29-354,IND,AWAY,PHI,L (-1),0,23:06,2,5,.400,0,0,,2,2,1.000,3,2,5,1,0,2,1,4,6,5.5,-3,Scot Pollard
+2005-02-02,29-356,IND,HOME,TOR,L (-1),1,14:29,1,4,.250,0,0,,2,2,1.000,1,2,3,0,0,3,2,4,4,1.4,0,Scot Pollard
+2005-02-04,29-358,IND,HOME,DAL,W (+1),0,16:49,1,1,1.000,0,0,,0,0,,1,0,1,0,1,0,0,4,2,1.8,-7,Scot Pollard
+2005-02-05,29-359,IND,AWAY,ATL,W (+5),0,10:55,0,0,,0,0,,1,1,1.000,0,4,4,0,0,0,0,0,1,2.2,+9,Scot Pollard
+2005-02-07,29-361,IND,AWAY,WAS,L (-4),0,8:59,1,1,1.000,0,0,,0,0,,1,1,2,0,1,0,0,1,2,3.3,-8,Scot Pollard
+2005-02-09,29-363,IND,HOME,CHA,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2005-02-11,29-365,IND,HOME,HOU,L (-8),0,11:55,0,1,.000,0,0,,0,0,,0,1,1,0,1,0,0,2,0,-0.2,+3,Scot Pollard
+2005-02-13,30-001,IND,HOME,MEM,W (+3),0,10:10,0,0,,0,0,,0,0,,1,1,2,0,0,0,1,0,0,0.0,+2,Scot Pollard
+2005-02-16,30-004,IND,HOME,POR,W (+8),0,9:23,0,0,,0,0,,0,0,,1,0,1,0,1,0,0,0,0,1.7,-3,Scot Pollard
+2005-02-25,30-013,IND,HOME,CLE,W (+24),1,21:40,3,4,.750,0,0,,0,0,,3,5,8,0,0,0,1,5,6,5.0,+17,Scot Pollard
+2005-02-26,30-014,IND,AWAY,NYK,L (-11),1,21:37,2,3,.667,0,0,,0,0,,1,2,3,2,0,0,1,1,4,4.0,+3,Scot Pollard
+2005-03-01,30-017,IND,HOME,SEA,L (-8),1,23:21,0,3,.000,0,0,,0,2,.000,2,1,3,0,1,2,1,2,0,-0.6,-1,Scot Pollard
+2005-03-03,30-019,IND,AWAY,DEN,L (-9),0,16:52,1,4,.250,0,0,,3,4,.750,3,5,8,0,1,2,0,2,5,7.4,+15,Scot Pollard
+2005-03-04,30-020,IND,AWAY,POR,W (+9),0,19:15,1,3,.333,0,0,,0,0,,1,2,3,0,2,0,1,2,2,1.8,+1,Scot Pollard
+2005-03-06,30-022,IND,AWAY,LAL,L (-9),0,6:28,0,1,.000,0,0,,0,0,,0,2,2,1,0,0,1,1,0,-0.8,-2,Scot Pollard
+2005-03-08,30-024,IND,AWAY,UTA,W (+6),0,10:02,1,1,1.000,0,0,,0,0,,0,1,1,0,1,1,0,4,2,2.1,-16,Scot Pollard
+2005-03-11,30-027,IND,HOME,GSW,W (+18),0,17:33,2,4,.500,0,0,,1,1,1.000,1,1,2,0,2,0,1,0,5,5.0,+8,Scot Pollard
+2005-03-13,30-029,IND,AWAY,CLE,L (-12),1,29:42,3,5,.600,0,0,,0,1,.000,2,7,9,0,0,1,1,5,6,4.5,+2,Scot Pollard
+2005-03-16,30-032,IND,HOME,UTA,W (+19),0,13:49,0,0,,0,0,,3,4,.750,0,2,2,0,0,0,0,1,3,2.8,+1,Scot Pollard
+2005-03-18,30-034,IND,HOME,LAL,W (+6),0,5:16,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+2,Scot Pollard
+2005-03-20,30-036,IND,HOME,NJN,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Scot Pollard
+2005-03-22,30-038,IND,AWAY,NJN,L (-7),0,9:29,0,1,.000,0,0,,0,0,,0,2,2,0,1,0,1,1,0,-0.5,+1,Scot Pollard
+2005-03-23,30-039,IND,HOME,SAS,W (+7),0,9:46,0,0,,0,0,,0,0,,2,2,4,0,0,0,1,4,0,-0.6,+8,Scot Pollard
+2005-03-25,30-041,IND,AWAY,DET,W (+13),0,15:02,0,1,.000,0,0,,1,2,.500,0,3,3,0,0,0,0,1,1,0.4,+13,Scot Pollard
+2005-03-26,30-042,IND,AWAY,CHI,L (-4),0,20:21,3,3,1.000,0,0,,1,1,1.000,1,4,5,1,1,1,0,3,7,9.2,+7,Scot Pollard
+2005-03-28,30-044,IND,AWAY,MIL,W (+14),0,22:49,4,8,.500,0,0,,0,0,,3,2,5,0,0,1,0,4,8,5.8,-8,Scot Pollard
+2005-03-31,30-047,IND,HOME,MIA,W (+6),1,31:17,1,4,.250,0,0,,1,1,1.000,3,4,7,1,3,0,1,4,3,5.0,+11,Scot Pollard
+2005-04-03,30-050,IND,AWAY,WAS,W (+3),1,16:51,2,4,.500,0,0,,2,2,1.000,1,2,3,0,0,0,1,1,6,3.9,-4,Scot Pollard
+2005-04-05,30-052,IND,AWAY,NYK,W (+18),1,22:45,3,8,.375,0,0,,2,2,1.000,5,5,10,0,1,0,0,4,8,8.0,+9,Scot Pollard
+2005-04-06,30-053,IND,HOME,CLE,W (+21),1,15:13,4,8,.500,0,0,,1,1,1.000,3,3,6,0,0,1,2,3,9,5.5,+4,Scot Pollard
+2005-04-08,30-055,IND,HOME,WAS,W (+10),0,28:40,1,2,.500,0,0,,0,0,,1,6,7,0,1,0,0,4,2,2.9,+8,Scot Pollard
+2005-04-10,30-057,IND,HOME,NYK,L (-1),1,19:04,0,2,.000,0,0,,0,0,,0,1,1,2,0,0,0,1,0,-0.1,-4,Scot Pollard
+2005-04-11,30-058,IND,AWAY,TOR,W (+4),0,10:14,3,4,.750,0,0,,0,0,,1,0,1,0,0,0,0,2,6,4.3,+3,Scot Pollard
+2005-04-13,30-060,IND,HOME,NJN,W (+4),1,5:11,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,1,2,2,0.2,-2,Scot Pollard
+2005-04-15,30-062,IND,HOME,PHI,L (-4),0,6:36,1,2,.500,0,0,,0,0,,0,1,1,0,0,0,0,1,2,0.9,+10,Scot Pollard
+2005-04-17,30-064,IND,AWAY,MIA,L (-4),1,24:01,2,5,.400,0,0,,0,4,.000,1,4,5,0,0,0,0,3,4,0.4,-4,Scot Pollard
+2005-04-20,30-067,IND,HOME,CHI,W (+2),0,3:26,0,1,.000,0,0,,0,0,,0,0,0,1,1,0,0,1,0,0.6,+4,Scot Pollard

@@ -1,0 +1,144 @@
+DATE,AGE,TEAM,HOME/AWAY,OPPONENT,RESULT,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GAME_SCORE,+/-,PLAYER
+2001-10-30,26-361,DEN,AWAY,PHO,W (+3),1,31:21,4,14,.286,0,1,.000,5,6,.833,4,3,7,1,2,1,2,1,13,9.1,+2,Tariq Abdul-Wahad
+2001-11-01,26-363,DEN,HOME,MIL,L (-1),1,31:12,2,6,.333,1,1,1.000,2,2,1.000,2,1,3,2,2,0,1,5,7,5.7,-11,Tariq Abdul-Wahad
+2001-11-03,27-000,DEN,HOME,SAC,L (-12),1,25:18,3,11,.273,0,0,,0,0,,3,2,5,0,1,0,2,2,6,0.4,-10,Tariq Abdul-Wahad
+2001-11-06,27-003,DEN,AWAY,HOU,L (-6),1,15:31,3,7,.429,0,0,,0,0,,0,1,1,1,1,0,0,1,6,3.9,-2,Tariq Abdul-Wahad
+2001-11-08,27-005,DEN,AWAY,DAL,L (-14),1,20:22,2,8,.250,0,0,,2,3,.667,3,0,3,0,0,0,2,4,6,-0.7,-18,Tariq Abdul-Wahad
+2001-11-09,27-006,DEN,HOME,HOU,W (+27),1,27:28,2,6,.333,0,0,,0,1,.000,2,1,3,3,0,2,2,3,4,2.2,+15,Tariq Abdul-Wahad
+2001-11-11,27-008,DEN,HOME,TOR,W (+11),1,18:49,5,11,.455,0,0,,2,2,1.000,7,1,8,2,0,0,1,4,12,10.3,+1,Tariq Abdul-Wahad
+2001-11-13,27-010,DEN,HOME,CHI,W (+8),1,17:16,6,10,.600,0,0,,0,0,,1,3,4,0,0,0,1,2,12,7.2,+1,Tariq Abdul-Wahad
+2001-11-15,27-012,DEN,HOME,ORL,L (-19),1,17:03,1,9,.111,0,0,,1,3,.333,2,0,2,1,1,0,1,3,3,-2.8,-10,Tariq Abdul-Wahad
+2001-11-17,27-014,DEN,AWAY,SEA,W (+10),1,39:57,2,4,.500,0,0,,1,1,1.000,1,7,8,1,1,2,1,4,5,6.3,+14,Tariq Abdul-Wahad
+2001-11-19,27-016,DEN,HOME,NJN,W (+3),1,39:17,5,11,.455,0,0,,2,4,.500,3,1,4,3,3,1,1,3,12,11.5,+4,Tariq Abdul-Wahad
+2001-11-21,27-018,DEN,HOME,LAL,L (-21),1,13:46,1,6,.167,0,0,,0,0,,2,1,3,1,0,1,1,1,2,-0.1,-12,Tariq Abdul-Wahad
+2002-02-01,27-090,DEN,AWAY,SAC,L (-36),0,13:29,3,9,.333,0,0,,3,4,.750,1,4,5,1,1,0,1,3,9,4.9,-10,Tariq Abdul-Wahad
+2002-02-05,27-094,DEN,HOME,POR,W (+1),0,15:03,1,3,.333,0,0,,0,0,,0,5,5,2,0,1,2,2,2,1.1,+11,Tariq Abdul-Wahad
+2002-02-12,27-101,DEN,HOME,BOS,L (-17),0,12:32,1,4,.250,0,0,,2,2,1.000,2,1,3,1,1,0,1,3,4,2.8,-7,Tariq Abdul-Wahad
+2002-02-14,27-103,DEN,AWAY,MEM,W (+15),0,19:44,6,6,1.000,0,0,,0,0,,1,2,3,0,4,1,1,6,12,12.8,+23,Tariq Abdul-Wahad
+2002-02-15,27-104,DEN,AWAY,MIN,W (+1),0,8:43,1,2,.500,0,0,,0,0,,0,0,0,0,0,0,0,1,2,0.6,-3,Tariq Abdul-Wahad
+2002-02-17,27-106,DEN,AWAY,NJN,L (-21),0,23:56,5,10,.500,0,0,,4,4,1.000,1,3,4,0,0,0,1,1,14,9.2,-10,Tariq Abdul-Wahad
+2002-02-18,27-107,DEN,AWAY,PHI,L (-27),0,16:43,1,5,.200,0,0,,0,0,,3,2,5,2,0,0,1,2,2,1.2,-21,Tariq Abdul-Wahad
+2002-02-20,27-109,DEN,HOME,UTA,L (-11),0,11:07,1,3,.333,0,0,,0,0,,1,1,2,1,1,0,2,0,2,1.0,-10,Tariq Abdul-Wahad
+2002-02-21,27-110,DAL,HOME,BOS,W (+6),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Tariq Abdul-Wahad
+2002-02-23,27-112,DAL,HOME,SAC,W (+14),0,6:23,0,1,.000,0,0,,0,0,,1,0,1,0,0,0,1,3,0,-2.2,-5,Tariq Abdul-Wahad
+2002-02-26,27-115,DAL,HOME,MEM,W (+13),0,7:49,0,0,,0,0,,0,1,.000,0,2,2,0,1,0,1,0,0,0.2,-5,Tariq Abdul-Wahad
+2002-03-02,27-119,DAL,HOME,MIA,L (-14),0,7:51,0,1,.000,0,0,,0,0,,0,1,1,2,1,1,1,1,0,1.3,+9,Tariq Abdul-Wahad
+2002-03-03,27-120,DAL,AWAY,DEN,W (+6),0,1:45,0,0,,0,0,,0,0,,1,1,2,0,0,0,0,1,0,0.6,+1,Tariq Abdul-Wahad
+2000-11-01,25-364,DEN,AWAY,SEA,L (-13),1,21:31,1,2,.500,0,0,,1,2,.500,0,1,1,2,1,0,0,1,3,3.9,-4,Tariq Abdul-Wahad
+2000-11-02,25-365,DEN,HOME,GSW,W (+4),1,28:50,5,9,.556,0,0,,5,7,.714,1,6,7,0,1,3,3,2,15,11.7,+11,Tariq Abdul-Wahad
+2000-11-04,26-001,DEN,HOME,PHO,L (-3),1,20:49,3,4,.750,0,1,.000,3,4,.750,0,1,1,0,3,2,2,2,9,8.9,+9,Tariq Abdul-Wahad
+2000-11-06,26-003,DEN,HOME,DAL,L (-12),1,21:52,1,5,.200,0,0,,0,0,,1,1,2,4,0,1,2,3,2,0.2,+8,Tariq Abdul-Wahad
+2000-11-08,26-005,DEN,HOME,MIN,W (+2),1,12:29,2,3,.667,0,0,,0,0,,0,0,0,1,0,0,0,1,4,3.0,-16,Tariq Abdul-Wahad
+2000-11-09,26-006,DEN,AWAY,POR,L (-16),1,21:16,2,4,.500,1,1,1.000,0,0,,0,1,1,1,0,1,3,2,5,0.9,-5,Tariq Abdul-Wahad
+2000-11-12,26-009,DEN,HOME,LAC,W (+16),1,18:53,3,7,.429,0,0,,1,2,.500,1,2,3,0,2,0,1,1,7,4.8,+1,Tariq Abdul-Wahad
+2000-11-14,26-011,DEN,AWAY,LAL,L (-16),1,20:04,3,6,.500,2,3,.667,3,4,.750,1,3,4,2,1,1,0,1,11,11.9,-8,Tariq Abdul-Wahad
+2000-11-16,26-013,DEN,HOME,CHI,W (+4),1,24:21,3,6,.500,0,0,,0,0,,1,2,3,3,0,0,2,5,6,2.4,-8,Tariq Abdul-Wahad
+2000-11-18,26-015,DEN,HOME,LAL,W (+1),1,14:12,0,1,.000,0,0,,0,0,,1,3,4,1,0,0,2,4,0,-2.0,+5,Tariq Abdul-Wahad
+2000-11-20,26-017,DEN,AWAY,VAN,W (+3),1,23:42,4,8,.500,0,0,,1,2,.500,0,4,4,1,1,0,1,2,9,5.7,+1,Tariq Abdul-Wahad
+2000-11-22,26-019,DEN,AWAY,UTA,L (-38),1,17:33,2,5,.400,0,1,.000,0,0,,1,3,4,1,1,0,3,3,4,0.4,-19,Tariq Abdul-Wahad
+2000-11-24,26-021,DEN,HOME,SAS,W (+10),0,11:59,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,1,1,2,0.6,-10,Tariq Abdul-Wahad
+2000-11-25,26-022,DEN,AWAY,DAL,L (-24),0,10:12,0,3,.000,0,1,.000,0,0,,1,3,4,1,0,0,0,1,0,-0.2,-9,Tariq Abdul-Wahad
+2000-11-29,26-026,DEN,AWAY,MIN,W (+7),0,4:05,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-2.1,-8,Tariq Abdul-Wahad
+2000-11-30,26-027,DEN,HOME,HOU,L (-4),0,19:58,5,12,.417,0,1,.000,0,0,,1,1,2,0,1,0,2,1,10,3.2,-1,Tariq Abdul-Wahad
+2000-12-02,26-029,DEN,HOME,SEA,W (+11),0,8:21,1,6,.167,0,0,,0,0,,1,2,3,0,0,2,0,1,2,0.5,+3,Tariq Abdul-Wahad
+2000-12-04,26-031,DEN,HOME,PHI,W (+7),0,9:41,0,1,.000,0,0,,0,0,,0,0,0,1,1,1,3,3,0,-2.5,+5,Tariq Abdul-Wahad
+2000-12-06,26-033,DEN,AWAY,MIA,L (-17),0,15:56,0,2,.000,0,0,,0,0,,0,1,1,0,0,0,2,3,0,-4.3,-20,Tariq Abdul-Wahad
+2000-12-09,26-036,DEN,AWAY,NYK,L (-8),0,18:09,2,5,.400,0,0,,0,3,.000,1,0,1,1,1,1,0,2,4,2.4,-7,Tariq Abdul-Wahad
+2000-12-12,26-039,DEN,HOME,MIA,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tariq Abdul-Wahad
+2000-12-16,26-043,DEN,AWAY,HOU,W (+2),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Tariq Abdul-Wahad
+2001-01-17,26-075,DEN,HOME,VAN,W (+24),0,12:00,1,3,.333,1,1,1.000,4,4,1.000,0,1,1,2,0,0,0,2,7,6.2,+6,Tariq Abdul-Wahad
+2001-01-19,26-077,DEN,HOME,CLE,W (+3),0,9:13,0,2,.000,0,0,,2,4,.500,0,2,2,0,0,0,0,1,2,0.0,+2,Tariq Abdul-Wahad
+2001-01-20,26-078,DEN,AWAY,DAL,L (-18),0,2:43,0,0,,0,0,,0,0,,0,1,1,0,1,0,1,0,0,0.3,-3,Tariq Abdul-Wahad
+2001-01-25,26-083,DEN,AWAY,UTA,L (-2),0,6:15,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,2,1,2,-0.4,+4,Tariq Abdul-Wahad
+2001-01-27,26-085,DEN,HOME,DAL,W (+2),0,12:02,1,7,.143,0,1,.000,1,2,.500,2,2,4,0,0,0,0,3,3,-1.1,+5,Tariq Abdul-Wahad
+2001-02-13,26-102,DEN,HOME,NYK,W (+19),0,8:17,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,4,0,-2.3,-11,Tariq Abdul-Wahad
+2001-02-16,26-105,DEN,AWAY,SAC,L (-33),0,10:52,1,3,.333,0,0,,0,0,,1,1,2,0,0,0,1,2,2,-0.5,-13,Tariq Abdul-Wahad
+2001-02-21,26-110,DEN,AWAY,SEA,L (-29),0,12:00,1,4,.250,0,0,,0,2,.000,0,0,0,1,0,1,1,1,2,-1.2,-2,Tariq Abdul-Wahad
+2001-02-28,26-117,DEN,HOME,LAL,W (+6),0,3:28,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,0.3,-9,Tariq Abdul-Wahad
+2001-03-02,26-119,DEN,HOME,MIN,L (-18),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tariq Abdul-Wahad
+2003-03-14,28-131,DAL,AWAY,GSW,W (+2),0,4:56,1,3,.333,0,0,,0,0,,2,1,3,1,0,0,0,0,2,2.7,-1,Tariq Abdul-Wahad
+2003-03-16,28-133,DAL,AWAY,SAC,W (+6),0,4:26,1,2,.500,0,0,,0,0,,2,0,2,1,1,0,0,2,2,3.3,0,Tariq Abdul-Wahad
+2003-03-18,28-135,DAL,HOME,CLE,W (+21),0,11:32,1,4,.250,0,0,,0,0,,0,2,2,2,0,0,1,2,2,-0.2,-6,Tariq Abdul-Wahad
+2003-03-24,28-141,DAL,AWAY,DEN,W (+12),0,16:44,2,3,.667,0,0,,0,0,,0,4,4,1,0,1,1,1,4,3.9,+9,Tariq Abdul-Wahad
+2003-03-26,28-143,DAL,AWAY,LAC,W (+7),0,5:56,0,1,.000,0,0,,0,0,,1,0,1,0,0,0,1,1,0,-1.4,-9,Tariq Abdul-Wahad
+2003-03-28,28-145,DAL,AWAY,POR,L (-17),0,30:00,6,13,.462,0,1,.000,0,0,,2,6,8,2,1,0,0,3,12,9.7,+7,Tariq Abdul-Wahad
+2003-03-30,28-147,DAL,AWAY,MIN,W (+24),0,25:28,5,8,.625,0,0,,0,2,.000,1,3,4,6,1,1,0,4,10,11.5,+27,Tariq Abdul-Wahad
+2003-04-01,28-149,DAL,HOME,NOH,W (+9),0,20:51,2,5,.400,0,0,,2,2,1.000,3,2,5,0,1,1,0,1,6,7.3,+3,Tariq Abdul-Wahad
+2003-04-03,28-151,DAL,HOME,LAL,L (-11),0,18:51,2,2,1.000,0,0,,0,0,,2,2,4,1,2,0,1,1,4,6.7,-5,Tariq Abdul-Wahad
+2003-04-05,28-153,DAL,HOME,ORL,W (+18),0,18:12,4,9,.444,0,0,,0,0,,0,4,4,0,0,0,0,0,8,4.5,+6,Tariq Abdul-Wahad
+2003-04-08,28-156,DAL,AWAY,LAL,L (-9),0,13:37,0,0,,0,0,,0,0,,0,0,0,4,0,0,1,4,0,0.2,+3,Tariq Abdul-Wahad
+2003-04-09,28-157,DAL,AWAY,PHO,L (-23),0,19:14,2,5,.400,0,0,,1,2,.500,1,1,2,1,0,0,2,1,5,1.2,-8,Tariq Abdul-Wahad
+2003-04-11,28-159,DAL,AWAY,UTA,L (-3),0,8:54,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,4,2,0.1,0,Tariq Abdul-Wahad
+2003-04-14,28-162,DAL,HOME,SEA,W (+3),0,4:55,0,2,.000,0,0,,0,0,,0,1,1,2,0,0,0,2,0,-0.5,-7,Tariq Abdul-Wahad
+1999-11-02,24-364,ORL,AWAY,CHH,L (-14),1,19:34,2,7,.286,0,0,,0,0,,2,2,4,0,0,0,2,1,4,-0.5,-15,Tariq Abdul-Wahad
+1999-11-03,25-000,ORL,HOME,DET,W (+9),1,28:14,5,18,.278,0,2,.000,2,3,.667,5,6,11,3,1,0,6,2,12,2.6,+7,Tariq Abdul-Wahad
+1999-11-05,25-002,ORL,HOME,CLE,L (-5),1,32:54,8,16,.500,1,3,.333,3,4,.750,4,4,8,0,0,0,2,1,20,13.2,+4,Tariq Abdul-Wahad
+1999-11-06,25-003,ORL,AWAY,WAS,W (+3),1,32:41,5,8,.625,0,2,.000,4,6,.667,3,5,8,2,0,2,1,4,14,13.4,+7,Tariq Abdul-Wahad
+1999-11-08,25-005,ORL,AWAY,HOU,W (+5),1,30:13,4,12,.333,0,0,,2,2,1.000,1,5,6,1,2,1,0,2,10,8.0,+11,Tariq Abdul-Wahad
+1999-11-10,25-007,ORL,HOME,PHI,W (+5),1,21:02,6,10,.600,0,1,.000,2,2,1.000,0,5,5,3,0,1,0,1,14,13.3,+20,Tariq Abdul-Wahad
+1999-11-11,25-008,ORL,AWAY,IND,L (-15),1,27:39,2,8,.250,0,0,,0,0,,2,3,5,1,0,0,4,4,4,-3.4,-16,Tariq Abdul-Wahad
+1999-11-13,25-010,ORL,AWAY,DAL,L (-8),1,37:23,6,10,.600,0,0,,0,0,,1,1,2,3,1,0,1,6,12,8.1,-12,Tariq Abdul-Wahad
+1999-11-17,25-014,ORL,HOME,POR,L (-2),1,24:21,4,15,.267,1,3,.333,0,0,,2,7,9,0,1,0,1,2,9,2.8,-1,Tariq Abdul-Wahad
+1999-11-19,25-016,ORL,HOME,CHH,L (-11),1,20:29,5,9,.556,0,0,,2,2,1.000,1,4,5,0,0,0,3,3,12,5.4,+7,Tariq Abdul-Wahad
+1999-11-20,25-017,ORL,AWAY,ATL,W (+4),1,32:55,5,10,.500,0,0,,2,2,1.000,0,2,2,3,2,1,0,2,12,11.6,-2,Tariq Abdul-Wahad
+1999-11-24,25-021,ORL,HOME,DAL,W (+12),1,25:53,7,9,.778,0,0,,2,4,.500,2,0,2,1,6,0,4,5,16,13.8,+12,Tariq Abdul-Wahad
+1999-11-27,25-024,ORL,AWAY,NYK,L (-3),1,32:58,6,17,.353,0,4,.000,0,0,,1,7,8,1,0,0,1,3,12,3.8,-3,Tariq Abdul-Wahad
+1999-11-28,25-025,ORL,AWAY,DET,W (+9),1,35:59,7,17,.412,0,2,.000,2,2,1.000,2,3,5,3,3,0,1,4,16,11.7,+14,Tariq Abdul-Wahad
+1999-11-30,25-027,ORL,HOME,SAC,L (-9),1,24:32,6,12,.500,0,1,.000,0,2,.000,1,4,5,0,1,0,1,2,12,6.3,-6,Tariq Abdul-Wahad
+1999-12-02,25-029,ORL,AWAY,MIN,W (+10),1,21:13,5,11,.455,0,0,,2,2,1.000,0,3,3,0,2,0,1,3,12,7.0,+12,Tariq Abdul-Wahad
+1999-12-03,25-030,ORL,AWAY,DEN,W (+12),1,16:52,5,6,.833,0,0,,1,2,.500,1,2,3,0,0,0,3,3,11,5.5,0,Tariq Abdul-Wahad
+1999-12-05,25-032,ORL,AWAY,LAL,L (-17),1,26:43,2,10,.200,0,1,.000,4,4,1.000,0,7,7,0,3,0,2,4,8,3.3,-13,Tariq Abdul-Wahad
+1999-12-07,25-034,ORL,AWAY,PHO,L (-3),1,17:33,2,6,.333,0,0,,1,2,.500,1,2,3,0,1,1,2,2,5,1.4,+10,Tariq Abdul-Wahad
+1999-12-11,25-038,ORL,HOME,CHI,W (+21),1,18:50,1,4,.250,0,0,,2,2,1.000,1,0,1,4,0,0,3,1,4,1.7,-8,Tariq Abdul-Wahad
+1999-12-15,25-042,ORL,HOME,MIL,L (-17),1,21:36,5,11,.455,0,0,,5,6,.833,1,1,2,2,1,0,1,1,15,10.9,-18,Tariq Abdul-Wahad
+1999-12-17,25-044,ORL,HOME,TOR,W (+14),1,21:51,2,8,.250,0,1,.000,3,4,.750,0,4,4,1,1,1,0,2,7,4.6,+6,Tariq Abdul-Wahad
+1999-12-18,25-045,ORL,AWAY,CHI,W (+9),1,28:00,2,10,.200,0,0,,5,6,.833,4,5,9,1,1,0,0,2,9,7.6,+2,Tariq Abdul-Wahad
+1999-12-20,25-047,ORL,HOME,UTA,W (+2),1,33:02,4,7,.571,0,0,,6,8,.750,1,1,2,4,3,0,1,3,14,14.5,+2,Tariq Abdul-Wahad
+1999-12-22,25-049,ORL,AWAY,CLE,W (+6),1,16:24,4,9,.444,0,0,,0,0,,0,1,1,2,0,0,1,5,8,2.0,+1,Tariq Abdul-Wahad
+1999-12-23,25-050,ORL,AWAY,CHH,W (+4),1,28:59,2,7,.286,0,0,,0,0,,1,9,10,3,0,1,1,3,4,3.9,+21,Tariq Abdul-Wahad
+1999-12-27,25-054,ORL,HOME,MIN,L (-2),1,20:03,6,11,.545,0,0,,4,6,.667,2,6,8,1,2,0,0,1,16,15.4,-11,Tariq Abdul-Wahad
+1999-12-29,25-056,ORL,HOME,MIA,L (-3),1,34:28,9,16,.563,0,0,,3,7,.429,1,5,6,1,2,1,1,5,21,14.4,-8,Tariq Abdul-Wahad
+1999-12-30,25-057,ORL,AWAY,NJN,L (-10),1,34:43,7,16,.438,0,0,,4,6,.667,6,11,17,3,1,0,4,1,18,15.0,-4,Tariq Abdul-Wahad
+2000-01-02,25-060,ORL,AWAY,MIA,L (-8),1,39:56,7,20,.350,0,0,,8,8,1.000,4,5,9,1,1,0,5,4,22,10.2,-15,Tariq Abdul-Wahad
+2000-01-03,25-061,ORL,HOME,DET,L (-12),1,18:33,5,10,.500,0,0,,1,2,.500,1,4,5,2,1,1,2,3,11,7.4,-21,Tariq Abdul-Wahad
+2000-01-05,25-063,ORL,HOME,VAN,W (+20),1,21:46,5,10,.500,0,0,,7,8,.875,4,2,6,4,0,0,1,4,17,15.2,+7,Tariq Abdul-Wahad
+2000-01-07,25-065,ORL,HOME,NYK,L (-8),1,24:16,4,15,.267,0,0,,1,2,.500,3,2,5,3,2,0,3,2,9,2.7,-10,Tariq Abdul-Wahad
+2000-01-08,25-066,ORL,AWAY,SAS,L (-35),1,12:25,0,4,.000,0,0,,2,2,1.000,0,0,0,0,0,0,1,0,2,-1.8,-30,Tariq Abdul-Wahad
+2000-01-10,25-068,ORL,HOME,NJN,L (-6),1,23:48,1,7,.143,0,0,,0,0,,0,2,2,2,1,0,1,1,2,-0.9,-7,Tariq Abdul-Wahad
+2000-01-12,25-070,ORL,AWAY,TOR,L (-6),1,29:13,7,12,.583,0,0,,9,10,.900,1,2,3,1,0,0,4,0,23,15.0,+5,Tariq Abdul-Wahad
+2000-01-14,25-072,ORL,AWAY,PHI,L (-2),1,15:29,4,8,.500,0,0,,1,2,.500,1,0,1,0,0,0,2,0,9,3.3,-4,Tariq Abdul-Wahad
+2000-01-15,25-073,ORL,HOME,IND,L (-7),1,34:12,9,15,.600,0,0,,0,0,,1,5,6,2,1,1,2,2,18,13.6,+5,Tariq Abdul-Wahad
+2000-01-17,25-075,ORL,AWAY,GSW,L (-13),1,34:38,6,15,.400,0,0,,7,8,.875,1,2,3,2,0,2,3,2,19,10.8,-7,Tariq Abdul-Wahad
+2000-01-20,25-078,ORL,AWAY,SAC,L (-8),1,19:50,2,11,.182,0,0,,2,2,1.000,3,2,5,2,3,0,1,4,6,3.6,+6,Tariq Abdul-Wahad
+2000-01-22,25-080,ORL,AWAY,VAN,W (+3),1,25:14,8,16,.500,0,0,,0,0,,4,1,5,2,1,0,1,1,16,12.1,+7,Tariq Abdul-Wahad
+2000-01-23,25-081,ORL,AWAY,LAC,W (+13),1,25:35,6,10,.600,0,0,,3,6,.500,0,3,3,0,1,1,1,2,15,10.0,+9,Tariq Abdul-Wahad
+2000-01-26,25-084,ORL,HOME,BOS,W (+22),1,29:22,7,12,.583,0,0,,5,5,1.000,1,6,7,0,2,0,3,3,19,13.7,+23,Tariq Abdul-Wahad
+2000-01-27,25-085,ORL,AWAY,CLE,L (-12),1,26:54,6,14,.429,0,1,.000,5,6,.833,1,5,6,2,5,1,6,2,17,11.7,-9,Tariq Abdul-Wahad
+2000-01-29,25-087,ORL,HOME,ATL,W (+16),1,25:44,4,8,.500,0,0,,0,0,,2,4,6,3,0,0,3,4,8,4.1,0,Tariq Abdul-Wahad
+2000-01-31,25-089,ORL,HOME,PHO,L (-4),1,29:18,8,18,.444,0,0,,3,6,.500,4,2,6,3,1,1,1,4,19,13.0,-11,Tariq Abdul-Wahad
+2000-02-02,25-091,DEN,HOME,MIL,W (+23),0,14:20,2,6,.333,0,1,.000,3,4,.750,1,2,3,2,0,0,0,3,7,4.7,-2,Tariq Abdul-Wahad
+2000-02-04,25-093,DEN,AWAY,GSW,L (-2),0,21:20,4,6,.667,0,0,,3,4,.750,2,0,2,2,1,1,2,3,11,9.3,+1,Tariq Abdul-Wahad
+2000-02-05,25-094,DEN,HOME,MIN,L (-8),0,23:24,1,6,.167,0,0,,3,4,.750,2,1,3,1,0,1,2,1,5,1.5,-2,Tariq Abdul-Wahad
+2000-02-07,25-096,DEN,AWAY,LAL,L (-8),0,29:15,3,6,.500,0,0,,2,2,1.000,0,0,0,4,0,2,2,3,8,6.0,-6,Tariq Abdul-Wahad
+2000-02-09,25-098,DEN,HOME,SAS,L (-9),1,28:59,6,12,.500,1,1,1.000,0,0,,5,2,7,2,1,1,4,0,13,10.2,-10,Tariq Abdul-Wahad
+2000-02-10,25-099,DEN,AWAY,SAC,L (-12),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Tariq Abdul-Wahad
+2000-02-15,25-104,DEN,AWAY,MIN,W (+3),1,45:51,7,14,.500,0,0,,1,1,1.000,1,6,7,3,1,0,0,3,15,12.4,+7,Tariq Abdul-Wahad
+2000-02-17,25-106,DEN,AWAY,CLE,L (-18),1,26:39,5,9,.556,0,0,,2,2,1.000,2,0,2,1,0,0,1,4,12,7.2,-10,Tariq Abdul-Wahad
+2000-02-18,25-107,DEN,AWAY,TOR,W (+4),1,33:50,4,10,.400,0,0,,6,8,.750,1,5,6,3,0,0,1,0,14,11.1,+8,Tariq Abdul-Wahad
+2000-02-21,25-110,DEN,HOME,SAC,W (+6),1,9:57,1,5,.200,0,0,,0,0,,0,0,0,1,0,0,0,5,2,-2.4,-21,Tariq Abdul-Wahad
+2000-02-22,25-111,DEN,AWAY,PHO,L (-19),1,29:23,4,13,.308,0,0,,1,2,.500,2,1,3,0,2,0,1,1,9,3.4,+3,Tariq Abdul-Wahad
+2000-02-24,25-113,DEN,AWAY,HOU,W (+9),1,25:26,5,12,.417,0,0,,4,6,.667,3,3,6,1,0,2,1,1,14,10.5,+10,Tariq Abdul-Wahad
+2000-02-26,25-115,DEN,AWAY,DAL,L (-2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tariq Abdul-Wahad
+2000-03-01,25-119,DEN,HOME,NJN,L (-13),1,34:46,6,18,.333,0,0,,5,7,.714,3,5,8,1,0,3,2,4,17,8.8,-8,Tariq Abdul-Wahad
+2000-03-03,25-121,DEN,HOME,GSW,W (+34),1,19:32,2,8,.250,0,0,,1,2,.500,0,1,1,3,0,2,2,1,5,1.2,+18,Tariq Abdul-Wahad
+2000-03-05,25-123,DEN,HOME,CLE,L (-8),1,21:17,1,5,.200,0,0,,0,0,,2,0,2,2,1,0,1,1,2,1.3,+4,Tariq Abdul-Wahad
+2000-03-07,25-125,DEN,AWAY,IND,L (-1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tariq Abdul-Wahad
+2000-03-08,25-126,DEN,AWAY,DET,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tariq Abdul-Wahad
+2000-03-10,25-128,DEN,AWAY,MIA,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tariq Abdul-Wahad
+2000-03-11,25-129,DEN,AWAY,ORL,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tariq Abdul-Wahad
+2000-03-13,25-131,DEN,HOME,LAL,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tariq Abdul-Wahad
+2000-03-14,25-132,DEN,AWAY,LAC,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tariq Abdul-Wahad
+2000-03-17,25-135,DEN,HOME,LAC,W (+27),0,7:34,0,1,.000,0,0,,0,0,,0,2,2,0,0,0,0,1,0,-0.5,-1,Tariq Abdul-Wahad
+2000-03-21,25-139,DEN,AWAY,UTA,L (-13),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Tariq Abdul-Wahad
+2000-03-23,25-141,DEN,HOME,WAS,L (-14),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tariq Abdul-Wahad
+2000-03-24,25-142,DEN,AWAY,CHI,L (-2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Tariq Abdul-Wahad
